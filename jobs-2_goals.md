@@ -16,6 +16,14 @@ The purpose of this list is to "prime" your mind for all the things you could do
 
 The job-seeking process is stressful, so continually [manage your anxiety](mind-feelings-happiness-stress.md) throughout the experience.
 
+You'll need multiple skills to land almost any job.
+
+1. [Hunting](jobs-4_hunt.md) is a combination of [writing](language-writing.md) focused on [self-marketing](jobs-3_image.md).
+2. The [interview](jobs-5_interview.md) is a specialized form of [speaking skills](language-speaking.md) while under a type of pressure.
+   - This is difficult proportionally to having an introverted [personality](people-personality.md).
+3. The [job offer](jobs-6_negotiating.md) is a form of low-pressure [negotiation](people-conflicts-negotiation.md).
+   - This is difficult proportionally to having an agreeable [personality](people-personality.md).
+
 Take control of your career:
 
 - If you don't manage your career, others will do it for you.
@@ -181,7 +189,7 @@ Discover your core values and beliefs:
 - Look into your experiences and examine the [conflicts](people-conflicts.md) that tore your feelings up the most.
 - Keep asking, "what is my true purpose in life?" until you find something that makes you cry out of longing for it.
 
-Draw out what you want to see yourself doing in 10--20 years:
+Draw out what you want to see yourself doing in 10-20 years:
 
 - Imagine three vastly different professional fields that excite you.
 - Detail the work activities, the preferred cities, and the scope of your work's effect.

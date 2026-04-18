@@ -110,11 +110,12 @@ Take controversial advice carefully, since those things *might* be bad for you, 
 Generally, aim for enough nutrients:
 
 - Vitamin A maintains eyesight.
-- Vitamin B has many benefits.
+- Most of the B vitamins have strong benefits.
+  - Vitamin B3 (niacin) helps with cholesterol, skin health, and preventing dementia.
   - Deficiency in Vitamin B6 can cause aggression.
 - Vitamin C maintains the immune system.
 - Vitamin D combines with calcium to rebuild bones.
-  - If you're indoors most of the day, take Vitamin D3 supplements.
+  - If you're indoors most of the day, take Vitamin D3 supplements, preferably with K2 to help it deliver calcium.
 - Vitamin E has antioxidant (general health) properties, and almost anything with antioxidants is healthy (though there's not much [science](science.md) around why).
 - Electrolytes are salts that help muscles work better.
 - Focus on eating and supplementing what your body *can't* synthesize itself:
@@ -204,7 +205,7 @@ Tea and coffee has health benefits:
 
 Fruit is generally healthy:
 
-- Fruits (especially citrus, melons, and kiwifruit) have Vitamin C that increases metabolism and strengthens the immune system.
+- Fruits (especially citrus, melons, and kiwifruit) have vitamin C that increases metabolism and strengthens the immune system.
 - Avocados lower cholesterol.
 - Berries, cherries, and plums are filled with antioxidants.
 - Cranberry juice prevents bladder infections.
@@ -212,8 +213,8 @@ Fruit is generally healthy:
 
 Vegetables are rarely a bad decision:
 
-- Vegetables, especially dark green and orange ones, have Vitamin E and decrease lung cancer.
-- Vegetables like peppers, leafy vegetables, sprouts, broccoli, cabbage have tons of Vitamin C.
+- Vegetables, especially dark green and orange ones, have vitamin E and decrease lung cancer.
+- Vegetables like peppers, leafy vegetables, sprouts, broccoli, cabbage have tons of vitamin C.
 - Some vegetables like spinach, brussels sprouts, broccoli, and beets are high in antioxidants.
 - Broccoli balances the blood sugar.
 - Cabbage decreases the risk of breast cancer and ulcers.
@@ -221,7 +222,7 @@ Vegetables are rarely a bad decision:
 
 Don't neglect high-fat vegetables:
 
-- Avocados are high in monounsaturated fats and Vitamin E.
+- Avocados are high in monounsaturated fats and vitamin E.
 - Olives and olive oil has polyunsaturated fats.
 
 Consider certain herbs and seasonings:
@@ -239,7 +240,7 @@ Consider certain herbs and seasonings:
 
 Legumes can help regulate the body:
 
-- Nuts have lots of Vitamin E.
+- Nuts have lots of vitamin E.
 - Nuts like almonds, cashews, and pistachios provide monounsaturated fats that help with brain and heart health.
   - Nut oils tend to still have monounsaturated fats (rapeseed/canola oil, peanut oil).
   - Macadamia oil is very healthy.
@@ -254,14 +255,14 @@ Some meats are good for you:
 
 Dairy and eggs can be healthy:
 
-- Milk products have plenty of calcium and Vitamin E.
-- Egg yolks have lots of Vitamin E.
+- Milk products have plenty of calcium and vitamin E.
+- Egg yolks have lots of vitamin E.
 - Yogurt prevents yeast infection and has probiotics to improve digestive health.
 
 Not all grains are unhealthy:
 
 - Whole grains (with the germ included) increase testosterone output.
-- Grains have Vitamin E, especially inside the germ.
+- Grains have vitamin E, especially inside the germ.
 - Pizza decreases the risk of esophageal cancer.
 - Pinole grain (within the maize family) is particularly nutrient-rich.
 
@@ -283,7 +284,7 @@ Daily multivitamins are usually unnecessary.
 
 - If over-consumed, vitamins can be dangerous.
 - Most vitamins can't cure or help a cold, so any results are simply the [placebo effect](mind-bias.md).
-- Some specific vitamins can help certain issues (e.g., Vitamin D if indoors all the time), but they should be on an as-needed basis.
+- Some specific vitamins can help certain issues (e.g., vitamin D if indoors all the time), but they should be on an as-needed basis.
 
 Every time you eat something extremely sweet, consume fiber powder with it to prevent a "sugar crash".
 
@@ -304,8 +305,8 @@ Consider other supplements that have been scientifically proven to be beneficial
 - Phosphatidylserine: ~200 mg/day or add more fish, green leafy vegetables, soy products, and rice
 - Coenzyme Q10: a powerful antioxidant that reduces certain issues such as heart conditions, diabetes, and physical performance
 - L-theanine: 50-200 mg/day or add more green tea to your diet
-- Vitamin C: ~500 mg/day (or more if you're at risk of getting sick)
-- Vitamin E: ~100 mg, 2x/day (has a relatively short action duration of 2-4 hours)
+- vitamin C: ~500 mg/day (or more if you're at risk of getting sick)
+- vitamin E: ~100 mg, 2x/day (has a relatively short action duration of 2-4 hours)
   - Alpha-tocopherols are the most common form sold in stores, but mixed tocopherols (e.g., alpha and gamma) are more effective.
 - Magnesium: ~500 mg right before bed (helps with [sleep](sleep.md))
 

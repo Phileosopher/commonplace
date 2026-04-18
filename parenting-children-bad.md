@@ -1,11 +1,17 @@
 
 # Demonstrations of bad parenting
 
+Insufficient mother and father roles can destroy a child's psychology.
+
+- An absent father causes more damage to a child's sense of identity and self than an absent mother.
+- When a child's mother expresses hostility or distrust, children are most likely between ages 4-8 to express antisocial behavior, but can be affected all the way up to age 10.
+
 Only a few things cause the worst parenting:
 
 - Focusing on what the child is doing instead of what causes their behavior (which often expresses as an "I feel..." or "I need..." statement).
 - [Fear](mind-feelings-fear.md)-driven prevention of letting a child learn things for themselves.
 - Impatience at a child's comparatively aimless or whimsical approach to tasks.
+- Negligence in [teaching a child](parenting-children-education.md) what they need to know.
 - A narrow [cultural range](people-culture.md) from only a few caretakers (i.e, no extended family or friends babysitting).
 
 Watch for frequent discipline:
@@ -33,7 +39,7 @@ Avoid extreme passivity:
   - If neglected children don't see how busy their parents are, they'll feel unloved.
 - Trusting institutional groups more than themselves (e.g., church, school):
   - More than anything else, a child needs both parents.
-  - Even if it's inconvenient or you feel unqualified, never dismiss how much that child needs you.
+  - Even when it's inconvenient or you feel unqualified, never dismiss how much that child needs you.
 
 Don't over-control:
 
@@ -114,7 +120,7 @@ Underneath the facade, dysfunctional families share a similar attitude:
 Dysfunctional families adopt extreme roles:
 
 - They are often physically, sexually, psychologically, or emotionally abused or abusive.
-- They'll often demonstrate too much or too little sexual behavior.)
+- They'll often demonstrate too much or too little sexual behavior.
 - They'll find [addictions](addiction.md) and will lock into mental disorders:
   - Chemical dependency on drugs or alcohol
   - Compulsive eating, dieting or gambling

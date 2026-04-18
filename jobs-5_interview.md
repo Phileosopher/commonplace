@@ -3,7 +3,7 @@
 
 ## What do hiring managers and recruiters want?
 
-An interview is a [sales pitch](marketing.md) where an interviewer wants you to convince them that you're the product they want, *not* simply you begging for the opportunity to get a job.
+An interview is a [sales pitch](marketing.md) where an interviewer wants you to convince them that you're the product they want, *not* simply begging for the opportunity to get a job.
 
 To close the deal, you must fill the need in the customer's/interviewer's mind with your product:
 
@@ -72,7 +72,7 @@ For Women:
 - Match your two-piece outfits.
   - It should be fitted, but not snug.
   - Grey, dark grey, navy or black are appropriate colors.
-  - Hem the pants so the cuff doesn't drag on the floor.
+  - Hem the pants to keep the cuff from dragging on the floor.
 - Skirts should match your blazer.
   - Your skirt should completely cover your thighs when you sit down.
 - Your shirt can be a tailored blouse, a good quality knit sweater or shell under your jacket.
@@ -110,7 +110,7 @@ Understand the job description like it was yours:
 Tailor your approach to the interview style:
 
 - In-person one-on-one interviews are "conventional" interviews, and used very frequently:
-  - This interview is usually the most comfortable and personal, so relax and express yourself honestly.
+  - This interview is usually the most comfortable and personal, so relax and honestly express yourself.
 - Group interviews work through candidates more quickly than one-on-one interaction:
   - Note other candidates' responses and build on them.
 - Video interviews are long-distance through a streaming video service:
@@ -130,7 +130,8 @@ Tailor your approach to the interview style:
   - Phone interviews often take more time than you'd expect, so schedule much more time for it.
 - Test interviews prove your skills with an interactive project or written exam.
   - [Study and plan ahead](mind-memory.md) before you approach the test.
-  - Test interviews are sometimes underhanded techniques to get free work done, so leave if you suspect exploitation or it runs for more than an hour.
+  - Test interviews are sometimes underhanded techniques to get free work done, so leave if you suspect exploitation.
+    - If the test runs for more than an hour, they're likely exploiting you.
 
 Once you're there, tailor your approach to the interviewer's attitude:
 
@@ -234,7 +235,7 @@ D. Arriving:
   - Be polite and friendly to everyone you meet, from the security guard to the receptionist.
   - Patiently read company materials or a business book paperback while you wait.
   - Give a compliment on the elevator or to someone next to you.
-    - However, if you're *too* polite or friendly you might be seen as creepy.
+    - However, if you're *too* polite or friendly, they may see you as creepy.
 - Breathe, smile, and stay confident.
   - Nervousness is not the same as having no confidence.
     - Nobody can see your inner anxiety.

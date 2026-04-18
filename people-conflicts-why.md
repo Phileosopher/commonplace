@@ -49,14 +49,14 @@ Our [decision](mind-decisions.md) to make a conflict is significant because ever
 Gratitude and revenge tend to complicate conflicts:
 
 - We are grateful or vengeful when someone has done something good or bad to us in the past.
-- For this reason, we impose past experiences that may not apply to present situations.
+- For this reason, we impose experiences that may not apply to present situations.
 - The only way to stay level-headed in a conflict is to ignore both for yourself while understanding how others interpret it.
 
 Since most people are [higher agreeableness](people-personality.md), it's generally human nature to want mutually beneficial agreements with everyone. We will often [compromise](people-conflicts.md) to avoid the worst altercations. Our desire to reconcile is most of the inspiration for [cultural standards](people-culture.md) and [norms](people-boundaries.md).
 
 But, sometimes a peaceable resolution isn't possible. All we need is someone [perceiving](mind-imagination.md) a [purpose](purpose.md) of theirs that will fail or an irreplaceable [scarcity](results.md), combined with something we [imagine](mind-imagination.md) someone else can do about it, often with a [bad faith](morality-evil.md) belief of the other's intent.
 
-Usually, we avoid the conflicts around us from several base reasons:
+Usually, we avoid conflicts from several base reasons:
 
 - We're [afraid](mind-feelings-fear.md) of the [power](power.md) others may wield against us.
 - We're honoring a [principle](values.md) we [believe](understanding-certainty.md) in
@@ -124,7 +124,7 @@ The range of disagreement a person typically sits within will indicate plenty of
 6. Attacking a person means they are either [dysregulated](mind-awareness-dysregulation.md) or wish to [maintain an image](people-image-distortion.md).
 7. Blindly attacking means they feel they will lose something if they lose the argument.
 
-Conflicts don't always resolve easily, though. Sometimes, inherent [bias](mind-bias.md) in the form of [discrimination](people-discrimination.md) can destroy any chance for an expedient resolution.
+Conflicts don't always resolve easily, though. Sometimes, inherent [bias](mind-bias.md) in the form of [discrimination](hardship-discrimination.md) can destroy any chance for an expedient resolution.
 
 ## Conflict management skills
 

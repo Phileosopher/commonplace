@@ -35,6 +35,8 @@ Since **Marxism** (and **Communism**, **distributism**, **Neo-Marxism**, and **S
 
 **Mohism** contains some truths, but implies that human nature can self-conform to being more loving, which defies Christian defeatism.
 
+**Neo-Luddism** is partly true, specifically in how [technology can easily become an idol to replace God](https://gainedin.site/machines/).
+
 Christians *do* believe in a type of **reconstructivism**, but is asserted on a much more individual level in this life.
 
 ### The verdict on what's wrong with society
@@ -47,6 +49,7 @@ Possible (and useful)
 Possible (or partial)
 
 - Mohism
+- Neo-Luddism
 
 Possible (but difficult)
 
@@ -65,7 +68,7 @@ Possible (but difficult)
 
 Since Christianity leans into honoring *whatever* government is in control, many government policies are acceptable to them.
 
-- **Communalism** and **individualism** are both acceptable (as well as **communitarianism**), though Christianity leans a little bit toward individualism.
+- **Communalism** and **individualism** are both acceptable (along with **communitarianism**), though Christianity leans a little toward individualism.
 - There is a type of **liberalism** present in Christianity, though it doesn't veer into fully permitting evil and leans away from **libertarianism**.
 - Christians have a specific type of **contractarianism** that presumes God established national laws for the lawless ([1 Timothy 1:9](https://biblehub.com/1_timothy/1-9.htm)).
 - While the [modern technology trends](https://gainedin.site/machines/) advance **techno-progressivism**, Christians don't really care (with the specific exception of the "mark of the Beast" from [Revelation 13:16-17](https://biblehub.com/revelation/13.htm)).
@@ -197,7 +200,7 @@ In some ways, the **Platonic school** leans *against* most Christian thinking.
 
 **Ancient sophism** works somewhat against Christianity, since the emphasis is on how to behave and *not* on abstracted virtue alone.
 
-### The verdict on on philosophy's culture
+### The verdict on philosophy's culture
 
 True
 

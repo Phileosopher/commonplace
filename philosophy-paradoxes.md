@@ -153,7 +153,7 @@ Epimenides' Paradox Remix:
 
 ## Omphalos/Five-Minute Hypothesis
 
-If the world had been formed five minutes ago, with everything fully grown and looking as if it were aged, as well as everyone being created with memories and documents of historically recorded things, would there be any way to prove that the world was only five minutes old?
+If the world had been formed five minutes ago, with everything fully grown and looking as if it were aged, as well as everyone created with memories and documents of historically recorded things, would there be any way to prove that the world was only five minutes old?
 
 ## Lottery Paradox
 
@@ -193,8 +193,8 @@ There is a condition that creates several situations:
 
 1. Two people are isolated and can't communicate. Both their decisions together create the consequences.
 2. If both Person A and B make a self-interested decision, they'll both suffer heavily.
-3. If one person makes a self-interested decision and the other makes a selfless decision, the self-interested one doesn't suffer and the selfless one suffers the most severely.
-4. If both people behave selflessly, they both will suffer a little bit.
+3. If one person makes a self-interested decision and the other makes a selfless decision, the self-interested one doesn't suffer, and the selfless one suffers the most severely.
+4. If both people behave selflessly, they both will barely suffer.
 
 In light of this, what is the best decision to take, and why?
 
@@ -235,7 +235,7 @@ If you're looking at a field and see what appears to be a sheep, but that sheep 
 
 Now, what if you're certainly not seeing a sheep, but there's an actual sheep behind that fake sheep that you can't see. Is your statement "I see a sheep" still true?
 
-What if you think you see a barn, and it is, in fact, a barn's facade, but it's not a barn but there's a barn behind the facade. Would your perceptions be accurate?
+What if you think you see a barn, and it is, in fact, a barn's facade, but it's not a barn, but there's a barn behind the facade. Would your perceptions be accurate?
 
 ## Theseus' Paradox
 

@@ -3,8 +3,8 @@
 
 Logically eliminate the answers to multiple-choice questions:
 
-- You can usually remove absurd answers, which will also often remove "all of the above" answers as well.
-- If two answers can't logically *both* be the answer, then "all of the above" is the wrong answer.
+- You can usually remove absurd answers, which will also often remove "all the above" answers as well.
+- If two answers can't logically *both* be the answer, then "all the above" is the wrong answer.
 - All-inclusive adverbs (always, never, must, only, merely) are less frequently the right answer, since most things in life aren't all-inclusive.
 - Consider the lengths of the correct answers on the rest of the test:
   - If the correct answer is usually longer, choose the longer answer.
@@ -23,7 +23,7 @@ Logically eliminate the answers to multiple-choice questions:
 
 You can usually feel your way through an essay question you don't know:
 
-- Write out ideas in the margins so you won't forget them.
+- Write out ideas in the margins to prevent forgetting them.
 - Drop in as many terms and jargon as you can remember.
 - Thoroughly write out as much as you can, since the reviewer is likely looking for a list of details.
 - If you *do* understand other essay questions on the same test, make sure you use the same jargon and terms from what you remember elsewhere.

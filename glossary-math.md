@@ -179,7 +179,7 @@ Natural number - a clear-cut number that represents itself in nature as we perce
 
 Net - a two-dimensional cross-section of a three-dimensional object
 
-Non-commutative - where changing the order of things changes the results (e.g., 5-2 is *not* the same as 2-5)
+Non-commutative - changing the order of things changes the results (e.g., 5-2 is *not* the same as 2-5)
 
 Non-Euclidean space - theoretical realms of space that don't abide by our 3-dimensional reality
 
@@ -203,9 +203,9 @@ Parallel - a condition where two lines, segments or rays will never touch inters
 
 Parallelogram - a 4-sided 2-dimensional shape that's not a square and has sides that are parallel to each other
 
-Percent - aka per cent, a x/100 comparison to another number
+Percent - aka per cent, the x/100 comparison with another number
 
-Per mille - aka per mil or per mill, a x/1000 comparison to another number
+Per mille - aka per mil or per mill, the x/1000 comparison with another number
 
 Perfect square - an integer where a square root of itself is also an integer
 
@@ -253,7 +253,7 @@ Rectangle - a 4-sided 2-dimensional shape that isn't a square and all the sides 
 
 Right angle - aka perpendicular angle, an angle at 90 degrees, happens to be *very* useful for many calculations
 
-Right triangle - a triangle with one of its corners at a 90 degree right angle
+Right triangle - a triangle with one of its corners at a 90-degree right angle
 
 Round - an approximated estimation relative to a number (e.g., 413 rounded to the nearest 100 is 400)
 

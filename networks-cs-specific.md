@@ -72,7 +72,7 @@ Modem IPv4 default (generally):
 1900
 
 - Protocol: UDP SSDP, IPv4/6
-- vulnerable to DoS attacks
+- vulnerable against DoS attacks
 
 ### Standard internet service ports
 

@@ -125,7 +125,7 @@ If the idea is something some people love, it'll go *much* farther than somethin
 
 As applicable, consider open licensing for your product.
 
-- Open licenses increases distribution (meaning more people see and use it), but it decreases how much each person will spend on the product (where most of the consumers will often pay nothing).
+- Open licenses increase distribution (meaning more people see and use it), but it decreases how much each person will spend on the product (where most of the consumers will often pay nothing).
 - To that end, the product needs to [market](marketing.md) something else to stay profitable:
   - Sell products branded with an association to the product, such as clothing, tchotchkes, and partnerships with vendors.
   - Give access to an exclusive club that others can attend if they pay for the product.

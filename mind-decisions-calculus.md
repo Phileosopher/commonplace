@@ -23,7 +23,7 @@ B. [comfort](mind-feelings.md) factors:
 - Things we [don't know](unknown.md) or imagine potentially not knowing, including things we [imagine](mind-imagination.md) we *can't* know.
 - Spontaneous impulse to find [certainty](understanding-certainty.md) in the midst of too much [uncertainty](unknown.md) (which can be from too many choices).
 
-APPLICATION: Whining and complaining are the paths of least resistance, but they also produce very few [results](results.md). [Astute observers](success-1_why.md) try to only do things that *do* make results and, thus, are the long-term path of least resistance.
+APPLICATION: Whining and complaining are the lowest-resistance paths, but they also produce very few [results](results.md). [Astute observers](success-1_why.md) try to only do things that *do* make results and, thus, are the long-term lowest-resistance path.
 
 C. [purpose](purpose.md) factors:
 
@@ -52,7 +52,7 @@ E. factors from other people:
 
 APPLICATION: We can't remove our [bias](mind-bias.md), but we can definitely feed in opposing bias from a different [perspective](people-image-why.md). This is why getting others' viewpoints is critical.
 
-By the end of the values calculus, we've [emotionally](mind-feelings.md) lumped the risks and benefits together into a few broad [patterns](symbols.md), and we will make reactive judgments toward them based on [goals](purpose.md) we have in our minds at that moment.
+By the end of the calculus, we've [emotionally](mind-feelings.md) lumped the risks and benefits together into a few broad [patterns](symbols.md), and we will make reactive judgments toward them based on [goals](purpose.md) we have in our minds at that moment.
 
 ## Calculus part 2: priorities
 
@@ -68,7 +68,7 @@ We frequently compare ourselves with others, though [it makes very little sense 
 
 APPLICATION: If you want to think more clearly, [imagine](mind-imagination.md) if someone else was in your exact predicament and wanted your advice. What would you tell them?
 
-Except for [principles](understanding-certainty.md), we tend to choose the path of least resistance. However, some principles are *also* the path of least resistance if we've [trained](understanding-certainty.md) our minds to them.
+Except for [principles](understanding-certainty.md), we tend to choose the lowest-resistance path. However, some principles are *also* the lowest-resistance path if we've [trained](understanding-certainty.md) our minds to them.
 
 When we consider more aspects of [power](power.md), we tend to think more [selfishly](morality-evil.md). Otherwise, if we don't think about them (or use a principle or [love toward others](people-love.md) to disregard them), we become more [altruistic](morality.md).
 

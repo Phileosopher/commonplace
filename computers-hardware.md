@@ -26,7 +26,7 @@ Across the years, computer "abstractions" typically stay about the same while it
 
 - Right now, computers use electricity through silicon (0s and 1s represented as positively and negatively charged electricity).
 - At one time, the 0s and 1s were electric charge held within vacuum tubes.
-- Originally, computers were mechanical plates that read holes punched into old 35mm film stock.
+- Originally, computers were mechanical plates that read holes punched into old 35 mm film stock.
 - In decades, it may be something else, such as [quantum superstates](science-physics-quantum.md) or [DNA](computers-biological.md).
 
 In fact, most of the standard computer needs were demonstrated already in [a 1968 demo by Doug Engelbart's team](https://www.youtube.com/watch?v=B6rKUf9DWRI).
@@ -37,17 +37,17 @@ Since most computers run at the speed of electricity, the input-to-output in mod
 
 Technically, a computer could be assembled with a vast agglutination of wires and transistors, but that's messy. To make it simpler, a "printed circuit board" (PCB) will contain all the wires in pre-configured arrangements. Then, by using a standardized plug or solder point, just about anything can be easily attached to the PCB.
 
-Around the core wiring/logic, the rest is largely protective. Padding, a housing, screws, and metal shielding protect it from getting broken, wet, picking up static or (in some cases) [interference from radio waves](engineering-radio.md). For higher-power needs (e.g., a PSU), they can fill the rest of the space with a brown epoxy-like substance called "potting" around the wires to provide protection from electric shock, vibration, or moisture.
+Around the core wiring/logic, the rest is largely protective. Padding, a housing, screws, and metal shielding protect it from getting broken, wet, picking up static or (in some cases) [interference from radio waves](engineering-radio.md). For higher-power needs (e.g., a PSU), they can fill the void with a brown epoxy-like substance called "potting" around the wires to provide protection from electric shock, vibration, or moisture.
 
-In practice, this means a [hacker](hacking.md) can cobble together just about anything that's conductive and attach it to anything. With the exception of circuitry that's too small to work with (e.g., cell phones), most low-grade electronics are very accessible (such as the [Raspberry Pi](computers-embedded.md)).
+In practice, this means a [hacker](hacking.md) can cobble together just about anything that's conductive and attach it to anything. Except for circuitry that's too small to work with (e.g., cell phones), most low-grade electronics are very accessible (such as the [Raspberry Pi](computers-embedded.md)).
 
 The design of a general purpose computer has [specific elements as well for each component](computers-hardware-general.md).
 
 ## Design: Software
 
-With the exception of [logic gate primitives](computers-alu.md), anything can be assembled as software *on* logic gates, and further hardware design simply speeds up how fast the computer will perform.
+Except for [logic gate primitives](computers-alu.md), anything can be assembled as software *on* logic gates, and further hardware design simply speeds up how fast the computer will perform.
 
-In simple terms, computers are vast collections of [logic gates](computers-alu.md) that build into ever-more complicated things. Combined together, it makes working with them extremely trivial.
+In simple terms, computers are vast collections of [logic gates](computers-alu.md) that build into ever-more complicated things. When combined, working with them is extremely trivial.
 
 Designers are *constantly* improving computers, but the gains in improvement are starting to become incremental (similar to the [autos](autos.md) that came before it). Even though they can become much faster, they're not really adding much to the experience anymore for a typical user, and even a low-tier desktop computer is more than enough for most non-[gaming](computers-software-gamedev.md)/design computer needs until [VR headsets](computers-vr.md) or [AI](computers-ai.md) become a popular trend to everyday people.
 
@@ -101,13 +101,13 @@ Since computers have gotten so cheap, so easy to work with, and so powerful, mos
 
 You want a remote control? Computer. Maybe you want to entertain your ~~drool factory~~ one-year-old? Computer. How about showing what song is playing? Computer. You want to track the time? Clearly, you'll want a complex assembly of cogs, sprockets, and springs.
 
-If you have a modern office workspace, you may be surprised how many separate processors are in it:
+A modern office workspace has more processors than most people may realize:
 
 1. The CPU on the motherboard, naturally, though it may have a split processing/graphics setup with an APU.
 2. If you have a graphics card or sound card, it has a CPU on it, though graphics cards call it a GPU.
 3. Inside the computer, it has specific-function chips called "device controllers" that regulate peripherals.
 4. If you have a printer/scanner, it typically has its own computer to regulate its jobs.
-5. Most fancier computer monitors have small processors that regulate information or tweak visual settings.
+5. Modern computer monitors have small processors that regulate information or tweak visual settings.
 6. Computer mice and most keyboards have small processors inside them that convert the signals into digital information before sending.
 7. Modems, which are usually built right onto the motherboard, are computers designed to send and receive information.
 8. Network routers and adapters, all along the string between computers with screens, are each their own computer. These computers are most of the internet.
@@ -120,7 +120,7 @@ The problem with big supercomputers, though, is that there are a *lot* more part
 
 - To make sure the computer is *always* on, they need redundant power supplies.
 - To ensure the data is safe, the computers are typically on a [RAID array](computers-memory.md).
-- Several separate processors run inside the device at once, just in case one goes out.
+- Several processors run inside the device at once, just in case one goes out.
 
 ### Lamecomputers
 
@@ -159,7 +159,7 @@ Also, updates might not work right. Always, always, *always* play it safe:
 2. Avoid running more stuff than you have to while it's updating, *especially* if it's a BIOS update. Call of Duty can wait.
 3. Only run the updates when you don't plan to use your computer much. Overnight on weekends is usually best because you get a few days if you really screwed up.
 
-The reason it becomes an issue is because sometimes two "processes" on the operating system can use the exact same "file" and screw up what they're both doing with it.
+Be careful with updates because sometimes two "processes" on the operating system can use the exact same "file" and screw up what they're both doing with it.
 
 ### Upgrades
 

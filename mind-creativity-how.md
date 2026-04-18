@@ -40,7 +40,7 @@ Stay constantly curious and perpetually interested in everything:
 Re-ask questions that, as a child, you forgot to have answered:
 
 - Why does everyone use money?
-- Where does canned cheese come from and how do they put it in there?
+- Where does cheese in a can come from, and how do they put it in there?
 - Who decides that policemen are allowed to arrest people?
 - Why are computer screens square?
 - When did everyone agree when we go to bed?
@@ -114,7 +114,7 @@ Pull together tons of raw information from everywhere:
 - Browse a wide variety of sources (at least 2-3 at a time) and range them from general topics down to specific subjects.
 - Absolutely *everything* might be related, so pull from absolutely every source about every place you can think of.
 - [Write](language-writing.md) constantly and frequently about whatever comes to mind.
-- Always include things that are different than your standard material.
+- Always include things that are different from your standard material.
 
 Brainstorm to build more information:
 
@@ -134,7 +134,7 @@ If it's at all possible, *don't* focus on the problem for a while:
 
 - As soon as you see a problem, your mind will focus directly onto it, meaning you won't see what it's like to not have that problem.
 - The best time to learn about the problem is when your mind is racing with plenty of ideas, but without anything to direct it toward.
-- [writing out](language-writing.md) information helps our [memory](mind-memory.md), meaning it can enhance our ability to retain many unrelated ideas at once.
+- [Writing out](language-writing.md) information helps our [memory](mind-memory.md), meaning it can enhance our ability to retain many unrelated ideas at once.
 
 ### B. Gather everything together
 
@@ -225,7 +225,7 @@ Use [analysis](logic.md) to find more viewpoints:
   3. Describe the factors that feed into each of those factors.
   4. Repeat until you have every little part of the problem entirely clarified.
 - Consider the [values](values.md), [assumptions](mind-trust.md), and [beliefs](understanding-certainty.md) that shape the system.
-- The Five "Whys" - ask "why" at least five times to get to the first cause of everything.
+- The Five "Why's" - ask "why" at least five times to get to the first cause of everything.
 - Use the Iceberg Model:
   - Look at all the relevant events in the past, present, and future.
   - Note any [patterns](symbols.md) or [trends](people-trends.md) that emerge from those events.
@@ -276,7 +276,7 @@ Carry on with life and create in other ways:
 - To incubate more ideas, make new experiences in your life.
 - Learn to make days [highly productive](success-4_routine.md) to make room for more freedom.
 
-Use the [sleep technique](sleep.md) used by Salvador Dali and Thomas Edison:
+Use the [sleep technique](sleep.md) used by Salvador Dalí and Thomas Edison:
 
 1. Take a nap in a chair while holding an object like a ball or spoon.
 2. When the object drops, it'll wake you up when your mind has just entered the subconscious fantasy/reality hybrid mental state and will boost your creativity.
@@ -451,7 +451,7 @@ The best way to deal with disapproval is to not care.
 
 If you're afraid of criticism or rejection, create distance between you and your work:
 
-- Use a pen name name or moniker.
+- Use a pen name or moniker.
 - Create a gap in time between building and publishing.
   - That way, you're referring to a work from "past you", not your present self.
 
@@ -511,5 +511,5 @@ The creative process is *not* the same as building it:
 
 As soon as you stop, you may lose it:
 
-- When we stop fostering our creativity for a couple weeks, we become stale and less effective almost instantly.
+- When we stop fostering our creativity for a few weeks, we become stale and less effective almost instantly.
 - Like [weight management](body-why.md), we must have a [purpose](purpose.md) for what we want to achieve and stick with it to the end.

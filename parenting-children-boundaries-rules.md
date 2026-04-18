@@ -56,7 +56,7 @@ Ask them how they were able to succeed, since they'll love explaining the detail
 Never, ever reward bad behavior.
 
 - If you've relented and rewarded bad behavior, a child will learn they can get what they want if they persevere with enough bad behavior.
-- Most parents fail against against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-marriage.md), tons of love, and a community to consult for advice.
+- Most parents fail against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-marriage.md), tons of love, and a community to consult for advice.
 
 Closely consider their motivations, and don't be afraid of a [direct conflict](people-conflicts.md) with them.
 
@@ -109,6 +109,8 @@ While they'll be impulsive to solve the problem *now*, you are 100% free to dela
   2. You have enough time to think out and discuss with others of a reasonable, logical consequence for their misbehavior.
   3. Children have to live with the pain of uncertainty over the pending consequences they'll have to suffer.
   4. Children will learn that you're human as well, which adds to their ability to recognize your empathy for them.
+
+If they ever bite you, push whatever part of you they're biting further into their mouth to create the automatic reaction of opening their mouth.
 
 ## Only make reasonable consequences
 

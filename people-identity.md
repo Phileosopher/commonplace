@@ -9,11 +9,15 @@ These values we identify with are an [image](people-image-why.md) we've [created
 - [Physical things](reality.md) like [sexuality](people-gender.md), psychological diagnosis, race, or [social class](classes.md).
 - [Friends](people-friends-why.md) and [social groups](groups-member.md).
 - Long-term [purposes](purpose.md) like [career](jobs-1_why.md), [family](people-family.md), and [legacy](legacy.md).
-- Raw [principles and concepts](values.md) or [understanding](understanding.md) of specific things.
+- Raw [principles and concepts](values.md), [virtues](morality-virtues.md), or [understanding](understanding.md) of specific things.
 - Absence of a thing (e.g., "not pretty enough", "stupid", "weak").
 - Hatred of a thing (e.g., hating a father or [political party](politics-conservativeliberal.md)).
 
 Things we identify with are often responses to our environment, and typically compared with other things. We frequently identify with how much we conform to [group standards](people-rules.md).
+
+We start our identity from the role models in our [childhood](maturity.md), which then expand to everyone else.
+
+APPLICATION: The [love](people-love.md) of our caretakers will heavily define how much we [culturally](people-culture.md) are able to love ourselves. To be unloved is to become an unloving person.
 
 Identity has very little to do with what we *[are](humanity.md)* or [are doing](results.md), but is always associated with our [purposes](purpose.md). A person may work a job full-time and go to school but will identify with something they only do 5 hours a week or merely wish to do.
 
@@ -21,7 +25,9 @@ Even with multiple people doing the same things, they will regularly identify wi
 
 If we keep [living life well](people-goodlife.md), we spend more time *doing* new things than making conscious choices to identify with them.
 
-The name for a thing holds tremendous [power](power.md) through giving [certainty](understanding-certainty.md) about something's presence. It [logical](logic.md) separation from other things represents into [how we see that thing](people-image-why.md) in relationship to other things, and at the farthest extreme can often create [religious implications](religion.md).
+APPLICATION: We become better people when we try to develop [loving](people-love.md) characteristics more than other people *seeing* us as loving.
+
+The name for a thing holds tremendous [power](power.md) through giving [certainty](understanding-certainty.md) about something's presence. The word is a [logical](logic.md) separation from other things, and represents into [how we see that thing](people-image-why.md) in relationship to other things. At the farthest extreme it can often create [religious implications](religion.md).
 
 ## Shifting
 
@@ -53,7 +59,13 @@ A wide variety of things happen *to* us, but we [decide](mind-decisions.md), con
 
 Our identities are *always* [decisions](mind-decisions.md), though those decisions are often not conscious. We usually choose our identity by the [perceived benefits](purpose.md) we can acquire through associating with something, but we can sometimes identify through a strong [belief](understanding-certainty.md) in something we're [afraid](mind-feelings-fear.md) of that gives *no* benefit.
 
-Generally, we do better by identifying with things we can [control](results.md) instead of things given to us from our environment (internal vs. external locus of control). If it's beyond our control or [influence](influence.md), we must [trust](understanding-certainty.md) other things to keep our identity compliant with [reality](reality.md). We're usually born with an external locus of control and must learn to focus only on what we *can* [control](results.md).
+Generally, we do better by identifying with things we can [control](results.md) instead of things given to us from our environment (internal vs. external locus of control).
+
+- If it's beyond our control or [influence](influence.md), we must [trust](understanding-certainty.md) other things to keep our identity compliant with [reality](reality.md).
+- It takes a long time for us to learn who to trust, when to trust, and how much to trust.
+- Further, if someone breaches that trust, it takes a long time for us to trust again.
+
+We're usually born with an external locus of control and must learn to focus only on what we *can* [control](results.md).
 
 We have "authentic" identities when we have [created](mind-creativity.md) an original mix of our observed [values](values.md) that most closely conform to what we prefer. Otherwise, we can conform to our [culture](people-culture.md) by stating back and repeating *exactly* what we [understand](understanding.md) others want. This isn't always better, but necessary for [understanding](understanding.md) ourselves, and often requires us to reach at *least* [age 35-40](maturity.md) to get there.
 

@@ -61,7 +61,7 @@ We have many [depicted expressions of self-concept](people-image-why.md), which 
 
 It's very possible we are nothing *but* those faces, though it's difficult to precisely tell. Either way, we *are* essentially what we [decide](mind-decisions.md) more than what we [do](results.md). But, everyone else only [sees](people-image-why.md) what we do, and their [judgments](people-image-why.md) are typically on that aspect alone.
 
-APPLICATION: Instead of the conventional wisdom that [leaders](mgmt-1_why.md) are trained, the existence of a soul and will implies they're born, then fostered.
+APPLICATION: Instead of the conventional wisdom that [leaders](mgmt-1_why.md) are trained, the existence of a soul and will imply they're born, then fostered.
 
 [Habits](habits.md) aren't part of the soul, but the soul is definitely [responsible](meaning.md) for the [choices](mind-decisions.md) that made those habits in the first place. The chattering stream of noise in our minds are mostly those habits, which means they're only past-tense iterations of what our soul has done, and our present-tense decisions (the soul's actual performance) will only indicate what we will do in the future.
 
@@ -75,7 +75,7 @@ Nobody is particularly unique, and not particularly mysterious compared to anyon
 
 APPLICATION: We are often entitled because we believe we deserve something. In truth, we only deserve things the same as anyone else (meaning we must consider the needs of everyone around us) or by our merit (which is based on [results](results.md) just as much as [intention](purpose.md)).
 
-Any particular human is typically accessible and pleasant-enough to coexist with. However, they become *very* dangerous and unreasonable when [provoked](people-conflicts-why.md). In [large groups](groups-large.md), any individual capacity for [evil](morality-evil.md) is dramatically magnified, and that capacity is why most [political systems](politics-systems.md) devolve into [dysfunction](mgmt-badsystems.md).
+Any particular human is typically accessible and pleasant-enough to coexist with. However, they become *very* dangerous and unreasonable when [provoked](people-conflicts-why.md). In [large groups](groups-large.md), any individual capacity for [evil](morality-evil.md) is dramatically magnified, and that capacity is why [political systems](politics-systems.md) usually devolve into [dysfunction](mgmt-badsystems.md).
 
 ## Human worth
 

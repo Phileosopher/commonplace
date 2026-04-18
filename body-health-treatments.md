@@ -94,6 +94,8 @@ Root canals can often cause infections.
 - Later, anaerobic metabolism allows a very toxic infection.
 - Unfortunately, the symptoms can be bad enough and connected to other parts of the body that the situation can stay undiagnosed.
 
+GLP-1 drugs (e.g., Ozempic, Mounjaro) can cause severe long-term gastrointestinal problems, gallbladder risks, pancreatitis, and hormone problems.
+
 ## Supplement with medication
 
 Doctors can prescribe medication, and the scope of their prescription always gives some clue to its severity:

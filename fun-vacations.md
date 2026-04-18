@@ -32,7 +32,7 @@ Plan ahead as much as possible:
 - Start as early as possible to ensure you can schedule the time off and have everything you'll need.
 - If your vacation will be around a major holiday, start planning a year ahead.
 
-try to avoid vacations where a *lot* of people will be there:
+Try to avoid vacations where a *lot* of people will be there:
 
 - Avoid the timing for major holidays, spring break, and large-scale sporting events.
 - When planning your lodging and itinerary, avoid the high-traffic areas where everyone else goes (e.g., downtown Venice in the summer).
@@ -137,7 +137,7 @@ Pack clothing:
   1. Fold in sleeves or flared ends to make a rectangle.
   2. Fold the left and right sides inwards towards the center, overlapping each time.
   3. Roll it up, then tuck it in to make it stay.
-- With longer trips, only pack 2--3 days with laundry soap and wash your clothes at your destination.
+- With longer trips, only pack 2-3 days with laundry soap and wash your clothes at your destination.
 - Pack extra underwear and socks.
 - To save space, roll socks and underwear into shoes.
 - Cover the bottoms of the shoes with old shower caps.

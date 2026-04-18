@@ -5,9 +5,9 @@ This is an approximate list of virtues, which are the bedrock of any [morality](
 
 ## Stand-alone states of being
 
-Empathy - [understanding](understanding.md) and [feeling](mind-feelings.md) others' experiences
+Empathy/Compassion - [understanding](understanding.md) and [feeling](mind-feelings.md) others' experiences
 
-Kindness - [doing](results.md) good things for others
+Kindness/Mercy/Grace - [doing](results.md) good things for others
 
 Gratitude - [aware](mind-awareness.md) and thankful for good things
 
@@ -27,7 +27,7 @@ Humility - seeing others as more important than ourselves
 
 [Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
 
-[Wisdom and perspective](understanding.md) - applying knowledge and experience into [daily life](habits.md) and [decisions](mind-decisions.md)
+[Wisdom and perspective](understanding.md)/Understanding/Respect - applying knowledge and experience into [daily life](habits.md) and [decisions](mind-decisions.md)
 
 ## Perspectives we choose to [see](people-image-why.md)
 
@@ -53,10 +53,14 @@ Bravery/Courage - stands against opposition
 
 Persistence/Perseverance - maintains a [purpose](purpose.md) [faithfully](understanding-certainty.md) with little or no outside support
 
-Integrity - holds fast to important [values](values.md) and [promises](people-contracts.md), no matter what
+Integrity/Commitment - holds fast to important [values](values.md) and [promises](people-contracts.md), no matter what
+
+Honesty - avoids [lying](people-lying.md)
+
+Loyalty/Faithfulness - honors [agreements](people-contracts.md)
 
 ## The "middle ground" between things
 
-Prudence/meekness - makes [decisions](mind-decisions.md) carefully, even when it's possible to indulge in a bad decision
+Prudence/Meekness/Self-Control - makes [decisions](mind-decisions.md) carefully, even when it's possible to indulge in a bad decision
 
-Self-regulation/patience - holds back from [excess](addiction.md), even when we feel compelled to act
+Self-regulation/Patience - holds back from [excess](addiction.md), even when we feel compelled to act

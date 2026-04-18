@@ -207,7 +207,7 @@ Communicate how much you value them:
 - Express appropriate affection and sympathy for what they're communicating.
 - More frequently than not, sincerely express how much they mean to you in the way you most express it (speaking, making things, hugging, etc.).
 - If they have the time, treat them to a meal.
-- Give generously to the people around you, and don't ever treat it as a loan.
+- Give generously to people around you, and don't ever treat it as a loan.
 - When offering something that's valuable, imply they don't need to take it, or they'll interpret it as requiring a [contractual response](people-contracts.md) (e.g., "I'm going on vacation to the Bahamas and have an extra ticket, wanna come?").
 - If you borrow something, give it back in better condition.
 

@@ -24,7 +24,7 @@ Win/Lose is pure dominance:
 Lose/Win is pure submission:
 
 - Lose/Win considers others, but not oneself.
-- The mark of Lose/Win is to gives in to the others' wishes through accommodating or submitting.
+- The mark of Lose/Win is to give in to the others' wishes through accommodating or submitting.
 - The motivation for this style can come from multiple sources:
   - Self-preservation
   - Cowardice against an extreme Win/Lose style
@@ -65,7 +65,7 @@ Part Win/Part Lose:
 Interactions across attitudes has a certain type of Rock-Paper-Scissors effect:
 
 - Give the correct attitude proportionally to *their* attitude on the subject.
-  - This will pivot and change as the dialogue continues and new information unveils itself.
+  - This will pivot and change during the dialogue when new information unveils itself.
 - If they're Win/Lose, give them Win/Win or No Deal.
   - When they refuse to budge, either give your own Win/Lose or Lose/Lose and walk away.
 - If they're Lose/Win, give them Win/Win or No Deal.
@@ -83,6 +83,6 @@ Sometimes, there are *multiple* conflicts, with different styles, and it require
 
 - What we want often fulfills multiple needs, so we'll often react to various needs in different forms.
   - Sometimes we have [inner conflicts](people-conflicts-inner.md) where the ideas ripple around inside us, and sometimes it ripples outward.
-- Use the Tit-For-Tat strategy when you don't know what that person wants: imitate whatever style back to them they did last.
+- Use the Tit-For-Tat strategy when you don't know what that person wants: imitate the latest style you saw them perform.
 - Once you *have* a baseline, however, find a consistent strategy and stick to it.
   - Often, people feel very insecure and need someone predictable to tether them.

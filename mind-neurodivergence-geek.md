@@ -5,7 +5,7 @@ The best definition of a geek is "a hyper-[specialization](jobs-specialization.m
 
 - They may have a career in it, but they'd do it anyway even if they didn't get paid for it.
 - The nature of this means that most geeks are varying forms of [autistic](mind-neurodivergence-autism.md) or [ADHD](mind-neurodivergence.md).
-s
+
 This is a demarcation of the domains of geekdom.
 
 ## Level 1 - Niche Geek

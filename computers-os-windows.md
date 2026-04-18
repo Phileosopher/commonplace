@@ -27,7 +27,7 @@ Windows 1.0 was released in 1985, and ran as software on top of MS-DOS.
 - Windows was more user-friendly by integrating use of the [computer mouse](computers-mouse.md) for *everything*.
 - It was widely popular, and became the standard operating system on most computers for at least a few decades.
 
-Microsoft Windows, up through Windows 3.1, was originally a blatant ripoff of [Mac OS](computers-os-apple.md), and copied most of the conveniences of Apple's [design](engineering-design.md). Since it was more affordable than Macintosh computers, and ran on almost anything, Windows was able to [dominate the operating system market](faang.md). Even in the 2020s, [Linux](computers-os-unix.md) has made some good contenders, but Windows is still the convention for most non-mobile personal computers.
+Microsoft Windows, up through Windows 3.1, was originally a blatant ripoff of [macOS](computers-os-apple.md), and copied most of the conveniences of Apple's [design](engineering-design.md). Since it was more affordable than Macintosh computers, and ran on almost anything, Windows was able to [dominate the operating system market](faang.md). Even in the 2020s, [Linux](computers-os-unix.md) has made some good contenders, but Windows is still the convention for most non-mobile personal computers.
 
 Windows forked a version of Windows called Windows NT in 1993.
 
@@ -66,7 +66,7 @@ Windows' [trend](people-trends.md) of improvement wobbled around, starting with 
 
 - While Vista was mostly the same as XP, it added a Superfetch feature, which loaded *all* the RAM with readily accessible programs. This slowed down Windows to the point that every "power user" would get frustrated by it, and most people weren't willing to take the upgrade.
 
-Windows 7, released in 2009, added some much-needed UI improvements, and fixed most of what what wrong with Windows Vista.
+Windows 7, released in 2009, added some much-needed UI improvements, and fixed most of what was wrong with Windows Vista.
 
 - It was a stable and workable operating system again.
 - However, as of 2025, it is the last high-quality Windows that didn't require a vastly more powerful computer than the operating system's minimum recommended specifications.

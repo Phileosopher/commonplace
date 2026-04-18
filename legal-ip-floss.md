@@ -51,7 +51,7 @@ However, there are *other* freedoms that users can do, which may or may not infr
 
 1. Freedom for *everyone else* to have those same freedoms (aka "copyleft", hereditary, viral).
 2. Freedom to distribute software as their own, for-profit (aka, non-copyleft or "permissive").
-3. Freedom to impose constraints, such as required packaging/distribution, [legal considerations](legal-safety.md), inter-regional export regulations, and [contract-based](people-contracts.md) licensing.
+3. Freedom to impose constraints, such as required packaging/distribution, [legal considerations](legal-safety.md), interregional export regulations, and [contract-based](people-contracts.md) licensing.
 
 In summary, "freedom" has a few possible meanings:
 

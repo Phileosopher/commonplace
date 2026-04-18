@@ -80,7 +80,7 @@ Brush your teeth twice a day:
     1. 6 tsp baking soda
     2. 1 tsp Stevia powder
     3. 4 tsp vegetable glycerin or 2 tbsp coconut oil
-    4. 10--20 drops of peppermint oil
+    4. 10-20 drops of peppermint oil
 
 Improve your brushing:
 

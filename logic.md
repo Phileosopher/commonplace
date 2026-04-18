@@ -15,11 +15,25 @@ FURTHER APPLICATION: Some [philosophers](philosophy.md) and [scientists](science
 
 We infer logic from everything, and everyone naturally forms all their thoughts with some form of logic. However, that logic may not link to reality, for various reasons. But, even when someone isn't sensible, they're still logical upon the framing of thought they've held.
 
-APPLICATION: To the degree our upbringing was dysfunctional, we can't trust our logic. Most of it is based on faulty premises.
+APPLICATION: To the degree our upbringing was [dysfunctional](hardship-family.md), we can't trust our logic. Most of it is based on faulty premises.
 
 ## Processing
 
-Each logical statement is a [value](values.md) of its own, but is made of multiple steps according to a [purpose](purpose.md):
+Each logical statement is a [value](values.md) of its own, but is made of multiple steps according to a [purpose](purpose.md).
+
+There are multiple systems that all logical statements must conform to:
+
+- Law of Noncontradiction: two logically true statements can't contradict each other.
+  - e.g., "the pen is blue" and "the pen is red" cannot both be true.
+- Law of Excluded Middle/Third: every statement, or its negating statement, is true.
+  - e.g., "the pen is blue" means "the pen must either be blue or not blue".
+- Law of Identity: two things are either the same in all respects, or are different in something.
+  - e.g., "the cat has (specific list of 237 properties)" and "the feline has (specific list of same 237 properties)"
+    - If the properties are the same, "cat" and "feline" are the same, but one distinction makes the two different.
+
+## Our intuitive logic
+
+Everyone uses logic, but assembles it based on their experience.
 
 ### 1. Data collection
 
@@ -33,6 +47,10 @@ The data can be inferred or perceived, but finding a 100% true datum is always d
 
 APPLICATION: Deductive logic makes us more [certain](understanding-certainty.md) about everything related to it, so we must seek it out whenever possible. For example, you may not know if someone will say "yes", but you *do* know that people *never* refuse certain things without other reasons.
 
+Since our [feelings](mind-feelings.md) are the dominant force for discerning relatively [unknown](unknown.md) information, logic and feelings are complementary to each other.
+
+We all implicitly believe a type of "self-evidence", which asserts that something is innate because we perceived it. Most people have trouble seeing that their perspectives are inherently [biased](mind-bias.md). Thankfully, there *are* [some broad things that are universal to the human condition](humanity-universals.md).
+
 The best data comes from excessive details. While it sometimes happens with [scientific](science.md) and [philosophical](philosophy.md) rigor (and in specific [trades](jobs-specialization.md) like [accounting](money-accounting.md) and [insurance](money-insurance.md)), most people have very little [reason](purpose.md) to take extra time in their [everyday routine](habits.md) for that and simply trust their [intuition](mind-feelings.md).
 
 ### 2. Combination
@@ -41,6 +59,10 @@ By combining premises, we form natural conclusions that the premises stated or i
 
 - A exists
 - If A, then X is true
+
+A syllogism is a conclusion derived from multiple premises.
+
+- This information visually represents as [a Venn Diagram](data-viz-specific.md).
 
 While logic must include at least one premise, conclusions usually use at least two:
 
@@ -57,9 +79,7 @@ We often use the negative of a concept:
 Deductive logic is certain, while inductive logic is likely:
 
 - If A, then X is true
-
-  vs.
-
+  versus
   If A, then X is *probably* true
 
 Life itself is typically [uncertain](unknown.md), so 99.99% of daily life is made of inductive logic:
@@ -99,7 +119,26 @@ A good conclusion that withstands [reality's](reality.md) tests requires *many* 
 - Y might be B at a later time
 - In other words, A isn't B, but also expect C, D, E, F, G, X and Y to potentially lead to B later
 
+A disputation is a specific method we use to criticize a presumed-correct logical statement:
+
+1. Pose a question, framed as specifically as possible.
+2. State the objections to the question without [bias](mind-bias.md) as clearly and precisely as possible.
+   - This assertion should hold as agreed-upon by anyone who dogmatically believes that counterpoint (also known as an "steel man").
+3. State the contrary idea built on #2, as precisely as possible.
+4. Give the clearest possible reasons to indicate why #3 is correct.
+5. Reply to the objections that would invariably arise to all of it.
+
 As we gain [self-awareness](mind-awareness.md), we tend to discover many more premises we held and weren't aware of.
+
+APPLICATION: In a postmodern society, there is only one way to reliably test truth:
+
+1. Clearly articulate as many "givens" as possible.
+2. Cast doubt on *all* the givens with rationalized skepticism.
+3. If any of those "givens" feel or appear uncertain in light of skepticism, group all of them as "likely" or "possible".
+4. Create all possible conclusions that the remaining "givens" and "likely/possible" premises can generate together.
+5. Remove the "likely/possible", then indicate the conclusions from #4 that aren't certain anymore.
+6. Deeply ruminate and investigate whether the "likely/possible" premises are true or false.
+7. Derive all realistic conclusions with the collective understanding of the above.
 
 ## Details
 
@@ -131,6 +170,8 @@ The easiest way to detect bad logic is by inverting things or adding something e
 - I don't see the moon in the daytime, and the earth is round, so the moon moves around the earth.
 - SWAP: I don't see the [sun] at nighttime, and the earth is round, so the sun moves around the earth.
 
+APPLICATION: High-quality logic uses clear distinctions. Most [arguments](people-conflicts.md) come from a difference of unspecified distinctions.
+
 Generally, if there's a simpler premise-conclusion connection, it's probably more correct (Occam's Razor). Even when it isn't more correct, it's easier to figure out.
 
 Most [humor](humor.md) involves bad logic, but often taken to complete absurdity.
@@ -156,7 +197,7 @@ Within reality, negations are largely easier to prove than assertions because it
 
 While we *can* use logic to discover truths, it's not always the best solution. Emphasizing logic strictly will make a person perpetually critical of everything and create many false-negatives. Logic has its place in [the good life](people-goodlife.md), but isn't the only tool necessary for healthy [understanding](understanding.md).
 
-## Analysis
+## Analyzing reality
 
 To make sense of the world, we slice up [reality](reality.md) into various groups:
 
@@ -185,15 +226,19 @@ Over-analysis is when we *should* be doing something else (like gathering more i
 
 ## Hegelian dialectic
 
-One particular form of analysis we tend to operate under is through finding a logical flow through examining contradictions:
+Dialectical arguments are where something simply can't be deduced. This means inferring truth requires inductive logic of many premises.
+
+One particular form of analysis we tend to operate under is through Hegel's style of logic, which involves finding a logical conclusion of otherwise contradictory premises:
 
 1. Statement A has been proven to be true.
 2. Statement B has been proven to be true.
-3. Statement A and Statement B contradict each other.
+3. Statement A and Statement B contradict each other, or something else must be the case.
 
 This is an [intuitive](mind-feelings.md) deduction, and we resolve it by synthesizing the two:
 
 - Statement A is true in X case, and Statement B is true in Y case.
+- Statement A and B are both partly true, due to specific conditions.
+- e.g., "the pen is red" and "the pen is blue" can be "the pen is sometimes red and sometimes blue" or "the pen is both red and blue".
 
 However, this approach has constraints:
 

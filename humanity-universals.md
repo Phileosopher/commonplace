@@ -96,7 +96,7 @@ Expressions
 
 Faith/Trust
 
-- We have a strong enough [belief](understanding-certainty.md) that we [understand](understanding.md) the [world](reality.md) that we take [risks](entrepreneur-why.md) to do things with reality.
+- We have a strong enough [belief](understanding-certainty.md) that we [understand](understanding.md) the [world](reality.md) that we take [risks](entrepreneur-why.md) doing things.
 - We use these risks to calculate [purposes](purpose.md) and focus them on [creating](creations.md) things that make [results](results.md).
 
 Feelings
@@ -196,7 +196,7 @@ Power
 
 - We all consider how much [power](power.md) we have compared to others.
 - This power dramatically determines the [decisions](mind-decisions.md) we make.
-- The few end up ruling the many as a type of pyramid, which frequently [goes corrupt](mgmt-badsystems.md).
+- The few rule the many as a type of pyramid, which frequently [goes corrupt](mgmt-badsystems.md).
 
 Preferences
 

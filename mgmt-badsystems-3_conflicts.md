@@ -33,7 +33,7 @@ It's worth noting that the likelihood of any one of the smaller groups succeedin
 
 When exposed to a similar opponent, [all the principles of any other large-scale conflict apply](people-conflicts-war-why.md).
 
-The only difference is that there is an unusually high amount of disloyalty from the members, meaning there are more inter-group conflicts than typical.
+The only difference is that there is an unusually high amount of disloyalty from the members, meaning there are more intergroup conflicts than typical.
 
 ## Larger opponents
 

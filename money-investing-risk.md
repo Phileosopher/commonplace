@@ -36,6 +36,14 @@ When managed correctly, risks can be *extremely* profitable.
 - One of the easiest ways to directly increase returns (and increase risk *nearly* but not quite as much) is to cut out the intermediate parties.
   - By removing the brokers and bankers, you take on more risk, but have a closer relationship with the money-making assets themselves.
 
+Try to avoid adding more unnecessary risk to your portfolio.
+
+- Lending money leaves you dependent on your borrowers.
+  - Carefully consider the kind of borrowers you make a relationship with.
+- Avoid taking out debts for risky purchases.
+  - Your investment isn't guaranteed, but your debt is.
+- The only difference between gambling and investing is [knowledge](understanding.md), so stay as well-informed as possible on whatever you're investing into.
+
 Generally, conservative thinking means your investments will stay steady with or slightly above inflation.
 
 Our [bias](mind-bias.md) means we tend to believe our "retirement money" is on the line.
@@ -155,7 +163,7 @@ For maximum diversification, have a portfolio composed of the following:
 One of the easiest failures in diversifying is to have separate things that don't *feel* like they're related, but are the same thing.
 
 - If you're a [homeowner](home-maintenance.md), you're already invested in real estate, even if it's not giving any yields until you sell it.
-- If you're a [company employee](jobs-1_why.md), you're already a stakeholder of that company without owning any stock (i.e., you'd be [unemployed](hardship-unemployment.md) if the company failed.
+- If you're a [company employee](jobs-1_why.md), you're already a stakeholder of that company without owning any stock (i.e., you'd be [unemployed](hardship-unemployment.md) if the company failed).
 
 Periodically rebalance your portfolio.
 
@@ -225,6 +233,15 @@ Observe the markets' large-scale [trends](people-trends.md):
   - Investors' subcultures can often closely reflect the [fanatical originators of cults](culture-cults.md).
 - Generally, it's a good idea to sell when there's hype and buy when there's panic.
 
+The average investor has a specific approximate psychological profile:
+
+- Sometimes prefers to do what everyone else does over making independent decisions.
+- Gives too much credit to recent and high-profile new while overlooking the longer-lasting trends and less dramatic events.
+- Inclined to believe money managers with a few quarters of randomized success have found out how to beat the market.
+- Experiences twice the pain from losses as pleasure from gains, so they hold onto assets longer than they should.
+- Overconfident enough to trade more than they should.
+- Further, the average investor profile isn't much different for fund managers.
+
 At any given moment, a market trend exists as one of 4 movements, and you should have a plan for each one:
 
 1. Prosperity:
@@ -251,7 +268,7 @@ At any given moment, a market trend exists as one of 4 movements, and you should
 4. Deflation:
    - Consumer prices decline
    - The purchasing power of money grows
-   - Businesses are hit hardest
+   - Businesses are hit the hardest
    - Interest rates have dropped dramatically
    - Unemployment hits dramatic highs
    - If it persists long enough or the government intervenes wrongly, it can become a depression
@@ -383,6 +400,7 @@ The most frequent indicator of fraud is promising high return with low risk.
 
 - No matter how "secure" things like gold, silver, or cryptocurrency sound, they're still as volatile as [the human perception of value](values.md).
 - If an account seems to have a skyrocketing balance, it's probably fake.
+- If it seems legitimately better than common sense would dictate, it might be a money laundering operation or [multi level marketing scheme](marketing-mlm.md).
 
 The best way to avoid scams is to educate yourself thoroughly before committing to anything.
 
@@ -417,7 +435,7 @@ Annuities are simply another type of [insurance](money-insurance.md) vehicle.
 Gold, silver, and platinum are commodities, so they only give a profit when sold.
 
 - Because of their extreme refining, precious metals would be difficult to exchange in the apocalypse compared to centuries ago.
-- Someone [advertising](marketing.md) for people to buy gold is only advertising because they're turning themselves a profit.
+- [Advertising](marketing.md) to buy gold only exists because the advertiser is turning themselves a profit.
 - If you're [worried about the apocalypse](hardship-disaster-3_long-go.md), gold and silver are too highly refined to be tradable.
   - To invest against *that* possibility, buy an easily tradable and on-hand commodity that never spoils, such as hard liquor.
 
@@ -445,7 +463,7 @@ The laws of each country and industry will vary wildly, but always avoid a few a
 - Don't trade on specialized information other people have told you (which is called "insider trading").
   - You can trade on public information (news, news articles) and on your intuition, but don't buy or sell around the same time that someone told you a major event will happen.
   - Don't keep records of what you're doing, if there's any chance it happens to be insider information.
-- Never [lie](people-lying.md) about whether you plan to buy or sell, since it will mislead others and they can sue.
+- Never [lie](people-lying.md) about whether you plan to buy or sell, since people can sue ([and win](legal-safety.md)) if you mislead others.
 - Avoid *anything* remotely criminal, even if it's not criminal but only may appear to be criminal to an uneducated person.
 - Make sure whoever handles your finances is accredited by all applicable regulations.
 - If you're going across countries, make sure *both* countries' regulations are satisfied.
@@ -455,6 +473,10 @@ Even then, [everything everywhere can be securities fraud under the right judge]
 - CEOs of public companies know more about the company than outsiders do, but they're technically committing securities fraud if they even own 1 share of that company's stock.
   - They tend to trade with 10b5-1 trading plans over a set period of time to (typically) convert their stock into fungible cash.
 - Board members of public companies know more about the company than outsiders do, but they're likely in violation of fiduciary responsibility if they own 1 share of that company's stock.
+- To stay safe, make sure all your trades are based on "public information".
+  - The information must be accessible to everyone.
+  - The information may be your [trade-specific](jobs-specialization.md) expertise, but anyone else should be able to theoretically research it.
+  - However, even with public information, expect lawsuits anyway if you make enough money on it.
 
 Criminally [prosecuting](legal-safety.md) over securities fraud is difficult.
 

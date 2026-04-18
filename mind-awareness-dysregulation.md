@@ -35,3 +35,57 @@ While there are many ways to implement it, can only attain self-regulation throu
 2. [Closely assess](logic.md) how and where [everything sits in relationship to ourselves](https://gainedin.site/layers/).
 3. Find out why we are [certain](certainty.md) of some things, what we have actual control over, and everything we are [capable of doing](purpose.md).
 4. Apply [virtue](morality.md) appropriately for the situation to know what we ought to do, and when.
+
+## Re-regulation exercises
+
+There are many various ways to re-regulate.
+
+- Each approach comes from a different angle for slowing down and separating our feelings from our observations.
+- In one sense, they're all forms of [meditation](mind-awareness-meditation.md) upon our perspectives.
+- None of these are ideal, since the most dramatic benefit comes from simply disengaging from feeling a compulsion to act.
+
+Self-Scan
+
+- Scan top-to-bottom how your body is right now, without judgment.
+- Sequentially relax each muscle in your body ("progressive muscle relaxation" or PMR)
+
+I Notice, I Wonder
+
+- Use the sentences "I Notice" and "I Wonder" to describe what you're observing.
+- When making observations, stick to what is provably present, and avoid not inferences or connections.
+- Then, consider what you still do not understand and want to know.
+
+Connect, Extend, Challenge
+
+- Categorize new observations through several lenses:
+  1. Connect: How does this confirm what I already know?
+  2. Extend: What new ideas have broadened what I know?
+  3. Challenge: What contradictions or issues am I observing here?
+
+Observations, Inferences, Questions
+
+- Ask several questions about whatever you're observing:
+  1. Observations: What do I notice? (only concrete, [certain](understanding-certainty.md) things)
+  2. Inferences: What do I think? (interpretations and conclusions)
+  3. Questions: What do I wonder?
+
+Step Inside
+
+- When observing someone, ask a few questions:
+  - What can that person perceive?
+  - What might that person know or believe about the situation?
+  - What might that person care about?
+  - What is that person unable to know?
+
+3-2-1 Bridge
+
+- Before engaging with an observation, write down several things:
+  - 3 words or ideas associated with it.
+  - 2 questions you have about it.
+  - One comparison to something else that comes to mind.
+
+Observer/Actor
+
+- Detach yourself from the experience and observe it as it comes by.
+  - Watch your feelings and thoughts as they arise, as if you were observing yourself.
+- Then, try to accurately describe what each "actor" feels in that interaction.

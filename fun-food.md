@@ -67,7 +67,7 @@ Fried Potatoes:
 
 Fruit roll-ups:
 
-- Purée fresh fruit and spread thinly on parchment paper, then dry for 5--8 hours in oven for 170 °F.
+- Purée fresh fruit and spread thinly on parchment paper, then dry for 5-8 hours in oven for 170 °F.
 - Fortune cookie roll-ups: fold fruit roll-ups into fortune cookies.
 - Gusher blunt: roll Gusher candy inside fruit roll-ups.
 - Dessert sushi: wrap Rice Krispies treats, Swedish fish, and Twizzlers with fruit roll-ups.
@@ -103,7 +103,7 @@ Ramen noodles:
   - Mix any leftover food you have in a bowl or pot with generous amounts of broken-up ramen.
     - The original recipe in prisons uses a trash bag.
   - Add any spices you want.
-  - Pour hot water over the mixture and let it sit for 10--20 minutes.
+  - Pour hot water over the mixture and let it sit for 10-20 minutes.
 
 Tacos:
 
@@ -198,7 +198,7 @@ Prep sweets conveniently:
   - Instead of frosting, use ice cream barely warmed to spreadable.
   - Set a big marshmallow on top of cupcakes as soon as you take them out of the oven.
 - People tend to overcook brown sugar:
-  - Throw a wet paper towel in the box, then cook in the microwave for 20--30 seconds.
+  - Throw a wet paper towel in the box, then cook in the microwave for 20-30 seconds.
 - Bake cookies in a muffin tray to keep them from spreading or becoming hard.
 - Bake pre-packaged cinnamon rolls on a waffle iron.
 - Make better chocolate cakes by adding a teaspoon of vinegar.
@@ -250,7 +250,7 @@ Fruit desserts:
   1. Cut off the top of a strawberry and take out its core.
   2. Add Nutella and use the top as a lid.
 - Strawberry shortcake roll:
-  1. Cut the crust off white bread.
+  1. Cut the crust from white bread.
   2. Roll up strawberry pieces inside the bread.
 - Yogurt strawberries
   - Cut strawberries in half, dip in yogurt, and freeze.
@@ -294,11 +294,11 @@ Cakes and sweetbreads:
   - Add Nutella on top of cinnamon rolls before baking.
 - Nutella cookies:
   - Mix a cup of Nutella, an egg, and a cup of flour.
-  - Bake at 350 °F for 6--8 minutes.
+  - Bake at 350 °F for 6-8 minutes.
 - Nutella S'Mores pizza:
   - Spread a thick layer of Nutella on flat crust pre-made pizza dough.
   - Sprinkle mini-marshmallows over the top.
-  - Grill for 10--15 minutes.
+  - Grill for 10-15 minutes.
 - Orange rind cinnamon rolls:
   - Prepare cinnamon rolls inside orange peel halves.
 - Oreo brownies:
@@ -322,14 +322,14 @@ Cakes and sweetbreads:
 - Rolo-stuffed Ritz crackers:
   1. Set Ritz crackers on a baking sheet.
   2. Place one Rolo candy large-side down on each cracker.
-  3. Bake at 350 °F for 3--5 minutes.
+  3. Bake at 350 °F for 3-5 minutes.
   4. Add another cracker on top and push down a little, then let it cool.
 
 Ice cream and popsicles:
 
 - Ben & Jerry's sandwich:
   1. Cut a horizontal slice out of an ice cream box.
-  2. place the ice cream slice between 2 cookies.
+  2. Place the ice cream slice between 2 cookies.
   3. Remove the paper.
   - Alternately, use a cinnamon roll instead of cookies.
 - Gummy bear popsicles:
@@ -375,7 +375,7 @@ Hard candies and other ideas:
 - Butterfinger bark candy bar:
   1. Microwave 12 oz of chocolate chips in a dish in 30-second intervals, stirring each time until completely melted.
   2. Spread melted chocolate on a foil-lined baking sheet.
-  3. Microwave 20 oz candy corn in a separate bowl for 90--120 seconds, or until melted.
+  3. Microwave 20 oz candy corn in a separate bowl for 90-120 seconds, or until melted.
   4. Stir the candy corn rapidly, then stir in 1.25 cups creamy peanut butter, mix well to combine.
   5. Carefully spread the candy corn mixture over the chocolate layer.
   6. Microwave another 12 oz of chocolate chips in a dish in 30-second intervals, stirring each time until completely melted.
@@ -384,7 +384,7 @@ Hard candies and other ideas:
 - Cereal treats:
   1. Mix any cereal (usually Rice Krispies) and mini marshmallows into a greased bowl.
   2. Microwave for 30 seconds
-  3. Let it harden for 1--2 minutes, then add toppings and mold into bars.
+  3. Let it harden for 1-2 minutes, then add toppings and mold into bars.
 - Chocolate bowls:
   1. Dip balloons in chocolate and wait for them to harden.
   2. Deflate the balloon and fill the bowl with dessert.
@@ -483,7 +483,7 @@ Make your own pumpkin spice latte:
   - A cup of milk
   - 2 cups of ice
   - 3 tablespoons of canned pumpkin
-  - 2--4 tablespoons of coffee
+  - 2-4 tablespoons of coffee
   - 1 tablespoon of pumpkin pie spice
 
 ## Alcoholic Drinks
@@ -502,7 +502,7 @@ Holiday drink:
 Kool-Aid vodka:
 
 1. Put three different Kool-Aid flavor ice cubes in Sprite.
-2. Add 1--2 shots of vodka for the drink flavor to change as it melts.
+2. Add 1-2 shots of vodka for the drink flavor to change as it melts.
 
 Liquor popsicles:
 

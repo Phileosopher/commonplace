@@ -7,7 +7,7 @@ Creativity is the ability to create, and it usually implies imagination or origi
 
 Creativity isn't simply useful: *all* the consistent aspects of [success](success-1_why.md) require creativity.
 
-People often venerate creativity and imagine it requires talent, but [anyone can be creative](mind-creativity-how.md). And, if someone *can* create but they don't, they prevent the rest of us from having an increased [awareness](mind-awareness.md) of the world.
+People often venerate creativity and imagine it requires talent, but [anyone can be creative](mind-creativity-how.md). And, if someone *can* create and doesn't, they prevent the rest of us from having an increased [awareness](mind-awareness.md) of the world.
 
 ## The essence of creativity
 
@@ -43,7 +43,7 @@ The very essence of an idea in our minds represents a new [value](values.md) for
 
 The formation of most works regarded as "masterpieces" were simply cleverness mixed with constraints:
 
-- Jazz solos were designed to extend the length of a song after the "written" part of a song ran out and the dancers wanted to keep going. This is also how the club/house music genre came into existence.
+- Jazz solos were designed to extend the length of a song after the "written" part of a song ran out and dancers wanted to keep going. This is also how the club/house music genre came into existence.
 - The role of DJ was to hide the fact that different songs' beats per minute (BPM) had to have a fractional relationship to each other (e.g., 60 BPM versus 90 or 120 BPM) or the song would [feel](mind-feelings.md) off-tempo.
 - The movie "Jaws" built a *lot* of dramatic tension about the shark attacking because the mechanical shark kept breaking down.
 
@@ -51,10 +51,10 @@ APPLICATION: If a work wasn't created from constraints, it was created from [new
 
 - Around 1900, concert audiences weren't allowed to eat, shout, and chat during a performance. Once this convention was established, composers could explore very quiet themes in their music.
 - Once music could be recorded (and re-recorded) it started to become dramatically more complex.
-- Popular music in the 1970's has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980's experienced an explosion of new sounds and new styles.
-- In the early 2010's, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
+- Popular music in the 1970s has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980s experienced an explosion of new sounds and new styles.
+- In the early 2010s, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
-We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little bit, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](mind-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](entrepreneur-why.md).
+We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](mind-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](entrepreneur-why.md).
 
 Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
@@ -133,7 +133,7 @@ Since we often feel confident enough about our ability, we'll usually [publish](
 
 Once we've discovered nearly all the [rules](people-rules.md), we'll find it repulsive and become dissatisfied. We'll have a burning question that's a variation of "is that really it?"
 
-We'll try to modify portions of our tasks to create new things for new situations. While the tasks are different, and often unique, they're often [lower-quality](values-quality.md) than what we were trained in. However, because they're different than what we're accustomed to, we treat it as [original expressions](humanity.md) of our souls.
+We'll try to modify portions of our tasks to create new things for new situations. While the tasks are different, and often unique, they're often [lower-quality](values-quality.md) than what we were trained in. However, because they're different from what we're accustomed to, we treat it as [original expressions](humanity.md) of our souls.
 
 Since nothing is really [new](people-image-why.md), we might be breaking [convention](people-culture.md), but are more often making something [ugly](values-quality.md) that doesn't add any legitimate [value](purpose.md). Young people may find it interesting, but the [industry in general](jobs-specialization.md) won't care.
 
@@ -157,7 +157,7 @@ Instead of making something that evokes a specific [feeling](mind-feelings.md), 
 - Including only [features](engineering-design.md) that give the user a better experience.
 - Adding decorations that contribute more to the story.
 
-By removing unnecessary elements, we magnify the the [story](stories-why.md) we're trying to build by punctuating what's left after we've removed the extra noise.
+By removing unnecessary elements, we magnify the [story](stories-why.md) we're trying to build by punctuating what's left after we've removed the extra noise.
 
 This is the creative limit for most people in things that aren't their natural disposition at this stage.
 
@@ -178,7 +178,7 @@ At this stage, the creator has found a way to conceal *all* the messy parts of t
 
 Often, the creator will make the task look so easy that it'll feel like *anyone* could do it. They'll treat their tools or performance as if it were as familiar as breathing or walking. Since the consumers are aware of the effort it takes, they will feel the effort at making a hard thing look easy.
 
-That creator has polished their skills until they can made something utterly profound. Observers from the outside will feel a [connection](symbols.md) to the creation, but won't be able to describe it in words.
+That creator has polished their skills until they can make something utterly profound. Observers from the outside will feel a [connection](symbols.md) to the creation, but won't be able to describe it in words.
 
 Usually, the form of the creation will suggest things instead of telling them. As the consumer engages, they will [discover](purpose.md) that depth for themselves, but not outright. The experience will make the consumer feel like they're a participant in the work and not merely a spectator.
 
@@ -192,7 +192,7 @@ Everyone needs [power](power.md) to make something, so they usually calculate wh
 
 Most of that work is unpleasant, so we try to find ways around it. We'll typically use [tools](technology.md) to speed up the unpleasant work. Sometimes, we're making tools to make *those* tools.
 
-APPLICATION: Most creativity requires immense solitude to develop, which is why most creative people are [introverts](people-personality.md).
+APPLICATION: Most non-performance creativity requires immense solitude to develop, which is why creative people are often [introverts](people-personality.md).
 
 The creative process itself is always messy. Creators have a constant [inner war](people-conflicts-inner.md) between perfection in their [imagination](mind-imagination.md) and the imperfections of [reality](reality.md). Most introspective creators grow to hate their earliest works and often try to create future [trends](people-trends.md) to distance themselves from their initial success.
 

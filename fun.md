@@ -26,7 +26,7 @@ We can have fun even when we're not doing designated "fun" things:
 
 Boredom is the best time to have fun:
 
-- Boredom is typically from not being [creative](mind-creativity.md) in that moment.
+- Boredom is typically from not being [creative](mind-creativity.md) at the moment.
 - We tend to lose our creative edge as we get older.
   - [Children](parenting-children.md) can typically have fun with anything, anywhere.
 - Consuming tons of media (as opposed to creating) inhibits our ability to have fun.

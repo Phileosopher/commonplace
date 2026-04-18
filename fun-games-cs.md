@@ -18,7 +18,7 @@ While it wasn't distributed commercially for a few years, *technically* the firs
 
 The 1970s represented some pioneering ideas in gaming, mostly dominated by Atari. However, processor limitations left the UX somewhat lacking, and the most timeless experiences from that era came through [vector graphics](engineering-graphics.md) (e.g., Missile Command, Asteroids, Battlezone).
 
-In the early 1980's, the graphics *heavily* improved, meaning that the visual elements started looking a bit more like what they were supposed to represent:
+In the early 1980s, the graphics *heavily* improved, meaning that the visual elements started looking a bit more like what they were supposed to represent:
 
 - Vector graphics was phasing out, but a few games carried the idea farther in arcades (e.g., Tempest, Star Wars).
 - Many legendary games arose during this time: Pac-Man, Centipede, Defender, Donkey Kong, Frogger, Galaga, Joust, Ms. Pac-Man, Pitfall!, Robotron: 2084, and Lode Runner.
@@ -78,7 +78,7 @@ From there, most of the late 1990s was polishing the styles and formula present 
 - Strategy (e.g., Warcraft II, Civilization II, Command & Conquer: Red Alert, Age of Empires, Total Annihilation, StarCraft, Age of Empires II, Homeworld)
 - First-Person Shooter (e.g., Duke Nukem 3D, Quake, GoldenEye 007, Quake II, Star Wars: Jedi Knight: Dark Forces II, Half-Life, Quake III: Arena, Unreal Tournament)
 - Shoot-Em-Up (e.g., Star Fox 64)
-- Role-Playing (e.g., Pokemon Red and Blue, Diablo, Fallout, Final Fantasy Tactics, Final Fantasy VII, Baldur's Gate, Fallout 2, Panzer Dragoon Saga, Suikoden II, Planescape: Torment, Pokemon Gold and Silver)
+- Role-Playing (e.g., Pokémon Red and Blue, Diablo, Fallout, Final Fantasy Tactics, Final Fantasy VII, Baldur's Gate, Fallout 2, Panzer Dragoon Saga, Suikoden II, Planescape: Torment, Pokémon Gold and Silver)
   - The first foray into Action Role-Playing (e.g., System Shock 2)
 - Fighting (e.g., Tekken 3, Soulcalibur)
 - Survival Horror (e.g., Resident Evil, Resident Evil 2, Silent Hill)
@@ -185,7 +185,7 @@ For that reason, it helps to understand the general eras of "video game consoles
    - Still rudimentary 8-bit graphics
    - 1-2 MHz CPU, 32-KB memory
    - Introduced loadable game cartridges instead of integrated games
-   - e.g., Fairchild Channel F, Atari 2600, Mattel Intellivision)
+   - e.g., Fairchild Channel F, Atari 2600, Mattel Intellivision
 3. 1983-2003 Third Generation:
    - The pinnacle of 8-bit graphics (like Super Mario Bros.)
    - 2-4 MHz CPU, 72 KB memory
@@ -219,7 +219,7 @@ For a long time, PC titles were lagging behind video games' graphics. Mostly, th
 
 Now, PC gaming has effectively taken over the dedicated graphical experience of video games, for multiple reasons:
 
-- [Graphics](engineering-graphics.md) technology has largely slowed down now that it's reached a hard limit. More cores is possible, but ~3.8 GHz is a core's electrical limit before the heat sink is no longer economically feasible. This makes the technology generally more homogenous for developers to build.
+- [Graphics](engineering-graphics.md) technology has largely slowed down now that it's reached a hard limit. More cores are possible, but ~3.8 GHz is a core's electrical limit before the heat sink is no longer economically feasible. This makes the technology generally more homogenous for developers to build.
 - PCs have certain advantages over consoles including personal freedom in choice of gaming peripheral, the multi-use nature of a PC versus dedicated gaming hardware, online download services like [Steam's](http://store.steampowered.com/), [GOG's](http://gog.com/), and [Epic Games'](http://epicgames.com/) that give a wider variety of playable titles than a console could provide, and even the freedom to [emulate](computers-distsys-vm.md) game consoles directly.
 - The power of typical graphics cards peripherals for PCs are more-or-less the same price/power ratio as many game consoles.
 - All the developers use mostly the same tools for different platforms, so console-exclusive titles are slowly becoming a fading trend from the lost profits that could have come from porting to PC, though Nintendo has still been holding out as of 2023.

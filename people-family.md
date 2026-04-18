@@ -11,7 +11,7 @@ In some situations, such as close [friendships](people-friends-why.md) and [Chri
 
 APPLICATION: Our [favoritism](people-friends-why.md) for family members creates some of the most screwed-up relationships on the planet. We will endure unbelievably inappropriate [boundary violations](people-conflicts-why.md) on the pretense of "family".
 
-Healthy family dynamics come through combining several different components that feed off each other:
+Healthy family dynamics come through several things that interconnect with each other:
 
 - Biological or commitment connections that at least *imply* [responsibility](meaning.md) for each other.
 - A [marriage](people-gender.md) that frames a structural example for [idealized](values.md) relationships, including sexual attraction.
@@ -29,9 +29,12 @@ Even though the people who marry are most [influenced](influence.md) by a [weddi
 While both genders play a part in the formation of a child, the female has a more clear role in the formation of a family:
 
 - While men have to find all sense of [meaning](meaning.md) in the establishment of a family, a woman has the inherent biological qualities of producing and nurturing children in [their formative years](parenting-babies.md).
-- The quality of a woman's [education](education.md) has the most impact on a family, since it she imparts more of it to her children than a man who has to work a [career](jobs-specialization.md) elsewhere.
+- The quality of a woman's [education](education.md) has the most impact on a family, sinc she imparts more of it to her children than a man who has to work a [career](jobs-specialization.md) elsewhere.
 
-The man's role is far more nuanced, and essentially gives the child a model for how to conquer [the unknown](unknown.md).
+However, the man's role is far more nuanced and critical.
+
+- Scientific studies have shown that absentee mothers are less damaging to a child than absentee fathers.
+- His approach to life essentially gives the child a model for how to conquer [the unknown](unknown.md).
 
 ## Parent switch
 
@@ -74,7 +77,7 @@ With respect to [human universals](humanity-universals.md), children are the sam
 2. Children have very little context to [self-learn](education.md), so they need more clarification than any adult would to [understand](understanding.md) anything. But, they also have an *insane* rate of learning, so they don't need as much repetition as an adult.
 3. Children have an "invisible authority" in their minds, which is a [reproduction](people-image-why.md) of how they [envision](mind-imagination.md) their parents will [respond](results.md). Later, they'll remix that role with other authority figures of various types to form their own self-discipline.
 
-APPLICATION: What a parent expects is often different than what a child *thinks* the parent expects. Having frequent [conversations](people-conversation.md) about it can alleviate that discrepancy, but it's [not perfect](people-image-why.md).
+APPLICATION: What a parent expects is often different from what a child *thinks* the parent expects. Having frequent [conversations](people-conversation.md) about it can alleviate that discrepancy, but it's [not perfect](people-image-why.md).
 
 Most of the challenges regarding parenting aren't because the tasks are particularly [vague](unknown.md) or [difficult](purpose.md), but more because the experience is [emotionally](mind-feelings.md) extreme. We're [influenced](influence.md) by others' feelings to the degree we [love](people-love.md) them, and a child will express an emotional range between anxiety, fear, and elation within mere minutes. Since our experience intensifies as our love intensifies, the experience does as well. The only way to stay sane is to live by [virtue](morality.md).
 
@@ -98,7 +101,7 @@ APPLICATION: Children are completely uncivilized, and it's the parent's job to f
 
 ## Generations
 
-Every [culture](people-culture.md) needs parents to give [value](meaning.md) to children. Otherwise, without that belief, all of society would unravel simply from a severe drop in reproduction rates mixed with an [elder-balanced](maturity.md) population demographic that wouldn't be able to sustain itself.
+Every [culture](people-culture.md) needs parents to give [value](meaning.md) to children. Otherwise, without that belief, all society would unravel simply from a severe drop in reproduction rates mixed with an [elder-balanced](maturity.md) population demographic that wouldn't be able to sustain itself.
 
 After a child becomes a parent a few decades later, they will deliver more [pain](hardship-family.md) on their children than they realize, and sometimes *worse* than a generation prior. Parents usually trust their [intuition](mind-feelings.md), which creates an [illusion](people-image-why.md) they're doing a better job than *their* parents, which can begin a downward spiral of [conceit](morality-evil.md) for many parents.
 
@@ -112,7 +115,7 @@ A people group made of one set of genetics will have a certain [cultural](people
 
 ## Classes
 
-Unless they have *amazing* parents, a child raised by a [powerful](power.md) family is at an unusual disadvantage. By having their power from birth (as opposed to [building it](creations.md)), the child has no legitimate [aptitude](results.md) with what they [wield](purpose.md) and can only learn to grow from that position onward. If their family name ever loses power (which they often can't control), they will likely never recover without help if they drop down a [social class](classes.md).
+Unless they have *amazing* parents, a child raised by a [powerful](power.md) family is at an unusual disadvantage. By having their power from birth (as opposed to [building it](creations.md)), the child has no legitimate [aptitude](results.md) with what they [wield](purpose.md) and can only learn to grow from that position onward. If their family name ever loses power (which they often can't control), they will likely never recover without help if they move down a [social class](classes.md).
 
 On the other hand, a child who came from a low-ranking family has an unspoken advantage within their domain. If their parents taught them well, they'll be able to weather more hardship from having grown up without much privilege. While it's more difficult than it sounds, if they can [hide their shoddy background](people-image-why.md), they will often be a class above *any* of their peers.
 
@@ -131,13 +134,13 @@ Parental failures express through a few possible modes:
 - The parents give [the wrong example](groups-small.md) or [reward bad behavior](habits.md).
 - The children don't [perceive](people-image-why.md) they're [loved](people-love.md).
 
-When a parent fails, a child must discover [the good life](people-goodlife.md) outside of their parents' [influence](influence.md).
+When a parent fails, a child must discover [the good life](people-goodlife.md) outside their parents' [influence](influence.md).
 
 A child's model from how they were parented determines how they process the rest of the world. When the rest of the world pushes back, that child can only conclude a few possibilities:
 
 1. Blame other people for their problems, often falling into [addictions](addiction.md) to cope with the unrelenting nature of [reality](reality.md).
 2. Continually re-learn [society's boundaries](people-rules.md) by trial-and-error until they figure them out.
-3. Prematurely [end their life](hardship-depression.md).
+3. Prematurely [end their lives](hardship-depression.md).
 
 Most parents don't want to admit failure, so they tend to blame other things for the way they failed:
 
@@ -152,13 +155,13 @@ Often, parents will realize they can't [change](people-changes.md) their child, 
 
 Other times, the *child* will want to leave as soon as physically possible. This is why many kids go to [college](jobs-college.md) on the opposite side of the country.
 
-One benefit of [advanced civilizations](technology.md) is that any individual person doesn't need pre-existing social associations anymore quite like they had in the past. The means to [communicate](people-conversation.md) with other people across the world can empower someone to [join](groups-member.md) or [found](groups-small.md) a community based on shared [ideas](values.md) instead of mere [necessity](purpose.md).
+One benefit of [advanced civilizations](technology.md) is that any individual person doesn't need pre-existing social associations quite like they had in the past. The means to [communicate](people-conversation.md) with other people across the world can empower someone to [join](groups-member.md) or [found](groups-small.md) a community based on shared [ideas](values.md) instead of mere [necessity](purpose.md).
 
 APPLICATION: It's easier to build a community than it ever has been before. All someone needs is the [motivation](meaning.md) to do it, some relatively [easy-to-acquire](purpose.md) [technology](technology.md), and the willingness to persevere with it.
 
 Due to the general increased burden of responsibility upon males, the destruction of the father role starts the inward [deconstruction](people-trends.md) of most [societies](groups-large.md), and develops through a predictable pattern:
 
-1. Typically through a [motivation](purpose.md) for comparatively similar [power](power-types.md), females work to place themselves in male roles.
+1. A [motivation](purpose.md) for comparatively similar [power](power-types.md) can motivate females to work themselves into male roles.
 2. Males aren't able to easily compete, since they'll be seen as a bully if they go full-force, so they bow out of the competition and give it to the females.
 3. When the responsibility-bearing males are eventually phased out to nothing but females, there are no more male models for children to look to.
 4. The children who develop into low-[grit](people-personality.md), higher-agreeableness adults aren't able to take over the systems from their predecessors.

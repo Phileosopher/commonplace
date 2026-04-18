@@ -1,10 +1,10 @@
 
-# Incentive triggers list
+# Hacks to maximize actions
 
 Connect things with anything that could speed up your workflow:
 
 - Group tasks by location, what tool you'll need, or who needs it.
-- As you do routine things, think 1--2 steps *ahead* of where you're at, then optimize each task to naturally flow from one to the next.
+- As you do routine things, think 1-2 steps *ahead* of where you're at, then optimize each task to naturally flow from one to the next.
 - Try to minimize "travel time", which can include going from one place to another, arm or hand movements, and moving in between rooms.
 
 Even if you have necessary distractions, you can still usually find [creative](mind-creativity.md) ways to work *around* those things.
@@ -53,7 +53,7 @@ Place your alarm clock across the room to require waking up to turn it off:
 
 If you share showers with someone, try to stagger your alarm to avoid interfering with their schedule.
 
-Sleep 7--9 hours every night.
+Sleep 7-9 hours every night.
 
 ## Start your morning correctly
 
@@ -410,7 +410,7 @@ Drink containers:
 Sealing envelopes:
 
 - Secure a small dampened sponge to a pencil top with a rubber band to make an envelope sealer.
-- Plan an envelope in the freezer for 1--2 hours to re-open it without breaking its seal.
+- Plan an envelope in the freezer for 1-2 hours to re-open it without breaking its seal.
 - Microwave a postage stamp with a few drops of water on it for 20 seconds to remove it without damaging it.
 - You don't need an envelope or box to mail anything under 13 oz (like a box of candy).
 
@@ -458,6 +458,12 @@ Tool alternatives:
   - Twist a wire around a pencil and sharpen the end of the wire.
   - Hold a pen while pressing your pinky and pen on the paper, then spin the paper around.
   - Draw a perfect ellipse by tying a string into a ring, then drawing the borders of the string around two stationary pins.
+
+Rolling ratchet straps:
+
+1. Stick two large nails into a drill and close the bit clamp onto them.
+2. Lace a strap through the two nails.
+3. Activate the drill to reel in the strap.
 
 Remote control hacks:
 

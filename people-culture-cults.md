@@ -3,19 +3,21 @@
 
 A cult is a relatively recent broad term representing a wide variety of concepts:
 
-1. A [religion](religion.md) someone regards as unorthodox or spurious.
+1. A [religion](religion.md) someone regards as unorthodox, spurious, [taboo](morality-taboo.md) or [corporately abusive](hardship-abuse.md).
 2. Great [devotion](addiction.md) to a [person](humanity.md), [idea](values.md), [object](reality.md), [movement](people-trends.md), or [work](creations.md).
 3. A [small group](groups-small.md) who identify heavily with the above.
 4. A [formal system](logic.md) of religious beliefs and rituals that veers into [taboo](morality-taboo.md) behavior.
 
-Like the concepts of [power](power.md) or [hacking](hacking.md), we [intuitively](mind-feelings.md) know it when we see it, but have a hard time [defining it](language.md).
-
-In short, a cult is most easily defined as "[group](groups-small.md) [gaslighting](influence.md)", and has the following elements:
+[Legal](people-rules.md) identifiers of a cult come through the following elements:
 
 1. A [charismatic](influence.md) leader who first embodies the group's [values](values.md), then the group trends to following their [personality](people-personality.md) as the values phase out
 2. Extreme viewpoints relative to the [surrounding culture's norms](people-culture.md)
 3. A [strict](people-rules.md), formal group hierarchy that [severely enforces](morality-taboo.md) those viewpoints
 4. The group violates members' [rights and boundaries](people-boundaries-why.md) while also redefining the [members'](groups-member.md) thoughts and feelings
+
+More than anything, its safest formal definition can be a [religion](religion.md) where the leadership is so [influential](power-influence.md) that they've persuaded members to [trust](mind-trust.md) their assertions to the point that they follow [irrational](logic.md) beliefs.
+
+Cults are partially difficult to define due to the [group's](groups-small.md) collective [gaslighting](influence.md). In many respects, a cult could be regarded as the results of a highly successful [narcissist](mind-neurodivergence-clusterb-narcissist.md).
 
 APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-like behavior based on how much that group violates its members' [boundaries](people-boundaries-why.md) with their consent. On one end, it's a [well-marketed](marketing.md) product that implies a greater sense of meaning than what it really is, and goes all the way to a top-down [authoritarian](people-rules.md) society that advances genocide.
 
@@ -35,13 +37,17 @@ Any person, however, only becomes a victim of undue influence when several simul
 2. That authority figure has a [story](stories-why.md) that doesn't reflect or accommodate [reality](reality.md).
 3. That person decides to trust the authority figure's [story](stories-why.md) over their [understanding](understanding.md).
 
+APPLICATION: People aren't merely "brainwashed" into a cult. They had to have been trained towards high suggestibility beforehand. This would be [taboo](morality-taboo.md) to confront, but the parents of cult members are at least partly to blame for their membership and actions.
+
 ## Power
 
 Most large groups use the [power of influence](influence.md) in some capacity, but cults use that influence and [trust](mind-trust.md) toward *very* unhealthy [purposes](purpose.md):
 
-- The leadership are selfish and direct most contributed resources toward their interests.
+- The leadership is selfish and direct most contributed resources toward their interests.
 - A leader is delusional toward believing they must follow directives that transcend mankind's judgment.
 - A leader is delusional to believing they are simply operating toward the common interests of humanity.
+
+Like the concepts of [power](power.md) or [hacking](hacking.md), we [intuitively](mind-feelings.md) know it when we see it, but have a hard time [defining it](language.md). [Pop culture](stories-storytellers.md) has magnified the manipulation imagery, but cult-like behaviors can happen in any domain.
 
 Most cults start with at least a few of several distinct experiences:
 
@@ -92,7 +98,7 @@ However, long-term cults will adopt a few other types of people:
 Usually, joining a cult requires a large personal sacrifice.
 
 - This sacrifice ensures the member has found [meaning](meaning.md) regading the group, since their efforts will validate that the sacrifice was worth it.
-- Further sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
+- Additional sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
 - Eventually, they've sacrificed all sense of [self](humanity.md), [identity](people-identity.md), [ownership](people-boundaries-why.md), or [agency](mind-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
 
 ## Advancing

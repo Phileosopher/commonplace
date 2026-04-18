@@ -61,7 +61,7 @@ Consider the value of an item relative to saving and [investing](money-investing
 Not everything you buy will give you the same satisfaction:
 
 - We tend to compare how items will give us happiness when we want to purchase them, but that satisfaction is never worth the trouble we make researching.
-- You'll find *much* more happiness buying 20 $5 items you like than buying a $100 item.
+- You'll find *much* more happiness buying twenty $5 items you like than buying one $100 item.
 - Buying *things* is rarely as rewarding as buying *experiences*.
 
 ## Companies assault your ability to say "no"
@@ -237,7 +237,7 @@ Research what the marketplace looks like:
 
 Look at product reviews:
 
-- Web search the product on forums and message boards instead of looking at product reviews, since they usually include important facts not covered by reviews.
+- Websearch the product on forums and message boards instead of looking at product reviews, since they usually include important facts not covered by reviews.
 - High reviews are often paid-for, and low reviews are unusual cases, so only read 3-star reviews that weigh the pros and cons.
 - If the negative reviews revolve around shipping issues, damaged on arrival, or trivial features the product is good, but if it's not a good product if it covers failures or breakdowns shortly after purchase.
 
@@ -264,7 +264,7 @@ B. Buy used whenever possible:
   - Go to local flea markets and swap meets.
   - Pawn shops sometimes have good deals.
   - Attend public auctions and police auctions.
-  - Check out repo lots and tow yards.
+  - Check out repo lots and towing yards.
 
 C. Look for discounts or promotions:
 

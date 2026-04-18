@@ -157,7 +157,7 @@ APPLICATION: As a student struggling with a curriculum, it's very difficult to f
 
 1. The teacher is giving a well-intended but insufficient expansion of some very difficult ideas.
 2. That teacher is trying to explore new concepts while also trying to teach their students.
-3. The teacher is pontificating and they don't really understand the topic, but they look important by making the subject needlessly complicated.
+3. The teacher is pontificating and doesn't understand the topic, but they look important by making the subject needlessly complicated.
 
 APPLICATION: A major risk for all [teachers](education.md) is that they will invariably teach their subject enough that they're not as effective as actually [doing anything](purpose.md) with what they have. The only solution is for them to teach less and do more, but then they wouldn't be [specialized enough](jobs-specialization.md) for anything.
 

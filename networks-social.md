@@ -11,7 +11,7 @@
 6. The user may also have a "feed" that allows that user to present constantly updated, date-sorted data.
 7. Each element of data might give the user freedom to constrain [permissions](computers-cysec-authentication.md) for which users (or unidentified computer users) can access the information.
 8. Users may have the freedom to make comments on other users' information.
-9. The comments system may be enhanced so heavily that the users can centralize it on a topic, which is often called a "forum".
+9. The comment system may be enhanced so heavily that the users can centralize it on a topic, which is often called a "forum".
 10. The users may grant shared permissions with one another, with some demarcated relationship (e.g, friend, connection, buddy, etc.).
 11. Finally, "recommender systems" can recommend portions of relevant users' data to other users.
 

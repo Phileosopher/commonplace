@@ -14,7 +14,7 @@ While it may not seem intuitive, they *will* make [friends](people-friends.md).
 
 - Their friends will either be other narcissists who can empathize with their outlook on life or shallow friendships that give them the validation they're looking for.
 - Sometimes, they'll stay closer to some people for the purpose of creating allies.
-- The only constant with their friends is that they will discard their friends (even their [spouses](relationships-marriage.md)) when those people aren't useful to them anymore (Stage 8 below).
+- The only constant with their friends is that they will discard their friends (even their [spouses](relationships-marriage.md)) when those people are no longer useful (Stage 8 below).
 - They'll tend to prioritize their casual friendships and strangers over their [partner](relationships-marriage.md) for several reasons:
   1. They can gaslight their partner by using their friendship.
   2. Their friends are giving more supply than their partner is.
@@ -33,7 +33,7 @@ Silent power moves:
 
 - Standing too close
 - Touching when someone pulls away
-- Stnading when others are sitting
+- Standing when others are sitting
 - Sitting up to look taller
 - Leaning into a conversation
 - Leaning against a wall with the arm at chest height or higher

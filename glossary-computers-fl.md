@@ -189,7 +189,7 @@ Heuristic - a good-enough rule of thumb
 
 HDMI - high definition multimedia interface, a plug specifically designed for sending video information, sometimes with audio included
 
-Hexadecimal/Hex numbering - a means of communicating 4 binary numbers by using 0 through f, then putting 0x in front to clarify what it is (e.g., 0010100111010100001001100111 becomes 0x29d4267)
+Hexadecimal/Hex numbering - a means of communicating 4 binary numbers by using 0 through f, then placing 0x at the front to clarify what it is (e.g., 0010100111010100001001100111 becomes 0x29d4267)
 
 Hierarchical file system - a method of separating files with a hierarchy (C:\file.txt versus C:\Documents\file.txt)
 
@@ -217,7 +217,7 @@ Hung - the state of a function waiting for a callback function
 
 Hybrid - a combination of two things (e.g., a hybrid interface is mixing Interface A and Interface B)
 
-Hyperlink - also called weblink or simply a link, a text-based association to another resource on a network (usually a webpage), always has display text and an "href" (e.g., `[this site](stucky.tech/notes)` in Markdown or `<a href="https://stucky.tech/notes">this site</a>` in HTML)
+Hyperlink - also called weblink or simply a link, a text-based association to another resource on a network (usually a webpage), always has display text and a "href" (e.g., `[this site](stucky.tech/notes)` in Markdown or `<a href="https://stucky.tech/notes">this site</a>` in HTML)
 
 Hypervisor - software designed to run virtual machine containers, can be Level 1 (BIOS-level) or Level 2 (OS-level)
 

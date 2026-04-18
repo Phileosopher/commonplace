@@ -26,7 +26,7 @@ If you're only using one room:
 - Place a shallow bowl with ice or a frozen water bottle in front of a fan.
 - Tape a fan to blow into a cooler filled with ice, then run a duct out of a hole on the other side.
 
-Turn down the heater when using the fireplace and close its damper when not in use.
+Turn down the heater when using the fireplace and close the damper when not in use.
 
 Turn off the furnace pilot light during the non-heating season.
 

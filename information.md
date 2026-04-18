@@ -16,7 +16,9 @@ When we observe [nature](reality.md), the incoming perception assembles itself i
 - Wisdom - focused knowledge toward perceived [purposes](purpose.md)
   - e.g., the two cats are having a dispute over that ball of yarn, which may lead to a [conflict](people-conflicts-why.md)
 
-Therefore, we should only consume information relative to what our [purposes](purpose.md) are.
+As we go up this hierarchy, information moves from raw unrelated measurements and observations into clear wisdom on how to live.
+
+APPLICATION: We should only consume information relative to what our [purposes](purpose.md) are.
 
 ## The history of information
 
@@ -33,7 +35,7 @@ Multiple information technologies across history have gotten us here, but the [I
 5. Radio permitted us to deliver entire *lectures* to anyone in a region, irrespective of price, and the telephone let us hold conversations irrespective of distance.
 6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
 7. Electronic games and animation permit us to express fantasy to each other in a tangible medium.
-8. The internet has removed the need for much money to do all of the above, first for writing, then for everything else.
+8. The internet has removed the need for much money to do all the above, first for writing, then for everything else.
 9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](mind-imagination.md).
 
 The only thing even *close* to being similar is the invention of the [automotive](autos.md). Our minds are configured to handle the information flow of walking speed at 2-3 mph, and horseback riding maxed out around 25-30 mph. Driving a car that can easily surpass 60 mph is a dramatic normalization of what would be considered an overwhelming experience.
@@ -105,6 +107,6 @@ Without [awareness](mind-awareness.md) and making [decisions](mind-decisions.md)
 
 1. Passively permit too much information to flow in, waiting for [meaning](meaning.md) to arise from it.
 2. In a reactionary fit of overwhelm, vow to "purge" everything for a while.
-3. Revert back to passively permitting too much information to flow in, with no long-term solution to [fix it](https://adequate.life/fix/) in the future.
+3. Revert to passively permitting too much information to flow in, with no long-term solution to [fix it](https://adequate.life/fix/) in the future.
 
 Therefore, we need [long-term tactics that work](information-tactics.md), as well as specific approaches to [various types of media](information-media.md) and [specific information-heavy content](information-content.md).

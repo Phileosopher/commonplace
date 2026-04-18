@@ -39,7 +39,7 @@ A two-stroke engine combines the engine into only two strokes and has fewer movi
 
 1. Controlled explosion pushes the piston downward, with the exhaust naturally venting out without a valve.
 2. Near the bottom of the piston's motion, a valve opens up to permit more fuel to come in, which pushes out the rest of the exhaust.
-3. Piston returns back to the starting position from its inertia.
+3. Piston returns to the starting position from its inertia.
 
 ## Alternators/generators
 
@@ -57,7 +57,7 @@ There are 3 major components to generate a rotating magnetic field:
 
 ## Rocket engines
 
-Rocket fuel is *highly* combustible, and most rockets are designed to ignite the fuel as quickly and efficiently as possible. While hobbyist rockets can work with short-circuited wires, most larger motors require some form of black powder to ignite from wires to create a self-sustaining burn.
+Rocket fuel is *highly* combustible, and most rockets are designed to ignite the fuel as quickly and efficiently as possible. While hobbyist rockets can work with short-circuited wires, larger motors usually require some form of black powder to ignite from wires to create a self-sustaining burn.
 
 For highly advanced rockets, they tend to need *extremely* advanced cooling through the outside of the engine. Otherwise, the entire assembly would burn up. Regulating the timing between launching and temperature regulation is a highly advanced feat of engineering.
 

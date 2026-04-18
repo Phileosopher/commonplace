@@ -64,7 +64,7 @@ APPLICATION: Even when we act with [certainty](understanding-certainty.md), we'r
 
 This isn't an isolated experience in one's mind, however. Other people may not [see](understanding.md) the way we do, and our [culture](people-culture.md) tells us how we're supposed to [think](understanding.md) and [believe](understanding-certainty.md). We will agree with them proportionally to how much our [personality](people-personality.md) is willing to consent to others' values over our own.
 
-This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](mind-decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](mind-awareness.md). Most people find no reason to revisit  their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
+This entire process of declaring certainty happens rapidly and dictates almost all our [decisions](mind-decisions.md) and [needs](safety.md). The only way we're usually aware it even happens is because we're actively *trying* to slow down to gain a specific scope of [awareness](mind-awareness.md). Most people find no reason to revisit their judgments, so they persist in their [habituated](habits.md) without being aware of what they trust.
 
 APPLICATION: Since we must trust things constantly, we must *never* declare anything as 100% certain unless we'd unflinchingly give our lives for that premise.
 

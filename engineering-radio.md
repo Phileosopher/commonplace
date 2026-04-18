@@ -120,6 +120,6 @@ Since our bodies are bioelectrical systems, electromagnetic interference is a le
 
 [The United States Frequency Allocation Chart](https://www.beautifulpublicdata.com/the-united-states-radio-frequency-allocation-chart/)
 
-[43.33 km LOS with USB WiFi Stick](https://www.qsl.net/9a4qv/WiFi_Ri.htm)
+[43.33 km LOS with USB Wi-Fi Stick](https://www.qsl.net/9a4qv/WiFi_Ri.htm)
 
 [2012 BioInitiative Report](https://bioinitiative.org/)

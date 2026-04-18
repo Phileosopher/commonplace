@@ -21,6 +21,12 @@ Add clues to imply what will happen before it does (foreshadowing):
 - Provide details that imply something the reader can potentially figure out before you reveal it.
 - When transitioning to the next chapter or major idea, direct attention to a simple mystery (e.g., "And then I saw someone standing where they shouldn't", "But, the secret to success isn't as simple as what I've implied").
 
+If you're aiming to write a book that people will enjoy, aim for abotu 178 pages.
+
+- Fewer pages will make people feel like you moved too fast through the experience.
+- More pages will bog down the experience and deter people from it.
+- If you want a grander and deeper story, aim for multiple volumes in that format.
+
 ## Nonfiction: story-building
 
 Focus less on what the thing is and more on how the subject will help people:
@@ -204,7 +210,7 @@ Experiences:
 
 - Parents' names, parents' occupations
 - What was their relationship with their parents?
-- Any siblings? What were those relationship(s) like?
+- Any siblings? What were their relationship(s) like?
 - What kind of childhood did they have?
 - How were their adolescent years?
 - What kind of schooling did they undergo? (e.g., private, public, homeschool)
@@ -270,7 +276,7 @@ Every story revolves around a character's conflict:
   - The protagonist vs. themselves
   - The protagonist's [inner goal](purpose.md) vs. the protagonist's [external goal](results.md)
   - The protagonist's [fear](mind-feelings-fear.md) vs. the protagonist's goal (internal, external, or both)
-  - The protagonist vs. the antagonist
+  - The protagonist vs. antagonist
   - The antagonist vs. mercy (or the [appearance](people-image-distortion.md) of it)
 - The plot should force the protagonist to directly face almost everything they've spent their entire lives avoiding.
   - This doesn't mean it has to be huge, since we tend to hate small [conflicts](people-conflicts.md) more than large ones.
@@ -331,7 +337,7 @@ C. Write a one-page summary sheet for each character:
 - Add a one-paragraph expanded summary of their storyline.
   - You will likely need to revise your one-sentence summary in light of your character's development.
 
-    All you have to do is make things "good enough", not perfect, and then revise later as needed.
+    All you have to do is make things "good enough", not perfect, and then revise later.
 
 D. Expand each sentence of the summary paragraph into a full paragraph:
 
@@ -367,7 +373,7 @@ H. List all the scenes:
 
 I. Finally, type out the story's first draft:
 
-- Even when you're several drafts in, and it's still a mess, you can keep [reworking it until you get it right](success-5_persevering.md).
+- Even several drafts in when it's still a mess, you can keep [reworking it until you get it right](success-5_persevering.md).
 - You will probably work through 10-15 drafts by the time you're done.
 
 As you go, add details to the world you're crafting:
@@ -391,7 +397,8 @@ Every phrase or line of dialogue must either change behavior or set up condition
   - e.g., "The strong welder" is predictable, but not "The joyful welder".
 - Evoke feelings, but don't tell the reader how they should feel.
   - Readers automatically slip into the protagonist's frame of reference and see the world through their perception.
-- You shift "perspective" each time another character speaks or you make an explanation, and you should do this frequently to keep the story at an interesting pace.
+- You're shifting "perspective" whenever either another character speaks or you're making an explanation.
+  - To keep the story interesting, do this frequently.
 
 Use outer behavior to demonstrate the character's [conflicts](people-conflicts-inner.md), then move to their thoughts for more private desires:
 

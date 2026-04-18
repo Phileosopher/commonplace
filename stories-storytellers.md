@@ -9,6 +9,12 @@ To effectively convey a story, a storyteller *must* have a [value](values.md) th
 
 APPLICATION: It's safe to say that every single storyteller is the propaganda arm of some other [large group](groups-large.md). As the writer of this essay, For example, while this is informational, I'm aiming for [brevity](information.md) that maximizes [meaning](meaning.md), driven by my [personal spirituality](https://theologos.site/testimony/).
 
+A storyteller's [purpose](purpose.md) heavily defines how everyone sees the information:
+
+- If someone doesn't want that information presented, it's news.
+- If everyone who didn't want that information presented has [died](legacy.md), it's history.
+- If nobody has an issue with that information presented, it's [advertising](marketing.md)
+
 ## Not present
 
 Gossiping is talking about someone else when they're not present. It usually has a negative implication to it, mostly because it's sharing [information power](power-types.md) without permission, but many [cultures](people-culture.md) consider it an acceptable form of [punishment](mind-feelings-shame.md) for breaking [social rules](people-rules.md).

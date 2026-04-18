@@ -5,7 +5,7 @@ People have [conflicts](people-conflicts-why.md) among each other one-on-one. Ho
 
 Some of these conflicts are [moralized](morality.md) issues, but most of them are simplified battles over [power](power.md) toward a future [purpose](purpose.md), group [control](people-boundaries-why.md), or an ego battle over who has more power.
 
-APPLICATION: There is very little [justice](morality-justice.md) to any large-scale conflict. With the exception of preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](people-image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](education.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
+APPLICATION: There is very little [justice](morality-justice.md) to any large-scale conflict. Beyond preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](people-image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](education.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
 
 Individuals won't normally see the benefits of attacking a different set of people. To keep everyone [motivated](purpose.md), most groups portray the [appearance](people-image-why.md) of their "[good](morality.md)" versus their opponents' "[evil](morality-evil.md)" using elaborate, [large-scale media](stories-storytellers.md).
 
@@ -24,9 +24,9 @@ These dramatic conflicts have *many* interconnected elements, and each element i
 
 ## Inevitable
 
-The problem with any [group](groups-small.md) is that it's bound together by [feelings](mind-feelings.md) aligned toward a specific [purpose](purpose.md). Since feelings are low-resolution, they generate a presumed shared [value](values.md) but the granular details will be discrepant in light of larger matters. Once the larger issues are sorted out, *then* comes the smaller problems.
+The problem with any [group](groups-small.md) is that it's bound together by [feelings](mind-feelings.md) aligned toward a specific [purpose](purpose.md). Since feelings are low-resolution, they generate a presumed shared [value](values.md), but the granular details will be discrepant in light of larger matters. Once the larger issues are sorted out, *then* comes the smaller problems.
 
-The differences in opinion, combined with a few individuals' [unscrupulous](morality-evil.md) desire for [power](power.md) by a minority of individuals, [guarantees](people-conflicts.md) there will *always* be [smaller-scale conflicts](people-conflicts-why.md). Since there's simply not enough time to resolve all the smaller conflicts, some of them will eventually become larger and spill out into becoming larger-scale. Most leaders, in seeing conflicts, are [afraid](mind-feelings-fear.md) enough to address many conflicts (due to their scope of destroying the group), and that inaction will often magnify the force of the ideas.
+The differences in opinion, combined with a few individuals' [unscrupulous](morality-evil.md) desire for [power](power.md) by a minority of individuals, [guarantee](people-conflicts.md) there will *always* be [smaller-scale conflicts](people-conflicts-why.md). Since there's simply not enough time to resolve all the smaller conflicts, some of them will eventually become larger and spill out into becoming larger-scale. Most leaders, in seeing conflicts, are [afraid](mind-feelings-fear.md) enough to address many conflicts (due to their scope of destroying the group), and that inaction will often magnify the force of the ideas.
 
 Many of the large-scale conflicts represent the same sort of [bad boundaries](people-boundaries.md) on [an individual level](people-conflicts.md), but they frequently magnify them into absurdly large effects that often give entire people groups [severe hardships](hardship.md).
 
@@ -56,11 +56,11 @@ APPLICATION: Most effective large-scale leaders are either always interacting wi
 
 [Engagement in a large-group conflict](people-conflicts-war-why-engagement.md)
 
-## Inter-organizational conflicts
+## Interorganizational conflicts
 
-Each large group will typically act as one unified force until a [trend](people-trends.md) reaches maturity to question the leadership's decisions. At that point, the group becomes unstable. This is most clearly onset when people aren't getting what they [need or want](purpose.md), and the violence of war guarantees at least *some* of the people will oppose their leadership.
+Each large group will typically act as one unified force until a [trend](people-trends.md) reaches maturity to question the leadership's decisions. At that point, the group becomes unstable. This is most clearly onset when people aren't getting what they [need or want](purpose.md), and the violence of war guarantees at least *some* people will oppose their leadership.
 
-The best way to placate members is with a rewards system, typically with decorated medals. By using incentives that create a sense of [meaning](meaning.md), people can keep fighting *long* after it makes any [rational](logic.md) sense.
+The best way to placate members is with a reward system, typically with decorated medals. By using incentives that create a sense of [meaning](meaning.md), people can keep fighting *long* after it makes any [rational](logic.md) sense.
 
 One of the easiest ways to [influence](influence.md) the group toward a continued effort against the opponent is to generate a disaster or emergency. If there's a crisis, people are more likely to act in [overt fear](mind-feelings-fear.md) and rally behind their leadership. This disaster can either be a relatively smaller legitimate problem [enhanced into a larger one](people-image-distortion.md), or can be a complete fabrication.
 
@@ -75,7 +75,7 @@ However, since the protesters are leaders of an opposition force that may run th
 
 Sometimes, a lower tier/subdivision of a group with a different culture can oppose the large group. In that case, it quickly becomes a small vs. large group conflict ("civil war") as soon as the small group's leadership make a public [decision](mind-decisions.md) that the small group majority approves. Otherwise, the small group will quietly subvert the larger group and wait for an opportunity.
 
-APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](money-economics.md) for a couple years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
+APPLICATION: To guarantee a war, [oppress](morality-justice.md) a large group (e.g, a nation) for at least a decade, then give them [economic power](money-economics.md) for a few years. They *will* try to get revenge and seize [power](power.md) as soon as they interpret an opportunity (which often comes from other [weak leaders](mgmt-badsystems.md) who leave openings for it).
 
 If there's enough opposition, that protesting group can split off into its own group altogether. If the original group [disagrees](people-conflicts-why.md) (which is common because it's a tremendous loss of [power](power.md)) this will incite a large-scale civil war, and the former leader will almost always fight the split with everything they can employ.
 
@@ -100,13 +100,15 @@ Further, the "rules of engagement" imply that only combatants should be harmed, 
 There are other rules that often become war crimes if not followed, most of them coming from the four Geneva Conventions:
 
 - If an aircraft has been disabled, the soldiers parachuting down are helpless and can't be fired on.
-- If a soldier wishes to surrender, they should wave something large and white (or sometimes black) and raise their hands. They're forbidden to "fake surrender". The other side may search and restrain them, and confiscate their items. The soldier only has to state their name, rank, and number, though it can sometimes include [religious preference](religion.md) and other small details that wouldn't run the risk of a court martial.
+- If a soldier wishes to surrender, they should wave something large and white (or sometimes black) and raise their hands. They're forbidden to "fake surrender". The other side may search and restrain them, and confiscate their items. The soldier only has to state their name, rank, and number, though it can sometimes include [religious preference](religion.md) and other small details that wouldn't run the risk of a court-martial.
 - Prisoners of war (POWs) can be taken to a camp and treated well. They can only be [forced to work](people-slavery.md), but in non-military capacities that isn't dangerous or unhealthy, and they must be allowed to perform medical/ministerial duties. Prisoners are allowed to escape or impersonate the opposing force's officers, and executing them is a war crime.
 - Torture and medical experiments that aren't benefiting the health of the prisoners are also war crimes.
 - Further, any soldier who performs a war crime can't say they were "just following orders".
 - If there's ever a cease-fire or an armistice (i.e., when the war is finishing), nobody is allowed to attack each other anymore.
 
 APPLICATION: Any issues with war crimes is a misplaced [morality](morality.md). War itself is horrible, and to make rules for warfare without outright killing everyone who tries to kill anyone is technically a double standard.
+
+APPLICATION: Modern societies plant the seeds of their own destruction. Better technology creates better social cohesion and more wealth, which creates more capacity for bigger and worse weapons. Everyone's [fear](mind-feelings-fear.md) of war without experiencing it makes them more averse to it. That unease and the advanced weapons make the death toll staggeringly high through bad [decisions](mind-decisions.md).
 
 This gets more [complicated](mgmt-badsystems.md), but the idea is to create a [fair and equal](morality-justice.md) opportunity for combatants to fight for themselves. However, this entire idea is ridiculous when you consider that any combatant who has the means to kill their opponent will.
 
@@ -122,9 +124,9 @@ In practice, strategic decisions are essentially [game theory](math-gametheory.m
 
 Large-scale conflicts resolve when everyone involved is sick of fighting. This can often take a *long* time, especially if more than two groups were involved.
 
-The outcome of a large-scale conflict is never straightforward. Between the [trauma](hardship-ptsd.md) on both sides that can provoke irrational behavior, the [reasons](purpose.md) why people fight, and the inter-group conflicts that often play out at the same time, it's *very* hard to predict who will be left standing and in what position by the end.
+The outcome of a large-scale conflict is never straightforward. Between the [trauma](hardship-ptsd.md) on both sides that can provoke irrational behavior, the [reasons](purpose.md) why people fight, and the intergroup conflicts that often play out at the same time, it's *very* hard to predict who will be left standing and in what position by the end.
 
-If a leader who won't end a conflict (mostly from a lack of [compassion](people-love.md) for their own group's losses), the group must be utterly devastated until the leadership is stripped of their [power](power.md). In those situations, their immediate lower-ranking leadership will depose that leader to save the [group](groups-large.md), and their "betrayal" will typically be exonerated by [history](stories-storytellers.md).
+If a leader won't end a conflict (mostly from a lack of [compassion](people-love.md) for their own group's losses), the group will be utterly devastated until the leadership is stripped of their [power](power.md). In those situations, their immediate lower-ranking leadership will depose that leader to save the [group](groups-large.md), and their "betrayal" will typically be exonerated by [history](stories-storytellers.md).
 
 APPLICATION: The losing side of a battle will have the same [story](stories-why.md) as the winning side. But, they'll have completely opposite [values](values.md) and the roles reversed. The [truth](reality.md) is somewhere between both of them, but their [traditional beliefs](people-culture.md) will [diverge](people-conflicts-why.md) wildly from the same event.
 

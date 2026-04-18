@@ -109,7 +109,7 @@ However, a market is never "pure". Market distortions adapt a free market from c
 
 - Government taxes will change a market, especially if they're focused on particular goods or services.
 - People will usually pay more for novelty (i.e., it's a new [trend](people-trends.md)).
-- There may be "barriers to entry" for people new to buying or selling something (e.g., government certifications, [insurance](money-insurance.md) guaranty bond).
+- There may be "barriers to entry" for people new to buying or selling something (e.g., government certifications, [insurance](money-insurance.md) guaranty bond, [laws](people-rules-methods.md)).
 - Governments or large organizations may set price limits or [regulations](people-rules.md).
 - Beyond the supply cost, labor costs can be affected by other factors like overtime laws, minimum wage, and labor unions.
 - Governments may subsidize or fund programs that would otherwise not be viable on a free market.
@@ -161,6 +161,8 @@ Since unskilled workers don't have a specialization, they have a difficult time 
 - Raising the minimum wage also creates a more difficult environment for smaller organizations to compete in the marketplace, meaning more [monopolies](mgmt-badsystems.md) can take control.
 - Eventually, when *everyone* has more money (due to inflation), its collective value goes down. This means a minimum wage's [consequences](results.md) are merely temporary.
 
+Since workers die, relocate, move, and [age](maturity.md) or become disabled, there is *always* an unemployment rate that sits around 4% of able-bodied people desiring to work who can't find a suitable employment arrangement. This doesn't mean it won't go lower (e.g., if a hardworking [culture](people-culture.md) has seen an opportunity to make more money), but the situation can become very desperate if it surpasses 10%.
+
 ## Supply vs. demand
 
 Supply is how much of something there is, and demand is how much people [want](purpose.md) it. Their relationship determines how much people will pay for things:
@@ -169,7 +171,7 @@ Supply is how much of something there is, and demand is how much people [want](p
 - When there's less supply or more demand, people will trade more to get it.
 - This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](mind-imagination.md) everyone else will do.
 
-People make [decisions](mind-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a little bit. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
+People make [decisions](mind-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a small amount. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
 
 Cost increases for trading are sometimes predictable:
 
@@ -263,36 +265,6 @@ There's one way for a government to discourage a market with speculation, though
 Private investors do it with a variation of it called a "pump and dump scheme", where they inflate the market value as far as they can, then sell off *tons* of their ownership in the market.
 
 Every time a [government's laws](people-rules.md) *might* change the availability of a market item, the market will reflect it. More government restrictions mean more expected costs, and more lax restrictions mean competition that creates lower prices.
-
-## Supply chains
-
-In a large-scale social system, it takes a long time for things to get from one point to another. This creates what's called a "supply chain". A seasonal item that's in higher demand when the weather changes, for example, might get manufactured halfway across the world half a year beforehand.
-
-The existence of a supply chain means people can somewhat [predict future market events](mind-imagination.md) and make [investments](money-investing.md) on those expectations. For that reason, investors often make market decisions for *future* events like a pending product windfall or a looming shortage.
-
-In any [disaster](hardship-disaster-1_short.md), the risks to civilization's collapse don't come from any individual people or group being incapacitated, but the supply chain at large.
-
-## Market corrections
-
-Most economists argue incessantly about how much markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this boils to how economists believe people make [decisions](mind-decisions.md) and how easily [power](power.md) can shift.
-
-Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
-
-Emergent order (aka "growthist" or "supply side economics") is when each person is given freedom to manage themselves. The prevailing belief is that self-interested individuals will [pursue](purpose.md) their self-interest if they're given freedom to benefit from it. From the outside, emergent order appears as a chaotic swarm of unrelated individuals doing unrelated things. But it's an organized type of chaos that somehow works, even though it's difficult to [measure](math.md).
-
-Many [leaders](groups-large.md) believe individuals can't correctly decide their long-term best interests, but those leaders are as prone to human error as their subjects. The world is far too complicated and chaotic for professionals to manage everything.
-
-Complete emergent order would be complete anarchy, though, because no central leadership structure would enforce any large-scale [rules](people-rules.md).
-
-At the farthest end of supply side economics is laissez-faire ("allow to do"), which implies that government intervention should be *completely* absent from private organizations' affairs. This can frequently create [monopolies](politics-monopolies.md) and [bad systems](mgmt-badsystems.md), though it's a *highly* contentious question about whether monopolies persist indefinitely or decay quickly.
-
-Centralized planning taken to its farthest becomes fascism or [communism](politics-leftism.md). So far, it's always failed spectacularly.
-
-Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
-
-[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](mind-decisions.md), even if they're bad.
-
-Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](mind-imagination.md) models.
 
 ## Conflicts
 

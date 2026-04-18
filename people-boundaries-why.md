@@ -12,7 +12,7 @@ While the fringes of these boundaries have plenty of gray area up for debate, so
 There are *many* human rights:
 
 - Complete equality of their [soul](humanity.md) with all others of like souls (i.e., all humans have equal standing, all dogs have equal standing).
-- Freedom from [unfair discrimination](people-discrimination.md), which includes not being [enslaved](people-slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
+- Freedom from [unfair discrimination](hardship-discrimination.md), which includes not being [enslaved](people-slavery.md) or experiencing [arbitrary legal persecution](mgmt-badsystems.md).
   - The right to consent or decline to any medical procedure or practice of their body.
 - The freedom to peacefully associate, assemble, express themselves, and protest.
   - The freedom to practice the [religion](religion.md) they wish to have.

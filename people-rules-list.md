@@ -140,7 +140,7 @@ Don't disrespect others around you:
 
 Don't respond too briefly or too broadly:
 
-- Saying things more bluntly than the situation calls for or that people are comfortable with
+- Saying things more bluntly than the situation calls for or that people find uncomfortable
 - Giving an indirect answer to a direct question
 - Giving long-winded or complicated responses that break the natural flow of conversation
 - Speaking to a superior without being asked a question or providing too many details in their presence
@@ -326,7 +326,7 @@ Honor bathroom etiquette:
   - Women should greet other women at the sink.
 - Always close and latch the door.
 - Avoid making noises in a bathroom stall:
-  - Lift yourself up off the toilet a little bit to make less noise.
+  - Lift yourself up slightly off the toilet to make less noise.
   - Put toilet paper in the toilet to prevent loud splashing.
 - Clean up after yourself:
   - Flush after you're finished.

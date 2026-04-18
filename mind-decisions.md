@@ -5,7 +5,11 @@ A decision is the closest component we can ever get to what we call a "[soul](hu
 
 We tend to judge our [identity](people-identity.md) by our decisions when they yield positive [results](results.md), but lean more into our [circumstances](reality.md) when we experience [hardship](hardship.md) (a product of [guilt and shame](mind-feelings-shame.md)). However, we tend to [believe](understanding-certainty.md) the opposite in others: their decisions are *not* their identity when they're succeeding, while their decisions are *entirely* who they are when they fail.
 
-We are *constantly* deciding things. When we were little, nearly all our decisions were conscious. However, we quickly developed many [habits](habits.md) automatically, and those decisions were pushed into the subconscious. In a single day, the average adult makes about 35,000 decisions, though we're only aware of about 100 of them.
+We are *constantly* deciding things. When we were little, nearly all our decisions were conscious. However, we quickly developed many [habits](habits.md) automatically, and those decisions were pushed into the subconscious.
+
+- In a single day, the average adult makes about 35,000 decisions.
+- We must make about 1500 decisions when [driving](autos-driving.md).
+- However, we're only truly [aware](mind-awareness.md) of about 100 of our decisions.
 
 Contrary to how it may [seem](people-image-why.md), decision-making is far more of a strain on our willpower than actually [*doing* most things](results.md).
 
@@ -43,7 +47,7 @@ We feel comfortable handing off most decisions to the subconscious, except for w
 
 We can profoundly understand the basis of our [personalities](people-personality.md) by what decisions we obsess over and how much.
 
-APPLICATION: Small decisions *against* what's we're accustomed to will defy our habitual cycle and force us to be aware of an experience. If we foster that awareness, we'll take control of the situation. Otherwise, we'll become more set in our ways.
+APPLICATION: Small decisions *against* what we're accustomed to will defy our habitual cycle and force us to be aware of an experience. If we foster that awareness, we'll take control of the situation. Otherwise, we'll become more set in our ways.
 
 ## Calculus
 

@@ -15,6 +15,12 @@ People build on their first impression from your words and tone:
 - Clear articulation not only shows authority, but also gives listeners an easier experience understanding you.
 - People will follow you proportionally to how *little* you say, so cut back your word use to magnify your message.
 
+The tone, pace, and even your pitch determines how people interpret it.
+
+- For others to take you seriously, drop your pitch slightly and speak from your diaphragm.
+- To sound like you're in control, slow your speech by 10-15%.
+- To ask for a favor, add some calmness and a smile.
+
 Frame your ideas with the Minto Pyramid:
 
 1. Start with the conclusion of your idea.
@@ -24,9 +30,9 @@ Frame your ideas with the Minto Pyramid:
 If you're indicating *any* problem, avoid criticizing by focusing on the point of what you're saying first:
 
 1. Facts - provide plain information without any adjectives, adverbs, or modifiers (e.g., My [car](autos.md) has broken down).
-2. Status - explain plainly how those facts affect the situation (e.g., I will need a ride home).
-3. Next Steps - indicate a solution to the problem (e.g., I may be able to get my friend to tow my car.
-4. Explanation - go into why you introduced the Facts (e.g., I was driving down the road when the car made a weird noise, then it stopped running, and I had to roll off the road.
+2. Status - explain plainly how those facts affect the situation (e.g., "I will need a ride home").
+3. Next Steps - indicate a solution to the problem (e.g., "I may be able to get my friend to tow my car").
+4. Explanation - go into why you introduced the Facts (e.g., "I was driving down the road when the car made a weird noise, then it stopped running, and I had to roll off the road").
 
 Always give a solution with every problem you communicate:
 
@@ -37,7 +43,7 @@ Our specific choice of words create implications:
 
 - Hedges will state something indirectly.
 - Polite forms of statements minimize the severity of bad things.
-- Leading questions (e.g., "you're not hungry, are you?") can passively guide an idea.
+- Leading questions can passively guide an idea (e.g., "You're not hungry, are you?").
 - Disclaimers are apologizing for something in advance.
 - [Discriminatory](people-image-why.md) language classifies a group as better or worse.
 - While most words cover a broad range of possible feelings others may have, some carry extreme, deep universal feelings (e.g., poison, death, joy).
@@ -86,7 +92,7 @@ Note how loudly you speak:
 - In normal conversation, match your volume with those around you.
 - People can't hear you if you speak too softly, especially with background noise.
 - If you speak too loudly, people will often feel offended and overwhelmed.
-- Loudly speaking excites and energizes people, but people get accustomed to frequent loudness.
+- Loudly speaking excites and energizes people, but people become accustomed to frequent loudness.
 - Softly speaking makes people pay close attention.
 - Draw them in with soft words, then deliver your point loudly.
 

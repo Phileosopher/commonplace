@@ -168,7 +168,7 @@ Sadly, we often only experience gratitude *after* we lose things we took for gra
 Don't count your blessings *too* frequently:
 
 - Count your blessings about once a week.
-- If you dwell on them 2--3 times a week, you won't find as much satisfaction from how frequently you're doing it.
+- If you dwell on them 2-3 times a week, you won't find as much satisfaction from how frequently you're doing it.
 
 ## E. Make happiness-enhancing habits
 

@@ -134,17 +134,21 @@ Mormonism - founded through the Church of Jesus Christ of Latter Day Saints by J
   - Brigham Young immediate took over the group, moved everyone to what is now the state of Utah in 1846, and added a *lot* of momentum and details to Mormon theology and customs.
     - One example is the Mountain Meadows Massacre in 1857, where Brigham massacred 100 non-Mormon immigrants, which led to his imprisonment, conviction, and execution 20 years later by the US government.
 
-Christian Science - founded by Mary Baker Eddy in 1879
+New Thought Movement - founded in the early 19th century and spans multiple sects.
 
+- The general philosophy is to think positive thoughts and repel negative ones.
+  - The broad ideas revolve around the emotional associations toward unity and oneness.
+- One of its more prominent sects is Christian Science, founded by Mary Baker Eddy in 1879.
 - Differing core values:
-  - Most of the doctrine of Christian Science is a hybrid of vague and [illogical](logic.md) post-modern philosophical language revolving around Christian theological concepts.
+  - Most of the doctrine is a hybrid of vague and [illogical](logic.md) post-modern philosophical language revolving around Christian theological concepts.
   - The doctrine borrows heavily from Hegel's philosophical gnosticism, where all things are Mind, with Matter not a part of Truth.
   - Diseases are simply matters of belief, and the mind is capable of healing everything through Truth.
   - Sin is simply an illusion, and in no way real or worth directly addressing.
+  - God is more like [pantheistic](religion-answers.md) energy than a personal and separate being.
+    - Instead of Christ, there is a "Christ consciousness" that everyone can participate in becoming.
 - Incriminating evidence:
-  - Mary Baker Eddy had a morphine [addiction](addiction.md), as well as *many* material possessions, in light of her admonitions to live spiritually.
-  - Christian Science produced a relatively expensive publication at the time that ended up repeatedly sharing the same redundant pseudo-philosophical pseudo-spiritual information.
-  - Mary's life was fraught with scandals and strange cover-ups.
+  - Many of the leaders' lives are fraught with scandals and strange cover-ups.
+  - All practitioners can't openly assert the significance of sin contained in our souls, and often use elaborate explanations against it.
 
 Jehovah's Witnesses - founded through the Watchtower Society in 1879 by Charles Taze Russell as an [offshoot of the Millerites](history-church.md)
 

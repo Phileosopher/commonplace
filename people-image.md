@@ -92,7 +92,7 @@ Keep your skin looking healthy:
 - If you must pop acne and can't because it's too painful, put it under hot water for a few seconds.
 - Wear red clothing to hide any breakouts or puffiness.
 - If you get a sunburn, take a hot shower the next day and then use a lint roller.
-- Reduce the appearance of bruises by holding a banana peel or vinegar-soaked cotton ball on it for 10--30 mins.
+- Reduce the appearance of bruises by holding a banana peel or vinegar-soaked cotton ball on it for 10-30 mins.
 - Regularly apply honey to scars to bleach them.
 
 While warts aren't uncommon, they are unsightly:
@@ -210,7 +210,7 @@ Improve your posture:
 
 1. Stand up straight with your hands at your sides.
 2. Breathe out while forcing your belly in.
-3. Hold 15--30 seconds and repeat 10 times.
+3. Hold 15-30 seconds and repeat 10 times.
 4. When you turn your head, your posture should place your eyes squarely in the middle of your shoulder.
 
 You look larger than real life on camera wearing yellow, but wearing green makes you look smaller.

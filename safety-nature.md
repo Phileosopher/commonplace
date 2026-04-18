@@ -34,6 +34,8 @@ Always tell someone where you're going, when you expect to come back, and give a
 - Even if you're not taking mobile devices, keep a GPS device.
 - If you're traveling by sea, let the Coast Guard know your float plan.
 
+If an animal ever bites you, resist the urge to pull away and push *into* their mouth to force the impulse to open their jaw.
+
 ## Improvising
 
 Your ability to [creatively](mind-creativity.md) improvise, more than any other skill, will determine your survival in the wild.

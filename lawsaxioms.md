@@ -53,7 +53,7 @@ Lem's Law - Most people don't read, reading isn't understanding, and understandi
 
 Liebniz's Law - If two things have all the same attributes, they're effectively the same thing.
 
-Miller's Law - Most people can only keep 5--9 things in their memory at once.
+Miller's Law - Most people can only keep 5-9 things in their memory at once.
 
 Navy SEAL Training Mantra - Slow is smooth, smooth is steady, steady is fast.
 
@@ -67,7 +67,7 @@ Okrent's Law - Balancing an opinion becomes unbalancing it when an extreme reali
 
 Pareto Principle - 80% of the results come from 20% of the causes.
 
-- All-or-Nothing Principle - When the Pareto Principle doesn't apply, things must be 100% or they're effectively 0%.
+- All-or-Nothing Principle - When the Pareto Principle doesn't apply, things must be 100% or are effectively 0%.
 
 Peak-End Rule - People judge an experience by how they [felt](mind-feelings.md) at the end, not on the total sum of the experiences.
 
@@ -256,7 +256,7 @@ Triffin Dilemma - If you use something that everyone else uses, you're maintaini
 
 The Ten-Scale Shame Rule - The proportion is a factor of 10 between an extremely honorable or shameful activity occurring versus being publicized.
 
-The Two Pizza Rule - A team that requires more than two pizzas (i.e., 4--8 people) is too large.
+The Two Pizza Rule - A team that requires more than two pizzas (i.e., 4-8 people) is too large.
 
 Walras' Law - Because each decision means deciding against something else, every this/that decision together adds up to zero.
 

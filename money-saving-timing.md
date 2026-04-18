@@ -163,7 +163,7 @@ SPECIAL OCCASIONS
   - January-March, December
 - Wedding Dresses
   - November
-- [Party](people-parties.md) Supplies
+- [Party](fun-parties.md) Supplies
   - May
 - Houses (Availability)
   - March-May

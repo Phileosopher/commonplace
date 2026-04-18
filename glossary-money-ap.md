@@ -371,7 +371,7 @@ Merger - When two organizations share their assets and liabilities and combine 
 
 Mirror Trade - A trade that involves buying securities in one currency and then selling identical ones in another currency
 
-Money Laundering - The process of hiding illegally obtained money so it seems legal, usually by transactions alongside or inside legal money
+Money Laundering - The process of making illegally-obtained money seem legal, usually by transactions alongside or inside legal money
 
 Moving Average - A method of showing data on graphs to display trends that averages out the numbers to make smooth lines instead of jagged points
 

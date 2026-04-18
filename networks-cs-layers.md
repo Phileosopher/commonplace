@@ -17,7 +17,7 @@ Computers send information in roughly the same way, though the protocols and imp
    - The body/payload, which is the actual upper-layer information
    - A "checksum" for verification (usually in the "trailer")
 2. Computer B receives it and follows the protocols, which can vary wildly:
-   - It'll run the checksum to see if it's still good data, with further rules depending on the protocol if it's bad data.
+   - It'll run the checksum to see if it's still good data, with further rules depending on the protocol when the data is incorrect.
    - For many protocols, send back information to Computer A specifying that it received the information.
    - Computer B takes the payload data and passes it on through another protocol, following *those* instructions.
 3. Repeat dozens, hundreds, maybe thousands or millions of times until all the data is transferred something stops it.
@@ -36,7 +36,9 @@ The layers, in order:
 6. Presentation - converts the data for sending or presenting
 7. Application - the application stores/retrieves the data
 
-It's worth committing the 7 layers to memory in tech because it gives a map to how things could possibly fail. For example, if a computer isn't accessing the internet but it's "pinging" fine, then it has no problems on the network layer downward and you won't have to check for broken cables.
+It's worth committing the 7 layers to memory in tech because it gives a map to how things could possibly fail.
+
+- For example, if a computer isn't accessing the internet but "pings" fine, then it has no problems on the network layer downward. This means there would be no need to check for broken cables.
 
 A few good mnemonics for the OSI model:
 
@@ -57,7 +59,7 @@ It's worth noting here that I'm stripping away a *lot* of extra information, mos
 
 - Coaxial - copper cable on an axis (hence, co"axi"al) surrounded by insulation, surrounded by braiding, surrounded by a sheath.
   - Often uses an RG rating (e.g., RG-6 for old TVs), which stands for Radio Guide because they usually use radio frequencies to send the signal over copper.
-  - Can have one core with a fat strand of copper, or be multi-core with many thin strands.
+  - Can have one core with a fat strand of copper, or be multicore with many thin strands.
   - While they're largely obsolete for home use, they still have functionality when you want to send information across comparatively long distances.
 - Twisted pair - tiny copper wires (usually 8) twisted into pairs, surrounded by a sheath, can be unshielded or shielded.
   - Shielded twisted pair (STP) prevents electromagnetic interference, but is more expensive than unshielded twisted pair (UTP)
@@ -66,11 +68,11 @@ It's worth noting here that I'm stripping away a *lot* of extra information, mos
 - Fiber optic - slightly flexible glass tubes that are about the size of a human hair, surrounded by a reflective cladding, surrounded by protective Kevlar, surrounded by a sheath.
   - Instead of electricity, fiber optics send infrared light (850, 1300, or 1550 nanometers, compared to visible light being ~300-750 nanometers). They can send one beam of light (single-mode fiber, or SMF) or multiple beams of light at once (multimode fiber, or MMF).
   - Generally, SMF is more useful for long distances because the light won't fade as fast.
-- WiFi - local radio wave transmission, uses [802.11 standard](standards-computers.md).
+- Wi-Fi - local radio wave transmission, uses [802.11 standard](standards-computers.md).
   - New standards are rolling out all the time, including (in relative chronological/quality order) a, b, g, n, ac, and ax
   - The older standard runs on the 2.4 GHz band and is divided into either 11 or 14 "channels" depending on the country, but the newer 5 GHz band has dozens to accommodate its popularity.
     - 11 channels is a bit misleading, since channels tend to bleed into each other. In practice, only channels 1, 6, and 11 don't bleed into other channels!
-  - It's worth noting that the popular Bluetooth standard uses the *exact same* 2.4 GHz frequency as WiFi, though it's not used for networking.
+  - It's worth noting that the popular Bluetooth standard uses the *exact same* 2.4 GHz frequency as Wi-Fi, though it's not used for networking.
   - The 5 GHz band also has wide channels, where it can stick multiple parallel channels together if nothing else is in the way, which can dramatically speed up data transfer.
 - Cellular data - long-distance [radio wave](engineering-radio.md) transmission.
   - 3G, 4G, 4G LTE, 5G, and so on.
@@ -87,7 +89,7 @@ Signals are *not* completely reliable:
 - Over distance and with interference, the signal will "attenuate".
 - Also, over long distances the signal will have a "latency" to it, especially when it's bouncing through many routers (such as the internet).
 - And, because of strange and unpredictable interference, signals will often have "jitter" that makes the latency and attenuation wobble around.
-- Because of how cheap UTP cables are and how convenient WiFi is, *nearly everything* in a nearby network will suffer from "crosstalk".
+- Because of how cheap UTP cables are and how convenient Wi-Fi is, *nearly everything* in a nearby network will suffer from "crosstalk".
 
 By far, jitter is the worst type of network issue because it's often hard to pinpoint exactly what causes it.
 
@@ -97,7 +99,7 @@ There's an invisible line called a demarc that separates the customer's and the 
 
 Network technicians are typically savvy in cutting and crimping cables, and it's not uncommon for them to have huge spools of cable with a pile of tips in their vans alongside a wide variety of testing equipment.
 
-Every device has a 36-character "universally unique identifier" (UUID) or "globally unique identifier" (GUID) that's unique to each part. The different versions of UUID all have different conventions to make it unique, but it's used to clarify differences and it's insanely unlikely any 2 network devices will have the same one.
+Every device has a 36-character "universally unique identifier" (UUID) or "globally unique identifier" (GUID) that's unique for each part. The different versions of UUID all have different conventions to make it unique, but it's used to clarify differences, and it's insanely unlikely any 2 network devices will have the same one.
 
 Internet service providers (e.g., AT&T, Verizon, TimeWarner) define hard limits on how much download/upload ("bandwidth") consumers can use. Because they can cut down on service costs and make more money, most providers sell an asymmetric bandwidth allocation that favors downloading to most consumers: uploading large files will take a long time, but downloading them (such as online videos) is relatively fast.
 
@@ -112,7 +114,7 @@ To speed up networks by avoiding all that useless data transfer, engineers desig
 Wireless networks add a few complications:
 
 1. [Wireless technologies](engineering-radio.md) are extremely volatile, and seemingly unrelated things can disrupt wireless signals. So, while they're merely a matter of activating hardware to set up (as opposed to running cables), they're a headache to troubleshoot.
-2. Most of the [cybersecurity concerns](computers-cysec.md) with wireless networks comes from the physics-based reality that a WiFi signal can only exist as a network hub.
+2. Most of the [cybersecurity concerns](computers-cysec.md) with wireless networks comes from the physics-based reality that a Wi-Fi signal can only exist as a network hub.
 
 Unlike the other 6 layers, Layer 2 has two sub-layers:
 
@@ -143,7 +145,7 @@ There have been different ways to fix frame collisions before switches:
 
 - Token Ring was popular for a while by using a 3-byte "token" that passed around a ring.
 - Carrier sense multiple access with collision detection/avoidance (CSMA/CD / CSMA/CA) is a system within the Ethernet [protocol](standards-computers.md) that either detects a frame collision or prevents it beforehand.
-  - The original collision detection was a cleverly simple system pulling from [ALOHAnet](https://en.wikipedia.org/wiki/ALOHAnet): if it detected a collision, it would randomly time the re-send to try again.
+  - The original collision detection was a cleverly simple system pulling from [ALOHAnet](https://en.wikipedia.org/wiki/ALOHAnet): if it detected a collision, it would randomly time resending to try again.
   - It worked perfectly because all the network modems likely used the same timing for subsequent packet intervals, so the transfer only collided the first time around.
 
 But, now with switches, a frame collision is usually caused by a bad switch.
@@ -154,17 +156,17 @@ The Network layer manages interaction across multiple networks, and concerns its
 
 The PDU of the Network layer is called a "packet", though it can become confusing because some Layer 4 PDUs are also packets.
 
-Most of Layer 3 uses routers, which are serving a bit like switches but across multiple networks. Since most network boxes are serving both as a switch and a router, they're often called "router switches".
+Most Layer 3 uses routers, which are serving a bit like switches but across multiple networks. Since most network boxes are serving both as a switch and a router, they're often called "router switches".
 
 While Layer 2 uses MAC addresses, Layer 3 uses IP (internet protocol) addresses. "Address resolution protocol" (ARP) is the routing protocol that links MAC and IP addresses together.
 
 IP addresses have an amusing story behind them:
 
 1. IPv4 was the standard for a long time (e.g., 192.168.0.1). It used 32 [bits](computers-alu.md): four octets of binary information (0-255, 4 times).
-2. Once they started running out of IP addresses (4,294,967,296 possible, with 588,514,304 reserved for special things), they started getting creative by using contrasting public/private IP addresses by using "subnets" (e.g., your private IP is 192.168.0.3 but your public IP is 165.25.1.65). This entire process is called "Network Address Translation" (NAT) and requires some [two-based math](logic-cs.md), as well as configuring a "gateway" that has 2 IP addresses.
+2. Once they started running out of IP addresses (4,294,967,296 possible, with 588,514,304 reserved for special things), they started getting creative by using contrasting public/private IP addresses by using "subnets" (e.g., your private IP is 192.168.0.3, but your public IP is 165.25.1.65). This entire process is called "Network Address Translation" (NAT) and requires some [two-based math](logic-cs.md), as well as configuring a "gateway" that has 2 IP addresses.
 3. Engineers designed IPv6, which used 128 bits (IPv5 didn't work right). This permitted 340,282,366,920,938,463,463,374,607,431,768,211,456 possible IP addresses (which, for reference, is 340,282,366,920,938 times more than the number of estimated stars in the galaxy).
    - IPv6 uses hexadecimal quartets with colons to make it readable (2607:f0d0:1002:0051:0000:0000:0000:0004), but a convention helps remove the extra zeroes (2607:f0d0:1002:51::4).
-   - 64 bits are the network ID on the front, and the other 64 bits are the interface ID, which means it's obvious what's going on at a glance.
+   - 64 bits are the network ID on the front, and the other 64 bits are the interface ID, which makes the information obvious at a glance.
 4. Selling companies on transitioning from IPv4 to IPv6 has been *very* difficult, so it creates strange bottlenecks and technical issues throughout the internet as the scarcity of IPv4 addresses keeps growing.
 5. Marketers developed the "Internet of Things" (IoT) to sell IPv6 to consumers. This meant simply that all sorts of devices, from fridges to cars to slow cookers, got an IP address.
 6. While there are tremendous opportunities of having special-use devices that operate as independent network assets, it created tremendous [cybersecurity risks](computers-cysec.md) as well.
@@ -175,7 +177,7 @@ Layer 3 issues are often caused by faulty hardware in the router or one of the c
 
 To prevent signals from bouncing around forever in an infinite loop between 3 nodes, there's a "time to live" (TTL) that indicates how many "hops" until the signal drops. In fact, the "tracert" [CLI command](computers-cli.md) works by sending a packet with a TTL of 1 and getting a report from it, then a TTL of 2 with a report, and so on.
 
-[Web domains](computers-sofware-webdev.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some of the tech-savvy internet users in the late 1980's found domains in web browsers to be *more* trouble than working with IPs.
+[Web domains](computers-sofware-webdev.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some tech-savvy internet users in the late 1980s found domains in web browsers to be *more* trouble than working with IPs.
 
 Most issues on the Network layer and higher can be resolved with [command-line tools](computers-cli.md) like ping and trace to resolve IP issues.
 
@@ -226,7 +228,7 @@ Depending on the protocol, the data will transfer differently:
 - Half Duplex - one way at a time (e.g., text messaging)
 - Full Duplex - both ways at the same time (e.g., a phone call)
 
-At the Session layer, the PDU is the data that gets passed to the network. In effect, this is the lowest layer where you can be certain that you have *all* the data (though it's likely not easily viewable). The higher layers are for managing the data "locally" on both sides.
+At the Session layer, the PDU is the data passed to the network. In effect, this is the lowest layer where you can be certain that you have *all* the data (though it's likely not easily viewable). The higher layers are for managing the data "locally" on both sides.
 
 Most of the failures on the Session layer are dealing with application settings and configurations. If the other 4 layers don't apply, the best solution is to poke around inside the settings on both applications to see if it's blocking anything or mishandling the data.
 
@@ -278,7 +280,7 @@ In short, here's how it ends up looking with 2 computers directly linked to each
 4. At Computer A's Transport layer, it breaks up the entire thing into sections and sends them separately.
    - `[header with source/destination IP address][L5, part 1]` = L4-1 packet
    - `[header with source/destination IP address][L5, part 2]` = L4-2 packet
-   - (it can keep going, but this is a simple message so we'll stop at 2)
+   - (it can keep going, but this is a simple message, so we'll stop at 2)
 5. At Computer A's Network layer, each of the packages is prepped to send over the network.
    - `[header][L4-1]` = `[L3-1]`
    - `[header][L4-2]` = `[L3-2]`

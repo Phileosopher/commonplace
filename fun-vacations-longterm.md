@@ -1,15 +1,15 @@
 
 # Planning multi-day trips
 
-Plan the event as early as possible, which may mean 6--12 months out if it's a cruise or timeshare.
+Plan the event as early as possible, which may mean 6-12 months out if it's a cruise or timeshare.
 
-Schedule time off work for the trip, and give 1--2 days if possible before and afterward to recover from jet lag and travel stress.
+Schedule time off work for the trip, and give 1-2 days if possible before and afterward to recover from jet lag and travel stress.
 
 To withstand the journey, get a high-quality wheeled suitcase and a lightweight, sturdy bag that can easily fit in an overhead compartment.
 
 Arrange for everything in your absence:
 
-- Have someone watch your house and if you have a [pet](fun-pets.md), arrange for a sitter
+- Arrange for someone you trust to watch your house and arrange for a sitter if you have a [pet](fun-pets.md)
 - Arrange for [childcare](parenting-babies.md) if your child isn't going
 - Ask the post office to hold your mail
 - Empty your fridge
@@ -51,7 +51,7 @@ Reserve your transportation:
 - Arrange for transportation to and from the airport or depot.
 - Have a backup plan if you miss any flight or transfer.
 
-Reserve your lodging:
+Reserve lodging:
 
 - Try to find places close enough to the events you want, but far enough away that you can afford it.
 - You can negotiate many things like hot breakfast in bed for free (if they offer a hot breakfast buffet) or a room upgrade.
@@ -63,7 +63,7 @@ Buy tickets for every event you can before leaving, and have a backup plan for t
 Plan a general itinerary:
 
 - While it feels like work, it lets you have the most fun.
-- Unless you rush it, you can usually only attend 3--4 attractions each day.
+- Unless you rush it, you can usually only attend 3-4 attractions each day.
 - If you prefer, create a few lists instead of a day-by-day plan:
   - Must Go To, that you feel are critical for your vacation
   - Want To Try, which fill in gaps

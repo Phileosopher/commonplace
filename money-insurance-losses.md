@@ -101,7 +101,7 @@ The claims process is mostly the same no matter what:
    - They may find pre-existing conditions, though that may or may not apply depending on the law.
 6. If it's property and casualty, they'll also perform a damage inspection to determine how much the damages will be (and sometimes arrange for repairs) while they're determining liability.
 7. Once they've determined liability (when applicable), the coverage limits apply to determine the amount(s) of the claim.
-   - The only way a claims investigator will pay is if the conditions on the policy document are met, which may include canceling the policy, filing a proof of loss, or protecting the property from further loss.
+   - The only way a claim investigator will pay is if the conditions on the policy document are met, which may include canceling the policy, filing a proof of loss, or protecting the property from further loss.
    - The insured is responsible to submit a signed sworn proof of loss within 60 days of the request (which is the insured's demand for payment), and the insurer has 30 days to respond to it.
 8. The adjuster must then determine *whom* to pay.
    - The payment for a loss will go to an insurable interest or contractor, who is often *not* the insured (e.g., [lienholder](money-2_debt.md), collision center, construction company).
@@ -112,7 +112,7 @@ The claims process is mostly the same no matter what:
    - There may be differing criteria for different conditions (e.g., a medication taken orally may have different requirements than the same medication taken rectally).
    - The law is framed in a way that the rejection *must* be a legitimate reason, and everyone is entitled to know why their claim is denied.
    - However, in all cases, the capacity to appeal the decision is *very* limited, and the claimant will typically need to [file a lawsuit](legal-safety.md) to get a denied claim paid.
-10. The claims adjuster gives an offer to the claimant.
+10. The claim adjuster gives an offer to the claimant.
     - They'll sometimes make absurdly low initial offers, *far* below the value of a claimant's case.
 11. Depending on the policy, the claim payment also triggers other expenses which may apply:
     - Rental vehicle reimbursement

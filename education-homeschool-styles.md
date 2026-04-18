@@ -1,16 +1,16 @@
 
-# Homeschool teaching styles
+# Home school teaching styles
 
-Most of the homeschool methods are variations on two possible themes:
+Most of the home school methods are variations on two possible themes:
 
 1. Give them as many high-quality approaches to learning as their minds are capable of handling, then make sure they sufficiently understand it.
 2. Provide them as much freedom as possible to learn and develop on their own, with some amount of input to guide them along their journey.
 
 One of the most important discussions revolves around "deschooling" by removing the formalized structures that imply a school/life dichotomy.
 
-- Check out homeschool conventions, message boards, and online discussions before committing to any particular curriculum.
+- Check out home school conventions, message boards, and online discussions before committing to any particular curriculum.
 
-There are many homeschool books, curricula, styles, opinions, and philosophies, more than you'll *ever* need.
+There are many home school books, curricula, styles, opinions, and philosophies, more than you'll *ever* need.
 
 You can typically adapt your routines *beyond* your children to accommodate their education:
 
@@ -27,7 +27,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 - This takes a *lot* of (potentially unnecessary) work and has the highest burnout rate.
 - However, this means they know *exactly* what to teach and when.
 - School-at-home is literally the *worst* way to homeschool because it's the burden of a standardized classroom on the parent, minus the benefits of socially interacting with their peers.
-- One advantage is that the extra direct involvement with the student will mean education can be 4 hours a day instead of the typical 5--7 hours of a classroom.
+- One advantage is that the extra direct involvement with the student will mean education can be 4 hours a day instead of the typical 5-7 hours of a classroom.
 
 **Classical** homeschool teaches children to learn for themselves:
 
@@ -119,6 +119,6 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 
 If you know people and are [entrepreneur minded](entrepreneur-1_what.md), you can also start a **schoolhouse** yourself:
 
-1. Find at least 10--15 children who need educating and a *very* intelligent teacher in your community willing to sacrifice their time to educate.
-2. Establish a schoolhouse with those children, using a more streamlined version of a homeschool method.
+1. Find at least 10-15 children who need educating and a *very* intelligent teacher in your community willing to sacrifice their time to educate.
+2. Establish a schoolhouse with those children, using a more streamlined version of a home school method.
 3. As the children grow and the schoolhouse becomes [popular](people-trends.md), start *separate* schoolhouses headed by other teachers.

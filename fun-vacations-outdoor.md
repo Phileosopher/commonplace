@@ -10,7 +10,7 @@ Since camping is a broad concept, pay attention to the type of campsite you're g
 - Family campsites are designed to hold 2 tents and up to 2 vehicles.
 - A standard double campsite is a standard campsite, but family-sized.
 - Group campsites can occupy 12-50 people, but can sometimes surpass 100.
-- Full hookups simply means it has [RV](home-rv.md) connections for sewer, water, and electrical.
+- Full hookups are simply [RV](home-rv.md) connections for sewer, water, and electrical.
 - Most come with electricity or hookups, but nonelectric clarifies there's no power going to it.
 - Unserviced campsites allow RVs, but doesn't have hookups.
 - RV-only sites don't permit tents.
@@ -93,7 +93,7 @@ Bring multi-use supplies:
 
 - Duct tape is reliable for securing nearly anything.
 - Tin foil serves as a reliable moisture barrier, a wrapper for cooking food directly in the fire, folding as dishes to eat, a marker for navigation, and as a reflecting signal or fire starter.
-- You can also put tin foil on a pizza box to create a s'mores oven without a fire.
+- You can also put tin foil on a pizza box to make s'mores without a fire.
 - Paper and plastic bags, toothpicks
 - Dish towels, dish rags, and towels
 - Tissue paper

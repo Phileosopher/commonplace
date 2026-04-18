@@ -1,7 +1,7 @@
 
 # What justice is
 
-We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](mind-decisions.md).
+We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by authority figures around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](mind-decisions.md).
 
 People with authority can only grant freedom, but can't impose it. Freedom is a mentality that someone has the ability to explore their [purposes](purpose.md), so it needs both someone's authority to bestow it and the recipient to use it. However, authorities *can* impose justice.
 
@@ -15,7 +15,7 @@ Justice is an attempt to create fairness. People can debate endlessly about what
 
 We tend to believe things we [feel](mind-feelings.md) are right, even if it's not particularly [fair](people-boundaries-why.md). Since we're all [human](humanity-universals.md), we all have a sentiment about matters of fairness, and can never think [purely rationally](logic.md) on the matter because our [feelings](mind-feelings.md) always mix into it.
 
-APPLICATION: The more that justice is perverted from what is [right](morality.md), the less people will [willingly](purpose.md) follow the rules, partly from how the [rules](people-rules.md) are more elaborate, and partly from [distrusting](mind-trust.md) the authorities. This makes *all* life more complicated for *everyone*.
+APPLICATION: As justice is perverted from what is [right](morality.md), people will become more [willing](purpose.md) to break the rules, partly from how the [rules](people-rules.md) are more elaborate, and partly from [distrusting](mind-trust.md) the authorities. This makes *all* life more complicated for *everyone*.
 
 ## Purpose
 
@@ -63,7 +63,7 @@ APPLICATION: Among other things, [leftism](politics-leftism.md) tends to conflat
 *Where* we get our [inherent rights](people-boundaries-why.md) has a *huge* impact on the moral scope of the authorities:
 
 - If [God(s)](religion.md) (theonomos) define rights, we must be subordinate to that authority, in whatever form it comes, and even the State must give [certain rights](people-boundaries-why.md).
-- If the [State](groups-large.md) (heteronomos) defines rights, it has full liberty to take them away and we have no right to protest it.
+- If the [State](groups-large.md) (heteronomos) defines rights, it has the full liberty to take them away, and we have no right to protest it.
 - If the [majority](people-trends.md) defines rights, then we must follow whatever is [fashionable](people-trends.md).
 - If the individual (autonomos) defines rights, there's no standard for [evil](morality-evil.md) unless we designate evil people as a separate sub-human class of citizen, since the "evil" person often feels they have a right to others' rights.
 

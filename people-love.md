@@ -23,7 +23,7 @@ Love is not only the pinnacle of human existence. It is *the* foundation of all 
 2. [Safety](safety.md) is loving one's [foreseeable](mind-imagination.md) future self.
 3. Love/Affection is to love others to gain [friendship](people-friends-why.md).
 4. Self-esteem is to love one's [essence](humanity.md).
-5. Self-actualization is to love others to [influence](influence.md) *their* ability to love all of the above.
+5. Self-actualization is to love others to [influence](influence.md) *their* ability to love all the above.
 
 APPLICATION: All human purpose is driven by love of something, so all people are merely [prioritizing](purpose.md) one thing over another:
 

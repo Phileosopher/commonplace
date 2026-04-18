@@ -9,7 +9,7 @@ Typically, valuations take more work than most standard accounting activities, s
 
 [Estimations](mind-imagination.md) and [reality](reality.md) don't always match, and variance is the difference between them.
 
-The book value is the lesser of the original cost paid for the asset (historical value) and its current value (fair market value).
+The book value is the lowest of the original cost paid for the asset (historical value) and its current value (fair market value).
 
 - Sometimes, a buyer can pay a premium on top of the advertised price.
 - Other times, the asset can be discounted.

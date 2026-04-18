@@ -10,7 +10,7 @@ Information filtering
 - Aesthetic-usability effect - we often perceive [aesthetically pleasing](values-quality.md) design as being more usable
 - Anchoring bias - we tend to rely heavily on the first piece of information they see
 - Attentional bias - we filter our thoughts based on what they're paying attention to
-- Banner blindness - we tune out what they repeatedly see
+- Banner blindness - we ignore what we repeatedly see
 - Centre-Stage Effect - we tend to choose the middle option in a set of items
 - Cognitive load - we require a certain amount of effort to understand things, which changes based on how the information is presented
 - Confirmation bias - we tend to look for evidence that confirms what they already think
@@ -108,7 +108,7 @@ Mostly-conscious [decision-making](mind-decisions.md)
 - Hawthorne effect - we change our behavior when we know we're being observed
 - Hyperbolic Discounting - we tend to prioritize immediate benefits over larger long-term benefits
 - Loss aversion - we're more likely to avoid losses than earn the same gains
-- Sensory appeal - we tend to use things more often that appeal to multiple senses
+- Sensory appeal - we tend to use things more often which appeal to multiple senses
 - Status quo bias - we tend to do what we've done before until we have reason to do otherwise
 - Sunk cost effect - we're slow to pull out of something we've invested into
 - Reactance - we're less likely to do something when we feel forced
@@ -140,7 +140,7 @@ Consequences
 - IKEA effect - we value things much more when they partially [create](creations.md) it
 - Observer-expectancy effect - researchers' biases affect the participants of an experiment
 - Pareto principle - 80% of the results come from 20% of the causes
-- Peak-end rule - we judge an experience by its peak and how it ends, *not* not the total sum of our experiences
+- Peak-end rule - we judge an experience by its peak and how it ends, *not* as the sum of our experiences
 - Postel's law - ideal scenarios come from receiving liberally and sending carefully
 - Second-order effect - unintended second-level consequences ripple from decisions
 - Self-serving bias - we tend to take credit for positive events and blame others for negative ones

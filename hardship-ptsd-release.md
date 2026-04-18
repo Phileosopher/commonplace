@@ -52,8 +52,8 @@ When you are ready, release your feelings about anything you fear or resent:
   - At the end, clearly state how you're releasing them all (e.g., "...and that's okay.", "...and it doesn't matter.", "...but [God](theology-god.md) is in control.")
 - For your brain stem to register, you may need to connect your feelings to a physical action to release them.
   - Press your tongue to the back of your teeth.
-  - Tense every single muscle in your body, increasing in intensity, then release all of the muscles at once.
-  - [Go exercise](body-exercise.md).
+  - Tense every single muscle in your body, increasing in intensity, then release all the muscles at once.
+  - [Exercise](body-exercise.md).
   - Stamp your feet.
   - Play a high-reflex video game.
   - Take ten deep breaths, focusing particularly on the exhaling.

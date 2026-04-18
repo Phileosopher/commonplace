@@ -1,7 +1,7 @@
 
 # The computer screen explained
 
-Ever since the computer screen became affordable, we've been prioritizing it over the [printer](engineering-printers.md) to visually see most output on a computer. It's now *way* cheaper and faster, so it's a core peripheral of most computers.
+Ever since the computer screen became affordable, we've been prioritizing it over the [printer](engineering-printers.md) to visually see most output on a computer. Now, it's *way* cheaper and faster, so it's a core peripheral of most computers.
 
 Unlike the printer, screens use visible light instead of reflected light. So, instead of using subtractive primary colors of cyan/magenta/yellow to reflect the wavelengths, screens combine emitted wavelengths with additive colors. They found out that 3 colors (red, green, blue) can combine to make *all* other visible light.
 
@@ -68,7 +68,7 @@ Since the screen is an array, and modern ones typically have a backlight, comput
 
 - As long as there's a controller, laptop screens can be converted into standard computer monitors.
 - By removing the backlight and other unnecessary layers, a screen can be laid on top of an overhead projector to create a projection video screen.
-- Smaller LCD screens (such as on old cellphones or landline telephones) can be reused to make small readout displays and smart watches.
+- Smaller LCD screens (such as on old cellphones or landline telephones) can be reused to make small readout displays and smartwatches.
   - Placing them behind a mirror can create a smart mirror.
 
 ## Ports

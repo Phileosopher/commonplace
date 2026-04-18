@@ -65,7 +65,7 @@ Try to time when you get tickets.
 
 - The prices usually change about three times a day.
 - To get the cheapest seats, book the flights 330 days before you intend to go.
-- About 6--8 weeks before the flight dates, the prices will drop.
+- About 6-8 weeks before the flight dates, the prices will drop.
 - Avoid Sunday flights if possible.
 - Visit the airport directly in advance to purchase a ticket to avoid many of the fees.
 

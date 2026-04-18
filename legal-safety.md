@@ -15,6 +15,10 @@ In short, basic legal safety involves several things:
 2. Keep *some* sort of record of every potential future conflict.
 3. Stay out of court.
 
+Stay keenly aware over who owns what, and whether you own or simply use something.
+
+- 90% of law is about possession, so read the fine print.
+
 And in effect, there are two broad approaches to legal safety, depending on [how much risk](entrepreneur-why.md) you wish to take:
 
 1. Live a [moral, ethical](morality.md) life, meaning you simply must record everything you do if it becomes intricate or complex.
@@ -33,7 +37,8 @@ Unfair discrimination in law is tragically frequent.
 - In principle justice is blind to favoritism, but imperfect and corruptible people carry it out, and it's *also* sometimes [blind to facts outside the situation](https://gainedin.site/idiot/).
 - Most court cases are a battle of attrition through attorney fees, and the groups that typically win court battles have more money to pay their lawyers.
 - People can often abuse laws to operate against the spirit they were originally designed for.
-- While "innocent until proven guilty" is often [the doctrine *within* the courts](lawsaxioms-legal.md), the system around it is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
+- While "innocent until proven guilty" is often [the doctrine *within* the courts](lawsaxioms-legal.md), the surrounding system is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
+- Many otherwise-illegal actions by military and police are actually legal under color of law.
 
 There is legitimate hypocrisy in the system, but there's not much you can do about it.
 
@@ -81,7 +86,7 @@ People don't usually sue well-liked people.
 
 Manage [conflicts](people-conflicts.md) correctly.
 
-- If someone will *not* like what you want to do, conflict is unavoidable.
+- If someone doesn't approve of what you want to do, conflict is unavoidable.
 - Even when others deserve it, avoid harshness.
 
 Never, *ever* escalate a conflict.
@@ -193,6 +198,14 @@ Keep at least *some* connections with large organizations: large entities have *
 - Most employers run background checks, which show criminal history
 - Apartments, telecom companies, and others have their own
 
+Avoid unintended associates.
+
+- Many times, your job may be a money laundering operation or conducting illegal activity.
+  - Even when it pays well, avoid any liability to yourself by leaving the organization.
+- Formally change the title on your autos and home.
+  - Get the information when selling it, and submit it as soon as possible.
+  - If you don't, your name can be associated with a complete stranger's legal issues.
+
 ## Managing disputes
 
 Avoid "legal voice".
@@ -214,7 +227,7 @@ Besides a settlement offer, *never* start a dispute.
 
 For your safety, have a general idea of how a physical altercation will end.
 
-- if you're not sure if you'll be safe, dial 911/211 and leave the phone in your pocket (since they'll trace it).
+- If you're not sure if you'll be safe, dial 911/211 and leave the phone in your pocket (since they'll trace it).
 - Don't expect the police to save you: a violent assault which can kill you will happen in seconds.
 - Do *not* intensify the fight: while you can walk away from most fistfights, the chances of surviving a knife wound or gunshot at close range are unlikely.
 
@@ -351,9 +364,35 @@ Treat most interactions as [contracts](people-contracts.md).
 - If they don't perform, you are entitled to sue.
 - Generally, the threat of a lawsuit is worse than the suit itself (since it'll cost a *lot* for everyone involved).
 
+Lawsuits are typically "pay to play", and you must stay aware of the lawyers' goals in each context:
+
+- A civil case operates on "balance of probabilities", which means you must prove the highest likelihood that you deserve the damages/settlement/money.
+- A criminal case operates "beyond reasonable doubt", meaning the defendant must prove there's reasonable doubt that they could have done what they were charged with.
+- A divorce case is effectively a civil case over multiple domains
+  - Aim for a no-fault divorce for a clean break down the middle, or and at-fault divorce if you're seeking damages.
+
+The legal process is a *very* drawn-out mechanism that goes through a predictable set of stages, and almost all the stages can be expedited or drawn-out depending on lawyers' use of laws:
+
+1. Complaint/charge
+   - An initial allegation of an [injustice](morality-justice.md), which should refer to some sort of law.
+   - After this initial event, you can leave the circumstance anytime with a mutually-agreed settlement/plea bargain.
+2. Discovery
+   - An in-depth investigation into just about everything tied to the case.
+   - In a civil case, both sides will get a legal anal probe over anything the opposing counsel can use: their decisions, consequences, and overall lifestyle.
+3. Deliberation
+   - The lawyers make their case for their client (or the individuals themselves in a small claims situation).
+4. Decision/Judgment
+   - A judge makes a determination, and sometimes a jury, over the circumstances.
+   - For many reasons, one party may appeal the case, which starts a new complaint/charge in another court, often with new lawyers.
+5. Sentencing
+   - The judge will make a determination on how the guilty party will "pay" for their misbehavior.
+   - After this, everything goes to law enforcement and its many subdomains (e.g., child protective services, environmental regulation, etc.).
+
+Often, in other unrelated domains (e.g., hairstylist licensing), this legal process will be the same thing, but with more [good faith](https://gainedin.site/good-faith/) involved.
+
 If someone performs a breach of contract and doesn't pay, don't hunt them down.
 
-- The legal costs for suing about unpaid fees is only worth the cost if it's a *lot* of money, and is typically worth selling the bad debt to a collections agency instead.
+- The legal costs for suing about unpaid fees is only worth the cost if it's a *lot* of money, and is typically worth selling the bad debt to a collection agency instead.
 - If you've overpaid, the damages for seeking restitution aren't worth it, and you'll damage the organization far worse by publicly shaming them on social media.
   - If you *do* make the experience a public event, make sure the information isn't protected by a privacy regulation (or that part is omitted) and that your issue is [fashionable](people-trends.md) enough for most people to feel angry about it.
 
@@ -361,6 +400,12 @@ Generally, it's a better bet to leave a hostile work environment than sue.
 
 - By natural consequence of an [employer/employee](jobs-1_why.md) relationship, you have less power (and legal resources) than them, even if a jury would more likely side with you.
 - If your manager and manager's manager are working together, you will succeed *much* more by recording the experiences and publishing them on social media after quitting.
+
+If you *do* want to sue, then it pays more than anything else to be an insider with the legal system:
+
+1. Preferably, you should know the judge, or at least a close associate to the judge.
+2. You should also personally know a good lawyer with experience in what you're working with.
+3. Further, you should be at least somewhat familiar with the region's laws and requirements.
 
 ## Legal safety is *not* part of the Good Life
 

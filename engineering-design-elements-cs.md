@@ -24,7 +24,7 @@ The abstract nature of computer interfaces makes simple and easy interfaces *muc
 - Provide clear "exit points" that define when the user can easily and safely leave the experience.
 - Align *everything* with other elements optically (the way the eye sees it), and *not* mathematically (the center of the element). It should always be represented as a chain of elements.
 - All measurements should be [mathematically](math.md) related to each other.
-- Make sure multi-line text never sits with only 1-2 words alone. It can create widows (1-2 words on the next line) or orphans (1-2 words completely separate at the top of another section). The easiest solution is to set the CSS property called text-wrap to balanced.
+- Make sure multi-line text never sits with only 1-2 words alone. It can create widows (1-2 words on the next line) or orphans (1-2 words completely separate at the top of another section). The easiest solution is to set the CSS property called text-wrap to "balanced".
 
 As much as possible, separate out the information with a clear demarcation and structure:
 
@@ -202,7 +202,7 @@ Accessibility via text-to-speech is possible on all the major operating systems:
 
 For icons, use SVGs instead of icon fonts.
 
-- They're easier and quicker to express, though they're harder to setup and take more memory on the host server.
+- They're easier and quicker to express, though they're harder to set up and take more memory on the host server.
 
 ## More information
 

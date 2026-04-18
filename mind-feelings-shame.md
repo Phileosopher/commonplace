@@ -21,7 +21,7 @@ No matter what, people make decisions they think are [reasonable](logic.md) at t
 Over time, regret converts into shame:
 
 - Shame is the belief that we are defective, inadequate, or flawed.
-- Shame moves from the realm of action ("I did wrongly") to [identity](people-identity.md) ("I am wrong").
+- Shame moves from the realm of behavior ("I did wrongly") to [identity](people-identity.md) ("I am wrong").
 - We'll presume (often when we're highly susceptible as children) that we can "fix" ourselves to feel less shame.
 
 ## Living in regret and shame
@@ -60,7 +60,7 @@ Overthinking things:
 - Preoccupation with personal flaws.
   - Replaying what was said "wrong".
 - Hyper-awareness of tone, words, and body language to gauge if others are angry.
-- Second-guessing decisions for no apparent reason.
+- Second-guess decisions for no apparent reason.
 
 Belief that love or care must be earned.
 
@@ -96,9 +96,9 @@ Looking to manage others' feelings:
 
 ## Shifting out of shame
 
-Shame is the [feeling](mind-feelings.md) of being cast out of society, and therefore unhealthy to maintain.
+Shame is the [feeling](mind-feelings.md) of being cast out of society, and will create unhealthy antisocial behaviors if it lingers.
 
-- The feeling of toxic shame is one of the primary shapers of most [neurodivergent thinking](mind-neurodivergence.md), especially narcissism.
+- The feeling of toxic shame is one of the primary shapers of many forms of [neurodivergent thinking](mind-neurodivergence.md).
 
 The solution to regret is to internalize the fact that, given what you knew at the time, you did what you thought was best.
 
@@ -107,4 +107,18 @@ The solution to regret is to internalize the fact that, given what you knew at t
 The only lasting cure for shame is to form [an identity](people-identity.md) around something that's *not* the actions we had performed.
 
 - This can take the form of self-indemnifying, but should be conformed to [reality](reality.md).
-- The most powerful peace comes in becoming and closely identifying as [a child of God](theology-godandman-humanity.md).
+
+Fixing an identity broken by shame, therefore, is a series of steps:
+
+1. Understand the importance of living with a clean [conscience](morality.md).
+   - Even if others hate you in the process, ~90% of the people will come to respect you.
+2. Understand your state as a unique masterpiece [created by God](theology-godandman-humanity.md).
+   - This means you have innate value.
+   - It also means you don't have to be like others.
+   - It further means your experiences won't be like others'.
+3. Recognize your gifts, talents, and abilities.
+   - This is in relation to others.
+   - Most of this is in seeing the advantages of every shortcoming (e.g., not good with people often means being good with things).
+4. Find [meaning](meaning.md) and [purpose](purpose.md) through those gifts, talents, and abilities.
+   - This gives a reason to do something every time you wake up.
+   - As you succeed, you'll find yourself as a necessary part of society.

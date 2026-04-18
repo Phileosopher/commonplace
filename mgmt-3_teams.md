@@ -7,7 +7,7 @@ Unless you're taking over an existing project, you'll likely have to get a [budg
 
 - Contract employees are perfect if you simply need people without any loyalty or long-term commitment.
 - If you want them through a series of projects, hire them as an employee to ensure they'll stay with you.
-- Contract-to-hire is only worth your effort if you only intend to keep *some* of the workers after each project.
+- Contract-to-hire is only worth your effort if you only intend to keep *some* workers after each project.
 
 ## Hierarchy
 
@@ -54,13 +54,13 @@ Calculate the team's turnover costs:
 2. Estimate a turnover percentage based on industry data.
 3. Average Role Hiring Costs x (Turnover Percentage x Number of Workers) = Team Turnover Costs
 
-Never let each team or sub-team surpass 4-8 people.
+Never let each team or subteam surpass 4-8 people.
 
 - The number of interactions becomes exponentially more as the team gets larger.
-  - N * ( N - 1 ) / 2, with N being the number of people.
-  - With 3 people: 3 * ( 3 - 1 ) / 2, or 3
-  - With 5 people: 5 * ( 5 - 1 ) / 2, or 10
-  - With 15 people: 15 * ( 15 - 1 ) / 2, or 105
+  - N * (N - 1) / 2, with N being the number of people.
+  - With 3 people: 3 * (3 - 1) / 2, or 3
+  - With 5 people: 5 * (5 - 1) / 2, or 10
+  - With 15 people: 15 * (15 - 1) / 2, or 105
 - Going past a team consisting of a few people guarantees multiple problems at once:
   - [Communicating](mgmt-5_communication.md) to everyone at once becomes far more complex and time-consuming.
   - People won't feel like their contribution means much, so some members won't adequately perform their roles.
@@ -92,7 +92,7 @@ Clarify each role with a full job description:
   - If applicable, it should indicate the geographical region as well.
 - **Benefits and pay** - the aspects of what you're providing in exchange for their work.
   - You save a *ton* of time by publicly specifying how much you're offering.
-  - Give pay based on what the industry expects and they'll need, *not* what you feel they deserve or the rest of the budget.
+  - Give pay based on what their industry expects, *not* what you feel they deserve or the rest of the budget.
   - If the pay is non-negotiable, give a precise number.
   - Make the pay a fixed range instead of a fixed amount to attract more talent.
   - If they're particularly talented, they will likely [negotiate more](jobs-6_negotiating.md) than you expected.
@@ -195,7 +195,7 @@ If possible, avoid on-the-job training.
 
 If you only want workers to make long-term commitments, pay them for the training and then pay a bonus for them to quit.
 
-- It may cost in the short-term, but will *dramatically* increases retention.
+- It may cost in the short-term, but will *dramatically* increase retention.
 
 ## Note any risks
 
@@ -280,12 +280,12 @@ The absence of someone in a necessary role can create extra costs and burden:
 - Damaged [reputation](people-image-why.md) of the team and organization.
 - Whatever knowledge or systems that person exclusively controlled will need someone else to do the same.
 - The extra stress can create more absences from other members.
-- Depending how the person left, it can disrupt the group's harmony and potentially cause others to leave as well.
+- The context for how a person leaves can disrupt the group's harmony and potentially cause others to leave as well.
 
 If someone is in a position of exclusive responsibility and may potentially leave, closely monitor *everything* they do during the prior weeks and months.
 
 - Monitor every routine task they perform and every organization they interact with.
-- If they leave and you *didn't* find out what they did first, you'll have much more work finding out exactly how they did everything.
+- If they leave, and you *didn't* find out what they did first, you'll have much more work finding out exactly how they did everything.
 
 Firing the wrong way will create *severe* [legal risks](legal-safety.md).
 
@@ -293,7 +293,7 @@ Firing the wrong way will create *severe* [legal risks](legal-safety.md).
 - Your organization's company policy *should* reflect at least some elements of how they're failing.
   - If you can't find anything, clearly and specifically make a new policy that indicates the new rules, then hold them accountable for what they do *after* the new rules.
 - Keep multiple records from different angles that demonstrate their performance or attitude problems.
-- Have multiple recorded times where you've discussed the same matter with them.
+- Have multiple recorded instances when you've discussed the same matter with them.
 
 When approaching them about termination, unapologetically own what you must do.
 

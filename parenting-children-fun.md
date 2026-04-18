@@ -1,21 +1,10 @@
 
 # How to have fun with children
 
-You can teach *anything* to children through fun and play:
-
-- Children understand most lessons if you can [creatively](mind-creativity-how.md) merge them with play.
-- Your purpose is to teach them better judgment, *not* to be obedient.
-
 Playing is a child-specific "love language" for communicating and expressing their [feelings](mind-feelings.md).
 
 - While adults work through their feelings by talking, children unleash them by using their bodies to play.
-
 - A child's play is how they experiment and learn about the world, and broken bones heal more easily than [timidity and fear](mind-feelings-fear.md).
-- All children's games are about [connecting](people-why.md) with others (e.g., chase, tag, hide-and-seek, follow the leader).
-
-Initiate physical contact with them lightly or ask a simple question, then work off of their behavior.
-
-- To make up for the fact that they're small, give them more control of the situation.
 
 Children are happy to play with whatever you choose, which is necessary for you to enjoy the experience with them.
 
@@ -27,13 +16,33 @@ The best way to make a connection with your children is to play with them:
 
 - Children tend to prefer playing with their parents because the parents relent and let them win, which teaches them how to [tactfully](people-3_respect.md) behave with others by example.
 
+When you see them extremely emotional (shaking, trembling, laughing, crying), stop there and let the emotions subside, then advance further with what they're afraid of once they've composed themselves.
+
+If you have multiple children, designate special play times for each of them.
+
+- This expands their social context and teaches autonomy.
+
+## Playing is education, but fun
+
+You can teach *anything* to children through fun and play:
+
+- Children understand most lessons if you can [creatively](mind-creativity-how.md) merge them with play.
+- Your purpose is to teach them better judgment, *not* to be obedient.
+
+Initiate physical contact with them lightly or ask a simple question, then work off of their behavior.
+
+- To make up for the fact that they're small, give them more control of the situation.
+
 Learn to redirect their attention with a playful voice to direct them to productive, good purposes.
 
 - Children severely differentiate between hearing you playfully or fiercely say "Oh no, you don't!" and "That's not where that goes!"
 - Kissing is redirected biting, and caressing is redirected hitting.
 - Instead of harshly enforcing a boundary, make the entire experience a game.
 
-When you see them extremely emotional (shaking, trembling, laughing, crying), stop there and let the emotions subside, then advance further with what they're afraid of once they've composed themselves.
+Being silly takes practice because you have to violate most of the [social rules](people-rules.md) you were trained to honor.
+
+- You'll look silly to other adults when you interact, climb, and run with children, especially when you're the only one.
+- When frustrated, make a mock threat that turns the situation into play.
 
 Teach valuable lessons through play that would normally be lectures.
 
@@ -44,6 +53,14 @@ Teach valuable lessons through play that would normally be lectures.
 - Let them physically wrestle out a problem they had earlier that day, with you being the problem.
 - If there's something they're not supposed to do that isn't dangerous, try to get them to *do it* instead.
 
+All children's games are about [connecting](people-why.md) with others and learning valuable skills.
+
+- Many of the "edutainment" [marketing](marketing.md) misses that commonplace games are often just as sufficient.
+- A few examples of educational games:
+  - Improves hand-eye coordination: patty cake, chase, tag
+  - Learning to [follow instructions](people-rules.md): the hokey pokey, follow the leader, red light/green light, simon says
+  - Problem-solving skills: hide-and-seek, puzzles
+
 Teach [active listening](language-speaking.md) by assigning speaker/listener roles and having the listener summarize the speaker.
 
 - You can also assign a watcher to provide feedback on both as well.
@@ -53,12 +70,9 @@ Teach [active listening](language-speaking.md) by assigning speaker/listener rol
   3. The next child must catch the ball and answer with more than a few words.
   4. The child can only speak for 30 seconds, then asks another question and throws the ball.
 
-Being silly takes practice because you have to violate most of the [social rules](people-rules.md) you were trained to honor.
-
-- You'll look silly to other adults when you interact, climb, and run with children, especially when you're the only one.
-- When frustrated, make a mock threat that turns the situation into play.
-
 ## Constantly look for new ways for them to play
+
+We develop intimacy faster by experiencing new places with the same people, so visit new places with them to make more memories.
 
 If you can't think of any games you want to play, make them up by creating a "winner" and "loser".
 
@@ -273,8 +287,10 @@ Give them games to play with each other:
   - Each child has to make something out of Play-Doh within a time limit.
 - Freeze tag:
   - Everyone "tagged" by the person is "it" and must freeze in place until the game is over.
-- Hide and seek:
+- Hide-and-seek:
   - Someone is declared "it" and counts down while everyone hides, then the person who is "it" has to find everyone.
+
+The internet has *countless* ideas, so you have no excuse.
 
 ## Play with them for the right reason
 

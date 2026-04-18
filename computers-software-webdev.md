@@ -34,7 +34,7 @@ While computers maintain constant connection with each other (by human standards
 
 ## OS
 
-Most web servers run on Apache [Linux](computers-os-unix.md) in an "AMP server" configuration (**A**pache HTTP Server, **M**ySQL, and **P**HP or **P**erl or **P**ython). The most popular one by far is Linux (LAMP), though quite a few are Windows-based (WAMP) or MacOS (MAMP).
+Most web servers run on Apache [Linux](computers-os-unix.md) in an "AMP server" configuration (**A**pache HTTP Server, **M**ySQL, and **P**HP or **P**erl or **P**ython). The most popular one by far is Linux (LAMP), though quite a few are Windows-based (WAMP) or macOS (MAMP).
 
 ## IP address
 

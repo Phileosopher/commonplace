@@ -22,7 +22,7 @@ We much better resolve our conflicts from [a healthy attitude](people-conflicts-
 Most [casual conflicts](people-conflicts-casual.md) can be easily managed without much effort.
 
 - [Disagreements](people-conflicts-disagreements.md) can be difficult, but are often necessary when casual conflicts escalate.
-- Depending who you are around, you may encounter [bad conflict management styles](people-conflicts-bad.md)
+- Depending on who you are around, you may encounter [bad conflict management styles](people-conflicts-bad.md)
 - If it ever becomes a [crucial conflict](people-conflicts-crucial.md), it must be addressed correctly.
 
 [Conflict](people-conflicts-why.md) requires high-stress communication:

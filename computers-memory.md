@@ -132,8 +132,8 @@ ROM (read only memory), on the other hand, doesn't depend on electricity. But, y
 
 There are a few critical measurements of memory. They're often representing [statistical averages](math-stat-cs.md) more than precise numbers, but can be significant for [planning](mgmt-2_projects-cs.md) (especially [at scale](computers-distsys-enterprise.md)):
 
-1. Its transfer speed. It uses [standard network speeds](networks-cs.md) to determine it, but should be magnitudes faster than a network's (since it's supposed to be literally next to the [CPU](computers-cpu.md)).
-2. Its projected lifespan, which is measured by "program-erase cycles" (or simply P/E).
+1. Transfer speed: It uses [standard network speeds](networks-cs.md) to determine it, but should be magnitudes faster than a network's (since it's supposed to be literally next to the [CPU](computers-cpu.md)).
+2. Projected lifespan: This is measured by "program-erase cycles" (or simply P/E).
 
 There's a frequent RAM/ROM hybrid called "electronically-erasable programmable read-only memory" (EEPROM) that lets you read and write things to it, but it sticks around after turning the computer off.
 

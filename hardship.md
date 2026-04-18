@@ -22,8 +22,10 @@ While you may be suffering severely, try to avoid making the pain "dirty":
 
 - Pain is "dirty" when we are at least partly at fault for something.
 - We can frequently suffer tremendous pain, but then do the wrong thing in that pain and create more suffering for ourselves.
-- Even when we are undergoing excruciating pain that we brought on ourselves, accepting the suffering as the natural consequence beyond our control is the beginning of making the pain "clean".
-- This is much harder than it sounds, since we often have [habits](habits.md) from [our development](maturity.md) that make more trouble for ourselves.
+- Even when we are undergoing excruciating pain we brought on ourselves, the beginning of making "clean" pain is accepting that suffering as a natural consequence.
+- This is much harder than it sounds, for several reasons:
+  1. We often have [habits](habits.md) from [our development](maturity.md) that make more trouble for ourselves.
+  2. We frequently have a hard time releasing control of things.
 
 If others judge you, treat their behavior as part of the package of your current hardship.
 
@@ -46,7 +48,7 @@ People can often use projection, transference, and poor self-management skills t
   - Blame is often from poor anger management skills.
   - Anxiety is frequently from not being able to see the big picture.
   - Doubt and prejudice is often from a lack of [understanding](understanding.md).
-- Plus, all of the above behaviors are usually caused by things they are *[completely unaware about](mind-awareness.md)*.
+- Plus, all the above behaviors are usually caused by things they are *[completely unaware about](mind-awareness.md)*.
 - And, in all of this, some people *will* use shame and guilt to [control you](power-types.md).
 
 Whatever happened, *you* must control how it'll influence you:
@@ -74,7 +76,7 @@ You're the chaotic accumulation of various experiences and responses:
 - Every experience you've been through, good or bad
 - Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
   - Further, the things you've [learned](understanding.md) from those experiences.
-- [Habits](habits.md) you've accumulated from all of the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
+- [Habits](habits.md) you've accumulated from all the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
 - Nobody is quite like you, so nobody else matters much for comparison.
 
 Thus, you are not a "static" existence:
@@ -142,6 +144,11 @@ Even while you can't control your capacity for pain, you *can* learn some basic 
   - [Creative](mind-creativity-how.md) with respect to solving problems.
   - Good at [fixing things](https://adequate.life/fix/).
   - Focused on what they can do themselves ("internal" locus of control)
+
+Resisting vices and reckless behavior takes willpower to maintain, so replenish yourself often.
+
+- Find a healthy community that can support and guide you.
+- Give all your cares to [God as you understand Him](religion-answers.md).
 
 ## Don't let feelings define you
 

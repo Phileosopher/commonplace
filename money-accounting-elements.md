@@ -88,7 +88,7 @@ The value of assets goes down over time, so accountants must clarify that deteri
 - If it's a fixed asset, it depreciates.
 - If it's an intangible asset, it amortizes.
 
-The value of fixed assets are typically assessed at their replacement cost, minus their scrap value.
+The value of fixed assets is typically assessed at their replacement cost, minus their scrap value.
 
 While accountants typically only amortize on a straight-line basis (the first example here), they can choose from multiple ways to depreciate a fixed asset.
 
@@ -133,7 +133,7 @@ Inventory shrinkage is when inventory is gone, but was *not* sold.
 
 - Theft is the most likely way inventory goes missing, with damage being a close second likelihood.
   - Theft is very difficult to manage and requires a combination of [good hiring practices](mgmt-3_teams.md), locks, and security cameras.
-- Inventory obsolescence is when it can't be sold anymore (e.g., out-of-style clothing, rotten food).
+- Inventory obsolescence is when it can no longer be sold (e.g., out-of-style clothing, rotten food).
 
 One specific way to track the health of a business is through the inventory turnover rate.
 
@@ -231,7 +231,7 @@ Short-term bonds are 1-3 years' maturity, medium-term are typically 10 years, an
 
 ## Equity
 
-Assets deals with things that "exist", and liabilities deals with things that are "owed", but equity is strictly conceptual.
+Assets deal with things that "exist", and liabilities deals with things that are "owed", but equity is strictly conceptual.
 
 - Since [investors](money-investing.md) often make [decisions](mind-decisions.md) from [optics](people-image-why.md) (or are taken in by [fashions](people-trends.md) they [don't understand](understanding.md)), there are *many* complex domains within equity that have very little practical explanation.
 - The only 2 ways to increase profits are to increase revenues or decrease expenses.

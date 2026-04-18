@@ -27,9 +27,9 @@ At the beginning, around 1976, were Emacs and Vim:
 - Both are highly adaptable, and are still popular because they can be modified to conform to absolutely everything else on this list.
 - However, both are also rather old. They predated conventions like Ctrl+Z/X/C/V for Undo/Cut/Copy/Paste, and both use the word "yank" to describe other, more standardized terms (Vim uses "yank" for "copy" and emacs uses it for "paste").
 
-[BBEdit](https://www.barebones.com/products/bbedit/index.html) is a text editor designed for MacOS released around 1992. It added many of the conveniences of a modern IDE, though it didn't adapt to the modular package-driven ecosystem of modern IDEs.
+[BBEdit](https://www.barebones.com/products/bbedit/index.html) is a text editor designed for macOS released around 1992. It added many of the conveniences of a modern IDE, though it didn't adapt to the modular package-driven ecosystem of modern IDEs.
 
-[TextMate](https://macromates.com/) for the MacOS in 2004 may have been the most influential IDE ever. It popularized numerous features including:
+[TextMate](https://macromates.com/) for the macOS in 2004 may have been the most influential IDE ever. It popularized numerous features including:
 
 - Abbreviation-based snippets - write big chunks of text with shorthand abbreviations.
 - Auto-paired characters - matched up the pairing of characters that always went together (e.g., for every "(", there's a ")").
@@ -38,7 +38,7 @@ At the beginning, around 1976, were Emacs and Vim:
 
 However, it also had a very important detail: it was built primarily around extensions. Developers could build their own features and plugins that could dramatically improve how they worked. However, TextMate's extensions had limitations, which later IDEs would remove.
 
-[Sublime Text](https://www.sublimetext.com/), released in 2008, was "cross-platform" and could run on [Linux](computers-os-unix.md) and [Windows](computers-os-windows.md) instead of simply MacOS. However, it cleaned up TextMate's limits:
+[Sublime Text](https://www.sublimetext.com/), released in 2008, was "cross-platform" and could run on [Linux](computers-os-unix.md) and [Windows](computers-os-windows.md) instead of simply macOS. However, it cleaned up TextMate's limits:
 
 - [Linters](computers-software-redesign.md) with [GUI](engineering-graphics.md) components - allowed programmers to visually see what they're failing at before runtime.
 - Package control - made it straightforward to browse, install, and update extensions, which *every* IDE afterward would adopt.
@@ -51,7 +51,7 @@ In 2015, Microsoft borrowed GitHub's Electron (a very reliable [web/app framewor
 
 Most modern IDEs plug seamlessly into [git](computers-software-versionctrl.md) (or, in VS Code, GitHub, since Microsoft owns it now).
 
-VS Code is wildly popular because of how easy it is to use. Often, it requires nearly *zero* technical understanding to set it up. Most purists like to say that vim or emacs is the ideal IDE and always will be, similarly to how [Linux enthusiasts often say Arch Linux is the only "true" Linux distro](computers-os-unix.md).
+VS Code is wildly popular because of how easy it is to use. Often, setting it up requires nearly *zero* technical understanding. Most purists like to say that vim or emacs is the ideal IDE and always will be, similarly to how [Linux enthusiasts often say Arch Linux is the only "true" Linux distro](computers-os-unix.md).
 
 There are a variety of other IDEs that have generally kept pace with all these [trends](people-trends.md), each with their own strengths and weaknesses:
 

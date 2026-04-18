@@ -27,7 +27,7 @@ To see friendships transition, observe how those people behave:
 A. Capture your impression from meeting them in public:
 
 - How comfortable they make their acquaintance with others
-- How kind or friendly they appear to be, especially toward strangers
+- How kind they appear to be, especially toward strangers
 - Their overall disposition at first glance
 
 B. After you've found a baseline with them, observe their authentic behavior:
@@ -46,6 +46,12 @@ C. Pay close attention to discover their motivations and values:
 - Their willingness to let strangers suffer or die for personal gain
 - Their capacity to be mean, selfish, or cruel
 - What they want in life and what they would sacrifice to get it
+
+D. Examine how much of their behavior is really trauma, and how much are their [decisions](mind-decisions-how.md):
+
+- Far too often, [abuse victims](hardship-abuse.md) will justify [evil](morality-evil.md) because of an unrelated experience.
+  - On the far end, this attitude becomes [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md).
+- You'll find out *very* fast over their motivations if you gently [confront them](people-conflicts-crucial.md) on the matter.
 
 Carefully consider who you want in your life:
 

@@ -15,11 +15,13 @@ God calls believers to connect with each other, so Christians shouldn't neglect 
 The church network is connected through the Catholic Church.
 
 - The Catholic Church is the universal Body of Christ across the world (not necessarily the "Catholic" [denomination](history-church.md)).
+- Many Protestant believers like to distinguish between "Catholic" and "catholic" (upper vs lower case), but it's all the universal Church.
 
 A church is a Christian [community](groups-small.md), not a building or location.
 
 - A church spiritually grounds itself on God's Word ([Ephesians 2:19-22](https://biblehub.com/ephesians/2.htm)), and any believers gathering to worship together are a church.
 - God shows Himself in church services when that church focuses on giving God praise.
+- Barring [specific false denominations](people-conflicts-christian-4_false.md), even [the denomination](history-church.md) doesn't matter too much!
 
 Without [persecution](hardship-persecution-church.md), church members usually form into demographically similar groups based on [personality](people-personality.md), with the [leadership](mgmt-church.md) made of the most extreme personalities:
 
@@ -141,7 +143,7 @@ Every church is the sum of the Holy Spirit's presence working within each of its
 Over time, the [new believers'](christian-new.md) culture will often corrupt most churches into accepting and sometimes endorsing [sins](theology-sins.md):
 
 - [Fear](mind-feelings-fear.md) of [risks or dangers](safety.md) (especially in [larger churches](groups-large.md))
-- Treating outsiders' suffering [without any compassion](people-discrimination.md) (especially when they associate with [regional politics](politics-conservativeliberal.md))
+- Treating outsiders' suffering [without any compassion](hardship-discrimination.md) (especially when they associate with [regional politics](politics-conservativeliberal.md))
 - Gluttony among the members (especially in [the West](https://theologos.site/the-west/))
 - [Idolatry](addiction-substances.md) of comfort, consumerism, or patriotism
 - Accepting [lies](people-lying.md) through deception or flattery

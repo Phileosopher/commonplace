@@ -107,9 +107,9 @@ Diagnostics
 - BIG diagnostics
   - Re-enable Task Manager (e.g., a virus)
     - HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System\DisableTaskManager [DWORD] = 0
-  - New install stuck in an error loop while booting - sysprep
+  - New installation stuck in an error loop while booting - sysprep
     - HKEY_LOCAL_MACHINE\SYSTEM\Setup\Status\ChildCompletion\setup.exe = 3 (should be 1 when you get there)
-  - New install stuck in an error loop while booting - Audit Mode
+  - New installation stuck in an error loop while booting - Audit Mode
     - HKEY_LOCAL_MACHINE\SYSTEM\Setup\Status\ AuditBoot [DWORD] = 0
     - HKEY_LOCAL_MACHINE\SYSTEM\Setup\Status\ChildCompletion\audit.exe [DWORD] = 0
     - HKEY_LOCAL_MACHINE\SYSTEM\Setup\Status\SysprepStatus\CleanupState [DWORD] = 2
@@ -133,16 +133,16 @@ Windows Registry Editor Version 5.00
 
 ## Windows reserved storage
 
+Extremely useful to toggle if Windows complains about not having enough disk space.
+
+Windows devs don't always use it, and it will take up ~8 GB of HD space.
+
 1. Access command prompt.
 2. Get status:
    - DISM.exe /Online /Get-ReservedStorageState
 3. Enable/disable:
    - DISM.exe /Online /Set-ReservedStorageState /State:Enabled
    - DISM.exe /Online /Set-ReservedStorageState /State:Disabled
-
-Extremely useful to toggle if Windows complains about not having enough disk space.
-
-Disable as much as possible, since Windows devs don't always use it and it takes up ~8GB of HD space.
 
 ## Windows Run commands
 

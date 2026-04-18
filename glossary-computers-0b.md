@@ -154,11 +154,11 @@ Beta - the nearly complete, almost-debugged version of a program, which can ofte
 
 BHO - browser hijack object, an exploit that takes advantage of older Internet Explorer browsers
 
-Big O notation - The worst-case scenario of how much time or memory an algorithm will take (longest time/memory use)
+Big O notation - The worst-case scenario of how much time or memory an algorithm will take (the longest time/memory use)
 
 Big Omega (Ω) notation - The most typical scenario of how much time or memory an algorithm will take (average time/memory use)
 
-Big Theta (Θ) notation - The best-case scenario of how much time or memory an algorithm will take (shortest time/memory use)
+Big Theta (Θ) notation - The best-case scenario of how much time or memory an algorithm will take (the shortest time/memory use)
 
 Binaries - files that aren't text, generally refers to compiled programs more than strictly data
 
@@ -188,7 +188,7 @@ Bloom - aka diffusion, a camera artifact where a light source washes out other e
 
 Blue Team - the team who employs a cybersecurity implementation and installs it, contrast to Red Team
 
-BMC - baseboard management controller, a separate CPU built into server motherboards to monitor what fails, just in case the CPU failed to monitor it, honors the IPMI (intelligent platform management interface) standard
+BMC - baseboard management controller, a separate CPU built into server motherboards to monitor what fails, just in case the CPU failed to monitor it, it honors the IPMI (intelligent platform management interface) standard
 
 Body - aka payload, the relevant information in memory that's not part of the file's/packet's header
 
@@ -202,7 +202,7 @@ Boot - where a computer "pulls itself up by its own bootstraps" when you activat
 
 Bot - hidden malware that won't activate until later, often triggered remotely, or the term for AI that takes the role of a human player in a multiplayer game, or the term for a piracy-based script
 
-Botnet - a network of bots ready to act on command, often used in a DDoS attack
+Botnet - a network of bots that are ready to act on command, often used in a DDoS attack
 
 Bounce - SEO term referring to visiting a website, then leaving it without visiting other hyperlinks in it
 

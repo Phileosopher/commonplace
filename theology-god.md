@@ -340,7 +340,7 @@ In short:
 We don't have any decent comparisons to the Trinity:
 
 - Water (solid, liquid, and gas) or light (primary colors that add to make white) fail in their analogy because external conditions define their form.
-- Our [body, soul, and spirit](people-spiritual.md) can somewhat compare, but our essence is still all contained entirely within the same being.
+- Our [body, soul, and spirit](theology-godandman-humanity.md) can somewhat compare, but our essence is still all contained entirely within the same being.
 
 With God being a Trinity, by [deduction](logic.md) each Person will have a different [perspective](people-image-why.md), each with at least a slightly different [understanding](understanding.md) of something:
 
@@ -366,7 +366,7 @@ God created us in His [image](people-image-why.md), but we aren't God:
 
 Our finite nature means we can't fully understand Him:
 
-- [Psalm 103:15--16](https://www.bible.com/bible/206/psa.103)
+- [Psalm 103:15-16](https://www.bible.com/bible/206/psa.103)
 
 ## We can also know what God *can't* be
 

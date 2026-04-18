@@ -31,6 +31,8 @@ A giant portion of what we believe in comes through the [authority](mind-trust.m
 - Holding to the authority of the ideas themselves is a strictly [philosophical](philosophy.md) justification.
 - We end up believing ideas based on other ideas, which usually goes back to one of our [impressions](people-image-why.md) or [cultural teaching](people-culture.md).
 
+There are various reasons we may have disbelief in something, which usually arise because we have experienced some form of isolation from the source of our belief. Many times, that isolation will give us the opportunity to see the truth for what it really is.
+
 We can only know a small set of facts without needing *any* belief:
 
 1. By [thinking](understanding.md) at all, you prove that you are a thinking thing.

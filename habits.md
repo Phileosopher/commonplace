@@ -35,7 +35,7 @@ Starting with [infancy](maturity.md), we build habits into ever-increasing struc
 
 ## Automation
 
-Everything with a routine or pattern can (and will) become a habit. Habits simplify life because they removes the need to think about mundane matters by using information in [the environment](reality.md) instead. In fact, they do such a good job that they *prevent* [self-awareness](mind-awareness.md) when left alone.
+Everything with a routine or pattern can (and will) become a habit. Habits simplify life because they remove the need to think about mundane matters by using information in [the environment](reality.md) instead. In fact, they do such a good job that they *prevent* [self-awareness](mind-awareness.md) when left alone.
 
 By adulthood, 90% of our lives' decisions are automated into habits:
 
@@ -55,7 +55,7 @@ Habits are extremely persistent because each habit provides *two* [emotional](mi
 
 [Mathematically](math.md), habits have an exponential curve. The first month may produce 4 of something, the second produces 12, the third 40, and so on, up until we reach [logistical](logistics.md) constraints defined by our available [technology](technology.md).
 
-Living "[in the moment](mind-awareness.md)" is the only way to fight habits' eventual takeover. Anytime we feel an impulse or urge, a habit is triggering.
+Living "[within the moment](mind-awareness.md)" is the only way to fight habits' eventual takeover. Anytime we feel an impulse or urge, a habit is triggering.
 
 As we [age](maturity.md), habits become increasingly difficult to change, mostly because our brains run *many* neural pathways along highly-used pathways. It's always possible for us to change, but we tend to [fear](mind-feelings-fear.md) it more as we get older because we've grown accustomed to the way we've done things.
 
@@ -89,9 +89,9 @@ APPLICATION: While habits are inherently neutral, the results they create and th
 
 One of the benefits of habits is that they free up our mind to think about other things. If we *still* [analyze](logic.md) our established habits instead of letting the subconscious perform the tasks, we tend to produce inferior [results](results.md) than if we had simply [trusted](mind-trust.md) our habits.
 
-[Bad habits destroy us](https://adequate.life/habits/). We usually permit bad habits because they provide short-term benefits, and we tend not to [feel](mind-feelings.md) long-term adverse consequences without training. Or, to put it more plainly, hard work pays off tomorrow while laziness pays off now.
+[Bad habits destroy us](https://adequate.life/habits/). We usually permit bad habits because they provide short-term benefits, and without training we tend to not [feel](mind-feelings.md) long-term adverse consequences. Or, to put it more plainly, hard work pays off tomorrow while laziness pays off now.
 
-Life is relatively short, but the experience becomes shorter when we don't perceive reality from habitual patterns. Thus, it serves well to do habits that build [the good life](people-goodlife.md) and stop all destructive habits immediately to avoid making life even *more* short or [meaningless](meaning.md).
+Life is relatively short, but the experience becomes shorter when we don't perceive reality from habitual patterns. Thus, it serves well to make habits that build [the good life](people-goodlife.md) and stop all destructive habits immediately to avoid making life even *more* short or [meaningless](meaning.md).
 
 APPLICATION: Habits compound, so we can't afford to let another day persist in knowing a bad habit and not [wishing](purpose.md) to change it. It only gets harder as we get older.
 
@@ -99,6 +99,8 @@ APPLICATION: Habits are a string of pleasure/method/pleasure. For that reason, i
 
 - pleasure/method/.../method/pleasure of [transforming millions of lives](people-goodlife.md)
 - pleasure/method/.../method/pleasure, and now being [arrested](people-rules.md)
+
+APPLICATION: The extra pleasure triggers of complex actions make elaborate habits far more difficult to break than simple ones. Some of the most difficult habits are irreducibly complex (e.g., smoking, gambling), and many [marketing](marketing.md) efforts appeal directly to that complexity by disguising it as sophistication.
 
 One unique quality that [humanity](humanity.md) has compared to any other organism is the ability to stop mid-habit and ask, "Why am I doing this?" We can do it *constantly*, but it can often be stifled by [trauma](hardship-ptsd.md). If someone experiences enough trauma [as they age](maturity.md) without resolving it, they become completely automated into strange, largely obsolete patterns.
 

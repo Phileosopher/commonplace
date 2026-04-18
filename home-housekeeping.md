@@ -39,7 +39,7 @@ Every chemical has an acidity or alkalinity, on a scale from 1 to 14.
 - 7.0 - Pure Water
 - 7.2 - Tea
 - 7.4 - Human Blood
-- 8.0 - Sea Water
+- 8.0 - Seawater
 - 8.4 - Baking Soda (Sodium Bicarbonate)
 - 9.0 - Egg Whites
 - 9.3 - Borax
@@ -116,11 +116,11 @@ Cyclodextrin, the active chemical behind Febreze, is the only chemical available
 
 Even when you're *very* [organized](organization.md), you may have company when the house is a mess. This is especially true when you have [children](parenting-children.md)
 
-First of all, don't panic, since [fear](mind-bias-fear.md) makes us procrastinate and overthink things.
+First, don't panic, since [fear](mind-bias-fear.md) makes us procrastinate and overthink things.
 
 The aim isn't for perfection, but instead about getting rid of the worst things and working into smaller domains from there.
 
-- The purpose should be to clean the entire home a bit, not on a highly clean and specific domain.
+- The purpose should be to somewhat clean the entire home, not to deep-clean a specific domain.
 
 Kill any distractions.
 

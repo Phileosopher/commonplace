@@ -38,7 +38,7 @@ As groups become progressively larger, top-ranking people will become dramatical
 
 APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](mind-decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](people-image-why.md), often with nearby assistants performing [research](understanding.md) for them.
 
-APPLICATION: Most large organizations create homogeneous experiences to promote a shared [image](people-image-why.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
+APPLICATION: Most large organizations create homogenous experiences to promote a shared [image](people-image-why.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
 
 To clearly understand *any* group, an observer needs to see 3 perspectives at once:
 
@@ -88,7 +88,7 @@ In any formal hierarchy or organization structure, [power](power.md) is abstract
 
 Unlike a [smaller group](groups-small.md) with an organization run by the [personality](people-personality.md) and [decisions](mind-decisions.md) of a few leaders, larger groups consist of a *very* formalized hierarchy of leadership, often at least three layers deep (e.g., boss, his boss, and the CEO).
 
-Top leaders are usually at least 2-3 degrees removed from any actual work done, but they're responsible for making all the decisions. If trends or technology change, they must stay aware of it, or the entire group will become [irrelevant](mgmt-badsystems.md). This is why most top leaders spend most of their time [communicating](people-conversation.md) and [consuming information](creations.md), and why they're not very [useful](purpose.md) in any practical sense.
+Top leaders are usually at least 2-3 degrees removed from any actual work done, but they're responsible for making all the decisions. If trends or technology change, they must stay aware of it, or the entire group will become [irrelevant](mgmt-badsystems.md). This is why high-rank leaders spend most of their time [communicating](people-conversation.md) and [consuming information](creations.md), and why they're not very [useful](purpose.md) in any practical sense.
 
 APPLICATION: Leaders can't create ideals for their entire group. They must consider their members' [purposes](purpose.md) and their public [image](people-image-why.md), along with other groups' [power](power.md) over them. Thus, they're not *entirely* [responsible](results.md) for anything the group does, and serve more as an [image](people-image-why.md) of the group's [goals](purpose.md).
 
@@ -168,7 +168,7 @@ Taxing, especially, will broadly destroy [purposes](purpose.md):
 - Taxing what people produce makes people want to [create](creations.md) less.
 - Taxing what people consume makes them less likely to consume.
 - Taxing [taboo](morality-taboo.md) things too much without completely [outlawing](people-rules.md) it often makes the organization depend on that thing for income.
-- Taking enough from the [rich](classes.md) makes removes the [incentive](purpose.md) for the middle class to [take risks](entrepreneur-why.md) to become rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
+- Taking enough from the [rich](classes.md) removes the [incentive](purpose.md) for the middle class to [take risks](entrepreneur-why.md) toward becoming rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
 - Taking enough from the middle class often makes them become the lower class.
 - Taking enough from the lower class is almost completely [evil](morality-evil.md), since it barely benefits the leadership and hurts those with the least [power](power.md).
 - In fact, the only [fair](morality-justice.md) tax is a progressive tax up to a specific level of survival, then everything else from middle-class onward as a flat and non-negotiable percentage.

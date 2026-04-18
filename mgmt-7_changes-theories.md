@@ -201,8 +201,8 @@ The model captures the phases of an organization's growth based on the primary f
 Stage 1 - Growth through [Creativity](mind-creativity.md)
 
 - The organization's founders spend most of their time making new products and finding open markets.
-- Not many staff, and communication is mostly informal.
-- Individuals who work hard or extra hours are usually awarded a share of the profits or company stock.
+- Few staff members, and communication is mostly informal.
+- Individuals who work longer or harder are usually awarded a share of the profits or company stock.
 - Growth ceases with a **leadership crisis** when the leaders must better [organize](organization.md) their resources.
 
 Stage 2 - Growth through [Direction](purpose.md)
@@ -210,14 +210,14 @@ Stage 2 - Growth through [Direction](purpose.md)
 - Typically, someone new is brought in to compensate for inadequacies in current leadership.
 - Communications are more formalized, such as [meetings or a knowledge base](mgmt-5_communication.md).
 - There's more emphasis on budgeting, as well as separating activities into distinguished groups like [marketing](marketing.md), production, or sales.
-- Individuals who work hard or extra hours receive incentive benefits more than profit-sharing or stock.
+- Individuals who work longer or harder receive incentive benefits more than profit-sharing or stock.
 - Growth ends with an **autonomy crisis** once the products or processes have grown so numerous that one person can't oversee all of them.
 
 Stage 3 - Growth through [delegation](mgmt-5_communication.md)
 
 - The senior leader starts giving responsibilities to others, which often includes [middle managers](mgmt-middle.md).
 - Top management monitors and managers large-scale issues (e.g., mergers & acquisitions).
-- Individuals who work hard or extra hours receive increased authority over the organization and its processes.
+- Individuals who work longer or harder receive increased authority over the organization and its processes.
 - At this stage, most organizations fail because the primary manager usually won't consent to less direct control.
 - Growth ends with a **control crisis** because different parts of the organization need a larger headquarters.
 
@@ -226,14 +226,14 @@ Stage 4 - Growth through coordination and monitoring
 - The leadership starts establishing members in clearer roles.
 - Previously isolated units become reorganized as usage-based process flows.
 - Investing becomes centrally-managed and focuses on ROI (return on investment) more than simply profitability.
-- Individuals who work hard or extra hours receive organization-wide profit-sharing arrangements.
+- Individuals who work longer or harder receive organization-wide profit-sharing arrangements.
 - Growth ends with a **red tape crisis** when [bureaucracy](bureaucracy.md) halts further progress.
 
 Stage 5 - Growth through collaboration
 
 - The entire organization has enough collective motivation to adapt their culture and structure to [use more common-sense](https://gainedin.site/idiot/).
 - The leadership eradicates vast systems that deliver rigid rewards to unchanging team structures and replace them with more autonomy to teams, including the ability to reorganize as desired.
-- Individuals who work hard or extra hours are often promoted to team leadership or given special projects.
+- Individuals who work longer or harder are often promoted to team leadership or given special projects.
 - Growth ends with an **internal growth crisis** where the organization has reached a hard limit on the number of people who can adopt the [culture](people-culture.md).
 
 Stage 6 - Growth through extra-organizational answers

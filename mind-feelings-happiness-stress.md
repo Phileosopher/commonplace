@@ -30,6 +30,23 @@ Not all stress is bad:
   - Linked to many health problems like heart attack and stroke
   - Any action driven by distress usually ends in mental illness
 
+However, mismanaged stress will destroy our [emotions](mind-feelings.md):
+
+1. We have a limited amount we're willing to [trust](mind-trust.md) things will work out (i.e., "faith").
+2. We increase that ability to trust through good things (e.g., others' encouragement, [spiritual exercises](spiritual-exercises.md), [meditation](mind-awareness-meditation.md)).
+   - Each person has different approaches to recovering their faith in things.
+3. Stressors will deplete our faith.
+4. When we run out of faith, the stressors strike our [emotions](mind-feelings.md) within our [soul](humanity.md) as stress.
+5. Unless we directly "let it out" at that moment (which is usually [culturally](people-culture.md) in appropriate), we repress the stress.
+   - Various [substances](addiction-substances.md) can deaden the pain of stress for a short time.
+6. We can direct that stress into something [meaningful](meaning.md), or an [addiction](addiction.md).
+   - Healthy [exercise](body-exercise.md) and [art](art.md) is often driven by this.
+   - That stress is also the basis for the most destructive addictions.
+7. There is, however, latent stress within us, even after that redirection.
+8. We must [release](hardship-ptsd-release.md) that stress through some form of [meditation](mind-awareness-meditation.md), or it will sink into our subconscious as [dysregulation](mind-awareness-dysregulation.md).
+9. Enough dysregulation creates all negative chronic feelings (e.g., [anxiety](mind-feelings-fear.md), [depression](hardship-depression.md), [bitterness](mind-feelings-anger.md)).
+10. When left alone, these chronic feelings will create compulsive behaviors that eventually destroy us, often through [anger](mind-feelings-anger.md).
+
 ## A. Find your stressors
 
 Are you suffering severe physical or emotional pain?
@@ -126,7 +143,7 @@ Use the Holmes-Rahe Stress Inventory to track your longer-term stressors:
    - You've celebrated a major holiday - 12
    - You've experienced a minor violation of the law - 11
 2. The total will give a statistical chance of a major health issue associated with the stress:
-   - 150 or less means you have a relatively low chance.
+   - 150 or fewer means you have a relatively low chance.
    - 150 to 300 points means ~50% chance of a stress-related health breakdown in the next 2 years.
    - 300 points or more raises it to ~80%.
 
@@ -216,7 +233,7 @@ We frequently think we can control things we can't, especially [as the situation
 It's sometimes okay to be unhappy.
 
 - Sometimes, [life is hard](hardship.md), and there's nothing you can do about it.
-- At those critical times, your ability to persevere may require simply tuning out from the severity of the things around you.
+- At those critical times, your ability to persevere may require simply tuning out from the severity of your environment.
 - Do what you can to [succeed](success-1_why.md), and move on with your life.
 
 ### Misery Source #3: Unmet Expectations

@@ -8,7 +8,7 @@ This is a list of legitimately worthwhile smart home upgrades.
 As a general set of rules:
 
 - Have a specific use in mind for the product: don't buy the product and *then* figure out how to use it.
-- Simpler is better, since there are less [complexities that could break down the signals](https://adequate.life/fix/).
+- Simpler is better, since there are fewer [complexities that could break down the signals](https://adequate.life/fix/).
 - Don't worry as much about [computer networks](networks-cs.md) that "soft" shutdown things as much as things that properly turn power off and on.
 - Every new network-connected device is another opportunity for a [hacker](computers-cysec-pentest.md).
 

@@ -3,7 +3,12 @@
 
 *The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect anyone, and these views and opinions do not qualify as investing consultation or advice.*
 
-Investing is committing money to financial instruments with the broad [purpose](purpose.md) of gaining a profit.
+Investing is committing money to financial instruments with the broad [purpose](purpose.md) of gaining a return on invested assets.
+
+However, getting a return shouldn't be the *only* consideration for an investment, since some investment activities are outright [unethical](morality.md) (e.g., [slavery](people-slavery.md), [drugs](addiction-substances.md), etc.)
+
+- Without understanding your standards first, you'll often find yourself investing in [evil](morality-evil.md) activities without realizing it.
+  - It's better to first know what you believe morally, then invest with those constraints in mind.
 
 We technically "invest" when we [lose weight](body-diet.md), [organize](organization.md), [advance our career](jobs-1_why.md), and [succeed](success-1_why.md), but *financial* investing is strictly using [money](money-1_why.md) to make more money.
 
@@ -57,7 +62,7 @@ Watch for idle cash in your accounts:
 - Never let idle cash persist for long.
   - Synchronize your accounts with a financial service.
   - Automatically reinvest dividend payouts to avoid idle cash.
-- However, if your broker doesn't allow for fractional shares, keep plenty of cash available so you'd be able to buy 1 share.
+- However, if your broker doesn't allow for fractional shares, keep plenty of cash available to buy 1 share.
 
 ## Keep your portfolio organized
 
@@ -81,7 +86,7 @@ To avoid making a silly mistake, keep your large trades to a minimum.
 
 ## Buy low, sell high
 
-Successful investing, across *any* industry, is knowing when things are cheap or expensive relative to what they will be in the future.
+Across *any* industry, successful investing comes through knowing when things are cheap or expensive relative to what they will be in the future.
 
 The concept of value, however, is [a philosophically complicated one](values.md), and investing uses a combination of several possible approaches to parse the value of money:
 
@@ -137,6 +142,9 @@ Timing the market ("speculation") is so ubiquitous that most people think it's t
 
 Don't sway [emotionally](mind-feelings.md) toward industry [trends](people-trends.md) unless you know exactly *why* you want to invest there.
 
+- A market is succeeding when it estimates prices correctly, *not* when that market is rising.
+- Usually, the right prices only emerge in markets that are boring.
+
 Try Dollar-Cost Averaging to make safe, non-emotional [habits](https://adequate.life/habits/) out of investing:
 
 - Put the same dollar amount every month towards the same ratio of investment types you want.
@@ -163,7 +171,7 @@ The efficiency of an asset class as an investment vehicle is proportional to a f
    - Potential [publicity](people-image-why.md) problems, irrespective of legality.
    - [Ethical issues](morality.md) you won't be immediately aware of through the [culture](people-culture.md) of the people who engage in that asset.
 3. The benefits of that asset class are instantly clear and comprehensible.
-   - The risk of a scam increases with how opaque their system is (see below under Scams).
+   - The risk of a scam increases with how opaque their system is.
 
 An inefficient (and possibly profitable) market will have a few characteristics:
 
@@ -328,7 +336,7 @@ Taxes usually engage on each trade, so try to limit (or at least time) how many 
 
 Beware of tax-avoidance schemes.
 
-- Many of them are scams.
+- Many of them are [scams](money-investing-risk.md).
 - Even if they work temporarily, they may leave you paying more in lawyer fees and back-taxes than if you had paid the taxes in the first place.
 
 If you make *any* significant investing income, [get a good accountant](money-accounting.md) to find your most favorable tax situation.
@@ -444,6 +452,7 @@ Books:
 
 Articles/Courses:
 
+- [BERKSHIRE HATHAWAY INC.](https://www.berkshirehathaway.com/)
 - [Bogleheads](https://www.bogleheads.org/wiki/Main_Page)
 - [Investopedia Academy](https://academy.investopedia.com/)
 - [What You Should Know About The Stock Market - BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)

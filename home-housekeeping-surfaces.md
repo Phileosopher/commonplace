@@ -151,7 +151,7 @@ Pilling on clothes:
 
 - Turn shirts and jackets inside-out before washing.
 - Immerse in icy water with some sea salt dissolved in it.
-- Use a razor blade to consolidate all of it so you can easily grab it.
+- Use a razor blade to consolidate all of it to easily grab it.
 
 Delicate designs:
 
@@ -212,11 +212,11 @@ Canvas shoes:
 Leather shoes:
 
 - Rub all over with half a lemon, let dry, polish, repeat as necessary.
-- If you have water stains on it, rub two parts baked baking soda mixed with one part hot milk into it, then polish like normal.
+- If you have water stains on it, rub two parts baking soda mixed with one part hot milk into it, then polish like normal.
 
 Shoe scuffs:
 
-- Scrub with nail polish polish remover, hydrogen peroxide, or wax polish.
+- Scrub with nail polish remover, hydrogen peroxide, or wax polish.
 
 Salt stains on brown shoes:
 

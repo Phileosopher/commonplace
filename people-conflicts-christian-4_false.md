@@ -105,7 +105,7 @@ One of the most prominent heresies stems from [magical thinking](understanding-c
   - Scripture indicates our [desires](purpose.md) will change, but makes [no promise](people-contracts.md) of physical gain in this life ([Galatians 2:20](https://biblehub.com/galatians/2-20.htm)).
   - Magical thinking doesn't bar anyone from salvation, but it *will* discourage Christians long-term.
     - At its farthest, magical thinking will become a standard cult if a very [eloquent](power-influence.md) speaker can [influence](power-influence.md) enough people.
-  - This type of expression represents sometimes as a "prophecy", with some people being clearly false prophets ([Matthew 7:15](https://biblehub.com/matthew/7-15.htm)):
+  - This type of expression sometimes represents as a "prophecy", with some people being clearly false prophets ([Matthew 7:15](https://biblehub.com/matthew/7-15.htm)):
     - John Hagee
     - C. Peter Hagner
     - TB Joshua

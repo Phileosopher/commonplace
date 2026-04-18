@@ -21,7 +21,7 @@
 - Ed Dobson predicted the end would occur in his book The End: Why Jesus Could Return by A.D. 2000.
 - Lester Sumrall predicted the end again in his book I Predict 2000.
 - Jonathan Edwards predicted in the 18th century that Christ's thousand-year reign would begin in this year.
-- On Earth Day in 1970, many scientists concluded that humanity had a window of 15--30 years, tops, before a new ice age set in unless humanity made permanent pollution controls.
+- On Earth Day in 1970, many scientists concluded that humanity had a window of 15-30 years, tops, before a new ice age set in unless humanity made permanent pollution controls.
 
 2000, 2006
 
@@ -30,7 +30,7 @@
 2001
 
 - Tynnetta Muhammad predicted the end would occur in 2001.
-- Jack Van Impe's book On the Edge of Eternity predicts that the year 2001 will "usher in international chaos such as we've never seen in our history." and that in 2001 and the following years the world will experience "drought, war, malaria, and hunger afflicting entire populations throughout the African continent...By the year 2001, there will be global chaos." Islam will become much larger than Christianity. A one-world church will emerge; it will be "controlled by demonic hosts." Temple rituals (presumably including animal sacrifice) will resume in Israel.
+- Jack Van Impe's book On the Edge of Eternity predicts that the year 2001 will "usher in international chaos such as we've never seen in our history." and that in 2001 and the following years the world will experience "drought, war, malaria, and hunger afflicting entire populations throughout the African continent... By the year 2001, there will be global chaos." Islam will become much larger than Christianity. A one-world church will emerge; it will be "controlled by demonic hosts." Temple rituals (presumably including animal sacrifice) will resume in Israel.
 - Charles Spiegel, a retired psychology professor, preached that the ancient land of Atlantis will emerge from the Caribbean circa 2001. Shortly thereafter, 1000 extra-terrestrials from "Myton" in 33 spaceships will land there and bring new knowledge to humanity.
 - Jack Van Impe changed from his book's prediction of the end of the world to it becoming the beginning of the Millennium.
 
@@ -110,7 +110,7 @@
 
 2021
 
-- F. Kenton Beshore bases his prediction on the prior suggestion that Jesus could return in 1988 (i.e., within one Biblical generation of 40 years) of the founding of Israel in 1948. Beshore argues that the prediction was correct, but that the definition of a Biblical generation was incorrect and was actually 70--80 years, placing the Second Coming of Jesus between 2018 and 2028 and the Rapture by 2021 at the latest.
+- F. Kenton Beshore bases his prediction on the prior suggestion that Jesus could return in 1988 (i.e., within one Biblical generation of 40 years) of the founding of Israel in 1948. Beshore argues that the prediction was correct, but that the definition of a Biblical generation was incorrect and was actually 70-80 years, placing the Second Coming of Jesus between 2018 and 2028 and the Rapture by 2021 at the latest.
 
 2024
 

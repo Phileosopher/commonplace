@@ -183,6 +183,7 @@ Redirection
 - Imply that their thing is the new [trend](people-trends.md), which makes others [imagine](mind-imagination.md) they'll miss out on it.
 - Imply there are only a few possible [options](mind-decisions.md), even when there are more.
 - A [large group](groups-large.md) using independent local individuals to imply a [smaller group](groups-small.md).
+- Use a *lot* of information that floods out existing information that may give a clear conclusion.
 
 Blame
 
@@ -191,6 +192,7 @@ Blame
 - Blame a [larger group](groups-large.md) to appear as a [victim](hardship-ptsd.md) or more [moral](morality.md).
 - Shame anyone who rejects their [bias](people-image-why.md).
 - Imply their opponent is the laggard of a [trend](people-trends.md).
+- Imply an error by someone is evidence of their ineptitude.
 
 ## [Organizations](groups-large.md)
 

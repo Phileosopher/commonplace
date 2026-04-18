@@ -106,7 +106,7 @@ Crayon marks:
 
 Deodorant stains:
 
-- Rub dryer sheets or nylon tights over it.
+- Rub dryer sheets or nylon leggings over it.
 
 Egg stains:
 
@@ -177,7 +177,7 @@ Mildew stains:
 - Moisten a fabric stain with lemon juice and salt, then put under the sun.
 - Sponge a fabric stain with a mixture of 1-2 tablespoons sodium perborate with a pint of hot water (if the garment can withstand it) or warm water, then let sit for 30 minutes.
 - Soak fabric for 5-15 minutes with a mixture of two tablespoons chlorine bleach in a quart of water, then soak in a mixture of two tablespoons vinegar for every cup of water to avoid any further bleaching.
-- For shower curtains, wash them with salt when first buying them and they will never mold.
+- For shower curtains, washing them with salt when first buying them makes them never mold.
 - For shower curtains, soak in baking soda mixed into water.
 
 Nail polish stains:
@@ -214,7 +214,7 @@ Permanent marker stains:
 
 - Rub white vinegar or hand sanitizer into it.
 - On wall stains, rub toothpaste or hairspray into it.
-- On wood stains, rub rubbing alcohol into it.
+- On wood stains, apply rubbing alcohol to it.
 
 Red wine stains:
 

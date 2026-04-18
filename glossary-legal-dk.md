@@ -309,7 +309,7 @@ Integration Clause - aka "merger clause", a condition in a contract that indicat
 
 Intent - aka "mens rea", a person's state of mind when performing an action, in contrast with actus reus
 
-Inter alia - "Latin for "among other things"
+Inter alia - Latin for "among other things"
 
 Interlineation - Inserting language in between the content of an existing legal document
 

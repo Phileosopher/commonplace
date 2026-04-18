@@ -84,7 +84,7 @@ To clarify the information further, the insurer also provides policy guidelines 
 
 Before the policy can be formally written, but after the "binding" of the payment, the insurance agent issues a "binder" that gives temporary evidence of insurance until a policy can be issued.
 
-- Binders are valid according to the earlier of the effective date and issue date, and typically issued for 30-day periods.
+- Binders are valid according to the earliest of the effective date and issue date, and typically issued for 30-day periods.
 
 The policy effective date can usually start on any day from the present and goes for 12 months.
 

@@ -249,9 +249,9 @@ Unless you're still going to it or working for it, don't include your high schoo
 - *Any* college experience heavily implies you graduated from high school already.
 - If you *didn't* graduate high school, take 1 affordable college class to dramatically change your image.
 
-You can share skills through your Work History, but some skills won't associate with a previous job and you may need a Skills section:
+While you can share skills through your Work History, you may need a "Skills" section if some skills aren't connected with a previous job:
 
-- Only include hard skills (e.g., foreign languages, software programs) and avoid soft skills (e.g., leadership, communication) in a Skills section, since those should be part of your work history.
+- Only include hard skills (e.g., foreign languages, software programs) and avoid soft skills (e.g., leadership, communication) in that section, since those should be part of your work history.
 - If the job you're applying for requests a skill you don't have, spend a few hours self-educating on that skill and include it in your résumé.
 
 Add *all* relevant "education":

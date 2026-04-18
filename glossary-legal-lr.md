@@ -49,7 +49,7 @@ Litigant - A party to a case
 
 Lockout - Illegally forcing a tenant out of rented property, usually by changing the locks on the doors
 
-Locus standi - aka "standing, a party seeking a legal remedy must demonstrate to the court they have sufficient connection with what they're challenging
+Locus standi - aka "standing", a party seeking a legal remedy must demonstrate to the court they have sufficient connection with what they're challenging
 
 Loss - A materially significant sabotage for an individual or entity's expected purposes or rights
 

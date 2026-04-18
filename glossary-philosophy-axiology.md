@@ -48,7 +48,7 @@ Deism - Reasoning is the only basis for knowledge. Thus, someone should only bel
 
 Experientialism - Knowledge should be measured by experiences and first-hand accounts.
 
-Foundationalism - We can be [certain](understanding-certainty.md) of beliefs when when they're based on self-evident basic beliefs that are based on non-belief things like experiences. Opposite of coherence theory of justification.
+Foundationalism - We can be [certain](understanding-certainty.md) of beliefs when they're based on self-evident basic beliefs that are based on non-belief things like experiences. Opposite of coherence theory of justification.
 
 Functionalism - Since reductive materialism (see above) and logical behaviorism (see above) are wrong, we must consult [beliefs](understanding-certainty.md), [desires](purpose.md), and [emotions](mind-feelings.md) to [understand](understanding.md) people. The opposite of coherence theory of justification.
 
@@ -85,13 +85,13 @@ Skepticism - Doubt things that are held as knowledge.
 
 Structuralism - All elements of human culture are connected to a broader system.
 
-- Post-structuralism - Since all elements of human culture are relative, there's no certain connection between any of them but there's a type of absolute to all of it.
+- Post-structuralism - Since all elements of human culture are relative, there's no certain connection between any of them, but there's a form of absolute to all of it.
 
 Subjectivism - Things are subjective, and they either don't independently exist or it doesn't matter.
 
 Syncretism - Contradicting things can be converged and unified into one harmonizing thought pattern.
 
-## What is the most moral thing to do (greatest good)?
+## What is the most moral thing to do (the greatest good)?
 
 Altruism - People are morally required to serve the "greater good".
 
@@ -144,7 +144,7 @@ Stoicism - Self-control of all types creates inner strength that builds harmony 
 
 ## Do we have free will?
 
-Compatibilism/Soft determinism - Because we can [imagine](mind-imagination.md) and [our environment](people-culture.md) profoundly impacts our decisions, determinism (see above) and free will can coexist. Opposite of incompatibilism.
+Compatibilism/Soft determinism - Because we can [imagine](mind-imagination.md), and [our environment](people-culture.md) profoundly impacts our decisions, both determinism (see above) and free will are able to coexist. Opposite of incompatibilism.
 
 Incompatibilism - Free will and determinism (see above) cannot [logically](logic.md) coexist.
 
@@ -162,7 +162,7 @@ Soteriology - The theological study of salvation (soteria).
 - Calvinism/Janesenism - God's grace, empowering man, gives the condition for salvation. Jesus saves everyone by his decree, and people can't resist the Holy Spirit.
 - Fideism/Solifidianism - Reasoning is only somewhat relevant to [religious belief](religion-answers.md).
 - Gnosticism - Salvation depends on some degree of reasoning.
-- Molinism - God has 3 types of knowledge: a permanent and immutable knowledge, condition-based knowledge, and free knowledge that can move around and he doesn't have to know everything all at once.
+- Molinism - God has 3 types of knowledge: a permanent and immutable knowledge, condition-based knowledge, and free knowledge that can move around. Further, goes doesn't have to know everything all at once.
 - Pelagianism - People are always able to choose good or evil, irrespective of any sin nature.
 - Semipelagianism - People must make the first step toward God, then God will complete their salvation.
 
@@ -190,7 +190,7 @@ Value pluralism - Two or more moral values may be equally true, but also in conf
 
 Ascriptivism - Even if determinism (see above) is true, people are still responsible for their actions.
 
-Consequentialism - The consequences from deicisions determine whether something was the right decision. Opposite of deontologism.
+Consequentialism - The consequences of deicisions determine whether something was the right decision. Opposite of deontologism.
 
 - Eudaimonism - Actions are good to the degree that they produce human flourishing.
 - Situationalism/Situation ethics - Moral principles, while generally true, can be cast aside in certain situations if it's the most [loving](people-love.md) action.

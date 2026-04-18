@@ -50,7 +50,7 @@ King William I of Prussia on hearing of the invention of trains
 1864
 
 Why are you dodging like this? They couldn't hit an elephant at this distance.
-final words of Major General John Sedgwick
+The final words of Major General John Sedgwick
 1864
 
 Well-informed people know it is impossible to transmit the voice over wires and that were it possible to do so, the thing would be of no practical value.
@@ -97,7 +97,7 @@ Everyone acquainted with the subject will recognize it as a conspicuous failure.
 Henry Morton, president of the Stevens Institute of Technology, on Edison’s light bulb
 1880
 
-Fooling around with alternating currents is just a waste of time. Nobody will use it, ever.  It's too dangerous. . . it could kill a man as quick as a bolt of lightning. Direct current is safe.
+Fooling around with alternating currents is just a waste of time. Nobody will use it, ever. It's too dangerous...it could kill a man as quick as a bolt of lightning. Direct current is safe.
 Thomas Edison
 1880
 
@@ -168,7 +168,7 @@ The (flying) machines will eventually be fast; they will be used in sport but th
 Octave Chanute
 1910
 
-The resistance of air increases as the square of the speed and works as the cube [of speed]...It is clear that with our present devices there is no hope of aircraft competing for racing speed with either our locomotives or automobiles.
+The resistance of air increases as the square of the speed and works as the cube [of speed]... It is clear that with our present devices there is no hope of aircraft competing for racing speed with either our locomotives or automobiles.
 William Henry Pickering, Director of Harvard College Observatory
 1910
 
@@ -256,7 +256,7 @@ There will never be a bigger plane built.
 A Boeing engineer, after the first flight of the Boeing 247 that held ten people
 1933
 
-The star has to go on radiating and radiating and contracting and contracting until, I suppose, it gets down to a few km radius, when gravity becomes strong enough to hold in the radiation, and the star can at last find peace. … I think there should be a law of Nature to prevent a star from behaving in this absurd way!
+The star has to go on radiating and radiating and contracting and contracting until, I suppose, it gets down to a few kilometer radius, when gravity becomes strong enough to hold in the radiation, and the star can at last find peace. … I think there should be a law of Nature to prevent a star from behaving in this absurd way!
 Arthur Stanley Eddington on the Chandrasekhar limit
 1935
 

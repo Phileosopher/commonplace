@@ -39,7 +39,14 @@ In many ways, history is the "greatest hits" of what has survived.
 - Due to [logistical constraints due to death](https://gainedin.site/death/), there would simply not be enough time, energy, or space to capture and store every single recorded thing a person made.
 - The surviving documents weren't the *best* things, but they were certainly the most popular in light of what the culture accepted to be communicated.
 - For example, there may have been a far more brilliant writer than Socrates, with more insight and a clearer flow of thought, but he was killed by the government because he spoke so plainly.
-- As another example, the works of Chopin are well-maintained, but there may have been someone Chopin directly stole from who never became popular even though his skill at composition was greater than Chopin.
+- As another example, the works of Chopin are well-maintained, but there may have been someone Chopin directly stole from who never became popular, even though his skill at composition was greater than Chopin.
+
+However, most historical records consist of the surviving trash from the past.
+
+- Many times, academic and intellectual works were "purged" in wars.
+- Other times, natural disasters destroyed archives.
+- For that reason, some of the most reliable sources of information comes from trash piles, former sewage dumps, and other discarded locations.
+- Further, the poor quality of historical archives requires a *lot* of [forensic work](security-forensics.md).
 
 ## History's relatability
 
@@ -58,7 +65,7 @@ Most ideas present in ancient cultures were nowhere near as fixed in peoples' mi
 
 Many myths and facts were *not* referring to the same things:
 
-- The "seven seas" were different, depending who you talked to (Greek, Arabian, or Medieval European):
+- Different regions had differing associations to the "seven seas" (Greek, Arabian, or Medieval European):
   - Adriatic
     - north of the Mediterranean (the east side of Italy)
     - Greek

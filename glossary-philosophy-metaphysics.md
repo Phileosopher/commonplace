@@ -26,11 +26,11 @@ Monism - There is only one principle, essence, substance or energy.
   - Historical materialism - People exist because their [social group](groups-member.md) defines them, not because they are conscious in their mind.
   - Naturalism/Metaphysical naturalism - Values, souls, and anything else "supernatural" is merely part of the natural.
   - Physicalism - Everything is physical, and thus scientifically knowable.
-    - Eliminative materialism - Some of the weird things people believe in don't exist.
+    - Eliminative materialism - Some weird things people believe in don't exist.
     - Emergent materialism - The mind is certainly unique from everything else, but studying mental events should be separate from the other [sciences](science.md).
     - French materialism - Associationism (see below) can coexist with emanationism (see below).
-    - Reductive materialism/Type physicalism/Type identity theory/Mind-brain identity theory/Identity theory of mind - Some of the weird things people believe in do exist, but not the way they think it does.
-    - Revisionary materialism - Some of the weird things people believe in do exist, but probably not the way they think it does.
+    - Reductive materialism/Type physicalism/Type identity theory/Mind-brain identity theory/Identity theory of mind - Some weird things people believe in do exist, but not the way they think it does.
+    - Revisionary materialism - Some weird things people believe in do exist, but probably not the way they think they do.
 
 Pluralism - There are many kinds of things in reality that can't be lumped together.
 
@@ -49,7 +49,7 @@ Accidentalism - Cause-and-effect is merely an illusion.
 
 Conceptualism - Universals exist only within the mind, but not in external reality. Middle ground between nominalism and realism.
 
-Eternalism - Everything has existed for all of eternity.
+Eternalism - Everything has existed for all eternity.
 
 Illusionism - Everything is just a collection of illusions made by human consciousness.
 
@@ -121,14 +121,14 @@ Catastrophism - Sudden, short-lived, vastly large-scale events shape reality.
 Nontheism - A broad belief set that says a deity doesn't exist or is unknowable. A subset of anti-realism.
 
 - Agnosticism - We can't know about a deity's existence.
-  - Agnostic theism - We don't know if a deity exists and it's probably unknowable, but still worth believing in.
+  - Agnostic theism - We don't know if a deity exists and probably can't know, but still worth believing in.
   - Weak/implicit/empirical/negative agnosticism - We don't know if deities exist, but it's not necessarily unknowable.
   - Strong/explicit/positive agnosticism - It's impossible for people to know whether deities exist.
 - Atheism - There is no deity.
   - Methodological naturalism - Every other possible explanation should apply before saying a deity caused something.
   - Weak/implicit/negative atheism - There's no evidence of a deity.
   - Strong/explicit/positive/hard/gnostic atheism - Deities in no way exist.
-- Agnostic atheism - We don't know if a deity exists and it's probably unknowable, it's unimportant, or claiming non-knowing is the best way to live.
+- Agnostic atheism - We don't know if a deity exists and probably can't know, it's unimportant, or claiming non-knowing is the best way to live.
 - Darwinism - All life came from the same living ancestor through small changes over a long time.
 - Ignosticism/Igtheism - Questioning the existence of God is meaningless because the word "God" is vaguely defined.
   - Theological noncognitivism - Religious language like "God" have no meaning, and can't be proved without connections to other things, so they don't exist.
@@ -149,7 +149,7 @@ Theism - A deity or deities exist, and may be involved in maintaining/creating t
   - Pantheism/Cosmotheism - Everything is part of an all-encompassing God, or God and the universe are the same thing.
   - Panentheism - God is part of the universe, but also the force behind the universe and the cause of [morality](morality.md).
   - Pandeism - Everything is part of an all-encompassing God, or God and the universe are the same thing, but this God is uninvolved in this world's actions.
-  - Substance monotheism - God is different persons/deities, but all of the same essence.
+  - Substance monotheism - God is different persons/deities, but all the same essence.
   - Transtheism - God is impersonal essence, not related to anything else that exists.
 - Philosophical theism - God exists, either from a philosophical reason or a religious faith that's not supported by a rational argument.
 - Polytheism - Multiple deities, typically part of a pantheon, created the universe. Usually has [myths](stories-myths.md) and [rituals](habits.md) involved.

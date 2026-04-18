@@ -9,7 +9,7 @@ The range of 1-100 sits as a bell curve, where someone with a score of 1 is thou
 
 A person self-reporting on a Big 5 test is a reliable indicator across decades of how they'll likely [behave](results.md), but *other* people reporting on someone is also a reliable indicator as well.
 
-The dimensions are easy to remember as an acronym, and it takes about 100 [well-asked questions](understanding.md) to find where someone sits on each spectrum.
+The dimensions are easy to remember as an acronym, and it takes about 100 [well-asked questions](understanding.md) to find where someone sits on each spectrum:
 
 - Openness to experience
 - Conscientiousness
@@ -88,7 +88,7 @@ We have a tendency to [feel](mind-feelings.md) disgust for the [risks](safety.md
 - [Cleans up](home-housekeeping.md) belongings and keeps things organized
 - Follows a schedule and enjoys [routine](habits.md)
 - Bothered by [disorder](unknown.md) and messy people
-- Wants every detail taken care of and that [rules](people-rules.md) are honored
+- Desires every detail managed of and [rules](people-rules.md) honored
 
 ## Extraversion (versus Introversion)
 
@@ -240,4 +240,4 @@ Generally, we can fix most of our personality defects with *other* personality c
 
 Frequently, even if *you* can't do something, others can. This takes tremendous humility, but you're *far* more naturally equipped to resolve certain problems better than others, and the same goes for everyone else.
 
-To make a healthy and diverse group, *all* the personalities must be represented, which is easiest by drawing from a wide variety of families from vastly different ethnic backgrounds. This never plays out as well in practice for [industry-specific domains](jobs-specialization.md) (due to specific demands of various trades), represents the most within casual social [clubs](groups-small.md) and organized [religion](religion.md), and is a massive reason why a nation of immigrants (e.g., USA when people want to move there) has natural [creative](mind-creativity.md) and [competitive](entrepreneur-why.md) advantages.
+To make a healthy and diverse group, *all* the personalities must be represented, which is most easily attained through drawing from a wide variety of families from vastly different ethnic backgrounds. This never plays out as well in practice for [industry-specific domains](jobs-specialization.md) (due to specific demands of various trades), represents the most within casual social [clubs](groups-small.md) and organized [religion](religion.md), and is a massive reason why a nation of immigrants (e.g., USA when people want to move there) has natural [creative](mind-creativity.md) and [competitive](entrepreneur-why.md) advantages.

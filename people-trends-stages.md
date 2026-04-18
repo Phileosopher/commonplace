@@ -1,7 +1,7 @@
 
 # The stages of a trend
 
-A trend transitions through a series of stages. Each stages can last for days or weeks, but sometimes a stage can linger for *centuries*. Most trends move at the speed of [information transfer](https://meltingasphalt.com/interactive/going-critical/).
+A trend transitions through a series of stages. Each stage can last for days or weeks, but sometimes a stage can linger for *centuries*. Most trends move at the speed of [information transfer](https://meltingasphalt.com/interactive/going-critical/).
 
 It's worth noting that each person's status in a trend doesn't really mean much for other trends. Younger people *generally* adopt trends faster, but it's all based on how much people are willing to [change](people-changes.md). *Very* frequently, people who are savvy on some trends are lagging behind others, by virtue of [specialization](jobs-specialization.md) of focus.
 
@@ -21,7 +21,7 @@ The trend will have advocates, though, who sincerely [believe](understanding-cer
 
 For smaller trends, like variations of a different trend, people won't [feel](mind-feelings.md) opposed to it, but will wonder why that remix is even necessary.
 
-APPLICATION: If you're the architect of an idea, you didn't really "think" it yourself, since you likely conflated multiple ideas and applied them in a different way. But, if you're the first thinker of a new trend, you may well deserve credit for it. You will *not* get that credit, and someone else who comes later will have the trend named after them, but there's tremendous [meaning](meaning.md) in finding this arrangement acceptable.
+APPLICATION: If you're the architect of an idea, you didn't really "think" it yourself, since you likely conflated multiple ideas and applied them differently. But, if you're the first thinker of a new trend, you may well deserve credit for it. You will *not* get that credit, and someone else who comes later will have the trend named after them, but there's tremendous [meaning](meaning.md) in finding this arrangement acceptable.
 
 ## B. Possible, but weird
 
@@ -83,12 +83,12 @@ As the majority of people [see](people-image-why.md) the [results](results.md) o
 The early majority starts something because they see proof it has worked and has been proven to benefit their [purposes](purpose.md):
 
 - The thing is stable and well-received already, or at least [looks like it is](people-image-why.md).
-- The [group's leaders](groups-small.md) approve of it (at least enough that they imagine it's [useful](purpose.md) and they don't [feel](mind-feelings-fear.md) threats to their [power](power.md)).
+- The [group's leaders](groups-small.md) approve of it (at least enough that they both imagine it's [useful](purpose.md) and don't [feel](mind-feelings-fear.md) threats to their [power](power.md)).
 - There's a defined [educational](education.md) system on how to work with it or operate it.
 - Other people with the same [personality](people-personality.md) as them have already adopted it.
 - The resource cost (usually price) is at or lower than the resource cost for the alternative older way trends and [rituals](habits.md).
 
-APPLICATION: To see a new trend, watch how useful technology becomes. For example, clothing styles will have no more further advancements until they create a new fabric or find a way to create affordable [computer screens](engineering-screen.md) *onto* fabric.
+APPLICATION: To see a new trend, watch how useful technology becomes. For example, clothing styles will likely have no more advancements until they create a new fabric or find a way to create affordable [computer screens](engineering-screen.md) *onto* fabric.
 
 APPLICATION: Huge, society-spanning trends often come from awful conflicts and hardship:
 
@@ -135,7 +135,7 @@ Every [organization](groups-large.md) that benefits from a trend wants to keep a
 
 If enough people abide by the standard, there's a chance a sub-trend will arise inside that constrained trend. This will become a microcosm of the original trend. If *that* trend becomes a social standard, and enough people continue using it, a sub-sub-trend system can persist into indefinitely specific capacities.
 
-If a [bad system](mgmt-badsystems.md) exploits a trend, they're overstepping their [boundaries](people-boundaries-why.md) and pushing their [power](power.md) as far as the trend will permit them. If they're sensible, they can often create a Social Standard Zombie while sacrificing [quality](values-quality.md). Otherwise, they'll make everyone sick of the trend and it'll quickly fade.
+If a [bad system](mgmt-badsystems.md) exploits a trend, they're overstepping their [boundaries](people-boundaries-why.md) and pushing their [power](power.md) as far as the trend will permit them. If they're sensible, they can often create a Social Standard Zombie while sacrificing [quality](values-quality.md). Otherwise, they'll make everyone sick of the trend, and it'll quickly fade.
 
 The peak of a trend is right *before* the demonstration of a grandiose, obscene, audacious over-expression of that trend:
 
@@ -182,7 +182,7 @@ Naturally, every [organization](groups-large.md) that profits off a trend will d
 - They'll usually [distort](people-image-distortion.md) how necessary or crucial their trend is. At the most extreme, they'll claim their trend [defines civilization or is the future of humanity](politics-conservativeliberal.md).
 - When possible, they'll shut down new trends that could take away their [power](power.md), often [viciously](people-conflicts-why.md) or with [evil intent](morality-evil.md). People *inside* the organization aren't exempt, even when they're fiercely [loyal](people-image-why.md) to the [group](groups-small.md).
 
-Plus, most [older people](maturity.md) simply like things the way they are.
+Plus, [older people](maturity.md) are more likely to like things the way they are.
 
 ## F2. Sickening
 

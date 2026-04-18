@@ -17,7 +17,7 @@ Automatism/surrealist automatism - Spontaneously creating without any conscious 
 
 Classicism - Creating with a high regard for classical antiquity. A type of aesthetic absolutism. Contrasts against romanticism.
 
-Expressionism - Creating by over-exaggerating to create an emotional effect. Contrasts to moral realism.
+Expressionism - Creating by exaggeration to create an emotional effect. Contrasts to moral realism.
 
 Modernism - Borrowing from humanism (see above), create with an emphasis on [science](science.md) and [technology](technology.md).
 

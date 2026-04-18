@@ -35,7 +35,7 @@ There's a divergence around 4th grade that focuses heavily on geometric primitiv
 
 The emphasis on primitives and shapes synthesize into geometric analysis:
 
-1. Reviewing shapes that accounts for the number and length of sides, angle size, the presence of parallel or perpendicular lines, and symmetry.
+1. Reviewing shapes that account for the number and length of sides, angle size, the presence of parallel or perpendicular lines, and symmetry.
 2. Using reasoning about shapes' properties to solve specific problems (e.g., given the length of a rhombus side, what's the length of another of its sides?).
 
 From there, it's revisiting and expanding on ideas again:

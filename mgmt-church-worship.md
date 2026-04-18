@@ -46,7 +46,7 @@ Conformity to Christ is conforming to what the Holy Spirit dictates.
 
 Unfortunately, the [culture](people-culture.md) surrounding a Church will heavily define how people interpret Scripture.
 
-- Currently in the USA, [leftward thinking](politics-leftism.md) drives church leadership, while the congregation represents the approximate [political views](politics-conservativeliberal.md) of American society. This reflects the general leftism of the [capital and governing class](classes.md)
+- In the USA currently, [leftward thinking](politics-leftism.md) drives church leadership, while the congregation represents the approximate [political views](politics-conservativeliberal.md) of American society. This reflects the general leftism of the [capital and governing class](classes.md)
 
 If you pull *anything* from existing denominations, you'll also often draw their added criticism because it was inspired from them.
 
@@ -113,7 +113,7 @@ Watch for warning signs:
   - In particular, youth pastors are particularly overworked.
 - The administrative tasks aren't being completed in a timely manner.
   - Bulletins and calendars aren't sent out on time.
-  - There's no clear centralized information structure.
+  - There's no clear and centralized information structure.
 - There's a constant call to help, but nobody seems to volunteer for the role.
 
 There are only several solutions to the issue:
@@ -183,7 +183,7 @@ There are a few major models for churches built around routine meetings.
 
 The **Traditional** model starts in a house, then transitions to a building.
 
-- Usually minded to a specific [cultural group](people-culture.md) with a narrow vision for who they'll reach.
+- Usually minded to a specific [cultural group](people-culture.md) with a narrow vision for the people they'll reach.
 - Traditional churches often have a strong passion for [evangelism](spiritual-exercises-evangelism.md).
 - It balances resources well, and most people find them familiar.
 - The lack of demographic diversity, however, often fosters complacency.

@@ -62,7 +62,7 @@ Their inappropriate behavior will create a loop over time:
 1. An action performed in anger, which will often be a [sin](morality-justice.md) against someone.
 2. Unconscious, repressed guilt over that action's consequences.
 3. Through not being [self-aware](mind-awareness.md), the unresolved guilt becomes [shame](mind-feelings-shame.md).
-4. That guilt arises later from another experience (often from those consequences or someone else triggering them).
+4. That guilt arises later from another experience (often from those consequences or someone triggering them).
 5. Generalized rage, directed toward the trigger of the shame ("narcissistic rage").
 6. Go back to Step 1.
 
@@ -71,7 +71,8 @@ If they were being bluntly honest, they'd say the following:
 1. "Why can't everyone just let me say what I want without consequence?"
 2. "I don't really mean it, and I just need to vent my issues."
 3. "It seems like everyone is out to get me when they try to shut it down."
-4. "I do know what's best, so why can't everything just go my way so I can be free to have my tantrum?"
+4. "I do know what's best, so why can't everything just go my way?"
+5. "I just want to be free to have my tantrum!"
 
 The nature of this means anyone with a [Cluster B personality](mind-neurodivergence-clusterb.md) can become NPD if they have unresolved anger, and it's entirely possible that narcisstic behavior can lead to a narcissistic personality as well over time.
 

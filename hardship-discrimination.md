@@ -11,6 +11,8 @@ Everyone has a [bias](mind-bias.md), and you might just be unlucky to have your 
 - Having the wrong [religious affiliation](religion.md) for that part of the world.
 - Having a prior [criminal background](hardship-criminal.md), irrespective of how you [changed](people-changes.md).
 
+In modern societies, your [data reputation](people-image-modern.md) will follow you for many years, up to the calendar day past the number of years the background check goes back to.
+
 Expect prejudice to follow you everywhere.
 
 - Often, moving to another culture will migrate you into a different kind of prejudice because you're an outsider.
@@ -23,7 +25,7 @@ Learn to accept it.
 
 Even when they don't say anything, other people *do* see your mistreatment.
 
-- The reason they don't speak up is because they're often either quietly trying to survive or don't know what to believe.
+- They often don't speak up because they're often either quietly trying to survive or don't know what to believe.
 - Frequently, if you demonstrate above-average moral character, they'll quietly support you.
 
 Cut down on bigotry by redefining yourself:

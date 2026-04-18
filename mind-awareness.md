@@ -8,11 +8,35 @@ We can't live healthy lives when our subconscious always drives us:
 - A false sense of crisis can lead to neglected needs.
 - We'll fixate on something and ignore important details around it.
 
-The basis of all [understanding](understanding.md) starts with knowing yourself.
+Staying mindful, or aware, isn't the same for each person, and we have a tendency to specialize with it.
 
+- Non-judgment: gathering information without using [logic](logic.md) on it.
+- Acceptance: holding multiple [belief structures](values.md) at once.
+- Non-attachment: having no [feelings](mind-feelings.md) about the incoming experiences.
+- Compassion: associating with the emotional [hardship](hardship.md) from another's experience.
+- Conceptualization: able to physically see different perspectives in [space](reality.md).
+- Analysis: able to draw rational connections from previously [understood](understanding.md) information.
+
+## Self-awareness
+
+Knowing ourselves is the basis of all [understanding](understanding.md).
+
+- Self-awareness does several things:
+  - Detects early signs of [risk](safety.md)
+  - Decodes emerging [patterns](symbols.md)
+  - Gives us freedom to [choose](mind-decisions.md) instead of react
 - Awareness is the first step to *all* conscious [change](people-changes.md).
 - Without self-awareness, our subconscious [habits](habits.md) automatically run our lives.
 - We are the main curators of our mental health, as well as the first to experience its consequences.
+
+[Cognitive distortions](mind-bias.md) will frequently disrupt self-awareness:
+
+- Overgeneralization: drawing broad conclusions from a single event.
+- Catastrophizing: expecting the worst-case result of an experience.
+- Personalization: believing things are exclusively associated to you, even when they're not.
+- Black-and-white thinking: seeing things in absolute good/bad terms.
+- Mind-reading: assuming you know what others are thinking without concrete evidence.
+- Rumination: repeatedly thinking about distressing events or feelings, which can [dysregulate](mind-awareness-dysregulation.md) us.
 
 When we're unaware, we frequently respond wrongly:
 
@@ -20,7 +44,14 @@ When we're unaware, we frequently respond wrongly:
 - Sometimes, our [fear](mind-feelings-fear.md) will compel us to "fix" things that destroy even more than what we had observed.
 - And, when we're unaware of *those* consequences, we won't see what we destroy or try to "fix" things further!
 
-When we stay unaware, we become [dysregulated](mind-awareness-dysregulation.md).
+When we stay unaware of ourselves, we become [dysregulated](mind-awareness-dysregulation.md).
+
+We must challenge our cognitive distortions with further awareness.
+
+- Awareness of thoughts: know precisely what you're thinking (e.g., [meditation](mind-awareness-meditation.md), CBT)
+- Non-identification: understand you are not your thoughts.
+- Curiosity: openly ask if a thought is accurate or helpful.
+- Grounding techniques: [come back to the present moment](mind-awareness-meditation.md).
 
 ## Awareness isn't easy
 
@@ -36,9 +67,17 @@ We're in constant conflict.
 - These conflicts start within ourselves and branch out to [others](people-conflicts.md).
 - We [constantly hear new things](information.md) that interfere with our thoughts.
 
+Many of our [feelings](mind-feelings.md) may be undesirable.
+
+- Mindfulness means reframing the "bad" and "good" feelings to "desirable" and "undesirable".
+- They are simply indicators of something else, and not anything we must act on.
+
 The more we do, the less we're aware.
 
 - Doing things requires us to pay attention to tasks, which means we're not paying attention to our thoughts.
+- When we aren't aware of what we do, we typically develop [habits](habits.md) without thinking about them.
+  - Over time, our [memory](mind-memory.md) will discard details until all we have are mental and physical habits.
+  - Eventually, we'll persist in consistent [unforgiveness](hardship-ptsd-release.md) and bitterness.
 
 Gaining self-awareness can often be lonely.
 
@@ -72,7 +111,7 @@ For every thought, conduct an audit of its connected thoughts by asking several 
    - Will these thoughts build me up or tear me down?
    - If not sure, where *do* I want to go?
 3. Are these thoughts [morally acceptable](morality.md) beyond what I simply feel to be right?
-4. Do i feel guilty thinking these thoughts, and why?
+4. Do I feel guilty thinking these thoughts, and why?
 5. Could I share these thoughts with someone else?
    - This gives tremendous insight on the relationship between your spiritual state and others' spiritual state.
 6. Where did these thoughts originate?
@@ -84,7 +123,7 @@ If things become *awful*, we may need help attaining awareness through outside h
 - Prescription drugs such as antidepressants, antianxiety medications
 - Eye movement desensitization and reprocessing ([EMDR](https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing))
 - Neurofeedback
-- Somatic therapies
+- Somatic therapy
 - acupuncture/acupressure/EFT tapping
 - Cognitive behavioral therapy ([CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy))
 - Guided yoga/meditation

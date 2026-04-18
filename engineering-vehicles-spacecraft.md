@@ -37,7 +37,7 @@ The amount of latency, and relative speed of the satellite, requires a *lot* of 
 - Lower-range bands (L-band, S-band, C-band) are lower-power, and therefore require larger antennas.
 - Higher-end bands (X-band, Ku-band, Ka-band, V-band) have more power, so the dishes can be as small as 45 cm in diameter.
   - High-end bands are ideal for "direct-to-home" (DTH) broadcasting and broadband data/phone.
-- The inherent latency, however, means that satellites are *not* ideal for almost any two-way real-time data transfer unless they're LEO.
+- The inherent latency, however, means only LEO satellites are ideal for almost any two-way real-time data transfer.
 
 Each satellite must be *very* reliable, above 99.9%, since [maintenance](https://adequate.life/fix/) and hardware upgrades are nearly nonexistent or prohibitively expensive.
 

@@ -79,7 +79,7 @@ Downgrade images:
   - Don't downscale the image inside the CMS: downgrade it *before* you upload it.
   - If it's a very large image that matters (e.g., a [chart](data-viz.md)), have a small image that links to that one.
 - Lazy-load images, with placeholder images to keep the format while it's loading.
-- Since JPG images are "lossy", downgrading them means they'll look crappy, so choose something else (e.g,. PNG, GIF, WEBP)
+- Since JPG images are "lossy", downgrading them means they'll look crappy, so choose something else (e.g., PNG, GIF, WEBP)
 
 - The [text expression of icons](computers-keyboard.md) is acceptable, but SVGs tend to load faster even if the filesizes get larger.
 
@@ -117,7 +117,7 @@ Use guerrilla marketing to get site views:
 
 Like any other [marketing](marketing.md), tailor your marketing messages to the media.
 
-From the content in the website, all the way into the "meta tags" in HTML, each keyword has to be parsed very carefully.
+From the content on the website, all the way into the "meta tags" in HTML, each keyword has to be parsed very carefully.
 
 - Further, the meta tags can have the Open Graph Protocol (popularized by Facebook) to specify the content in it.
   - The most essential tags are:
@@ -180,7 +180,7 @@ Routinely:
 Don't waste time on social channels that don't speak to your audience:
 
 - Not everyone wants the product, so don't follow everyone.
-- Discussion forums gives profound long-term results, but takes *lots* of content and time.
+- Discussion forums give profound long-term results, but takes *lots* of content and time.
 - In-person events actually have [*dis*-economies of scale](money-economics.md).
 - Streaming networks are only good when you've reached a critical mass (often ~40,000 followers).
 

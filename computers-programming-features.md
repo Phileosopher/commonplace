@@ -252,7 +252,7 @@ Each variable can hold 1 value. While you *could* theoretically use 1 value to h
 
 FOR EACH functions allow loops over arrays. The loop will run across the array, but the EACH part asks for a condition. If the condition is met that time, the computer will run the instructions in the FOR EACH function.
 
-This can be *really* useful for lots of data. You can count the data that matches something, or make the computer do something related to where that data is stored (like modify the previous values or increment the data).
+This can be *really* useful for lots of data. You can count the data that matches something, or make the computer do something related to where that data is stored (like modifying the previous values or incrementing the data).
 
 ## More information
 

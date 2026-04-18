@@ -1,7 +1,7 @@
 
 # How social classes divide
 
-In any [large group](groups-large.md), people divide out into [smaller groups](groups-small.md) from [distinctions](people-discrimination.md) between [values](values.md) they [believe](understanding-certainty.md).
+In any [large group](groups-large.md), people divide out into [smaller groups](groups-small.md) from [distinctions](hardship-discrimination.md) between [values](values.md) they [believe](understanding-certainty.md).
 
 Even though they share certain values across their [group](groups-large.md), smaller and more specific values arise from differences in [status](people-image-why.md), [power](power.md), [purpose](jobs-specialization.md), and [appearance](people-image-why.md).
 
@@ -15,7 +15,7 @@ We typically inherit our social class from our [family](people-family.md). While
 
 ## Divisions
 
-Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](people-discrimination.md) about [race](people-image-why.md), [gender](people-gender.md), [attitude](success-1_why.md), or anything else. The dominant comparison comes through money, but can also arise through [military force](people-conflicts-war-why.md).
+Social classes *always* arise through how much power each person sees compared to those around them, even when there's zero [discrimination](hardship-discrimination.md) about [race](people-image-why.md), [gender](people-gender.md), [attitude](success-1_why.md), or anything else. The dominant comparison comes through money, but can also arise through [military force](people-conflicts-war-why.md).
 
 APPLICATION: There's no reason to [feel](mind-feelings.md) [shame](mind-feelings-shame.md) for being in a particular social class, despite any [insistence to the contrary](politics-leftism.md). The only shame is if we're [immoral](morality.md) or [unloving](people-love.md) toward others we encounter.
 

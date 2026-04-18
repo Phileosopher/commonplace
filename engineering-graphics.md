@@ -1,7 +1,7 @@
 
 # How graphics work
 
-Getting computers to display information on a [screen](engineering-screen.md) isn't necessarily easy, and most computers before the 1970's represented information as raw language outputted to a [printer](engineering-printers.md).
+Getting computers to display information on a [screen](engineering-screen.md) isn't necessarily easy, and most computers before the 1970s represented information as raw language outputted to a [printer](engineering-printers.md).
 
 The first graphical interface was called Sketchpad, and [was created by Ivan Sutherland in 1963 as part of his PhD thesis](https://www.youtube.com/watch?v=6orsmFndx_o). It essentially involved pressing a pad with a wired stylus while pressing buttons on the side of the screen, which indicated what form the device would draw.
 
@@ -16,7 +16,7 @@ When rastering to different sizes of pixel (e.g., 1024x768 resized to 1920x1080)
 
 - Spatial anti-aliasing "supersamples" by taking a higher resolution's image, then samples the extra pixels that wouldn't show up on the lower-resolution, then shrinks the image down to the original resolution with the averaged-out colors.
   - SSAA (super-sampling anti-aliasing) was the first form of anti-aliasing, and tends to adversely soften sharp horizontal and vertical lines. It also requires tons of computing power because the *entire* image must be processed before the jaggies are smoothed ("full-scene").
-  - MSAA (multisample anti-aliasing) draws and smooths out the edges of polygons, but it doesn't smooth out the textures, which can cut down on processing power a little bit at the expense of the poor-looking textures.
+  - MSAA (multisample anti-aliasing) draws and smooths out the edges of polygons, but it doesn't smooth out the textures, which can cut down on processing power at the expense of the poor-looking textures.
   - CSAA (coverage sampling anti-aliasing) was made by NVIDIA, and detects whether a polygon is present in the image, then only supersamples the pixels that have polygons that might have jaggies.
   - EQAA (enhanced quality anti-aliasing) is pretty much AMD's version of NVIDIA's CSAA.
 - Post-process anti-aliasing will slightly blur each pixel after it's rendered, then the GPU will determine the edge of the polygon by comparing whether the colors contrast between the pixels. This one is very fast, but can also make the image blurry in the process.
@@ -27,7 +27,7 @@ When rastering to different sizes of pixel (e.g., 1024x768 resized to 1920x1080)
 
 ### Rastered pixels
 
-Pixelated screens have been the standard since the 1980's because of their versatility. By using a grid, absolutely anything can render without too much trouble. It also happens to be how the data expresses on [printers](engineering-printers.md), so it's easy to migrate from one to the other.
+Pixelated screens have been the standard since the 1980s because of their versatility. By using a grid, absolutely anything can render without too much trouble. It also happens to be how the data expresses on [printers](engineering-printers.md), so it's easy to migrate from one to the other.
 
 The [screen](engineering-screen.md) pulls information from a "screen [memory](computers-memory.md) map", which is a designated part of the RAM set aside for screen information.
 
@@ -69,7 +69,7 @@ The general concept of SVG is that it holds XML [data](database.md):
 2. Objects are indicated with reference points.
    - Circles indicate the center point and the radius.
    - Lines have starting and ending points.
-   - Bezier curve lines have starting and ending points, with other points to represent the curve.
+   - Bézier curve lines have starting and ending points, with other points to represent the curve.
    - More complex [shapes](math-geotrig.md) can be created in the same way (e.g., rectangles, ovals).
 3. There are different preconfigured conditions for how the objects are filled (e.g., transparent, black) and the lines' stroke (e.g., dotted, black)
 4. If the rectangular container changes dimensions, it's a simple matter of algebra to realign the coordinates of everything (e.g., if 100x150 becomes 220x225, all X coordinates would multiply by 2.2 and all Y coordinates by 1.5).
@@ -104,7 +104,7 @@ Legitimate computed color gets far more complex, and is far more relative than m
 
 The actual numbers used to represent colors have no inherent meaning, and it goes back to the physics of light.
 
-- Our eyes perceive brightness on an exponential, not incremental, scale. This means that we doubling the number of photons would *not* feel like the brightness doubled.
+- Our eyes perceive brightness on an exponential, not incremental, scale. Therefore, doubling the number of photons would *not* feel like the brightness doubled.
 - There are a variety of [standards](standards-computers.md) available to represent this: linear progression, exponential progression, or a hybrid of both.
 - The numerical barriers for these colors are defined as "color spaces". Computers do *not* represent the full range of colors, and simply create constraints for the sake of what's most convenient.
 - "Unbounded" color values are free to be more precise compared to bounded values, but they're a little more fiddly to work with [memory](computers-memory.md) constraints.
@@ -117,7 +117,7 @@ Each colored pixel has 3 lights (red, blue, green) that shine at varying intensi
 The 3 most popular color configurations right now are 16-bit, 24-bit, and 32-bit.
 
 - 16-bit color is fine enough for any normal use, though games and high-resolution movies may suffer a little. By using 16 bits, there are 65,536 ranges of color.
-- 24-bit color covers every common visual need for seeing the entire range of color. Each of the 3 lights gets 8 bits (effectively 256 intensities), which combined together can make 16,777,216 possible colors. This represents as a 6-digit hexadecimal (e.g., #ff7452), though it can sometimes convert to an RGB format (e.g., rgb(255, 116, 82)).
+- 24-bit color covers every common visual need for seeing the entire range of color. Each of the 3 lights gets 8 bits (effectively 256 intensities), which combined can make 16,777,216 possible colors. This represents as a 6-digit hexadecimal (e.g., #ff7452), though it can sometimes convert to an RGB format (e.g., rgb(255, 116, 82)).
 - 32-bit color adds a layer of complexity. By incorporating an alpha channel that blends pixels, each pixel receives an additional 8 bits, bringing the total to 4,294,967,296 possible configurations per pixel.
 
 The memory required for pixelated color becomes daunting to imagine:
@@ -142,7 +142,7 @@ Memory management is a big deal with high-intensity graphics needs.
 
 Many large-scale [enterprise](computers-distsys-enterprise.md) endeavors require pre-rendering (e.g., Pixar animations). In this case, the rendering is dropped into a queue that many computers in a [distributed system](computers-distsys.md) pull from, and the computers run nonstop for many, many days.
 
-But, the largest consumer-grade need, by far, is for playing [games](computers-software-gamedev.md), with "computer-aided design (CAD) software lagging behind by a significant margin from not needing a half-second update for absolutely everything. These often need "dedicated graphics cards" that plug into the motherboard, since an integrated graphics controller inside a CPU's chipset won't cut it.
+But, the largest consumer-grade need, by far, is for playing [games](computers-software-gamedev.md), with "computer-aided design" (CAD) software lagging behind by a significant margin from not needing a half-second update for absolutely everything. These often need "dedicated graphics cards" that plug into the motherboard, since an integrated graphics controller inside a CPU's chipset won't cut it.
 
 Thus, there are many tricks to maximize the hardware. Many of them were [hacks](hacking.md) designed with the constraints of the time, and have often become dated as a result.
 
@@ -156,7 +156,7 @@ On older games, the hardware was severely limited, so it wasn't able to update e
 
 Once the technology improved enough, the scrolling effects could be offset on different layers, known as "parallax scrolling". The clouds, mountains, and a nearby-looking background near the ground could all scroll at different intervals, for example. This gives a tremendous illusion of movement.
 
-For a long time, "wireframe" models were the only way to capture a 3-dimensional view, which mostly used the above-mentioned vector graphics technology imposed onto a pixellated screen. Once the technology became advanced enough, the graphical designers were able to fill in the shapes to create polygon-based art. Flight simulators were the first to embrace the idea fully, but many games at first would use polygon-based rendering for the characters with paneled or static backgrounds. Polygons for *everything*, though, became industry standard by the early 2000's, though it has generally not aged well.
+For a long time, "wireframe" models were the only way to capture a 3-dimensional view, which mostly used the above-mentioned vector graphics technology imposed onto a pixellated screen. Once the technology became advanced enough, the graphical designers were able to fill in the shapes to create polygon-based art. Flight simulators were the first to embrace the idea fully, but many games at first would use polygon-based rendering for the characters with paneled or static backgrounds. Polygons for *everything*, though, became industry standard by the early 2000s, though it has generally not aged well.
 
 One of the short-lived divergences from wireframe modeling involved using "voxels" (volumetric pixels) to use a 3-dimensional grid of blocks to capture a game world. It looked awkward, but it was impressive given the constraints of the polygon count. However, increasing polygon counts was less CPU-intensive compared to shrinking voxel size, so the trend died quickly.
 
@@ -176,7 +176,7 @@ Graphics rendering is time-consuming as well as GPU-consuming, and the time requ
 
 To capture real-life motion into older games, one of the most tedious forms of animation required "rotoscoping", which involved graphically reproducing a real-life video, frame-by-frame (e.g., Prince of Persia).
 
-One short-lived technique that embodied the 1990's involved dropping digitized sprites into a game directly. It looked a bit odd because there was no way to reliably capture shadows, so it always felt surreal to look at. Adding real-life video into games started getting particularly dumb once the technology allowed complete videos.
+One short-lived technique that embodied the 1990s involved dropping digitized sprites into a game directly. It looked a bit odd because there was no way to reliably capture shadows, so it always felt surreal to look at. Adding real-life video into games started getting particularly dumb once the technology allowed complete videos.
 
 Later, 3D games have largely replaced rotoscoping with "green screen" technology used in movies to capture motion, where people have brightly colored indicators on a colored background, which makes it easier for computers to note movement between frames.
 

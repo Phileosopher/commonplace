@@ -117,7 +117,7 @@ APPLICATION: Words' [emotions](mind-feelings.md) make us associate them to [acti
 - Discussing [sports](fun-sports.md) makes people dumber.
 Because speaking or writing has an implied [purpose](purpose.md) for its existence, language *always* presumes an audience exists as well.
 
-While modern society connects reading and listening similarly, "sight reading" without speaking out the sounds is a relatively new concept. For most written history, only extremely intelligent people had the skill to sight read.
+While modern society connects reading and listening similarly, "sight-reading" without speaking out the sounds is a relatively new concept. For most written history, only extremely intelligent people had the skill to sight-read.
 
 There is an even cadence to language, whether spoken or written. The farthest end of it becomes "poetry", but it expresses through the rhythm interpreted by the audience. For example, the statement "there are many ways, many things, and many worlds" sounds more pleasant than "There's many ways, things, and worlds".
 
@@ -129,7 +129,7 @@ Underneath the surface, there are *many* aspects professional communicators obse
 - [Timing](standards-datetime.md) and cadence
 - The messenger matching with the message and [branding](marketing.md)
 - [Usefulness](purpose.md) or relevance to the audience
-- The audience's reading or language comprehension level
+- The reading or language comprehension level of the audience
 - Conversational style
 - Flow from one idea to the next
 - [Humor](humor.md)
@@ -274,4 +274,4 @@ When we use our language to make excuses (e.g, "I can't do X because Y", "X caus
 
 Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](understanding.md) in others' [imagination](mind-imagination.md) will *always* be a key component of how we interact.
 
-APPLICATION: We will always have a text-based messaging component built into  all [technology](technology.md) ([Zawinski's Law](lawsaxioms-tech.md)).
+APPLICATION: We will always have a text-based messaging component built into all [technology](technology.md) ([Zawinski's Law](lawsaxioms-tech.md)).

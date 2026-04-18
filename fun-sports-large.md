@@ -228,8 +228,9 @@ The flow of the game transitions through several clearly divided phases:
 
 The rules at bat are more advanced than cricket's:
 
-- The batter receives a "strike" when the ball goes over the plate near the batter's waist (inside the "batter's box") and they don't "swing", swing and miss, or it connects but travels beyond the foul line on either side (a "foul ball").
-- The batter receives a "ball" when the pitcher throws the ball outside the batter's box and they *don't* swing.
+- The batter receives a "strike" when the ball goes over the plate near the batter's waist (inside the "batter's box") and they don't hit it.
+  - Or, it's also a strike if it connects but travels beyond the foul line on either side (a "foul ball").
+- The batter receives a "ball" when they *don't* swing when the pitcher throws the ball outside the batter's box.
 - After 3 strikes, the batter is out, unless it was a foul ball.
 - After 4 balls, the batter "walks" to first base, with the runner on first base going to second, and so on if there aren't any gaps.
 - If the pitcher hits the batter, the batter "walks" to first base.
@@ -283,7 +284,7 @@ A player who goes down must release the ball, and from there anyone can fight to
 - A "maul" is when the ball is *not* on the ground, one or more opposing players is holding the ball carrier, but one or more teammates bind on as well.
 - The tackled player can put the ball down wherever they want, so the team that had the ball first usually controls it.
 
-When a penalty is called, there are several types of restarts, one of them being a scrum", where both teams weave themselves together and connect over the ball. This can create the most significant gain, but is also the most dangerous part of the sport.
+When a penalty is called, there are several types of restarts, one of them being a "scrum", where both teams weave themselves together and connect over the ball. This can create the most significant gain, but is also the most dangerous part of the sport.
 
 If the ball goes out of bounds, there's a "line-out", which is like a throw-in in soccer, but the ball must be thrown *directly* forward and everyone stands between the perpendicular pitch lines. Teams will often use signals and codes to win their own line-outs, often by hoisting a teammate up to catch the ball out of the air.
 
@@ -296,7 +297,7 @@ A 15s match lasts for 2 40-minute halves, while a 7s match is 2 7-minute halves 
 
 There are multiple types of penalty calls:
 
-- The attacking team kicks the ball and it goes over the dead-ball line, so the defending team has a scrum from where the attacking team kicked it.
+- The attacking team kicks the ball to where it goes over the dead-ball line, so the defending team has a scrum from where the attacking team kicked it.
 - The defending team kicks the ball from in-field over the dead-ball line, so the attacking team will have a scrum from the 5-meter line.
 - The defending team kicks the ball from the in-goal area over the dead-ball line, so they will take a 22 meter "drop out". However, the kicker can also choose to take it *behind* that line.
 - Except for a scrum, a player can't interact with play if they're farther down the field than the ball, or they'll receive an "offside" penalty.

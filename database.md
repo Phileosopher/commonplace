@@ -124,13 +124,13 @@ df.sort_values('sometthing', ascending=True)[:30] # ORDER BY and LIMIT
 df[:30]
 ```
 
-In other words, it's interoperable and simple enough to use anywhere. That's not to say there aren't downsides (especially when dealing with tremendously large datasets), but that's why there are other equally viable solutions outside of RDMS.
+In other words, it's interoperable and simple enough to use anywhere. That's not to say there aren't downsides (especially when dealing with tremendously large datasets), but that's why there are other equally viable solutions beyond RDMS.
 
 There are other components to SQL. For example, a function can sit inside another function to make it a "nested function". SQL can also do JOIN to a newly created table with data derived off the source table, which is called a "self join".
 
 ### Redundant
 
-There are several ways to design a database. You can "normalize" it by making it have less redundant data points:
+There are several ways to design a database. You can "normalize" it with less redundant data points:
 
 - ID#
 - Name

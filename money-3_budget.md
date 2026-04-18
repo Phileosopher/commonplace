@@ -330,7 +330,7 @@ Food (~5-15% of income):
 - Groceries
 - Dining out, which should include tips and tax
 
-Transportation (~10-15% of income)"
+Transportation (~10-15% of income):
 
 - Fuel
 - Mass transit fare
@@ -384,7 +384,7 @@ Saving for larger purposes should be ~10% of income at first, but should eventua
 - [Auto repairs](autos.md) or your next car
 - Christmas, birthday, anniversary and special occasion gifts
 - [Vacations](fun-vacations.md)
-- [Parties](people-parties.md)
+- [Parties](fun-parties.md.md)
 - Home repairs and improvements
 - [Weddings](relationships-weddings.md)
 - Retirement
@@ -488,7 +488,7 @@ Don't dwell on it:
 Make an increased commitment to your goals:
 
 - Think about a "spending freeze" where you don't spend any money for a set period and only devote it to your goals.
-- Create a rewards system for yourself if you need motivation, and use the budget to incentivize splurging in its time and place.
+- Create a reward system for yourself if you need motivation, and use the budget to incentivize splurging in its time and place.
 
 Most of the challenges in money management come through adapting day-to-day routines.
 

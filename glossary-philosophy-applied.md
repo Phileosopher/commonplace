@@ -35,6 +35,8 @@ Marxism - Because of dialectical materialism (see above), all [social classes](c
 
 Mohism - People are unevenly [loving](people-love.md) toward others, and should balance it more fairly.
 
+Neo-Luddism - Technology without limits is dangerous to society.
+
 Reconstructivism - Society should continually rebuild and remake itself to become more perfect.
 
 ### Who should have power in society?

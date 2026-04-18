@@ -78,7 +78,7 @@ Only consume at a speed you can comprehend.
 
 - If you listen at 2x speed or more, be careful to not ignore the information.
 - A small bit of [understanding](understanding.md) will go 100x farther than barely comprehending something at 3x speed.
-- If you *only* prefer consuming the content at faster than recording speed, they're a bad communicator and you should find a better one.
+- If you *only* prefer consuming the content at faster than recording speed, you should find a better creator because they're a bad communicator.
 
 Podcasts are generally a waste of time unless your [personality](people-personality.md) prefers a social experience about a typically non-social topic.
 

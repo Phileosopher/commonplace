@@ -14,6 +14,12 @@ While cognitive bias and fallacy crafts a [false image](people-image-why.md) rel
 
 While avoiding all these aren't necessarily important to live a [good](people-goodlife.md) and [meaningful](meaning.md) life, we *must* be aware of them to keep our [imaginations and predictions](mind-imagination.md) tethered closely with [reality](reality.md).
 
+Broadly, all the following fallacies fall into three major categories:
+
+1. Relevance fallacy: information seems to be directly connected, but actually isn't
+2. Evidence fallacy: information seems to prove something, but really doesn't
+3. Assumption fallacy: information implies something that isn't true
+
 It's worth noting that awareness of these biases don't necessarily change anything. We tend to veer into an *opposite* bias while trying to be accurate, and [influencing](power-influence.md) others with incentives to be unbiased doesn't help at all.
 
 This is not a complete list, and probably can never be. Besides including all optical illusions into it, it's based on a "rational actor model", which implies that everyone is [reasonable](understanding.md) until distorted by a bias. The rational actor model is likely wrong.

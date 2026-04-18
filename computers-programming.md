@@ -61,7 +61,7 @@ One neat advantage of this setup is that people can label specific memory locati
 
 This code is almost completely "one-to-one correspondence", which means that one instruction gives one command, which will get tedious very fast. Plus, each computer has unique machine code, coded differently from the original people who made it, so its assembly language differs depending on the computer you're using.
 
-But, assembly code is *also* tiresome. The computer takes 40 steps to do generally simple things. Plus, because each manufacturer has their rules, not every computer does *quite* the same thing with the same instructions.
+But, assembly code is *also* tiresome. Generally simple things will easily take the computer 40 steps. Plus, because each manufacturer has their rules, not every computer does *quite* the same thing with the same instructions.
 
 To combat these shortcomings, most programmers employ a "high-level language".
 
@@ -71,13 +71,13 @@ So, programmers made (and make) high-level languages. These languages let you ty
 
 "High-level languages" come at a cost. Although you're making a "one-size-fits-all" code, it means the program won't always be optimal for specific hardware. As it progresses to being more high-level, it becomes less optimized and more user-friendly.
 
-High-level languages can run on any computer that can compile the code, so you can write it on one computer and it'll work *anywhere*, so it's very convenient. That's worth the tradeoff for a little bit of slowness.
+High-level languages can run on any computer that can compile the code, so you can write it to work on one computer it'll work *anywhere*, so it's very convenient. That's worth the tradeoff for some slowdown.
 
 *Most* of your "programming languages" are high-level, including popular ones like Python or Java. They involve making commands that look like a jumbled mess of pseudo-English.
 
 Frequently, [high-level languages](computers-programming.md) can define all sorts of reusable types, classes, and variables. Plus, high-level languages can include "libraries" and "frameworks" to make them even *more* useful.
 
-*Right* above assembly code, we have C. C is so low-level that it often gets used interchangeably with assembly as "low-level" code. While it doesn't have all the cool features of most other high-level languages, it's technically high-level because it's human-readable. Rust is much newer, but also becoming popular. Even though it's technically high-level, some developers find it so close to assembly language that they think it's *low-level* language!
+*Right* above assembly code, we have C. C is so low-level that it often gets used interchangeably with assembly as "low-level" code. While it doesn't have all the cool features of most other high-level languages, it's technically high-level because it's human-readable. Rust is much newer, but also becoming popular. Even though it's technically high-level, some developers find it so close to assembly language that they treat it like low-level language!
 
 To work with high-level language, programmers usually use an "integrated development environment", or [IDE](computers-software-ide.md).
 
@@ -112,7 +112,7 @@ There are a few tech stacks that most developers tend to build out, and this sta
 - A [database](database.md) language (e.g., MySQL)
 - Front-end language (e.g., JavaScript)
 
-The order of the stack learning doesn't really matter, outside of how challenging the language will be to pick up. Python and Java are easy to learn, but expertly working in Unix requires understanding C, and lots of system administration and "common gateway interface" (CGI) scripts are written in Perl.
+The order of the stack learning doesn't really matter, beyond how challenging the language will be to pick up. Python and Java are easy to learn, but expertly working in Unix requires understanding C, and lots of system administration and "common gateway interface" (CGI) scripts are written in Perl.
 
 Learning a second programming language is a fraction of the difficulty of learning the first, since you've already mastered the rigor of thinking in strictly computer-based reasoning.
 
@@ -147,7 +147,7 @@ There are *many* languages, and they can be broadly classified by how they're us
 
 [Assembly](computers-programming-assembly.md) is a low-level language compiled by an assembler.
 
-They're often the intermediate stage between a higher-level language and machine code, and tend to be proprietary to the [processor](computers-cpu.md) (e.g., AMD assembly code is different than Intel).
+They're often the intermediate stage between a higher-level language and machine code, and tend to be proprietary to the [processor](computers-cpu.md) (e.g., AMD's assembly code is different from Intel's).
 
 ### Scripting languages
 

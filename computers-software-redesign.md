@@ -54,7 +54,7 @@ If there's a logic error, one way to find it is to modify the code to PRINT at v
 
 In a sophisticated program, you'll want to pause it at a certain point to see what it's doing. By setting a "breakpoint", you can pause the program until you press a key to continue. At that point, you can easily see what PRINT gave you before it overwrites it with something later on.
 
-Fixing bugs can be complicated, depending on what you're doing. If there's a block of code you still want, for whatever reason, you can clarify all the code syntax as a "comment". That way, the computer won't care about it but the programmer can still refer to it.
+Fixing bugs can be complicated, depending on what you're doing. If there's a block of code you still want, for whatever reason, you can clarify all the code syntax as a "comment". That way, the computer will ignore it, but the programmer can still refer to it.
 
 The secret to an easy time debugging is to run your program frequently as you work on it. This accomplishes several things:
 

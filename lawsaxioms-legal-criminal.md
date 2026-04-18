@@ -56,7 +56,7 @@ Duty to retreat - aka "requirement of safe retreat", a threatened person cannot 
 
 Exclusionary rule - evidence collected or analyzed in violation of a defendant's constitutional rights can't be used in a court of law, validates the 4th Amendment
 
-- Good-faith exception - an exception to exclusionary rule: evidence can be admitted if it's collected in violation of an individual's constitutional rights *but* the police officer believed their actions were legal
+- Good-faith exception - an exception to exclusionary rule: evidence can be admitted if it's collected in violation of an individual's constitutional rights, *but* the police officer believed their actions were legal
 - Independent source doctrine - an exception to exclusionary rule: evidence initially discovered during or in the course of an unlawful search can still be lawful if it was later obtained independently by lawful activities later
 - Mosaic theory - for assessing 4th Amendment violations (i.e., [privacy violations](faang.md)), a government bureau's information collection is treated as an aggregate "mosaic" rather than on an individual per-agency or per-investigator basis
 - Open-fields doctrine - a search without a warrant of the area outside a property owner's dwelling and immediate area doesn't constitute a violation of the 4th Amendment
@@ -71,7 +71,7 @@ Moment of threat rule - police are free to fire when they are in a moment where 
 
 Physical proximity doctrine - preparing and attempting a crime don't form a clear standard, so preparatory acts are considered stronger evidence of action if the preparatory act is physically closer to the completed crime, mixes with dangerous proximity doctrine
 
-Stand-your-ground law - aka "line in the sand" or "no duty to retreat" law, people may use deadly force when they reasonably believe it necessary to defend against certain violent crimes, in contrast with duty to retreat
+Stand-your-ground law - aka "line in the sand" or "no duty to retreat" law, people may use deadly force when they reasonably believe it is necessary to defend against certain violent crimes, in contrast with duty to retreat
 
 Totality of the circumstances rule - police are only permitted to fire when the circumstances dictate in all surrounding contexts that they are under threat of being harmed, contrast to "moment of threat"
 

@@ -8,9 +8,9 @@ Specifically with computers, the word "hack" has a few specific meanings:
 
 Hacking has gotten a bad name, partly due to the cultural implications of the first definition. Both [malware](computers-cysec-malware.md) and [social engineering](social-engineering.md) can serve to completely destroy society by some of the most intelligent and immoral individuals, and the large-scale [fear](mind-feelings-fear.md) (often advanced *by* the hackers themselves) means most people are typically uneducated about the positive side of that brilliance.
 
-Historically, modern hacker culture was inspired by a child playing with a toy whistle from a Cap'n Crunch cereal box that produced a 2600-hertz tone. He figured out that it was the same tone that accessed AT&T's phone network, and was able to get free long distance calls with it. It developed a culture of "phone phreaks", who developed a cottage industry of "blue boxes" that reproduced the whistle's tone for a short time.
+Historically, modern hacker culture was inspired by a child playing with a toy whistle from a Cap'n Crunch cereal box that produced a 2600-Hz tone. He figured out that it was the same tone that accessed AT&T's phone network, and was able to get free long distance calls with it. It developed a culture of "phone phreaks", who developed a cottage industry of "blue boxes" that reproduced the whistle's tone for a short time.
 
-More broadly, hacking simply means using something outside of its creator's intended purpose (e.g., using an oven as a space heater). As a term, hacking usually implies computer crimes, but has positive associations within modern vernacular beyond computers (e.g., "life hacks").
+More broadly, hacking simply means using something outside its creator's intended purpose (e.g., using an oven as a space heater). As a term, hacking usually implies computer crimes, but has positive associations within modern vernacular beyond computers (e.g., "life hacks").
 
 ## Deviant
 
@@ -67,7 +67,7 @@ Exploiting financial rewards:
 
 Exploiting reputation:
 
-- [Github profile cheat: faking out the GitHub profile page chart](https://github.com/will/githubprofilecheat)
+- [GitHub profile cheat: faking out the GitHub profile page chart](https://github.com/will/githubprofilecheat)
 
 Exploiting trust:
 
@@ -132,13 +132,13 @@ Breaking perceptual expectations:
 
 Breaking perceptual expectations in a social setting:
 
-- [Secret service interrogation](https://web.archive.org/web/20111122202554/http://archive.woz.org/letters/general/78.html) - the story of Steve Wozniak (who helped create Apple) having trouble with the Secret Service over legitimately printed $2 bills
+- [Secret Service interrogation](https://web.archive.org/web/20111122202554/http://archive.woz.org/letters/general/78.html) - the story of Steve Wozniak (who helped create Apple) having trouble with the Secret Service over legitimately printed $2 bills
 - [Bullet time photo booth](https://there.oughta.be/a/bullet-time-video-booth) - creating a photo booth that creates a panoramic bullet-time video
 
 Re-using old things for new purposes:
 
 - [David Irvine's Re-Directed Art](http://www.gnarledbranch.com/) - thrift store art made awesome, [also here](https://www.redbubble.com/people/gnarledbranch/) and [here as well](https://society6.com/thegnarledbranch)
-- [Turning an old Amazon Kindle into a eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/) - liberating the Kindle
+- [Turning an old Amazon Kindle into an eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/) - liberating the Kindle
 - [Receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/) - making [software debugging](computers-software-redesign.md) more physically interactive
 
 Adding purposes to existing things:
@@ -186,7 +186,7 @@ Using new technology for old tasks:
 
 Using old technology for new tasks:
 
-- [There oughta be a WiFi Game Boy cartridge](https://there.oughta.be/a/wifi-game-boy-cartridge) - because the Game Boy didn't have internet access at the time
+- [There oughta be a Wi-Fi Game Boy cartridge](https://there.oughta.be/a/wifi-game-boy-cartridge) - because the Game Boy didn't have internet access at the time
 - [Rotary Keyboard](https://squidgeefish.com/projects/rotary-keyboard/) - replacing 10-key with a rotary dial
 
 Using technology for new tasks *way* beyond what anyone expects of it:

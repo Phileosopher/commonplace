@@ -222,4 +222,4 @@ The Bible is vague on *many* things, and that was God's intent.
 God's primary [purpose](purpose.md) for the Bible is to reprogram our [personalities](theology-godandman.md) to something better.
 
 - In a sense, the Bible is more a mold than a how-to guide, since it directs attention to the broader reasons *behind* our [problems](https://adequate.life/fix/).
-- Many new Christians tend to treat the Bible as having [inherent value](values-quality.md) on its own, but its value only comes from what it does to our [hearts](people-spiritual.md).
+- Many new Christians tend to treat the Bible as having [inherent value](values-quality.md) on its own, but its value only comes from what it does to our [hearts](theology-godandman-humanity.md).

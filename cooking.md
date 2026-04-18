@@ -363,7 +363,7 @@ Cooking is an artistic science:
 Find new ways to improve your cooking experience:
 
 - Reach out to [friends and family](people-friends.md) for ideas.
-- Read recipe books for new cooking challenges and explore .
+- Read recipe books to explore new cooking challenges.
 - Try to limit yourself to specific ingredients for an added challenge.
 
 ## More information

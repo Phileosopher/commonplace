@@ -1,7 +1,7 @@
 
 # How to teach and publicly speak
 
-The act of teaching is the art of conveying information to others so they [understand](understanding.md).
+The act of teaching is the art of conveying information to others in a way they [understand](understanding.md).
 
 While the one-on-one experience of teaching is an intimate experience of guiding someone through trial-and error, [large-scale teachers](education.md) are effectively public speakers with some dialogue interspersed to clarify points to the audience.
 
@@ -147,8 +147,8 @@ B. Next, navigate the body of the speech:
     - Action - state what the audience can do
   - Problem-solution - first explain the problem, then state the solution
   - Theory-practice - first tell the theory, then describe the practice
-  - Ascending-descending - most important first, then down to the least important
-  - Descending-ascending - least significant first, then up to most important
+  - Ascending-descending - the most important first, then down to the least important
+  - Descending-ascending - the least significant first, then up to most important
   - Who? What? When? Where? How? Why? - answer all or most of the questions
   - Extended analogy - entire speech is an extended analogy
   - Stop, look, listen - give specific instructions

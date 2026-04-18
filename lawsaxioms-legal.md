@@ -69,7 +69,7 @@ Nemo Potest esse tenens et dominus - No person of a property can be both tenant 
 
 Nemo plus luris ad allum transferre potest quam ipse habet - One cannot transfer to another more rights than they have
 
-Qui facit per alium facit per se - One who acts through another does the action themself
+Qui facit per alium facit per se - One who acts through another does the action themselves
 
 Qui peccat ebrius luat sobrius - One who does wrong while drunk must be punished while sober
 
@@ -234,7 +234,7 @@ Rule according to higher law - a government can only enforce a law if it conform
 
 Rule against perpetuities - people who own legal instruments (e.g., trust, will) cannot exert control over private property for a long time beyond the lives of people living when the instrument was created
 
-Slippery slope - making a ruling in a small matter can profoundly affect a larger one later
+Slippery slope - making a ruling in a small issue can profoundly affect a larger one later
 
 Statute of limitations - there is a set amount of time after an event happens where a case can be filed
 

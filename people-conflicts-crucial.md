@@ -29,7 +29,7 @@ Learn to detect when conflicts need a negotiation:
 
 Don't treat a non-crucial conflict like it's crucial:
 
-- Even if something isn't that severe, your feeling that it may be severe could provoke the other person into thinking something is worse than it really is.
+- Even if something isn't that severe, feeling that it may be severe could provoke the other person into thinking something is worse than it really is.
 
 ## Observe power dynamics
 

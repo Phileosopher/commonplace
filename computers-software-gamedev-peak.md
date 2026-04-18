@@ -39,7 +39,7 @@ This means you need *lots* of processing power to make sure it stays above 30-60
 At one time, producing games became absurdly complicated because of the limits in graphics processors.
 
 - e.g., it's relatively easy to set up a static display (e.g., player score and health) overlaid over a scrolling portion (where the game was happening) frame-by-frame by rendering the scrolling part and then rendering the static part on top of it.
-- However, in the 1990's Nintendo Entertainment System, the developers had to [hack](hacking.md) the CPU to halt drawing one portion with a predetermined sound that forced the hardware to stop, then used the hardware's "collision detection" bit to draw the other part.
+- However, in the 1990s Nintendo Entertainment System, the developers had to [hack](hacking.md) the CPU to halt drawing one portion with a predetermined sound that forced the hardware to stop, then used the hardware's "collision detection" bit to draw the other part.
 - Even through to today, vintage [game emulators](computers-distsys-vm.md) are notoriously difficult to build because the software must reproduce the individual clock cycles and constraints of the original hardware.
 
 ### Netcode
@@ -122,7 +122,7 @@ Skilled/smart players want a difficult and unforgiving experience, but newer/uns
 
 - The easy way involves merely getting through the level and rewards more levels, all the way to the final level.
 - The hard way requires tons of dedication and skill.
-- The extra challenge should *never* follow the "critical path", and the player should receive silly things like hats or "easter eggs" that don't make future challenges easier.
+- The extra challenge should *never* follow the "critical path", and the player should receive silly things like hats or "Easter eggs" that don't make future challenges easier.
   - The easiest implementation of this is a star or rating system.
 - However, no game can please everyone. It'll be too hard for some people, or too easy for others.
 

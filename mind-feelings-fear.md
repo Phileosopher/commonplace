@@ -15,6 +15,8 @@ Our fears always start [rationally](logic.md) when something we [trusted](mind-t
 
 While most fears have a valid basis, we create fantastically ridiculous [expectations](mind-imagination.md) when we haven't released [past trauma](hardship-ptsd.md), and fears attached to them tend to be *way* overplayed from [reality](reality.md).
 
+APPLICATION: Living [a healthy life](people-goodlife.md) requires finding genuine comfort with the natural discomfort inherent to life.
+
 When we have a fear-based reaction, our [purposes](purpose.md) will clearly address a problem we observe. If we're still anxious after exhausting everything we could have done, we will quickly explore impossible solutions through [trust](mind-trust.md) in ourselves that we can still control the situation (also known as "panic").
 
 We have many things to fear, and we tend to reposition it behind other [language](language.md) like "anxiety", "resistance", "nerves", "sensibility" or "walls". We often only stop reacting in fear because of a *greater* fear we're [fighting](people-conflicts-inner.md). In fact, almost anything associated with discomfort is at least somewhat linked to fear.
@@ -87,7 +89,7 @@ The fear of death contributes to far more [illogical](logic.md) behavior than we
 - As we [get older](maturity.md) and time becomes more [scarce](values.md), we think about death more frequently, which contributes heavily to the [purposes](purpose.md) we pursue.
 - Even [wars](people-conflicts-war-why.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](people-image-why.md) of fighting for scarce resources that would lead to death if depleted.
 
-APPLICATION: If death had no consequences, nothing would be serious, which is why most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories-why.md) have a great [sense of humor](humor.md).
+APPLICATION: If death had no consequences, nothing would be serious, which is why the most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories-why.md) have a great [sense of humor](humor.md).
 
 Since diseases reproduce some experiences of dying, we become insanely irrational when we encounter them, frequently with [obsessive](addiction.md) or excessive [hygiene](people-image.md). Ironically, our bodies successfully fight 99.99% of them off without help, become [stronger for it](hardship.md), and the thing that often kills us is the body's *response* to the disease (e.g., inflammation, fever) or the [political control](power-types.md) around that response.
 

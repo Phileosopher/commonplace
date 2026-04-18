@@ -5,7 +5,7 @@
 
 It's entirely possible to have a meaningless form of Christianity, though it's not recommended:
 
-- **Absurdism** is difficult to justify, since God designed the universe for us and it is literally *designed* to give us purposes.
+- **Absurdism** is difficult to justify, since God designed the universe for us and literally *designed* it to give us purposes.
 - **Nihilism** is also possible, but sabotages the implicit meaning of God's design.
   - **Fatalism**, in particular, is only possible with Christian doctrine if we see God's omniscience as taking away the value of our [agency](mind-decisions.md).
 
@@ -30,7 +30,7 @@ Possible (or partial)
 Possible (but difficult)
 
 - Absurdism
-- Egoism (outside of what God does)
+- Egoism (beyond what God does)
   - Cynicism
   - Psychological egoism
 - Freudianism
@@ -46,7 +46,7 @@ In Christianity, **amor fati** is all depending on perspective:
 
 **Anthropocentrism** is a fundamental belief of Christianity, with the idea that the universe is all designed for man's relationship with God.
 
-Christianity conforms to **immortalism**, even including nearly every doctrine of hell (since eternal destruction would mean never actually being destroyed).
+Christianity conforms to **immortalism**, even including nearly every doctrine of hell (since eternal destruction mean never being fully destroyed).
 
 While **pragmatism** can exist, it doesn't serve as a greater place than what God wants.
 
@@ -71,7 +71,7 @@ Since our [certainty](understanding-certainty.md) can never be complete (given o
 
 - **Coherentism** and **foundationalism** are both fine, though good theology leans toward foundationalism.
   - However, in some ways, **functionalism** may have more merit, simply because it leans against reductive materialism and logical behaviorism.
-- **Critical rationalism** (along with **falsificationism**) has merit, since even science [science](science.md) can't fully validate our understanding.
+- **Critical rationalism** (along with **falsificationism**) has merit, since even [science](science.md) can't fully validate our understanding.
   - However, **pancritical rationalism** goes too far, since it interferes with God's direct authority.
 - **Logical positivism** has some use, but could be regarded as a waste of time, and makes **comtism** is a *complete* waste of time.
 
@@ -151,7 +151,7 @@ False
 - Subjectivism
 - Post-structuralism
 
-## What is the most moral thing to do (greatest good)?
+## What is the most moral thing to do (the greatest good)?
 
 A relationship with Jesus is portrayed directly as a form of *very* personal **mysticism**.
 

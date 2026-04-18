@@ -76,7 +76,7 @@ Fallibilism - Absolute certainty about anything we know is impossible except log
 
 Infinitism - Knowledge can be confirmed by an infinite chain of reasons behind it.
 
-Intuitionism/Neointuitionism - Math is a merely a mental construct of the mind that allows people to make more elaborate calculations than anything in nature. Opposite of preintuitionism.
+Intuitionism/Neointuitionism - Math is merely a mental construct of the mind that allows people to make more elaborate calculations than anything in nature. Opposite of preintuitionism.
 
 - Logicism - [Math](math.md) is merely an extension of [logic](logic.md), so all math can distill to logical statements ([has theoretically been proven by computers](logic.md)).
 

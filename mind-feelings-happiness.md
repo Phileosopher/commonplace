@@ -12,8 +12,8 @@ Since the absence of desire is easy to detect, we can most easily identify when 
 
 To [live well](people-goodlife.md), someone should find some form of happiness approximately 30-70% of the time during any given day.
 
-- Any more, and that person is going to take unnecessary [risks](safety.md).
-- Any less, and they run the chance of being generally miserable.
+- With more, that person is going to take unnecessary [risks](safety.md).
+- With less, they run the chance of being generally miserable.
 
 We often attribute good things to joy, but [mentally well people](mind-feelings-happiness.md) find joy in [habitual](habits.md) things without provocation.
 

@@ -103,7 +103,7 @@ Maritime vessels typically use an engine to convey across a body of water.
 - Their largest risk of capsizing and submerging if they take on too much water due to weather, which is magnified by the open surface of the water, and there's a *tremendous* risk of losing all the cargo in the process.
 - They have geographical constraints tied to bodies of water (including terrain risks), but *also* large-scale water currents that make the vessel easier to flow towards one direction.
 - Generally, smaller craft are quicker and more cost-effective to navigate.
-  - The gargantuan barges across the ocean is a product of US government regulation regarding ports of entry.
+  - The gargantuan barges across the ocean are a product of US government regulation restricting ports of entry (specifically, the Merchant Marine Act of 1920, or the "Jones Act").
 
 Land vessels travel along terrain surfaces.
 
@@ -245,7 +245,7 @@ For whatever reason, the product may not safely make its way to its intended des
 
 The entire process of getting and keeping something must be considered in phases:
 
-1. Materiel Solutions Analysis (MSA)
+1. "Materiel Solutions Analysis" (MSA)
    - aka brainstorming, pre-planning, scouting, imagining
    - Begins with getting your mind around the problem you need and the required resources for it.
    - Completed when you know *exactly* what you need.
@@ -294,7 +294,7 @@ When ports grow larger, many large ports have developed "freight villages" nearb
 
 In fact, logistics systems have become *so* effective that most products shipped are intermediate products (e.g., wastepaper, bolts, synthetic resin) than finished goods (e.g., dresses, lawn chairs).
 
-- This has created dominance throughout the Pacific Rim (where ship-based transport is easy) and made it difficult for Africa to keep up (which has very few viable sea ports).
+- This has created dominance throughout the Pacific Rim (where ship-based transport is easy) and made it difficult for Africa to keep up (which has very few viable seaports).
 
 Due to customer service or business-to-business [communication needs](people-conversation.md), most logistics systems tend to separate out the "last mile logistics" as a separate domain for management.
 

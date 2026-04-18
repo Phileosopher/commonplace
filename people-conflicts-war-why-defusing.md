@@ -19,7 +19,7 @@ APPLICATION: When making concessions, closely observe the [attitude](purpose.md)
 
 ## Converging
 
-Creating an alliance, merger, union, or truce can prevent conflicts by making multiple smaller groups under threat into a *larger* group. However, because of the [inner conflicts](people-conflicts-inner.md) present in all of humanity, people need a shared opposition or they start fighting amongst themselves.
+Creating an alliance, merger, union, or truce can prevent conflicts by making multiple smaller groups under threat into a *larger* group. However, because of the [inner conflicts](people-conflicts-inner.md) present in all of humanity, people need a shared opposition to prevent fighting amongst themselves.
 
 ### Subversion
 
@@ -41,7 +41,7 @@ This bluff only works if the other group doesn't want to risk the resources to t
 - The other group has a scarcity of resources.
 - The bluffing group is relatively unimportant to the other group.
 
-Often, these demonstrations of power can involving partnering with other groups to give a shared [image](people-image-why.md) that implies the separate groups are one group more than [reality](reality.md).
+Often, these demonstrations of power can involve partnering with other groups to give a shared [image](people-image-why.md) that implies the separate groups are one group more than [reality](reality.md).
 
 If multiple groups demonstrate at the same time to outperform each other, they're engaged in a cold war. A cold war can persist as long as both sides have enough [ego](humanity.md) to persist demonstrating, but they're both [afraid](mind-feelings-fear.md) to start an engagement.
 

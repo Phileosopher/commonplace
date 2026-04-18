@@ -3,7 +3,7 @@
 
 You're typically not obligated to establish the contract (e.g., the right to refuse service) but *are* typically required to perform an existing contract.
 
-- Be *very* mindful of specific [discrimination-based](people-discrimination.md) matters (e.g., racial, [sexual orientation](people-gender.md), [religion](religion.md)) that create grounds for litigation.
+- Be *very* mindful of specific [discrimination-based](hardship-discrimination.md) matters (e.g., racial, [sexual orientation](people-gender.md), [religion](religion.md)) that create grounds for litigation.
 - If you intend to discriminate with those domains, *always* have an ["actual" condition](people-lying.md) that you're discriminating against.
 - If you're an agent on behalf of another organization, you're only allowed to amend, cancel or interpret the contract, but cannot be a party stated in that contract.
 

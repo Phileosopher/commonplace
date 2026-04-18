@@ -17,7 +17,7 @@ While using the same operator on the opposite side of the formula creates an equ
 Adding and subtracting positive versus negative numbers gets complicated:
 
 - -5 - 3 (you have to think weird to find an answer)
-- -5 + -3 (swap the sign before it and it's more obvious what to do)
+- -5 + -3 (swap the sign before it to clearly understand what to do)
 
 Anything multiplied or divided by a multiple of 10 simply requires moving a decimal point or adding a zero:
 
@@ -53,7 +53,7 @@ Fractions can be easily divided if you flip the numerator and denominator and mu
 
 - (4/5) / (8/3) = 4/5 * 3/8 = 12/40 = 3/10
 
-Percentages can be converted to to fractions by making it the percentage, divided by 100:
+Percentages can be converted to fractions by making it the percentage, divided by 100:
 
 - 59% = 59/100
 - 63.8% = 63.8/100 = 638/1000

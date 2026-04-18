@@ -1,7 +1,7 @@
 
 # The PERMA model of happiness
 
-We need a little bit of all five components to produce satisfaction in our lives.
+We need at least some of all five components to produce satisfaction in our lives.
 
 ## Positive Emotion - any small pleasure
 
@@ -54,7 +54,7 @@ Use stress relievers that release endorphins:
 - Laugh, even if it starts out sounding fake.
 - Forgive a lingering grudge.
 
-## Engagement  - focus on the present
+## Engagement - focus on the present
 
 Do something physical:
 
@@ -89,7 +89,7 @@ Live in the present moment:
 - Meditate and learn about the world around you.
 - [Analyze something](logic.md) you've accepted as commonplace.
 
-## Relationships  - meaningful time with others
+## Relationships - meaningful time with others
 
 Greet up to 6 people every day
 
@@ -113,7 +113,7 @@ If you're [married](relationships-marriage.md), have sex
 
 Share with others who won't judge or condemn you
 
-## Meaning  - feeling responsible for something beyond yourself
+## Meaning - feeling responsible for something beyond yourself
 
 What you do isn't nearly as important as finding a clear [meaning](meaning.md) *through* what you do.
 
@@ -125,7 +125,7 @@ Help someone who needs help or volunteer somewhere
 
 Openly [love](people-love.md) someone around you, or say hello to a stranger
 
-## Accomplishment/Achievement  - belief in improvement
+## Accomplishment/Achievement - belief in improvement
 
 Become more productive:
 

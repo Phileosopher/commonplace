@@ -15,6 +15,33 @@ With respect to these beliefs, feelings are the product of a [perceived](people-
 
 APPLICATION: Below everything else that we perceive, we feel. Those feelings define the components we can [logically](logic.md) assemble into our [perceptions](people-image-why.md). They're the raw information we must synthesize, but also must never forget where we got them.
 
+All feelings can be categorized by their pleasurability and energy.
+
+- They sit along 2 spectra:
+  1. Pleasantness, or how much we [enjoy](fun.md) experiencing that sensation.
+  2. Energy or intensity, which correlates closely to how much [certainty](understanding-certainty.md) someone possesses.
+- The results create 4 quadrants of presence:
+  - Pleasant and high-energy ("yellow"-colored)
+    - The domains of joy, excitement, and enthusiasm.
+    - The best domain for [creativity](mind-creativity-how.md) and new ideas.
+    - Gives more inclination toward [group activities](groups-small.md).
+  - Pleasant and low-energy ("green"-colored)
+    - The domains of peace, calm, and relaxation.
+    - The best domain for [self-reflection](mind-awareness-meditation.md) and [creating consensus](people-conflicts.md).
+    - The best time for working on a team.
+  - Unpleasant and high-energy ("red"-colored)
+    - The domain of anger, disgust, and apprehension.
+    - Heightened environmental [awareness](mind-awareness.md) and alertness.
+    - Good for competitive activities or passionate [expression](mind-creativity.md).
+  - Unpleasant and low-energy ("blue"-colored)
+    - The domain of sadness, fear, and depression.
+    - Assists with [deductive reasoning](logic.md) and [critical thinking](understanding.md).
+    - This mode helps us identify others' [hardship](hardship.md), which builds a capacity for empathy.
+- These domains wobble around proportionally to how fast we experience our feelings.
+  - When our personality is [high-neuroticism](people-personality-ocean.md), these will move *very* fast.
+
+## Feelings from thoughts
+
 Our impulses also form into thoughts of their own, which can also trigger our beliefs as we think them, meaning we can feel things as we notice our feelings. All of it becomes even messier because our [beliefs](understanding-certainty.md) only have a loose relationship to [reasoning](logic.md) or [reality](reality.md).
 
 Over time, feelings develop into moods, which are generalized attitudes about how we approach life:

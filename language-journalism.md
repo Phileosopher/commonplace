@@ -43,7 +43,7 @@ The actual work for good journalism is difficult, and requires many elements:
 - Researching cited sources, including [scientific papers](science.md) and past interviews
 - Contacting people, conducting interviews, and asking questions people would want to know
 
-With the exception of contacting people, the internet now empowers *anyone* to be a journalist.
+Except for contacting people in your direct network, the internet now empowers *anyone* to be a journalist.
 
 - However, the purpose of the work is to do what other people either don't want or care to do.
 - In light of this, stay humble enough to realize that *you* as a journalist are never as special as the information you dig out.

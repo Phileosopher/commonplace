@@ -1,7 +1,7 @@
 
 # How to be ethically influential
 
-Influence is the general art of manipulation, and iis easy enough if you know what to do:
+Influence is the general art of manipulation, and is easy enough if you know what to do:
 
 - Assert control over others' thoughts.
 - Dominate others while making them think they're thinking the thoughts you're feeding them.
@@ -13,10 +13,10 @@ Therefore, the following is how to behave in a way that still respects their [bo
 
 ## Strive for high emotional intelligence
 
-The 3 types of intelligence are IQ, RQ, and EQ:
+There are many types types of intelligence, but 3 of them are IQ, RQ, and EQ:
 
 - IQ is the Intelligence Quotient, which is raw thinking speed.
-- RQ is Reality Quotient, which is the ability to link what we [understand](understanding.md) to [reality](reality.md).
+- RQ is Reality Quotient, which is the ability to [understand](understanding.md) and work with [reality](reality.md).
 - EQ is Emotional Quotient, which balances the rational and emotional sides of the mind.
 
 EQ is, by far, the strongest determination of [success](success-1_why.md):
@@ -125,3 +125,10 @@ Charming people are often more trusting than most:
 - Give to others, but don't track what you've given.
 - When you receive gifts, don't criticize or expect ulterior motives.
 - Greet the "unimportant" people who society generally seems to ignore.
+
+However, charming people must be [ethical](morality.md).
+
+- Only steer people toward good things.
+  - If it serves only your self-interest, your charm may become [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md) over time.
+- The other side of charm is to hold yourself accountable.
+  - When you fail or have limits, radically and openly own them.

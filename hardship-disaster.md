@@ -97,7 +97,7 @@ More than anything, once supplies run out, your ability to forage will become th
 
 - A horde of unskilled people will absolutely ravage the local resources, including yours.
 - Hunting will not be possible with everyone else doing it.
-- All you can do is be prepared, then [release the rest to God](spiritual-exercises-prayer.md).
+- All you can do is prepare, then [release the rest to God](spiritual-exercises-prayer.md).
 
 ## Cover every likely event
 

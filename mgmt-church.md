@@ -55,7 +55,7 @@ Carefully evaluate why you want to engage in public ministry.
 
 There are some reasons you should *never* consider public ministry:
 
-- Your [career](jobs-1_why.md) has taken a downward turn and you see an opportunity to transfer your secular skills in [management](mgmt-1_why.md) or [communication](language-speaking.md).
+- Your [career](jobs-1_why.md) has taken a downward turn, and you see an opportunity to transfer your secular skills in [management](mgmt-1_why.md) or [communication](language-speaking.md).
 - You witness a [narcissist](mind-neurodivergence-clusterb-narcissist.md) of some form in a leadership role and want to make a change.
 - A power vacuum has emerged, adn other people are elevating you to that position of power without consulting God first.
 

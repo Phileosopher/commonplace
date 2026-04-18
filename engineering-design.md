@@ -14,7 +14,7 @@ Throughout all good design, a few traits perpetually resonate:
 5. Both natural and artificial constraints are intentionally exploited as a [type of power](power-types.md) (rather than as a hindrance or challenge).
 6. When all else fails, creates [standards](standards-computers.md) to nail things down.
 
-We tend to need both order and variety. Too much [order](understanding-certainty.md) feels boring and oppressive, while too much [variety](people-changes.md) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all of design.
+We tend to need both order and variety. Too much [order](understanding-certainty.md) feels boring and oppressive, while too much [variety](people-changes.md) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all design.
 
 ## User-based
 
@@ -29,7 +29,7 @@ Users travel through a predictable flow of thought as they use something (known 
 
 As they attempt to perform an action, they perform a complex [decisions-based calculus](mind-decisions.md) to determine whether they still want to keep doing it.
 
-- In general, people choose the path of least resistance in their decision-making calculus, and good design fosters the decisions they would naturally *want* to make.
+- In general, people choose the path that gives the least resistance to their decision-making calculus, and good design fosters the decisions they would naturally *want* to make.
 - If the object isn't designed well enough, they'll stop using it.
 - When that object has alternative objects for accomplishing the same task, they may use another object.
 - If that object is absolutely necessary to perform the task, they'll either have to exercise willpower to complete it or will find [a creative way](mind-creativity.md) to *not* perform that task at all.

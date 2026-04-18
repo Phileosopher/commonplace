@@ -52,7 +52,7 @@ If you can't jump out of the way of a car about to hit you, jump upwards.
    - Make sure you have a blunt object to break the window, in case the circuitry fails.
    - You might be able to use your car seat's headrest, but time will be critical.
 2. *Immediately* unbuckle, open the car window, and get out before it goes underwater.
-   - You have 30--60 seconds before it reaches the window.
+   - You have 30-60 seconds before it reaches the window.
    - The pressure against the car gets exponentially stronger as it goes deeper, so you will probably die if you reach for your cell phone.
    - If you have children, get the oldest children out and carry the smallest one.
 3. Once it's underwater, you should be able to open the door, but will need to hold your breath under extreme stress.

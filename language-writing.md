@@ -40,7 +40,7 @@ Writing captures feelings simply, so your word choice shows your passion for the
 - If you feel strongly about something, you'll have a *lot* to say.
   - When motivated, we focus on getting the words out instead of analyzing our intentions.
   - If you're out of ideas, find a topic that makes you furious.
-- Once you've learned to write clearly, your speaking and writing style will harmonize, which will make your thoughts come more clearly as well.
+- Once you've learned to write clearly, you will harmonize your speaking and writing style, which will make your thoughts come more clearly as well.
 
 Writing is communicating information to someone where they forget they're [imagining](mind-imagination.md) something simply from a collection of words.
 
@@ -123,7 +123,7 @@ The entire work paints a portrait of ideas:
 - Each sentence is adding information to the message, and the end will leave the reader with a lingering concept.
 - Without a message, a writer is just trying to draw attention to themselves.
 - One misplaced word can ruin the entire flow of the story, so build a story from back to front to maintain consistency.
-- In effect, aim to [write a story](stories-how.md) with every body of text you write.
+- In effect, aim to [write a story](stories-how.md) with each body of text you write.
 
 All great messages contain a WHAT and a WHY:
 

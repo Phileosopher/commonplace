@@ -191,7 +191,7 @@ If a [training model](ai-ml.md) has been poisoned, you have several options:
 
 After [fixing anything](https://trendless.tech/fix/), *always* [document](language-writing-documentation.md) the new rules and what happened. Otherwise, you've made life worse for someone else (including Future You).
 
-The industry tends to not respect the people who repair the computers, so keep an eye on who you help, how much, and how much they pay you for the service relative to your investment.
+The industry tends to not respect the people who repair the computers, so keep an eye on the people you help, how much, and how much they pay you for the service relative to your investment.
 
 ## Case Studies
 

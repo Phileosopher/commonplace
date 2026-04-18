@@ -7,10 +7,10 @@ Thus, a computer should be ready to handle *anything* that the person wants to d
 
 Because of their ubiquity, the most popular operating systems more-or-less set the [standards](standards-computers.md) for how *all* operating systems run:
 
-- An Apple-proprietary OS called MacOS. It had many great ideas (and has some of the best [UX](engineering-design.md) around), but has fallen in quality as of the early 2020's. It still comes on Apple desktops/laptops. It's based on Unix. Apple also has iOS for their mobile devices that was directly pulled from MacOS.
-- A Microsoft-proprietary OS called [Windows](computers-os-windows.md) that blatantly ripped off MacOS dominated the market in the 1980's because it was affordable and ran on most computers. As of 2022, it still dominates the desktop/laptop PC market.
+- An Apple-proprietary OS called macOS. It had many great ideas (and has some of the best [UX](engineering-design.md) around), but has fallen in quality as of the early 2020s. It still comes on Apple desktops/laptops. It's based on Unix. Apple also has iOS for their mobile devices that was directly pulled from macOS.
+- A Microsoft-proprietary OS called [Windows](computers-os-windows.md) that blatantly ripped off macOS dominated the market in the 1980s because it was affordable and ran on most computers. As of 2022, it still dominates the desktop/laptop PC market.
 - An [open-source](legal-ip-floss.md) kernel of [Unix](computers-os-unix.md) called Linux. It has a vast variety of "distros", so it's a bit more open-ended.
-- A Google-proprietary OS [built on Linux](computers-os-unix.md) called Android. It runs on most mobile devices that don't run iOS, though [lawsuits against Google's user data policies](faang.md) may change that from their hold in the early 2020's.
+- A Google-proprietary OS [built on Linux](computers-os-unix.md) called Android. It runs on most mobile devices that don't run iOS, though [lawsuits against Google's user data policies](faang.md) may change that from their hold in the early 2020s.
 
 ## Kernel design
 

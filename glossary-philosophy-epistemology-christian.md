@@ -7,7 +7,7 @@ Since materialism can't be true, **behaviorism** and its subsets are false (with
 
 - The implication that God can grant divine revelation means **psychological behaviorism** has some grains of truth.
 - **Methodological behaviorism** has truths contained within it, specifically in how we can't [control](power-types.md) what others think and only what they do.
-  - Further, there is a *soft* proven reality about **post-Skinnerism** (e.g., the domains of [economics](money-economics.md) and [political science](politics-systems.md)).
+  - Further, there is a *partially* proven reality about **post-Skinnerism** (e.g., the domains of [economics](money-economics.md) and [political science](politics-systems.md)).
 
 **Rationalism** is a logical consequence of believing a human soul exists, which also means **empiricism** (with **associationism** and **verificationism**) are effectively wrong.
 

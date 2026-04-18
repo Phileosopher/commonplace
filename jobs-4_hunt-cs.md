@@ -12,7 +12,7 @@ In the tech industry, a successful job-search will *also* include building and c
 - Take classes and tutorials to build out measurable accomplishments.
 - Aim less for projects that solve conceptual software engineering problems and more for projects that can solve actual business problems.
 
-Many tech roles require what they call "commercial experience" (i.e., you've been working in a professional capacity in that role). It's not too hard to sidestep it: just do [freelancing](entrepreneur-4_freelancing-cs.md) work related to the role for 4-6 months.
+Many tech roles require what they call "commercial experience" (i.e., you've been working in a professional capacity in that role). It's not too hard to sidestep it: just [freelance](entrepreneur-4_freelancing-cs.md) in domains related to the role for 4-6 months.
 
 ### Courses
 
@@ -77,7 +77,7 @@ Simply asking for the company name, job description, and expected compensation w
 
 Depending on the metropolitan area you're in, there are *tons* of recruitment fairs, conventions, conferences, and meetups. Some of them are public tutorials, while others are simple meet-and-greet events.
 
-They're usually very casual, so all you really need is interest in the subject matter.
+They're usually very casual, so all you really need is an interest in the subject.
 
 It's worth noting each technology has its own [subculture](people-culture.md): some are established and boring, while others are filled with optimistic young people. You'll find out a *ton* on the culture behind the technology by visiting those events in-person.
 

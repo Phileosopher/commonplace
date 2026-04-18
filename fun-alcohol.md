@@ -3,7 +3,7 @@
 
 Alcohol is really fun:
 
-- Alcohol is [fun](fun.md) to drink, especially with drinking games or [at a party](people-parties.md).
+- Alcohol is [fun](fun.md) to drink, especially with drinking games or [at a party](fun-parties.md).
 - Alcohol numbs our senses to the harshness of life.
 - Alcohol removes the social filters we apply to everything.
 

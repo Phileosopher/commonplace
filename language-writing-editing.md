@@ -132,8 +132,7 @@ Don't overuse the same words:
 Avoid "filler" words:
 
 - Examine every word, since many are surprisingly useless:
-  - Many make an appearance with appear with is capable of being can be is dedicated to providing provides in the event that if it is imperative that we we must brought about the organization of organized significantly expedite the process of speed up on a daily basis daily for the purpose of to in the matter of about in view of the fact that since owing to the fact that because relating to the subject of regarding with...
-  - A bit or also a little because it's sort of kind of rather quite pretty much too very...
+  - many, make an appearance with, appear with, is capable of being, can be, is dedicated to, providing, provides, in the event that, if it is imperative that we, we must, brought about, the organization of, organized, significantly expedite the process of, speed up, on a daily basis, daily, for the purpose of, to, in the matter of, about, in view of, the fact that, since, owing to the fact that, because, relating to the subject of, regarding with...
 - Don't use vague language, even if you're afraid of what people may think:
   1. The reader will misunderstand you, and will probably be offended through their misunderstood idea.
   2. The reader will decipher what you're getting at, and then be offended you didn't state it in simpler terms.

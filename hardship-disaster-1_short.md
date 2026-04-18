@@ -59,7 +59,7 @@ Stockpile boric acid:
   1. Tear off and ball up about 20 strips of aluminum foil.
   2. Insert balls into bottle, then pour in up to 5 oz. boric acid.
   3. Cap off the bottle with a firm, airtight cap.
-  4. Throw the bottle and wait 5--10 minutes, DO NOT check on it if it doesn't go off.
+  4. Throw the bottle and wait 5-10 minutes, DO NOT check on it if it doesn't go off.
 
 Keep all your important documents in a waterproof container:
 
@@ -77,9 +77,9 @@ If you're placing it inside a large container (like a barrel or trash can), pack
 
 ## Pay attention to the food supply in a power failure
 
-Keep a coin in a cup to ensure your freezer has kept cold:
+Use a coin to ensure your freezer has kept cold:
 
-1. Place a mug of water in the freezer and wait for it to freeze.
+1. Place a container of water in the freezer and wait for it to freeze.
 2. Place a coin on top of it.
 3. If the coin sinks, the freezer has stopped working.
 
@@ -132,7 +132,7 @@ Keep hygiene and comfort items available:
 Make your own waterproof shoes:
 
 - Smear petroleum jelly into all the seams of the leather, then bake at 300 degrees for an hour.
-- Rub a beeswax lubricating compound over any shoes and blow dry for 5--10 minutes.
+- Rub a beeswax lubricating compound over any shoes and blow dry for 5-10 minutes.
 
 Keep a clean plunger and bucket to use as a washing machine.
 
@@ -144,6 +144,10 @@ Keep a backup generator with extra fuel:
 Invest in solar cells, and keep window cleaner and an ice scraper to clean them off.
 
 Have multiple cooking sources, such as both an electric and gas range.
+
+Even a hiker's solar powerbank is *much* better than nothing.
+
+- Typically, it'll hold about 20K mAh, and will charge at 480 mA/hr.
 
 Consider a satellite internet connection, either with a laptop or as a network router.
 
@@ -171,6 +175,14 @@ Avoid panicking:
 - Only focus on the next immediate action.
 - Stay in Condition Yellow, or "relaxed alert", which is somewhere between peace and full-on panic.
 
+If you keep a refrigerator closed, food can stay cold in it for up to 2-3 days.
+
+Expect short-term communications support in the crisis:
+
+- Cellular towers use batteries for outages that can last up to 5 hours.
+- Most phone companies will hide auto-start diesel generators in office parks to keep landlines and cellular towers online.
+- Hospital cellular towers are often connected to a hospital's generator system, which is often supplied for days or weeks.
+
 Immediately act to prepare further:
 
 - If there are any, put out any fires immediately.
@@ -179,7 +191,7 @@ Immediately act to prepare further:
 - Fill up all bathtubs and sinks with water, which you can safely use for hygiene or purify later.
 - Close all the water valves in your house to store water in them.
 - Turn off your gas, water, and sewage lines.
-- Notify anyone who may need to know about the emergency, then turn off all electronic devices so they're ready when you must use them.
+- Notify anyone who may need to know about the emergency, then turn off all communication devices to be ready for when you need them.
 - Fill the freezer with water-filled containers to keep the fridge cool.
 - If you have any land phone lines, check to see if they're still active.
   - If they are, you can get a *really* slow charge of electricity to run battery-powered computers.
@@ -223,7 +235,7 @@ Eating spoiled food or using spoiled ingredients can sometimes be life-threateni
 
 - Carefully note the [shelf lives of food](cooking-shelflife.md), and fast over getting sick if you're unsure.
 - If you can sterilize it with enough heat, you can still eat it even if it's completely unpalatable.
-- Throw it away if it smells or tastes odd and you can't sterilize it.
+- Throw it away when it smells or tastes odd but can't be sterilized.
 
 ## It may be a longer-term issue
 

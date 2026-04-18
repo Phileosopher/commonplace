@@ -92,7 +92,7 @@ Use the R2/A2 formula to draw personal goals from other people and characters:
 
 When you're done, distill the goals:
 
-- Write a "personal leadership code" of 5--10 principles or purposes you wish to live by.
+- Write a "personal leadership code" of 5-10 principles or purposes you wish to live by.
 - Place those rules somewhere prominently.
 - Every year, review those rules to be sure they still apply.
 
@@ -242,7 +242,7 @@ Only plan tasks you can visualize doing:
 Only plan up to 8 tasks each day:
 
 - To avoid wasting time, prioritize the most important tasks at the top.
-- We can only complete 6--8 tasks on any given day.
+- We can only complete 6-8 tasks on any given day.
 - List fewer tasks you *know* you'll finish instead of many you may not get to.
 - If you're done and have time, you can always do something else as a bonus task.
 
@@ -308,7 +308,7 @@ Say "yes" to what you want by saying "no" more:
 - Move ego-boosting activities that aren't helping you or others:
   - Attending a club that doesn't challenge you
   - Church activities that don't grow or help anyone
-  - Sitting on a volunteer board
+  - Participating on a volunteer board
   - Pontificating about successes with others
   - Unproductive tasks you've mastered
 

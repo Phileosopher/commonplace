@@ -14,6 +14,9 @@ Regular exposure to small amounts of toxins (hormesis) will often make us *stron
 
 Chronic exposure to [some toxins](body-health-toxins-list.md) can be *very* devastating.
 
+- It takes 48 hours for the body to cycle out whatever it ate, and continuing to consume the same toxins during that time can develop a state of autointoxication.
+- Typically, fasting or eating healthy for 48 hours at a time can resolve many issues.
+
 But, other toxins can be unhealthy over long periods.
 
 - Most government exposure tests give a gigantic exposure to animals all at once (e.g., feeding a lab rat the proportional equivalent of 30 years' worth of an artificial sweetener within 3 days), then watching what happens.
@@ -33,9 +36,17 @@ Some carcinogens exist in most food, on surfaces, and even the air, but our live
 
 ## Specific toxins
 
+Plenty of animals send common diseases to us:
+
+- Pigs can give us whooping cough.
+- Both pigs and birds can give us the flu
+- Cows can give us measles, tuberculosis, and smallpox.
+
 Avoid touching powdered plastics directly (e.g., thermal paper for receipts, printer toner), since BPA and BPS disrupt the endocrine system and are absorbed into the body through the skin.
 
 Most pesticides and weed killers can directly damage the nervous system and genes, and can create issues like cancer and Parkinson's disease.
+
+Most deodorant is chemically formulated to inhibit sweating, and can cause side effects with prolonged use.
 
 Chemicals in the lining of tin cans, cosmetics, Teflon pans, and flame retardants in cushions have a combined soft link to reduced sperm count (and therefore lower fertility rates).
 

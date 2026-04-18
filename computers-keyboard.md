@@ -72,7 +72,7 @@ Occasionally, a keyboard may register multiple inputs with one keyboard press, k
 
 ## Coded characters
 
-If we count all the upper and lowercase letters, along with special characters like "," and ?", we can easily fit them all into 128 numbers. Thus, we can use [7 bits](computers-memory.md) to represent all the basic English letters, with each number corresponding to a certain letter. Check [this ASCII "code page"](https://www.asciitable.com/) to see an example.
+If we count all the upper and lowercase letters, along with special characters like "," and "?", we can easily fit them all into 128 numbers. Thus, we can use [7 bits](computers-memory.md) to represent all the basic English letters, with each number corresponding to a certain letter. Check [this ASCII "code page"](https://www.asciitable.com/) to see an example.
 
 In case you're wondering why it wasn't [8 bits](computers-memory.md), teleprinters used to send text well, but the early microprocessors weren't always reliable, so that final bit was typically used for parity. [Memory](computers-memory.md) wasn't as reliable as it is today and a 0 or 1 would sometimes swap, so they created an error-checking system with a bit at the end:
 

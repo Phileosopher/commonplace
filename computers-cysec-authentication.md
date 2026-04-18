@@ -23,6 +23,8 @@ To that end, most authentication starts with knowledge (often through passwords)
 
 For additional security, a system may use more than one authentication factor. It's typically a password and a phone code, but could be security questions and a specific computer, or a fingerprint and password.
 
+The best authentication is through a human being observing something natural (like a person they see), but it's also the slowest method.
+
 ### Knowledge: Passwords
 
 With a computer-enforced "password policy", nobody can enter obvious passwords hackers can guess at.

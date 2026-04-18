@@ -63,15 +63,15 @@ Steel is a specific form of ironwork:
 
 Steel goes through the entire range of color as it heats:
 
-- ~199°C: tan
-- ~241-249°C: brown
-- ~271°C: purple
-- ~302°C: blue
-- ~427°C: dark grey
-- ~593°C: slight red
-- ~815°C: bright red
-- ~927°C: orange
-- ~1093°C: yellow
+- ~199 °C: tan
+- ~241-249 °C: brown
+- ~271 °C: purple
+- ~302 °C: blue
+- ~427 °C: dark grey
+- ~593 °C: slight red
+- ~815 °C: bright red
+- ~927 °C: orange
+- ~1093 °C: yellow
 
 ### Fences
 

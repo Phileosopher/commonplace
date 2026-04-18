@@ -49,7 +49,7 @@ Apple
 - [2021-08 Apple requires their employees to merge their personal and work accounts](https://web.archive.org/web/20210820002742/https://twitter.com/oilyraincloud/status/1428497203253833731).
 - [2021-09 Even when you power it off, Apple devices move into a low-power mode with certain elements of networking enabled](https://web.archive.org/web/20210930210253/https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html).
 - [2021-04 Apple made an exception for their apps in their ecosystem](https://web.archive.org/web/20210408114133/https://twitter.com/patrickwardle/status/1327726496203476992).
-- [2021-03 While Apple collects less data overall, it collects more *types* of data from each individual user](https://web.archive.org/web/20210330173711/https://www.tomsguide.com/news/android-ios-data-collection).
+- [2021-03 While Apple collects less overall data, it collects more *types* of data from each individual user](https://web.archive.org/web/20210330173711/https://www.tomsguide.com/news/android-ios-data-collection).
 - [2020-01 Apple logs every app a user runs over an unencrypted connection](https://web.archive.org/web/20201114203815/https://blog.jacopo.io/en/post/apple-ocsp/).
 
 Google/Alphabet

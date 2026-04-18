@@ -3,7 +3,7 @@
 
 As much as they're a choice, raising children is one of the most significant decisions you can ever make.
 
-However, any healthy marriage will mean it's neither possible to prepare for *or* prevent having children:
+However, any healthy marriage will mean children are both impossible to entirely prepare for or prevent having:
 
 - If you want a baby, there's no guarantee you'll have one.
   - Conception is very much a combination of fertility, [diet](body-diet.md), [exercise](body-exercise.md), [age](maturity.md), and [genetics](science-life-biochem.md).
@@ -378,7 +378,7 @@ Before reaching 6 months, they can count things and understand what is and isn't
 - Make a game by putting pennies in a pile of sand for them to drop into a piggy bank.
 - At about this time, you must decide how you want to approach disciplining them.
 
-At around 6 months, their teeth will start growing and they'll start eating solid foods:
+At around 6 months, their teeth will start growing enough that they can eat solid foods:
 
 - Teething causes plenty of unexplained crying, and will happen about every few months for a few days.
 - Console them with a teething ring or amber necklace.

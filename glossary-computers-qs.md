@@ -179,7 +179,7 @@ Sequential logic - where computers perform logic in a sequence, compared to comb
 
 Server - a synonym for a supercomputer or a host, context-depending
 
-Server rack - a large rack with thumb-screw holes that computers can slide into on drawers, 19 inches wide and usually 42U height (1U is 1.75 inches, U for unit), most smaller computers can fit in 1U, but computers can be as tall as 6U
+Server rack - a large rack with thumb-screw holes that computers can slide into on drawers, 19 inches wide and usually 42U height (1U is 1.75 inches, U for unit), most computers can easily fit in 1U, but they can be as tall as 6U
 
 Service - a task or program a computer can run
 

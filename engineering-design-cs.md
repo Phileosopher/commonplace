@@ -232,7 +232,7 @@ The incentive of a social media organization is for more people to use it more f
 Except for casinos, [game development](computers-software-gamedev.md) contains some of the most addiction-inducing design possible. Games use goals and rewards to create an [operant conditioning chamber](https://en.wikipedia.org/wiki/Operant_conditioning_chamber) that leaves people *constantly* emulating the sense of reward that comes from [succeeding at life](success-1_why.md), but within their small ecosystem:
 
 - Time the delay of rewards to be frequent enough to prevent boredom.
-- Let off on rewards for a little bit to offset diminishing return and overload.
+- Let off on rewards for a while to offset diminishing return and overload.
 - Provide *just* enough incentive to keep playing the "free" game, while constantly [advertising](marketing.md) the paid game.
 - Force scarcity over certain collectible items that would dramatically improve a player's performance.
 - Create "loot boxes" to incentivize more purchasing with only a *chance* of granting an incentive.

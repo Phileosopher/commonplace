@@ -47,7 +47,7 @@ Ecclesiology - The systematic theology branch that addresses the Church
 
 Eschatology - The systematic theology branch that addresses the end times and Jesus returning
 
-Evangelism - Various forms of sharing the Gospel to the world
+Evangelism - Literally "good messenger", various forms of sharing [the Gospel](https://theologos.site/gospel/) to the world
 
 Elect - The people who God has predestined for eternal life, most prominently shown in [Ephesians 1:4-6](https://biblehub.com/ephesians/1.htm)
 
@@ -85,7 +85,7 @@ Kenosis - the theology surrounding how Jesus "emptied himself"
 
 Mariology - the systematic theology branch that addresses the Virgin Mary (but only for Catholics)
 
-Mercy - in the Bible, refers to bad things God doesn't gives when He had every right to, contrast with grace
+Mercy - in the Bible, refers to bad things God doesn't give when He had every right to, contrast with grace
 
 Missiology - the systematic theology branch that addresses evangelism
 

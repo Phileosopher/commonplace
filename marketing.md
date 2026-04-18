@@ -76,7 +76,7 @@ The best thing is to assume people are selfish, lazy, uninformed, and impatient.
 The only way to find that meaning is to create a distinctly human connection through the [design](engineering-design.md) of marketing materials.
 
 - Simply making promises and keeping them is enough to start building a brand.
-- To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_what.md) to disrupt [established patterns](habits.md).
+- To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_what.md) to disrupting [established patterns](habits.md).
 - A marketer never gets to dominate the domain, and serves more to curate [fashions](people-trends.md) that others will *want* to maintain.
 
 A lasting, marketable product has an original and distinctive competitive advantage.
@@ -163,8 +163,8 @@ If a product is marketed well, people will believe taking action toward it will 
 
 - Adapting their lifestyle for the product
 - Identifying with the culture associated with the product
-- The effort and sacrifice needed to acquire the product
-- The product is worth maintaining
+- Acquirign the prodct requires effort and sacrifice
+- That product has value in maintaining
 
 ### Psychological connection
 
@@ -178,7 +178,7 @@ Their [meaning](meaning.md) comes from how they interact with the product.
 Triggers connect to subconscious meanings (risky to build a brand on).
 
 - Language - highly relative words and phrases that associate to thoughts
-- Symbols - designs through the senses that associate to a memory
+- Symbols - designs through the senses that associate with a memory
 - Sensations - interpretations of senses (too challenging to market with)
 
 Customer desires vary in intensity:
@@ -334,6 +334,8 @@ Ever since Edward Bernays' propagation of Sigmund Freud's psychoanalytic approac
 
 - By using [patterns](symbols.md) that associate to pleasure (especially sexual pleasure), advertisements can sidestep our conscious thoughts.
 - While these advertisements *work* to generate customers by appealing to their baser desires, it's completely unethical.
+- And, societies that are accustomed to this propaganda style become "immune" to it.
+  - When people are fed [lies](people-lying.md) and [propaganda](stories-storytellers.md) since they were young, they all become at least somewhat aware of most [image distortion methods](people-image-distortion.md).
 - From that purpose, many people have found marketing a disreputable trade.
 
 A *lot* of the marketing industry is built on bad data.

@@ -149,7 +149,7 @@ Israel's consideration:
   8. Don't steal
   9. Don't [lie](people-lying.md) about your neighbor
   10. Don't desire anything your neighbor has
-- There are *many* more edicts indicated that implement the original commands
+- *Many* more edicts implement the original commands
   - In fact, most of [Leviticus](https://biblehub.com/leviticus/1.htm), [Numbers](https://biblehub.com/numbers/1.htm), and [Deuteronomy](https://biblehub.com/deuteronomy/1.htm) are derived from the first 10 commandments
 - Will become a kingdom of priests and a holy nation
 
@@ -175,7 +175,7 @@ Israel's consideration:
 God's consideration upon breach of contract:
 
 - God will not forgive people who aren't sincere
-- He will bring the curses from Exodus on him
+- He will bring the curses from Exodus on them
 - He will blot out that person's name from under heaven
 - That person will be singled out from all the tribes of Israel for disaster
 - The next generation will see those curses and ask why God did it and what made Him angry

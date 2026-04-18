@@ -3,7 +3,7 @@
 
 No matter what our position in life, we can always do one of two things:
 
-1. . Be grateful for the things we have.
+1. Be grateful for the things we have.
 2. Be unhappy about the things we lack.
 
 This parses into a ladder, which is this list.
@@ -21,10 +21,10 @@ Ambition is often simply [creative](mind-creativity-how.md) ingratitude:
 - X is your means to get B.
 - Motivation: "I want (B), so I'm going to (X)!"
 
-This is a general strata, and this isn't a hard list of spectra.
+This is a general categorization, but it can't be precise.
 
 - The rankings are based on a generalized approach of which one is deemed "better" by society's approximate standards.
-- The purpose of this is to make it abundantly clear that things are both awful and great, depending how you look at it.
+- The purpose of this is to make it abundantly clear that things are both awful and great, based on how we look at it.
 
 While this is categorized, we can also often jump between strata.
 
@@ -83,7 +83,7 @@ While this is categorized, we can also often jump between strata.
 
 1. Have at least some money available
 2. Have a consistent source of income
-3. Can afford basic necessities
+3. Can afford basic needs
 4. Can afford creature comforts
 5. Can afford hobbies
 6. Can afford free time with friends
@@ -233,7 +233,7 @@ NOTE: the availability is the privilege/blessing, *not* necessarily the consumpt
 13. Have a friend
 14. Have a mentor/teacher
 15. Someone has celebrated birthday
-16. Close spiritual connection with non-family (e.g,. [church](church.md)
+16. Close spiritual connection with non-family (e.g., [church](church.md))
 17. Have a best friend
 
 ## Romantic relationships
@@ -251,7 +251,7 @@ NOTE: the availability is the privilege/blessing, *not* necessarily the consumpt
 11. Married
 12. Had a wonderful wedding
 13. Currently [married](relationships-marriage.md)
-14. Currently in a dynamic marriage lifestyle
+14. In a current, dynamic marriage lifestyle
 15. Have a trustworthy spouse
 16. Can [have sex](relationships-sex.md) with spouse
 17. Currently in love

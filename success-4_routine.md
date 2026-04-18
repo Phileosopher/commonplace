@@ -149,7 +149,7 @@ Inspire the fear of shame:
 
 ## Make your routine a string of triggers
 
-Look for [triggers and "life hacks"](success-triggers.md) to engage better, faster, more focused work.
+Look for [triggers and "life hacks"](success-4_routine-hacks.md) to engage better, faster, more focused work.
 
 With a state of "flow", each day reinforces the next as a feedback loop:
 

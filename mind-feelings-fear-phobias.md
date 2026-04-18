@@ -142,9 +142,9 @@ Acousticophobia: noise
 - Ligyrophobia: loud noises
 - Melophobia: music
 
-Levophobia/Sinistrophobia: objects at the left side of the body
+Levophobia/Sinistrophobia: objects on the left side of the body
 
-Dextrophobia: objects at the right side of the body
+Dextrophobia: objects on the right side of the body
 
 Arachibutyrophobia: peanut butter sticking to the roof of the mouth
 
@@ -182,7 +182,7 @@ Pteronophobia: being tickled by feathers
 
 Cheimaphobia/Cheimatophobia/Frigophobia/Psychrophobia: cold
 
-- Cryophobia: extreme cold, ice or frost
+- Cryophobia: freezing, ice or frost
 - Pagophobia: ice or frost
 - Chionophobia: snow
 

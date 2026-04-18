@@ -51,7 +51,7 @@ To be [just](morality-justice.md), every rule must have a few qualities:
 5. There should be a means to repay the [injustice](morality-justice.md) the person performed.
 6. The criminal, upon repayment, should be released from any further obligation.
 
-APPLICATION: The purpose of courts are not about truth, but about [justice](morality-justice.md). The difference comes in what a government is capable of [doing](results.md) to [remedy the situation](people-rules-methods.md).
+APPLICATION: The purpose for courts isn't for truth, but for [justice](morality-justice.md). The difference comes in what a government is capable of [doing](results.md) to [remedy the situation](people-rules-methods.md).
 
 APPLICATION: Rules are only valid if they transcend [culture](people-culture.md) to apply equally to all people. This requires that the rules are abstracted philosophical ideas, which requires a *lot* more patience than most people have the time to do.
 
@@ -240,7 +240,7 @@ APPLICATION: Political interests make easily enforceable rules very difficult to
 APPLICATION: The economics of rule-making will eventually doom all civilizations from the inside-out:
 
 1. Larger societies need more rules.
-2. More rules means more people to measure and enforce what the public does (i.e., bureaucrats).
-3. More bureaucrats creates more government expense, and also lowers individuals' incentives to take social risks (thereby lowering tax income).
+2. More rules mean more people to measure and enforce what the public does (i.e., bureaucrats).
+3. More bureaucrats create more government expense, and also lowers individuals' incentives to take social risks (thereby lowering tax income).
 4. Eventually, without massive reform (which governments are particularly resistant to doing), the tax cost will outpace the tax income.
 5. While a government can use debts or [war](people-conflicts-war-why.md) to prolong the issue, that government will eventually collapse or lose at least most of [their power](power-types.md).

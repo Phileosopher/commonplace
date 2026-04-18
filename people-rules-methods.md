@@ -61,7 +61,7 @@ Can range from complete detainment to casual monitoring of their behaviors.
 
 Without closer supervision, becomes a de facto training center for criminals to learn from each other.
 
-- Solitary confinement is a [human rights violation](people-3_respect.md)).
+- Solitary confinement is a [human rights violation](people-3_respect.md).
 - There may be other rules that prohibit forced labor.
 - Without solitary confinement or forced labor, the only workable solution is to place them in a new community that gives them [morally](morality.md) superior [purposes](purpose.md).
 

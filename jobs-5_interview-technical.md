@@ -13,7 +13,7 @@ Technical interviews may feel like a competition against the system, but your *r
 
 There are multiple places to test your skills (e.g., [LeetCode](https://leetcode.com/), [freeCodeCamp](https://www.freecodecamp.org/learn/coding-interview-prep/)), so there's no shortage of free material for it.
 
-There are *way* too many questions to practice in advance, so instead it's better to visit questions from companies you're planning to interview at instead.
+There are *way* too many questions to practice in advance, so instead focus on questions from companies you're planning to interview at instead.
 
 - If the company hasn't been clear on what questions they'll likely use, try to find an analogous company (e.g., if it's a large cloud storage service, try to use the interview questions from Dropbox).
 

@@ -9,7 +9,7 @@ There is a vast body of network [standards](standards-computers.md) published an
 
 ## History
 
-The history of computer networks has conventions and [standards](standards-computers.md) dating as far back as the telegraphs and Morse code in the 1840's, and phone switchboards are still networking standards (66 block vs. 110 block). WiFi and cellular networks, though, go back to radio standards set in the 1920's.
+The history of computer networks has conventions and [standards](standards-computers.md) dating as far back as the telegraphs and Morse code in the 1840s, and phone switchboards are still networking standards (66 block vs. 110 block). Wi-Fi and cellular networks, though, go back to radio standards set in the 1920s.
 
 The idea of networked computers came *long* before it materialized. Vannevar Bush's essay "[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)" implied the concept of a collective memory storage that represented something close to how we see [the internet](computers-sofware-webdev.md) today.
 
@@ -22,7 +22,7 @@ As the computers started sending more information back-and-forth using "store an
 - If any packets were lost ("dropped"), they could be re-sent instead of the entire thing.
 - If the network changed (e.g., slow or bad connection, faster alternative connection), the rest of the packets could travel a different path without any concern for the flow of information.
 
-For a long time through the 1990's, until broadband internet, the capacity for data transfer through a modem was capped at 56,000 bits per second, or 56k baud.
+For a long time through the 1990s, until broadband internet, the capacity for data transfer through a modem was capped at 56,000 bits per second, or 56k baud.
 
 ## Topology
 
@@ -54,7 +54,7 @@ Due to the complexity of a computer network, there is [a specific set of layers]
 
 An "IP address" is a unique identifier designed specifically for that computer. The "Internet of Things" is clever [marketing](marketing.md)-speak for "every computer has an IP address". IoT would be harmless, but it opens up many [cybersecurity](computers-cysec.md) risks from the added connectivity.
 
-Besides having private IP addresses on that local network, wireless networks have a "service set identifier" (SSID) as an ID for users to find it. It can be "Family WiFi" or "PETA Van", but can also be "!" or "#". If it isn't [password-protected](computers-cysec-authentication.md), anyone who knows it or can scan wireless networks will be able to access it.
+Besides having private IP addresses on that local network, wireless networks have a "service set identifier" (SSID) as an ID for users to find it. It can be "Family Wi-Fi" or "PETA Van", but can also be "!" or "#". If it isn't [password-protected](computers-cysec-authentication.md), anyone who knows it or can scan wireless networks will be able to access it.
 
 In a telephone system, one implementation of a LAN is a PBX (private branch exchange). When it's customer-facing, it typically has pre-recorded audio with it to communicate what the users can press. However, a phone is still simply a computer interface with a dialpad-only input and audio-only output.
 

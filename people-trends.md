@@ -1,7 +1,7 @@
 
 # How trends work
 
-Across all of society, certain [patterns](symbols.md) take hold across many people. They run their course the exact same way, every single time. They flow through a "soft [human universal](humanity-universals.md)", and can only be augmented, but can never be stopped.
+Across all society, certain [patterns](symbols.md) take hold across many people. They run their course the exact same way, every single time. They flow through a "soft [human universal](humanity-universals.md)", and can only be augmented, but can never be stopped.
 
 In fact, barring [human universals themselves](humanity-universals.md), *everything* tied to humanity can be seen a trend:
 
@@ -102,7 +102,7 @@ Forward-thinking people who want power will try to hasten a trend. New trends re
 
 Often, a [bad system](mgmt-badsystems.md) will abuse their [influence](influence.md) so much that observers create new [stories](stories-why.md) that build trends *against* that trend, usually with a [humorous](humor.md) and awful sub-trend. When that happens, the trend's days are numbered because the sub-trend creates a [stereotype](people-image-why.md) people were [feeling](mind-feelings.md) for a while.
 
-Other times, a newly discovered deception or scandal can push people out of the trend in droves. When this happens, people will [choose](mind-decisions.md) *any* trend outside of that one, and it shifts unsettlingly fast.
+Other times, a newly discovered deception or scandal can push people out of the trend in droves. When this happens, people will [choose](mind-decisions.md) *any* trend outside that one, and it shifts unsettlingly fast.
 
 ### Trends that affect trends
 
@@ -143,7 +143,7 @@ This pendulum effect means [moralizing](morality.md) non-moral things can be dan
 
 APPLICATION: We can't fairly judge people from the distant past by present fashions. The embodiment of their [culture](people-culture.md) was so heavily removed from ours from [technology](technology.md), [science](science.md), [religion](religion.md) and time that we must learn to think the way *they* thought at the time to discover why their innovators were so [influential](power-influence.md).
 
-The speed the pendulum moves is determined heavily by [universal human characteristics](humanity-universals.md), augmented by the longest-standing [cultural norms](people-culture.md) and [technological developments](technology.md). Any deviation from those universals will quickly revert back.
+The speed the pendulum moves is determined heavily by [universal human characteristics](humanity-universals.md), augmented by the longest-standing [cultural norms](people-culture.md) and [technological developments](technology.md). Any deviation from those universals will quickly change back.
 
 Also, when the pendulum sits in the trends of [individual efforts](purpose.md), these cycles more articulately represent themselves into a unique cycle pattern of "resistance":
 
@@ -174,11 +174,11 @@ APPLICATION: Sometimes a trend can rise and fall across centuries, depending on 
 Part of the existence of cycles comes through [aging](maturity.md):
 
 1. People tend to nostalgically remember the trends of their teenage years as the "best time of their lives".
-2. Younger people are more likely to (loudly) adopt trends, though their influence to advance them will be very limited until their early 30's.
+2. Younger people are more likely to (loudly) adopt trends, though their influence to advance them will be very limited until their early 30s.
 3. Our [understanding](understanding.md) maxes out around age 51, and we tend to resist new trends at that time.
 4. For that reason, society as a collective whole always [fights](people-conflicts-war-why.md) between trends from 35 years ago and trends from 10-15 years ago.
 
-APPLICATION: Beyond [technology](technology.md), most of society [stays the same](humanity-universals.md) across centuries. But, it feels like it's improving or deteriorating because of which trends we're [observing](people-image-why.md), and the [youth](maturity.md) *always* think a trend is new.
+APPLICATION: Beyond [technology](technology.md), most society [stays the same](humanity-universals.md) across centuries. But, it feels like it's improving or deteriorating because of which trends we're [observing](people-image-why.md), and the [youth](maturity.md) *always* think a trend is new.
 
 APPLICATION: If you believe something people had believed 100 years ago and still do, you'll likely be right 100 years from now. Those things are likely [universal to humanity](humanity-universals.md), and transcend [culture](people-culture.md). The same generally applies for wrong things as well.
 

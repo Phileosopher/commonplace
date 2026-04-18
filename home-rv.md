@@ -4,7 +4,7 @@
 In several ways, living in an RV is a middle ground between several other lifestyles:
 
 - It's a hybrid between [homeownership](home-maintenance.md) and [camping](fun-vacations.md).
-- If it's a motorhome, it has all the components of maintaining a small home that goes through regular scheduled earthquakes along with maintaining an [automotive](autos.md).
+- If it's a motorhome, it has all the components of maintaining a small home that goes through regular scheduled earthquakes along with maintaining an [auto](autos.md).
 - If it's a travel trailer, it also requires owning or renting a pickup truck or SUV to move it around.
 
 To that end, it straddles many of those elements, but with significant differences.
@@ -48,7 +48,7 @@ Stay mindful of *all* the various systems included in an RV:
 - Water - the attachment is essentially a garden hose, but is higher-quality to permit drinking water (since garden hoses may have plastic residue).
 - Holding tank (fresh water) - holds ~20-50 gallons, typically from a separate input altogether, needs a pump to draw from it.
 - Holding tank (gray water) - holds ~30-50 gallons, takes water from sink, shower, handwashing stations, etc.
-- Holding tank (black water) - The toilet feeds out to a ~18-64 gallon holding tank, takes only water from the toilet.
+- Holding tank (black water) - The toilet empties into a ~18-64 gallon holding tank, takes only water from the toilet.
 - Propane - runs on standard liquid propane (LP) tanks.
 
 Even after you've purchased an RV, you'll need to get some things prepared before first using it.
@@ -132,7 +132,7 @@ Consider looking into an RV club.
 Try to travel with the [weather](science-earth-weather.md).
 
 - Going through a heat wave or below-freezing weather *will* create difficulties.
-- At the extremes (i.e., <32°F or >90°F), you'll be *very* uncomfortable, but won't likely have any real risks if you take all standard precautions.
+- At the extremes (i.e., <32 °F or >90 °F), you'll be *very* uncomfortable, but won't likely have any real risks if you take all standard precautions.
 
 In hot weather, try to find spots that have shade.
 
@@ -146,7 +146,7 @@ In cold weather, use window seal plastic and purchase or build a skirt.
   3. Measure and mark the insulation for your cut.
      - To make the cutting easier, tuck away any accessories or stairs.
      - Err on the side of excess, then cut down if you need.
-     - You don't have to be *that* precise, since the tape will cover some of the range and you're only using it for a few months.
+     - You don't have to be *that* precise, since the tape will cover some range, and you'll only be using it for a few months.
   4. Cut and place the insulation, then tape it.
      - Unless you're trying to make it look good, you can tape it from the outside of the RV.
 
@@ -167,7 +167,7 @@ Every time you move, even if it's a few hundred feet away, go through a standard
 
 When you arrive, have a deployment procedure:
 
-1. Back the vehicle to align with with the waste station (if present).
+1. Back the vehicle to align with the waste station (if present).
 2. Attach all hookups, lower the landing gear.
 3. Move out all slides.
 4. Adjust the landing gear to level the RV.

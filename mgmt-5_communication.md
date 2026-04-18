@@ -76,7 +76,7 @@ Meetings and emails are the largest waste of resources in most organizations:
 
 ### Emails
 
-The [general rules for writing emails](language-writing.md) apply, but are magnified from the scope of how much managers have to send them.
+The [general rules for writing emails](language-writing.md) apply, but are magnified from how many emails managers have to send.
 
 - Typically, a 45-second phone call or voicemail message is *much* more effective at delivering any urgent information.
 - Email is *not* [secure](computers-cysec.md), so never send critical or sensitive information with it.
@@ -302,12 +302,12 @@ Many of your important decisions are simply who you delegate tasks to.
   - Older workers will often be competent to take on tasks, but will typically expect a pay increase for the role change (which is typically worth it).
 - Try to give tasks to people smarter than you.
   - Even if they're not as hard-working, they'll often find [creative ways](mind-creativity.md) to do the tasks *easier* than you (e.g., [with technology](technology.md)).
-  - Smart and lazy people will generally find ways to optimize the work so they don't have to do it.
+  - Smart and lazy people will generally find ways to optimize the work to not have to do it.
 - If anyone performs the task better than you, promptly advertise how well they've done.
   - To instill a culture of [clever](mind-creativity.md) ideas, the members must know their opinions can make a difference beyond themselves.
   - *Never* claim credit for an idea from one of your subordinates, even if it's the organization's [intellectual property](legal-ip.md).
 
-Never delegate things that nobody else but you can do.
+Never delegate things that only you can do.
 
 - If only you can do something (e.g., payroll, ordering inventory), make sure to prioritize those tasks over things other people can do.
   - Sometimes, you simply need to be physically present in a location to be available for questions or customers.

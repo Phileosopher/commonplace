@@ -21,7 +21,7 @@ Hickam's Dictum - For multiple issues, several simple explanations are better th
 
 Hutber's Law - Improvements in a system hide other parts that are decaying.
 
-Law of Demeter - The best groups come from each individual only knowing a portion of the whole, and everyone only communicating with their friends who are nearby.
+Law of Demeter - The best groups come from each individual only knowing a portion of the whole, and with everyone only communicating with their nearby associates.
 
 Gall's Law - A complex system that works always comes from a simple system that works.
 
@@ -152,6 +152,8 @@ Boghossian Principle - Any system that forbids open conversation about that syst
 
 Brandolini's Law - Refuting lies takes dramatically more work than promoting them.
 
+Broadway Effect - Media adaptations compensate for their inferior aspects by overemphasizing the parts they're good at.
+
 Celine's Second Law - Communication only happens among equals.
 
 Chris Carter Effect - If people conclude others won't finish what they're trying to say, they'll stop paying attention.
@@ -218,7 +220,7 @@ Okun's Law - When unemployment goes up by 1%, everyone outputs goods and service
 
 Substitution Effect - By paying people to not work and taxing people who do work, people will be twice as likely to not work.
 
-Third-Party Payer Problem - When a third-party is involved in a two-party transaction, the costs slowly increase as the direct connection between the first two parties decreases.
+Third-Party Payer Problem - When a third party is involved in a two-party transaction, the costs slowly increase as the direct connection between the first two parties decreases.
 
 Wagner's Law - The more [technology](technology.md) a country adopts, the bigger its [government](politics-systems.md) gets.
 
@@ -250,7 +252,17 @@ Stigler's Law - Discoveries aren't named after their original discoverer.
 
 Teeter's Law - The oldest language of a group of languages always happens to be the one you're an expert in.
 
-Tytler's Civilization Cycle - Every free society cycles through bondage, to spiritual faith, to courage, to liberty, to abundance, to selfishness, to apathy, to dependence, and back to bondage
+Tytler's Civilization Cycle - Every free society cycles through:
+
+1. Bondage
+2. Spiritual faith
+3. Courage
+4. Liberty
+5. Abundance
+6. Selfishness
+7. Apathy
+8. Dependence
+9. Back to bondage
 
 ## Politics/law-specific
 

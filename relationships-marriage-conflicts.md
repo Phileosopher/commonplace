@@ -73,21 +73,9 @@ B. Approach at the right time:
 - Handle and mitigate all emergencies, then discuss *after* the emergency is over.
 - Unless something is urgent within the next day, always postpone a conflict until you've both rested and recovered.
 
-C. The first time, only bring the problem (and *not* [the solution](https://adequate.life/fix/)) with the Speaker-Listener Technique:
+C. The first time, only bring the problem (and *not* [the solution](https://adequate.life/fix/)) with [the Speaker-Listener Technique](people-conflicts-disagreements.md)
 
-1. The person who feels the most severe pain at the moment is the Speaker and has the floor.
-   - The Speaker must speak honestly and without accusation.
-   - To respect time and attention span, they only get 1-2 minutes to speak.
-2. The other person is the Listener, who must paraphrase whatever the speaker said after listening.
-   - The Listener must edit out all responses or disagreements to the Speaker.
-   - The Listener is simply trying to understand the Speaker, not solve a problem.
-3. The Speaker corrects the Listener on anything they got wrong.
-4. If the Speaker finds the Listener's summary acceptable, they switch roles.
-   - Stay on only one topic at a time, and do *not* move to another topic.
-5. Repeat back and forth until both sides feel fully understood.
-6. Plan a time the next day when it's worth discussing the solutions to the issue.
-
-The next time you speak, make a plan to resolve the issue:
+D. The next time you speak, make a plan to resolve the issue:
 
 - Try to come to a shared compromise or understanding.
 - The plan should have sensible, attainable [goals](success-3_goals.md) for both them and you.
@@ -95,7 +83,7 @@ The next time you speak, make a plan to resolve the issue:
   - If you only track what they've failed at, they'll lose the motivation to change.
 - The relationship will be held back by the person who cares the least about their partner.
 
-F. Clarify what they mean to you:
+E. Clarify what they mean to you:
 
 - Affirm a few things:
   1. You love them

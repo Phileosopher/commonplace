@@ -7,7 +7,7 @@
 - You *always* have something to gain, even if it's changing their opinions or leaving you alone.
 - You're the best defender of your rights and privileges, so you must have the courage to stand up for yourself.
 - Always, throughout the dialogue, stay focused on what you want.
-- *Never* treat the conflict as a either/or option or you'll trigger a fight-or-flight response in yourself.
+- *Never* treat the conflict as an either/or option, or you'll trigger a fight-or-flight response in yourself.
 
 Everyone tends to manage negotiations by accommodating, assertion, or analysis:
 
@@ -37,7 +37,7 @@ Healthy negotiations cycle through the same stages:
 
 1. At least one person sees an issue, then identifies what they want or need.
 2. That person approaches someone with the power to do something about it and starts a [dialogue](language-speaking.md).
-3. Eventually, they confronts them with that desire or demand, which often has many "I feel" statements or agreed-upon facts.
+3. Eventually, they confront them with that desire or demand, which often has many "I feel" statements or agreed-upon facts.
 4. They discuss a way to reconcile the demands, which can last anywhere from a few seconds to months depending on the severity.
 5. The conflict resolves with someone stating absolute consequences, or people bring up additional conflicts to further intensify the experience.
 
@@ -162,7 +162,7 @@ Set the location in a neutral zone:
   - An arbitrator is a decision-making judge, and typically appointed by the party with more power.
 - Arbitration can often become a 2-on-1 battle.
   - If they're arbitrating, consider an audio recording in case the conflict has adverse [legal consequences](legal-safety.md), or bring an attorney to even it out.
-- While a mediator may intervene and be quite skilled at it, do *not* let them take control of the conflict, since they won't have to live with the consequences while *you* will.
+- While a mediator may intervene and be quite skilled at it, do *not* let them take control of the conflict, since *you* will live with the consequences.
   - If they're leading you down a path you don't approve of, call a time-out and tell them privately that if they continue along that route you will get a new mediator.
 - If you're arbitrating, expect *them* to bring an attorney.
 
@@ -205,7 +205,7 @@ Consider what everyone has:
 - Trades: What is each party planning to sacrifice for it?
 - Alternatives: What is each party open to giving instead?
 - Contingency Plans: What will each party do if they can't get what they want?
-- Relationships: What relationships and history with other people does each party have, and how can it affect the future?
+- Relationships: What relationships and history with other people do each party have, and how can it affect the future?
 - Expected Outcomes: What do both sides believe will happen from this situation?
 - Consequences: What do both sides believe will happen from various decisions about the situation?
 - Power: Who has more power and resources than the other, and who has the most to lose?
@@ -272,7 +272,7 @@ While focusing on reality, don't disregard their feelings:
 
 - Throughout the exchange, they have feelings they're likely not aware of that drive their decisions.
 - They must feel important, listened to, and understood for their feelings to surface.
-- As their feelings arise and they feel safe to express them, the dialogue becomes less intense and more rational.
+- As their feelings arise, and they feel safe to express them, the dialogue becomes less intense and more rational.
 
 The best two words in any negotiation are "that's right":
 
@@ -371,8 +371,8 @@ Be careful giving ultimatums:
 
 - An ultimatum bonds that agreement to your word and creates 3 possibilities:
   - They accept the offer.
-  - They don't accept the offer and the deal is off.
-  - They don't accept the offer and you must humiliate yourself.
+  - They don't accept the offer, and the deal is off.
+  - They don't accept the offer, and you must humiliate yourself.
 - If you want a tactful ultimatum, use a heavily emotional appeal.
   - Give a personal and factual anecdote why you need something accomplished on their end (e.g., you want that thing to give your dying mother).
     - The anecdote must be true, or you're outright [lying](people-lying.md).
@@ -443,7 +443,7 @@ Bring an offer:
 Haggle efficiently:
 
 1. Place your target price beforehand, which is comfortably away from your worst-case expectations.
-   - e.g., if they're offering $200 and you know its market value is $150, set your target at $141.
+   - e.g., if they're offering $200, and you know its market value is $150, set your target at $141.
    - e.g., if the market value for what you're selling is $1,000, set your target at $1,067.
 2. Set your first offer at 65% if you're buying, 135% if you're selling.
    - When buying, multiply the target by 2/3 (e.g., set the first offer to $93).
@@ -455,7 +455,7 @@ Haggle efficiently:
      - The first difference is 4 increments, the second is 2, the third is 1.
      - (e.g., $48 in the first example becomes ~$6.85, so the first difference is 4x at ~$27, the second is half that at ~$14, and the third is the rest: $119, $133, and $141).
      - (e.g., $516 in the second example becomes ~$74, so the first difference is 4x at ~$295, the second is half that at ~147, and the third is the rest: $1,288, $1,141, and $1,067).
-4. Use lots of empathy and many different ways of saying "no" to get the other side to counter-offer, then hesitate and show unease before you change your offer.
+4. Use lots of empathy and many ways to say "no" to get the other side to counter-offer, then hesitate and show unease before you change your offer.
    - Use round numbers on the second round to imply that those numbers aren't fixed.
    - e.g., they counter after a story of their family with $160, give empathy and think for a while, then set the second offer for $120.
    - e.g., they say the budget won't allow it, so they're offering $800, so look like you're thinking hard, then set your second offer for $1,280.

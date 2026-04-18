@@ -63,7 +63,7 @@ Secular organizations tend to enable poor countries' citizens to stay poor:
 - Many citizens stop farming or developing skills because they simply wait for the aid helicopter to drop supplies.
 - Focus more on rehabilitation and development than giving relief.
 
-Healthy boundaries *requires* outsiders never move beyond Co-Leading.
+Healthy boundaries *require* outsiders never move beyond Co-Leading.
 
 - Since work won't get done nearly as quickly, it can be *very* challenging to simply assist from the side.
 - However, without their own people running things, they will slowly become a second-class participant of *your* project.
@@ -86,7 +86,7 @@ Deeply involve the people group you're helping in every stage of assessing, desi
 Supporting missionaries does *not* only apply for when they're serving their tour.
 
 - Across a mission, that worker will slowly adopt a "third culture" [identity](people-identity.md) where they merge their serving and home cultures.
-- When a missionary returns home, formerly familiar objects become alien through their new perspective, so they require help reintegrating.
+- When a missionary returns home, formerly familiar objects become alien through their new perspective, so they require help with reintegration.
 
 They will *not* be the same, so don't expect them to come back to the lifestyle they knew.
 

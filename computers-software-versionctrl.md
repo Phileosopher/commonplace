@@ -7,9 +7,9 @@ Since developers are human, software isn't a fire-once-and-done matter. To allow
 
 To keep things simple, programmers tend to release program versions with numbers on them, using a few possible conventions.
 
-The first, and oldest, convention is to name versions by their relationship to a programmer's goals:
+The first and oldest convention is to name versions by their relationship to a programmer's goals:
 
-- "Alpha" versions are barely-working programs that were quickly pushed out (e.g., v0.36). Features are sparse and it barely works (at least, by the developer's standards).
+- "Alpha" versions are barely-working programs that were quickly pushed out (e.g., v0.36). It barely works, and features are sparse (at least, by the developer's standards).
 - "Beta" versions are nearly complete, but may still have bugs (e.g., v0.80).
 - "Final" versions are finished, but there are often little details that need tweaking afterward (e.g., v1.02).
 - After that, most developers tend to make version numbers based on features they've added. On a large project with many developers, it's not uncommon to add letters and extended numbers afterward (e.g., v2.58.7216.R35).
@@ -62,7 +62,7 @@ However, there are [security issues](computers-cysec.md) with Git. Since it keep
 
 While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_what.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](faang.md).
 
-Beyond being a form of social media, Github's most advantageous offering is GitHub Copilot, which scraped *all* the GitHub code to create an [AI-assisted model](computers-ai.md) to help with coding.
+Beyond being a form of social media, GitHub's most advantageous offering is GitHub Copilot, which scraped *all* the GitHub code to create an [AI-assisted model](computers-ai.md) to help with coding.
 
 ## Forks
 
@@ -70,7 +70,7 @@ When someone is [developing software](computers-software.md), there are a variet
 
 - Cleaning up code to make it more stable, but it'll take a long time.
 - Someone else wants to add [features](computers-programming.md) of their own, or wants to take over the project.
-- The developer gave up on that implementation of the project and wants to start over, but other people are depending on it.
+- The developer gave up on that implementation of the project and wants to start over, but other people depend on it.
 - The developer lost his mind, and someone has to continue developing with a "known-good" implementation of the code.
 
 For whatever reason, the developer can "fork" the version. This new version is identical at first, but is meant to change differently than its original version.
@@ -88,7 +88,7 @@ Unfortunately, all the changes in software mean that it's not usually sensible t
 
 For that reason, a project cycle will often "end-of-life" certain versions once they know 100% that a newer version has everything the older version has, though sometimes the developer will have rebuilt the next version of the system to be [closed-source](legal-ip-floss.md).
 
-Sometimes, a version has to be "yanked" if it failed miserably. Maybe that version could easily [hacked](hacking.md), or it might have crashed core features. For whatever reason, certain version numbers become *very* dangerous to keep around without patching or uninstalling/reinstalling with another version ASAP.
+Sometimes, a version has to be "yanked" if it failed miserably. Maybe that version could be easily [hacked](hacking.md), or it might have crashed core features. For whatever reason, certain version numbers become *very* dangerous to keep around without patching or uninstalling/reinstalling with another version ASAP.
 
 Some [enterprise software](computers-distsys-enterprise.md) can be so feature-laden and complex that most managers won't feel comfortable bringing it to version 1.x. This can cause extreme consternation in developers [as the project persists](computers-software-maintenance.md), and can provoke rewriting the code from scratch or trying to close out all [bug reports](computers-software-redesign.md). This psychological effect can also express with releasing to 2.x, 3.x, and so on.
 

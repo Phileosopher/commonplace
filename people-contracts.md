@@ -46,7 +46,7 @@ Before consenting to *anything*, research beforehand about the reasonable cost a
   - Waive your rights
   - Continue to perform until an arbitrary standard (e.g., "until work has been completed")
 - Make sure you have the right to terminate a contract for any reason whatsoever and, in the interest of [fairness](morality-justice.md), they have that right as well.
-  - If termination will cause an undue burden, clearly demarcate the consequences (e.g., cancellation fee, notice required before cancellation).
+  - If termination causes an undue burden, clearly demarcate the consequences (e.g., cancellation fee, notice required before cancellation).
 - Watch for "all-in-one" services that could be inadequate for what you need.
 - Stay cautious of emerging high-risk areas, especially [new ventures](entrepreneur-1_what.md) or small operations.
 
@@ -141,7 +141,7 @@ Watch and confront any drift from the agreed terms (e.g., situation has changed)
   - All geographically nearby associations to them or you.
   - All new risk factors that emerge (e.g., [news stories](stories-storytellers.md)).
   - Possible changes from potential new arrangements they make with others (e.g., bank loans).
-  - Possible *other* people who may be affected by the change, and all of the above for *them*.
+  - Possible *other* people who may be affected by the change, and all the above for *them*.
 - Append or amend the contract as needed to keep everyone safely within their scope of duty.
   - Inform them *as soon as possible* about the consequences of any changes you're aware of.
   - Communicate all new changes *before* they happen.
@@ -205,5 +205,5 @@ If you're not sure, do nothing.
 Be careful when [transporting goods](logistics.md).
 
 - Even when you don't know, you can often become the accomplice to a crime.
-- Require them to seal it so you can't know what's in the container.
+- Require them to seal it. That way, others won't know what's in the container.
 - Make sure the seal is unbroken until the receiving party signs off on it.

@@ -38,7 +38,7 @@ Test an egg's age by adding a pinch of salt to cool water and submerging it.
 Separate eggs with a water bottle:
 
 1. Crack the egg in a shallow bowl.
-2. Squeeze some of the air out of a water bottle.
+2. Squeeze some air out of a water bottle.
 3. Place the bottle's mouth on the yolk, then slowly release your grip to push the yolk into the bottle.
 4. Squeeze the yolk out of the bottle and into another container.
 

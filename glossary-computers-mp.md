@@ -131,7 +131,7 @@ Name server - a computer in a DNS that stores a record of domains corresponding 
 
 Namespace - a system that separates things into groups to allow the same names across multiple areas, very useful for programming
 
-Nanosheet - a panel of *tiny* transistors, also known as nanoribbon, nanowire or gate-all-around device, depending on who you ask
+Nanosheet - a panel of *tiny* transistors, also known as nanoribbon, nanowire or gate-all-around device
 
 NAS - network-attached storage, a computer designed to do nothing but keep information available on a network
 

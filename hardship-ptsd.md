@@ -14,7 +14,7 @@ The psychological term for PTSD is literally a **Disorder** of **Stress** from *
 1. Every person alive has suffered in a way that felt unfair.
 2. Every child and most adults are at least somewhat unaware of [effective mind management](mind-feelings-happiness-focus.md).
 
-We hold onto our past memories because we still believe we have a [purpose](purpose.md) for it, which only categorizes a few possible ways:
+We hold onto our memories because we still believe we have a [purpose](purpose.md) for it, which only categorizes a few possible ways:
 
 1. We must hold onto that information to deliver appropriate [justice](morality-justice.md). This must be [released](hardship-forgiveness.md) or it will destroy us.
 2. We must still [learn](education.md) from that information, since those events may affect future [decisions](mind-decisions.md) we must make.
@@ -36,7 +36,7 @@ Stress has a unique journey into our minds:
 1. When we [trust](mind-trust.md) that everything is fine, we don't feel any issues.
 2. At the moment we are [afraid](mind-feelings-fear.md) of the possibility of [a risk](safety.md) to something we [value](values.md), we feel stress.
 3. We can sometimes react to the fear to resolve the issue, but society typically [forbids](morality-taboo.md) it.
-4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](mind-awareness-meditation.md), venting to [friends](people-friends.md)).
+4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](mind-awareness-meditation.md), venting with [friends](people-friends.md)).
 5. When that doesn't happen, it slowly infiltrates into long-term [dysregulation](mind-awareness-dysregulation.md) that alter our [beliefs](understanding.md) (e.g., bitterness, depression).
 6. At that point, we aren't aware that those feelings drive what we do, and have become victims of our own trauma.
 
@@ -127,7 +127,7 @@ Sadly, most people will stay unaware and form a convoluted [cause](mind-imaginat
 
 After enough time with someone, the victim will usually blame specific things on specific people with little evidence. Because of its implications, they'll hold to their theory harder than [reality](reality.md) and, over time, will lose touch with it as a result.
 
-When the trauma is severe enough, that person will have *layers* of their persona to untangle. That person may shift from behaving like a 5-year-old to acting like a teenager, then to the reasoning skills of a baby. These shifts can span minutes, hours, days, or weeks.
+When the trauma is severe enough, that person will have *layers* of their persona to untangle. That person may shift from behaving like a 5-year-old to acting like a teenager, then to the reasoning skills of a baby. These shifts can happen in minutes, hours, days, or weeks.
 
 In particularly traumatic instances, the victim will wander in an alternate state of [identity](people-identity.md). Their past persona can be more thin-skinned, bitter, commanding, demanding, anxious, and ambitious than their present self. Taken far enough, it can split a personality entirely where the person can't even access [memories](mind-memory.md) from different states.
 

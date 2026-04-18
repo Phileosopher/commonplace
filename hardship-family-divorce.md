@@ -29,32 +29,47 @@ Every relationship with your family and friends will change:
 - [Your children](parenting-children.md) will endure the hardship of losing their parents for the rest of their lives.
 - Your family and friends will often be devastated by the news, and some will judge you negatively for it.
 
-If you have children in the situation, you *must* avoid mixing them further into it:
+## Try to avoid mixing your children into it
+
+If you have children in the situation, you *must* avoid mixing them further into it.
 
 - The older a child experiences parental separation, the harder they'll take it.
-- The situation is between you and your spouse, so explicitly and constantly clarify a few things:
-  1. It's not their fault in any way.
-  2. They can't do anything to fix it.
-  3. You (and their other parent, if applicable) still love them.
-- They'll likely cause more trouble in their reactions to the change, so scale back your discipline with them.
-  - Your divorce has at least partially eroded any authority you once had with them.
-  - They're very anxious and angry because you've destroyed the foundation for their entire existence.
-  - If they developmentally regress or lash out, they're often trying to recreate the "old" situation to get their other parent back.
-  - They must figure out their own healthy perspective of the world, but their minds aren't equipped to do it.
-- Most of their innocence will disappear by the time the divorce is settled, so be *completely* honest with them about *everything*.
-  - They can handle the truth, but [lies](people-lying.md) will destroy your relationship with them later.
-  - Even if you want to protect them or yourself, they will likely find out because their [feelings](mind-feelings.md) are more affected by it than you.
-- When changing custody with the other parent, symbolically associate the timing with a portion of the routine (such as after lunch), and *not* what the clock says.
-  - If interaction with your ex is particularly hostile, do it in a public place or outside a police station.
-- The more you can add new lifestyle elements, the easier they'll transition into a new way of life.
-  - Having a "substitute" father or mother (i.e., other family) can allay some of their anxieties, though it'll never be perfect.
-- If there was a ton of fighting before the divorce, some kids will actually see a divorce as a *relief*.
+
+The situation is between you and your spouse, so explicitly and constantly clarify a few things:
+
+1. It's not their fault in any way.
+2. They can't do anything to fix it.
+3. You (and their other parent, if applicable) still love them.
+
+They'll likely cause more trouble in their reactions to the change, so scale back your discipline with them.
+
+- Your divorce has at least partially eroded any authority you once had with them.
+- They're very anxious and angry because you've destroyed the foundation for their entire existence.
+- If they developmentally regress or lash out, they're often trying to recreate the "old" situation to get their other parent back.
+- They must figure out their own healthy perspective of the world, but their minds aren't equipped to do it.
+
+Most of their innocence will disappear by the time the divorce is settled, so be *completely* honest with them about *everything*.
+
+- They can handle the truth, but [lies](people-lying.md) will destroy your relationship with them later.
+- Even if you want to protect them or yourself, they will likely find out because their [feelings](mind-feelings.md) are more affected by it than you.
+
+When changing custody with the other parent, symbolically associate the timing with a portion of the routine (such as after lunch), and *not* what the clock says.
+
+- If interaction with your ex is particularly hostile, do it in a public place or outside a police station.
+
+The more you can add new lifestyle elements, the easier they'll transition into a new way of life.
+
+- Having a "substitute" father or mother (i.e., other family) can allay some of their anxieties, though it'll never be perfect.
+
+If there was a ton of fighting before the divorce, some kids will actually see a divorce as a *relief*.
+
+Learn gratitude for the time you *do* get with your children, especially since many custody arrangements can lead to [parental alienation](hardship-separation.md).
 
 ## Going to court
 
 The divorce process is already a drawn-out process that can take months to years, but it can go longer.
 
-- Fault divorces often have a shorter statute (e.g., 1 year), but no fault divorces can go for 2-4 years.
+- Fault divorces often have a shorter statute (e.g., 1 year), but no-fault divorces can go for 2-4 years.
 - Part of the [trauma](hardship-ptsd.md) of divorce comes in how our desire for [justice](morality-justice.md) is rarely satisfied in a timely manner.
 
 Ideally, you'll be able to settle an agreement with them.
@@ -101,7 +116,7 @@ Hang on and don't think much about what will happen:
 
 - The younger you are, the more your life will flip upside-down.
 - The dust will settle in the end, and that's when you can make sense of what happened.
-- 2/3 of children in divorces run across major issues in their life, even after 5--10 years, so take the issues as they come.
+- 2/3 of children in divorces run across major issues in their life, even after 5-10 years, so take the issues as they come.
 
 Don't worry too much about the new unspoken rules:
 

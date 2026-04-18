@@ -32,7 +32,7 @@ Stay mindful that *not* doing something is also a decision.
 
 ## 3a. If it's urgent, make the single most important, small decision possible
 
-The best approach in an pressured decision is to postpone the decision.
+The best approach in a pressured decision is to postpone the decision.
 
 Prepare to make a sacrifice to buy time.
 

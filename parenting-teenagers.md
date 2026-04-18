@@ -3,7 +3,7 @@
 
 Every parent struggles to adapt to the same changes within their children:
 
-1. [Parenting an infant or toddler](parenting-babies.md) requires micro-managing their entire day.
+1. [Parenting an infant or toddler](parenting-babies.md) requires micromanaging their entire day.
 2. The parents' roles [adapt to managing](parenting-2_children.md) a barely independent, unskilled child.
 3. At some point, the parents *must* release full control of their barely skilled child to the rest of the world.
 
@@ -45,8 +45,8 @@ They'll try to assert their independence:
 - Spanking, grounding, and taking away privileges usually won't work at all anymore.
 - The only discipline or correction you should *ever* give at this stage is over decisions with legitimately life-long consequences, the same way you'd treat an adult:
   - Defuse their rude behavior with a combination of humor and [emotional vulnerability](people-conflicts.md).
-  - There are no adverse lifetime consequences from getting drunk or trying most illegal recreational drugs.
-  - However, there *are* often permanent consequences from inhaling paint, a sex change, or committing suicide.
+  - There are no adverse lifetime consequences of getting drunk or trying most illegal recreational drugs.
+  - However, there *are* often permanent consequences of inhaling paint, a sex change, or committing suicide.
 
 Instead of managing details, give them general expectations:
 
@@ -86,6 +86,16 @@ To maintain their innocence, inform them as much as possible about *everything* 
 - They should know about sex and sexuality, including consequences for actions as well as why people still do it.
 - Make them aware of the types of recreational drugs, how they feel, and their long-term effects on [career](jobs-1_why.md) and [happiness](mind-feelings-happiness.md).
 
+Your daughter should understand they're the judge of [the man they want to be with](relationships-marriage.md).
+
+- Most girls grow up believing that they're a prize to be won.
+- To judge this, inform them they should ask whether that person brings value to her life or simply makes her feel good.
+- That value should come in 3 domains:
+  1. He sharpens her.
+  2. He provokes her to become a better person and not simply stay comfortable.
+  3. He has a clear direction for his future and not simply feelings about his present.
+- This is critical for women to figure out because [family](people-family.md) magnifies or fractionalizes everything later in life.
+
 You can't stop them from experiencing what they want:
 
 - Your adult child can fully explore every risk and danger, but a teenager is still legally under your care.
@@ -93,7 +103,7 @@ You can't stop them from experiencing what they want:
   - Often, trying to stop them will motivate to explore bad lifestyle decisions *more*.
 - Expose them to alcohol and legal drugs in the safety of your home.
 - They will consume whatever media they want, no matter how you lock it down.
-- Get rid of curfew, but clarify hours where they can't enter or leave the house.
+- Get rid of curfew, but clarify hours when they can't enter or leave the house.
   - e.g., they can stay out past 10 p.m., but can't come in until at least 7 a.m.
 - They'll likely become [addicted](addiction-substances.md) to social media or electronic games, but the only thing you can do is hold them to requirements in their environment (e.g., chores).
 - Give them complete freedom to explore (especially if the adverse consequences of an action aren't permanent), and constantly affirm your love for them.
@@ -188,7 +198,7 @@ They will rise to the expectations you place on them:
 
 - If you expect them to do nothing, they will have no reason to do anything.
 - To the degree they know they can succeed by *their* [definition of success](success-1_why.md), they will try to succeed.
-- Some civilized societies treats teenagers as incompetent, so they will often underachieve as a result.
+- Some civilized societies treat teenagers as incompetent, so they will often underachieve as a result.
 
 ## They may sever ties with you
 

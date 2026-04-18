@@ -1,6 +1,11 @@
 
 # How to draft emails and text messages
 
+Never send or post anything while [angry](mind-feelings-anger.md).
+
+- You can tell you're angry or [afraid](mind-feelings-fear.md) if you believe you *must* immediately say something to a complete stranger on a public forum.
+- Take at least a few minutes after drafting a message before sending it, and at least a few hours for a public post.
+
 For many, email is the most ubiquitous form of communication.
 
 Brevity, while important in other writing, is critical in email:
@@ -18,7 +23,7 @@ Avoid crucial mistakes:
 Closely consider who should be on the "To", "Cc", and "Bcc" lines when selecting "Reply All":
 
 - "To" recipients should respond in some way.
-- "carbon copy" recipients don't need to do anything, but they should be informed of your message.
+- "Carbon copy" recipients don't need to do anything, but they should be informed of your message.
 - "Blind carbon copy" is only useful to privately send a copy of a message to someone without anyone else knowing.
 
 You can avoid many emails with a quick phone call or off-hand remark at a meeting.

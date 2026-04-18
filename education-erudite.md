@@ -43,7 +43,7 @@ Philosophy
   - Almost everything by Socrates is a good start into philosophy.
   - Aristotle's "Metaphysics"
 - Modern
-  - Rene Descartes' "Meditations on First Philosophy"
+  - René Descartes' "Meditations on First Philosophy"
   - Wikipedia summaries of modern philosophers, since random fans of the philosophy do a better job summarizing any sufficiently usable ideas than the philosophers themselves.
 
 Religion

@@ -56,6 +56,23 @@ Getting yourself organized can take days, weeks, or even months.
 
 Organization requires getting a feel for everything you possess and defining how each object is useful to you.
 
+As a general rule, aim for usage, then absolutes, then context.
+
+1. Usage: how you plan to use the things in the foreseeable future.
+   - Everything is either a tool, a supply, or a decoration:
+     - Keep tools if you have a potential practical use for it, but that tool is merely a decoration if it's not on display.
+     - You *must* have a use for a supply, or it's better to give it away to [someone who will need it more](people-love.md).
+     - Decorations must be on display, or they're supplies.
+   - If you don't know, then that's a separate category of "unknown".
+2. Absolutes: precise information that doesn't change (LATCH):
+   - Location
+   - Alphanumeric
+   - Time/date
+   - Category: grouped by how you think things should be divided up
+   - Hierarchy: effectively, categories inside categories
+3. Context: specific things relative to that same category
+   - Disorganization spreads in proportion to how large the context becomes.
+
 ## Prepare to organize
 
 Keep a notepad with you:
@@ -83,14 +100,6 @@ To give enough room, your workspace should be triple the surface area of the reg
 ## Predict where everything will go
 
 Your categorization system should be accessible, easy to maintain, and can scale to your possible needs.
-
-Get a feel for what general categorization you want (LATCH):
-
-1. Location
-2. Alphanumeric
-3. Time/date
-4. Category - grouped by how you think things should be divided up
-5. Hierarchy - effectively, categories inside categories
 
 If you have *many* things, consider the [Johnny.Decimal system](https://johnnydecimal.com/):
 
@@ -120,6 +129,7 @@ Consider downsizing by removing unnecessary components:
 Start with a small Zone, then work up to larger projects:
 
 - You'll work through smaller areas quickly and will build confidence for larger areas.
+- To more easily track progress, focus on fully completing fewer spaces than on partially completing many.
 
 Pull everything out of that area:
 
@@ -132,8 +142,9 @@ As you go, pile each item into 2-5 groups:
 1. Goes back where you took it from.
    - This will be the "final" location for it.
    - Anything that's in that section will be part of a larger "unit".
-2. Goes to a nearby area you've cleared.
+2. Goes somewhere you've cleared.
    - The item itself is clearly organized, but you don't have a fixed place for it yet.
+   - When it's more than one item, The most efficient way to do this is by loading a container with things that go to other places.
 3. Goes to a nearby area you haven't organized yet.
    - You're kicking the organization of that thing into the future when you get to it.
 4. Gets sold or given away to someone you know.
@@ -147,13 +158,12 @@ In each section, sort items by their use:
 2. Seasonal or rarely used items go in the far top, back or bottom.
 3. Similar items go together, with one of them possibly in a more convenient spot.
 
-Everything is either a tool, a supply, or a decoration:
-
-- Keep tools if you have a potential practical use for it, but that tool is merely a decoration if it's not on display.
-- You *must* have a use for a supply, or it's better to give it away to [someone who will need it more](people-love.md).
-- Decorations must be on display, or they're supplies.
-
 Unless you have a designated place for items, don't put them away exactly where you took them out, since they need to go with something else.
+
+In complex situations, you will typically have to go through several passes.
+
+- Above about 100 elements, you'll always move faster by broadly subdividing things first before making a final decision.
+- Keep reorganizing everything until you feel comfortable with that level of organization.
 
 ## Stay rational
 
@@ -231,7 +241,7 @@ Downsizing clothes:
 Making closet space:
 
 - Hanging:
-  - Hang more clothes by offsetting them with soda can tabs.
+  - Hang more clothes by offsetting them with soft drink can tabs.
   - Hang scarves and belts by linking shower curtain rings over a hanger.
   - To hang sensitive garments, tape a pool noodle or secure clothespins over a hanger.
   - To keep collars stiff, line them with a belt.
@@ -287,7 +297,7 @@ Filing cabinets and paperwork:
 - Your system should mean each document can only be in one location.
 - You can get rid of most of your documents with a flatbed scanner and either an external hard drive or free [cloud](computers-distsys-cloud.md) drive account.
 - Shred or burn obsolete documents when they have information you wouldn't want a stranger to know.
-  - You can usually shred most things after 7--10 years.
+  - You can usually shred most things after 7-10 years.
   - If you're at all uneasy about old documents, scan before shredding.
 - Make a filing system to streamline how you manage paperwork:
   1. Action files with tasks connected to it

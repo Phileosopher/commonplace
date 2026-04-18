@@ -3,7 +3,7 @@
 
 In many ways, a good memory is the foundation for all wellness:
 
-- Good memories allows us to fully absorb and understand ideas, which is critical for us to [connect concepts](mind-creativity.md).
+- Good memories allow us to fully absorb and understand ideas, which is critical for us to [connect concepts](mind-creativity.md).
 - A reliable memory is not only necessary for [success](success-1_why.md), it also makes us [happier](mind-feelings-happiness.md).
 - Like [weight management](body-why.md), memory can be trained, and high-powered memory competitions (e.g., trivia, quizzes) are people with normal brains who worked hard to build mnemonics.
 - All aspects of [understanding and learning](understanding.md) are connected with a good memory.
@@ -41,7 +41,7 @@ A. Encoding:
 
 B. Storage:
 
-1. Hold the information in short-term memory for 15--30 seconds.
+1. Hold the information in short-term memory for 15-30 seconds.
 2. Move everything that's deemed essential in some way for the future to long-term memory.
 3. The memory is associated and linked with other experiences and memories.
 
@@ -155,6 +155,14 @@ Focus on smaller chunks of information as you observe:
   - 842
   - 052
   - 731
+
+One advanced form of encoding that many intelligent people use requires a certain type of [emotional](mind-feelings.md) distance mixed with raw consuming speed.
+
+- Essentially, by contextually flashing through the elements quickly, the brain doesn't have any time to create emotional associations.
+- However, this requires practice, and often is a symptom of [PTSD](hardship-ptsd.md) "flashbulb memory" being reused for a productive purpose.
+- The retention can be very high, but often requires [meditation](mind-awareness-meditation.md) or [decompression](fun.md) to allow for recollection.
+- It is also very dangerous to overuse, and is probably a contributor or adjacent issue for [many forms of neurodivergence](mind-neurodivergence.md).
+- It also strips any natural [meaning](meaning.md) from the associations which would naturally occur through learning the information over a longer time interval.
 
 Incorporate as many senses into the experience as possible:
 

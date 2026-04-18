@@ -31,6 +31,12 @@ When pushed to it, they will do everything possible to avoid admitting fault:
 7. "If I chose to do it without coercion, the victims were asking for it."
 8. "If I have no excuse, everyone has done wrong here."
 
+The easiest way to detect this is in how unreliable they'll use their pronouns.
+
+- First, pay close attention to whether that person uses "I" or "they" words.
+- Then, ask for clarification about any "I" words that may make them seem culpable.
+- If they're a narcissist, they'll swap the culpable action to a "they" statement, and will often swap a magnanimous "they" statement to "I" in the process.
+
 They will tend to escalate [conflicts](people-conflicts.md) from simple disagreement into arguments *much* faster than most other people.
 
 - To earn admiration, they'll behave kind, humble, and spiritual.
@@ -95,6 +101,11 @@ If you do *any* of the following, they will absolutely seek to destroy you at so
 
 Don't bother arguing with them.
 
+- They design the surrounding chaos to provoke a specific reaction from others (JADE):
+  - Justify: if you're justifying yourself, nobody is paying attention to the narcissist.
+  - Argue: if you're arguing, a narcissist can draw all attention to you.
+  - Defend: when you're defending, you're not attacking them.
+  - Explain: you're giving more information for them to use against you.
 - Most people argue to prove a point, but they're simply maintaining their narcissistic supply.
 - Ask them why they are so uncomfortable with having a different perspective.
 - The quickest way to defuse every conflict, however, is to say "I accept that's how you feel".
@@ -103,7 +114,7 @@ Don't bother arguing with them.
 
 - The only "love" they understand is others making disproportionate sacrifices for them relative to the sacrifices they make for others.
 - This mindset also means they find legitimate human connection with others a waste of time.
-  - They will also resent gentler [feelings](mind-feelings.md) than resentment and anger, such as joy or sadness.
+  - They will also hate others' expression of gentler [feelings](mind-feelings.md) than resentment and anger, such as joy or sadness.
 
 While it isn't "nice", handling a narcissist requires a very specific approach:
 
@@ -137,4 +148,10 @@ After their discard, expect them to spread falsehoods about you.
 - If they're not willing to hear your side of the story, they have been susceptible to narcissistic abuse themselves.
   - Others' judgment of you is their [moral hazard](morality.md).
   - Some mutual friends will come back around later if they're worth your time.
-  - Some of the friends you lose [are *also* narcissists](people-friends-bad.md), which can be a good thing in disguise.
+  - Some friends you lose [are *also* Cluster B](people-friends-bad.md), which can be a good thing in disguise.
+
+It's worth noting that you *can* behave like a psychopath to them.
+
+- Their ego is weak enough that they'll be terrified of you.
+- However, this is highly risky, since they will use anything you do against you.
+- Further, while it may be satisfying in the short-term, it is a very [legally unsafe](legal-safety.md) thing to do.

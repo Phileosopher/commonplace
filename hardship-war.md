@@ -51,7 +51,7 @@ Pay attention to anyone behaving strangely, and report them to the authorities i
 ## Nuclear bomb
 
 1. You'll have some warning, so get to shelter.
-   - Most people will die within 1--10 miles of the explosion from the blast wave and intense heat.
+   - Most people will die within 1-10 miles of the explosion from the blast wave and intense heat.
    - Ducking below cover after seeing a flash of light could save your life.
 2. Find the lowest, most interior room in a building with no windows (like a closet or bathroom)
 3. After the blast, seek the lowest shelter you can, such as a basement or underground floor of a building.
@@ -59,7 +59,7 @@ Pay attention to anyone behaving strangely, and report them to the authorities i
    - You don't need lead, and mattresses and bulky furniture should be fine.
    - Fallout is a legitimate threat, but it tends to be overstated.
    - Nuclear power plant meltdowns and the ground burst give *way* more fallout.
-   - Fallout isotope radioactivity drops to 1/10 within 6--8 hours, decreases to 1/100 within 2 days, and is likely safe to venture out after a week or two.
+   - Fallout isotope radioactivity drops to 1/10 within 6-8 hours, decreases to 1/100 within 2 days, and is likely safe to venture out after a week or two.
 4. When you do go outside:
    - Keep the trips short.
    - Wear disposable coveralls.

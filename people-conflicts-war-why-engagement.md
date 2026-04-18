@@ -19,7 +19,7 @@ But, there are a few universal aspects irrespective of size or context:
 
 - The lowest-ranking members, unrelated groups, and bystanders are *always* the most harmed. Most of the leadership are using others' power, but tend to [care](people-love.md) more about the [power](power.md) they wield and who they're destroying than any concern over their own [members](groups-member.md).
 - If the leaders are [unscrupulous](morality-evil.md), they'll attack their opponents' [symbolic](symbols.md) treasures. By damaging symbols, they damage their opponents' [cultural values](people-culture.md). Depending on the culture, this will sometimes provoke their [desire](purpose.md) for [vengeance](hardship-ptsd.md), but the long-term consequence of this is that the culture is diluted or dismantled.
-- If a group starts losing, the [loyalty](mind-trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](people-rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
+- If a group starts losing, the [loyalty](mind-trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their lives for any purpose they want (and are more easily dissuaded from their [duties](people-rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
 - The members' loyalty determines how much the entire endeavor can advance forward purely to satisfy the [ego](humanity.md) of the attacking leadership. This can only persist, however, as long as those members can advance their own self-interest as well.
 - The methods that any groups will even *think* of tie very closely to the group's long-term interests:
   - Nuclear warfare obliterates *everything* (land, possessions, [human labor](results.md), [human skills](understanding.md)), so it's only a last-ditch effort as a means to survive.
@@ -52,7 +52,7 @@ When that group is significantly smaller, their only reliable tactics come throu
 
 Often, the smaller group will try to gain support from another group or increase their members. They'll [show stories](stories-storytellers.md) of suffering, destruction, oppression, and devastation, from the larger group and will usually portray themselves as [innocent](morality-justice.md) [victims](hardship-ptsd.md). Sometimes, they'll merely appeal to [morality](morality.md).
 
-Their victory will [appear](people-image-why.md) decisive and usually is, though the smaller group has a slim chance of winning if they have at least a specific resources:
+Their victory will [appear](people-image-why.md) decisive and usually is, though the smaller group has a slim chance of winning with a few specific resources:
 
 - A superior tactician to the larger group who can more efficiently use everything.
 - Superior [technology](technology.md) to the larger group that magnifies group members' combat effectiveness.
@@ -80,7 +80,7 @@ A close battle between two [large groups](groups-large.md) quickly becomes extre
 - Military and communications [technology](technology.md) developments.
 - Recruiting *any* other groups. This can include pretty much anyone who sympathizes with the battling group, and can be public or private.
 - [Manipulating their image](people-image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](mind-decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](understanding-certainty.md).
-- Most war strategies involve cutting off resources from their opponent. This can include core needs (e.g., food, water), military supplies (e.g., guns, ammunition), or communications technology. At the farthest, a group can destroy its *own* supplies so the enemy doesn't receive it (scorched earth policy).
+- Most war strategies involve cutting off resources from their opponent. This can include core needs (e.g., food, water), military supplies (e.g., guns, ammunition), or communications technology. At the farthest, a group can destroy its *own* supplies to prevent the enemy from acquiring it (scorched earth policy).
   - Each unit, squadron, battalion, and legion must be as self-reliant as possible to ensure they're safe from any disruptions.
 - Diplomatically ending any further conflict is the greatest net win for everyone, but it's not always in the interests of a group that's significantly more powerful.
 

@@ -37,7 +37,7 @@ One noteworthy and potentially controversial view is that BPD is the same thing 
 
 Their shattered ego means their mind has trouble with articulately maintaining [memory](mind-memory.md) related to strong adverse feelings towards themselves.
 
-- This yields legitimate delusions about events and circumstances that happened.
+- This wobbly mental state yields legitimate delusions about actual events and circumstances.
 - To function in society, they tend to find social roles that are either vastly within their range of talent (so they can be near-immaculate at something) or requires maintaining constant [uncertainty](understanding-certainty.md) (which permits them to conveniently redefine their story as they need).
 
 Since they have a shaky value system, they will often have trouble with a few specific things:

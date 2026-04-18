@@ -129,7 +129,7 @@ Host affordable events with family and friends:
 - Start a neighborhood block party.
 - Have video game nights.
 - Hold Scrabble competitions.
-- Have LEGO nights with children.
+- LEGO nights with children.
 
 When your friends or family make much more or less than you, search for activities you can both do.
 

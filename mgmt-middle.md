@@ -38,7 +38,7 @@ When individual contributions are easy to determine or completely irrelevant, a 
 
 ## High above
 
-No matter how human you are, and no matter how well you [craft your image](people-image-why.md), your public presence over an organization of several thousand people is *guaranteed* to have at least a few ugly marks on it.
+No matter how human you are, and no matter how well you [craft your image](people-image-why.md), your public presence over a multi-thousand organization is *guaranteed* to have at least a few scandals.
 
 - Learn to [integrate your shadow](people-personality.md) and humbly understand your place in the hierarchy.
 - Being an executive is a bit like being a monarch, where everyone imagines they can do it better but don't realize the stress and limitations required within the role.

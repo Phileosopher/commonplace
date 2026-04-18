@@ -50,7 +50,7 @@ Clean vegetables by sprinkling baking soda in water, soaking them, then rinsing.
 
 Add vinegar when boiling vegetables to retain their colors.
 
-If you're making more vegetables than you can eat in one sitting, slightly undercook them so they don't get soft when reheating
+If you're making more vegetables than you can eat in one sitting, slightly undercook them to prevent them getting soft when reheating
 
 Peel potatoes easily:
 

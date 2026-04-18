@@ -13,7 +13,7 @@ It's composed of 3 major elements:
 
 1. Containers - wraps the grid system, big boxes to hold stuff
    - `<div class="container">`
-   - The containers also have templates: container-fluid, container-lg, etc
+   - The containers also have templates: container-fluid, container-lg, etc.
 2. Rows - vertically parses the containers, nested inside "container"
    - `<div class="row">`
 3. Columns - horizontally parses the rows, nested inside "row"
@@ -35,7 +35,7 @@ It uses the CSS flexbox standard (W3C compliant)
 The columns can be configured
 
 - uses 12 hardcoded column sizes
-  - the elements can span that length:
+  - the elements can "span" across that length:
     - "col-2" = 1/6 of the row
     - "col-6" = 1/2 of the row
   - if there isn't enough space, the columns will just fill whatever space remaining possible
@@ -115,11 +115,11 @@ Floating labels are where there's a label inside the text box, which then become
 1. there must be an "input", then a "label" HTML tag
 2. the "input" needs a "placeholder" of whatever text you want for a digital reader (doesn't express in most use cases)
 3. wrap the entire "input" and "label" tags inside a div with "form-floating" class
-   - you can even remove the "form-label" class from the "input" tag and it'll still work fine
+   - it'll still work fine if you remove the "form-label" class from the "input" tag
 
 There are other visuals for form validation
 
-1. add "novalidate" to the form HTML tag
+1. add "novalidate" to the form's HTML tag
    - this will make "required" handles fail
 2. paste the following into a "script" HTML tag later:
 
@@ -159,9 +159,9 @@ There are a LOT of components, far too many to count
 Buttons
 
 - class "btn"
-- can be btn-primary, btn-danger etc
+- can be btn-primary, btn-danger, etc.
 - can have an anchor tag (i.e., hyperlink) styled like a button
-  - can add "disabled" tag to disable the anchor tag (will also need to remove the "href" handle or it'll still work)
+  - can add "disabled" tag to disable the anchor tag (must also remove the "href" handle, or it'll stay active)
 - btn-link makes a button look like a hyperlink
 - can be resized with btn-sm, btn-lg
 - adding data-bs-toggle="button" allows toggling of the button's state (a JavaScript-controlled condition)
@@ -194,7 +194,7 @@ Cards
 
 Modals
 
-- a visual overlay that sits atop everything else
+- A visual overlay that sits atop everything else
   - almost everything else (buttons, h1, p, etc.) can be added inside the modal
   - NOTE: FOR UX REASONS USE THIS ONE SPARINGLY!!
 - 3 nested div classes:
@@ -204,10 +204,10 @@ Modals
      - can add modal-sm, modal-lg, modal-xl, modal-fullscreen, etc.
        - can also add more breakpoints (e.g., modal-fullscreen-md-down will make it fullscreen from medium-sized downward)
   3. "modal-content"
-- button sits above the modal with data-bs-toggle="modal" and data-bs-target="#(the modal's id)" to link it
+- Button sits above the modal with data-bs-toggle="modal" and data-bs-target="#(the modal's id)" to link it
 - IMPORTANT: add a button inside the modal with data-bs-dismiss="modal" and data-bs-target="#(the modal's id)" to dismiss the modal
-- can add fade class to make it nicer
-- can demarcate modal-header, modal-body, modal-footer
+- Can add fade class to make it nicer
+- Can demarcate modal-header, modal-body, modal-footer
 
 [LEFT OFF AT 51:54](https://www.youtube.com/watch?v=Jyvffr3aCp0)
 

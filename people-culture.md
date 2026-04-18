@@ -14,7 +14,7 @@ Despite our differences, people want approximately the [same abstracted things](
 - [Connect](people-friends-why.md) consistently with friends and family.
 - Generally, within reason, do whatever they [feel](mind-feelings.md) like.
 
-While these things are the some, some methods won out the majority of a group's approval to achieve the [purposes](purpose.md) they were striving for, so it became the [standard](standards.md).
+[The abstractions are the same](https://gainedin.site/abstractions/), but some methods won out the majority of a group's approval to achieve the [purposes](purpose.md) they were striving for, so it became the [standard](standards.md).
 
 APPLICATION: *Everything* we do [habitually](habits.md) with others is a cultural thing. The original [purpose](purpose.md) for many things was certainly [sensible](logic.md) when it started, but it often shifts away from [usefulness](results.md) with new [social trends](people-trends.md) and [technological development](technology.md).
 
@@ -123,7 +123,7 @@ Anytime someone encounters someone else from a different culture (and sometimes 
 
 If the younger members of a culture are significantly different enough from the older members (often from them heavily [adopting trends](people-trends.md), and often through major [technological leaps](technology.md) across generations), there will be dramatic changes within a culture that will permanently shift a culture.
 
-The leadership will dictate where the changes go. If the leadership is particularly weak, the younger people will define the *entire* cultural revolution, and the traditions of the past will be lost. If the leadership is strong and [charismatic](influence.md), they will either inspire the younger people to harmonize their values with the older ways. However, a strong and harsh leader will inspire [discord and division](people-conflicts-war-why.md).
+The leadership will dictate where the changes go. If the leadership is particularly weak, the younger people will define the *entire* culture's revolution, and the traditions of the past will be lost. If the leadership is strong and [charismatic](influence.md), they will either inspire the younger people to harmonize their values with the older ways. However, a strong and harsh leader will inspire [discord and division](people-conflicts-war-why.md).
 
 In the mix of the deconstruction, a culture can suffer severe "anomie" (normlessness). While the younger people may find unlimited possibility in it, it can easily create a crisis of [meaninglessness](meaning.md) and a general feeling of [instability](unknown.md). The only solution is to institute new [rituals](habits.md) that everyone can agree to, which will likely be a [creative re-imagining](mind-creativity.md) of older rituals.
 

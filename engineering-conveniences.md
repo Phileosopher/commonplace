@@ -109,7 +109,7 @@ Mobile telephone (1917)
 
 Supply chain management (~1940s)
 
-- Anything that can be mass-produced by some people becomes accessible to everyone.
+- Everyone can now access long-distance, mass-produced goods.
 
 Lasers (1960)
 

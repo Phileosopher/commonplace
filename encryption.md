@@ -40,11 +40,11 @@ The first enciphered messages were from a few thousand years ago. Up until compu
   - The Caesar cipher is relatively simple: shift the letter a certain number of letters down in the alphabet (e.g., the letter "a" becomes "e" with a shift of 4).
   - This had been used widely for hundreds of years until frequency analysis completely decimated them.
   - Frequency analysis requires simply finding highly frequent letters (e.g., "e" is frequent, so many instances of "z" will likely represent "e").
-  - ROT13 ([rotate 13 characters](https://rot13.com/)) was an early cryptographic element of the early internet in the 1990's.
+  - ROT13 ([rotate 13 characters](https://rot13.com/)) was an early cryptographic element of the early internet in the 1990s.
 
 The Enigma Machine in 1925 was a very early computer designed for decrypting German military messages, and a key part of the history of [the computer's development](computers.md).
 
-Data Encryption Standard (DES) was made in 1975 by the NSA. It had a key of 56 bits, and some of its design with the small key size left academics concerned. Apparently, the NSA had designed it to have a backdoor via the short number of bits, but they claimed it was a smaller cipher so they could break it by brute force attack. The critical response to DES was a driving force for many modern industry encryption standards.
+Data Encryption Standard (DES) was made in 1975 by the NSA. It had a key of 56 bits, and some of its design with the small key size left academics concerned. Apparently, the NSA had designed it with a backdoor via the short number of bits, but they claimed it was a smaller cipher to break it by brute force attack. The critical response to DES was a driving force for many modern industry encryption standards.
 
 ## Philosophy
 
@@ -96,7 +96,7 @@ However, computers can use several possible types of encryption systems:
 
 These "ciphers" can be mixed and matched to create hybrid ciphers.
 
-## Popular Cyphers
+## Popular Ciphers
 
 Some encryption can be cracked and "reverse engineered", but others are nearly unbeatable. Ciphers have been frequently compromised, so new ones must replace them with extra degrees of complexity.
 
@@ -132,7 +132,7 @@ There are different attack models for defending against a cryptanalysis. One of 
 
 There are a variety of different cryptography attacks:
 
-- A meet-in-the-middle (MITM) attacks is a generic attack that invalidates running a cryptographic message through multiple keys. What this does is map how plaintext converts to ciphertext, as well as how ciphertext converts to plaintext, which makes it *meet* in the middle where the two intersect.
+- A meet-in-the-middle (MITM) attacks is a generic attack that invalidates running a cryptographic message through multiple keys. It maps how plaintext converts to ciphertext, as well as how ciphertext converts to plaintext, which makes it *meet* in the middle where the two intersect.
 - A related-key attack will use a known mathematical relationship to certain elements to infer other elements. [The birthday paradox](math-stat.md), in particular, has meant that block sizes must be at least 128 bits and why wireless doesn't use WEP encryption anymore.
 - Collision attacks (aka hash collision) involve trying to find two inputs that produce the same hash value. This is often done with dictionary attacks (by running through all the possible human-readable words that could make the message). Collision resistance can help against this, but the ever-increasing speed of computers makes it a never-ending challenge.
 - Preimage attacks are like collision attacks, but will try to find the message by inputting a specific hash value (further downstream than inputting the message). This is most effectively done with a brute force attack.

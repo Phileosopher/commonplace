@@ -79,7 +79,7 @@ Generally, individual works made after 1923 expire:
 - 70 years from the first publishing or public appearance (if made in 2000, public domain in 2070)
 - If not published or made public, the end of the author's year of death
 
-Corporate works are the earlier of:
+Corporate works use the earlier date of:
 
 - 95 years from publication or publishing (if published in 2000, public domain 2096)
 - 120 years from authorship (if written in 2000, public domain 2120)

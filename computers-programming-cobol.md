@@ -3,7 +3,7 @@
 
 One of the oldest languages alongside FORTRAN, Lisp and ALGOL, created in 1959.
 
-The language processes information *fast*, which is why most financial transactions (about 70%) are *still* written in COBOL.
+The language processes information *fast*, which is why about 70% of financial transactions are *still* written in COBOL.
 
 Syntax for COBOL is designed to be human-readable code, as opposed to the mathematically-based language of the time. Most languages have done more and better since then.
 

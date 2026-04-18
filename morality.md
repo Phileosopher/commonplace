@@ -5,6 +5,10 @@ Morals are actions that prioritize serving [individual beings](humanity.md) and 
 
 Philosophers love to talk independently about the "good", the "[beautiful](values-quality.md)", and the "[true](reality.md)", but both beautiful and true things have absolutely no value whatsoever without goodness.
 
+However, the definition of "good" is vague. There are 6 very different dictionary definitions for the word that can only universally be "not bad things".
+
+It is safe to say that no human being can be called universally good. When we say someone is "good", we usually mean they are *generally* good.
+
 Morality comes from "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md). When implemented with more clear [logic](logic.md), mores becomes [laws](people-rules.md).
 
 ## Context
@@ -16,9 +20,9 @@ Moral decisions are *always* a connection between several elements:
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
-6. Authority - anyone [observing](people-image-why.md) or [imagining](mind-imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
+6. Authority - any [observers](people-image-why.md) or others [imagining](mind-imagination.md) the [experience](stories-why.md), as well as any standard of [rules](people-rules.md) that dictate which of the above are most important.
 
-Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it generally removes the consequences from the calculation.
+Since moral decisions have at least those six moving parts, they're always complicated, though [principle-based](values.md) morality is generally simpler because it removes the consequences of the context.
 
 APPLICATION: The moral hazard of a person is proportional to their [power](power-types.md), which means intelligent, wealthy, strong, and [influential](power-infleunce.md) people are far more capable and responsible for both [sin](theology-sins.md) and [virtue](morality-virtue.md).
 
@@ -65,7 +69,7 @@ In practice, most people want moral relativism to justify their views as a type 
 
 We must [learn](understanding.md) virtue because [thinking about others](people-friends-why.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
 
-[A virtue](morality-virtues.md is a trained [habit](habits.md) of making [decisions](mind-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
+[A virtue](morality-virtues.md) is a trained [habit](habits.md) of making [decisions](mind-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
 Without [love for others](people-love.md), *any* principle by itself will veer into excess, typically expressed as either harshness or [paternalism](politics-leftism.md).
 

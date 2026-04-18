@@ -84,7 +84,7 @@ Use oxygenated water:
 Get a heating element:
 
 - Electric water kettles are quicker than a stove top or microwave to heat water.
-- If you're microwaving pure water, set a toothpick in it or it'll overheat instead of boil.
+- If you're microwaving pure water, set a toothpick in it. Otherwise, it'll overheat instead of boil.
 
 Use a good teapot:
 
@@ -129,11 +129,11 @@ D. Add tea to the teapot:
 E. Add the water back in and steep:
 
 - The longer your tea steeps, the bitterer and stronger it becomes.
-  - Green: 1--3 minutes
-  - Oolong: 1--9 minutes
-  - Black: 3--5 minutes
-  - Herbal: 5--7 minutes
-  - White: 4--15 minutes
+  - Green: 1-3 minutes
+  - Oolong: 1-9 minutes
+  - Black: 3-5 minutes
+  - Herbal: 5-7 minutes
+  - White: 4-15 minutes
 - Tea needs room to spread out.
   - The water needs to circulate through the leaves.
   - Infusers and tea bags impede the steeping process.

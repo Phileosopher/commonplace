@@ -103,8 +103,9 @@ While it will vary by industry and type of work, requests for status updates sho
 When you must be *constantly* present, work alongside them.
 
 - Besides constantly observing them, working alongside them will set an example and typically [boosts their morale](mgmt-6_morale.md).
-- Maintain the the humility to accept that your [specialization](jobs-specialization.md) as a manager makes you worse at the actual tasks than them.
-  - Even when you've done their job for *decades*, you haven't kept the skills as sharp as them, and you're older, meaning they have more energy to do the work than you.
+- Maintain the humility to accept that your [specialization](jobs-specialization.md) as a manager makes you worse at the workers' actual tasks.
+  - Even when you've done their job for *decades*, you haven't kept the skills as sharp as them.
+  - Further, if you're older, they have more energy to do the work than you.
 
 While an open-office environment is easy to track workers, it has repeatedly been proven to cause more [stress](mind-feelings-happiness-stress.md), [conflicts](people-conflicts.md), and [employee turnover](jobs-1_why.md).
 
@@ -133,14 +134,14 @@ However, be careful with publicly sharing pay bonuses if everyone else didn't ha
 If you trust anyone, feel free to give them more responsibilities.
 
 - Politely ask "can you help me with something?", then give them silence for them to respond.
-- If you find them particularly capable and they like the work, you should be informally training them to do *your* job someday.
+- If they are particularly capable and like the work, you should be informally training them to do *your* job someday.
 
 When you have idle workers, you have several options:
 
 1. Prevent *all* idleness by giving them something to do (e.g., restocking, cleaning).
    - It makes more financial sense, but comes with the risk of dissatisfaction or burnout.
    - Over time, it'll magnify turnover, then foster a culture of hard-working and potentially workaholic people.
-   - If you prefer it, provoke the workers to leave the worksite so the boundaries are clearly defined (i.e., it's a work site, so they should enjoy the rest of their life elsewhere).
+   - If you prefer it, provoke the workers to leave the worksite, which clearly defines boundaries (i.e., it's a work site, so they should enjoy the rest of their life elsewhere).
 2. Re-balance the idle workers to be prepared for future spikes in workload (e.g., stand at attention).
    - It makes more social sense, but isn't the most efficient financial approach.
    - It's the best all-around solution for morale if the incoming workload vacillates.
@@ -221,7 +222,7 @@ After the project is finished, assign people to the project's continuity plan.
   - People who want to maintain projects clearly [believe](understanding-certainty.md) in it, so they'll do a better job than someone else who is highly skilled person but doesn't care.
   - [Maintenance](https://adequate.life/fix/) is typically easier than [creating](creations.md), so you won't need the best workers for it, and the creators are the most familiar with the project.
 
-Anticipate anyone assigned to maintaining that project to be a little bit less productive on future projects (~5-25% less).
+Anticipate anyone assigned to maintaining that project to be a bit less productive on future projects (~5-25% less).
 
 - If you need more effort toward a new project, consider *other* older projects you can close down.
 - If multiple past projects may interfere with future projects, group them all together as a "project cleanup" project that will streamline, simplify, or retire them.

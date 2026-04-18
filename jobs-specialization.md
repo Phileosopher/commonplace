@@ -84,7 +84,7 @@ As specializations grow, they eventually create a separate [social class](classe
 
 Further, the beginnings of all [bad systems](mgmt-badsystems.md) start when managers start talking with managers instead of actually competent people. It frames a [culture](people-culture.md) without as clear of a [purpose](purpose.md), which becomes more opaque as more layers of communication mix into the dynamic.
 
-APPLICATION: There will always be an less competent group of managers above every legitimate large-scale activity. Eventually, time will [age](maturity.md) everyone to either stop the work altogether, or to assume that management role.
+APPLICATION: There will always be a less competent group of managers above every legitimate large-scale activity. Eventually, time will [age](maturity.md) everyone to either stop the work altogether, or to assume that management role.
 
 ## Settling together
 
@@ -130,8 +130,32 @@ Naturally, as groups grow, they become towns, that slowly become [cities](politi
 
 APPLICATION: Civilization means more people. Follow where the streets get quieter to find the "natural" state of a region, then keep going until you're far away from the city center to find an entirely different [culture](people-culture.md).
 
+Over time, the cities themselves will select a subset of its population through collective [economic](money-economics.md) decisions. This will drive others out of a region to find opportunities that more fit their [personality](people-personality.md).
+
+APPLICATION: The reason [cities are liberal and the countryside is conservative](politics-conservativeliberal.md) is because the economics of specialization require the people to dispose themselves toward a specific range of political opinion.
+
 Every time society suffers a *massive* decline in population, [technology](technology.md) moves backward by a few hundred years from all its required specializations. It catches up again rather quickly, but is frequently difficult for people to adapt for at least a few generations.
 
 A "developed" society is simply a society that has *extremely* high specializations compared to its neighbors. This is mostly a product of [technology](technology.md) and population, though the [political system](politics-systems.md) plays a massive role in how much [innovation](mind-creativity.md) continues that development. "Developed" societies tend to view other societies with either disdain or disregard, but they can always stand to [learn](education.md) from them.
 
 APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](people-trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](people-rules.md) and [building](results.md) civilization.
+
+## Downsides
+
+There is an unfortunate downside of specialization, however. Eventually, a significant portion of hyper-specialized workers will become [technical idiots](https://gainedin.site/idiot/).
+
+At a specific critical ratio, a majority group of technical idiots will cause an industry to collapse on itself.
+
+- The entire group will populate with individuals who are so specialized into each domain that they're effectively incapable of understanding the collective whole.
+- The number isn't precise, since the ratio becomes lower as the technological requirements of the group grow (which naturally always scales with better and faster [technologies](technology.md)).
+- The only way to postpone this inevitable collapse is to ensure everyone [understands](understanding.md) many unrelated things from their specified role.
+
+In practice, however, the [purpose](purpose.md) of most specialized groups will be transplanted to others who learn all aspects of that domain out of antagonism against the group becoming a [bad system](mgmt-badsystems.md) (e.g., when it becomes a long-standing anticompetitive [monopoly](politics-monopolies.md)).
+
+Further, [technological](technology.md) developments can remove the need for a specialist altogether. If the technology allows any amateur to perform the task, the [professional](professionals.md) role becomes a collective amateur task as the [trend](people-trends.md) emerges.
+
+- The role of "scribe" largely went away once everyone could read and write, and only persists as a niche.
+- The role of "computer" is now replaced by "data entry work".
+- The need for "editors" is far lower now that computers have taken over most of the task.
+
+Even then, though, [technology itself makes us weak](https://gainedin.site/weaker/).

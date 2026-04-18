@@ -57,7 +57,7 @@ There are a wide variety of standardized techniques to craft objects, especially
 - Heat treating exposes metal to extreme heat, then the cooling process brings the chemical bonds of the metal closer together and makes the metal harder.
   - Liquid nitrogen treatment simply goes farther with the treatment process into sub-zero temperatures, and can be done asynchronously (i.e., you can do it at home with your tools).
 - Drilling engages a screw-shaped bit at high rotational velocity to penetrate a surface and create a hole.
-  - While it's common practice for DIYers to train a hole with a smaller drill bit, the tip is the load-bearing component and is therefore *much* more heavily treated than the rest of the bit.
+  - While DIYers typically train a hole with a smaller drill bit, the tip is the load-bearing component and is therefore *much* more heavily treated than the rest of the bit.
 - Sanders and grinders use a rough surface to remove material from a broad surface.
   - Sanders use sandpaper on wood.
   - Grinders use dense metal or diamond, and are typically used for metal or plastic.

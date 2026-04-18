@@ -112,7 +112,7 @@ To avoid inflation, a government has a unique trick with reserve currency:
 
 As of the early 21st century, the exchange currency for the *entire world* is the US dollar, which is from them running a trade deficit for a long time (see below) and other countries pinning their currency's value to a stable comparison. Before this point, other countries like Spain and Portugal held the world reserve currency.
 
-The only problem, however, is that [debt](money-2_debt.md) has inherent risks because it's [slavery](people-slavery.md) for institutions as well as individuals. If the debt gets too high compared to the total wealth of an organization, it can make an economy very fragile. There has been a time where the debt was canceled, [but it was disastrous](https://en.wikipedia.org/wiki/Stop_of_the_Exchequer).
+The only problem, however, is that [debt](money-2_debt.md) has inherent risks because it's [slavery](people-slavery.md) for institutions as well as individuals. If the debt gets too high compared to the total wealth of an organization, it can make an economy very fragile. There was one time when the debt was canceled, [but it was disastrous](https://en.wikipedia.org/wiki/Stop_of_the_Exchequer).
 
 Further, the nature of fiat currency means that the [trust](mind-trust.md) people will have in that currency will be *far* less than a tangible thing that could be redeemeda at any time, such as gold or silver.
 
@@ -132,6 +132,20 @@ Lenders are *very* powerful multipliers of money:
 1. By taking in money, then distributing loans, a lender effectively multiplies the amount of "active" money in a region.
 2. During prosperous times, lenders will magnify money as-needed.
 3. The free market also works during an inflationary period by destroying the banks with the weakest balance sheets, which creates a [social evolutionary](science-life-evolution.md) equilibrium.
+
+Making products illegal is a very difficult economic problem.
+
+- Illegalizing things requires enforcement to regulate.
+  - Too little enforcement means people do things anyway, and the illegalization was pointless.
+  - If a product is highly desirable (e.g., alcohol), people are almost guaranteed to quietly disoby the rules.
+  - Too much enforcement against an illegal, popular thing will create a severe backlash, and may lead to [complete political collapse](people-conflicts-war.md).
+- Setting incentive structures around the action is also risky.
+  - Giving bounties and rewards will bring private citizens into the decision, but can create a hostile [culture](people-culture.md) as people [fear](mind-feelings-fear.md) disclosing information.
+- Legalizing the product but setting severe fees on the product creates a long-term government dependence on the product.
+  - Eventually, an addictive and legalized product will almost require *encouragement* by a government for continued use for the purpose of keeping schools, roads, and emergency services funded.
+- Therefore, the most cost-effective efforts against a black market is in attacking the [supply chain](logistics.md) of the cartels.
+  - This effectively prices the product out of the market for most people, which makes enforcement easier against the remaining people who continue to do it.
+  - However, this doesn't work for [religion-based](religion.md) decisions, since the people will defy the government for a higher power.
 
 Irrespective of centrally-managed or black market conditions, people will always make arrangements to [borrow money](money-2_debt.md) for various reasons.
 
@@ -169,11 +183,29 @@ Over time, as long as people continue to trade, savvy [traders](money-investing.
 
 A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](results.md) later.
 
-These discrepancies can make it difficult to measure. To that end, economists try to use a universal standard. For a while, they used the Big Mac Index, which measured the cost for for a Big Mac at a McDonald's restaurant (since the sandwich was all across the world). This worked because most of the ingredients had to be locally sourced.
+These discrepancies can make it difficult to measure. To that end, economists try to use a universal standard. For a while, they used the Big Mac Index, which measured the cost for a Big Mac at a McDonald's restaurant (since the sandwich was all across the world). This worked because most of the ingredients had to be locally sourced.
+
+## Supply chains
+
+In a large-scale social system, it takes a long time for things to get from one point to another. This creates what's called a "supply chain". A seasonal item that's in higher demand when the weather changes, for example, might get manufactured halfway across the world half a year beforehand.
+
+The existence of a supply chain means people can somewhat [predict future market events](mind-imagination.md) and make [investments](money-investing.md) on those expectations. For that reason, investors often make market decisions for *future* events like a pending product windfall or a looming shortage.
+
+In any [disaster](hardship-disaster-1_short.md), the risks to civilization's collapse don't come from any individual people or group being incapacitated, but the supply chain at large.
 
 ## Market cycles
 
 Every market goes through an ebb and flow, and can be described under the domain of "market corrections".
+
+- A "bull" market moves upward, while a "bear" market moves downward.
+- If a market moves downward for several quarters, it's a "recession".
+- A prolonged recession becomes a "depression".
+
+Sadly, the lowest-priced portions of markets are always affected the worst when recessions happen.
+
+- At first, people stop buying luxury items, so boutique products take the first hit because demand plummets.
+- However, staple goods are always necessary (e.g., food), so broad recessions will make the supply drop while demand is almost guaranteed to stay the same.
+- Except for self-sufficiency (e.g., [homesteading](home-homestead.md)), most economies destroy [the poorest classes](classes.md) first when [times are tough](money-economics-downturn.md).
 
 However, while a market can't be permanently augmented, it *can* be engineered for the timing of the collapse to change.
 
@@ -191,6 +223,28 @@ Most of this is common sense. The timing is also predictable if you know who has
 Endless distortions and doping to an economy start doing strange things to it.
 
 - "Normal" market dynamics start breaking down when the public pays attention and develops any sort of opinion over it (e.g., people start saving more, people are less likely to [change jobs](jobs-1_why.md)).
+
+## Market corrections
+
+Most economists argue incessantly about the degree that markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this opinion distills to how economists believe people make [decisions](mind-decisions.md) and how easily [power](power.md) can shift.
+
+Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
+
+Emergent order (aka "growthist" or "supply side economics") is when each person is given freedom to manage themselves. The prevailing belief is that self-interested individuals will [pursue](purpose.md) their self-interest if they're given freedom to benefit from it. From the outside, emergent order appears as a chaotic swarm of unrelated individuals doing unrelated things. But it's an organized type of chaos that somehow works, even though it's difficult to [measure](math.md).
+
+Many [leaders](groups-large.md) believe individuals can't correctly decide their long-term best interests, but those leaders are as prone to human error as their subjects. The world is far too complicated and chaotic for professionals to manage everything.
+
+Complete emergent order would be complete anarchy, though, because no central leadership structure would enforce any large-scale [rules](people-rules.md).
+
+At the farthest end of supply side economics is laissez-faire ("allow to do"), which implies that government intervention should be *completely* absent from private organizations' affairs. This can frequently create [monopolies](politics-monopolies.md) and [bad systems](mgmt-badsystems.md), though it's a *highly* contentious question about whether monopolies persist indefinitely or decay quickly.
+
+Centralized planning taken to its farthest becomes fascism or [communism](politics-leftism.md). So far, it's always failed spectacularly because people don't like to be controlled.
+
+Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
+
+[History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](mind-decisions.md), even if they're bad.
+
+Economic theory uses the example of a mythical "crusonia plant", which produces increasingly more of itself over time. The plant would increase its collective value over time, and therefore better than the effort of creating individual plants. However, this increased value only extends as far as core [needs](purpose.md) dictate, and additional plant production beyond that point would *decrease* the individual value of each plant. Whether it's [anthropology](people-culture.md) or [technology](technology.md), this is a major oversight in most [forecasting](mind-imagination.md) models.
 
 ## More information
 

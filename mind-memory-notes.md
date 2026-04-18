@@ -46,7 +46,7 @@ Condensation trick:
 
 1. Take plenty of notes about almost everything you don't know.
 2. Later, condense that information by paraphrasing it.
-3. Keep paraphrasing it until you've distilled the entire subject to 3--4 pages.
+3. Keep paraphrasing it until you've distilled the entire subject to 3-4 pages.
 4. Paraphrase further until it can fit on 1 page.
 5. Paraphrase a summary onto an index card.
 

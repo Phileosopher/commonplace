@@ -7,14 +7,14 @@ Every state and precinct has unique requirements, which [you should be informed 
 - If you move to another state, don't presume the prior state's rules apply.
 - Research *precisely* by grade what you must teach your children.
 - Keep records of the work your children perform, as well as any tests you've given them and how well they've done.
-- Preferably, document the experience right after it happened, since you may not remember 4--6 months ago.
-- Stay connected with a homeschool community, who will keep you informed about any changes to reporting requirements and standards.
+- Preferably, document the experience right after it happened, since you may not remember 4-6 months ago.
+- Stay connected with a [home school](education-homeschool.md) community, who will keep you informed about any changes to reporting requirements and standards.
 - With the freedoms you'll likely give your children, keep an eye out for "Reasonable Childhood Independence" laws and where your state stands.
   - In places that don't have those laws, a terrified person calling the police could send you into a legal battle because you sent your 7-year-old a quarter-mile down the road to get some groceries.
 
 Some states require tests and others don't regulate it at all.
 
-- If you're doing a good-enough job, the children will be fine: the requirements are minimums for when a child sits neglected in a boring room for 5--6 hours a day.
+- If you're doing a good-enough job, the children will be fine: the requirements are minimums for when a child sits neglected in a boring room for 5-6 hours a day.
 - The larger risk is in *proving* they've fulfilled the criteria, not necessarily *doing* it, especially with more open-ended curricula.
 - Most lesson-planning and advanced prep isn't necessary until around junior high and high school.
 
@@ -29,7 +29,7 @@ You can teach small children as young as 3 years old to read:
 1. Teach the most common phoneme (how it sounds) for each letter.
 2. Teach them to blend those phonemes into simple words by saying the word fast.
 3. Teach them to parse harder words: secondary phonemes, digigraphs (multiple letters making 1 sound), and silent "e" indicating a long vowel sound.
-4. Intentionally practice 30--60 minutes a day through a text, *without* pre-reading skills and drilling specific words.
+4. Intentionally practice 30-60 minutes a day through a text, *without* pre-reading skills and drilling specific words.
 
 However, Pre-K children who learn to read will probably not retain most of their learning, so only teach it as far as they would like to explore it.
 
@@ -40,7 +40,7 @@ Most kindergarten schooling is simply creating the "standards" that will later b
 Applied
 
 - Understands time concepts like yesterday, today, and tomorrow.
-- Can pay attention for 15--20 minutes.
+- Can pay attention for 15-20 minutes.
 - Can follow 3-step directions (e.g., go to box, grab an item, sit quietly on rug).
 - Share materials like crayons and blocks.
 - Knows how to play with others.
@@ -67,7 +67,7 @@ Literacy
 - Can identify certain materials (e.g, metal, wood) and their characteristics.
 - Understands what [plants](plants.md) and [animals](livestock.md) need to grow.
 - Understands seasonal and [weather](science-earth-weather.md) changes.
-- Understands parts of the human body.
+- Understands the parts of the human body.
 - Has conducted little experiments like growing plants from seeds or caring for a pet.
 
 Humanities
@@ -133,7 +133,7 @@ Their attention span should be more focused, so start giving them more difficult
 
 Applied
 
-- Can concentrate on tasks for 20--30 minutes.
+- Can concentrate on tasks for 20-30 minutes.
 - Can count money.
 - Tells time to the nearest 5-minute increment.
 
@@ -458,9 +458,9 @@ They have several ways to graduate high school:
 1. The culturally standardized route is to sit in high school classrooms, pass the classes, and pass the exit exam.
    - If you even marginally succeeded, they'll pass the exit exam before even starting the classroom sessions (it often requires an 8th-grade reading/math level).
 2. Find a work-at-your-own-pace high school online, then pass the credits more quickly, without the social experience.
-3. Get an unconventional certification (e.g., [GED](https://ged.com/)) or a diploma through a homeschool group.
+3. Get an unconventional certification (e.g., [GED](https://ged.com/)) or a diploma through a home school group.
    - They can convert a GED to a diploma later via college.
-   - The homeschool group diploma won't have as much influence as a GED.
+   - The home school group diploma won't have as much influence as a GED.
    - Either way, they can completely resolve any discrepancy with social status if they get an associate's degree from a community college (which is usually worth the time and money).
 
 You won't really know the best approach until at least 8th Grade, since it all depends on them.

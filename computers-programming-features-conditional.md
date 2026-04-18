@@ -3,7 +3,7 @@
 
 The CPU recognizes [conditional jumps](computers-cpu.md), which form into conditional statements. In short, conditional statements are logical "statements" that run when certain "conditions" are met. This creates "branching" in the instructions to separate the flow into multiple logical outcomes.
 
-When "foo" is 0 and a conditional statement specifies that "foo" must be greater than 2, that statement won't run and the program will advance to the code right after the statement.
+When "foo" is 0 and a conditional statement specifies that "foo" must be greater than 2, that statement won't run, and the program will advance to the code right after the statement.
 
 Conditional statements run when the [logic](logic-cs.md) is true, represented by a Boolean 1. There are a variety of operators to specify the logic:
 
@@ -22,7 +22,7 @@ In one sense, *everything* in programming is merely "if" and "for" loops:
 
 ## Statement types
 
-IF statements are *extremely* frequent in functions. They test the condition, then run the code inside it if it's true, or gloss over if if it's not true. They don't tend to permit [alternative interpretations](people-image-why.md) of "true", either.
+IF statements are *extremely* frequent in functions. They test the condition, then run the code inside it if it's true, or gloss over if it's not true. They don't tend to permit [alternative interpretations](people-image-why.md) of "true", either.
 
 - IF (*statement that must be true*) {
 
@@ -44,7 +44,7 @@ As a general rule, 1 function does 1 purpose. Some people don't follow this rule
 
 ## Loops
 
-By telling the computer to "jump" back to a previous instruction, you can assemble a loop, or "iteration". Loops are *really* useful at doing a repetitive task many times, since you can instruct it once and it'll keep going until you want it to stop.
+By telling the computer to "jump" back to a previous instruction, you can assemble a loop, or "iteration". Loops are *really* useful at doing a repetitive task many times, since you only need to instruct it once while it'll keep going until you want it to stop.
 
 FOR loops are excellent for doing something a specific number of times, and have several parts:
 
@@ -76,7 +76,7 @@ One of the most difficult concepts to understand in programming is when function
 
   }
 
-In the above example, this will keep going forever, opening up a new function with that adds 1 to the original number until the computer crashed or you stopped it:
+In the above example, this will keep going forever, opening up a new function with that adds 1 to the original number until either the computer crashed or you stopped it:
 
 The rule for loops applies to functions: *always have an exit*:
 

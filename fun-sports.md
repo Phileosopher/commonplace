@@ -31,7 +31,7 @@ The 13 rules were pretty straightforward in 1892 which involved dropping an infl
 2. The ball may be slapped in any direction with one or both hands.
 3. A player cannot run with the ball and must throw it from the spot he catches it, with allowance for catching the ball while running.
 4. The ball must be held in or between the hands, without arms or body involved.
-5. Nobody is allowed in any way to shoulder, hold, push, trip or strike their opponent. person of an opponent shall be allowed. The first time is a foul, and the second disqualifies him until the next goal or, if there was clear intent to hurt them, for the rest of the game, without substitutes.
+5. Nobody is allowed in any way to shoulder, hold, push, trip or strike their opponent. The first time is a foul, and the second disqualifies him until the next goal or, if there was clear intent to hurt them, for the rest of the game, without substitutes.
 6. A foul is striking the ball with the fist, violation of rules 3 and 4, and such described in rule 5.
 7. If either side makes three consecutive fouls without the *other* side making a foul, the other side receives a goal.
 8. A goal is when the ball is thrown or batted from the ground into the basket and stays there (without falling), providing those defending the goal don't touch or disturb the goal. If the ball rests on the edge, and the opponent moves the basket, it's a goal.

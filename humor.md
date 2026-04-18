@@ -19,7 +19,7 @@ It can come through various forms:
   - Double entendre: a word or phrase with both an innocent and inappropriate meaning
 - Practical jokes: a joke that humiliates someone else
   - Impractical jokes: a joke intended to humiliate someone else, but is needlessly elaborate
-- Irony: someone being exposed to an event that goes against what their [purpose](purpose.md) is
+- Irony: someone is exposed to an event that goes against what their [purpose](purpose.md) is
 - Surreal humor/modern art: things that don't make any sense
 - Slapstick: violence causing physical pain
 - Self-deprecation: humor at the expense of the creator of it

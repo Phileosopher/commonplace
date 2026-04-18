@@ -45,7 +45,7 @@ Unless it's a hobby you enjoy, your side hustle is only worth your time relative
 3. Figure out how much you're "paid" per hour.
 4. Compare that number to a low-wage job (e.g., fast food) or extra time at your [day job](jobs-1_why.md).
 
-If you're a [artistic creator](mind-creativity.md) and want to sell your work, spend at *least* as much time on supporting and promoting the art as you are on building it.
+If you're an [artistic creator](mind-creativity.md) and want to sell your work, spend at *least* as much time on supporting and promoting the art as you are on building it.
 
 - If you don't, you're trusting someone else to do it for you, and they often are *not* qualified to [see your vision](entrepreneur-2_idea.md) like you do.
 
@@ -136,6 +136,6 @@ Sell things you never use, don't need, or can find affordably:
    - Learn to [write](language-writing.md) [attention-grabbing](marketing.md) content to distinguish your product.
    - Place the minimum bid on an auction as low as possible to draw more attention to it.
    - If you can, use a Vickrey auction, where the top bidder pays the second bidder's price.
-6. Only give things away when you can't sell them or you know someone who legitimately needs them:
+6. Only give things away when you either can't sell them or you know someone who legitimately needs them:
    - Unless it's something someone specifically wants, donating money is usually *far* more meaningful and useful than valuable possessions.
    - Most charities will sell that item instead of you, so you're simply giving them more work than giving them cash.

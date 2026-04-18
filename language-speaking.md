@@ -104,7 +104,7 @@ Stay attentive to distractions:
   - Any environmental discomfort like a hot day or high winds can distract.
   - The venue may distract (such as taking orders in a restaurant).
 - If a distraction happens, let it play out entirely, then after a few seconds of silence draw attention back to the story you were listening to (or, ideally, give the last few details of that story).
-- If you're on the phone and you hear something, tell them you hear it and ask if they want to attend to it.
+- If you're on the phone and hear something, tell them you hear it and ask if they want to attend to it.
 
 Stay mindful of what you say during another person's speech:
 
@@ -118,7 +118,7 @@ Note any [power dynamics](power.md):
 - If you're speaking to someone with authority, keep your responses shorter and let them talk more.
 - If someone is famous, only discuss their latest work, or don't mention it.
 - Don't be afraid to bring someone else without as much power into the conversation affiliated with that powerful person.
-- When at the entryway, ask for a powerful person by their pronoun instead of their name ("is he/she in?") to imply that you know them personally.
+- When at the entryway, ask for a powerful person by their pronoun instead of their name to imply that you know them personally (e.g., "Is he/she in?").
 
 ## Match the conversation style to the context
 
@@ -146,7 +146,7 @@ In dialogue and debate, only share 1-2 ideas at a time:
 
 Consider the size of your ideas:
 
-- because large ideas require lots of thought, they almost always require a diatribe or discourse to convey them.
+- Because large ideas require lots of thought, they almost always require a diatribe or discourse to convey them.
 - Try to simplify the idea as much as possible to get the feeling across, preferably with humor or wit.
 - If you must provide more details, consider [adding supporting documentation](language-writing.md).
 
@@ -167,7 +167,7 @@ Only share thoughts that interest both you and the listener:
 
 If someone doesn't care to hear, you can't convince them to listen:
 
-- People will resent if you push past their indifference.
+- People hate when you push past their indifference.
 - Honor their [boundaries](people-3_respect.md) and respect yourself.
 
 Only share things other people might find meaningful (THINK acronym):
@@ -193,7 +193,7 @@ Always use examples and anecdotes that match their background:
 - Disabilities or talents of individuals.
 - The group's collective accomplishments or identity.
 - The ethnic and racial mix of the group.
-- each person's age or appearance.
+- Each person's age or appearance.
 - Occupations and hobbies of individual people.
 - Religious or political affiliations of everyone.
 - Geographic location of the people in the conversation.
@@ -292,7 +292,7 @@ To leave gracefully, have a few exit lines ready:
 Always give certainty when you close conversations:
 
 - If you tell them you'll call them if there's a problem, and there's no problem, they'll be left wondering.
-- Make sure that they know what's happening or the relationship will slowly decay.
+- Make sure that they know what's happening, or the relationship will slowly decay.
 
 ## Social engagements
 
@@ -360,7 +360,7 @@ After the event, write down notes (preferably on the back of their business card
 
 Over time, the *hosts* will find you as a valuable resource:
 
-- Interacting with all those people means you know who does what, as well as useful trivia about them.
+- Interacting with all those people mean you know who does what, as well as useful trivia about them.
 - By spreading the good reputation of others wherever you go, you create a good reputation for yourself.
 
 ## Asking favors

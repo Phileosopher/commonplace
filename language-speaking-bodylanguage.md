@@ -43,7 +43,7 @@ Maintain a strong posture:
 - Very slightly lean forward into the person you're speaking to.
 - Since it communicates that you're distracted, don't use technology when you speak.
 - Hold an open stance with your palms generally facing outward.
-- "Fill" the space around you with your body, which implies comfort and authority.
+- "Fill" the surrounding area with your body, which implies comfort and authority.
 
 Maintain eye contact appropriately:
 

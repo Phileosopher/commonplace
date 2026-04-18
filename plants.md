@@ -13,7 +13,7 @@ Growing plants runs through a relatively predictable yearly pattern:
    - Mix animal fur, hair, or hay into the soil to suppress pests.
    - Overlap wet newspapers and cover with mulch before planting to prevent weeds.
 3. Once you see shoots, move the plants to the plowed soil.
-   - Space them out so they won't overlap or fight for space underground.
+   - Space them out to avoid overlapping or fighting for space underground.
    - The plant's volume above-ground is approximately what its root system looks like, though it *very* heavily varies by the plant type.
 4. Daily maintenance: Prune the trees, irrigate and weed the plants, scare off birds and small animals.
    - Pests are usually a sign the plant lacks water, light, or nutrients.
@@ -47,7 +47,7 @@ Be careful about the salinity of the soil.
 Cycle your crops each year.
 
 - Perennials tend to add value to the soil (since they continue to contribute), while annuals deplete it (since they're gone every year).
-- Mono-cultures (one type of plant) will *ravage* biodiversity and increase issues like pests and mildew, while a vast variety of cycling plants will enrich the soil.
+- Monocultures (one type of plant) will *ravage* biodiversity and increase issues like pests and mildew, while a vast variety of cycling plants will enrich the soil.
 - Generally, every year a plant will consume some of the soil's nutrients and produce "waste" nutrients, so cycle out each region for different plants to keep yourself from depleting the soil.
 - After a few years, the nutrients that come from nature will mostly deplete (e.g., bug corpses, wild animal feces), so the general rule is to abandon the land to the elements one out of every seven years.
 - Consider using [cattle](livestock.md) and grass seed to perform rotational farming.
@@ -93,7 +93,7 @@ If you're using containers, watch out for a few additional issues.
 
 *Whenever* you transplant or move a potted plant, the plant will go into shock.
 
-- Even if it's re-potting, the plant is exposed to a new environment and it's a sudden shift.
+- Even if it's re-potting, the plant is exposed to a sudden, new environment.
 - Take your time with them and they'll recover.
 
 Water about once a week, either via rainfall, irrigation, or manually.
@@ -294,6 +294,8 @@ There are *many* combinations.
 - In particular, corn, beans, and squash (The Three Sisters) work well together.
 - Be careful to *not* plant some types together, since they can be hostile to each other.
 
+A varied orchard is a long-term form of companion planting, since you're simply harvesting the same fruits every year.
+
 ## At scale
 
 At some point as you scale, you won't simply need tractors and labor.
@@ -310,12 +312,17 @@ At some point as you scale, you won't simply need tractors and labor.
 
 For large-scale farming, you do *not* need to own the land it's on, and can often lease it for much less.
 
+- Further, there are often many government subsidies for farming operations, though the requirements may create constraints on what you can do with your yield.
+
 If you're looking for more yield, you'll probably need to consider GMOs (genetically modified organisms) and non-organic (i.e., using pesticides).
 
 - Unless you're aiming to sell non-GMO and organic at a significant premium, your yield will be abysmally low.
 - GMO seeds are intentionally bred to be infertile, so you'll have to purchase seeds every year.
 - GMO seeds are also chemically resistant to pesticides, meaning higher yield as well.
 - However, the downside comes through the food's quality, which will require a faster [logistical system](logistics.md) to get it to market.
+- While regenerative farming cuts back on annual yield, it is a very long-term cost-effective answer.
+  - "Prairie strips" are narrow, unmaintained strips permitted to rewild (i.e., untouched to grow again without fertilizer or pesticides).
+    - These strips have a profound impact on the surrounding soil.
 
 Unfortunately, like most other things at scale, the large-scale farming business becomes less a domain of actually getting in the soil and working, and more the domain of [management](mgmt-1_why.md) and [economics](money-economics.md).
 

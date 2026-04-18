@@ -22,7 +22,7 @@ From there, most of the effort is applied toward repetition and scaling upward:
 - Counting increasingly higher values (i.e., 100, then 1,000).
 - Adding and subtracting more proficiently and with higher numbers.
 - Giving more story problems to sufficiently expand on how it can be useful.
-- Further applied mathematics with things like time and money.
+- More applied mathematics with things like time and money.
 
 A bit later, we expand on the ideas:
 

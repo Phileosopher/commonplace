@@ -11,7 +11,7 @@ If the job was at least decent, give at least two weeks' notice to leave:
 Write a formal resignation letter:
 
 - Make it gracious and concise.
-- Don't make promises, give too much information or mention your new workplace (which can *all* create [legal risks](legal-safety.md).
+- Don't make promises, give too much information or mention your new workplace (which can *all* create [legal risks](legal-safety.md)).
 - Avoid phrasing anything negatively.
   - Vaguely say why you're leaving.
   - Share your gratitude and thankfulness for the new job opportunity.
@@ -63,7 +63,7 @@ Stay ethical and civil:
 - Avoid any last-minute romances or public breakups during your transition.
 - Delete any corporate passwords to avoid the temptation to use them.
 
-Delete any personal files stored on the company computer.
+Delete all nonwork files stored on the company computer.
 
 Track any payments you're entitled to receive:
 
@@ -102,7 +102,7 @@ Watch out for exit interviews:
 
 - Be very, very careful about what you say.
   - If you speak vaguely or positively about why you left, you have nothing to lose.
-  - By speaking out directly against the organization, the management may hate you and you could potentially get into [legal trouble](legal-safety.md).
+  - By speaking out directly against the organization, the management may hate you, and you could potentially get into [legal trouble](legal-safety.md).
 - Of course, if you believe what you say will create change, and you already have a well-established [reputation](people-image-why.md) elsewhere, be as blunt as you want and don't expect anyone to care or change.
 - The most useful thing to do with your experience is to clearly know what to *not* do in your own life and decisions in the future.
 - Know beforehand what you want to say and how much information you want to share.
@@ -182,7 +182,7 @@ Keep working outside your job for the long-term:
 
 Have an estimated period when you'll leave *that* job to take a promotion or another role:
 
-- Document your meetings and [organize](organization.md) your knowledge so other people can review them and pick up where you left off.
+- Document your meetings and [organize](organization.md) your knowledge for other people to review them and pick up where you left off.
 - Unless you're having important role-specific meetings with your manager, include other people in events.
 - Train people around you as you learn things, and identify someone who would make a good replacement for you.
 - Essentially, try to [delegate as much as possible](mgmt-2_projects.md) to others who want to take the responsibility.

@@ -135,7 +135,7 @@ Compiler - computer code that converts high-level programming language into asse
 
 Complement - a math idea that implies that there's a wholeness of something, and then the complement of something is the other part of it (e.g., if A+B=C, the complement of A is B)
 
-Composite - combine together
+Composite - combined
 
 Compute - enterprise-grade computer term for CPU
 

@@ -121,7 +121,7 @@ Active listening, on the other hand, requires much more effort:
 Listen carefully for others' observations, feelings, needs, and requests:
 
 - Many things people say are trying to fulfill some sort of [purpose](purpose.md):
-  - "I noticed [observation], which makes me feel [feeling]. I need [need], and I'd like you to [request]."
+  - "I noticed (observation), which makes me feel (feeling). I need (need), and I'd like you to (request)."
 - An evaluation is a [value](values.md) you've come to conclude, often subconsciously (e.g., a "cook" instead of "[someone cooking](cooking.md)").
   - People often state evaluations *as* observations (e.g., "You're being rude").
 - Treat their observations as valid, even if they're only implying it behind what they're feeling or come from a bad evaluation.
@@ -226,7 +226,7 @@ Practice the pacing of your words:
 - If you need to, speak more slowly to evenly flow your thoughts out.
 - When you can, use smaller words to get the idea across.
 
-- For larger sentences, try to pause on every even-numbered set of syllables (e.g., "I think, after this trip, we should rest." versus "I think after this trip we should rest."
+- For larger sentences, try to pause on every even-numbered set of syllables (e.g., "I think, after this trip, we should rest." versus "I think after this trip we should rest.").
 - Permit silence.
 
 Don't break the flow of conversation:
@@ -286,7 +286,7 @@ The scope of your questions determines where the conversation goes:
 When you can, ask questions to fill in the gaps of what you don't understand:
 
 1. Fill in the observations, feelings, needs, and requests that you *do* understand:
-   - e.g., "You're a jerk!" becomes "I noticed [observation?], which makes me feel angry. I need [need?], and I'd like you to [not behave in a specific action that a jerk may do?]."
+   - e.g., "You're a jerk!" becomes "I noticed (observation), which makes me feel angry. I need (need), and I'd like you to (not behave in a specific action that a jerk may do)."
 2. State your questions as a need:
    - e.g., "I understand you're angry, which makes me confused. Since I need to understand where you're coming from, why are you angry?"
    - When people express extremely emotional messages, they appreciate when you reflect your feelings back to them.

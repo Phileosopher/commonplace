@@ -21,7 +21,7 @@ Practice speed-reading.
 - Stop mentally reading each word out loud as if you were saying it.
 - Pace yourself to read quickly for relatively familiar content and slow down for things you want to more intently want to focus on.
 - Avoid jumping around or getting distracting by scanning your finger along the text you're looking at.
-- Learn to group larger chunks of frequently used words together (e.g., "there will be a" instead of "there will" and "be a")
+- Learn to group larger chunks of frequently used words together (e.g., "there will be a..." instead of "there will..." and "...be a")
 - For non-fiction, skip over tons of details by only reading the first and last sentences of each paragraph.
 - However, it's a *complete* waste of time if you don't understand the information, so don't speed-read to where you don't remember anything.
 

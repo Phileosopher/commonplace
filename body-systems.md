@@ -20,6 +20,7 @@ The body is composed of multiple independent systems that work with each other.
      - Carbon dioxide
    - Assists in maintaining pH and temperature
    - Blood, heart, arteries, veins, capillaries
+   - The heart itself, however, also has a "little brain" of 40,000 neurons, which serves to generate and read a small electromagnetic field
 4. Peeing (renal/urinary)
    - Dissolves waste products in the blood and expels them as urine
    - Maintains fluid and electrolyte balance

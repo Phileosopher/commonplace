@@ -57,7 +57,7 @@ Management has also gotten a bad reputation for several reasons:
 
 1. Similarly to [entrepreneurship](entrepreneur-1_what.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
 2. The [power](power-types.md) that comes from managerial authority draws many people who desire nothing more than that power.
-3. we often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
+3. We often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
 4. At least 20% of the management class are clinically diagnosable [psychopaths](mind-neurodivergence-clusterb-narcissist.md), with that number being much higher if we include other forms of narcissism, Cluster B personality, and the edge cases.
 
 ## Qualifications
@@ -180,7 +180,7 @@ The stereotype of bad managers distill to a few key details:
 - Poorly [understood](understanding.md) or poorly articulated [vision](mind-imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
 - Unwilling to hear [constructive input](people-conflicts-why.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
 - Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged (a particular problem of [Cluster B diagnosis](mind-neurodivergence-clusterb.md)).
-- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](people-image-why.md) (a particular problem of [narcissism](mind-neurodivergence-clusterb-narcissist.md)).
+- Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some [credit](people-image-why.md) (a particular problem of [narcissism](mind-neurodivergence-clusterb-narcissist.md)).
 - Obsessed about goals or the group's well-being without concern for individuals in the group.
 
 Most of the time, these managers rise into their role because the organization needed a human being in a spot, and nobody else was around.
@@ -237,7 +237,7 @@ A manager has a few possible ways to interpret their role:
 
 No single management style works for all situations, for several reasons:
 
-1. Managers are usually held solely responsible for the [decisions](mind-decisions.md) they've made, but each manager's [personality](people-personality.md) is uniquely different and they'll take that responsibility in different ways.
+1. Managers usually hold sole responsibility for the [decisions](mind-decisions.md) they've made, but each manager's [personality](people-personality.md) is uniquely different enough that they'll take that responsibility in different ways.
 2. Each individual person contributes to the [collective essence of each group](groups-small.md), and each member's [personality](people-personality.md) has particular requirements or requires specific kinds of attention.
 3. Even among similar domains, every group's [purpose](purpose.md) is at least a little different (e.g., [accounting](money-accounting.md) department in a retail corporation vs. a construction corporation), and this compounds the idiosyncrasies from #1 and #2.
 
@@ -249,13 +249,13 @@ The manager's skills will need to be appropriate to the team's purposes:
 - Adapts to change and inspires others to it as well.
 - Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](results.md) to take.
 - Appearing fearless in the face of hardship.
-- Creates [rules](people-rules.md).
+- Makes [rules](people-rules.md).
 - Follows rules.
 - Takes responsibility for a team's results.
 - Beyond ideals, focused on [practical results](results.md).
 - Sees the long-term [consequences](results.md) of their decisions.
 
-This range of skills varies by [industry](jobs-industries.md) as well, with some requiring more of some and less of others.
+This range of skills varies by [industry](jobs-specialization-industries.md) as well, with some requiring more of some and less of others.
 
 Most management roles clarify the contrast between prioritizing relationships versus tasks, but *every* manager must love their work.
 

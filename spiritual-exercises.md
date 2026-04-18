@@ -259,6 +259,12 @@ Stay hospitable and open to others with needs, *especially* the [underclass](cla
 
 - The original design God intended for us is to observe unfulfilled needs, then desire to help others.
 - By observing people suffering more than you, you'll be both encouraged (in your life) and motivated (from desiring their improvement).
+- When giving, use cash to stay anonymous [Matthew 6:3](https://biblehub.com/matthew/6-3.htm).
+
+Give to groups that need the money the most.
+
+- When disasters happen, churches suffer because everyone donates to the disaster fund.
+- During the summer months, not-for-profit organizations suffer the most.
 
 Do what you can for the people suffering around you.
 

@@ -3,7 +3,7 @@
 
 Encoded sound was first patented in 1857 by Édouard-Léon Scott de Martinville, where a recording could be etched into parchment paper. However, Thomas Edison built one that could *play back* 20 years later in 1877. Eventually, the technology adapted to cylinders, then to vinyl records, then to cassette tapes. Circular storage was re-implemented with the compact disc, and the information was then completely digitized from there, most notably with the MP3 audio [standard](standards-computers.md).
 
-While cassette tapes are most recognized for audio playback, many of the first [computer memory](computers-memory.md) implementations used cassette tape, with the memory reference specifying how far to rewind or fast forward on the track. The concept is *mostly* the same with audio CDs, though there are two moving parts instead of one.
+While cassette tapes are most recognized for audio playback, many of the first [computer memory](computers-memory.md) implementations used cassette tape, with the memory reference specifying how far to rewind or fast-forward on the track. The concept is *mostly* the same with audio CDs, though there are two moving parts instead of one.
 
 Portable radios became popular since 1955. To sell them, Sony [marketed](marketing.md) the product as small enough to fit in your pocket, but the radios were *not* small enough. Their solution was to alter the sales staff shirt pockets to fit the radio, and it worked.
 
@@ -61,7 +61,7 @@ To avoid quantization patterns, that last bit can be "dithered", which means it'
 
 ## Bitrate
 
-Combined together, the sampling rate and sampling depth create a "bitrate", measured as a flow of bits per second. Phone calls translate anywhere between 24 and 88 [kilobits per second](computers-memory.md), depending on how it's getting [packaged and sent](standards-computers.md).
+Combined, the sampling rate and sampling depth create a "bitrate", measured as a flow of bits per second. Phone calls translate anywhere between 24 and 88 [kilobits per second](computers-memory.md), depending on how it's getting [packaged and sent](standards-computers.md).
 
 Music in MP3 or AAC format often come as low as 128 kbps or as high as 320 kbps. The way they keep the memory low while providing a high-quality music experience is by [mathematically](computers-programming-algorithms.md) stripping away components of the audio that our ears won't hear due to biological limitations.
 
@@ -93,7 +93,7 @@ For a legitimately advanced experience, the audio must reflect the precise *loca
 
 An audio clip in its purest form is a stream of raw data. Compressor/decompressors ("codecs") permit storing that ifnormation without as much memory.
 
-There are a variety of encoding formats. The format is the abstraction (and is an [open standard](standards-computers.md), while the specification is an implementation (which is often [proprietary](legal-ip-floss.md)).
+There are a variety of encoding formats. The format is the abstraction (and is an [open standard](standards-computers.md)), while the specification is an implementation (which is often [proprietary](legal-ip-floss.md)).
 
 Audio recordings have different use cases, and the "lossiness" of the information determines how compressed (and therefore how small) an audio [file](computers-files.md) can be:
 

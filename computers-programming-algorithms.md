@@ -55,7 +55,7 @@ There are several ways to search, but linear and binary searches are the most co
 
 1. Tests the middle-most value to see if it's the input value.
 2. If it isn't, it only looks at the half that could possibly match it.
-3. Repeat indefinitely until the list is exhausted or the computer finds a match.
+3. Repeat indefinitely until either the list is exhausted or the computer finds a match.
 
 - Binary searches are *very* scalable because they run at a logarithmic speed (O(n) = log n), so finding data in a pile of 1,000,000 data points only takes 1 extra iteration compared to finding data in 500,000.
 

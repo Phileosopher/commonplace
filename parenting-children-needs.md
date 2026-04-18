@@ -1,11 +1,26 @@
 
 # What every child needs
 
+Children must be [educated](education.md) on several major domains:
+
+- The importance of avoiding [addictive substances](addiction-substances.md).
+- That they should be kind to all animals (whether [livestock](livestock.md), [wild](safety-nature.md) or [pets](fun-pets.md)).
+- They should be [virtuous](morality-virtues.md).
+- They should [respect others](people-boundaries.md).
+- To be kind to their younger siblings.
+- Gently handle their environment (such as not slamming doors).
+- Basic [repair skills](https://adequate.life/fix/) (like sewing a button).
+- Basic [housekeeping](home-housekeeping.md) and [cooking](cooking.md) skills.
+- Basic [home maintenance](home-fix.md) (like painting and oiling hinges)
+- Self-care such as [clothing selection](clothes.md), [shoe maintenance](clothes-shoes.md) and [hygiene](body-hygiene.md)
+- Basic productivity skills at [setting goals](success-3_goals.md) and [making a routine](success-4_routine.md).
+
 ## Physical needs
 
 Children need everything an adult needs, but in dramatically different proportions:
 
 - Children are [growing](maturity.md) and have a limited [understanding](understanding.md) of reality.
+- They need love, nurture, compassion, and [understanding about how to live](parenting-children-education.md).
 - As they grow older, the scope of their needs slowly adapts until it's the same as any full-grown adult.
 
 Children need more sleep than adults:
@@ -55,6 +70,7 @@ Children have unique social needs:
 - They also need other, non-parent role models to imitate.
   - Media personalities (like kids shows) can somewhat bridge the gap, but they need one-on-one interaction with other people to feel a connection.
   - Children need *much* more physical affection than adults, especially girls.
+  - At the end of every day, ask your kids if you've done anything you need to apologize to them about.
 - Though they often subvert them, children *crave* clear-cut, simple family rules.
 
 It's [taboo](morality-taboo.md) to discuss in most cultures, but children often receive certain things that come with risks, but that they don't need:
@@ -112,6 +128,8 @@ Children need good mental habits:
   - By far, the most difficult and rewarding virtue for children is patience.
   - Teach them gratitude by temporarily taking away things from them, *especially* if they abuse the privilege.
 
+When children say they need to use the bathroom, you usually have about 2 minutes to get them to one.
+
 As they grow, give them chances to build toward their purposes:
 
 - Your role is to give them a place to focus on their purposes and explore.
@@ -143,7 +161,7 @@ If you [educate](education.md) them correctly, they'll use school to build their
   - If you trust yourself the most, [homeschool](education-homeschool.md).
   - If you trust the government, send them to public school.
   - If you trust a private organization, and [can afford it](money-3_budget.md), use a private school.
-  - Just remember that *you* care the most about their future and are their final authority until they're teenagers.
+  - Just remember that *you* care the most about their future and are their final authority until they are teenagers.
 - Irrespective of your decision, you can often supplement what you want them to know with extracurricular activities like computer camp, team sports, groups like Boy/Girl Scouts, or church events.
 - To dramatically improve their public school educational experience, look for charter schools and vouchers.
 
@@ -160,7 +178,7 @@ Since you don't have much time, give them freedom and responsibilities as soon a
   - Dress themselves (with help)
   - Clean themselves with assistance
   - Set place mats on the table
-  - Once children can hold a conversation, let them play outside without direct micro-management
+  - Once children can hold a conversation, let them play outside without direct micromanagement
 - Ages 4-5
   - Make the bed
   - Empty wastebaskets
@@ -253,6 +271,11 @@ If you can't find your children in your home, look in the most deadly places whe
 If everyone in a group is watching the kids, then nobody is actually watching the kids.
 
 - If a child is drowning in a pool, they will be silent and submerged under the water.
+
+Make sure you have a plan for the possibility that you [die](hardship-death.md).
+
+- Communicate beforehand who will have custody, and [get it in writing](legal-safety.md).
+- Godparents are the easiest option if you have [friends](people-friends.md) who can responsibly care for them.
 
 ### Watch for sexual predators
 

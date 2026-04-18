@@ -24,7 +24,7 @@ Make sure you know what you sign, since quickly signing without reviewing the pa
 
 Closely examine *anything* you feel or might feel disrespected or violated.
 
-Pay close attention to who you'll likely work with:
+Pay close attention to the people you'll likely work with:
 
 - You might experience several rounds of interviews before meeting a potential coworker.
 - Research with job social media or spend time on-site to see if you identify with the culture.
@@ -134,9 +134,9 @@ You *must* have a firm job offer before discussing salary:
 
 Negotiate salary from a position of power:
 
-- With the exception of easy-to-measure work (e.g., digging holes, food preparation), your monetary value is extremely relative.
+- Except for easy-to-measure work (e.g., digging holes, food preparation), your monetary value is extremely relative.
   - To the employer, your 5-15% request for more pay is a small amount, though they'll often fight you on it.
-- With the exception of an *overwhelmingly* hot job market, the manager is *far* less invested in the negotiation than you ever could be.
+- Except for an *overwhelmingly* hot job market, the manager is *far* less invested in the negotiation than you ever could be.
 - If you were able to find the job [through a personal network](jobs-4_hunt.md), you have a *lot* more latitude for negotiation because you're more a relationship than a commodity.
 
 The type of need your job fills determines your negotiation power:

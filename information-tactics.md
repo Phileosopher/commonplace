@@ -3,7 +3,7 @@
 
 These are all tactics for slowing the information flow for the purpose of increased [understanding](understanding.md) and higher [quality](values-quality.md).
 
-## Fix 1: Slower inputs
+## 1: Use slower inputs
 
 The first part of the issue is both a blessing and a disguise.
 
@@ -59,7 +59,80 @@ The absolute *worst* thing to do with information is to half-mindlessly consume 
 - More [small talk](language-speaking.md) in person with others about the information
 - My personal solution is to ["churn" the information repeatedly](https://stucky.tech/method/) until it becomes [a corpus of commonplacing](https://stucky.tech/creations/)
 
-## Fix 2: Limiting streams
+## 2: Detect bias
+
+Learn to detect language that demonstrates the [types of bias](mind-bias.md) people often maintain.
+
+- Since we *all* have a bias, expect a pre-existing value system that misses at least *some* details.
+- Typically, people share most information because they perceive specific [facts](reality.md) they want others to know.
+- Most of the time, if the tone is depicted as unbiased, it probably has *more* bias than one where they fully own their slanted perspective.
+
+Take not understanding the content *very* seriously.
+
+- If you don't understand it, replay/reread the content.
+- If you still don't understand it, websearch the idea.
+- Do *not* move on until you know you understand it.
+
+If you observe blatantly vague information, stop consuming.
+
+- Information quality is loosely connected with its specificity.
+- Non-specific information means data on a subject is probably irrelevant.
+
+The true information tends to accumulate bias as stories are retold and distilled.
+
+1. The raw scientific study or story is usually the most reliable.
+   - e.g., "a study has found that eating a pound of sugar a week is bad for your health"
+2. The press release is usually more vague.
+   - e.g., "sugar is bad for your health"
+3. The social media posts about the press release are typically sensational.
+   - e.g., "we must disavow sugar use forever"
+4. Hearing about the *social media posts* from others (e.g., a news article) quickly becomes complete misinformation.
+   - e.g., "new anti-sugar cult has taken social media by storm"
+
+The language's tone can indicate many aspects of bias:
+
+- The article must adequately question its values and others, then point out potential flaws and complications with that particular view.
+- A content creator is typically paid to advance a particular perspective, so find out who pays them.
+- If you can, look at their past beliefs and projections, and whether they withstood the [fashions](people-trends.md) of that time (use an internet archive if you can).
+- Examine *why* they're focusing heavily on one aspect or neglecting another aspect.
+- The emotional reactions of the [information presenters](stories-storytellers.md) are usually far more significant than the events themselves.
+
+If the perspective implies "unbiased facts", sharpen your instincts:
+
+- Trust the information if it's [common-sense](mind-feelings.md).
+- *Don't* trust the information if it's difficult to verify or confusing, and slow down to learn more about it if it's relevant at all to you.
+- Learn to identify specific demands for more rigor without an equal amount of demand to the contrary.
+  - e.g., demanding scientific proof of [God](religion.md) without demanding equally [scientific proof](science.md) of God's absence.
+
+Watch for misused language:
+
+- Adapting nouns to evoke a stronger feeling ("carnivorous mammal" instead of "cat").
+- Adding adverbs and adjectives to make the story more sensational ("brutally slaughtered" instead of "killed").
+- Beginning the story or paragraph with emotionally charged words ("Tragedy strikes at the...", "It is a terrible day in history when...").
+
+Large media organizations frequently use an abundance of information to overwhelm.
+
+- Their reasoning is that if you're overwhelmed, you'll trust them because they clearly have much to say on the subject.
+- The most profound version of this comes from an abundance of poorly gathered [data](database.md).
+- [AI-assisted](computers-ai.md) media makes this tactic even *more* powerful.
+
+There are many, many ways to [distort image](people-image-distortion.md), and [technology](technology.md) *constantly* opens more possibilities.
+
+- To discover the truth, take time to methodically sift through the presented information.
+- If you can understand the ideas *behind* what you're consuming, everything that repeats the same idea will be easier to process.
+
+Typically, finding truth becomes increasingly hard when at least one side of a viewpoint is [controversial](people-conflicts.md).
+
+- Usually, if there's "consensus" without much explanation, any contrasting views will be difficult to find.
+- To save energy, carefully consider if even *knowing* a competing viewpoint has any [use](purpose.md) to you.
+- If you're willing to wait 6 months not learning anything new about a topic, the [trends](people-trends.md) will typically have shifted, and the truth will slowly unveil itself.
+
+If you may need to know the opposing views, consider *both* of them.
+
+- You'll understand more about a topic by reading 2 articles each from a [conservative and liberal](politics-conservativeliberal.md) publication than about 15 of them from only one side.
+- The more harsh the divide, the larger the middle ground between them, and the more likely there's a wide variety of perspectives buried by attention toward the extreme views.
+
+## 3: Limit the streams
 
 We do well enough with any set of information, but the trouble arises from having too much information at *once*.
 
@@ -73,7 +146,7 @@ Learn to say "no" to more information.
 
 While it's our impulse to think of each article and subject as one thing, it's more useful for us to imagine the information flowing through a type of "stream".
 
-- Some streams (e.g., latest news headlines) run *very* rapidly, almost to the point of overwhelm simply by skimming them.
+- Some streams (e.g., the latest news headlines) run *very* rapidly, almost to the point of overwhelm simply by skimming them.
 - Other streams are comparatively slow (e.g., monthly newsletter).
 
 These streams have a natural speed, based on their origin:
@@ -97,7 +170,7 @@ Our intuition is a valuable detection system for [risks](safety-riskmgmt.md), so
 
 And, if anything seems to have unusually high value or could be potentially useful, make sure to [commonplace it](https://stucky.tech/notes/).
 
-## Fix 3: Mindfully sift
+## 4: Mindfully sift
 
 We consume because we're trying to stay informed about a few domains:
 
@@ -117,9 +190,28 @@ The constant stream of data is valuable to us because it *sometimes* yields some
 - Work as hard as you can to attach whatever you're consuming to something legitimately practical.
 - Most people stop after they've burned out, but leave as soon as you see 4-5 consecutive things that weren't worth your time.
 
+There is an endless supply of information on everything, but not of your time.
+
+- Try to not keep a pile of "to consume" around.
+  - Never keep more than 4 weeks' worth of content available.
+- Your time [having fun](fun.md) and with your [family](people-family.md) is far more important than simply knowing more information.
+
 Reading and watching content is *much* less effective than writing summaries.
 
 - While you don't need a [rigorous method](https://stucky.tech/method/), you must *do* something with that information to add any [meaning](meaning.md) to it.
+
+Consider the facts per minute:
+
+- Since your time is more important than anything else, you will save time if you can get just what you need in the shortest window of time.
+- Without learning to reject content, most information will flow through at around 2 f/m.
+- If you're fully focused, you should be consuming about 5 f/m (something new every ~12 seconds).
+  - There is also an effective "new facts per minute", which should be at least 1 nf/m.
+- Some conditions can severely alter your retention rate:
+  - [Taking notes](mind-memory-notes.md) can double your f/m retention on dense content.
+  - Caffeine and interest in the subject can raise your maximum f/m.
+  - When multitasking, your retention will be ~0.5 f/m.
+- To accommodate multitasking, most standard podcasts are configured to give ~0.2-0.4 f/m.
+- If you don't feel like you're learning much, swap out the source for a higher f/m.
 
 You must *enjoy* what you're consuming to pay attention to it.
 
@@ -136,14 +228,17 @@ The content length gives clues on how information-dense the subject will be.
 
 If you wish to multitask, pair up mindless tasks whenever you can (e.g., listen to music or a lightweight podcast while doing something relatively repetitive like [household chores](home-housekeeping.md)).
 
-- Only use long-form content to multitask, since short-form will be so information-dense that you'll lose some of the information quality.
+- Only use long-form content to multitask, since short-form will be so information-dense that you'll lose some information quality.
+  - Even if the information isn't that dense, context-switching every 3-5 minutes can still slow you down.
+- You can increase your retention while multitasking by paying attention to *when* the content delivers a useful fact.
+  - Generally, a speaker will assume a more commanding tone of voice when they make an assertion they believe.
 
 However, do *not* pair thought-heavy tasks with anything else.
 
 - To [study or understand information](mind-memory.md), do *nothing* else at the same time, with the possible exception of listening to quiet instrumental music.
 - If the information is boring, but you still must work with it, feel free to doodle or something else mindless, but only to focus more easily on the boring information.
 
-## Fix 4: Create more slowly
+## 5: Create intentionally
 
 There's tremendous wisdom in the slowness of speech, and the framing of society created an inherent slowness of speech (or writing) when someone was trying to present information to large groups of people. It usually took weeks or months to propagate a discovery:
 
@@ -181,9 +276,13 @@ If you're recommending media to others, your journey will *not* be theirs:
 
 *All* of this requires a specific type of humility: that [nothing is truly new](people-trends.md). You're not that important; nobody across the billions of people here has truly gone beyond what others ([or even God](religion.md)) have thought before.
 
-## Fix 5: Well-managed information
+## 6: Carefully manage the information
 
 Now that we're not drowning in too much information or socially poisoning our environment with regurgitated information, we must manage the higher-quality remainder.
+
+The convenience of simply saving the information will deaden our minds to the significance of that information.
+
+- Therefore, we must write down or [create](creations.md) with anything that has legitimate value.
 
 Maintaining information requires sacrificing your attention.
 
@@ -240,68 +339,7 @@ Clearly demarcating exclusive categories (where it can *only* be one or the othe
 
 Once something seeps into our subconscious, we start developing [principles](people-rules.md), which slowly form rules for how we should live. Over time, a type of "[mental automation](habits.md)" frees us up to better work with information.
 
-## Fix 6: Detect bias
-
-Learn to detect language that demonstrates the [types of bias](mind-bias.md) people often maintain.
-
-- Since we *all* have a bias, expect a pre-existing value system that misses at least *some* details.
-- Typically, people share most information because they perceive specific [facts](reality.md) they want others to know.
-- Most of the time, if the tone is depicted as unbiased, it probably has *more* bias than one where they fully own their slanted perspective.
-
-The true information tends to accumulate bias as stories are retold and distilled.
-
-1. The raw scientific study or story is usually the most reliable.
-   - e.g., "a study has found that eating a pound of sugar a week is bad for your health"
-2. The press release is usually more vague.
-   - e.g., "sugar is bad for your health"
-3. The social media posts about the press release are typically sensational.
-   - e.g., "we must disavow sugar use forever"
-4. Hearing about the *social media posts* from others (e.g., a news article) quickly becomes complete misinformation.
-   - e.g., "new anti-sugar cult has taken social media by storm"
-
-The language's tone can indicate many aspects of bias:
-
-- The article must adequately question its values and others, then point out potential flaws and complications with that particular view.
-- A content creator is typically paid to advance a particular perspective, so find out who pays them.
-- If you can, look at their past beliefs and projections, and whether they withstood the [fashions](people-trends.md) of that time (use an internet archive if you can).
-- Examine *why* they're focusing heavily on one aspect or neglecting another aspect.
-
-If the perspective implies "unbiased facts", sharpen your instincts:
-
-- Trust the information if it's [common-sense](mind-feelings.md).
-- *Don't* trust the information if it's difficult to verify or confusing, and slow down to learn more about it if it's relevant at all to you.
-- Learn to identify specific demands for more rigor without an equal amount of demand to the contrary.
-  - e.g., demanding scientific proof of [God](religion.md) without demanding equally [scientific proof](science.md) of God's absence.
-
-Watch for misused language:
-
-- Adapting nouns to evoke a stronger feeling ("carnivorous mammal" instead of "cat").
-- Adding adverbs and adjectives to make the story more sensational ("brutally slaughtered" instead of "killed").
-- Beginning the story or paragraph with emotionally charged words ("Tragedy strikes at the...", "It is a terrible day in history when...").
-
-Large media organizations frequently use an abundance of information to overwhelm.
-
-- Their reasoning is that if you're overwhelmed, you'll trust them because they clearly have much to say on the subject.
-- The most profound version of this comes from an abundance of poorly gathered [data](database.md).
-- [AI-assisted](computers-ai.md) media makes this tactic even *more* powerful.
-
-There are many, many ways to [distort image](people-image-distortion.md), and [technology](technology.md) *constantly* opens more possibilities.
-
-- To discover the truth, take time to methodically sift through the presented information.
-- If you can understand the ideas *behind* what you're consuming, everything that repeats the same idea will be easier to process.
-
-Typically, finding truth becomes increasingly hard when at least one side of a viewpoint is [controversial](people-conflicts.md).
-
-- Usually, if there's "consensus" without much explanation, any contrasting views will be difficult to find.
-- To save energy, carefully consider if even *knowing* a competing viewpoint has any [use](purpose.md) to you.
-- If you're willing to wait 6 months not learning anything new about a topic, the [trends](people-trends.md) will typically have shifted, and the truth will slowly unveil itself.
-
-If you may need to know the opposing views, consider *both* of them.
-
-- You'll understand more about a topic by reading 2 articles each from a [conservative and liberal](politics-conservativeliberal.md) publication than about 15 of them from only one side.
-- The more harsh the divide, the larger the middle ground between them, and the more likely there's a wide variety of perspectives buried by attention toward the extreme views.
-
-## Fix 7: Focus on known-good trends
+## 7: Focus on known-good trends
 
 [New trends](people-trends.md) have a distinct pattern:
 
@@ -321,7 +359,7 @@ So, this opens up a new set of constraints:
 
 Some people may disagree with these ideas, but everything is a remix, and nothing is truly "new". If they would rather not admit that connection, they're probably a [technical idiot](https://gainedin.site/idiot/) and could stand to [integrate their shadow](people-personality.md) a bit.
 
-## Fix 8: Stay practical
+## 8: Stay practical
 
 Naturally, even old things can become nearly useless. Horsemanship skills, for example, no longer apply as much as [automotive driving and maintenance skills](autos.md).
 
@@ -366,22 +404,20 @@ The fixes can be distilled into a set of questions, which can be asked for every
 
 1. Am I consuming too much information?
    - If so, turn off the valve for a while.
-2. Do I have too much information to consume?
-   - If there is, get rid of portions of the inbox.
-3. Am I learning fast enough with the information?
-   - If it's too slow, aim for better-quality consumption.
-4. Does my information add value to anyone else?
-   - If not, stop providing information for a while until your subconscious reloads.
-5. Have I sufficiently [organized](organization.md) my information?
-   - If not, turn off the valve, stop creating for a while, and get to organizing.
-6. Am I consuming cutting-edge stuff?
-   - If so, stick it on a calendar and consume it later.
-7. Am I fully certain of the bias of the information?
+2. Am I fully certain of the bias of the information?
    - If not, learn who made the content, and why.
+3. Do I have too much information to consume?
+   - If there is, get rid of portions of the inbox.
+4. Am I learning fast enough with the information?
+   - If it's too slow, aim for better-quality consumption.
+5. Does my information add value to anyone else?
+   - If not, stop providing information for a while until your subconscious reloads.
+6. Have I sufficiently [organized](organization.md) my information?
+   - If not, turn off the valve, stop creating for a while, and get to organizing.
+7. Am I consuming cutting-edge stuff?
+   - If so, stick it on a calendar and consume it later.
 8. How do I plan to use this information?
    - Use it, organize it, or shove it out of your workspace.
-9. Does anything else work?
-   - If it does, make it a principle.
 
 This information blast [trend](people-trends.md) will only slow down when two conditions happen at once:
 

@@ -99,7 +99,7 @@ While a monopoly may not be corrupt in its inception, the most apparent indicato
 
 APPLICATION: Research *every* company you buy things from. You'll often find that the company is simply [one of the many faces](politics-monopolies.md) of a gigantic bad system.
 
-To stifle new [trends](people-trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](entrepreneur-why.md) to build a [competitive](money-economics.md) alternative that gives the public more [choices](mind-decisions.md) ("anti-competitive practices"):
+To stifle new [trends](people-trends.md) that may unseat their [power](power.md), most monopolies try to shut down anyone taking the [necessary risks](entrepreneur-why.md) to build a [competitive](money-economics.md) alternative that gives the public more [choices](mind-decisions.md) ("anticompetitive practices"):
 
 - Lowering prices beyond the lowest-possible cost of the item (i.e., taking a severe financial loss) to make it completely impossible for smaller [competitors](money-economics.md) to have a reasonably comparable price.
 - Giving an "open forum" for discussion, but preventing dissenters from saying what they want.

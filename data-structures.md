@@ -3,7 +3,7 @@
 
 To store information, engineers have a variety of possible techniques to work with data in [memory](computers-memory.md).
 
-At its base, there are [data primitives](data.md). They are combined together to create more elaborate structures of data.
+At its base, there are [data primitives](data.md). They are combined to create more elaborate structures of data.
 
 There are *many* elaborate ways to store data. Each one has its "use cases".
 
@@ -51,7 +51,7 @@ Arrays can be sorted by some other value (such as alphabetical or numerical orde
 
 ### Records
 
-By grouping an arrays into a homogenous system, you can create a "record" that consists of various data types. This is the backbone of most databases.
+By grouping arrays into a homogenous system, you can create a "record" that consists of various data types. This is the backbone of most databases.
 
 A record will often contain a key at the beginning, then a set of organized data values based on the information you're trying to hold (e.g., [1, "John Smith", 32], [2, "Mark Jones", 25]).
 
@@ -81,13 +81,13 @@ If you use an [algorithm](computers-programming-algorithms.md), you can make the
 
 If you put the list with references at the end to other locations (instead of setting it in the same place in memory), you can create a "linked list".
 
-One specific type of list is called a "tuple", which is a finite ordered list of elements that can't be changed. An n-tuple has n elements in it.
+One specific type of list is called a "tuple", which is a finitely ordered list of elements that can't be changed. An n-tuple has n elements in it.
 
 ### Associative arrays
 
 An associative array, or "dictionary", is a variation of an array, but uses a "key" instead of an index. This gets rid of the linear nature of arrays. So, you'll have to know what "key" you want instead of the number it corresponds to ("key/value pair"). Most [databases](database.md) use dictionaries.
 
-Each key must be unique or the database will spit out an error, though the *values* can be the same. Thus, `bobjohnson@yahoo.com` is taken right now, but `bobjohnson_2015@yahoo.com` or `bobjohnsondestroyerof17worldsofwarcraft@yahoo.com` might still be open.
+While the values can be the same, each key must be unique or the database will spit out an error. Thus, `bobjohnson@yahoo.com` is taken right now, but `bobjohnson_2015@yahoo.com` or `bobjohnsondestroyerof17worldsofwarcraft@yahoo.com` might still be open.
 
 If the key is designed to grab more than one value, then the data structure is called a "multimap".
 
@@ -124,5 +124,5 @@ By using various [cryptographic techniques](encryption.md), you can add many lay
 One frequent hash-based data structure is a Merkle Tree:
 
 1. Convert all the data elements into [hashes](encryption.md).
-2. Use an algorithm to process some of the hashes into a separate hash (e.g., "abc" and "def" together becomes "ab").
+2. Use an algorithm to process some hashes into a separate hash (e.g., "abc" and "def" together becomes "ab").
 3. Keep doing it to the hashes until you have 1 hash. The entire structure will visually look like a tree.

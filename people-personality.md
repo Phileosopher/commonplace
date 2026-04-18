@@ -88,11 +88,11 @@ Most things we call "personality disorders" are simply the combination of [neuro
   - Obsessive-compulsive disorder is low agreeableness and high conscientiousness.
 - While it's more neurological than personality, the [autism spectrum](mind-neurodivergence-autism.md) is the extremes of extraversion low enough to not detect others' body language, high conscientiousness, and high neuroticism.
 
-Beyond that, there are a wide variety of mixtures when these 5 base components fit together into synergies.
+Beyond that, these 5 base components create synergies with a wide variety of mixtures.
 
 - Statistically, most people have low conscientiousness and high openness to experience. This makes them very flexible to [adapt](people-changes.md) to changing situations, but comes at the risk of adapting wrongly to a [bad leader](mgmt-badsystems.md).
 - The [high-risk](entrepreneur-why.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
-- [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, they tend to spend less time pondering and run society instead.
+- [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, their lower openness to experience would mean they'd spend less time pondering and would run society instead as [managers](mgmt-1_why.md).
 - Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-specialization.md) crime can be much broader on the range of conscientiousness.
 - [Religious](religion.md) leaders (except for [cults](culture-cults.md)) are high conscientiousness and high neuroticism, with [popular](people-trends.md) religions often having high openness to experience and at least moderate extraversion as well.
 - Most [large groups](groups-large.md) tailored for [productivity](purpose.md) (e.g., corporations) are literally *run* by high-agreeableness, high-conscientiousness people (especially [women](people-gender.md)).
@@ -131,7 +131,7 @@ Proportional to our *actual* agreeableness, our actions with society's responses
 1. We quickly [learn](education.md) to [habitually](habits.md) repress the true desires and [perceptions](people-image-why.md) we'd otherwise express.
 2. To the degree we can restrain ourselves, we maintain that [image](people-image-why.md), but make a lapse in [judgment](mind-decisions.md) when we face a severe breakdown of our [willpower](mind-decisions.md). These lapses can include a drunken rage, outbursts of anger, unprovoked rude statements, failure to act, or an impulsive and large-scale decision.
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
-4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
+4. Upon reflection, we can often try even harder to repress those desires until we face another severe breakdown of our willpower.
 
 Most modern [non-medication](body-health.md) psychotherapy is devoted to exploring and unpacking [awareness](mind-awareness.md) of these true desires, then shows a way for us to converge all our personality archetypes into a cohesive whole. This is [messy](mind-creativity.md), difficult, and most cultures find it highly [controversial](morality-taboo.md). It's possible that most of the entire [framework of civilization](jobs-specialization.md) would collapse (or at least [restructure](people-trends.md)) if everyone did it at once.
 

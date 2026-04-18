@@ -16,6 +16,11 @@ Most innocent conflicts have a few particular, silly causes:
 - Solutions to issues that someone else sees as backward or incomplete.
 - Expectations about others' behavior which assume malicious intent.
 
+Whenever possible, try to avoid all conflicts in the evening.
+
+- People are usually more exhausted later in the day and likely to [become angry](mind-feelings-anger.md) than in the morning.
+- Unless it's truly urgent, postpone the conflict to the first thing the next day.
+
 ## Focusing on the issue
 
 When you disagree, have a goal in mind:
@@ -92,15 +97,15 @@ Conflicts tend to escalate through stages:
 6. After name-calling, they'll make threats proportional to their feelings (though they won't actually plan to do anything).
 7. If they're sufficiently motivated and [immoral](morality.md), they'll perform direct deviant behavior, which will either express as physical aggression or plotting revenge.
 
-However, if people are restrained, they will skip over some of the escalation stages.
+However, if people are restrained, they will skip over some escalation stages.
 
 - [Narcissists](mind-neurodivergence-clusterb-narcissist.md) will typically skip over yelling.
 - Criminally-minded people will often move straight to deviant behavior.
 
-The only way to slow this escalation is to speak gently and slowly.
+The only way to slow this escalation is to speak gently and slowly (i.e., speaking the way you would want toward you).
 
-- This doesn't stop it, though, and only stops escalating through the other person feeling they've been understood and are safe.
-- Since de-escalation is also their responsibility, it's wisest to give time to cool off, but will only improves relations if it's done before the interruptions have become yelling.
+- This doesn't stop it, though, and only stops escalating when the other person feels they've been understood and are safe.
+- Since de-escalation is also their responsibility, it's wisest to give time to cool off, but will only improve relations if it's done before the interruptions have become yelling.
   - Alternately, if any de-escalations don't improve relations, that person may be a [narcissist](mind-neurodivergence-clusterb-narcissist.md)
 
 ### Avoid escalations
@@ -133,7 +138,7 @@ If it gets heated, go to separate rooms or outside, with indication that you can
 - Do *not* leave the premises.
   - If you must leave the premises, make sure you validate your relationship with them and indicate you'll be back and where you're going, and keep your phone with you.
 - When you're calm, return to the designated room, and say nothing or gently ask if they're ready to talk.
-- Talk it out again, but keep each person's ideas to a five minute limit.
+- Talk it out again, but keep each person's ideas to a five-minute limit.
 - If it gets heated again, leave again and repeat the same procedure.
 - Quickly and meaningfully say you're sorry, but *only* if you mean it.
 
@@ -162,9 +167,39 @@ If you legitimately hurt others, apologize sincerely and quickly:
 - However, [never apologize for something you didn't do](legal-safety.md).
   - If you're careful, you can usually express heartfelt sympathy without apologizing.
 
+## Approaching respectfully
+
+Stay mindful of yelling or interruptions.
+
+- People who yell feel out of control.
+- With the exception of [narcissistic behavior](mind-neurodivergence-clusterb-narcissist-conflicts.md), interruptions are a sign that someone is more concerned with what they have to say than what others may say.
+
+Designate time to share perspective.
+
+- Set a 5-minute timer, then swap to the other.
+  - Make it clear that if anyone disagrees, they will write it down for revisiting.
+- If there are interruptions, respectfully communicate that you understand they disagree, and that they'll have a chance to speak (i.e., "I respected you while you spoke, so please respect me while I'm speaking").
+- Let both sides give their 5-minute summary, then both of you will sleep on it.
+  - The point is to carefully work through it with consensus, not simply to ["fix" the problem](https://adequate.life/fix/).
+  - While delaying doesn't give much pleasure, it will maximize the best possible outcome because working through conflicts peaceably takes time.
+
+Use the Speaker/Listener Technique to respect everyone's boundaries.
+
+1. The person who feels the most severe pain at the moment is the Speaker and has the floor.
+   - The Speaker must speak honestly and without accusation.
+   - To respect time and attention span, they only get 1-2 minutes to speak.
+2. The other person is the Listener, who must paraphrase whatever the speaker said after listening.
+   - The Listener must edit out all responses or disagreements to the Speaker.
+   - The Listener is simply trying to understand the Speaker, not solve a problem.
+3. The Speaker corrects the Listener on anything they got wrong.
+4. If the Speaker finds the Listener's summary acceptable, they switch roles.
+   - Stay on only one topic at a time, and do *not* move to another topic.
+5. Repeat back and forth until both sides feel fully understood.
+6. Plan a time the next day when it's worth discussing the solutions to the issue.
+
 ## Setting boundaries for yourself
 
-Watch for [dysregulation](mind-awareness-dysregulation.md)in yourself:
+Watch for [dysregulation](mind-awareness-dysregulation.md) in yourself:
 
 - We can often become unaware of our own feelings, but still act in a way we believe is completely rational.
 - Over a long period, we may even normalize irrational behavior.
@@ -178,7 +213,7 @@ If you feel [your rights](people-boundaries-why.md) are being violated, take per
 
 - If you focus more on the person who violated your rights, you're keeping yourself open to that event repeating itself with someone else.
 
-If you're in an argument with someone publicly and it's a waste of time, either terminate the conversation or focus your statements solely toward the *audience* of the argument.
+If you're in an argument with someone publicly, and it's a waste of time, either terminate the conversation or focus your statements solely toward the *audience* of the argument.
 
 Every encounter has a possibility for [negotiation](people-conflicts-negotiation.md) as the situation changes, even including [a large-scale war](people-conflicts-war-why.md).
 

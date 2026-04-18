@@ -200,7 +200,7 @@ Watch carefully what you're downloading:
 Many "standard installation" options install harmful or worthless software ("bloatware"):
 
 - Always select "custom installation" to avoid installing additional software.
-  - Take your time to read what you're installing or the installation program is doing.
+  - Take your time to read both what you're installing and what the installation program is doing.
 - All the "helpful" web browser toolbars from Ask, Yahoo, etc. can create new entry points for viruses.
 
 ## Keep your computer updated
@@ -230,7 +230,7 @@ Ironically, antivirus software will bog a computer down:
 Many antivirus programs (especially free ones) are often full of security vulnerabilities that make them more unsafe than *not* having them:
 
 - Do your research online by looking through tech publications, *not* the main website of that antivirus software.
-- The best antivirus software for Windows and Mac are built into Microsoft's framework without any extra installation necessary (Windows Defender and XProtect, respectively).
+- The best antivirus software for Windows and Mac is built into the operating system framework without any extra installation necessary (Windows Defender and XProtect, respectively).
 
 ## You may get a virus
 

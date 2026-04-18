@@ -42,7 +42,7 @@ Your biggest challenge will be [self-awareness](mind-awareness.md) of your weakn
 
 Social anxiety is typical, but you can only land a job if you move out of your comfort zone.
 
-### Work at the job search every single day
+### Work toward the job search every single day
 
 Research your desired industry when you're not looking for jobs:
 
@@ -93,7 +93,7 @@ Practice an original introduction to showcase what you *want* to do instead of m
 
 "I am trying to learn (item) so that I can rethink (industry)"
 
-- You can learn about changes from that person in both your exiting and entering industries.
+- You can learn about changes from that person in both industries you're exiting and entering.
 - If they ask more about your industry, share how your non-linear career path prepared you for your work.
 
 "I work in (space/area/industry) doing (career goal)"
@@ -235,7 +235,7 @@ If you meet, ask them your questions and then listen carefully, especially about
 
 Most influencers you contact will likely ignore you, but you can win them over:
 
-- Recall an idea they said in passing and how you decisively responded to it, then send them a thank you note.
+- Recall an idea they said in passing and how you decisively responded to it, then send them a thank-you note.
 - Send a followup email about a small commitment in response to their suggestion (e.g., connecting with someone else).
 - Send another followup email about how you followed through on that commitment and wanted to both update them and receive advice on what to do next.
 
@@ -274,9 +274,9 @@ Business environment:
 
 - Major competitors
 - Clients', suppliers', and competition's view of the company
-- Latest news reports about or connected with the company
-- Company management style
-- Company's involvement in the community
+- The latest news reports about or connected with the company
+- That company's management style
+- The company's involvement in the community
 
 The job itself:
 
@@ -309,7 +309,7 @@ Find your hiring manager's name with the LinkedIn's Advanced Search feature:
 
 - Design or research something for the company for free.
 - Start your work for them before you talk to them or apply.
-- When you apply, send an email to a high-rank employee like the CEO or VP about what you've done.
+- When you apply, email a high-rank employee like the CEO or VP about what you've done.
 - Follow up every few weeks until they respond.
 
 ## Carefully design your cover letter
@@ -317,7 +317,7 @@ Find your hiring manager's name with the LinkedIn's Advanced Search feature:
 Hiring managers often throw away resumés with a copy-pasted cover letter:
 
 - Hiring managers sift through hundreds of applications a day, and the cover letter is the first thing they see.
-- Spend an extra couple hours of devoted effort to make a personalized letter instead of a copy-pasted one.
+- Spend an extra few hours of devoted effort to make a personalized letter instead of a copy-pasted one.
 
 Each letter should be a separate personal communication tailored to that specific hiring manager.
 
@@ -397,7 +397,7 @@ When you apply for the job, save a copy of the job description in case it's remo
 If something seems too good to be true, it probably is:
 
 - Many scams and [pyramid schemes](marketing-mlm.md) appeal to the unemployed and desperate.
-- Scam ads and emails often show hyper-inflated salaries or odd hourly wages.
+- Scam ads and emails often show hyperinflated salaries or odd hourly wages.
 - Scams usually ask you to send money or personal information before proceeding.
 - A great-looking job description can often embellish the truth or hide unfortunate elements of the work environment
 - If a job that appears repeatedly on job boards, the hiring manager is likely having trouble finding a legitimate, consistent worker.

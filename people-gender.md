@@ -3,9 +3,11 @@
 
 There are *many* [elements every person have in common](humanity-universals.md) compared to the differences in gender.
 
-Gender is a biological construct, and is as unchangeable as race. From birth, we come out as males and females, with a *very* small statistically anomalous group that ends up fitting into both at once or neither.
+Gender is a biological construct, and is as unchangeable as race. From birth, we come out as males and females, with a *very* small statistically anomalous group that ends up developing both sex organs but still lean toward one gender or the other.
 
 Even people who don't [identify](people-identity.md) with their birth gender require rejecting or adapting the [reality](reality.md) of their birth to get to the point of non-identification.
+
+Some people contest the distinction between gender, sex, and identity. However, this distinction implies that human existence sits within a vacuum.
 
 ## Contrasts
 
@@ -15,7 +17,18 @@ Like everything else we perceive, we tend to observe gender differences as compl
 - Men don't value [friendships](people-friends-why.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
 - Women don't persevere with [decisions](mind-decisions.md) as much as men because their nature is to revisit them for verification.
 
-The differences arise from birth, specifically in whether the wiring for reproduction is built into us. Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't. In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
+The differences arise from birth, specifically in whether the wiring for reproduction is built into us.
+
+- Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't.
+  - The female mind is perpetually preoccupied with patience in fostering a delicate thing, while at the same time concerning itself with other things at the same time (e.g., risks, further resources).
+    - This mindset is vital for fostering delicate things.
+  - In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
+  - However, in the wrong time and place (i.e., after a 6-month-old infant), a female can often enable bad behavior or disempower developing children.
+  - Further, in the presence of [danger](safety.md), they will instinctively align with an anti-predator mindset, which effectively gives *zero* [justice](morality-justice.md) to the alleged "predator".
+- By contrast, men are born without a reproduction [purpose](purpose.md).
+  - They grow up with an existential emptiness they are required to fulfill with an external validation.
+  - This makes them far more hesitant to frame their purposes toward anything, as well as more willing to die for a legitimate cause.
+  - Their greatest risk comes through their comparatively distant behavior in comparison to women.
 
 Those facts create a framing of [understanding](understanding.md) that build the [logic](logic.md) into dramatically different results:
 
@@ -50,9 +63,9 @@ Further, men and women have neurological and biological distinctions:
 - Men show more antisocial behavior, and females have more [anxiety](mind-feelings-fear.md).
 - Most [substance abusers](addiction.md) are male, and most anorexics are female.
 - In experiences with strong [animal experiences](mind-feelings.md) (e.g., porn, horror films), men remember the broad concepts of the thing while women remember many specific details.
-- Men tend to have more upper body strength and larger builds, and women tend to have more lower body strength and more delicate frames.
+- Men tend to have upper body strength and larger builds, and women tend to have lower body strength and more delicate frames.
 
-APPLICATION: Men are stronger than women, and women are weaker than men, and this [power](power.md) battle can never be resolved without both sides learning to [love](people-love.md) each other.
+APPLICATION: Men are stronger than women, and women are smarter than men, and this [power](power.md) battle can never be resolved without both sides learning to [love](people-love.md) each other.
 
 ## Sex
 
@@ -88,10 +101,10 @@ Even in a completely free society, males have more roles with heavy lifting and 
 
 With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](people-culture.md):
 
-- Men are usually seen as laborers, hunters, providers, and [establishers](entrepreneur-why.md). They're usually more likely to steal from  and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
-- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries-why.md) well with others and find a harmonious [solution](results.md).
+- Men are usually seen as laborers, hunters, providers, and [establishers](entrepreneur-why.md). They're usually more likely to steal from and [overpower](power.md) others, and will often [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
+- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries-why.md) well with others and find a harmonious [solution](results.md). However, their diminished willpower that creates social cohesion means they're also more likely to [deceive and distort the truth](people-lying.md).
 
-This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have an harder time curbing their [feelings](mind-feelings.md).
+This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have a harder time curbing their [feelings](mind-feelings.md).
 
 Biology dictates itself to the degree we [identify](people-identity.md) with the comparison, and there are nurturing males and commanding females. Barring physical limits, how we express and create is determined by *many* factors irrespective of gender, mostly from [attitude](success-2_attitude.md) and [habits](habits.md). Some aspects of living (e.g., martial arts) are inherently "male", while others (e.g., technology) are inherently "female".
 
@@ -105,9 +118,9 @@ APPLICATION: The philosophy of "complementarianism" is valid, in many respects:
 
 ## Mating
 
-The nature of [personality](people-personality.md) makes us naturally lopsided with the need for others to balance us out. We also happen to have animal sexual desires as well. These two needs combine together and drive us to find a mate.
+The nature of [personality](people-personality.md) makes us naturally lopsided with the need for others to balance us out. We also happen to have animal sexual desires as well. These two needs combine and drive us to find a mate.
 
-These two attributes together can be risky. We can often find a bad match because that person happens to contain many things that the exact *opposite* of what we are, even when certain [habits](habits.md) will lead to disastrous results later. One of the most common mismatched pairings comes through how there's always one person who is generally antisocial and the other is generally over-intimate.
+These two attributes together can be risky. We can often find a bad match because that person happens to contain many things that the exact *opposite* of what we are, even when certain [habits](habits.md) will lead to disastrous results later. One of the most common mismatched pairings comes through one person who is generally antisocial with the other being generally over-intimate.
 
 APPLICATION: We must [date carefully](relationships-dating.md) to avoid devoting our lives to someone who will never value who we really are. No person can truly satisfy us the way we expect them to at the onset of a relationship.
 
@@ -121,13 +134,13 @@ While men may seek a useless, beautiful woman, women require men to bring some f
 
 When we select a mate, we tend to match based on what we believe exists that's available to us, which makes a "ceiling" of what we pursue (i.e., people who are attractive enough that we like them, but not enough that they'd quickly select someone better than us). While we don't *turn down* a stunningly attractive person's interest in us, we won't see actively pursuing it to be worth our effort unless we have a *very* strong [ego](people-identity.md).
 
-APPLICATION: The conventional roles of "men work and women stay home" *can* be different than a power game, and can easily serve a mutual benefit. Historically, housewives would often clean and cook out of *gratitude* for their husband's provision.
+APPLICATION: The conventional roles of "men work and women stay home" *can* be different from a power game, and can easily serve a mutual benefit. Historically, housewives would often clean and cook out of *gratitude* for their husband's provision, and husbands would *cherish* their wives' contributions.
 
 Making a marriage is a type of [agreement](people-contracts.md). Irrespective of [love](people-love.md) for each other, it's a promise to maintain and support each other for the rest of their lives. This becomes *very* complicated when each partner finds [past issues](hardship-ptsd.md) that were never properly dealt with and carried into the present (e.g., a prior marriage).
 
 APPLICATION: Marriage is *not* rational, but is necessary to find [meaning](meaning.md) because it forces people to work out [conflicts](people-conflicts-why.md) with each other.
 
-Men tend to be more physically attracted to women than the other way around. For this reason, men tend to aim for [younger](maturity.md) women by a margin of 3-10 years. The stronger [risk-taking](entrepreneur-why.md) tendencies in men also means they tend to live 3-4 years less than women.
+Men tend to be more physically attracted to women than the other way around. For this reason, men tend to aim for [younger](maturity.md) women by a margin of 3-10 years. The stronger [risk-taking](entrepreneur-why.md) tendencies in men also mean they tend to live 3-4 years less than women.
 
 APPLICATION: Men pick younger women and tend to not live as long as women, which means that women are forced into a statistical likelihood of being alone when they're old, either by widowing or becoming a spinster (i.e., never marry).
 
@@ -142,14 +155,56 @@ A huge component of gender conflicts comes from our specific needs:
 
 Men often give respect to women who don't want it, and women often give affection to men who don't care for it. Each gender doesn't naturally communicate in the other's [language](language.md) and must learn it from them, which requires patience to [teach](understanding.md).
 
-APPLICATION: If men gave women affection and women gave men respect, most [inter-gender conflicts](people-conflicts-why.md) would disappear. But, that requires more [love](people-love.md) than most people are willing to give.
+APPLICATION: If men gave women affection and women gave men respect, most [intergender conflicts](relationships-marriage-conflicts.md) would disappear. But, that requires more [love](people-love.md) than most people are willing to give.
 
 APPLICATION: If men and women can figure out how to manage their differences, they can have [very meaningful relationships together](relationships-marriage.md). Women must simply learn to [respect](results.md) men, and men must simply learn to [cherish](values-quality.md) women.
 
 The battle for women's rights is to give them enough [power](power.md) that they [feel](mind-feelings.md) equal. Since the genders are uniquely different, the only reconciliation that would satisfy many women in a free society is *more* power than men, which is legitimately [unfair](morality-justice.md) to men.
 
-APPLICATION: The [Left](politics-leftism.md) pushes to magnify gender differences, then tries to equalize women to fully play out men's roles. But, everyone is uniquely different, with unique needs and [desires](purpose.md). Females want affection and adoration, while males want respect.
+APPLICATION: The [Left](politics-leftism.md) pushes to magnify gender differences, then tries to equalize women to fully play out men's roles. But, everyone is uniquely different, with unique needs and [desires](purpose.md) that can't be reconciled through any incentive system.
 
-Like with anything else, differences can be [strengths](power.md) or weaknesses, all based on [perspective](people-image-why.md) and [use](purpose.md). In many ways, the contrast between males and females serve *huge* advantages for society when people can employ the correct time and place for a woman's or man's approach.
+APPLICATION: Over time, organizations carry a similar [trend](people-trends.md) in gender ratio:
 
-APPLICATION: The genders work fantastically well with one another, assuming basic human [love](people-love.md). Otherwise, it's all a [power](power.md) game that men can ultimately win by a show of force, which is the [stereotype](people-image-why.md) of an authoritarian male.
+1. When a [group](groups-small.md) doesn't need its [leadership](mgmt-1_why.md) to be strong against [conflict](people-conflicts.md), it selects lower-testosterone men.
+2. Eventually, the low-testosterone [culture](people-culture.md) empowers females to take the role.
+3. Eventually, the higher female ratio drives the organization further [leftward](politics-leftism.md) and validating [O'Sullivan's First Law](lawsaxioms-large.md).
+
+Like with anything else, differences can be [strengths](power.md) or weaknesses, all based on [perspective](people-image-why.md) and [use](purpose.md). In many ways, the contrast between males and females serve *huge* advantages for society when people can employ the correct time and place for a woman's or man's approach:
+
+It's often [taboo](morality-taboo.md) to say, but the two genders work best with women detecting problems and strategizing while men make difficult decisions and fix problems.
+
+- Women often want men's roles, but are too intelligent to have the confidence to maintain those roles.
+- When men are placed in a supporting role to women, they don't have the mental ability to reason out possible risks or problems.
+
+APPLICATION: The genders work fantastically well with one another, assuming basic human [love](people-love.md). Otherwise, it's all a [power](power.md) game that men can ultimately win by a show of force, which becomes the [stereotype](people-image-why.md) of an authoritarian male that eventually re-represents itself in a show of force.
+
+## Men and feelings
+
+Due to the above-stated controversy, men tend to suffer a particular [emotional](mind-feelings.md) crisis in society because they are trained to disregard their feelings.
+
+- Men often become trained to [fear](mind-feelings-fear.md) expressing themselves, being vulnerable with how they feel, or [identify](people-identity.md) with their feelings.
+  - This assertion on the outside is that those behaviors are "weak", "feminine", or "inferior".
+  - Taken far enough, the ideal can represent as the [philosophies](philosophy.md) of Stoicism or post-modern thinking.
+
+Most of the time, this is a false perception of an ideal for adult male behavior.
+
+- In the absence of a [good father figure](parenting-children.md), male children must figure out how to be men.
+- Authentic manhood is driven by [self-awareness](mind-awareness.md) and courage to confront [feelings](mind-feelings.md), but it doesn't create tangible results.
+- Due to the unique existential emptiness of men compared to women, they will find more [meaning](meaning.md) in domains they're familiar with (e.g., [fixing things](https://adequate.life/fix)) than in unfamiliar things (i.e., their feelings).
+
+Society's expectations, [cultural standards](people-culture.md), and [trauma](hardship-ptsd.md) all contribute to this issue.
+
+- Traditional society often portrays men as strong, stoic, and emotionally reserved, with very little display of vulnerability or [sadness](mind-feelings-sadness.md).
+  - Boys often don't find much emotional expression in their male role models, which will lead them to believe that showing feelings isn't "manly".
+  - Often, boys will ridicule other boys for expressing emotions, further enhancing their beliefs.
+- A boy seeing a negative reaction in early childhood to their feelings can teach them to suppress what they feel.
+  - At the far end, many men are unable to recognize, understand, and express emotions ("alexythemia").
+- Many times, a male will fear that expressing their feelings will lead to an outburst or loss of control.
+  - In their question for [meaning](meaning.md), males will often develop a fear that expressing feelings will burden others or create [conflict](people-conflicts.md).
+  - Often, men will express their feelings through actions instead of words.
+
+Sadly, society indicates men are universally permitted to express only three specific feelings:
+
+- [Anger](mind-feelings-anger.md)
+- Pride
+- Disdain

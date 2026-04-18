@@ -87,7 +87,7 @@ The property calculation can come from multiple possible valuation methods:
 - Market Value - how much it could have been sold for right before the loss (policies are *rarely* written on this basis).
 - Agreed Value - the insurer and insured agree to a discrete coverage limit, with no attachment to anything else, and becomes coinsurance if it's not extended during a renewal.
   - If the insured and insurer can't agree on a coverage amount, the insurer can waive the coinsurance requirement with an Agreed Value Approach with an inflation guard endorsement to reflect automatic coverage increases.
-- Stated Value - a value given by the insured, where the insurer pays the lower of their stated amount, the ACV, or the repair cost.
+- Stated Value - a value given by the insured, where the insurer pays the lowest of their stated amount, the ACV, or the repair cost.
 - Salvage Condition - the remaining value of a total loss, typically used to recuperate some costs to the insurance company.
 
 This valuation or its calculation is often clearly defined in the policy contract.

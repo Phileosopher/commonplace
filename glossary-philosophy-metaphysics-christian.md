@@ -5,7 +5,7 @@
 
 Since we are distinctly *not* God, but God has distinctly made the universe and everything in it, then all Christian metaphysics must necessarily be **dualism** across reality (except moral dualism, since Christians define [immorality](morality.md) as the *absence* of good).
 
-- **Cartesianism/Substance dualism** can't exist strictly, since there are enough Bible verses to indicate that the [a person](humanity.md) is composed of the collective whole that incorporates *both* their mind and body (e.g., flesh/spirit battle expressed in [Romans 7:15](https://biblehub.com/romans/7-15.htm)).
+- **Cartesianism/Substance dualism** can't exist strictly, since there are enough Bible verses to indicate that [a person](humanity.md) is composed of the collective whole that incorporates *both* their mind and body (e.g., flesh/spirit battle expressed in [Romans 7:15](https://biblehub.com/romans/7-15.htm)).
 - **Epiphenomenalism** isn't possible, since the very universe itself was corrupted by our severed ties between us and God (which is arguably a mental experience more than a physical one).
 - **Mentalism** is, by Christian theology, necessarily true, since at least some part of our minds are part of our souls, which live on past this life while our brains will decay with the rest of our bodies.
 - **Realism** is also necessarily true, at least regarding *our* perspective. However, if we argue that God's perspective is what holds the universe together, then **acosmism** is true according to God's perspective, and realism would therefore be incorrect.
@@ -131,7 +131,7 @@ False
 **Hylozoism** is *potentially* possible, but it's a stretch. It would require defining souls as physical things (and not merely spiritual).
 
 - However, **vitalism** has a high likelihood to be true, since our souls aren't a [scientifically measurable](science.md) thing.
-- **Panpsychism** may have truth, depending how it's defined and what we qualify as having a "mind".
+- **Panpsychism** may have truth, depending on how it's defined and what we qualify as having a "mind".
 
 **Physicalism** and **mechanism** can't be true, since God is spirit ([John 4:24](https://biblehub.com/john/4-24.htm)).
 

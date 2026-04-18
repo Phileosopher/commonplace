@@ -3,7 +3,7 @@
 
 Most of the challenges with math come from the complexities of the symbols. It's effectively a different language, with its own logical rules that define all of its symbols.
 
-Each of the symbols denote a concept, and learning math creates a cumulative codex that draws from most of the previous symbols to communicate an idea.
+Each of the symbols denotes a concept, and learning math creates a cumulative codex that draws from most of the previous symbols to communicate an idea.
 
 ## Mathematical state
 
@@ -59,7 +59,7 @@ Each of the symbols denote a concept, and learning math creates a cumulative cod
 
 >
 
-- Greater than, represents that it's certainly unequal and the former is more than the latter
+- Greater than, represents that it's certainly unequal and that the former is more than the latter
 - e.g., 3 > 2
 
 ≤

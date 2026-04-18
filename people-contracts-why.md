@@ -11,7 +11,7 @@ When people are willing to comply with others' standards, they're engaging in a 
 - A [fear](mind-feelings-fear.md), driven by self-preservation, from witnessing someone else's [power](power.md) to harm them.
 - [Trust](mind-trust.md) without any present basis over what someone had [said](people-conversation.md) in the past.
 
-These agreements exist so we can feel safe about what others will do with us. In the absence of [evil](morality-evil.md), we wouldn't need them.
+These agreements exist for us to feel safe about what others will do with us. In the absence of [evil](morality-evil.md), we wouldn't need them as explicitly stated.
 
 Each agreement works through a similar [story](stories-why.md):
 

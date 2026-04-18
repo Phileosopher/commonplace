@@ -6,7 +6,7 @@ We often believe conflicts are [interpersonal](people-conflicts.md) and [negotia
 In fact, *most* human conflicts are internal. Every [decision](mind-decisions.md) we make is a conflict until we've become [certain](understanding-certainty.md) of what we want, but it also expresses when:
 
 - We [feel](mind-feelings.md) something doesn't match our intuition.
-- We hear of an experience or idea that's different than we [understand](understanding.md).
+- We hear of an experience or idea that's different from what we [understand](understanding.md).
 - We experience something [unfamiliar](habits.md).
 - We [forecast](mind-imagination.md) anything in the future.
 

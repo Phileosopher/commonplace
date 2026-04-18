@@ -149,7 +149,7 @@ C. Clarify expectations with the other members and plan together:
 - Clarify how everyone will confront all setbacks, relapses, or backsliding.
 - Set a date and frequency to check how everyone is doing, revise the plan, continue unchanged, or create a new one.
 - Set target goals to show the beginning of a healing environment.
-- Make everyone verbally commit, sign, and date it.
+- Have everyone who is involved commit to it verbally, sign, and date it.
 
 If all this fails, go back to Step A or find a new group.
 

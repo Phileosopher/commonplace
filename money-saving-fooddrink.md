@@ -115,7 +115,7 @@ Compare choices before committing to buying.
 
 Engineer your grocery store experience to save money:
 
-- Set a time limit to avoid buying more as your inhibitions drop.
+- Set a time limit to avoid buying more when your inhibitions drop.
 - Get through the store faster by listening to upbeat music.
 - Grab a smaller cart or a basket to avoid the urge to fill a larger one.
 - Avoid the deli counter and fresh bakery.
@@ -124,7 +124,7 @@ Engineer your grocery store experience to save money:
 - Look at the price per ounce, not for the container.
   - Store brands are usually far cheaper.
   - Many brand coupons only mark their products down to store-brand price.
-- grab quickly perishable items, like milk or eggs, from the back of the rack.
+- Grab quickly perishable items, like milk or eggs, from the back of the rack.
 - Look in the clearance bins, discount areas, and meats on Manager's Special.
   - Don't buy anything you don't need just because it's cheap, even with coupons!
 

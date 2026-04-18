@@ -111,7 +111,7 @@ Arrest - When a person is taken into custody by a police officer and charged wit
 
 Arrearages - Money for alimony or child support, which is overdue and unpaid
 
-Arrest Warrant - A court order directing law enforcement to seize and detain a person so they can appear in court
+Arrest Warrant - A court order directing law enforcement to seize and detain a person to appear in court
 
 As Is - A contractual statement that an item is sold as it currently is, without *any* implied warranty
 

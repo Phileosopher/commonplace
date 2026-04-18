@@ -85,7 +85,7 @@ Find music that fits the theme:
      - Carefully consider everyone's ages to decide which songs would be familiar to them.
   2. Each song's bpm is a fraction of the next (e.g., go from 100 bpm to 120 bpm to 60 bpm).
      - You can usually use DJ software to seamlessly shift the tempo near the end of the song.
-  3. The tempo slows down about once every 20--30 minutes to let everyone relax.
+  3. The tempo slows down about once every 20-30 minutes to let everyone relax.
   4. The last song is very memorable.
 
 ### Decorations

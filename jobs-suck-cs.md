@@ -35,8 +35,8 @@ There are some clear warning signs, though, that you may be working for a [unive
 - The organization makes arbitrary changes without anyone's consent (e.g., removing work-from-home, changing benefits, etc.)
 - Your manager is doing something illegal or unethical:
   - Discrimination based on absolutely *anything* that isn't merit. This can include race, gender, sexual orientation, or affiliation with other people, *in either direction*. Hiring more blacks because there aren't enough blacks in that department is workplace discrimination against non-blacks, and it's still gender discrimination to hire more women than men for a gender-neutral role.
-    - Collecting private user data (non-work-related personal information, HIPAA-protected status, ADA-protected status, etc,).
-    - Mandatory overtime work, or micromanagement of how you perform tasks (e.g., must sit at a computer 2--4 hours at a time). This can often blur with the boss messaging employees after-hours or the corporate idea that the company is somehow like a family. To avoid it appearing illegal, it may simply come through heavy implications without overtly saying anything.
+    - Collecting private user data (non-work-related personal information, HIPAA-protected status, ADA-protected status, etc.).
+    - Mandatory overtime work, or micromanagement of how you perform tasks (e.g., must sit at a computer 2-4 hours at a time). This can often blur with the boss messaging employees after-hours or the corporate idea that the company is somehow like a family. To avoid it appearing illegal, it may simply come through heavy implications without overtly saying anything.
     - Setting and demanding members fulfill arbitrary deadlines without claiming personal responsibility for any miscommunication.
     - Abusing you or a coworker including sexual remarks, yelling, threatening, name-calling, teasing maliciously, or publicly shaming.
 - Your organization (or at least a business unit of it) is managed by [cult members](people-culture-cults.md).
@@ -57,9 +57,10 @@ And then, of course, are the *tech*-specific ways management can fail spectacula
   - This is often a senior engineer worried about job security, so by default not sharing how things work with anyone else will make them the expert in the matter.
   - To hide what they're doing, they'll also frequently create arbitrarily complex code or arcane systems that make it difficult to follow what they did.
 - The "key performance indicators" (KPI) are something arbitrary that doesn't really add value, such as how many [Linux kernel patches](computers-os-unix.md), [pull requests submitted](computers-software-versionctrl.md), or [patents made](legal-ip.md).
-- The management requires that all learning be *off* the clock.
+- The management requires that all learning is *off* the clock.
 - The company *requires* everyone use its proprietary system, since everyone would *want* to use it if it was decent.
   - Often, tech companies will use that proprietary system for [additional surveillance](faang.md).
+- Sometimes, your role might be *every single aspect* of IT and computers.
 
 ## Big company culture
 
@@ -92,7 +93,7 @@ Generally, when the industry is hot with [a new trend](https://trendless.tech/tr
 
 If you do find yourself in this situation, you have a few options:
 
-1. Stay in that role until you're arbitrarily fired or promoted, which might be a while. You will slowly become part of the system, though you may be able to cause some positive change if you ever get [promoted to management](mgmt-1_why.md). In many situations, the [politics](power.md) of office culture means you won't get promoted if you're smarter than your boss.
+1. Stay in that role until you're arbitrarily fired or promoted, which could take a while. You will slowly become part of the system, though you may be able to cause some positive change if you ever get [promoted to management](mgmt-1_why.md). In many situations, the [politics](power.md) of office culture means you won't get promoted if you're smarter than your boss.
 2. [Set some goals](jobs-2_goals.md) and look for a new job, using the months of experience you've already accumulated. Use the spare time at your job to learn new things. You can call it "continuing education", and may even get the company to pay for it if it's a particularly cushy company. If you're lucky, you may have a chance to join near the beginnings of a [startup](entrepreneur-6_scaling.md) elsewhere!
 3. Start making [ideas for a startup](entrepreneur-2_idea-cs.md) or [freelancing](entrepreneur-4_freelancing.md) some of your work. Be careful how much you do it on company time or hardware/software, though. You can often learn most of what you need to know with that spare time (such as how to program Python) while not necessarily doing the work that could get you in [legal trouble later](legal-ip.md). Also note that anything "made" on a company device or on company time could technically become their [intellectual property](legal-ip.md) if the company's legal team wanted to abuse the situation.
 4. If you like living on the edge and have a remote job, you can technically work two jobs at once. It's stressful and requires [lying](people-lying.md), but some people find the two paychecks worth it.
@@ -153,7 +154,7 @@ Many, *many* veterans of the tech industry have the same general attitude:
 
 1. "I worked at [software company] for a substantial portion of my life surpassing a decade."
 2. "I've made good money there, but had to make tremendous sacrifices for it."
-3. "I'm pleased to say I've moved on from that role into something I've always wanted to do.
+3. "I'm pleased to say I've moved on from that role into something I've always wanted to do."
 
 Of course, if you don't like working with tech, there are *many* in-demand trades elsewhere, and [it's worth exploring](jobs-1_why.md) if you're curious.
 

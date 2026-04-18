@@ -250,7 +250,7 @@ Plan extra boxes and time for the kitchen.
 
 [ ] Make arrangements for child and pet sitting.
 
-[ ] Thoroughly clean the entire house.
+[ ] [Deep-clean](home-housekeeping.md) the entire house.
 
 [ ] Account for any hidden valuables (e.g., fake rocks, behind appliances).
 
@@ -266,7 +266,7 @@ Plan extra boxes and time for the kitchen.
 
 [ ] Print out copies of directions for everyone driving to the new home.
 
-[ ] Have everyone pack 1--2 suitcases of necessities:
+[ ] Have everyone pack 1-2 suitcases of necessities:
 
 - [ ] Eyeglasses
 - [ ] Prescriptions

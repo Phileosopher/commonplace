@@ -32,7 +32,7 @@ Don't overachieve:
 - Making decisions that only give more money.
 - Overworking yourself and sacrificing your [happiness](mind-feelings-happiness.md).
 - Prioritizing your work over your personal life.
-- Micro-managing everything.
+- Micromanaging everything.
 - Fearing mistakes and failure.
 
 Don't settle or pursue laziness:
@@ -144,7 +144,7 @@ Archive and save *everything* that shows the work you've done at that job:
 - Save copies of documents you've made that highlight your accomplishments.
 - Only save copies of things that aren't the company's [intellectual property](legal-ip.md).
 
-When you're okay with others knowing, ask for reference letters from key coworkers who know you, and give them 3--5 items you want them to include if they don't have much time.
+When you're okay with others knowing, ask for reference letters from key coworkers who know you, and give them 3-5 items you want them to include if they don't have much time.
 
 If you have one, closely research the exact restrictions of your non-competition or non-disclosure agreement (which may include legal counsel).
 

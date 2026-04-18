@@ -53,7 +53,7 @@ Often, bad leaders can quickly emerge in a good system:
 
 The most tragic part of bad leaders is that their efforts are often [well-intended](purpose.md), but they either have a [defective philosophy of humanity](politics-leftism.md) or simply don't have the [personality](people-personality.md) to lead.
 
-Any system can fall apart into a bad system, since the most reliable way to gain [power](power.md) is to skim just a little off each entity instead of exploiting one of them severely. This can mean payment processors, fee collectors, and others are most likely to become the bad system, but it can be anyone who is willing to harm many people only a little bit.
+Any system can fall apart into a bad system, since the most reliable way to gain [power](power.md) is to skim just a little off each entity instead of exploiting one of them severely. This can mean payment processors, fee collectors, and others are most likely to become the bad system, but it can be anyone who is willing to harm many people only a small amount.
 
 ## Bad management
 
@@ -91,7 +91,7 @@ Of course, [evil](morality-evil.md) intent can lead to horrible management as we
 
 If everyone in a group is sufficiently educated, the leadership can't maintain its power. However, [education](education.md) requires work, so the leadership will [skew the truth](people-image-distortion.md):
 
-- It's human nature that nobody likes to be blamed, and people will often [tweak their image](people-image-distortion.md) to sidestep it. However, bad leadership *constantly* tries to redirect blame. Usually, they'll be [unfairly punitive or gracious](morality-justice.md) to the subject of their blame. They're simply taking advantage of the opportunity, and tend not to sincerely [believe](understanding-certainty.md) anything they say.
+- Nobody likes to be blamed, and people will often [tweak their image](people-image-distortion.md) to sidestep accountability. However, bad leadership *constantly* tries to redirect blame. Usually, they'll be [unfairly punitive or gracious](morality-justice.md) to the subject of their blame. They're simply taking advantage of the opportunity, and tend not to sincerely [believe](understanding-certainty.md) anything they say.
 - Frequently, the leadership of a bad system can find other unaffiliated groups to act as a third party (e.g., consultant, outside group). If anything wrong happens, they can always shift blame to that third party and sever ties with them to [maintain their image](people-image-distortion.md). Then, they can simply travel to one of that third party's competitors (who don't [communicate](people-conversation.md) the [risks](safety.md) of working with them). If the victim group's [specialization](jobs-specialization.md) is in enough of a [cycle](people-trends.md), there will be a never-ending supply of blame-shifting until all new entrants to that market are exhausted.
 - Often, when the system is older than the leader, they'll find ways to blend in by saying and doing what other leaders in other bad systems are doing. By conforming to existing [standards](mind-imagination.md), the premise is that they can't be blamed because they were simply honoring the standard.
 - Create a relatively small spectrum of what is deemed as acceptable opinion, then foster [fierce debates](people-conflicts-why.md) within that smaller domain to redirect from the larger spectrum of ideas.

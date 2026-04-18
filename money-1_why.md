@@ -10,7 +10,7 @@ Money is necessary to do nearly anything with other people.
 
 Our availability of money is closely connected to our [people skills](people-why.md).
 
-- More people means we spend more around them, but also that more money becomes associated with us.
+- More people mean we spend more around them, but also that more money becomes associated with us.
 - The money you make pales in comparison to the money circulating *because* of you.
 
 While money is directly measurable, wealth is a completely relative concept:
@@ -45,7 +45,7 @@ When we react to feelings or interpret a crisis, we mismanage money:
 Long-term money mismanagement creates disastrous consequences:
 
 1. Poor budgeting creates chronic stress and anxiety over any major life event.
-2. No savings inhibits investing in good ideas or lucrative endeavors, but also magnifies [hardship](hardship.md).
+2. No savings inhibit investing in good ideas or lucrative endeavors, but also magnifies [hardship](hardship.md).
 3. Poor money management is one of the most common causes of divorce.
 4. In the long term, poor money management makes people victims of their circumstances and eventually of others who *do* manage money.
 
@@ -70,7 +70,7 @@ Wisely managing money feels like getting a raise.
 Saved money can let you exploit the powers of compound interest:
 
 - Assuming the same rate, [investing](money-investing.md) a lump sum and waiting 40 years will always yield a higher return than investing that same amount across 20 years.
-- On the other hand, a credit card borrower making a minimum payment will often pay 5--20 times the original debt by the time it's paid off.
+- On the other hand, a credit card borrower making a minimum payment will often pay 5-20 times the original debt by the time it's paid off.
 
 ### People should prioritize giving money
 
@@ -103,7 +103,7 @@ Statistically, most millionaires fit a more humble profile:
 
 - Late-50s and married with three children, all of them economically self-sufficient.
 - Self-employed in a practical business that supplies practical needs.
-- Typically *not* retired and works 45--55 hours a week.
+- They're typically *not* retired and work 45-55 hours a week.
 - Skilled at targeting market opportunities.
 - Well-educated enough, often with a [college](jobs-college.md) degree.
 - Allocates time, energy, and money efficiently to effectively build wealth.

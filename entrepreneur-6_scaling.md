@@ -49,7 +49,7 @@ To get the [business plan](entrepreneur-3_plan.md) as perfect as possible for pr
 
 Fundraising is easier when the business model is simple.
 
-- With the exception of *absurdly* [trendy](people-trends.md) industries with lots of dumb investors, more complexities in your business model will make most investors skeptical over whether it'll succeed.
+- Except for *absurdly* [trendy](people-trends.md) industries with lots of dumb investors, more complexities in your business model will make most investors skeptical over whether it'll succeed.
 - More elaborate or untested plans are more likely to fail.
 - The only people you can successfully win over with a complex business model are typically *terrible* people to deal with when your returns don't satisfy them.
 
@@ -68,7 +68,7 @@ Not all investors are the same.
 
 - Some investors are sharks waiting for a timely return on their money, while others legitimately believe in you as a person.
 - People who fund startups ("angels") aren't that hard to find, but it can be challenging to convince them to invest in your idea.
-- Conventional banks are highly reputable, but you'll likely need to collateralize assets and you'll be a [data point](people-image-modern.md) on their books.
+- Conventional banks are highly reputable, but you'll be a [data point](people-image-modern.md) on their books, and you'll likely need to collateralize assets.
 
 Search outside your present network for investors who have already invested in your type of business:
 

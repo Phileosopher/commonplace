@@ -44,20 +44,29 @@ However, we tend not to notice an advancing addiction because it takes over slow
 
 1. The substance consistently gives us the [results](results.md) we want.
 2. We [trust](understanding-certainty.md) the experience enough that we stop searching for anything else.
-3. As [diminishing return](results.md) begins, we increase our efforts to maintain that original experience. Very often, we're fighting [past trauma](hardship-ptsd.md) and working to feel "normal", and the substance helps us with that feeling.
-4. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](mind-decisions.md) our allegiance to that thing.
-5. We start small with our sacrifices and give up things we deem unnecessary by comparison. As the diminishing return scales, we progressively give up more to maintain the habit.
-6. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](mind-decisions.md) and the [consequences](results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
-7. At this point, *everyone* close to the addict will have [noticed](people-image-why.md) a [change](people-changes.md). Often, the addict's [old group(s)](groups-member.md) will [respond adversely](morality-taboo.md), and the addict will have to find new [friends](people-friends.md) who share the substance. A "functioning addict" can stay in this phase because they have [competing purposes](people-conflicts-inner.md) driven by a [fear](mind-feelings-fear.md) of [losing their reputation](people-image-why.md). In this sense, they're a public disgrace from a worse place.
-8. To run from all the [pain](hardship-ptsd.md) of the bad decisions, addicts push themselves harder into the substance. They were running *from* life before, but now they're running *to* the object that will "fix" their pain.
-9. Eventually, an addict will have to [invest](power.md) so much into the substance that they'll devote *everything* to it.
-10. If the person doesn't realize they have a *huge* problem and are willing to receive help for it, they'll end up [destroying](morality-evil.md) their lives and everyone else around them.
+3. As [diminishing return](results.md) begins, we naturally develop a tolerance that normalizes the experience.
+4. To maintain our sensation, we increase our efforts to maintain that original experience. Very often, we're fighting [past trauma](hardship-ptsd.md) and working to feel "normal", and the substance helps us with that feeling.
+5. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](mind-decisions.md) our allegiance to that thing.
+6. We start small with our sacrifices and give up things we deem unnecessary by comparison. As the diminishing return scales, we progressively give up more to maintain the habit.
+7. While we continue with the [habits](habits.md) of the substance, there's a lead time between our [decision](mind-decisions.md) and the [consequences](results.md) of that decision. We may need a few rent payments or a lost job before our lifestyle adapts to our decisions.
+8. At this point, *everyone* close to the addict will have [noticed](people-image-why.md) a [change](people-changes.md). Often, the addict's [old group(s)](groups-member.md) will [respond adversely](morality-taboo.md), and the addict will have to find new [friends](people-friends.md) who share the substance. A "functioning addict" can stay in this phase because they have [competing purposes](people-conflicts-inner.md) driven by a [fear](mind-feelings-fear.md) of [losing their reputation](people-image-why.md). In this sense, they're a public disgrace from a worse place.
+9. To run from all the [pain](hardship-ptsd.md) of the bad decisions, addicts push themselves harder into the substance. They were running *from* life before, but now they're running *to* the object that will "fix" their pain.
+10. Eventually, an addict will have to [invest](power.md) so much into the substance that they'll devote *everything* to it.
+11. If the person doesn't realize they have a *huge* problem and are willing to receive help for it, they'll end up [destroying](morality-evil.md) their lives and everyone else around them.
 
 Unfortunately, that thing eventually consumes them. They'll lose the ability to make [well-reasoned](logic.md) [decisions](mind-decisions.md) that may diminish the value of the substance, then will start dwelling exclusively on that substance for solving their [problems](purpose.md).
 
 The entire experience devolves into the continued reckless pursuit of a [feeling](mind-feelings.md) which only the substance can provide. The substance may move around, but the mentality stays the same.
 
+APPLICATION: We do better by removing bad things from our life than adding new things that distract from the bad things.
+
 ## Symptoms of an addict
+
+Addicts are obsessed with feeding their dopamine system.
+
+- Our brain's dopamine system wants pleasure within the next 15 seconds and doesn't consider anything after that.
+- One side effect of this prolonged state is to endlessly pursue pleasurable experiences irrespective of their risks.
+- Chemical stimulation of any form will also often chronically affect visual-spatial processing (e.g., distance, coordination, reaction, concentration).
 
 While [the good life](people-goodlife.md) requires desiring to grow, addicts often focus on intensifying pleasure instead of finding [meaning](meaning.md) in the growth itself.
 
@@ -97,6 +106,18 @@ Even when someone hates a substance (like most late-stage addicts do), its power
 - After enough time abusing a substance, the substance also fulfills the need for [familiarity](habits.md).
 
 The substance's absence doesn't resolve the issue, either. Addicts can often engage in [habits](habits.md) of abstinence, which can develop a [cycle](people-trends.md) of abuse, excess, burnout, abstinence, relapse, and back to abuse. Since abstinence often enhances an experience, this can become a long-term lifestyle.
+
+When an addict can't gain a short-term pleasurable experience anywhere, they will often deflect from their actual problem across several progressing stages:
+
+1. Verbal criticism of someone
+   - Passive: self (e.g., "I'm stupid")
+   - Aggressive: others (e.g., "You're stupid")
+2. Physical violence
+   - Passive: self (self-harm, mutilation)
+   - Aggressive: others (assault, violence)
+3. Creating death
+   - Passive: self (suicide)
+   - Aggressive others (murder)
 
 People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](understanding-certainty.md) that any [free market](money-economics.md) will create more addicting things:
 
@@ -140,6 +161,12 @@ The only hope for any addict is for them to face their pain directly.
 APPLICATION: As people devolve into substance abuse, they care about you progressively less. If you [love](people-love.md) them, release them to their desires to hasten their decline and, therefore, hasten any chance of recovery.
 
 However, our [habitual nature](habits.md) makes dependence and difficulty in changing their situation more severe proportionally to how long we maintain an addict's mindset, irrespective of which substance we choose. At some point, the addiction takes [our soul](theology-godandman-humanity.md) when we [decide](mind-decisions.md) to sacrifice everything for another dose of the substance.
+
+The only cure for addiction is through willpower toward abstinence.
+
+- That willpower creates a state of protracted misery.
+- As time persists, the addict will re-explore the nuances that come with [healthy living](people-goodlife.md).
+- Since this is very painful, addicts can never recover from their substance by themselves.
 
 ## Recovery culture
 

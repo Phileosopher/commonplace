@@ -142,9 +142,9 @@ MLM growth sabotages representatives' personal relationships with [family member
 MLM uses the Fraud Triangle:
 
 1. Pressure - comes from quotas, other people or hardship
-2. Opportunity - a chance to seize an opportunity that could change their lives, even if it's unethical
+2. Opportunity - a chance to seize an opportunity that could change their lives, even when unethical
 3. Rationalization - justifying decisions
-   - May feel like a victim of overwork or underpayment
+   - They may feel like a victim of overwork or underpayment
    - Believing in no victim because they will somehow return the money someday
    - Claiming anyone who doesn't succeed at the program isn't devoted enough
 

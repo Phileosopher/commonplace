@@ -1,9 +1,20 @@
 
 # Bad conflict management styles and how to deal with them
 
+We must be careful to avoid unhealthy conflict approaches in our daily lives.
+
+- Our coexistence around toxic people almost guarantees they'll [influence](power-influence.md) us to behave similarly.
+
 Some people are completely impossible to please, and should always be a low priority compared to everyone and everything else.
 
 ## Ego defense tactics
+
+Most toxic behaviors come through our need to satisfy our sense of ego and [safety](safety.md):
+
+- Disrespecting others intentionally
+- Bad [boundaries](people-boundaries.md)
+- [Distrusting](mind-trust.md) others without reason
+- Having no compassion for others
 
 When people aren't [examining themselves](mind-awareness.md), they will exercise [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md) by subconsciously using unhealthy defense mechanisms to protect their ego.
 
@@ -103,7 +114,7 @@ Fixation: staying in an earlier developmental stage from an unresolved conflict.
 
 These attempts are trying to approach the truth, but without the emotional capacity to do so.
 
-- The actions are also [driven by anxiety](mind-bias-fear.md), but are more complex because the person is unaware of their anxieties while they are also trying to navigation thoughts.
+- The actions are also [driven by anxiety](mind-bias-fear.md), but are more complex because the person is unaware of their anxieties while they are also trying to navigate thoughts.
 - Partial redirection is highly common among intelligent people.
 
 Isolation of Affect: separating [feelings](mind-feelings.md) from [thoughts](understanding.md) and [memories](mind-memory.md).
@@ -121,9 +132,7 @@ Intellectualization: overusing logic and reasoning to avoid uncomfortable [feeli
 
 ### Narcissistic behavior
 
-These are effectively [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md).
-
-- The more the person does these, the more [habit-forming](habits.md) it becomees, and the higher chance of developing into a more mature form of NPD.
+The more the person conducts [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md), the more [habit-forming](habits.md) it becomees, and the higher chance of developing into a more mature form of NPD.
 
 Rationalization: making excuses to justify unacceptable behavior.
 
@@ -207,12 +216,31 @@ If you expect ego defense mechanisms:
      - Saying "Yes" or "No" is also implying, "I stole the money."
    - If you ever make a misstatement, own it immediately to prevent them from using it later.
      - If you justify it, do it on the basis of why you said it in the first place.
-4. If they won't stop, draw attention to their tactic.
+4. If they don't stop, draw attention to their tactic.
    - Negotiate your terms for continuing the discussion.
    - If they don't want to change their behavior in any way, step away from the conflict and promise to come back later when everyone is calmer.
 5. Clarify new rules about how you'll respond to their behavior.
    - Do *not* give any new information that's unnecessary, since it can easily overwhelm.
    - Note that an underhanded tactic that worked in the past sets a precedent for future conflicts.
+
+When you hear a passive-aggressive insult framed as a question:
+
+1. Throughout the engagement, stay good-natured.
+   - If you break your composure, they will use it to make you look bad.
+   - Maintain physical eye contact and breathe deeply to control your behavior and show them you're in control.
+   - Since they're trying to create an escalation, do *not* demonstrate any escalating behavior.
+2. Throughout their insult-question, maintain direct eye contact with a steady gaze.
+   - They are often not bold enough to directly confront.
+   - You are informing them that you know what they're doing.
+3. Answer their question boldly and directly in good faith.
+   - Give the benefit of the doubt with a straightforward answer.
+4. Give a "warning shot" that says you won't respond the way they want you to.
+   - Often, their question is framed to make *all* the answers look bad.
+   - Make it clear that their question was badly worded or badly framed.
+5. Ask them what's going on.
+   - They won't be able to answer.
+   - In some cases, they may backpedal and imply they're asking their question in good faith (i.e., gaslighting).
+6. If they continue to be vague or deceptive (which they likely will), remove yourself from the situation.
 
 If you need to stop a subversive control tactic mid-conflict:
 
@@ -233,17 +261,34 @@ If you need to stop a subversive control tactic mid-conflict:
    - This is for the 2% of the people who can't respect your boundaries.
    - Make sure they receive the satisfaction of having the last word.
 
+When you catch them projecting:
+
+1. Carefully pay attention to accusations they make that are their own issue (e.g., "you're not being very nice")
+2. Respond to their statement as if they've admitted their flaw (e.g., "thank you for your transparency")
+   - If you want, you can be more transparent (e.g., "...and I appreciate that we're being open with our failings here")
+3. If you do it enough, they will be too confused to attack you anymore.
+
+When they disrespect you:
+
+1. As soon as you see them saying something meant to hurt you, peacefully let silence persist for 5-7 seconds.
+   - This silence magnifies their statement's severity.
+2. Ask them to repeat themselves, and give them an opportunity to reframe what they said.
+3. If they're not speaking more politely, let the silence persist again.
+4. Say "thank you", and carry on.
+   - You don't need to be specific.
+   - You're thanking them for revealing their true character, but you don't have to tell them that.
+
 ## Hostile environments
 
 When engaging with toxic people, you can often tell you've succeeded in proper boundary-setting, even if they don't affirm it.
 
-- The worst version of this toxicity comes through [the final stages of engaging with a narcissist](mind-neurodivergence-clusterb-narcissist.md).
+- The worst version of this toxicity comes through [the final stages of engaging with a narcissist](mind-neurodivergence-clusterb-narcissist-stages.md).
 - Most of the time, their assertions are "you" statements.
 - "You've changed. / You're not the same person."
   - They likely feel out of control or unable to manipulate you.
   - You've likely found peace without needing others' validation.
   - Unless you're going down an [immoral road](morality.md) (e.g., [addiction](addiction.md)), they should be praising your growth.
-- "You think you're better than me. / You're a narcissist. / You're full of yourself. / You've become selfish."
+- "You think you're better than I am. / You're a narcissist. / You're full of yourself. / You've become selfish."
   - You're no longer accepting their version of reality as absolute.
   - You've probably accepted that you're worthy of love, even when you don't receive it.
 - "You're so cold/distant now. / You don't care anymore."
@@ -262,3 +307,8 @@ Watch for people who try to overpower the conversation:
 - Some people try to subdue others through the force of their [personality](people-personality.md).
 - Their most defining characteristic is that they constantly keep interrupting you to say something that isn't clearly responding to what you stated.
 - They're not listening to you, but are simply trying to win an argument.
+
+One of the most critical skills in conflict management is to know when to disengage.
+
+- If you let them cross your boundaries, it sets a precedent for them to continue doing it later.
+- Once you've said what you wanted to say, any further discussion is a waste of yours and their time.

@@ -176,10 +176,10 @@ Be careful who you read, though. The [culture](people-culture.md) a philosopher 
 
 APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories-why.md) or a few years of life experience.
 
-In that sense, all philosophers are idealists (or bitter idealists), which is why most practical people find them insufferable.
+In that sense, all philosophers are idealists (or bitter idealists), which is why the most practical people find them insufferable.
 
 APPLICATION: Most philosophers have lots of wisdom, but not much common sense, especially about knowing the time and place to discuss philosophy.
 
-However, while a massive portion of philosophers are devising mental explorations for fun, quite a few work to know the ideal way to behave, think, and act.
+However, while a massive portion of philosophers are devising mental explorations for fun, many of them seek to know the ideal way to behave, think, and act.
 
 APPLICATION: Don't pay too much attention to the pretensions around philosophy. It'll ruin your [experience](values-quality.md) of consuming the philosophers worth your time.

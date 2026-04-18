@@ -28,6 +28,10 @@ When we're children, we make sweeping generalizations with very little accuracy.
 
 APPLICATION: Imagination is a form of [understanding](understanding.md) that isn't constrained by reality. In that sense, [children](maturity.md) typically have the strongest ability to understand (even if they're unskilled at it) and we typically lose that ability as we [gain experience](maturity.md).
 
+Most of the time, we are correct about our predictions on *what* will happen, but fail spectacularly on *when*.
+
+APPLICATION: Our [decisions](mind-decisions.md) are built around timing more than anything else.
+
 ## Purpose
 
 We only feel a sense of [meaning](meaning.md) to imagine when our predictions are at least partly useful for our [decisions](mind-decisions.md), which is why experience sabotages imagination. If we consistently fail too many of our predictions, we tend to risk an [existential crisis](hardship-depression.md).

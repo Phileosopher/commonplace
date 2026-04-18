@@ -7,7 +7,7 @@ Unless you're aware of the likely consequences of your decision or the situation
 
 In practice, healthy member management is hands-off, a bit like [gardening](plants.md).
 
-- You can keep adjusting and tweaking small things, but anything dramatic will send at least some of the workers into a temporary state of shock.
+- You can keep adjusting and tweaking small things, but anything dramatic will send at least some workers into a temporary state of shock.
 - Too many changes all at once will make them feel [uncomfortable](habits.md), and their [work](results.md) will suffer.
 - If you keep making changes after you've done too much, they'll leave.
 
@@ -46,7 +46,7 @@ When things are going well, deliver lavish rewards and severe punishments.
 When the financial situation is *not* going well, cut back on *both* rewards and disciplines.
 
 - Removing existing rewards is a type of collective discipline, weighted heavily toward the highest achievers suffering the most.
-- Stay brutally honest when the situation isn't going well, or the members will resent you for not telling them.
+- Stay brutally honest when the situation isn't going well, or the members will hate that you didn't tell them.
 - Only make [promises](people-contracts.md) you can keep, and avoid agreeing to what you can't [predict](mind-imagination.md).
 - If times are hard enough, the best workers *will* leave.
   - Postponing information to get more work out of them is [unethical](morality.md).
@@ -113,7 +113,7 @@ Openly ask them directly what they want.
 
 - Most people don't feel comfortable approaching their managers to ask for a pay raise or additional benefits.
 - Everyone has unique preferences, and they usually don't volunteer to tell you them.
-- However, make sure to followup on any ideas they provide, or they may resent that you didn't act on them.
+- However, follow up on any ideas they provide, since they may hate that you didn't act on them.
 
 However, some things *always* discourage people from working:
 
@@ -137,7 +137,7 @@ Everyone loses their dedication to the group along a relatively straightforward 
 
 1. Ambitious drive to succeed in the group.
    - Motivated to accomplish within the group and make a change.
-   - This ambition is generally proportional to age, with older members' motivations subdued by bad past experiences.
+   - This ambition is generally proportional to age, with older members' motivations subdued by bad experiences.
 2. Burnout or disenfranchisement from working too much for what feels to be too little reward.
    - General cynicism from tasks that feel unrewarding.
    - Works frantically until exhaustion, then vents about it later.
@@ -175,7 +175,7 @@ There are plenty of reasons people leave:
   - They feel a mismatch between the position and the tasks.
   - They don't feel they received enough feedback or coaching.
   - They're not feeling much recognition for their work.
-  - Their pay feels insufficient or the benefits are inadequate.
+  - Their pay or benefits feel inadequate.
 - They feel disrespected or that management isn't listening to their ideas.
   - Someone else took credit for their accomplishments or ideas.
 - Others may seem to receive preferential treatment.
@@ -334,7 +334,7 @@ Keep your position in mind whenever confronting anyone.
 
 Always assume every conflict might be worse than it appears.
 
-- Over-reacting protects against unseen risks, but under-reacting allows risks to magnify themselves.
+- Over-reacting protects against unseen risks, but under-reacting magnifies risks.
 - If you're worried about [legal risks](legal-safety.md), it is often wiser to ignore conflicts until they escalate into something you must react to.
 
 Set a few ground rules for yourself and everyone before getting involved in a team member [conflict](people-conflicts.md):
@@ -350,7 +350,7 @@ Set a few ground rules for yourself and everyone before getting involved in a te
 
 Unless it's strictly fact-based, never take sides with either member.
 
-- Avoid favoritism at all costs or you'll quickly develop a reputation for it.
+- Avoid favoritism at all costs, or you'll quickly make a reputation for it.
 - Even when you know someone is entirely right, focus more on what that person can *prove* to be right.
 
 While you may wish for an amicable resolution, that's only possible if everyone wants an amicable resolution.
@@ -374,7 +374,7 @@ Give grace enough for people to fail.
 People only feel the consequences of their actions if you directly connect disciplinary action to them, but not always.
 
 - Taking away *anything* may provoke them to simply hate you.
-- Foster a stronger culture by having members review each others' work.
+- Foster a stronger culture by having members review each other's work.
 
 Never give punishments before withholding incentives.
 
@@ -398,7 +398,7 @@ Pay close attention to *how* they're failing:
 - Lazy/uninterested
   - They're unmotivated to perform tasks or fulfill deadlines.
   - They'll usually be uninvolved in significant events at the worksite.
-  - Typically no longer interested in advancing their career and will find creative ways to waste time or not show up.
+  - No longer interested in advancing their career and will find creative ways to waste time or not show up.
   - Provoke them to work:
     - Give explicitly clear expectations.
     - Perform unscheduled checks on them.
@@ -457,7 +457,7 @@ Handling emergencies is a critical part of management.
 
 It's worth having at least some contingency plan for most of the common crises you may face:
 
-- Specific [conflicts](people-conflicts.md) among workers.
+- Specific [conflicts](people-conflicts.md) with workers.
 - [Natural disasters](safety-nature.md) in operational regions.
 - Failures by members or yourself.
 - Failures by another team or organization your team depends on.
@@ -492,7 +492,7 @@ Never exercise more authority than you need.
 - Make mandatory no-email weekend days and evenings that force personal time.
 - Unless you're aspiring for a specific image with customers, let the dress code sit at semi-casual or casual clothing.
 - When you permit them to have the internet or their personal mobile devices, you should also let them use social media.
-- If they want to and it harms nobody, let them bring their personal effects into the workplace.
+- If they want to, and it harms nobody, let them bring their personal effects into the workplace.
 
 Unless they insist, do *not* let them regularly work late or on weekends.
 

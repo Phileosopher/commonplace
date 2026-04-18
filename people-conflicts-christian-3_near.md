@@ -97,7 +97,7 @@ Jesus doesn't *technically* need to eternally exist, but must be God:
 
 - Christians *must* believe [Jesus is completely equal with God](theology-god.md), but also that He's completely [human](theology-godandman-humanity.md).
   - This paradox is called the "hypostatic union": 100% God and 100% man.
-- However that equality doesn't necessarily mean that the Father and Son were necessarily eternally existing in the form they exist in right now ([Colossians 1:15-20](https://biblehub.com/colossians/1.htm)).
+- However, that equality doesn't necessarily mean that the Father and Son were necessarily eternally existing in the form they exist in right now ([Colossians 1:15-20](https://biblehub.com/colossians/1.htm)).
 - If God were to split Himself at the beginning of creation (e.g., for the purpose of a relationship with created beings) there is no heresy as long as Jesus is still the ultimate authority with a completely equal and shared essence with God.
 
 Dispensationalism - there are different "ages" where God interacted (and will interact) with people differently, and when Jesus came He completely divorced the meaning of "Israel" and Hebrew.

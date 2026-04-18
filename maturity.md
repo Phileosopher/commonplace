@@ -27,17 +27,19 @@ A product of that humility is a form of gratitude. With enough [understanding](u
 
 Another quality of age is that we learn to be satisfied with less. This means we take less [social risk](entrepreneur-why.md) as we age (since we're fine with less grandiose returns) and tend to be [happier](mind-feelings-happiness.md).
 
-APPLICATION: The [scope of risk](entrepreneur-why.md) we take demonstrates how mature we are. The older we get, the more [precise and calculated](safety-riskmgmt.md) our risks will general become.
+APPLICATION: The [scope of risk](entrepreneur-why.md) we take demonstrates how mature we are. The older we get, the more [precise and calculated](safety-riskmgmt.md) our risks will generally become.
 
 However, at the same time, aging also tends to provoke us to more risk-averse actions. While this may be healthy for some things (e.g., higher-quality [insurance](money-insurance.md) policies), it also means we miss out on genuinely [meaningful](meaning.md) [trends](people-trends.md).
 
 ## Stages
 
-Every person, from birth to death, transitions through stages of questioning. Their entire existence is defined by the way they process their questions:
+Every person, from birth to death, transitions through stages of questioning. Their entire existence is defined by the way they process their questions.
 
 APPLICATION: It's better to find [meaning](meaning.md) earlier in life when you have time and strength than later *after* you've expended much of your life.
 
 ### Can I trust the world? (~0-2 years old)
+
+Complete dependence on parents.
 
 Concerned with mother over issues like feeding, receiving comfort, pain from teething, and sleeping.
 
@@ -49,6 +51,8 @@ We require *massive* introspection to even budge the results of this stage later
 
 ### Is it okay to be me? (~2-4 years old)
 
+Attempting to learn basic life skills, but still completely dependent.
+
 Concerned with the relationship with both parents over issues like managing bodily functions, toilet training, controlling muscles, talking, and walking.
 
 If [loved](people-love.md), we build willpower and restraint.
@@ -58,6 +62,8 @@ When neglected, we end up highly compulsive or highly impulsive.
 Most of our [personality](people-personality.md) and issues about [identity](people-identity.md) come from this stage.
 
 ### Am I okay to move, do, and act? (~4-5 years old)
+
+Understands basic life skills, but is still extremely dependent.
 
 Concerned with immediate family over issues like exploring, discovering, having adventures, and playing.
 
@@ -69,6 +75,8 @@ Most of our issues about finding [purpose](purpose.md) come from this stage.
 
 ### Can I make it in the world of people and things? (~5-12 years old)
 
+Skilled at most basic life skills, trying to find an ideal [specialization](jobs-specialization.md).
+
 Concerned with school, teachers, friends, and neighborhood with the need to achieve and accomplish.
 
 If loved, we [feel competent](success-1_why.md) and naturally make [methods](habits.md) from our actions.
@@ -79,6 +87,8 @@ Most of how we approach [work and play](results.md) comes from this stage.
 
 ### Who am I, and what can I be? (~13-19 years old)
 
+Not quite skilled to be an adult, but has all the psychological desires of adulthood.
+
 Concerned with [peers](people-friends-why.md), [social groups](groups-member.md), and any [influencers](influence.md) with the need to clarify [identity](people-identity.md), find [direction](purpose.md), and become an adult.
 
 If loved, we become [faithful, loyal, and devoted](understanding-certainty.md) to the groups we're in.
@@ -88,6 +98,8 @@ When neglected, we either become fanatical about our groups or become [outcasts]
 Most of our approach to everything in life is specified at this stage.
 
 ### Can I love? (~20-39 years old)
+
+Officially responsible, and moving to the ultimate goal of [parenthood](parenting-children.md).
 
 Concerned with [lovers](people-gender.md), [friends](people-friends-why.md), and [work](jobs-specialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
 
@@ -102,6 +114,8 @@ At this point, most of our teenage years' [culture](people-culture.md) will come
 Most of our view of the world is clarified and reinforced at this stage.
 
 ### Can I make my life count? (~40-64 years old)
+
+Having met their own needs and their childrens', they try to create a [legacy](legacy.md) through being a parent to their adult children who are now parents.
 
 Concerned with our [children](people-family.md) and [the surrounding community](groups-member.md) with "giving back" to society, [helping others](success-1_why.md), and making others well.
 
@@ -205,7 +219,7 @@ As we get closer to the end of our lives, our time becomes more scarce, and we s
 
 In many modern civilizations, children are processed through an age-based system, where they reach new phases if they hit [minimum age criteria](math.md).
 
-[Modern civilization](people-culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-specialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, most older adults in modern civilization condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
+[Modern civilization](people-culture.md) is especially poor at rites of passage because of the [niches and specializations](jobs-specialization.md) that shift with [technology](technology.md), meaning there's no universal standard in a large society. Without clear boundaries, older adults in modern civilization usually condemn the youth for receiving privileges they didn't earn (which was once true for them as well as children).
 
 APPLICATION: Most people in modern society don't experience an adequate rite of passage. For this reason, they're stuck with a childish view of the world and constantly trying to prove themselves until they learn from a [severe hardship](hardship.md) (such as having to [maintain their automobile](autos.md) or [file taxes](money-accounting.md)).
 

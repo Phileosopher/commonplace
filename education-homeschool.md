@@ -1,12 +1,12 @@
 
-# How to homeschool
+# How to home school
 
 Homeschooling is taking on personal [responsibility](meaning.md) for your [children's](parenting-children.md) [education](education.md).
 
 - The quality of a formalized education is defined by the educational quality of the teacher, divided by the class size (since they can only devote attention proportionally to your child).
 - Across the lens of history, *not* educating your elementary-age child and trusting the government to do it is a relatively new [fashion](people-trends.md), and has profound [political consequences](politics-conservativeliberal.md).
 
-The quality of a homeschool child's education comes directly from a few sources:
+The quality of a home school child's education comes directly from a few sources:
 
 1. The quality of you as a person and [educator](education.md).
 2. The proportional attention you must give to *each* of the children you're teaching.
@@ -22,6 +22,8 @@ Homeschooling children is *not* necessarily better or worse.
 - Bad parenting would make a child less well-adjusted than if they went to a public school, even if they were more educated about certain domains.
 - In non-nuclear homes (e.g., single parenting), it's often simply not possible to homeschool and would require someone else to educate them.
 - Despite any political moves to the contrary, most of the criticism about homeschooling is on the level with [any other advice on parenting](parenting-children.md).
+- With respect to school supplies, children don't need much.
+  - Most of the so-called "necessary" supplies [advertising](marketing.md) to foster a [consumer mindset](money-2_debt.md).
 
 If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-children.md), and sufficiently committed to raising them [with someone else](relationships-marriage.md), educating your child isn't difficult.
 
@@ -30,7 +32,7 @@ If you [thoroughly understand](understanding.md) what you learned in high school
 Government-provided education is a substantial *quantity* of time, so aim for *quality* if you're homeschooling.
 
 - If you're focused, you don't need much time each day:
-  - Preschool - 0--30 minutes
+  - Preschool - 0-30 minutes
   - Lower Elementary - 1 hour
   - Upper Elementary - 2 hours
   - Middle School - 2-3 hours
@@ -99,7 +101,7 @@ E. Your geographical region has a profound influence on how your government sees
   - Generally, governments prefer to school children themselves for [financial](money-economics.md) reasons, and any [indoctrination](power-influence.md) reasons are simply a bonus for them.
 - The challenges you're *far* more likely to face will come through the [bureaucracy](bureaucracy.md) from [government requirements](legal-safety.md) more than the education itself.
 
-F. Find a healthy homeschool community that can plug you into homeschooling resources at large.
+F. Find a healthy home school community that can plug you into homeschooling resources at large.
 
 - No matter how resourceful or intelligent you are, the community has *way* more support than you can give to your child alone.
 - Many homeschool networks are so powerful that they can lobby for *[political action](lawsaxioms-legal.md)* to keep homeschooling legal (e.g., [HSLDA](https://hslda.org/)).

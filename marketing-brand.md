@@ -16,7 +16,7 @@ Branding has degrees of intensity:
 2. Sales Orientation - employs aggressive sales techniques
    - Organizations have sales obsession by measuring their sales numbers instead of their retention numbers.
 3. Market Orientation - focused on satisfying customer wants and needs
-   - Often, organizations stay selfish when they measure customer satisfaction instead of their impact on the world around them.
+   - Organizations often stay selfish when they measure customer satisfaction instead of their impact on the world around them.
 4. Social Marketing - company goals built broadly toward improving society
    - Organizations become [unprofitable](money-economics.md) when they don't pay attention to customers' needs and wants.
 

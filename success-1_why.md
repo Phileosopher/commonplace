@@ -50,7 +50,7 @@ Success is more of a daily grind of good decisions than any specific, measurable
 
 Ignore the number of friends you have:
 
-- Each person can only logistically maintain 150--300 [relationships](people-friends.md) in a year.
+- Each person can only logistically maintain 150-300 [relationships](people-friends.md) in a year.
 - Maintaining a crowd of friends is expensive and time-consuming.
 - We find [meaning](meaning.md) in the *depth* of individual friendships, not in many of them.
 

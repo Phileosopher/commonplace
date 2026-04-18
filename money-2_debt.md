@@ -66,7 +66,7 @@ Lenders market financing (a sophisticated term for debt) as a tool for "necessar
 
 - Companies make *much* more money from borrowers than straight purchasers.
 - Borrowing against any item that depreciates over time (e.g., furniture, mattresses, luxury items) creates additional risk.
-- Sell and avoid buying anything that takes more than 18--24 months to pay off.
+- Sell and avoid buying anything that takes more than 18-24 months to pay off.
 
 Automobiles don't need financing to purchase:
 
@@ -78,7 +78,7 @@ Payday loans are especially egregious, and have extortionate fees and insane rat
 Only three forms of debt are ever legitimately a good idea:
 
 1. Home loans:
-   - The mortgage should be within 25--50% of your income.
+   - The mortgage should be within 25-50% of your income.
    - The housing market shouldn't be overly inflated.
    - [Research](home-buy.md) before considering.
 2. Education:
@@ -106,8 +106,8 @@ Accumulating points isn't an investment or particularly savvy:
 
 Low card fees are usually not worth it:
 
-- 0% interest forms a habit of using a credit card as a bank account for 12--18 months.
-- No annual fees for the first year implies subsequent years won't have fees.
+- 0% interest forms a habit of using a credit card as a bank account for 12-18 months.
+- No annual fees for the first year imply subsequent years won't have fees.
 
 Online purchases don't need credit cards:
 
@@ -133,7 +133,7 @@ Credit reports pull data from your past 7-10 years:
   - A manageable percentage of your income going to payments is considered best
   - If you have no debt, closing accounts won't affect your utilization score.
 - 15%: length of your credit history (longer loan histories look better)
-- 10%: new credit
+- 10%: new credit taken
   - Credit cards, large purchases, mobile phone and rent contracts, mortgages
   - Personal loans
   - How frequently you apply for credit and where (less is better)

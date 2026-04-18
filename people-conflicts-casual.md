@@ -13,7 +13,7 @@ In [polite company](people-rules.md), avoid confronting conflicts directly:
 Try to create 5 positive interactions for every 1 negative one:
 
 - To find any [satisfaction with others, we tend to need many more good experiences to offset the bad ones.](mind-feelings-happiness.md)
-[- Try to find times where interacting with them will only lead to a positive experience.](mind-feelings-happiness.md)
+[- Try to find times when interacting with them will only lead to a positive experience.](mind-feelings-happiness.md)
 
 Show integrity and honesty:
 
@@ -194,7 +194,7 @@ NOTE: Only use this after the meeting has gone over on the estimated time it was
 
 1. Don't wait for the moderator to end everyone's questions.
 2. At the next pause, start clapping.
-3. Everyone else will applaud, and there won't be anymore questions.
+3. Everyone else will applaud, and there won't be any more questions.
 
 ### If you must get ahold of someone who is trying to avoid you
 
@@ -312,7 +312,7 @@ In general, you can disrupt the facade quickly by doing a few things:
 - When they ever say "sorry", say "I forgive you" or "no you aren't".
 - When they say "thanks", say "you're welcome"
   - If it's them saying "thanks" for something you haven't [agreed to](people-contracts.md) yet, say "I haven't agreed to it yet".
-- If they give information that makes them appear helpful, tell them how that information isn't useful or it's insufficient.
+- If they give information that makes them appear helpful, tell them how that information isn't useful.
   - You can also make them feel unimportant by asking who would be more qualified to help you.
 - Answer questions that imply you must say "yes" with "no".
   - Alternately, answer the question they're asking, not the question they're implying.
@@ -324,7 +324,7 @@ While it's critical to say "no" to others, stating it harshly will always lose *
 Try to acknowledge others' statements, but respond with "yes, and..." more than "no":
 
 - "Unfortunately, I have too much to do today. I can help you another time."
-- "I'm flattered by your offer, but no thank you."
+- "I'm flattered by your offer, but no."
 - "That sounds fun, but I have a lot going on at home."
 - "I'm not comfortable doing that task. Is there anything else I can help you with?"
 - "It's not a good time for me, but I'll let you know if my schedule frees up."
@@ -433,15 +433,15 @@ If someone is selling something to you:
 If you're paying someone for a task:
 
 - Ask them what they think is a reasonable price, then give that rate if they've already been honest.
-- Only haggle with them if you know for certain they're [lying](people-lying.md) and you don't care about a relationship with them.
+- Only haggle with them when either you know for certain they're [lying](people-lying.md) or you don't care about a continued relationship with them.
 
-If someone is romantically attracted to you and you don't feel the same:
+When someone is romantically attracted to you, but you don't feel the same:
 
 - Be honest about your feelings.
 - Tell them you don't want to take the relationship further, but avoid details.
 - Avoid vague words that might give them false hope that you may change your mind.
 
-When others ask you to review their work and you don't want to:
+When others ask you to review their work, but you don't want to:
 
 - We usually don't want to review others' work because we know they'll treat the review as if it's about *them* instead of their work.
 - If they ask for brutal honesty, they likely aren't ready for it.

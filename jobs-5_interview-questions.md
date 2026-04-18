@@ -21,7 +21,7 @@ Tell me about yourself. / Tell me something beyond your resumé.
   - Bring up intangible strengths and soft skills.
   - Briefly explain why you want the job.
 
-What are your strengths and weaknesses? / Greatest strength and/or weakness?
+What are your strengths and weaknesses? / What is your greatest strength and/or weakness?
 
 - Be careful sharing your weaknesses.
   - The question is designed to put pressure on you.
@@ -38,7 +38,7 @@ Weird questions are designed to test how a candidate reacts, as well as their ab
 
 While you can't prepare for all of them, consider the types of questions you'll get:
 
-- A penguin walks through the door right now wearing a sombrero. What does he say and why is he here? (Clark Construction Group)
+- A penguin walks through the door right now wearing a sombrero. What does he say, and why is he here? (Clark Construction Group)
 - Are you exhaling warm air? (Walker Marketing)
 - Are you more of a hunter or a gatherer? (Dell)
 - Describe to me the process and benefits of wearing a seatbelt (Active Network)
@@ -72,7 +72,7 @@ Why did you leave your most recent job? / What was your experience like at your 
   - Speaking poorly of them implies you could speak poorly later about the interviewer's company.
 - Explain the situation as politely as possible.
   - After a long personal consideration, you wanted to expand your knowledge/background.
-  - The company reorganized and their vision didn't match yours.
+  - The company reorganized, and their vision didn't match yours.
   - Your life orientation changed and the company no longer challenged the skills you wanted to work on.
   - You wanted a change of pace from your current job.
 
@@ -118,7 +118,7 @@ Why do you believe you are qualified for this position? / Why should I hire you?
 - This question is patronizing and meant to pressure you.
 - There are many ways *not* to answer it:
   - If you say you want the job, you'll look desperate.
-  - If you offer cliche responses (team player, people person, hardworking), you'll appear uninterested.
+  - If you offer cliché responses (team player, people person, hardworking), you'll appear uninterested.
   - If you say you're not looking intently but open to it, you'll appear disloyal and won't stay with the company.
 - Share a detailed variety of 2-3 significant job-related skills for two minutes:
   1. A technical skill
@@ -207,8 +207,8 @@ What's your current salary?
 
 - You don't need to share your salary, and the interviewer is behaving disrespectfully by asking.
 - Since they won't tell you the salary of the last person in that position, it's not fair for you to share yours.
-  - They're asking so they can [offer](jobs-6_negotiating.md) a small additional amount than what you currently make, even when you're worth much more.
-  - Giving salary information is a form of [submission](people-conflicts.md) that [self-respecting](people-3_respect.md) people don't offer.
+  - They're asking because they plan to [offer](jobs-6_negotiating.md) a small additional amount than what you currently make, even when you're worth much more.
+  - Giving salary information is a form of [submission](people-conflicts.md) that [self-respecting](people-rules-list.md) people don't offer.
 - Delicately handle this question.
   - Ask the salary range of the position in response, then express your need for privacy if they don't share it.
   - Asking the salary range gives an ultimatum to the employer to either value their employees or their money more.
@@ -231,7 +231,7 @@ You can only respond to an employer's illegal question with three possible answe
    - e.g., "Have you been to prison?"
      - "I've never stolen from a company."
      - "I have a clean criminal record."
-     - "I made terrible decisions, but I've changed and those events are behind me."
+     - "I made terrible decisions, but I've changed, and those events are behind me."
    - In general, answer the question they can legally ask.
 
 Even then, experienced interviewers can find ways to ask roundabout not-illegal-but-gets-the-concept-across questions:

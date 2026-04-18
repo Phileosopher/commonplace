@@ -20,7 +20,7 @@ Defines whether a leader is helping people or results more.
 
 Analyze a manager into 2 spectra:
 
-- People-Concerned - prioritizes [group members'](groups-member.md) benefits, what they enjoy the most, and the best interests for their careers.
+- People-Concerned - prioritizes [group members'](groups-member.md) benefits, what they enjoy the most, and the best interests in their careers.
 - Production-Concerned - prioritizes getting the job done as [effectively](results.md) as possible and the organization's best interests.
 
 These management styles can fit onto a graph:
@@ -40,7 +40,7 @@ Demarcate several significant factors:
 - A **Leader** is anyone in charge of a project or people, no matter what their title is.
 - **Followers** are people led by the Leader who create most of the results.
 - **Context** includes various conditions for the Leader to manage the team including the project length and what the manager is able to do.
-- **Outcomes** are the consequences from the project success or failure.
+- **Outcomes** are the consequences for the project's success or failure.
 
 All the leadership aspects interconnect in a circular (not linear) relationship, using other elements:
 
@@ -87,7 +87,7 @@ Generally, if the leader is liked, the tasks are clear, and the leader has lots 
 
 ## Hersey-Blanchard's situational leadership theory
 
-Categorizes management styles based on relationship versus task focus, but considers the manager's past experience in managing.
+Categorizes management styles based on relationship versus task focus, but considers the manager's experience in managing.
 
 Telling Style (low relationship, high task)
 

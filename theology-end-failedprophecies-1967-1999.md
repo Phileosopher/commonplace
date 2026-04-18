@@ -47,7 +47,7 @@
 
 1982
 
-- Tara Centers ran full-page ads in many newspapers April 24--25, 1982, stated that "The Christ is Now Here!" and that he would make himself known "within the next two months".
+- Tara Centers ran full-page ads in many newspapers April 24-25, 1982, stated that "The Christ is Now Here!" and that he would make himself known "within the next two months".
 - John Gribbin and Stephen Plagemann stated in their 1974 book The Jupiter Effect that the combined gravitational forces of aligned planets would create numerous catastrophes, including a great earthquake on the San Andreas Fault on March 10, 1982.
 - Benjamin Creme took out an ad in the Los Angeles stating the Second Coming would occur on June 21, 1982, with the Maitreya announcing it on worldwide television.
 - In late 1976, Pat Robertson predicted that the end of the world would come in 1982.
@@ -122,9 +122,9 @@
 
 1997
 
-- Marshall Applewhite, leader of the Heaven's Gate cult, claimed that a spacecraft was trailing the Comet Hale-Bopp and argued that suicide was "the only way to evacuate this Earth" so that the cult members' souls could board the supposed craft and be taken to another "level of existence above human". Applewhite and 38 of his followers committed mass suicide on March 26, 1997
+- Marshall Applewhite, leader of the Heaven's Gate cult, claimed that a spacecraft was trailing the Comet Hale-Bopp and argued that suicide was "the only way to evacuate this Earth" so that the cult members' souls could board the supposed craft and be taken to another "level of existence above human". Applewhite and 38 of his followers committed mass suicide on March 26th, 1997
 - Dan Millar and Bob Wadsworth predicted the arrival of the Antichrist on April 10, 1997, based on astronomical observations. The Antichrist was expected to come to power in the Vatican as Pope Peter II. One heavenly indicator is the intersection of two comets of the star Algol in the constellation Perseus. Comets Hyakutake and Hale-Bopp intersected the star on the same date in two adjacent years (Hyakutake in 1996 and Hale-Bopp in 1997). Plotting the two comets' trajectories from April 1 to April 30 on the two years forms an almost perfect cross. They intersect between the eyes of the Medusa head that Perseus is holding in his left hand. "Algol" means "Demon Star" in Arabic. The head is known as Rosh Satan (the head of Satan) in Hebrew. Also, on the evening of April 10, there will be a lunar occultation of the star Aldebaran in the constellation Taurus.
-- An Irish archbishop named James Ussher in 1658 estimated that the first day of creation occurred on October 23, 4004, BC. This would make the time interval between the creation of the world and a common estimate of the birth of Christ to be precisely 4000 years. He also estimated that the end of the world would occur exactly 6000 years later, on October 23, 1997.
+- An Irish archbishop named James Ussher in 1658 estimated that the first day of creation was on October 23, 4004 BC. This would make the time interval between the creation of the world and a common estimate of the birth of Christ to be precisely 4000 years. He also estimated that the end of the world would occur exactly 6000 years later, on October 23, 1997.
 - Many saw the peace pact between Arafat and Rabin on the White House lawn on September 13, 1993, as the beginning of the tribulation, and therefore Daniel's 1260 days landing on February 24, 1997.
 - The Vortex of the Star of David religious sect predicted the end of the world on Saturday, March 8, 1997. They did not have a doomsday scenario.
 - Aum Shinri Kyo, a Japanese religious sect of 3000 members located at the base of Mt. Fuji, predicted the end of the world in 1997. The words "shinri kyo" mean "supreme truth" and in English, it is known as Aum Supreme Truth.

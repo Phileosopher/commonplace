@@ -37,7 +37,7 @@ Include a title, table of contents, and executive summary.
 
 To [market](marketing.md) it well, the title should be memorable.
 
-- Do *not* obsess about the title too much, since it will often need a rebrand later when you need to [scale the business](entrepreneur-6_scaling.md).
+- Do *not* obsess about the title too much, since it will often need rebranding later when you need to [scale the business](entrepreneur-6_scaling.md).
 
 The executive summary should be written last, *after* the rest of the business plan.
 
@@ -259,7 +259,7 @@ Explain how you'll [promote](marketing.md) the product:
   - Social media gives a *lot* of information to explore alternative approaches.
   - Sometimes, you can use second-degree connections to [influence](power-influence.md) others (e.g., that person's [spouse](relationships-marriage.md), their professional networks).
 - Are there any low-cost advertising methods you can take advantage of?
-- What image do you want to project and how do you want customers to see you?
+- What image do you want to project, and how do you want customers to see you?
 - What are your plans for maintaining brand management with [graphic images](engineering-design.md)?
 - What promotional budget do you have?
   - You'll have an initial cost, and then ongoing costs afterward.

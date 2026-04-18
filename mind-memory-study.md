@@ -160,7 +160,7 @@ There are ways to stay alert for longer:
 - Aim for content that's interactive, such as games or problem sets, over static content, such as videos without following along or reading books.
 - Imagine you'll be teaching the information later.
 - Put pieces of candy on each page and eat them as you get to them.
-- Set an alarm to take routine breaks (every 30--45 minutes) and get physically active for at least a few minutes.
+- Set an alarm to take routine breaks (every 30-45 minutes) and get physically active for at least a few minutes.
 - Add variety to your material if the subject doesn't interest you by jumping between chapters or books/lectures.
 - Instead of passively consuming the information, think of new ways to explain or rephrase it.
 
@@ -191,11 +191,11 @@ Focus intently the next time on any gaps in your [understanding](understanding.m
 
 [Find others](people-friends.md) who care about what you're studying and share your thoughts with them.
 
-The scientifically easiest way to remember things requires recalling something precisely when your brain is about to forget it (spaced repetition):
+The easiest way to remember things according to scientific studies requires recalling something precisely when your brain is about to forget it (spaced repetition):
 
 1. Write down ideas on opposing sides of cards, with only small bits of information on each card.
 2. Quiz yourself on each card:
-   1. If it's super easy, put it in a pile to review in 4--7 days.
+   1. If it's super easy, put it in a pile to review in 4-7 days.
    2. If you understand it but aren't sure, put it in a pile for the end of your session.
    3. If you don't understand it at all or missed it, put it in a third pile.
 3. Work through the pile, then take the third pile and repeat the quizzing.

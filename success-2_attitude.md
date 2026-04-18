@@ -146,7 +146,7 @@ Most people restate the same tired reasons why they don't believe they can do so
 - "I don't have the credentials/degree/training": nobody cares as much as you think they do
 - "I don't have equipment": other people can share it with you
 - "I'm not in the right location": [move](home-moving.md) if it matters to you
-- "I don't have the network/reputation/work history": 3--4 hours of intentional networking a day will fix that
+- "I don't have the network/reputation/work history": 3-4 hours of intentional networking a day will fix that
 - "It's too crazy": most celebrated success stories were once "impossible"
 - "I'm not talented/gifted enough": most successful people are mediocre
 - "If I work hard, I'll succeed no matter what": focus on the value you add, not how much you do

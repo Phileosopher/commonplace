@@ -71,7 +71,7 @@ IETF Motto - Be precise in what you send, flexible in what you receive.
 
 Grosch's Law - The relative speed increase of a computer is the square of its relative increased cost.
 
-Klaiber's Law - The silicon wafer's size proportionally dictates the largest diameter of ultra-pure water piping necessary for a semiconductor wafer factory.
+Klaiber's Law - The silicon wafer's size proportionally dictates the largest diameter of ultrapure water piping necessary for a semiconductor wafer factory.
 
 Marconi's Law - The effective distance of an [antenna tower](engineering-radio.md) is approximately the height of the antenna squared.
 

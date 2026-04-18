@@ -6,7 +6,7 @@ This is an informal list of the varieties of neurodivergence.
 - It's essential to note that deviations from [social standards](people-rules.md) end up forming even more deviations through uniquely different [cultural experiences](people-culture.md), which means these diagnoses rarely exist alone.
 - It's also worth noting that awareness of the neurodivergence doesn't necessitate any necessary action: many [personalities](people-personality.md) have lived amazing lives as extreme neurodivergent minds. The only requirement is to take action when the behavior *from* the mental framework creates severe adverse [consequences](results.md).
 
-Everyone likely possesses at least a *little* of each of these as well, so the classification really has no place for [prejudice](people-discrimination.md).
+Everyone likely possesses at least a *little* of each of these as well, so the classification really has no place for [prejudice](hardship-discrimination.md).
 
 - Most people see [aberrant behavior](people-rules-list.md) as something dangerous.
 - Most of the time, there is a very specific place for neurodivergence, and an utterly *terrible* place for it as well.
@@ -95,7 +95,7 @@ Indicators:
 
 How to behave with them:
 
-- Avoid small talk, since it will bore them.
+- Avoid [small talk](language-speaking-smalltalk.md), since they find it boring.
   - If they exhaust you, politely limit your time with them.
 - They have more interest and patience with complex matters, so even "dumb" things will be made complex with them.
 - The greatest sense of [meaning](meaning.md) they'll receive will come through your acknowledgment of something new you hadn't learned from them.
@@ -113,7 +113,7 @@ A viewpoint that is overcrowded with [imagination](mind-imagination.md), to the 
 - Effectively a problem with perceptions about the present.
 - This can include schizophrenia, delusions, and split personality disorder.
 - Many modes of thought and perspective assembled, but not synthesized into the demarcation between "reality" and "imagination".
-- Typically a sign of extreme intelligence, especially visual processing aptitude.
+- Often a sign of extreme intelligence, especially visual processing aptitude.
 - At a farther extreme, their ability to self-identify is impeded, and they may have a mistaken sense of self relative to reality.
 
 Indicators:

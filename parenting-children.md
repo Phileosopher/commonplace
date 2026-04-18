@@ -16,7 +16,24 @@ The quality of a child's upbringing starts with the quality of their parent's lo
 - Your ability to [change](people-changes.md) directly determines how well your children will grow.
 - Even a child's *imaginary friends* teach them to socialize.
 
-Your success as a parent comes from [your success in everything else](success-1_why.md):
+Children have gender-specific needs.
+
+- They need approval from their same-gender parent, and acceptance from their opposite-gender parent.
+- Further, fathers must set good [boundaries](people-boundaries.md), while mothers must [nurture](people-love.md).
+- This creates a unique combination:
+  - Boys need clearly-defined approval from their father, and nurturing acceptance from their mother.
+  - Girls need nurturing approval from their mother, and clearly-defined acceptance from their father.
+
+As a parent, your job description covers many smaller domains:
+
+- A part-time [cook](cooking.md)
+- An [art](mind-creativity.md) consultant
+- [Manager](mgmt-1_why.md)
+- [Teacher](education.md)
+- [Logistician](logistics.md)
+- [Moral](morality.md) figurehead
+
+These roles mean your success as a parent comes from [your success in everything else](success-1_why.md):
 
 - [Set reasonable goals](success-3_goals.md) and [stay productive](success-4_routine.md) toward [worthy purposes](success-1_why.md).
 - Learn [self-awareness](mind-awareness.md), [happiness](mind-feelings-happiness.md), [stress management](mind-feelings-happiness-stress.md), and [how to have fun](fun.md).
@@ -59,7 +76,7 @@ The best indicator of a healthy child is that they're playing:
 - If they have something they perceive as a problem, they will *not* play.
 - In fact, without sufficient play, children often become *very* [mentally ill](mind-neurodivergence.md).
 
-Beyond anything else, tend to [their needs](parenting-children-needs.md).
+Beyond anything else, tend to [their needs](parenting-children-needs.md) and [teach them about the world](parenting-children-education.md).
 
 ## Understand their motivations
 
@@ -111,7 +128,7 @@ Encourage them daily to work on good things they feel like doing, even when you'
 
 - Focus on teaching them self-control, *not* self-esteem (since they must earn that themselves).
 - People find meaning through [responsibility](meaning.md), so they will feel valued proportionally to the responsibilities that you can safely give them.
-- Describe with specific physical details what you see (e.g., "I see a clean room with all the toys organized and the bed made.").
+- Describe with specific physical details what you see (e.g., "I see a clean room with all the toys organized, and I see the bed made.").
 - Describe the feelings tied to success (e.g., "It feels wonderful to walk into this room!").
 - Sum up the child's accomplishments with one word (e.g., "You were really organized!")
 
@@ -159,8 +176,14 @@ A child needs *both* a mother and a father figure:
   - The parents have authority over the children, who possess miniature roles that imitate their same-sex parent until they move out.
   - LGBetc. marriages often give confusing guidelines for children about how to define male or female behavior, as well as how they should naturally interact.
   - Polyamorous relationships (e.g., 2 males and 1 female) can confuse the children about which of those father or mother figures to model.
+- The quality of good parenting travels downward through a scientifically proven hierarchy:
+  1. Mom and dad loving each other [inside marriage](relationships-marriage.md) and parenting together.
+  2. Surrogate parents replacing at least one of the roles (e.g., a grandfather and mother).
+  3. Coparenting back-and-forth between single parents.
+  4. Single parenting with community support.
+  5. Orphan or foster care.
 
-A broken home will be severely devastating, but [a child can still recover from it](hardship-ptsd.md).
+A broken home will be severely devastating, but [a child can still recover from it](hardship-family.md).
 
 ## Enjoy your family
 
@@ -171,6 +194,7 @@ You're never going to get parenting completely right:
 - Beyond a bare minimum set of specifications (feeding them, clothing them, etc.), most of a child's success is dictated by their [decisions](mind-decisions.md), *not* the quality of their parenting.
 - At the same time, the quality of your parenting *will* determine whether your adult child will be your [friend](people-friends.md) in adulthood, decades later.
 - There's no set of standardized rules for parenting, and all parenting advice is subjective to the situation and [culture](people-culture.md).
+- More than anything, your best memories with your children will come from how much you [have fun with them](parenting-children-fun.md).
 
 Society vilifies relatively innocuous issues compared to what really matters:
 

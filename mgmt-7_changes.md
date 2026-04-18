@@ -42,7 +42,7 @@ While you may be able to make changes instantly on an individual level, all chan
 - Most system changes require running the old method alongside the new method for a period of time.
 - People also often tend to resist changes, so offer incentives instead of ultimatums.
 
-For *any* change, expect a multi-phase approach:
+For *any* change, expect a multiphase approach:
 
 1. Observe any pain points, weaknesses, shortcomings, or process gaps.
 2. Analyze and brainstorm ways to fix them.
@@ -87,9 +87,9 @@ Good ideas come through *outside* the organization, so connect as much of the or
 
 - Get direct customer feedback instead of simply hearing members' disagreements.
 - Get personally involved in altruistic activities and causes you care about, and advertise them to the team.
-- Pay the members for time serving in altruistic capacities.
+- Pay the members for time served in altruistic capacities.
 
-When [hiring](mgmt-3_teams.md) new [managers](mgmt-middle.md), be *very* picky over who you appoint.
+Be *very* picky when [hiring](mgmt-3_teams.md) new [managers](mgmt-middle.md).
 
 - It's tempting to pick someone you know (e.g., a [family member](people-family.md)), but they will have an easier time stealing from you or breaking rules if they know they can [influence](power-influence.md) you out of any legitimate consequences.
   - Unless you favor everyone who *isn't* a personal connection, any personal connections *will* imply nepotism for everyone else.

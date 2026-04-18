@@ -197,7 +197,7 @@ Failure to report a crime: not reporting a crime to authorities (typically only 
 
 Dangerous vehicle operation:
 
-- Hit and run: causing an accident and not stopping
+- Hit-and-run: causing an accident and not stopping
 - Operating/driving/boating under/with the influence (OWI/OUI/DWI/DUI/BUI): using a controlled substance while operating a vehicle
   - Open container (alcohol): having an opened container of alcohol present in a vehicle
 - Reckless driving: operating a vehicle while not paying attention
@@ -208,7 +208,7 @@ Public intoxication: using a controlled substance in a public place (usually alc
 
 Theft/larceny: taking something without permission
 
-- Grand theft auto: stealing an automotive
+- Grand Theft Auto: stealing an automotive
 - Robbery: theft accomplished through violence or the threat of it
   - Carjacking: robbing a vehicle
 - Shoplifting: taking merchandise without paying for it

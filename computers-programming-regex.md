@@ -3,7 +3,7 @@
 
 Obviously, it's a good idea to search inside text and numbers for things. A "regular expression" is the code to do that.
 
-The syntax changes depending on the programming language, but we'll use JavaScript here. Here's some examples of what text you could look for:
+The syntax changes depending on the programming language, but we'll use JavaScript here. Here are some examples of what text you could look for:
 
 - a - the letter "a"
 - a|b - the letter "a" or "b"
@@ -42,7 +42,7 @@ One of the more fiddly and confusing components of regular expressions is a "loo
 
 It will go through each letter, step by step, to find the match ("a","b","b","a","z"...)
 
-Now, what if you want to search for that element, but with a somewhat unrelated thing elsewhere in that string? You'd normally have to have the computer zip ahead to find it. with lots of text in the middle.
+Now, what if you want to search for that element, but with a somewhat unrelated thing elsewhere in that string? You'd normally have to have the computer zip ahead to find it with lots of text in the middle.
 
 Instead, you can have the computer literally "look ahead" while holding its place:
 

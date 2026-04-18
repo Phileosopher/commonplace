@@ -62,7 +62,7 @@ Avoid "Z-patterns" across the flow of the information where the eye moves left-t
 - Set a line length limit of 50-60 characters and never go past 70, meaning narrow and tall information blocks.
 - Place labels *above* input fields, not to the side.
 
-Human anatomy sets a general criteria of standards, which can be modulated for specific domains (e.g., plus-sized people):
+Human anatomy has a general set of standards, which can be modulated for specific domains (e.g., plus-sized people):
 
 - Tables and chairs
   - A chair is designed to sit ~25-30 cm below its intended table.
@@ -92,9 +92,9 @@ Set simple typography and color on complex backgrounds, and complex typography a
 
 ## Typography
 
-Pay close attention to [font](engineering-graphics.md) choice. Text details like like text placement, font, heading size, and spacing will evoke *many* [feelings](mind-feelings.md), often [by saying *much* more than the designer may be aware of](engineering-design-font.png).
+Pay close attention to [font](engineering-graphics.md) choice. Text details like text placement, font, heading size, and spacing will evoke *many* [feelings](mind-feelings.md), often [by saying *much* more than the designer may be aware of](engineering-design-font.png).
 
-The typography should fits the [emotional association](mind-feelings.md) the designer wants the user to experience.
+The typography should fit the [emotional association](mind-feelings.md) the designer wants the user to experience.
 
 - Typically, only give up to 2 fonts per interface, though 1 font type is often ideal.
 - The font should have a serif to make it more authoritative, though it's much simpler if it's sans serif.

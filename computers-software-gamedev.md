@@ -5,7 +5,7 @@ In terms of raw talent and delivering results, game development requires [peak p
 
 ## Storytelling
 
-Most games, with the exception of some skill or puzzle games, are driven by a [story](stories-why.md).
+Except for some very small games, most games have a [story](stories-why.md).
 
 When an interactive story is created correctly, the capabilities and uniqueness of immersion are immense. Almost every other medium (book, movie, radio drama, etc.) involves the audience viewing the experiences of that character, but game development is typically designed for a player to *be* a character.
 
@@ -50,7 +50,7 @@ For each genre or style, game developers generally move through a [trend](people
 Often, unscrupulous developers will borrow heavily from the [operant conditioning chamber](https://en.wikipedia.org/wiki/Operant_conditioning_chamber) (also called a "Skinner box" after the psychologist B.F. Skinner) first developed in 1898. The general pattern runs most casinos by forming addictions, and operates as follows:
 
 1. Present a set of possible actions for the user, with rewards for some of those actions.
-2. For the rewarded actions, modulate the chances of the actions occurring (e.g., 1 in 20 chance, every 15 times, etc).
+2. For the rewarded actions, modulate the chances of the actions occurring (e.g., 1 in 20 chance, every 15 times, etc.).
 3. Optionally, give the user a wide variety of possible rewards to provide the experience of making [choices](mind-decisions.md).
 4. Repeat indefinitely, changing out rewards occasionally, adding new types of rewards, and scaling them up before the user gets bored.
 5. Branch out the rewards into tiers (e.g., an easily acquired type of coin and a rare type of coin).

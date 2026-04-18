@@ -193,7 +193,7 @@ It's a wasted effort to cover all the inspirations for each distro, since they b
 
 OS frameworks that originated from Unix all have a similar-enough experience to make the user [feel at home](engineering-design.md) when swapping back-and-forth between them, including using many of the same [commands](computers-cli.md). To that end, the broad catchall term is "Unix-likes".
 
-[Apple](computers-os-apple.md) also uses a Unix framework, for both MacOS and iOS, but its key difference is that it's a hybrid of a ["monolithic kernel" and "microkernel"](computers-os.md), while Linux is *strictly* a monolithic kernel.
+[Apple](computers-os-apple.md) also uses a Unix framework, for both macOS and iOS, but its key difference is that it's a hybrid of a ["monolithic kernel" and "microkernel"](computers-os.md), while Linux is *strictly* a monolithic kernel.
 
 Apple's microkernel is XNU (which stands for "XNU is Not Unix" because programmers like recursions), which consists of several components:
 

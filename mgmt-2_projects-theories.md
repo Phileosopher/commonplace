@@ -48,9 +48,9 @@ One of the downsides of the system is that on the individual level the entire pr
 
 The system is designed for when project goals aren't entirely clear:
 
-1. Break the project into sub-projects, called "sprints".
+1. Break the project into subprojects, called "sprints".
 2. At the end of a sprint, everyone reviews the work and makes adjustments for the next sprint.
-3. In difficulties come in the middle of a sprint, make smaller sub-projects within that sprint with newer, smaller goals.
+3. In difficulties come in the middle of a sprint, make smaller subprojects within that sprint with newer, smaller goals.
 4. Repeat until complete.
 
 The original idea was from [software development](computers-programming.md), where the goals and possible risks aren't always perfectly clear.
@@ -68,14 +68,14 @@ The original idea was from [software development](computers-programming.md), whe
    - Defines what everyone should expect from each other.
    - Clarifies duties involving everyone being transparent with each other, how they process others' requests, and how everyone should prioritize work.
 3. Tactical meetings
-   - Gives specific standards for how to run meetings and keep them efficient.
+   - Communicates specific standards for how to run meetings and keep them efficient.
    - Also prevents from anyone dominating the meeting or distractions about unrelated discussions.
 4. Distributed authority
    - Speeds tasks up by granting partial autonomy without needing prior approval.
    - Creates constraints to prevent abuse of that autonomy.
 5. Decentralized governance process
    - Creates a process for making improvements or changes within the scope of each person's work.
-   - Gives limits to prevent anyone abusing the governance process.
+   - Defines constraints which prevent anyone from abusing the governance process.
 
 The system gives everyone power to self-manage, which is a very effective system if everyone is trustworthy to self-direct.
 

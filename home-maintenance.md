@@ -36,7 +36,7 @@ Checking/Replacing
 
 ## Seasonally (every 3-4 months)
 
-[ ] Clean the inside and outside of all windows and mirrors.
+[ ] Clean inside and outside all windows and mirrors.
 [ ] Clean the stove underneath by popping off the top.
 [ ] Polish all furniture.
 [ ] If you have a dryer, clean the duct that runs from the dryer to the vent.
@@ -57,7 +57,7 @@ Cleaning
 [ ] Vacuum the couches.
 [ ] Clean out any air conditioner and fan filters.
 [ ] Drain the water heater tank to reduce sediment.
-[ ] Pressure wash the decks, driveways, and walkways.
+[ ] Pressure-wash the decks, driveways, and walkways.
 [ ] Clean all appliances.
 [ ] Vacuum refrigerator coils.
 
@@ -66,7 +66,7 @@ Checking/Replacing
 [ ] Check and clean the refrigerator gasket and replace it if necessary.
 [ ] Replace the refrigerator's water filter.
 [ ] Place a new container of baking soda in the refrigerator.
-[ ] Test and replace the batteries for for carbon monoxide and smoke detectors.
+[ ] Test and replace the batteries for carbon monoxide and smoke detectors.
 [ ] Test the water heater's pressure relief valve.
 
 ## Once a year
@@ -129,8 +129,8 @@ Cleaning
 
 Checking/Replacing
 
-[ ] Have a professional inspect and clean the fireplace
-[ ] Have a professional check the heating unit
+[ ] Have a professional inspect and clean the fireplace.
+[ ] Have a professional check the heating unit.
 [ ] Check trees for interference with electric lines.
 
 ### The start of winter

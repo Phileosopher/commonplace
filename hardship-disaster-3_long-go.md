@@ -53,11 +53,11 @@ Consider how you'll leave:
 
 If you have a gun and are trying to stay inconspicuous across national borders, you'll typically want to get rid of it, but keep it if you'll need to negotiate or fight.
 
-Make sure you and everyone going with you has their passports *before* you plan to leave:
+Make sure you and everyone traveling with you has their passports *before* you plan to leave:
 
 - Passports last for 10 years, and are relatively easy to renew.
 - Don't get false documents or identification, since your contact may alert the authorities.
-- More people means it's harder to travel together, so plan to split up.
+- Groups of people traveling are more conspicuous than individuals, so plan to split up.
 
 Talk to an attorney about making a corporation in another country:
 

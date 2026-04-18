@@ -5,7 +5,7 @@
 
 Most companies will go through 3 interviews while hiring a tech worker (a software developer or two, and a manager), but larger companies often go through 6 interviews.
 
-- This is an *insane* waste of time, but exists as a [cultural](people-culture.md) afterbirth of how [computer work requires *constant* re-re-verification](computers-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable with [taking risks](safety-riskmgmt.md).
+- This is an *insane* waste of time, but exists as a [cultural](people-culture.md) afterbirth of how [computer work requires *constant* re-re-verification](computers-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable [taking risks](safety-riskmgmt.md).
 
 To save time, ask before interviewing how many interviews you should expect. If the company's representative can't give you a straight answer, you might be applying to a [bad company](jobs-suck-cs.md).
 
@@ -13,7 +13,7 @@ This is magnifying the trouble with *most* interviews: they don't directly measu
 
 ## HR phone call
 
-Expect a casual conversation over the phone by an Human Resources representative. This *is* an interview, even though it'll seem like a simple formality. Watch for a few signs:
+Expect a casual conversation over the phone by a Human Resources representative. This *is* an interview, even though it'll seem like a simple formality. Watch for a few signs:
 
 - They'll ask if "now is still a good time" (you shouldn't have picked up if it wasn't).
 - They'll ask you to talk about yourself (keep it honest and brief).
@@ -31,7 +31,7 @@ The technical interviews are [a complete class of their own](jobs-5_interview-te
 
 ## Human interviews
 
-In-person interviews can be challenging. This is often not because of the interview itself, but because of the fact that you may have had several technical *and* in-person interviews, with a behavioral interview in the mix, before you got to one that talks about [system design](computers-software.md).
+In-person interviews can be challenging. This is often not because of the interview itself, but because you may have had several technical *and* in-person interviews, with a behavioral interview in the mix, before you got to one that talks about [system design](computers-software.md).
 
 Make about 10 stories ahead of time that explicitly indicate how you succeeded. Have two versions available:
 
@@ -69,6 +69,6 @@ If you're interviewing for a smaller tech company (like a startup), don't be afr
 
 ## Fighting Discrimination
 
-The tech industry, at least in the early 2020's when I write this, is susceptible to [severe discrimination](hardship.md) based on age (preferring younger), and often leans [leftward](politics-leftism.md) in its discrimination against race (preferring against white) and gender (preferring against cisheteronormative nonquestioning male).
+The tech industry, at least in the early 2020s when I write this, is susceptible to [severe discrimination](hardship.md) based on age (preferring younger), and often leans [leftward](politics-leftism.md) in its discrimination against race (preferring against white) and gender (preferring against cisheteronormative nonquestioning male).
 
 The beauty of remote work, however, is that you don't have to *be* whatever you wish to be. You just have to [look it](people-image-why.md) for the interviews.

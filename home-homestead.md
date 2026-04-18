@@ -3,6 +3,12 @@
 
 Homesteading is essentially the entire domain of [owning a home](home-maintenance.md), but with many more domains involved around taking care of your needs.
 
+Living on a homestead was essential "[normal life](https://gainedin.site/here-modern/)" up until recently.
+
+- Our ancestores would likely envy our modern society and wonder why someone would wish to expose themselves to their form of life.
+- Unfortunately, many people romanticize the lifestyle.
+- The [hardship](hardship.md) does give a type of [meaning](meaning.md), but it may be wiser to find that meaning through contributing to a community instead.
+
 The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](engineering-conveniences.md) you have available:
 
 - At the farthest end, you can [have a garden](plants.md) and learn how to fix your home (instead of hiring [professionals](professionals.md) for all your basic needs).
@@ -14,7 +20,7 @@ You can definitely strike a balance between living within range of a relatively 
 
 Most of the lifestyle comes through how you choose to generate income or goods you need.
 
-- It can be a *very* harsh life if you intentionally live completely off the land and produce your own products, especially if you don't know what you're doing.
+- It can be a *very* harsh life that requires committing to *many* skills if you intentionally live completely off the land and produce your own products, especially if you don't know what you're doing.
 - On the other hand, if you generate enough income remotely (e.g., software developer) or travel for work (e.g., construction contractor), you can typically purchase most of what you need in a large-enough metropolitan area.
 
 In general, only consider living somewhat remotely if your [extraversion](people-personality.md) is low enough that you can withstand a week or two in complete isolation.

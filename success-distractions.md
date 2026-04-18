@@ -86,7 +86,7 @@ Put away all papers and items sitting on your desk except for what you're workin
 - Hide any cords or wires coming out of the computer.
 - Put away clocks and only track time with alarms or a task light.
 
-Set your indoor temperature around 70--85 °F (20--30 °C) with shade or air conditioning.
+Set your indoor temperature around 70-85 °F (20-30 °C) with shade or air conditioning.
 
 - Mind mixed company: women prefer an average of 2.5 °F (~-16 °C) warmer than men.
 

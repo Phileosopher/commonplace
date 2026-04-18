@@ -64,7 +64,7 @@ One frequent part of computer math that we don't see as much in daily life is a 
 
 While a modulus is *technically* everything that fits in that set, the modulo operation in computers is meant to return the "remainder" you may remember from [third-grade math](math-algebra.md) (e.g., 14%3=2, 25%2=1, 17%3=2).
 
-Modulus are useful in many places, but *really* useful when trying to find out if something is even or odd, since only even numbers cleanly divide by 2. It can, for example, verify information was successfully transferred.
+Modulus is useful in many places, but *really* useful when trying to find out if something is even or odd, since only even numbers cleanly divide by 2. It can, for example, verify information was successfully transferred.
 
 ## Zero-Based
 

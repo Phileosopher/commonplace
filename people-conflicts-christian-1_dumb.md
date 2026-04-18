@@ -22,7 +22,7 @@ The concept of free will:
   - People who believe God doesn't know ahead of time invalidate Scripture.
 - Most mature Christians are aware of the strange paradox that [God is three *persons*](theology-god.md), so they eventually come to [understand](understanding.md) (or at least [sense](mind-feelings.md)) the entire discussion is irrelevant because God/Jesus has [more than one will](god-will.md).
   - The idea is built more from classical Greek philosophy than anything in Scripture, so it becomes a pointless contention that likely misses some truths entirely by asking the wrong questions.
-  - the early church (e.g., Origen) believed that the philosophical debates were ridiculous when they abolished the concept of free will.
+  - The early church (e.g., Origen) believed that the philosophical debates were ridiculous when they abolished the concept of free will.
 
 Political views mixed with faith:
 

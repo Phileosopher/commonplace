@@ -19,6 +19,8 @@ Technology is usually safest when abiding by the CIA acronym:
 - Integrity - the information wasn't messed with or destroyed.
 - Availability - the people/computers who want/need the information can get it.
 
+More information means more risk, so it's wisest to destroy legitimately useless information whenever possible.
+
 Cybersecurity professionals use human rules ("policies") and computer rules ("permissions") to create "protection rings" around computer information or technology, which are layers of security. The x86 protection rings, for example:
 
 - Ring 0 - core operating system files
@@ -54,6 +56,8 @@ To prevent a lightning strike or power outage from destroying hardware, get an "
 It's critical to use some type of verification for a program, and there are [many elements](computers-cysec-authentication.md) for making it reliable and effective.
 
 Most operating system security consists of sequential layers of authentication. More authentication factors means more complexity.
+
+There is, however, a major risk of *too much* security. It is very easy to create a self-defeating loop by setting authentication *behind* the authentication wall (e.g., sending email authentication to an email on the same server).
 
 ## Network hardening
 
@@ -159,7 +163,7 @@ However, long-term memory can be *highly* risky. A hard drive possesses all the 
 
 The severity of hard drive security has created a popular convention that memory must be wiped multiple times for the information to be perfectly safe. Popular myths have been 7 passes, or even as many as 35 passes. While this may be true for magnetic drives (like the older platter hard disks or floppy disks), this isn't necessarily true for other drives (like optical disks or electrically-stored memory like USB/SSD).
 
-The best memory security is to have an [encrypted](encryption.md) OS, then simply delete everything once (or more when it's magnetic storage), and make sure the information can't be migrated to another storage (i.e., limit access to files via USB peripherals, external media, and network).
+The best memory security is to have an [encrypted](encryption.md) OS, then simply delete everything once (or more with magnetic storage), and make sure the information can't be migrated to another storage (i.e., limit access to files via USB peripherals, external media, and network).
 
 If you're particularly concerned over a hard drive you're throwing out, permanently destroy it by running a power drill through the hardware.
 
@@ -187,6 +191,14 @@ Tor has received negative attention from vague popularized concepts about the "[
 In all reality, there are likely more legitimate services from privacy-concerned individuals on the Onion Network than illegitimate ones.
 
 Tor also serves as a useful tech admin tool, since you have access to multiple random IP addresses.
+
+## Decentralization
+
+Keeping multiple redundant systems allows a safe solution in case anything is taken offline.
+
+However, decentralization is *much* easier if the information doesn't move around (such as with [torrenting](computers-distsys-torrent.md)).
+
+Further, the attack vectors are multiplied in relation to the number of decentralized nodes. If there's any sort of [exploit](computers-cysec-exploits.md) on one node, the entire system could be at risk.
 
 ## More information
 

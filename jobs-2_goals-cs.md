@@ -52,7 +52,7 @@ There's also a trust factor worth considering in hunting for a role.
 
 ## Start Learning
 
-There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If you're self-starting [personality](people-personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
+There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If your [personality](people-personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
 
 Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](computers-programming.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
 
@@ -121,7 +121,7 @@ As a new initiate to tech, you're a victim of the frustration paradox (you don't
 Breaking into any industry is hard, but the tech industry has a few additional troubles:
 
 - Technology is an *absurdly* broad field, with very little legitimate crossover between most skills: [front-end development](engineering-graphics.md) doesn't necessarily mean someone understands how a [database](database.md) works, [machine learning](computers-ai-ml.md) skills usually won't cross over to [game development](computers-software-gamedev.md). For this reason, managers look for a *very* specific set of skills.
-- Most larger tech companies require 3 [dialogue-based interviews](jobs-5_interview.md) for most software development roles, and *one* interview is already an inherently stressful experience. Further, [technical interviews](jobs-5_interview-technical.md) are a harrowing experience unique to the software industry.
+- Larger tech companies require 3 [dialogue-based interviews](jobs-5_interview.md) for most software development roles, and *one* interview is already an inherently stressful experience. Further, [technical interviews](jobs-5_interview-technical.md) are a harrowing experience unique to the software industry.
 - Most managers in most tech companies simply aren't willing to invest the energy and time into a junior developer, so you're *very* low-demand, even if 1-2 years of experience would make them climb over themselves to get you on their team.
 
 To compensate for tech's odd standards, adapt from [the standard approach](jobs-2_goals.md):
@@ -153,7 +153,7 @@ Get advice from a friend or family member who has tech industry experience. Or, 
 
 When you first start out, junior software development is a bit of a demotion, both in pay and status, if you have a few years of experience in something else. It's worth the sacrifice if it's something you want to do, but it might be disorienting if you're older than 25 or [in a management position](mgmt-1_why.md).
 
-The culture runoff from [FAANG](faang.md) corporations is *not* healthy. Many of them craft their [image](people-image-why.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on who's managing you.
+The culture runoff from [FAANG](faang.md) corporations is *not* healthy. Many of them craft their [image](people-image-why.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on your manager.
 
 No job really has permanent job security, but tech workers have *zero* stability. The constantly changing technologies and industry changes, on *top* of natural changes from the world economy and geopolitical events, mean it's unwise to expect a role (or a [workplace culture](people-culture.md) you may grow to love) will ever last more than 2-5 years.
 
@@ -196,7 +196,7 @@ Look for little niches that can be *very* lucrative. Instead of competing agains
 
 Of course, most of your software development skills *will* become obsolete, and it becomes tedious having to re-learn [new syntax](computers-languages.md) every year or two. Most software developers (~60%, or ~3x the average for other industries) tend to move into roles like [tech management](mgmt-1_why.md) or something else completely unrelated to software development.
 
-Thankfully, your experience isn't useless. One soft skill that only comes through experience is knowing what you really want out of your work, which boils down to how well you prefer to be people-focused and how independent/team-based you want to be:
+Thankfully, your experience isn't useless. One soft skill that only comes through experience is to know what you really want out of your work, which boils down to how well you prefer to be people-focused and how independent/team-based you want to be:
 
 1. People-focused and independent: Technical support, Founder, Freelancer.
 2. People-focused and team-based: Dev Marketing, Sales Engineer, DevRel, Technical Recruiter

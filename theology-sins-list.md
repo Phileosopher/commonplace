@@ -97,6 +97,7 @@ Sins of indulgence:
 - Greed (love of money) ([1 Timothy 6:6-10](https://biblehub.com/1_timothy/6.htm))
 - Drunkenness ([Galatians 5:21](https://biblehub.com/galatians/5-21.htm), [Ephesians 5:18](https://biblehub.com/ephesians/5-18.htm))
 - Gluttony or eating beyond the needs of the body ([Proverbs 23:2](https://biblehub.com/proverbs/23-2.htm))
+  - This can be both in excess, or in obsessing about quality
 - Orgy ([Galatians 5:21](https://biblehub.com/galatians/5-21.htm))
 - Uncontrolled anger ([Galatians 5:20](https://biblehub.com/galatians/5-20.htm))
 - Evil speaking ([James 3:3-6](https://biblehub.com/james/3.htm))
@@ -164,3 +165,7 @@ Many practices aren't inherently evil but straddle a *very* fine line:
 - Transcendental meditation, self-hypnosis
 - Horoscopes
 - Entertainment like video games and cartoons with spiritual content or "alternate life" themes
+- Usury (lending money and collecting interest) was once considered evil.
+  - Lending money to a Christian with interest is effectively a type of extortion.
+  - This is no longer [fashionable](people-trends.md) now that our [economic activity](money-economics.md) presumes debt.
+  - More accurately, usury is to sell something twice (which is effectively fractional reserve banking).

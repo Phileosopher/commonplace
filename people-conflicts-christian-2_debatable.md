@@ -40,7 +40,7 @@ Cessationism vs. Continuationism - The modern-day usage/validity of spiritual gi
 - Cessationism - Those gifts were necessary to validate the Church's initial authority as being from Christ, and ended after Christians canonized the Bible.
   - The completion of the Bible was the "perfect" referenced in [1 Corinthians 13:8-10](https://biblehub.com/1_corinthians/13.htm).
   - Sign gifts like tongues and prophecy undermine the Bible's full authority and sufficiency for everything ([2 Timothy 3:16](https://biblehub.com/2_timothy/3-16.htm)).
-- Continuationists - all the spiritual gifts the Apostles had are available today to believers.
+- Continuationists - all the Apostles' spiritual gifts are available today to believers.
   - [Jesus coming again](theology-end.md) is the "perfect" referenced in [1 Corinthians 13:8-10](https://biblehub.com/1_corinthians/13.htm).
   - Nothing contradicts Scripture's application, so the gifts are still in effect for anyone who earnestly desires them ([1 Corinthians 14:1](https://biblehub.com/1_corinthians/14-1.htm)).
 - When both sides are legitimate Christians, they *will* agree on several points.
@@ -61,11 +61,11 @@ Cessationism vs. Continuationism - The modern-day usage/validity of spiritual gi
 Holy Tradition vs. Holy Scripture:
 
 - Protestants generally believe that [the Bible](theology-bible.md) is [the sole or dominant authority](theology-solae.md) for everything.
-- Catholics, on the other hand, believe the traditions of the Catholic church have as much validity as Scripture.
+- Catholics, on the other hand, believe the traditions of the Catholic Church have as much validity as Scripture.
 - At its most extreme, the Protestants will fall into error:
   - Removing *all* traditional elements of church service (e.g., pews, worship music, preaching, etc.)
   - It creates trouble with hermeneutics without a basis of tradition
-- On the other extreme, though, the Catholic church will also be utterly wrong at the extreme:
+- On the other extreme, though, the Catholic Church will also be utterly wrong at the extreme:
   - Emphasizing what they've been doing for centuries when it goes directly against the Bible
 
 How long God's "days" were to create the universe in [Genesis 1](https://biblehub.com/genesis/1.htm):

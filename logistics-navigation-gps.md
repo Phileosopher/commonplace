@@ -1,5 +1,5 @@
 
-# What computer geolocation is is
+# What computer geolocation is
 
 [Navigation](logistics-navigation.md) via computers is arguably one of the most useful implementations of technology in the 21st century.
 
@@ -72,7 +72,7 @@ As "geographic information systems" (GIS) include more layers (e.g., hotels, res
 - When there is plenty of *potentially* useful information, the map must have layers that can be toggles, which adds extra complexities, especially if some of that data requires constant updating.
 - When a map expresses information, sometimes that information won't arrive in a timely manner, which may cause issues for the user as they start to interpret information before it updates to its final form.
 - At scale, the map information will be spread across a [distributed system](computers-distsys.md), meaning the developers have to think ahead about bandwidth and processor load relative to users' use of the software.
-- Most of the time, a map must permit the user to interact with it and move it around, which magnifies *all* of the above.
+- Most of the time, a map must permit the user to interact with it and move it around, which magnifies *all* the above.
 - By implementing a Street View feature, photographic data (often as panoramic tiles) can be added to specific coordinates, which even *further* complicates the system.
 - If a map system ever integrates with [autonomous vehicles](computers-autos.md), the complexities become almost inhumanly difficult to fully codify in a single essay.
 
