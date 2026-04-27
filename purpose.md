@@ -18,6 +18,8 @@ Every purpose we make is a response to our environment:
 3. We continue to perceive that thing as a "problem" until we [decide](mind-decisions.md) in a way we interpret as [sensible](mind-feelings.md) and [rational](logic.md).
 4. We then search for a [means](results.md) to "fix" that problem.
 
+This is a bit challenging to parse because of [gender](people-gender.md) distinction. Males have no inherent purpose and must draw *exclusively* from their environment. Females, by contrast, have an implicit sense of value because their body is configured to give and nurture life. This makes males more single-minded in their focus, and also makes females have a more difficult time with [menopause](maturity.md).
+
 APPLICATION: Without [awareness](mind-awareness.md), our purposes tend to override [reality](reality.md), which is why we employ so much [faith](mind-trust.md) in so many things.
 
 Thus, we're only find satisfaction when we're facing conflicts, of any sort, that we believe we can achieve. For this reason, most [Utopian societies](politics-perfectsociety.md) are downright impossible: people would find them utterly boring and would probably break things just to see what happened.

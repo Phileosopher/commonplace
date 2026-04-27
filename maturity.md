@@ -119,6 +119,8 @@ Having met their own needs and their childrens', they try to create a [legacy](l
 
 Concerned with our [children](people-family.md) and [the surrounding community](groups-member.md) with "giving back" to society, [helping others](success-1_why.md), and making others well.
 
+This usually triggers due to a scarcity of ability. Males will start noticing they're growing weaker or unable to perform their tasks. Females will either observe their infertility through menopause or their [appearance](people-image.md) deteriorating through age.
+
 If we're successful, we learn to [be more caring](morality.md) and produce meaningful [results](results.md).
 
 Our mental peak typically takes place around our early 50s.

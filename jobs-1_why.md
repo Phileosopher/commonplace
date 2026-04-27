@@ -87,6 +87,7 @@ You don't see your future with the company:
 - You don't see an opportunity to grow or learn from your work.
 - Your career goals have changed and don't align with the company anymore.
 - Your company will cease operations in the foreseeable future, or you may not be needed within 6-12 months.
+  - You'll likely not have a job if you've been placed on a PIP ("Performance Improvement Plan"), which is [HR's](mgmt-7_changes.md) way of gathering evidence to terminate you.
 
 The position obstructs one of your main life goals:
 
