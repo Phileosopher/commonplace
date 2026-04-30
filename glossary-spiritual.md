@@ -3,6 +3,8 @@
 
 This is a glossary of theology terms beyond the terms present outside [cults, heresies, and disagreements](people-conflicts-christian-why.md) or [Christian philosophy](glossary-philosophy-christian.md).
 
+Adoption - The state of God adopting a believer as His son, often discussed alongside justification, sanctification, and glorification
+
 Amillennial - The eschatological view that Revelation is not depicting a millennium of Christ's or Christian reign
 
 Angelology - The systematic theology branch that addresses what angels are
@@ -56,6 +58,8 @@ Father - the Person of the Godhead who is omniscient and omnipotent
 Futurism - The eschatological view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), will happen in the future
 
 Gap creationism - An Old Earth creationism view that there were distinct gaps between each "day" in Genesis
+
+Glorification - The state of man being "glorified", which comes at the end after justification, regeneration, adoption, and sanctification, implied among all legitimate Christianity as a [post-mortem](hardship-death.md) experience
 
 God's glory - God's influence, reputation, or strength
 

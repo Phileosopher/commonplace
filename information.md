@@ -88,6 +88,8 @@ Everyone has a limit on how much information they can consume.
 - Over time, we can adapt that distracted and miserable state into [habitual, mindless autopilot](habits.md).
 - We can train that limit to expand a little, but it's mostly hard-wired into our [personalities](people-personality.md).
 
+The larger problem, therefore, is no longer in finding information, but in maintaining the attention necessary to comprehend it.
+
 [Pay attention](mind-awareness.md) to any signs of information [addiction](addiction.md) ("brainrot"):
 
 - Unable to think clearly.

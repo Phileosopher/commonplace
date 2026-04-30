@@ -1,9 +1,18 @@
 
 # Electrical engineering
 
+Electricity was discovered by observing the electric eel. It etymologically combines "electrum" from Latin and "ēlektron" from Greek. This word was synonymous with was a naturally occurring alloy of gold and silver called "amber".
+
+Electricity and magnetism are *very* connected.
+
+- A magnetic force can be multiplied through an electric current by wrapping an electrical coil around an object. This is how speedometers and voltmeters work.
+- It's always safe to assume magnetism is present when electricity is present, and the converse.
+
 ## Electrical connections
 
 Electricity is simply the large-scale movement of many electrons from atoms with more electrons than protons to atoms with fewer electrons than protons. Electricity is *everywhere* in small amounts, but we only see it naturally occur on a dramatic scale with lightning.
+
+Electrical energy is defined by voltage, which is the potential energy difference available between two charges. It's defined as the amount of potential that causes 1 amp moving in 1 second (a "coloumb") to do 1 joule (0.737 ft-pounds) of work.
 
 The formation of electricity gives *tremendous* capacity for people to magnify their labor, and is by far the most ubiquitous. An electrically powered engine generally has less torque than anything combusted (e.g., internal combustion engine, rocket engine) but the energy is *much* easier to transfer around to other sources compared to anything strictly mechanical.
 
@@ -11,7 +20,7 @@ Amperes measure how fast electrons flow, and volts measure the difference in how
 
 Electricity travels from one point to another through a "conductor" that has a certain amount of resistance measured in ohms. Metal tends to have a much lower resistance than most other materials, and some of the best conductors happen to be copper, silver, and gold because they're [more capable of picking up additional electrons relatively easily](science.md).
 
-Wires can be temporarily engaged to complete the "circuit". The engagement is typically hidden behind a [designed](engineering-design.md) housing with a switch for the user's safety.
+Wires can be temporarily engaged to complete the "circuit". The reason electricity works with wires is because it's the path of least resistance (i.e., usually copper). The engaged wires are typically hidden behind a [designed](engineering-design.md) housing with a switch for the user's safety.
 
 There are usually "fuses" placed in a box to precisely detect where the assembly will break in the case of a severe spike in electric current. All the wiring is supposed to travel through that fuse box at some point in its journey to prevent any cables from breaking in an unpredictable location. For that reason, barring a frayed wire from exposure to the elements, most typical electrical failings are either within the output (e.g., light bulb) or within the fuse.
 

@@ -8,21 +8,9 @@ Christians *frequently* argue over relatively small lifestyle elements while for
 - Ironically, most of the issues serve little practical benefit for anyone's [spiritual journey](spiritual-exercises.md).
   - If there *are* any advantages to one side or another, that will be sorted out with a more significant issue.
 
-The concept of free will:
+The [concept of predestination](theology-predestination.md) fits neatly into this category.
 
-- On one end, Bible verses show how God has set up everything into a plan, even evil people who will go to hell ([Proverbs 16:4](https://biblehub.com/proverbs/16-4.htm), [Romans 9:11](https://biblehub.com/romans/9-11.htm)).
-  - God has also called an elect to serve Him ([Romans 8:28-30](https://biblehub.com/romans/8.htm), [Ephesians 1:4-6](https://biblehub.com/ephesians/1.htm)).
-- At the same time, God sent His Son to save the *entire* world ([John 3:16](https://biblehub.com/john/3-16.htm)).
-- We must philosophically reconcile that God knows everything and that we can make independent [decisions](mind-decisions.md).
-  - Calvinism - God has complete knowledge of absolutely everything, and we have no free will.
-  - Arminianism - God has limited knowledge, and we have total free will.
-  - Molinism - God has complete knowledge, including of alternate realities, but people can still freely accept or reject it.
-- Every growing Christian swings back and forth on their views of free will.
-  - People who believe humans have no free will usually have a severely undervalued sense of [humanity's worth](theology-godandman-humanity.md).
-  - People who believe God doesn't know ahead of time invalidate Scripture.
-- Most mature Christians are aware of the strange paradox that [God is three *persons*](theology-god.md), so they eventually come to [understand](understanding.md) (or at least [sense](mind-feelings.md)) the entire discussion is irrelevant because God/Jesus has [more than one will](god-will.md).
-  - The idea is built more from classical Greek philosophy than anything in Scripture, so it becomes a pointless contention that likely misses some truths entirely by asking the wrong questions.
-  - The early church (e.g., Origen) believed that the philosophical debates were ridiculous when they abolished the concept of free will.
+- However, many proponents on both sides of the argument will almost make it an utter requirement for salvation to believe one or the other.
 
 Political views mixed with faith:
 

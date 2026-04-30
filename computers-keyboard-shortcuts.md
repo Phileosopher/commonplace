@@ -139,6 +139,28 @@ Many keyboards come with special shortcut buttons, which can often be remapped w
 
 An underlined letter in a menu selection is usually connected to a keyboard shortcut.
 
+## OS key shortcuts
+
+Depending on the OS, some of the less common accented letters are still available for quick access.
+
+For Windows, most of the characters are encoded within a 4-digit entry on the keypad:
+
+1. Hold down the Super key.
+2. Enter the 4-digit code.
+3. Release the super key.
+
+For Linux OS (only tested so far on Ubuntu), enable the "Compose" key in the keyboard settings.
+
+- Pick a rarely used key, such as a right-mirrored key (e.g., right Shift, right Ctrl, right Alt)
+- The key combinations are a sequence of separate presses:
+  - ë: Compose, ", e
+  - ẽ: Compose, ~, e
+  - ô: Compose, ^, o
+  - á: Compose, ', a
+  - à: Compose, `, a
+  - €: Compose, =, e
+  - £: Compose, -, l
+
 ## More information
 
 [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179)

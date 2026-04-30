@@ -19,6 +19,16 @@ Small sins [habitually](habits.md) prepare us for larger sins on the same spectr
 - People usually see good and evil as a dualistic battle, but evil is more of a void (like darkness or cold).
 - Apathy and hate are the absence of love, and selfishness is the absence of consideration for others.
 
+Our first sin was to not trust God at His word ([Genesis 3:2-6](https://biblehub.com/genesis/3.htm)).
+
+1. He told us to not eat of the Tree of Knowing Morality.
+2. If we had trusted God's nature, we would have waited, and He would have given it to us when we were ready for it.
+3. Instead of building [meaning](meaning.md) through waiting, we decided to consume the [knowledge](understanding.md) early.
+4. Since then, we make irreversible snap judgments of moral injustice that generate [feelings of anger](mind-feelings-anger.md).
+5. That anger is the basis for a multitude of sins including desiring revenge, conceit, and bitterness.
+6. The only pathway out for us now, irrespective of our eternal state, is through replacing our wisdom with God's.
+7. To gain God's wisdom, we must trust Him like we were supposed to in the first place, though the situation has gotten far worse for us.
+
 From the beginning ([Genesis 3-4](https://biblehub.com/genesis/3.htm)), the first seven sins show how complex we can make things, and how bad things can become:
 
 1. Eve permitted the temptation to eat the fruit, and Adam didn't stand up to oppose it.
@@ -32,6 +42,11 @@ From the beginning ([Genesis 3-4](https://biblehub.com/genesis/3.htm)), the firs
 6. Cain covered up the murder.
    - God cursed Cain's work more severely.
 7. Cain tried to negotiate with God to save his body (and not his soul).
+
+Due to the metaphysical nature of reality conforming to a relationship with god, the consequences of sin has created irredeemable damage to this universe.
+
+- All fauna (and plenty of flora) moved from a sacrifice-based approach (i.e., give and trust God to receive what is needed) to a survival-based approach (i.e., take as much as needed without considering what is being destroyed).
+- It is entirely possible entropy and other forms of physical decay have been magnified from their original parameters.
 
 All followers of Christ are responsible for removing sin from their lives by submitting themselves to God.
 

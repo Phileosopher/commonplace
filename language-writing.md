@@ -116,7 +116,7 @@ After you've written out a first draft, keep that audience in mind while [editin
 
 ### All writing sends a message
 
-The entire work paints a portrait of ideas:
+Even when a body of work is entirely [nonfiction](language-witing-nonfiction.md), the entire work paints a portrait of ideas:
 
 - Everything you're writing is [solving a problem](purpose.md).
 - The first sentence, paragraph, word, and title will define the reader's expectations throughout the work.
@@ -124,20 +124,9 @@ The entire work paints a portrait of ideas:
 - Without a message, a writer is just trying to draw attention to themselves.
 - One misplaced word can ruin the entire flow of the story, so build a story from back to front to maintain consistency.
 - In effect, aim to [write a story](stories-how.md) with each body of text you write.
-
-All great messages contain a WHAT and a WHY:
-
-- WHAT communicates the information and events you want to share.
-  - Event details, date, time, location
-  - Educational information, data, facts
-- WHY communicates the benefits from knowing the information or the cause for the WHAT.
-  - It gives the [reason](purpose.md) you're writing at all.
-  - It answers the "call to action" the reader must take.
-- The rest spins off from these two:
-  - WHO is the character (or reader) that does WHAT.
-  - WHERE is the setting for WHAT.
-  - WHEN is the chronology of WHAT.
-  - HOW is the detailed set of processes to explain the WHAT and WHY.
+  - Every topic sentence represents an isolated idea.
+  - Every concluding sentence points to the next paragraph.
+  - The entire flow of ideas in the body of text is a sequence that references back to the first idea.
 
 Get to the point or start as close to the end as possible:
 
@@ -148,20 +137,9 @@ Get to the point or start as close to the end as possible:
 All writing is either explaining or exploring:
 
 - Explanations are transmitting information and ideas: making things [clearly known](understanding.md).
+  - This can be [technical documentation](language-writing-documentation.md) or any form of [nonfiction](language-witing-nonfiction.md)
 - Explorations are developing hard-to-grasp concepts: making [the unknown](unknown.md) partially known.
-
-Focus on the positive form of the idea:
-
-- Say "do" instead of "don't".
-- What something "isn't" is less informative than what something "is".
-
-When using examples and anecdotes, carefully consider your quantity:
-
-- 1 demonstrates raw power.
-- 2 is useful to compare or contrast.
-- 3 gives a sense of completeness, fullness, or wholeness.
-- 4 or more can list, inventory, compile, and expand.
-- In reality, 3 gives a stronger sense of completeness than 4.
+  - This can be in the form of [stories](language-writing-stories.md), poetry, or [philosophy](philosophy.md).
 
 Understate the topic when it's the most serious, and overstate when it's not.
 
@@ -219,4 +197,6 @@ Whether it's a [website](language-writing-web.md) or a [text message](language-w
 - Writing itself is solitary, but your easiest success in editing comes from other people.
   - If you must self-edit, read your final draft after enough time has passed that the text is no longer familiar.
 - Find people willing to openly criticize your writing and nitpick your style.
-- Your [friends](people-friends.md), family, and [spouse](relationships-marriage.md) are great for reviewing, but don't ask them to review your content more than they want.
+- Your [friends](people-friends.md), family, and [spouse](relationships-marriage.md) are great for reviewing.
+  - However, to preserve your [friendship](people-friends.md), don't ask them to review your content more than once or twice.
+  - As a general rule, give the near-to-final drafts to your more casual reader friends, but give the almost-final draft to your technically qualified friends.

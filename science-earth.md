@@ -26,6 +26,8 @@ We don't know much about what's under the surface, but are aware of splits in te
   - Reverse: the split involves the plates pushing together, usually with one of them being shoved above or below the other.
   - Transverse: the plates rub against each other.
 
+The earth is magnetic, which empowers [conventional navigation](logistics-navigation.md). The magnetic poles move around, but stay in approximately the same place. The current theory is that it's from a molten iron core at the center of the earth.
+
 ## Obvious unanswered questions
 
 - How much can we damage the ecosystem before it stops self-healing?

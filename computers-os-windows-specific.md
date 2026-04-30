@@ -3,6 +3,8 @@
 
 Customize the menu by right-clicking the Start button, selecting Settings, then selecting "Adjust links".
 
+As of 2023, the ideal Windows operating system for almost everything is Windows Server 2012 R2.
+
 ## Bypass Microsoft Account requirement
 
 This worked for Windows 11, but may have changed.
