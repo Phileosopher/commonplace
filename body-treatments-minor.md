@@ -1,5 +1,5 @@
 
-# First aid for minor issues
+# Natural treatments for minor issues
 
 ## Acne and blackheads
 
@@ -82,6 +82,12 @@ Drink senna leaf tea or dried aloe vera juice
 For painful gas, lay on your back and lift your left knee to your chest to fart it out
 
 Apply mustard oil to the navel
+
+Drink prune juice or eat prunes
+
+Use the BRAT diet (bananas, rice, apples, tea)
+
+- This is also gentler on your system as well.
 
 ## Coughing/cold
 
@@ -184,6 +190,8 @@ Try to force yourself to hiccup
 
 Apply equal parts mustard oil and ginger oil to the navel
 
+Drink ginger juice or eat ginger
+
 ## Joint pain, arthritis, and neuropathy
 
 Eat something
@@ -205,6 +213,10 @@ Apply oil on and around the navel before bed
 
 - Castor
 - Mustard
+
+## Muscle soreness
+
+Drink tart cherry juice
 
 ## Need to pee
 
@@ -327,3 +339,9 @@ Eat marshmallows
 Rub ice on the back of the hand
 
 Rub ice on the webbing on the back of the hand between the thumb and index finger
+
+## Wrinkles
+
+Most wrinkle-preventing solutions don't work, but tretinoin (branded as Retin-A) does.
+
+- It also increases UV intake, meaning an increased chance of sunburn.

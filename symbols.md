@@ -102,4 +102,4 @@ FURTHER APPLICATION: Don't waste too much time trying to [influence](influence.m
 
 Either way, a firm [understanding](understanding.md) of [reality](reality.md) will deter most false [stories](stories-why.md). But, to the people who want to [believe](understanding-certainty.md) those stories, it'll *always* seem perfectly [reasonable](logic.md).
 
-APPLICATION: Watch for patterns you may trigger in a [culture](people-culture.md) that's not your own. For example, the implication of breaking [rules](people-rules.md) is [taboo](morality-taboo.md) for lawyers, but honoring rules is taboo for most [lower-income urban dwellers](classes.md).
+APPLICATION: Watch for patterns you may trigger in a [culture](people-culture.md) that's not your own. For example, the implication of breaking [rules](people-rules.md) is [taboo](morality-taboo.md) for lawyers, but honoring rules is taboo for most [lower-income urban dwellers](people-classes.md).

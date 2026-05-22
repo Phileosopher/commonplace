@@ -1,7 +1,9 @@
 
-# The basics of Cluster B personality disorders
+# Cluster B personality disorders
 
 Cluster B [personalities](people-personality.md) represents a large subset of society. The behaviors wildly differ, but come from the same mental basis.
+
+- These include antisocial personality disorder, borderline personality disorder, histrionic personality disorder, and [narcissistic personality disorder](mind-neurodivergence-clusterb-narcissist.md).
 
 ## How they think
 
@@ -32,6 +34,7 @@ Due to this, the severity of their mental illness often comes through how intell
 One noteworthy and potentially controversial view is that BPD is the same thing as covert NPD.
 
 - While it may be a minor detail, the practical distinction is certainly close enough that clinical psychologists have diagnosed the symptoms similarly.
+- Part of the confusion is that a borderline, when facing [narcissistic collapse](hardship-abuse-narcissist-stages.md), will express covert NPD.
 
 ## Difficulties due to their mental state
 
@@ -82,15 +85,31 @@ The reversals come in various forms, but tend to be successful in proportion to 
 2. How little information other people have about the other person. This permits the lie to take hold.
 3. How effective the attacker can be at hiding further information. This perpetuates the lie.
 
-## How to approach
+In general, [conflicts with Cluster B](people-conflicts-narcissist.md) can be complicated.
 
-In light of this, there are some ways to easily detect Cluster B:
+## Their ultimate end
 
-- Watch for clearly premeditated behaviors over circumstances that wouldn't be appropriate.
-  - e.g., a delay in reflecting grief when hearing someone else's dog died
-- Use self-deprecating humor, then add humor at their expense immediately afterward.
-  - They will likely over-react to their "slight"
-  - If uncertain, make another self-deprecating joke and see how they respond.
-- Call them a narcissist outright.
-  - They will go into full-on meltdown, and will try to destroy you and your reputation with everything they have.
-  - If they're not, then they'll be confused.
+Not including [their post-life end](https://theologos.site/false/), Cluster B will slowly create a predictable circumstance for themselves.
+
+- Eventually, they will develop [a reputation](people-image.md) of being unkind, [manipulative](power-influence.md), and [evil](morality-evil.md).
+
+The consequences will be disastrous for their personal life:
+
+1. Immediately, the narcissist will lose control and feel a sense of emptiness and exposure.
+   - In effect, the [stages of narcissistic abuse](hardship-abuse-narcissist-stages.md) end badly for the abuser as well as the victim.
+2. The narcissist will rewrite history over and over to validate their views.
+   - However, since it's all an [image](people-image.md) and not based in [reality](reality.md), they'll never heal from it or learn to [change](people-changes.md) in any meaningful way.
+   - The consequence of this is that they'll end up repeating the same actions in a different context, then continue blaming everyone but themselves.
+3. The narcissist may be surrounded by people but still be alone through a lack of deep, lasting connections.
+   - This is the standard situation, but that surface-level behavior gets worse as the narcissist keeps needing to rewrite the story to make her look entirely like the hero or victim in every social context.
+4. The narcissist will repeat the same relationship cycle with others.
+   - This will mean [the same exact stages of narcissistic abuse](hardship-abuse-narcissist-stages.md), but with a different appearance and with someone else.
+   - However, their increased [anger](mind-feelings-anger.md) means their patience threshold will be lower, so they're more likely to move through the stages faster when the other person reacts to their impulsive behavior.
+   - This can compound across multiple relationships, and a narcissist can move to cycling very rapidly between relationships to compensate.
+
+Eventually, a narcissist will run out of people to abuse:
+
+- Close [friends](people-friends.md) will drift away.
+- Their [partners](relationships-marriage.md) will leave.
+- Even their [children](parenting-children.md) will estrange themselves from their parent.
+- Most narcissists will [die alone](hardship-death.md).

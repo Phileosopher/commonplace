@@ -269,6 +269,8 @@ PDU (supercomputers) - power distribution unit, a big power management device th
 
 Pentest - penetration tester, a specific form of hacking that involves finding vulnerabilities in a computer system
 
+Perimeter security - A cybersecurity philosophy where each actor has a certain level of permissions based on a classification of their role
+
 Peripheral - something that plugs into the base computer equipment, like a computer screen or headphones, can also contextually be something built-in
 
 Permissions - aka access rights or privileges, rules that specify what a computer/user can do when using a computer
@@ -335,6 +337,8 @@ Pretexting - A social engineering exploit that uses subtle appeals to reliable s
 
 Primary key - a unique and unchanging identifier in a relational database, is called a foreign key when it shows up in a separate table as the same ID
 
+Private key - a secret designed for only one authorized user
+
 Primitives - base components that can get built or incorporated into more elaborate ones
 
 Print - originally referred to the printer before screens were invented, but now applies to all human-readable output
@@ -388,6 +392,8 @@ Proxy server - a computer that uses its IP as a proxy for another computer, ther
 PS/2 - from IBM's "Personal System 2", a largely obsolete pin-based plug for sending keyboard and mouse information
 
 Public domain - something that anyone can use without any [intellectual property](legal-ip.md) enforcement
+
+Public key - a secret designed for public access, can be authorized by a third party (i.e., digital certificate) or for general use
 
 Pull request - a commit made to another maintainer's code, which submits it to a review process before it's included into the code base
 

@@ -18,7 +18,7 @@ Without [love](people-love.md), the only useful thing any person's purpose can e
 
 ## Power's basis
 
-Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](mind-awareness.md) or [consent](mind-decisions.md). It can come from [family/group reputation](people-image-why.md) or [reality](reality.md), but also comes through aspects of our [personality](people-personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](mind-decisions.md) would yield.
+Some power is given to us by others (e.g., [social class](people-classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](mind-awareness.md) or [consent](mind-decisions.md). It can come from [family/group reputation](people-image-why.md) or [reality](reality.md), but also comes through aspects of our [personality](people-personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](mind-decisions.md) would yield.
 
 APPLICATION: Power is somewhat randomly distributed to each of us through [upbringing](people-family.md) and [personality](people-personality.md), but we can make [decisions](mind-decisions.md) that determine how our power shifts over time.
 
@@ -43,6 +43,8 @@ Money is tangible, but [most power isn't](power-types.md). We can't discern *pre
 We can gain awareness of most power through [meditation and introspection](mind-awareness.md). Most psychotherapy is untangling and releasing power we had given to awful [authority figures](groups-small.md).
 
 APPLICATION: All forms of power, even knowledge, are limited. Since [power of all types](power-types.md) has a maintenance cost to it, we must only amass power that fulfills an existing [purpose](purpose.md) or fulfills our [imagination](mind-imagination.md) of future purposes.
+
+APPLICATION: Since every form of power is limited and has a maintenance cost, the power of people in relationship with each other is constantly changing. Most people only ever think about a particular power because they are seeking a [purpose](purpose.md) that could use it.
 
 ## Power and love
 
@@ -149,7 +151,7 @@ Vulnerability is our willingness to [trust](understanding-certainty.md) that oth
 
 Across time, there's a type of "natural selection" of power, where the most capable in any situation overpower the less capable. This is the basis of [economics](money-economics.md) and [evolutionary theory](science-life.md), but there's very little value to knowing it on an individual basis.
 
-APPLICATION: Most demarcations of [social class](classes.md) are built around how well people manage power. The poor tend to burn up their power on frivolous [purposes](purpose.md), while the wealthy are hyper-vigilant about *anything* that may harm their means of control.
+APPLICATION: Most demarcations of [social class](people-classes.md) are built around how well people manage power. The poor tend to burn up their power on frivolous [purposes](purpose.md), while the wealthy are hyper-vigilant about *anything* that may harm their means of control.
 
 APPLICATION: Giving everyone power, such as everyone with guns, would make everyone *much* more respectful of each other. At least, until someone took them all.
 

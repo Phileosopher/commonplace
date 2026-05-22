@@ -282,7 +282,7 @@ When they disrespect you:
 
 When engaging with toxic people, you can often tell you've succeeded in proper boundary-setting, even if they don't affirm it.
 
-- The worst version of this toxicity comes through [the final stages of engaging with a narcissist](mind-neurodivergence-clusterb-narcissist-stages.md).
+- The worst version of this toxicity comes through [the final stages of engaging with a narcissist](hardship-abuse-narcissist-stages.md).
 - Most of the time, their assertions are "you" statements.
 - "You've changed. / You're not the same person."
   - They likely feel out of control or unable to manipulate you.

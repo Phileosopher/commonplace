@@ -1,12 +1,11 @@
 
-# What awareness is
+# What awareness and mindfulness is
 
-We can't live healthy lives when our subconscious always drives us:
+Knowing ourselves is the basis of all [understanding](understanding.md).
 
-- Constant fear of loss leads to more stress.
-- We experience less [connection](people-why.md) with others and trouble experiencing [love](people-love.md).
-- A false sense of crisis can lead to neglected needs.
-- We'll fixate on something and ignore important details around it.
+- Awareness is the first step to *all* conscious [change](people-changes.md).
+- Without self-awareness, our subconscious [habits](habits.md) automatically run our lives.
+- A mindful lifestyle also empowers holistic well-being by reducing [stress](mind-feelings-happiness-stress.md).
 
 Staying mindful, or aware, isn't the same for each person, and we have a tendency to specialize with it.
 
@@ -17,34 +16,51 @@ Staying mindful, or aware, isn't the same for each person, and we have a tendenc
 - Conceptualization: able to physically see different perspectives in [space](reality.md).
 - Analysis: able to draw rational connections from previously [understood](understanding.md) information.
 
-## Self-awareness
+We all have inner [conversations](people-conversation.md) with ourselves called "thoughts".
 
-Knowing ourselves is the basis of all [understanding](understanding.md).
+- While they're *always* [logical](logic.md), they're not always reasonable or well-adjusted.
 
-- Self-awareness does several things:
-  - Detects early signs of [risk](safety.md)
-  - Decodes emerging [patterns](symbols.md)
-  - Gives us freedom to [choose](mind-decisions.md) instead of react
-- Awareness is the first step to *all* conscious [change](people-changes.md).
-- Without self-awareness, our subconscious [habits](habits.md) automatically run our lives.
+We're constantly bombarded with thoughts, and we don't notice most of them.
+
 - We are the main curators of our mental health, as well as the first to experience its consequences.
 
-[Cognitive distortions](mind-bias.md) will frequently disrupt self-awareness:
+We're in constant conflict.
+
+- Each [decision](mind-decisions.md) and [uncertain thing](unknown.md) in our minds is a guaranteed source of inner conflict.
+- These conflicts start within ourselves and branch out to [others](people-conflicts.md).
+- We [constantly hear new things](information.md) that interfere with our thoughts.
+
+## Risks of staying unaware
+
+There are *very* severe risks to ignoring our thoughts.
+
+- We may over-identify with our thoughts or feelings to the point that we'll believe our [identity](people-identity.md) is in them.
+- We may push away or alter unfavorable thoughts instead of simply observing them, which can create denial and delusions over time.
+- The thoughts may stay away for a while, but at some point we'll eventually be overwhelmed by their sheer volume or intensity.
+
+Over time, we create [cognitive distortions](mind-bias.md) that disrupt our ability to see clearly:
 
 - Overgeneralization: drawing broad conclusions from a single event.
 - Catastrophizing: expecting the worst-case result of an experience.
+- Black-and-white thinking: seeing things in absolute good/bad terms with no middle ground.
 - Personalization: believing things are exclusively associated to you, even when they're not.
-- Black-and-white thinking: seeing things in absolute good/bad terms.
 - Mind-reading: assuming you know what others are thinking without concrete evidence.
 - Rumination: repeatedly thinking about distressing events or feelings, which can [dysregulate](mind-awareness-dysregulation.md) us.
 
-When we're unaware, we frequently respond wrongly:
+When we persist in unawareness, we become [dysregulated](mind-awareness-dysregulation.md).
+
+The long-term effects of staying unaware of our thoughts start affecting others:
+
+- Constant fear of loss leads to more stress.
+- We experience less [connection](people-why.md) with others and trouble experiencing [love](people-love.md).
+- A false sense of crisis can lead to neglected needs.
+- Eventually, we can develop consistent [unforgiveness](hardship-ptsd-release.md) and [bitterness](mind-feelings-anger.md).
+
+When we're unaware, we will frequently respond inappropriately:
 
 - If we don't know what causes things, we'll work to [fix something](https://adequate.life/fix/) that might not be broken or can't control.
 - Sometimes, our [fear](mind-feelings-fear.md) will compel us to "fix" things that destroy even more than what we had observed.
 - And, when we're unaware of *those* consequences, we won't see what we destroy or try to "fix" things further!
-
-When we stay unaware of ourselves, we become [dysregulated](mind-awareness-dysregulation.md).
 
 We must challenge our cognitive distortions with further awareness.
 
@@ -53,19 +69,16 @@ We must challenge our cognitive distortions with further awareness.
 - Curiosity: openly ask if a thought is accurate or helpful.
 - Grounding techniques: [come back to the present moment](mind-awareness-meditation.md).
 
+Mindfulness helps us to step back and evaluate the situation, which creates several benefits:
+
+1. Detachment: we can view [our feelings](mind-feelings.md) like they're passing through instead of as concrete truths.
+2. Clarity: we can [understand](understanding.md) fact-based concepts with less [bias](mind-bias.md) from our feelings.
+3. Choice: we can actively and consciously [decide](mind-decisions.md) the best way to respond to our thoughts without reacting.
+4. Wisdom: we can detect early signs of [risk](safety.md) by decoding emerging [patterns](symbols.md).
+5. Emotional intelligence: we can possess more [emotional intelligence](power-influence.md).
+6. Creativity: more access to our feelings means more capacity for [problem-solving](mind-creativity-how.md).
+
 ## Awareness isn't easy
-
-We all have inner [conversations](people-conversation.md) with ourselves called "thoughts".
-
-- While they're *always* [logical](logic.md), they're not always reasonable or well-adjusted.
-
-[Meditation](mind-awareness-meditation.md) takes discipline through patience, which is proportionally less necessary with increased [success](success-1_why.md).
-
-We're in constant conflict.
-
-- Each [decision](mind-decisions.md) and [uncertain thing](unknown.md) in our minds is a guaranteed source of inner conflict.
-- These conflicts start within ourselves and branch out to [others](people-conflicts.md).
-- We [constantly hear new things](information.md) that interfere with our thoughts.
 
 Many of our [feelings](mind-feelings.md) may be undesirable.
 
@@ -77,70 +90,43 @@ The more we do, the less we're aware.
 - Doing things requires us to pay attention to tasks, which means we're not paying attention to our thoughts.
 - When we aren't aware of what we do, we typically develop [habits](habits.md) without thinking about them.
   - Over time, our [memory](mind-memory.md) will discard details until all we have are mental and physical habits.
-  - Eventually, we'll persist in consistent [unforgiveness](hardship-ptsd-release.md) and bitterness.
+- [Success in almost everything else](success-1_why.md) requires action more than patience.
+  - By contrast, [meditation](mind-awareness-meditation.md) takes discipline through patience.
 
 Gaining self-awareness can often be lonely.
 
 - Nobody else sees or knows our thoughts, no matter how well we [communicate them](language-speaking.md).
 - Barring [a higher power](religion-answers.md) directly speaking with us (such as [God](https://theologos.site/gospel/)), we often sense nothing.
 
-## Language
+## Mindfulness has limits
 
-We understand the world through [the words we use](language.md).
+Without directing toward something else, gaining mindfulness alone will simply be a variation of self-hypnosis.
 
-- Our words are often insufficient because we explored a concept when we were *much* younger.
+- Hypnosis means we can gain total [power](power.md) over ourselves, including minimizing our [fears](mind-feelings-fear.md).
+- Hypnosis allows us to become very effective at anything we set ourselves to, but that doesn't mean those actions are inherently [good](morality.md).
+- With enough self-hypnosis, we can even [influence others](power-influence.md), and that can create *enormous* adverse consequences if we're not regulating what we're doing (e.g., running a [cult](people-culture-cults.md)).
 
-Learn to make comparisons for your feelings:
+The best use of becoming mindful is to attain "self-directed neuroplasticity":
 
-- Describe your experiences and feelings with a story.
-- Create fictional stories with characters that represent your different feelings.
-- Use colors to describe the mood as you experience the different things you feel.
+1. We detect a thought that may not be advantageous for us to have.
+2. We redirect the thought to a more productive place.
+3. Over time, as we keep doing it, the [feelings](mind-feelings.md) become less severe and we develop [habits](habits.md) that improve our [general wellbeing](goodlife.md).
 
-Write a journal:
+If things become *awful*, we may need help attaining mere awareness through outside help.
 
-- Even when nobody reads it, [writing](language-writing.md) forces you to clarify exactly what you're thinking.
-- Venting in a journal articulates the experience and helps to differentiate fact from fiction.
-- It doesn't have to make sense, follow a pattern, or capture your feelings.
-
-Immediately before *any* important experience, take about 30 seconds to write down the most important points of that upcoming experience.
-
-For every thought, conduct an audit of its connected thoughts by asking several clear questions:
-
-1. Where will these thoughts lead me?
-2. Will these thoughts get me to where I want to go?
-   - Will these thoughts build me up or tear me down?
-   - If not sure, where *do* I want to go?
-3. Are these thoughts [morally acceptable](morality.md) beyond what I simply feel to be right?
-4. Do I feel guilty thinking these thoughts, and why?
-5. Could I share these thoughts with someone else?
-   - This gives tremendous insight on the relationship between your spiritual state and others' spiritual state.
-6. Where did these thoughts originate?
-
-## Don't overdo it
-
-If things become *awful*, we may need help attaining awareness through outside help.
-
-- Prescription drugs such as antidepressants, antianxiety medications
+- Prescription drugs such as antidepressants, antianxiety medications (though we can often become reliant on them)
 - Eye movement desensitization and reprocessing ([EMDR](https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing))
 - Neurofeedback
 - Somatic therapy
 - acupuncture/acupressure/EFT tapping
 - Cognitive behavioral therapy ([CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy))
-- Guided yoga/meditation
+- Guided yoga/[meditation](mind-awareness-meditation.md)
 - Various forms of [writing](language-writing.md)
 
-Awareness is *only* useful for detecting problems.
+Further, we must pace ourselves, since too much truth at once may overwhelm us.
 
-- Effective [solutions](mind-creativity.md) typically exist beyond our minds and understanding.
+However, awareness is *only* useful for detecting problems.
+
 - If the answers *were* within our minds, there'd be no reason to learn or do anything else *but* meditate, since we could just find the answers through introspection alone.
-
-Too much awareness can sometimes make people more *selfish*.
-
-- The large-scale purpose of increased awareness should be primarily to [serve others' interests](people-3_respect.md).
-- Depending on your [social status](groups-member.md) and [culture](people-culture.md), knowing certain facts can inhibit your [success](success-1_why.md) or prevent you from being a [decent human being](people-3_respect.md).
-
-Further, we sometimes must pace ourselves, since too much truth at once may overwhelm us.
-
-## More information
-
-[Relaxation Response](http://www.relaxationresponse.org/)
+- Effective [solutions](mind-creativity.md) typically exist beyond our minds and understanding.
+- The answer comes in [changing our dysregulation](mind-awareness-dysregulation.md), and not simply in awareness of it.

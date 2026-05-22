@@ -1,7 +1,11 @@
 
 # How wars and large-scale conflicts work
 
-People have [conflicts](people-conflicts-why.md) among each other one-on-one. However, when people have significant [power](power.md) over others, they wage conflicts using their groups instead of as individuals.
+People have [conflicts](people-conflicts-why.md) among each other one-on-one. When people have significant [influence](power-influence.md) over others, they wage conflicts using their groups instead of as individuals.
+
+- Every single conflict, taken large enough and without any [love](people-love.md) for the other side, will become a war.
+- Beyond its scope it is an inescapable part of [human nature](humanity-universals.md), and there is no distinction in this for [class](people-classes.md), [culture](people-culture.md), [philosophy](philosophy.md), or [religion](religion.md).
+- Further, contrary to [leftist](politics-leftism.md) doctrine, the only difference with the weak and the strong with their capacity for violence is their means.
 
 Some of these conflicts are [moralized](morality.md) issues, but most of them are simplified battles over [power](power.md) toward a future [purpose](purpose.md), group [control](people-boundaries-why.md), or an ego battle over who has more power.
 
@@ -9,7 +13,11 @@ APPLICATION: There is very little [justice](morality-justice.md) to any large-sc
 
 Individuals won't normally see the benefits of attacking a different set of people. To keep everyone [motivated](purpose.md), most groups portray the [appearance](people-image-why.md) of their "[good](morality.md)" versus their opponents' "[evil](morality-evil.md)" using elaborate, [large-scale media](stories-storytellers.md).
 
-To get a people group to [consent](people-contracts.md) to any form of war, however, they must experience two conditions:
+Wars are always horrible, but they determine who can exert [power](power.md).
+
+- The [story](stories-why.md) on how the winners won, and what they did, determine the [cultural values](people-culture.md) and [rules](people-rules.md) of a society after the war is over.
+
+To get a people group to [consent](people-contracts.md) to any form of war, they must experience two conditions:
 
 1. They must be collectively experiencing [severe hardship](hardship.md) from an exteranl source (i.e., not as [logical](logic.md) [consequences](results.md) of [their decisions](mind-decisions-how.md))
 2. A strong-looking [leader](mgmt-1_why.md) who:
@@ -42,7 +50,7 @@ Usually, the trigger for a large-scale conflict comes through an existing disagr
 
 APPLICATION: Nuclear weapons will never be as popular as the *threat* of nuclear weaponry, simply because the winner inherits a crater that's uninhabitable for a long time.
 
-Most groups tend to protect their most [educated and intelligent](education.md) members as much as possible from the group's highest risks. Strategists, among others, are often working closely with (or are) the ruling [class](classes.md) of the group, while less advantaged individuals (e.g., young, unintelligent) are far more exposed and disposable. To keep everyone in line, the lower class is implied to have access to those privileged positions if they work hard enough.
+Most groups tend to protect their most [educated and intelligent](education.md) members as much as possible from the group's highest risks. Strategists, among others, are often working closely with (or are) the ruling [class](people-classes.md) of the group, while less advantaged individuals (e.g., young, unintelligent) are far more exposed and disposable. To keep everyone in line, the lower class is implied to have access to those privileged positions if they work hard enough.
 
 When outright physical conflict isn't as advantageous to win, [legal battles](legal-safety.md) can become just as fierce. [Low-agreeableness personalities](people-personality.md) can even make *[sports](fun-sports.md)* a constrained form of warfare.
 
@@ -52,9 +60,11 @@ The resource costs for war preparedness are high. Any slack in [discipline](habi
 
 APPLICATION: Most effective large-scale leaders are either always interacting with a large-scale conflict or [have a plan](mind-imagination.md) for one. They'll avoid it when possible, but aren't [afraid](mind-feelings-fear.md) of it.
 
+One of the benefits of a well-trained military is that it builds [habits](habits.md) into its members that empower more [success](results.md) in other endeavors. For that reason, even when there are *zero* [risks](safety.md) from opposing forces, a military can still serve a useful purpose in times of peace by drawing out people from the [lower class](people-classes.md) into the middle and upper class.
+
 [Defusing a war](people-conflicts-war-why-defusing.md)
 
-[Engagement in a large-group conflict](people-conflicts-war-why-engagement.md)
+[Engagement in a large-group conflict](people-conflicts-war.md)
 
 ## Interorganizational conflicts
 
@@ -89,7 +99,28 @@ The only way for any smaller group to fight the larger group comes through a uni
 2. Give enough time together to cross-pollinate [new ideas](mind-creativity.md) on how to solve the problems.
 3. Agree on a good decision, then [take action on it](results.md).
 
-## Complications to the facts
+## Technology and war
+
+Most of the intelligent people who have built [technlogy](technology.md) have had a false understanding of what would happen with respect to war.
+
+- Many of them completely overlooked the martial [purpose](purpose.md) of their technology (e.g., aircraft).
+- Some had presumed that the technology would create so much [fear](mind-feelings-fear.md) that everyone would cease to fight (e.g., dynamite, nuclear weapons).
+- However, that fear has always proven to be short-lived, and the new technology eventually becomes another strategic portion of future conflicts.
+  - Even when a country closely holds a technological secret, the very observance of that technology's implementation is often enough to start reverse-engineering what they're doing.
+
+Technological superiority, however, is only one portion of a military strategy, and is still subject to the constraints of a battle.
+
+- Further, the inherent volatility from the extra complexity of technology can often serve adversely in wartime, where [supply chains](logistics.md) are easily disrupted.
+
+One key detail about military technology is that it's usually easier to make than for civilian [purposes](purpose.md)
+
+- Many technological elements are often designed for destruction:
+  - Missiles versus satellite rockets
+  - Drones delivering payloads versus for surveillance use
+  - Nuclear bombs versus nuclear power
+- Granted, the technology that *sends* the payload over will need to be higher-quality, but not the actual things that blow up.
+
+## Modern complications with war
 
 Modern warfare has tried to create some form of civility to war, especially as [technology](technology.md) has made warfare absolutely horrific. Dozens of organizations have responded afterward to the gruesome war [stories](stories-why.md) by banning certain forms of combat (e.g., chemical/biological warfare).
 
@@ -114,15 +145,50 @@ This gets more [complicated](mgmt-badsystems.md), but the idea is to create a [f
 
 The simple reality of humanity is that they're capable of unending [evil](morality-evil.md) that is most prevalent in war, and only way to stop a war crime is to stop the war criminal, which usually means killing them.
 
-One of the benefits of a well-trained military is that it builds [habits](habits.md) into its members that empower more [success](results.md) in other endeavors. For that reason, even when there are *zero* [risks](safety.md) from opposing forces, a military can still serve a useful purpose in times of peace by drawing out people from the [lower class](classes.md) into the middle and upper class.
+## Ending the conflict
 
-## Resolving the conflict
+A war will persist as long as at least one side desires to keep fight, and they resolve when the *authorities* of both sides are sick of fighting.
+
+- One of the most rapid forms of a war ending is through the authorities changing leadership, since the new leaders may change the organization's plans after deposing the old leadership.
+
+The [economic](money-economics.md) interests of war mean many organizations will try to prolong a conflict.
+
+- There is tremendous money in all the war [technology](technology.md) (e.g., arms dealers).
+- Except for nuclear warfare, the rebuilding effort *after* the war is highly profitable.
+- Irrespective of the opinion, the devastation creates tremendous [influence](power-influence.md) from speaking about the war (e.g., [journalists](language-journalism.md)).
+- Politicians historically see more people collectively rally behind them when there's a perceived outside threat.
+
+The messaging for a prolonged war has a predictable pattern, with at least some of the following elements:
+
+1. There is always an implied [virtue](morality-virtues.md) to the conflict.
+   - This can take the form of national pride, [religious](religion.md) justification, antagonism against the other side, or some combination of them.
+2. The war's objectives don't have clear goals (e.g., "war on terror", "war on drugs").
+   - When the situation seems more favorable, the messaging is that it's working.
+   - When things seem more dire, the messaging is that everyone needs to contribute more to stand on it.
+3. There is very little information with respect to the opposing side.
+   - This serves to [dehumanize](mind-bias-fear.md) them enough that the soldiers don't feel much remorse for contributing to the war effort.
 
 When two groups fight, there are too many unknown factors to know exactly what's going on at any given moment ("fog of war"). However, leaders still must make [decisions](mind-decisions.md) with their limited information and often try to increase the fog of war for their opponent whenever possible.
 
 In practice, strategic decisions are essentially [game theory](math-gametheory.md), with the entire engagement built around at least two actors. Even seemingly harmless activities that simply [change how things look](people-image-distortion.md) can be *highly* effective in deterring purposes (e.g., "false flag operation").
 
-Large-scale conflicts resolve when everyone involved is sick of fighting. This can often take a *long* time, especially if more than two groups were involved.
+The entire purpose of each side is not simply to dominate a space or demonstrate superiority, but to utterly humiliate the opponent's leadership enough that it demoralizes the troops. This can happen through several methods:
+
+1. The utter, rapid, crushing destruction of the group's combat abilities.
+   - This requires the other group to prepare plenty of work beforehand to employ a *lot* of [surprise](mind-feelings-surprise.md) and [fear](mind-feelings-fear.md), along with the extra complexities of hidden [technology](technology.md) or an unrevealed alliance.
+2. The defender successfully holds off the attacker long enough that the attacker doesn't see a reason to keep going.
+3. The [supply chains](logistics.md) are cut off, on either side, in such a way that one side sees they can't win.
+
+Since military conflicts move at the speed of a leader's ego, it can often take a *long* time, especially if more than two groups were involved.
+
+- To that end, exploiting [mind games](mind-bias.md), such as by demonstrating numerical superiority, is the most effective solution to quickly end a war.
+
+The composition of the military force strongly determines how their morale maintains itself.
+
+- If the military is heavily reliant on [technology](technology.md), successfully sabotaging that technology will terrify the military (e.g., [hacking](computers-cysec.md)).
+- Mercenaries are happy to fight as long as they're paid, so any form of cutting off their money supply will make them abandon their post.
+- Conscripted soldiers are more loyal than mercenaries, but they have families to return home to. Assuming a side has been [trustworthy](mind-trust.md) with their war prisoners, they will win easily by offering soldiers a chance to return home without consequence.
+- Higher-rank officers seek political influence, so they can often be coerced if they're given a high-rank role or plenty of wealth if they choose to defect.
 
 The outcome of a large-scale conflict is never straightforward. Between the [trauma](hardship-ptsd.md) on both sides that can provoke irrational behavior, the [reasons](purpose.md) why people fight, and the intergroup conflicts that often play out at the same time, it's *very* hard to predict who will be left standing and in what position by the end.
 

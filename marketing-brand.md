@@ -44,12 +44,12 @@ A. Identify the demographics of the audience you want leads for.
 - There are many classifications, but you can segment it as far as you need:
   - [Age](maturity.md)
   - [Gender and sexual orientation](people-gender.md)
-  - [Income](classes.md)
+  - [Income](people-classes.md)
   - [Ethnic groups](people-culture.md)
   - [Family lifestyles](people-family.md)
   - [Personality](people-personality.md)
   - [Lifestyles and motives](mind-decisions.md)
-  - [Social class](classes.md)
+  - [Social class](people-classes.md)
     - Most advertising to the under-class and middle-class appeals to reproducing whatever the wealthy do (e.g., was conspicuous consumption and waste, and more recently became [eco-friendly messages](politics-leftism-sustainability.md)).
   - Psychographics (psychological tendencies from the environment)
   - Geographic location (Geodemographics):

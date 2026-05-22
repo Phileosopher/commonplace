@@ -24,7 +24,7 @@ The [moral](morality.md) decay among individuals comes through several key motiv
 
 - Pressure to maintain [a numerical standard](math.md).
 - [Fear](mind-feelings-fear.md) that leads to silence about perceived issues, including [conflicts](people-conflicts-why.md) of interest.
-- The [dominant leadership](groups-small.md) has a nearly [cult](culture-cults.md)-like [influence](influence.md) over the [youngest members](maturity.md) of the group.
+- The [dominant leadership](groups-small.md) has a nearly [cult](people-culture-cults.md)-like [influence](influence.md) over the [youngest members](maturity.md) of the group.
 - The secondary leadership is weak compared to the dominant leaders and many lower-ranking members, meaning they're [easy to control](people-image-distortion.md) and not [respected](power.md).
 - The group is *very* [influential](influence.md) in its [specialization](jobs-specialization.md), meaning they're often above accountability and can justify [immoral actions](morality.md) with other good actions.
 
@@ -108,7 +108,7 @@ If the organization persists to a [successor](legacy.md), the new leadership wil
 2. Members [enslaved](people-slavery.md) to the organization who have proven their loyalty to the leaders' [values](purpose.md) (i.e., a puppet).
 3. Individuals who haven't proven their loyalty, but show enough [power](power.md) that they can (and might) overpower the leadership (i.e., a populist).
 
-These leaders will likely have *no* aptitude or [ethics](morality.md) in comparison to their predecessors. Unlike the group's founders, the people who take over will only have one [social class](classes.md) to draw experience from, so they'll be outmatched by most of the competition inside their organization, as well as *any* outside competitor.
+These leaders will likely have *no* aptitude or [ethics](morality.md) in comparison to their predecessors. Unlike the group's founders, the people who take over will only have one [social class](people-classes.md) to draw experience from, so they'll be outmatched by most of the competition inside their organization, as well as *any* outside competitor.
 
 APPLICATION: The most conspicuous sign of a bad system first forming comes through a leader with a [moral](morality.md) conviction that may not be as moral as they think, but the not-so-moral [partners and friends](people-friends-why.md) they [trust](mind-trust.md) advance that [idea](values.md) forward.
 

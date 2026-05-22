@@ -6,7 +6,7 @@ Modern society has created many benefits (e.g., [insurance](money-insurance.md),
 In general, most modern health management revolves around two major things:
 
 1. Mitigating various [toxins](body-health-toxins.md) that may arise in modern society
-2. [Treatments](body-health-treatments.md) against any breakdown of a body system, either from over-exposure to toxins or simple aging.
+2. [Treatments](body-treatments.md) against any breakdown of a body system, either from over-exposure to toxins or simple aging.
 
 The ubiquity of modern toxins make [diet](body-diet.md) and [exercise](body-exercise.md) management far more complicated.
 
@@ -39,7 +39,7 @@ Many healthcare professionals agree with the holistic and mind-based approach:
 - [Dr. Hunter Adams](https://www.patchadams.org/)
 - [Dr. Mark Hyman](https://drhyman.com/)
 
-Obviously, you'll need [treatments](body-health-treatments.md) eventually (especially since we are all [on the way to death](hardship-death.md)), but it's in your interests to [live in a way that avoids them for as long as possible](body-health-habits.md).
+Obviously, you'll need [treatments](body-treatments.md) eventually (especially since we are all [on the way to death](hardship-death.md)), but it's in your interests to [live in a way that avoids them for as long as possible](body-health-habits.md).
 
 ## Consider your age
 

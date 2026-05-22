@@ -27,18 +27,6 @@ Spiritual Celibacy - Virginity outside of marriage is a purer state of existence
   - Without this forgiveness, a church culture can reject someone simply for having been a non-virgin *before* they were Christians.
   - It makes common sense for the divorcing person to spend at *least* 4-5 years single first, though.
 
-There is no hell, it isn't eternal, or is a figurative state of mind:
-
-- That hell isn't eternal or is a figurative state of mind, but the Bible verses make hell an abundantly clear location for unrepentant sinners.
-- Arabici - Humans' souls die with their body, but are resurrected with the body on Judgment Day.
-- Hell is clearly real, and clearly eternal ([Matthew 25:41](https://biblehub.com/matthew/25-41.htm), [Jude 7](https://biblehub.com/jude/1-7.htm)).
-  - God reserved hell for the Satan and his fallen angels ([2 Peter 2:4](https://biblehub.com/2_peter/2-4.htm)).
-  - Irrespective of its controversy, the Bible makes it clear it's for unrepentant sinners.
-- Other people don't imagine how an all-loving God could deliver eternal punishment, but several independent thoughts shed some light on it:
-  1. [Our souls](theology-godandman-humanity.md) are designed to be infinite.
-  2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](theology-god.md) can't coexist with sin because He sees the depths of a soul's heart ([Psalm 7:9](https://biblehub.com/psalms/7-9.htm)).
-  3. He therefore has no choice for infinite, unrepentant souls except to put them away from the rest of creation.
-
 Some heresies about Christian [rituals and practices](mgmt-church.md) create an environment with [bad boundaries](people-boundaries-why.md):
 
 - Adamism - Everyone should live naked, like Adam and Eve.

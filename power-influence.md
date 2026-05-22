@@ -30,7 +30,14 @@ Our desire to matter to others provokes us to convey the things that gain the mo
 
 APPLICATION: We shouldn't worry too much about what other people look like for comparison with ourselves. If you either look closely at how other people *really* see you or examine how their lives *really* are, you'll find most people aren't that different from you, and probably far less put-together than they [appear](people-image-why.md).
 
+Authenticity is the skill of [communicating](language.md) things that go beyond anyone's image, while wisdom is the ability to [perceive](understanding.md) it. However, some people preoccupy themselves so much with [reality](reality.md) that they forget how they look, so authenticity and wisdom don't always go together.
+
 APPLICATION: Nerds and geeks don't really care much about [image](people-image-why.md), mostly because they don't know how to wield it. However, they're often less influential merely from not learning a few tricks.
+
+When people indicate an assertion that isn't necessarily true to be patently obvious, they may have a hidden [purpose](purpose.md) to [obscure the truth](people-image-distortion.md).
+
+- Other times, their [perspective](people-image-why.md) has a different set of [values](understanding-certainty.md) that define how their [bias](mind-bias.md) runs.
+- Often, everyone is at least somewhat correct, though some are certainly more correct than others.
 
 Even unpleasant actions like whining and complaining can be a form of influence. However, its purpose is to elicit [pity](mind-feelings-sadness.md) from others about an unattainable [purpose](purpose.md), *not* to gain power by implying we have power already. It's the easiest thing to do (i.e., feel sorry for yourself), so most people don't respect it, and it sabotages other forms of power in the process.
 
@@ -91,6 +98,12 @@ The messenger must be charming:
 - Keeps a [mystery](unknown.md) around them by omitting or hiding information, making themselves relatively scarce by comparison to others, and evoking a small amount of [fear](mind-feelings-fear.md).
 - When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](people-image-distortion.md)) enough to imply a [trend](people-trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](people-rules.md).
 
+This charm is easy to reproduce by anyone and even over [social media](networks-social.md), and it evokes a type of hypnosis (which is effectively them [meditating](mind-awareness-meditation.md) on you):
+
+1. Draw someone's exclusive attention to you, which will likely come through you making a request of some sort (e.g., "may I have your attention, please!").
+2. Give them many small actions to do which don't really mean anything (e.g., "turn your feet to the left now", "raise your hand").
+3. After about 50 of these small actions, the person is highly suggestible to what you're trying to tell them.
+
 ### The story
 
 Skillful influence requires careful [language](language.md) placement to emphasize or sidestep specific words and sensations. The entire experience will feel like an elaborate [story](stories-why.md) to the listener. While the approach and [purposes](purpose.md) are different, it's the same mechanism for magicians, thieves, and [advertisers](marketing.md).
@@ -125,7 +138,12 @@ The setting also has a massive effect on the story:
 
 ## Persuading people
 
-Persuasion is the long-term effort of influence, and expresses the same regardless of [speaking](language-speaking.md), [conflicts](people-conflicts-why.md), or [relationships](people-friends-why.md):
+Persuasion is the long-term effort of influence, and is a purely [emotional](mind-feelings.md) transition within people's minds.
+
+- The irony of this is that people are easily suggestible by subconscious programming, but will typically be so [unaware](mind-awareness.md) of the influencing factors that they will think they have [logically](logic.md) come to that conclusion.
+- Irrespective of intelligence or [understanding](understanding.md), everyone is subject to these tactics, and the only ones who sidestep the methods are maintaining a perpetual state of [humility](morality-virtues.md) about how they can't even trust their own mind for sure.
+
+A persuasive story which changes minds on its own will express the same regardless of [speaking](language-speaking.md), [conflicts](people-conflicts-why.md), or [relationships](people-friends-why.md):
 
 1. Demonstrate why a belief may be worth investigating.
    - [Prove](logic.md) the person is missing out on a growing [trend](people-trends.md). That way, people [feel](mind-feelings.md) like others will like them, and they'll be important within a [group](groups-member.md).
@@ -169,7 +187,7 @@ At its farthest, a *highly* influential and [immoral](morality.md) person can "g
 2. Provoke that person to [trust them implicitly](mind-trust.md)
 3. Drive them to [distrust](unknown.md) their [perception](people-image-why.md)
 
-[Cults](culture-cults.md) are effectively gaslighting entire groups of people.
+[Cults](people-culture-cults.md) are effectively gaslighting entire groups of people.
 
 Most [bad systems](mgmt-badsystems.md) are simply the [logical](logic.md) consequence of exploiting how people are influenced, mixed with anyone with a [scrupulous](morality.md) enough [personality](people-personality.md) in a position of [power](power.md) to [confront](people-conflicts-why.md) them.
 

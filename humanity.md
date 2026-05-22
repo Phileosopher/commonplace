@@ -87,7 +87,7 @@ APPLICATION: To not value a soul, while valuing anything else of a person, is to
 
 APPLICATION: We can't directly observe a soul, and the easiest way to discover the value of a soul is through changing the situation that person is in. Make a rich man penniless, or give a low-ranking person ultimate authority. Their value is in the [virtues and goodness](morality.md) they keep or change as the situation shifts.
 
-People don't usually pay attention to others' legitimate human worth because they focus more on [status](people-image-why.md), [social class](classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](mind-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
+People don't usually pay attention to others' legitimate human worth because they focus more on [status](people-image-why.md), [social class](people-classes.md), or [accomplishments](results.md). Our outward status, however, is only *loosely* correlated with a soul's values, to the degree that the person has [power](power.md) when they make their [decisions](mind-decisions.md). The relationship between [attempts](creations.md) and [results](results.md) has an inescapable component of [luck](unknown.md) that clouds it as a good way to measure value.
 
 APPLICATION: There's always more to a person than you can see. If you believe that when speaking with someone, they'll respond well to it because they've become important.
 

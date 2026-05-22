@@ -27,6 +27,25 @@ There are some unique attributes of all the beings in hell:
 - They will be filled with sexual immorality and perversion ([Jude 7](https://biblehub.com/jude/1-7.htm))
 - The product of this is that they will be [complete and total narcissists](https://theologos.site/narcissism/)
 
+Some [false doctrines](people-conflicts-christian-4_false.md) allege there is no hell, it isn't eternal, or is a figurative state of mind:
+
+- The Bible makes hell an abundantly clear location for unrepentant sinners.
+  - Annihiliationism: the belief that our souls are effectively destroyed by God after death and don't linger in hell.
+- Arabici - Humans' souls die with their body, but are resurrected with the body on Judgment Day.
+- Hell is clearly real, and clearly eternal ([Matthew 25:41](https://biblehub.com/matthew/25-41.htm), [Jude 7](https://biblehub.com/jude/1-7.htm)).
+  - God reserved hell for the Satan and his fallen angels ([2 Peter 2:4](https://biblehub.com/2_peter/2-4.htm)).
+  - Irrespective of its controversy, the Bible makes it clear it's for unrepentant sinners.
+- Other people don't imagine how an all-loving God could deliver eternal punishment, but several independent thoughts shed some light on it:
+  1. [Our souls](theology-godandman-humanity.md) are designed to be infinite.
+  2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](theology-god.md) can't coexist with sin because He sees the depths of a soul's heart ([Psalm 7:9](https://biblehub.com/psalms/7-9.htm)).
+  3. He therefore has no choice for infinite, unrepentant souls except to put them away from the rest of creation.
+- Now, there *is* one specific detail that could mitigate eternal conscious torment (where God eternally torments sinners).
+  1. Hell is certainly eternal, according to the Bible.
+  2. The pain of hell is never-ending (e.g., the fire is not quenched).
+  3. However, nothing says that people *stay* in hell forever.
+     - It's entirely possible that the payment for sin may have a specific (albeit very long) timeframe.
+
+
 ## The traditional imagination of hell
 
 In some ways, we have been maligned by pop culture, most notably Dante's [Inferno](https://www.owleyes.org/text/dantes-inferno) and Milton's [Paradise Lost](https://www.poetryfoundation.org/poems/45718/paradise-lost-book-1-1674-version), but many other sources.

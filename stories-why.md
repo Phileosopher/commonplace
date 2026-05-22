@@ -9,7 +9,7 @@ Our minds are wired to process stories:
 
 APPLICATION: It's no coincidence we enjoy stories. The best way to [communicate](mind-awareness.md) an idea is through a good story, and we find tremendous [meaning](meaning.md) through living out another character's experience.
 
-Different people (e.g., [social classes](classes.md), [age groups](maturity.md)) see stories differently because their [value systems](values.md) are different. Wealthy people find [meaning](meaning.md) in winning, while poor people find it in trying your best. Young people find meaning in exploration, while old people find meaning in receiving closure. The majority finds a good story that references their experience acceptable, while critics are more concerned about the [art](values-quality.md) of the story.
+Different people (e.g., [social classes](people-classes.md), [age groups](maturity.md)) see stories differently because their [value systems](values.md) are different. Wealthy people find [meaning](meaning.md) in winning, while poor people find it in trying your best. Young people find meaning in exploration, while old people find meaning in receiving closure. The majority finds a good story that references their experience acceptable, while critics are more concerned about the [art](values-quality.md) of the story.
 
 ## The structure of a story
 

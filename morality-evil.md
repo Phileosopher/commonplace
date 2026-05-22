@@ -109,7 +109,7 @@ We commit evil through a few possible mental approaches.
 
 ### Gratification
 
-We may simply want to have something, with zero regard for others. This aspect is [culturally acceptable](culture.md) since we are born, but becomes less permissible as we [age](maturity.md).
+We may simply want to have something, with zero regard for others. This aspect is [culturally acceptable](people-culture.md) since we are born, but becomes less permissible as we [age](maturity.md).
 
 Self-pleasure, along with the contrasting virtue of temperance, is [habit-forming](habits.md), which means that most of this moral battle is within the subconscious world of [automatic habits](https://adequate.life/habits/).
 

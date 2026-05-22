@@ -148,7 +148,7 @@ APPLICATION: Without [changing human nature](politics-perfectsociety.md), the mo
 
 ## Drawbacks
 
-All [social class divides](classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
+All [social class divides](people-classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
 
 Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](mind-awareness.md) outside that technology again.
 

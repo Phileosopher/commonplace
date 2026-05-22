@@ -172,7 +172,7 @@ Because of human [purpose](purpose.md), we always want to maintain and sustain t
 
 However, as groups scale, the [purpose shifts](mgmt-badsystems.md). A logging manager, for example, cares more for self-interested management than self-interested logging, and there's more in common among management roles in different industries than there is among their lowest-ranking members.
 
-In that sense, large organizations that create a [subgroup](groups-small.md) of cultural [elites](classes.md) are the general cause of all [large-scale waste](mgmt-badsystems.md). However, this tends to happen with *any* group that lasts more than a few decades.
+In that sense, large organizations that create a [subgroup](groups-small.md) of cultural [elites](people-classes.md) are the general cause of all [large-scale waste](mgmt-badsystems.md). However, this tends to happen with *any* group that lasts more than a few decades.
 
 ## Goal 13: Climate Action
 

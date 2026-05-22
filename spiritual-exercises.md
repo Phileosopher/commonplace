@@ -12,11 +12,11 @@ Every aspect of our life revolves around showing God's glory.
 
 Many believers understand the inevitability of [family conflicts](people-family.md), [church disagreements](people-conflicts-christian-why.md), and [persecution](hardship-persecution-church.md), but they often don't realize they can start preparing for it *long* before it happens.
 
-Like [physically](body-exercise.md) or [mentally](mind-memory.md) working out, our spirits need strengthening and sharpening.
+- Like [physically](body-exercise.md) or [mentally](mind-memory.md) working out, our spirits need strengthening and sharpening.
 
 Unfortunately, the Church has corporately done a disservice to most Christians:
 
-- The Catholic Church has practiced exercises for a few millennia, but has added plenty of unnecessary aspects to their format.
+- The Catholic Church has practiced exercises for a few millennia, but has added many burdensome aspects to their format.
 - Many Protestants don't tend to practice spiritual exercises at all, except for regular Bible study.
 
 While Christians need a spiritual encounter, they don't necessarily need a *mystical* experience.
@@ -25,9 +25,10 @@ While Christians need a spiritual encounter, they don't necessarily need a *myst
 - From moment to moment, walking in Christ is an experience in [self-improvement](success-1_why.md) and submission.
 - The mystical experiences will come as they may, and we're simply [responsible](meaning.md) to [persevere](https://theologos.site/devotion-chaos/) irrespective of [how we feel at the time](mind-feelings.md).
 
-We *must* take our exercises seriously if we want to see [results](results.md) from them.
+We *must* take our actions seriously if we want to see [results](results.md) from them.
 
 - Faith is a matter of contemplation and focus, and we should do it because we love what He has done for us ([1 John 4:9](https://biblehub.com/1_john/4-9.htm)).
+- Further, our gains come through God developing our belief in Christ as being sent ([John 6:28-29](https://biblehub.com/john/6.htm), [John 7:38](https://biblehub.com/john/7-38.htm)).
 - We often mindlessly practice actions without considering their meaning.
   - We must be looking forward to time and effort with God, or we're utterly wasting our time.
 
@@ -43,10 +44,27 @@ The attitude toward spiritual exercises applies to absolutely *everything* ([1 C
 
 Find [awareness](mind-awareness.md) of yourself:
 
-- The experience is essentially meditation, but can be whatever allows you to hear Him.
+- The experience is essentially [meditation](mind-awareness-meditation.md), but can be whatever allows you to hear Him.
 - That awareness must be in relationship to God.
 - From there, you'll discover awareness of your sins.
 - Audaciously and uncompromisingly focus on all your [sins](theology-sins.md) and how much it has and can harm His creations.
+
+This awareness shouldn't simply be to recognize, but also to add to your spiritual armor (Ephesians 6:10-18).
+
+- Stay mindful that challenges will come, but that you're fully equipped to stand firm.
+- Remind yourself of [your identity in Christ](theology-godandman-humanity.md).
+
+In general, track wherever you may be missing parts of your spiritual journey:
+
+1. Have you focusing on God's activity in your life and listening to Him on a regular basis ([Psalm 46:10](https://biblehub.com/psalms/46-10.htm))?
+2. Are you cultivating your knowledge of God, Christ's character, and the Spirit's presence ([John 16:5-15](https://biblehub.com/john/16.htm))?
+3. Are the things you say reflecting your position as a child of God the King (i.e., seeking [reconciliation](people-conflicts.md), peace, and [justice](morality-justice.md)) [Matthew 5:9](https://biblehub.com/matthew/5-9.htm)?
+4. Are you connecting with God and others in a caring community ([Hebrews 10:25](https://biblehub.com/hebrews/10-25.htm))?
+5. Are you avoiding unhealthy connections with others ([1 Corinthians 15:33](https://biblehub.com/1_corinthians/15-33.htm))?
+6. Are you contributing yourself and [God-given gifts](spiritual-gifts.md) for growing the Kingdom of Heaven ([Colossians 3:23](https://biblehub.com/colossians/3-23.htm))?
+7. Are you prepared for the [uncertainty](understanding-certainty.md) God is almost guaranteed to give you soon ([James 4:13-15](https://biblehub.com/james/4.htm))?
+8. Have you been practicing patience in whatever God is doing (even when you don't see it) ([James 1:9](https://biblehub.com/james/1-9.htm))?
+9. Have you been avoiding even the *appearance* of [evil](morality-evil.md) ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm))?
 
 ## General sin-purging
 
@@ -76,6 +94,20 @@ Find ways to elevate others above yourself ([Romans 12:6](https://biblehub.com/r
 
 - Place others' needs above your own.
 - Look for people to [serve](church-serve.md).
+
+## Worship
+
+Worship is etymologized as "worth-ship", meaning giving worthiness to God.
+
+- Neurologically, we are incapable of anxiety and gratitude, which is why we should give thanks to God when anxious ([Philippians 4:6](https://biblehub.com/philippians/4-6.htm))
+
+Devote yourself to daily activities that give glory to God.
+
+- Protestants tend to aim for the highest quality of worship.
+  - The effort is to give the best of what you have through singing, prayer, and attention (i.e., a high-quality worship service).
+  - This shows in a more devoted service.
+- Catholics tend to aim for the highest reverence to God.
+  - The effort is to give God the highest sacrifice possible (i.e., high-quality Eucharist and traditions).
 
 ## Simple prayers
 
@@ -156,6 +188,19 @@ As you feel led, scale back creature comforts.
 - Refrain from spending money on comfortable things, or give your extra money to people who need it more than you.
 - Focus on [the present moment](mind-awareness.md), and that the moment you're in is all you truly require.
 - Learn to manage what you have better by [budgeting your money](money-3_budget.md) and [fixing what you have](https://adequate.life/fix/).
+
+Donate liberally.
+
+- You should *definitely* be giving more than 10%, but out of gratitude instead of any sense of obligation or [shame](mind-feelings-shame.md).
+  - God doesn't "need" your money, and He wants your faithfulness.
+- If you're being stingy, consider *every* blessing that ought to be tithed beyond money:
+  - Your health
+  - Your family
+  - The Church supporting you
+  - Your possessions (both irreplaceable and replaceable)
+  - Your [reputation](people-image.md)
+  - What God has promised He will do
+  - [The eternal rewards for being faithful](theology-end.md)
 
 ## Change your focus
 
@@ -246,6 +291,15 @@ Spend time with others:
 
 ## Good works with others
 
+Find ways to stir others up to good works ([Hebrews 10:19-25](https://biblehub.com/hebrews/10.htm)).
+
+- Comfort: giving consolation to others
+- Commiserate: share in the challenges of daily life
+- Celebrate: achievements, milestones
+- Confrontation: when we are wrong
+- Challenge: iron sharpening iron
+- Counsel: receiving wise counsel
+
 Bring up Scripture with other believers.
 
 - Ask them about what they think about a certain Bible verse.
@@ -255,7 +309,7 @@ Consider new ways to [serve others](church-serve.md) who may need it.
 
 - Don't think about what others may think or if you'll receive approval for it.
 
-Stay hospitable and open to others with needs, *especially* the [underclass](classes.md).
+Stay hospitable and open to others with needs, *especially* the [underclass](people-classes.md).
 
 - The original design God intended for us is to observe unfulfilled needs, then desire to help others.
 - By observing people suffering more than you, you'll be both encouraged (in your life) and motivated (from desiring their improvement).
@@ -272,15 +326,6 @@ Do what you can for the people suffering around you.
 - Unless you know it's a surefire solution, do *not* direct them to government assistance programs.
   - They're typically suffering enough that a possible solution that's a false hope will devastate them.
   - Instead, do research about what *is* available before approaching them with the idea.
-
-Find ways to stir others up to good works ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
-
-- Comfort: giving consolation to others
-- Commiserate: share in the challenges of daily life
-- Celebrate: achievements, milestones
-- Confrontation: when we are wrong
-- Challenge: iron sharpening iron
-- Counsel: receiving wise counsel
 
 ## Resource management
 

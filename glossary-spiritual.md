@@ -69,6 +69,8 @@ Grace - In the Bible, refers to good things God gives when He didn't need to, co
 
 Harmatiology - The systematic theology branch that addresses sin
 
+Heresiology - The study of heresy
+
 Hermeneutics - The theory and method of interpreting what the Bible says
 
 Historicism - The view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), are happening throughout history as clear eras and epochs

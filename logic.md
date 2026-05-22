@@ -191,11 +191,17 @@ At its core, we're forced to [believe](understanding-certainty.md) at least one 
 
 - [Self-perception](people-image-why.md)
 - A trustworthy [group](groups-member.md) of others' self-perceptions
-- [God/gods](religion.md)
+- [God/gods](religion.md) that maintain things beyond human perception
 
 Within reality, negations are largely easier to prove than assertions because it requires less effort. Saying "NOT all of X is Y" only requires finding 1 X that isn't Y, but saying "all of X is Y" requires proving a complete and absolute link between the two.
 
 While we *can* use logic to discover truths, it's not always the best solution. Emphasizing logic strictly will make a person perpetually critical of everything and create many false-negatives. Logic has its place in [the good life](people-goodlife.md), but isn't the only tool necessary for healthy [understanding](understanding.md).
+
+When anyone makes a statement of truth, those assertions end up falling into 3 categories:
+
+1. Inwardly verifiable ("apodictic"): a statement that can be verified in itself (e.g., "All unemployed people don't have jobs").
+2. Outwardly verifiable with room for uncertainty ("problematic"): a statement that indicates it can't be fully verified (e.g., "According to statistics, the unemployment rate has risen").
+3. Outwardly verifiable with no room for uncertainty ("assertoric"): a statement that expresses as if it's absolute truth itself (e.g., "The unemployment rate has risen").
 
 ## Analyzing reality
 

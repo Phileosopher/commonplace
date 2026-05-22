@@ -1,11 +1,11 @@
 
 # Cults that are in no way Christianity
 
-[The general definition of a cult](culture-cults.md) is "group [addiction](addiction.md)", but Christians require a more specific definition:
+[The general definition of a cult](people-culture-cults.md) is "group [addiction](addiction.md)", but Christians require a more specific definition:
 
-- For Christians, a [cult](culture-cults.md) is a culture that binds multiple heresies together.
+- For Christians, a [cult](people-culture-cults.md) is a culture that binds multiple heresies together.
 - Most cult deprogramming is designed under the presumption the person is a victim of mind control, but that's not always the case.
-- [Cult members](culture-cults.md) often have a normal-enough way to approach most of their life that you wouldn't know just by observing them.
+- [Cult members](people-culture-cults.md) often have a normal-enough way to approach most of their life that you wouldn't know just by observing them.
 
 [Language](language.md) is a *massive* factor in most cults:
 

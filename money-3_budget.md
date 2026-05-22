@@ -27,6 +27,12 @@ Budgets will always improve your life if you honor a few rules:
 4. Avoid so many categories that it's difficult to follow the flow of money.
 5. Legitimately *live* by that budget and adjust it as needed.
 
+It takes about 90 days to adapt to any new budget lifestyle.
+
+1. At first, you'll set bad [goals](jobs-2_goals.md) that you can't attain.
+2. Then, you'll develop [habits](habits.md) that reinforce what you want to do.
+3. After enough habits, you'll be in a new financial lifestyle through your perseverance.
+
 ## Include your family in the planning
 
 You will need your life partner on the same page as you:

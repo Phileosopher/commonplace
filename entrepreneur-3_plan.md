@@ -101,7 +101,7 @@ Describe in detail the demographics of each product's customers.
 - For each type of customer, create a demographic profile:
   - Age and [gender](people-gender.md)
   - Geographic location and regional lifestyle elements
-  - [Income level](money-1_why.md), [social class](classes.md), [occupation](jobs-specialization.md), and [education](education.md)
+  - [Income level](money-1_why.md), [social class](people-classes.md), [occupation](jobs-specialization.md), and [education](education.md)
 - If the customers are businesses, they'll have a different demographic profile:
   - Industries involved, or the portions of involved industries
   - Geographic location

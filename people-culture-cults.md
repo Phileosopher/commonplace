@@ -53,7 +53,7 @@ Most cults start with at least a few of several distinct experiences:
 
 1. A deluge of [affection and kindness](people-love.md) by existing members to the new member ("love bombing").
 2. Grandiose promises of avoiding [pain](hardship.md) or never having to [die](legacy.md).
-3. Promises of special [power](power-types.md) unattainable otherwise, typically through becoming part of an elite society or ruling [class](classes.md).
+3. Promises of special [power](power-types.md) unattainable otherwise, typically through becoming part of an elite society or ruling [class](people-classes.md).
 
 To gain the necessary influence and maintain it, cult leaders are a *very* specific type of [personality](people-personality.md):
 
@@ -196,7 +196,7 @@ By the end, the person has been transformed into a perfect extension of the lead
 
 APPLICATION: Gaslighting is a person trying to create a cult with a 1-person following.
 
-In a [larger cult](groups-large.md), the [classes](classes.md) of leader/follower are *explicitly* enforced with formalized titles and a rigid hierarchy. Any [disputes](people-conflicts-why.md) are *never* addressed among peers, and *always* involve the leadership making a directed decision.
+In a [larger cult](groups-large.md), the [classes](people-classes.md) of leader/follower are *explicitly* enforced with formalized titles and a rigid hierarchy. Any [disputes](people-conflicts-why.md) are *never* addressed among peers, and *always* involve the leadership making a directed decision.
 
 ## Power expressed
 

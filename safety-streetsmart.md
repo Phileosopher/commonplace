@@ -12,7 +12,7 @@ There is a distinction in [understanding](understanding.md) between "book smart"
 
 In practice, there is a necessary component for both.
 
-- In all [social classes](classes.md), not *just* the underclass, there are [deceptive](people-lying.md) and [manipulative](people-influence.md) people who will take advantage of others when given the chance.
+- In all [social classes](people-classes.md), not *just* the underclass, there are [deceptive](people-lying.md) and [manipulative](people-influence.md) people who will take advantage of others when given the chance.
 - In all domains, having [specialized](jobs-specialization.md) information can dramatically change the situation if it happens to be correct for the circumstance.
 
 ## Expectations for street smart thinking

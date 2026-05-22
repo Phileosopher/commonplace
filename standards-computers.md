@@ -183,7 +183,7 @@ Email-specific protocols:
 
 Some protocols are [encryption-specific](encryption.md):
 
-- TLS - transport layer security, which has succeeded secure socket layer (SSL), and tends to use other encryption primitives like AES
+- TLS - transport layer security, which has succeeded secure socket layer (SSL), and tends to use other [encryption](encryption.md) primitives like AES
 - PGP - pretty good privacy, encrypts and authenticates mail messages
 - SSH - secure shell, remotely access an encrypted command-line interface (i.e., Telnet but encrypted)
 - HTTPS - hyper-text transfer protocol secured, send hyper-text across the internet (i.e., HTTP with SSL/TLS)

@@ -35,6 +35,11 @@ Contrary to popular opinion, compatibility is mostly unrelated to relationship s
 
 It's difficult without practice, but you can *immediately* know why you like someone if you [examine yourself](mind-awareness.md), then compare yourself to them.
 
+Write down precisely what you want.
+
+- Do *not* second-guess yourself, since you're choosing across millions of potential people.
+- For every desire, consider what *you* must [change](success-3_goals.md) to attract that sort of person.
+
 Emotional temperament:
 
 - How do you/they see themselves?

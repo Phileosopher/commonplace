@@ -48,13 +48,13 @@ Ecumenical Council #2 in 381 AD - the First General Council of Constantinople, f
 
 Ecumenical Council #3 in 431 AD - the Council of Ephesus, feat. St. Cyril of Alexandria, representing Pope Celestine I and Emperor Theodosius II w/ 200 bishops
 
-1. Condemned Nestorianism as heresy (that Jesus *wasn't* 100% God and 100% man), who eventually became groups like the **Assyrian Church of the East**
+1. Condemned Nestorianism as heresy (that Jesus *wasn't* 100% God and 100% man), who eventually broke off to make groups like the **Assyrian Church of the East**
 2. Defined Mary as God's holy Mother
 3. Condemned Pelagianism as heresy (that we simply must [choose](mind-decisions.md) God and don't need His grace for salvation)
 
 Ecumenical Council #4 in 451 AD - the Council of Chalcedon feat. Pope Leo the Great and Emperor Marcian w/ 150 bishops
 
-- Condemned Monphysitism/Eutychianism (that Jesus' God and human natures were one and the same), who eventually became groups like the **Coptic Orthodox**
+- Condemned Monphysitism/Eutychianism (that Jesus' God and human natures were one and the same), who eventually became all the groups under the **Oriental Orthodox Catholic Church**
 
 Ecumenical Council #5 in 553 AD - the Second Council of Constantinople, feat. Pope Vigilius and Emperor Justinian I w/ 165 bishops
 

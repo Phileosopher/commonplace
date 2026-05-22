@@ -1,6 +1,14 @@
 
 # What makes a good marriage
 
+Marriage is a type of [social contract](people-contracts.md):
+
+- Both people are sharing all of their assets and responsibilities together.
+- They are both promising to keep their [sexual life](relationships-sex.md) constrained only to the other person.
+- They're agreeing to share all large [decisions](mind-decisions.md) together.
+- They both agree to share their descisions regarding [children and parenting](parenting-children.md) together.
+- Further, they are subconsciously expecting other things like [emotional](mind-feelings.md) support and a shared vision about the future.
+
 In healthy marriages, both spouses make tremendous sacrifices for each other:
 
 - From [dating](relationships-dating.md) onward, you're maintaining [an intimate friendship](people-friends.md) and learning to [love](people-love.md).
@@ -16,6 +24,12 @@ All relationships build on trust:
   - Open communication shows each person the other's thoughts and removes them having to guess.
 - If you don't trust them with your life, they have no reason to trust *you* with *their* life.
   - Everyone is a little odd, so loving relationships require mutually accepting each other despite [disagreements](people-conflicts.md).
+
+We end up feeling loved or satisfied with our partner if 3 different conditions are fulfilled:
+
+1. Kindness: our partner is gentle with our imperfections and can tolerate us as we are.
+2. Shared vulnerability: We can be mutually open about anxieties, worries, and problems that throw us off, and then share in our weaknesses.
+3. Understanding: We can make sense of our own mind and feel understood in turn.
 
 ## Building the relationship
 
@@ -180,6 +194,50 @@ Your spouse will affect how you think:
   - [Purposes](purpose.md) and [legacy](legacy.md)
   - Future desires
 - All your shared experiences and changes mean you will talk and think similarly after decades of marriage.
+
+## Accepting differences
+
+Popular culture generally teaches the falsehood that a loving marriage is the perfect merger of two lives.
+
+- There is an implicit belief that comes through falling in love that both partners will share *everything* together.
+  - Living in the same house.
+  - Eating the same meals together.
+  - Going to bed and getting up at the same time.
+  - Only having sex (as well as sexual thoughts) exclusively about their partner.
+  - Frequently spending time with each other's families.
+  - Sharing all their [friends](people-friends.md) in common.
+  - Thinking the same thoughts on every topic at every moment.
+- Clinically, this mindset is a type of socially endorsed codependency.
+  - Each person will get *some* value from their spouse, but they're assigning value to a marriage that is better served by a [community](groups-small.md) and [religious observance](religion.md).
+- Besides being impossible, it's also needlessly cruel.
+  - It sets an impossibly punitive burden on the other partner.
+
+Men must learn some key, irreconcilable facts about women:
+
+- Compared to women, men are unsophisticated, emotionally uninvolved, and rude.
+- Women crave close, personal affection and security.
+  - Affirm her frequently, such as calling her beautiful.
+  - Acknowledge her feelings without *any* context (e.g., "that feels sad").
+  - Show physical, non-[sexual](relationships-sex.md) affection.
+  - Perform small acts of kindness for her (e.g., opening the door for her).
+  - Give at least two months' notice for any large decision, including [marriage proposals](relationships-weddings.md) and [children](parenting-babies.md).
+  - Always stay open to expanding your [awareness](mind-awareness.md) of [feelings](mind-awareness-feelings.md) and sentiments.
+- Usually, a woman will vent her frustrations, but do *not* try to [fix it](https://adequate.life/fix/): just [listen](language-speaking.md).
+  - Men are typically unaware of many [risks](safety.md), so listen to concerns women are expressing.
+- Learn additional [self-maintenance](people-image.md) to meet a woman's standard.
+
+Conversely, women must learn some key, irreconcilable facts about men:
+
+- Compared to men, women are complicated, inefficient, and crazy.
+- Men crave respect for accomplishments and need consistent challenging experiences.
+  - Admire what he's done, especially with his [career](jobs-1_why.md) and [parenting](parenting-children.md).
+  - [Tactfully](people-boundaries.md) tell him what you *really* think and believe, because he won't understand an implication.
+- Women usually people-boundaries.md *far* more intensely than men.
+  - Scale your feelings down [into words he can understand](language-speaking.md).
+  - Give men more personal space to let them cope with the emotional intensity.
+- Most women overestimate the intelligence of men.
+  - Men don't understand implications as well and aren't trying to be rude or impatient.
+- Women tend to over-communicate smaller risks because they think they weren't heard, and must learn to trust that men will eventually approach problems in their own time.
 
 ## Preventing complacency
 

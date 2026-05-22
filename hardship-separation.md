@@ -4,7 +4,7 @@
 There are many reasons why a separation can happen.
 
 - [Wars](people-conflicts-war.md)
-- [Narcissistic abuse](mind-neurodivergence-clusterb-narcissist-stages.md)
+- [Narcissistic abuse](hardship-abuse-narcissist.md)
 - [Cult membership](people-culture-cults.md)
 
 ## Don't blame yourself

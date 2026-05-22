@@ -1,5 +1,5 @@
 
-# Basic first aid
+# Basic emergency first aid
 
 ## Preventative maintenance
 
@@ -32,7 +32,7 @@ Your urine color is a profound indicator of health:
 - Blue or green urine comes from a rare genetic disease.
 - Foamy urine where the bubbles don't go away is a sign of kidney disease (though bubbles are typically normal).
 
-There are also [many tricks for most minor issues](body-firstaid-minor.md).
+There are also [many tricks for most minor issues](body-treatments-minor.md).
 
 ## Frostbite
 
@@ -223,6 +223,58 @@ Pain from needle sticks:
 
 - Put pressure around the area before sticking
 - Forcibly cough while the needle goes through
+
+## Seizures
+
+Seizures are caused by a sudden surge in brain activity.
+
+- It can cause shaking, staring, or a loss of awareness.
+  - Tonic-Clonic: full-body shaking and loss of consciousness
+  - Absence: blank stare for a few seconds
+  - Focal: confusion, unusual movements, and they're experiencing strange sensations
+- Most seizures aren't harmful if others around them handle it calmly.
+- While it's possible that they can strike things during a seizure, nobody can swallow their tongue during a seizure.
+
+A seizure is caused from prolonged high blood pressure in the brain, which can come from many causes:
+
+- Lack of [sleep](sleep.md)
+- Illness, which may not always include a fever
+- Bright lights or patterns
+- Consuming [alcohol](fun-alcohol.md) or drugs
+- [Stress](mind-feelings-happiness-stress.md)
+- Poor eating habits or prolonged periods without food
+- Dehydration
+- Excess caffeine
+- Some medications or missed doses
+
+A seizure can last from 1-3 minutes.
+
+- Stay calm to avoid doing anything impulsive that could harm them.
+- Your calmness will also assist them [emotionally](mind-feelings.md) when they regain consciousness.
+
+The procedure for assisting with a seizure is relatively common-sense if you know beforehand:
+
+1. If possible, time how long the seizure is lasting.
+2. Guide the individual gently to the floor.
+3. Turn them to their side.
+4. Cushion their head.
+5. Loosen any tight clothing.
+6. Clear the area of any objects.
+7. Stay attentive to them until they are fully conscious again.
+8. When they regain conscious speak calmly, offer comfort or privacy, and ask if they need medical help.
+
+However, avoid a few things while they're seizing.
+
+- Don't place anything in their mouth or give them food or water until they're awake again.
+- Don't restrain them.
+
+You don't need to always call for help, and should only do it if something is amiss:
+
+- This is the first time they've had a seizure.
+- The seizure is lasting more than 5 minutes or the person doesn't return to a normal state.
+- They seem to have difficulty breathing.
+- They're having repeated seizures.
+- The seizure has caused an injury or they're in water.
 
 ## Sore/itchy throat
 

@@ -128,7 +128,7 @@ Moreover, people who are subject to rules can also pervert the [spirit of the ru
 
 Rules sometimes create perverse incentives:
 
-- Placing taxes on unfavorable items ("sin tax") will *not* stop [addicts](addiction.md), but will drive them further down the [social ladder](classes.md).
+- Placing taxes on unfavorable items ("sin tax") will *not* stop [addicts](addiction.md), but will drive them further down the [social ladder](people-classes.md).
 - If a government pulls from too many fines and penalties, they'll start depending on them and will quietly accept the source of those revenues, even when it is *not* in the interests of the [public](groups-member.md).
 
 Without any rules *against* what they do, anyone in a position of [formalized power](power-types.md) can slowly introduce a procedure that will invariably create a [bad system](mgmt-badsystems.md):

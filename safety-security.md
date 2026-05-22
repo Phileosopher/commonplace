@@ -5,7 +5,7 @@ Security, by its design, is keeping specific assets [safe](safety.md) by prevent
 
 ## Defining "secure"
 
-This isn't always that clear. The military, for example, has 4 definitions for "secure", based on the risks they interpret:
+Security isn't always that clear. The military, for example, has 4 definitions for "secure", based on the risks they interpret:
 
 1. Capture something (Marines)
 2. Guard something (Army)
@@ -25,7 +25,23 @@ We simply don't know the sources of what would harm our assets (#2) without [exp
 - [Risk management has many domains](safety-riskmgmt.md), and confidence in one [specialization](jobs-specialization.md) can lead to presuming aptitude in other domains.
 - If we have particularly strong [trust issues](mind-trust.md), we may not believe that others could be more specialized in managing those risks than we can do ourselves.
 
-In practice, knowing how things could be infiltrated (#3) is *not* conducive to [mental wellness](mind-feelings-happiness-focus.md) or [a meaningful life](people-goodlife.md) beyond a certain point:
+The entire mechanism of this concept is about balancing a limited amount of [trust](mind-trust.md) among the smallest amount of potential people or things that could damage the asset.
+
+- This is usually maintained through a known-good solution such as a passphrase, known person, or known device.
+- However, there is a severe risk from the *other* side, when there is nothing "safe" left to give permission anymore.
+
+It is safest to assume anyone asking for your information for any reason is guilty until proven innocent.
+
+- Don't release any identifying information through their channel (e.g., phone, message, email).
+  - You must control the channel to ensure it is safe.
+- The only way to prove their innocence is to use a secondary validation method.
+  - This validation method must *not* come from them or an associate.
+    - Finding a reputable source can be particularly difficult, especially in [crime-adjacent occupation](https://gainedin.site/crime/).
+  - Contact them back after investigating their contact method.
+  - Connect with an institution through information directly provided by that institution, and not the contact/website information they gave.
+- Further, this validation method serves a secondary advantage of informing the institution, which can empower that institution against further bad actors through that intelligence.
+
+At the same time, knowing how things could be infiltrated is *not* conducive to [mental wellness](mind-feelings-happiness-focus.md) or [a meaningful life](people-goodlife.md) beyond a certain point:
 
 - 1-10% of society provides any legitimate risks to assets, and the rest of the people would never even *think* of doing anything adverse to it.
 - Dwelling on security risks beyond necessity almost guarantees you'll transfer an appropriately heavy-handed approach to a minority of people toward everyone else.
@@ -82,6 +98,28 @@ It's difficult to gauge the effectiveness of a security system, for several reas
 
 1. If it's obvious that they exist, their very existence may deter bad actors.
 2. Their system will only be proven effective when the risk is too great to take the chance. This can be offset partially by intentionally hiring bad actors to attempt an infiltration (e.g., [Pentesters](computers-cysec-pentest.md)), but that's only dependent on the intelligence and skill of those infiltrators.
+
+## Security hardware
+
+Any form of security hardware is represented by a type of "wall" or a type of "lock".
+
+- A "wall" is the impediment that cannot be penetrated no matter what.
+- Those "walls" are designed to channel all activity toward a "lock".
+
+The greatest form of "lock" comes through dramatic complexity.
+
+- Whether we're looking at the history of physical keys, [encryption](encryption.md), or institutional validation, they will grow in complexity to combat against bad actors, especially as [technology](technology.md) scales.
+- However, since [technology](technology.md) constantly adds [power](power.md) to bad actors as well, every "lock" becomes an endless arms race.
+
+Barring [anything we can say about creation](science-ecology.md), all locks are human-made, so humans can also crack those locks.
+
+- Sometimes it can be through shortcuts that exploit [bias](mind-bias.md), such as a human-readable word or someone referencing something from their past.
+- Other times, though, a lock can be brute-forced (e.g., melted, mathematically cracked through repetition).
+- In other words, all locks can only temporarily halt an intruder, and there needs to be some form of human enforcement for it.
+
+Further, due to the risks of being locked out, every human-made system will incorporate extra elements of complexity over time.
+
+- "Back-doors" are inevitable, and they aren't only accessible by trusted sources.
 
 ## Security's risks
 

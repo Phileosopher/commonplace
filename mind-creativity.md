@@ -39,7 +39,7 @@ We form new ideas in our mind with nearly the same neurological wiring as [build
 
 The very essence of an idea in our minds represents a new [value](values.md) for us. From the point we recognize it, we treat that value as a separate existence from everything else, even when it's a vague abstraction against an [unknown](unknown.md) setting.
 
-[Chaos](unknown.md) and constraint is crucial for creativity, so a perfectly [ordered](understanding-certainty.md) or wealthy society wouldn't permit it. However, a [perfect society](politics-perfectsociety.md) *would* have enough chaos to keep us [engaged](meaning.md), and the middle and upper-middle of most societies' [social classes](classes.md) are typically poor enough to have plenty of constraints to find [reasons](purpose.md) to be clever.
+[Chaos](unknown.md) and constraint is crucial for creativity, so a perfectly [ordered](understanding-certainty.md) or wealthy society wouldn't permit it. However, a [perfect society](politics-perfectsociety.md) *would* have enough chaos to keep us [engaged](meaning.md), and the middle and upper-middle of most societies' [social classes](people-classes.md) are typically poor enough to have plenty of constraints to find [reasons](purpose.md) to be clever.
 
 The formation of most works regarded as "masterpieces" were simply cleverness mixed with constraints:
 

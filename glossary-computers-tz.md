@@ -31,6 +31,8 @@ Terminator - a network endpoint that absorbs a signal, prevents data from bounci
 
 Texture - a graphical pattern or image overlaid onto a polygon
 
+Threat model - a cybersecurity model of how a PenTester will attack
+
 Time-sharing - using a computer for more than one thing at a time, generally a built-in necessity of parallel processing, especially important in virtual machines
 
 Timeout - broad term for the deadline when a computer ends a condition to maintain a status, often pertains to when a session ends before information has successfully transferred
@@ -276,5 +278,7 @@ Zero-based numbering - how computers count, starting at 0 instead of how people 
 Zero-click attack - a cyberattack that doesn't require the user to do anything to activate it
 
 Zero-day exploit - aka "0 Day", an exploit that was just discovered after it could be exploited
+
+Zero-trust security - assuming that users and devices aren't trustworthy by default
 
 Zone file - a file on a DNS host that indicates resource records

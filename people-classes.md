@@ -35,6 +35,8 @@ Historically, the middle class has been a comparatively small support system for
 
 APPLICATION: The effort connected to the social classes depends heavily on how much [wealth](power-types.md) a [society](groups-large.md) has. In poor societies, the people who work hardest are the lower class because they need every bit they have to survive, while the wealthy will splurge on luxuries. In wealthy societies, the people who work hardest are the middle class because they must exploit every advantage they can to outpace others' wealth, while the poor will [buy dumb things](money-1_why.md) that fritter away any chance at acquiring wealth.
 
+Even in [social groups](groups-large.md), the class divide demonstrates itself. However, it often represents based on that organization's [purposes](purpose.md) (e.g, general intelligence at a [college](education.md), perceived [piety](morality-virtue.md) in a church, [productivity](success-4_routine.md) in a workplace).
+
 ### Underclass
 
 There's always a class with very little [power](power.md) to do much. They could be poor, [young](maturity.md), unimportant, or simply new to the group.

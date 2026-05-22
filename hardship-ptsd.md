@@ -1,139 +1,77 @@
 
-# Trauma and PTSD
+# How long-term trauma and PTSD harm us
 
-We all experience trauma. It's an inevitable reality of life that started when we were small children. It might have been from legitimate abuse, but was pain over a thing we [wanted or needed](purpose.md) that we couldn't have. Further, it only has to be [imagined](mind-imagination.md), and doesn't have to be a [legitimate](reality.md) need or want.
+The psychological term for PTSD is literally a *Disorder* of *Stress* from *Post-Trauma*, and everyone has it in some non-clinical form:
 
-For most people, the majority of our trauma happens in childhood. At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md), which makes them more severe victims of [unjust treatment](morality-justice.md). This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war-why.md)).
+1. Every person alive has suffered in a way that felt unfair.
+2. Every child and most adults are at least somewhat unaware of [effective emotional management](mind-awareness-feelings.md).
+
+We all experience trauma. It's an inevitable reality of life that started when we were small children.
+
+- Irrespective of whether it [legitimate abuse](hardship-abuse.md) or imagined, it was pain over a thing we [wanted or needed](purpose.md) we couldn't have.
+- Further, PTSD only has to be [imagined](mind-imagination.md), and doesn't have to be a [legitimate](reality.md) need or want.
+
+For most people, the worst trauma happens in their childhood.
+
+- At a young age, [children](people-family.md) are the weakest people in [society](groups-member.md) in every form.
+- That weakness makes them more severe victims of [unjust treatment](morality-justice.md).
+- This doesn't mean it can't happen later in life (especially in a severe experience like [abuse](hardship-abuse.md) or a [war](people-conflicts-war-why.md)).
 
 APPLICATION: If something hurts a small child, it likely can hurt anyone. The only difference is that most adults harden themselves to that pain and learn to ignore it.
 
-If we keep hold of that trauma, we feel stress from [remembering it](mind-memory.md). The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](mind-imagination.md). To the degree we can imagine it, we relive it as if the experience were happening again.
+If we hold onto that trauma, we feel [stress](mind-feelings-happiness-stress.md) from [remembering it](mind-memory.md).
 
-The psychological term for PTSD is literally a **Disorder** of **Stress** from **Post-Trauma**, and everyone has it in some non-clinical form:
+- The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](mind-imagination.md).
+- To the degree we keep imagining it without finding [closure](stories-why.md), we relive it as if the experience were happening again.
 
-1. Every person alive has suffered in a way that felt unfair.
-2. Every child and most adults are at least somewhat unaware of [effective mind management](mind-feelings-happiness-focus.md).
+We hold onto our memories because we still feel we have a [purpose](purpose.md) for it, which only categorizes a few possible ways:
 
-We hold onto our memories because we still believe we have a [purpose](purpose.md) for it, which only categorizes a few possible ways:
-
-1. We must hold onto that information to deliver appropriate [justice](morality-justice.md). This must be [released](hardship-forgiveness.md) or it will destroy us.
+1. We must hold on to that information to deliver appropriate [justice](morality-justice.md).
 2. We must still [learn](education.md) from that information, since those events may affect future [decisions](mind-decisions.md) we must make.
 3. We must remember that information to [create](creations.md) something with it, which is a bit like justice but more focused on our efforts than on the cause of the trauma.
 
-While everyone experiences trauma, each person responds to it differently:
+Either way, we must eventually [released](hardship-forgiveness.md) the trauma or it will destroy us.
 
-- Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create the [results](results.md) they want.
+While everyone experiences trauma along similar pathways, each person will have uniquely different responses to it:
+
+- Some people will try to use [persuasion](power-influence.md) or [force](power.md) to create [results](results.md) they want.
 - Others will [pursue something else](mind-creativity.md) to meet their needs.
 - Many people broadly complain about their pain until they've [released the stress from it](hardship-forgiveness.md).
 - In extreme cases, people will tell themselves they don't need something they legitimately need.
 
 Replaying memories is a subconscious habit, so everyone who has felt [pain or fear](mind-feelings-fear.md) has been disrupted from [perfect wellness](people-goodlife.md), even though they typically don't know it.
 
-## Constipated feelings
-
-Stress has a unique journey into our minds:
-
-1. When we [trust](mind-trust.md) that everything is fine, we don't feel any issues.
-2. At the moment we are [afraid](mind-feelings-fear.md) of the possibility of [a risk](safety.md) to something we [value](values.md), we feel stress.
-3. We can sometimes react to the fear to resolve the issue, but society typically [forbids](morality-taboo.md) it.
-4. If we don't react, we must express the feelings in a constructive way (e.g., [risk management](safety-riskmgmt.md), [creativity](mind-creativity.md), [meditation](mind-awareness-meditation.md), venting with [friends](people-friends.md)).
-5. When that doesn't happen, it slowly infiltrates into long-term [dysregulation](mind-awareness-dysregulation.md) that alter our [beliefs](understanding.md) (e.g., bitterness, depression).
-6. At that point, we aren't aware that those feelings drive what we do, and have become victims of our own trauma.
-
-If we don't work through our [dysregulation](mind-awareness-dysregulation.md) enough to [perceive](understanding.md) them, they tend to guide our convictions. We'll often frame values off those [beliefs](understanding-certainty.md), which can dramatically affect our [purposes](purpose.md).
-
-Over time, not sifting through feelings creates a pent-up set of sentiments, which eventually ferments into worse experiences:
-
-- Sadness becomes depression
-- Anger becomes bitterness
-- Fear becomes anxiety
-- Longing becomes despair
-- Guilt becomes shame
-
-When you can't accept a traumatic event, you'll likely be able to accept that you're facing the consequences of it:
-
-- Insomnia, nightmares
-- Racing thoughts, severe anxiety
-- Hypervigilance
-- Social isolation, mistrust, loneliness
-- Outbursts of anger, irritability, agitation
-- Self-destructive behavior
-- Emotional numbing, loss of interest in activities
-- Unwanted thoughts, flashbacks
-- Guilt, shame
-
-This may be more difficult to accept if you're in a [culture](people-culture.md) that normalizes unhealthy responses to trauma:
-
-- Being a crybaby, likes to whine, failure to man up
-- Weak link in the chain, wimp, not willing to suck it up
-- Wasting everyone's time
-- Defective, mentally unstable
-- Coward, pitiful, pathetic
-
-Past traumas create *constant* unspoken [prejudices](understanding-certainty.md) we're frequently [unaware](mind-awareness.md) of. The original [logic](logic.md) holds from the perspective of when the person made the [decision](mind-decisions.md) at first, so the [habit](habits.md) doesn't have to make any sense to the person *now*, even if they've [grown](maturity.md) immensely from that point.
-
-There are many clinical terms for our natural self-protection techniques:
-
-- Displacement - not living in the present
-- Disassociation - not focusing on reality
-- Denial - not acknowledging reality
-- Delusions - not living in reality
-- Repression - blocking memories
-- Forecasting - making idealized fantasy relationships with others
-- Transference - using a personal experience of a past person with the current person
-- Projection - using personal experience as a broader pattern than it should be
-- Counter-transference - using a personal experience of a past person about a current person's transference
-
-Because of how severe we [feel](mind-feelings.md) things when we're [young](maturity.md), past traumas rarely provoke a desire for subtle [change](people-changes.md). Thus, it's impossible to think [rationally](logic.md) when we make [decisions](mind-decisions.md).
-
-Nobody experiences trauma the same way, and they express it even more differently. For example, a small boy with a physically abusive, alcoholic father may direct their sentiment a few directions:
-
-- Hatred of [alcohol](fun-alcohol.md) and its paraphernalia, along with anyone in the industry. Taken far enough, will use [religion](religion.md) to suppress it.
-- Hating his father's line of work and the people in it. Taken far enough, may vow to [educate](education.md) himself towards a different [vocation](jobs-specialization.md) or even try to [render his father's industry obsolete](technology.md).
-- Hating [family members](people-family.md) who enabled his father's abuse, and maybe any [groups](groups-member.md) associated with them.
-- Hatred of strong male models, especially physically strong ones. Taken far enough, explores alternative [gender](people-gender.md) [identity](people-identity.md) or becomes a [feminist](politics-leftism.md).
-
-The hatred is a [habit loop](habits.md) that triggers on anything that reminds the person of the original pain. Those triggers can move *far* from the original source.
-
-Since our grasp on [reality](reality.md) is already pretty [uncertain](mind-trust.md), our [memory](mind-memory.md) will deteriorate. Trauma will fill in the details of the [stories](stories-why.md) that match their overall [theme](understanding-certainty.md). Sometimes, people vividly remember events that never happened!
-
-Most of the time that people experience chronic trauma, they develop an increased pain threshold. They still [feel](mind-feelings.md) the pain, but they're [unaware](mind-awareness.md) of that pain and therefore [respond](mind-decisions.md) as if it doesn't exist. This is known as "[dysregulation](mind-awareness-dysregulation.md)", and in the long-term can cause severe [health problems](body-health.md).
-
-Thankfully, because of our tendency to [anticipate](stories-why.md) and [imagine](mind-imagination.md) pain, unawareness of pain means we only experience a fraction of the pain. However, if we ever *do* become aware of those past sensations again, we go through a retrospective avalanche of feelings proportional to how much we are capable of remembering, along with plenty of anger to deliver [retribution](morality-justice.md) for our newly discovered damage.
-
-APPLICATION: Because of our memories' natural tendency to fade, most people who recover from psychological pain are either young enough to clearly recollect their pain before too much time has transpired and precisely get over it, or have learned [forgiveness and release](hardship-forgiveness.md) about the [injustices](morality-justice.md) they've suffered.
-
 ## Detecting
 
-You can usually spot someone's past trauma if you spend a few weeks around them to get their baseline behavior. Bringing up a trauma-associated topic will make them stiffen, twitch, go silent, lash out, or anything else disproportionate or misplaced from their standard behavior.
+When we're unaware of something in our mind, we have no control over its influence. The very essence of replaying trauma is because our subconscious [decided](mind-decisions.md) that the pain of directly confronting the issue is worse than coping unconsciously with it.
+
+Once you've spent a few weeks observing someone's baseline behavior, you can usually detect their most overt past trauma responses. The trauma-associated topic will make them behave in some disproportionate way compared to their standard behavior (e.g., stiffening, twitching, going silent, lashing out). This behavior will often be self-reflective in a way that creates a "loop" that doesn't involve others' feedback at all.
+
+This odd behavior isn't technically "their" behavior. They're reacting with the [methods](habits.md) from when the trauma happened, which were survival impulses that are no longer necessary. Their behavior may have been *decades* ago when they were much [younger](maturity.md) and [understood](understanding.md) the world differently.
 
 There are also more subtle forms of trauma. This can include perfectionism, cutting off other people while they're speaking, shutting down all body language, constantly monitoring feelings, constantly keeping busy, and trying to please others.
 
-They're behaving oddly because that's not technically "their" behavior. They're reacting with the [methods](habits.md) from when the trauma happened, which may be decades ago when they were *much* [younger](maturity.md) and [identified](people-identity.md) with different things.
+There is no external way to stop someone from going through a trauma loop. Literally *anything* can set it off, even a string of completely random [information](values.md).
 
-There is no way to stop someone from going through a trauma loop. Literally *anything* can set it off, even a string of completely random [information](values.md). If we're unaware of something in our mind, we have no control over its influence.
-
-While we *can* halt a trauma loop by doing something a person won't expect, we must recognize a traumatic loop is running on autopilot from a memory, which may create a more convoluted set of behaviors if the person is unwilling to [change](people-changes.md).
+In an extreme way, we *can* halt someone else's trauma loop by doing something very audacious and unexpected. However, this may create a more convoluted set of behaviors from someone if that person is unwilling to [change](people-changes.md).
 
 ## Shadow self
 
-This aggregate of all our trauma and past pain is a separate "shadow" persona. It's not the authentic, sensible, modern version of us. Instead, it's an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past, lumped together by unpleasant [feelings](mind-feelings.md). Whether that persona wants good or bad things, it's never very effective at [doing anything](results.md) because it's using old information with a limited scope of [perspective](understanding.md).
+This aggregate of all our trauma and past pain blends into our ["shadow" persona](people-personality.md). It's not the authentic, sensible, modern version of us, and is an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past. This persona is held together by unpleasant [feelings](mind-feelings.md). Irrespective whether a person's motivations are [selfish or selfless](morality.md), their persona is never very effective at [doing anything](results.md) because it's a limited [perspective](understanding.md) with obsolete information.
 
-Unawareness causes the least short-term pain, so most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](mind-feelings-happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
+Since unawareness causes the least short-term pain, most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](mind-feelings-happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
 
-However, with [experience and wisdom](maturity.md), they'll usually notice patterns from how others react to their [influence](power-influence.md). A select few will do some [soul](humanity.md)-searching and slow their [reactions](habits.md). If someone can integrate their shadow, they have a vast wealth of wisdom to draw from.
+- Further, when given [power](power.md), they *will* use it, even if it doesn't make sense. One example of this is the employment of [language](language.md) on [social media](networks-social.md).
 
-Sadly, most people will stay unaware and form a convoluted [cause](mind-imagination.md) for their continued misery. Since they're unaware of the way other people [feel](mind-feelings.md) about their behaviors, they'll presume everyone is reacting to something unrelated to themselves. Most of them will form theories on [human nature](humanity.md) that are entirely wrong.
+However, even without a qualified therapist, someone with [experience and wisdom](maturity.md) will usually notice patterns from how others react to their [influence](power-influence.md). Of those, a select few will do some [soul](humanity.md)-searching and slow their [reactions](habits.md). If someone can integrate their shadow, they will have a vast wealth of wisdom to draw from.
 
-After enough time with someone, the victim will usually blame specific things on specific people with little evidence. Because of its implications, they'll hold to their theory harder than [reality](reality.md) and, over time, will lose touch with it as a result.
-
-When the trauma is severe enough, that person will have *layers* of their persona to untangle. That person may shift from behaving like a 5-year-old to acting like a teenager, then to the reasoning skills of a baby. These shifts can happen in minutes, hours, days, or weeks.
+When trauma is severe enough, that person will have *layers* of their persona to untangle. That person may shift from behaving like a 5-year-old to acting like a teenager, then to the reasoning skills of a baby. These shifts can happen in minutes, hours, days, or weeks.
 
 In particularly traumatic instances, the victim will wander in an alternate state of [identity](people-identity.md). Their past persona can be more thin-skinned, bitter, commanding, demanding, anxious, and ambitious than their present self. Taken far enough, it can split a personality entirely where the person can't even access [memories](mind-memory.md) from different states.
 
-## Identifying with trauma
+## How trauma changes us
 
-Our core, unaltered [human essence](humanity.md) is carefree, fun-loving, adventurous, curious, [funny](humor.md), easily entertained, and easily distracted. Trauma stops it from expressing, and it's our impulse to run from it.
+Our core, unaltered [human essence](humanity.md) is carefree, fun-loving, adventurous, curious, [funny](humor.md), easily entertained, and easily distracted. Trauma stops it from expressing as a self-defense mechanism.
 
 However, accepting the trauma alone isn't healthy either. Consciously [identifying](people-identity.md) with trauma forces us to accept an unbalanced persona that's various degrees more fearful, anxious, hypersensitive, or angry than our genuine self.
 
@@ -154,18 +92,27 @@ FURTHER APPLICATION: Of course, to pity someone disadvantages them because you'r
 
 While identifying a problem is a good start, it's *more* destructive without a [reasonable chance to overcome it](success-1_why.md) than never having seen the problem in the first place.
 
-## Unresolved trauma
+## Denial and projection
 
-Unfortunately, when we don't release trauma by working through it, we will often re-experience its consequences.
+there are four major reasons people get stuck in the past:
 
-Anything that isn't completely resolved in our mind *will* come back to haunt us:
+1. They lack genuine [repentance](people-changes.md) over any of their wrongdoing.
+2. They're afraid of what other people may think or do.
+3. They don't want to leave their habitual [evil](morality-evil.md).
+4. They don't [understand](understanding.md) that they can find redemption if they move on.
 
-- Memories of an event will force your mind to relive the shock over and over again, even after decades.
-- Our post-traumatic stress makes us react impulsively against something that [triggers](habits.md) a memory.
+Unfortunately, when we don't release trauma by working through it, we will often re-experience its consequences. Anything that isn't completely resolved in our mind *will* come back to haunt us:
+
+- Memories of an event will force the mind to relive the shock over and over again, even after decades.
+- Post-traumatic stress makes us react impulsively against something that [triggers](habits.md) a memory.
 
 In some ways, every unresolved trauma is a [debt](money-2_debt.md) that must be forgiven, and will come payable when we act on it if we don't. In other ways, exposure to it is our psychological conditioning toward managing [fears](mind-feelings-fear.md).
 
-APPLICATION: When the experience is severe, nobody can fully recover from [evil](morality-evil.md) unscathed. Complete recovery will still register psychological scars that never go away.
+APPLICATION: When an experience is severe, people can't fully recover from others' [evil](morality-evil.md) without intentional [release](hardship-forgiveness.md). However, complete recovery will still show psychological scars that never fully disappear.
+
+Sadly, most people will stay unaware and form a convoluted [reasoning](mind-imagination.md) for their continued misery. If they're unaware of the way other people [feel](mind-feelings.md) about their behaviors, they'll presume everyone is reacting to something unrelated to themselves. Most of them will form theories on [human nature](humanity.md) that are entirely wrong.
+
+After enough time with someone, a trauma victim will usually blame specific things on specific people with little evidence. Because of its implications, they'll hold to their theory harder than [reality](reality.md) and, over time, will lose touch with it as a result.
 
 We tend to incorrectly redirect past trauma through several possible pathways:
 
@@ -183,7 +130,7 @@ The only solution is to patiently expose ourselves to experiences that relive th
 5. Spend lots of time in that [dynamic life](people-goodlife.md) (at least a few years to a few decades) to permit our [experiences](maturity.md) to grow us.
 6. Once we've experienced more and better life, along with worse [hardships](hardship.md), our faded memories of past struggles were comparatively trivial upon recollection.
 
-APPLICATION: We must push back on traumatic behavior to break the loop, whether it's with ourselves or others:
+APPLICATION: We must [push back on traumatic behavior](hardship-ptsd-release.md) to break the loop, whether it's with ourselves or others:
 
 - Perfectionism: try making mistakes
 - Shutting down or cutting people off: slow down a conversation before severing connections

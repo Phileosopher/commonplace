@@ -39,7 +39,7 @@ Generally, people will try to avoid a government's taxes, and often hire excepti
 
 There are several unfortunate realities of taxation that combine themselves into a paradox for *every* government:
 
-- People from *all* [social classes](classes.md) would rather not pay taxes.
+- People from *all* [social classes](people-classes.md) would rather not pay taxes.
 - If there were no taxes above a certain level of wealth, but an even tax below a certain threshold, people would work *really* hard to earn above that threshold.
 - Poor people can barely afford to *live*, so it's unethical to tax them as much as wealthy people.
 - The wealthy *can* afford taxes, but they can also afford *many* tools to migrate their taxes elsewhere, and can afford to hire many [creative](mind-creativity.md) and brilliant [accountants](money-accounting.md) and [lawyers](legal-safety.md) to manage their wealth while avoiding taxes.
@@ -169,7 +169,7 @@ Frequently, governments will set price controls on various domains, which can cr
 - Rent controls can prevent prices for rent going up above a certain legally defined amount instead of letting the price fluctuate from market demand. Without the rent controls staying *extremely* lax, landlords eventually won't be able to pay for basic maintenance on the rental properties.
 - Minimum wage laws set a minimum price. However, it prevents inexperienced people who want the work experience to work for employers who wouldn't hire them for a higher wage. Over time, it also raises the cost of living in areas that implement it due to a diminished scarcity of money in the region.
 
-APPLICATION: A good welfare system will completely sidestep money. To avoid destroying [meaning](meaning.md) for the individuals (and therefore making a welfare state), that system should provide for *only* [basic needs](people-boundaries-why.md) (i.e., food, water, shelter), which empower people in their discomfort to strive for something better. This also won't last long in a [free society](politics-systems.md), since [the underclass](classes.md) will always want to vote for whatever gets them more free stuff.
+APPLICATION: A good welfare system will completely sidestep money. To avoid destroying [meaning](meaning.md) for the individuals (and therefore making a welfare state), that system should provide for *only* [basic needs](people-boundaries-why.md) (i.e., food, water, shelter), which empower people in their discomfort to strive for something better. This also won't last long in a [free society](politics-systems.md), since [the underclass](people-classes.md) will always want to vote for whatever gets them more free stuff.
 
 ## Trade
 
@@ -179,11 +179,13 @@ However, a nation's leadership [doesn't always want completely free trade](mgmt-
 
 Even when a group is collectively producing more than exporting, they may operate at a trade surplus because of the relative market value of that product. This can get confusing when a rich nation is somehow making more of a product than they need from other countries, but the supplier countries *still* influence the market price.
 
-Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](people-culture.md) well-ordered system, the gap between the [wealthiest and poorest](classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war-why.md) or [bureaucratic incompetence](mgmt-badsystems.md).
+Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](people-culture.md) well-ordered system, the gap between the [wealthiest and poorest](people-classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war-why.md) or [bureaucratic incompetence](mgmt-badsystems.md).
 
 A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](results.md) later.
 
 These discrepancies can make it difficult to measure. To that end, economists try to use a universal standard. For a while, they used the Big Mac Index, which measured the cost for a Big Mac at a McDonald's restaurant (since the sandwich was all across the world). This worked because most of the ingredients had to be locally sourced.
+
+There is also a unique positive feedback loop present within all free (i.e., capitalist) societies. First, the government puts restrictions. In response, the people circumvent it in some way (black market, regulatory games, alternative products, etc.). The government adds more controls, which create more circumvention. This persists until either a government has exhausted all their resources to control everyone or the people politically resist the changes.
 
 ## Supply chains
 
@@ -205,7 +207,7 @@ Sadly, the lowest-priced portions of markets are always affected the worst when 
 
 - At first, people stop buying luxury items, so boutique products take the first hit because demand plummets.
 - However, staple goods are always necessary (e.g., food), so broad recessions will make the supply drop while demand is almost guaranteed to stay the same.
-- Except for self-sufficiency (e.g., [homesteading](home-homestead.md)), most economies destroy [the poorest classes](classes.md) first when [times are tough](money-economics-downturn.md).
+- Except for self-sufficiency (e.g., [homesteading](home-homestead.md)), most economies destroy [the poorest classes](people-classes.md) first when [times are tough](money-economics-downturn.md).
 
 However, while a market can't be permanently augmented, it *can* be engineered for the timing of the collapse to change.
 

@@ -117,6 +117,14 @@ The way we internalize recreational fear can make us stronger to fear (through a
 
 We react about seven times as much to pain as to pleasure, so the [feeling](mind-feelings.md) of fear can quickly become a state of mind. That state of mind is the secondary feeling of anxiety. It emerges when our [purposes](purpose.md) start associating with uncontrollable or [unknown](unknown.md) factors.
 
+Anxiety, in particular, is when we are unconsciously fearful.
+
+- The subconscious aspect of anxiety is a huge reason why it is very difficult to change.
+- The most effective cure for anxiety, as a subconscious action, is to have [habits](habits.md) that create peaceful mental thought patterns.
+  - Beyond [meditation](mind-awareness-mediation.md)-inspired actions, this also includes other holistic elements like [diet management](body-health-food.md) and reframing [identity](people-identity.md) to positive and productive associations.
+
+APPLICATION: Given how legitimately scary [the unknown](unknown.md) is, this is a *huge* reason why [religion](religion.md) still has value even in a secular worldview. This is also how [Big Pharma](body-health.md) can keep their psychiatric industry endlessly funded.
+
 The only way to resolve anxiety is through fearing *much* worse things (which is typically through [death](hardship-death.md), but can be from worse [hardship](hardship.md)).
 
 Most prolonged fear comes from [past trauma](hardship-ptsd.md), but it can also come from generalized fear of the [unknown](unknown.md).

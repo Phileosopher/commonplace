@@ -26,7 +26,7 @@ Environmentalism - [High-technology](technology.md) humanity destroys nature, so
 
 Feminism - Females should never be unequal to males. Contrasts with complementarianism.
 
-Marxism - Because of dialectical materialism (see above), all [social classes](classes.md) will eventually be destroyed as the weaker gain more [power](power.md) through social darwinism (see above).
+Marxism - Because of dialectical materialism (see above), all [social classes](people-classes.md) will eventually be destroyed as the weaker gain more [power](power.md) through social darwinism (see above).
 
 - Communism - Abolish all private property.
 - Distributism - Whenever anyone makes things, everyone gets a portion of it, with no central control over it.

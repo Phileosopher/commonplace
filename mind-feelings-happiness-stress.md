@@ -47,6 +47,8 @@ However, mismanaged stress will destroy our [emotions](mind-feelings.md):
 9. Enough dysregulation creates all negative chronic feelings (e.g., [anxiety](mind-feelings-fear.md), [depression](hardship-depression.md), [bitterness](mind-feelings-anger.md)).
 10. When left alone, these chronic feelings will create compulsive behaviors that eventually destroy us, often through [anger](mind-feelings-anger.md).
 
+To find peace and rest, we must remove unnecessary stress.
+
 ## A. Find your stressors
 
 Are you suffering severe physical or emotional pain?

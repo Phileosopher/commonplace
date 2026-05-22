@@ -80,7 +80,7 @@ APPLICATION: If someone is excellent at one thing (e.g., doctor), they're often 
 
 APPLICATION: When we look back in [history](stories-storytellers.md), everyone was more broadly capable. They were *far* less educated on [specific knowledge](jobs-specialization.md), since they had to endure *way* more hardship with their lesser [technology](technology.md) and [education](understanding.md) opportunities.
 
-As specializations grow, they eventually create a separate [social class](classes.md) of individuals who essentially do nothing to actually [create](creations.md), but instead direct and communicate with others who actually create things. Irrespective of the [political environment](politics-systems.md), this [management](mgmt-1_why.md) class is always present in the hierarchy as a bureaucratic "ruling class".
+As specializations grow, they eventually create a separate [social class](people-classes.md) of individuals who essentially do nothing to actually [create](creations.md), but instead direct and communicate with others who actually create things. Irrespective of the [political environment](politics-systems.md), this [management](mgmt-1_why.md) class is always present in the hierarchy as a bureaucratic "ruling class".
 
 Further, the beginnings of all [bad systems](mgmt-badsystems.md) start when managers start talking with managers instead of actually competent people. It frames a [culture](people-culture.md) without as clear of a [purpose](purpose.md), which becomes more opaque as more layers of communication mix into the dynamic.
 
@@ -120,7 +120,7 @@ Individuals who transition *inside* their specialized [groups](groups-large.md) 
 - After enough [experience](maturity.md), people often become consultants (e.g., independent contractors, political lobbyists, bounty hunters).
 - Frequently, if someone is [influential](influence.md) enough, they can venture into a new area and [build](entrepreneur-why.md) an entire [subgroup](groups-small.md) for themselves!
 
-Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends-why.md) than their immediate neighbors.
+Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](people-classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends-why.md) than their immediate neighbors.
 
 APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](mind-imagination.md) they *do* understand.
 

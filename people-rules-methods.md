@@ -11,17 +11,27 @@ As far as motivation, law-makers are seeking:
 2. They wish to profit off the breaking of the law (e.g., [sin taxes](money-accounting-taxes.md))
 3. They need a decent excuse to punish or profit regarding something else.
 
-## A. "Fear Points"
+These methods are ordered by least to most approximate severity.
+
+## "Fear Points"
 
 If an organization doesn't have the power to safely destroy someone's image publicly, they'll often create a "points" system to [scare](mind-feelings-fear.md) people away from more punitive measures.
 
-## B. Image Destruction
+## Image Destruction
 
 A public declaration of someone's misbehavior.
 
 Usually the most common rule method, and only impacts someone's [reputation](people-image-why.md).
 
-## C. Rights Suppression
+## Taxes and Fines
+
+Requiring that people give up their money, frequently by fulfilling specific conditions, and can involve [a wide variety of transactions](money-accounting.md).
+
+The easiest way to transfer power without any major loss in the transaction, which is necessary to keep that [group](groups-large.md) operating.
+
+- However, there *will* be a non-trivial loss in [purpose](purpose.md) toward performing the task in a sanctioned way if the tax surpasses a certain amount (i.e., Laffer Curve).
+
+## Rights Suppression
 
 Broadly, taking away inherent [human rights](people-3_respect.md) such as free speech, the right to assemble, or the right to privacy.
 
@@ -29,7 +39,20 @@ Most of these are considered immoral unless they're a response to someone doing 
 
 Often, detainment is within a [small community](groups-small.md) of other people who have also violated others' rights, and often for a set period of time.
 
-## D. Forced Labor
+## Incarceration
+
+Placing criminals together in a confined or restricted space.
+
+Can range from complete detainment to casual monitoring of their behaviors.
+
+Without closer supervision, becomes a de facto training center for criminals to learn from each other.
+
+- Any incarceration whatsoever can cause [undue hardship](hardship-incarceration.md).
+- Solitary confinement is a [human rights violation](people-3_respect.md).
+- There may be other rules that prohibit forced labor.
+- Without solitary confinement or forced labor, the only workable solution is to place them in a new community that gives them [morally](morality.md) superior [purposes](purpose.md).
+
+## Forced Labor
 
 Any situation where someone is required to [do something](results.md) against their [will](purpose.md).
 
@@ -39,41 +62,21 @@ The [quality](values-quality.md) of their work is *always* inferior compared to 
 
 Can technically incorporate [bureaucratic runaround](bureaucracy.md) as well.
 
-## E. Taxes and Fines
-
-Requiring that people give up their money, frequently by fulfilling specific conditions, and can involve [a wide variety of transactions](money-accounting.md).
-
-The easiest way to transfer power without any major loss in the transaction, which is necessary to keep that [group](groups-large.md) operating.
-
-- However, there *will* be a non-trivial loss in [purpose](purpose.md) toward performing the task in a sanctioned way if the tax surpasses a certain amount (i.e., Laffer Curve).
-
-## F. Destroying/Taking Property
+## Destroying/Taking Property
 
 The act of taking or demolishing something someone has, frequently to [symbolically](symbols.md) humiliate them.
 
 This isn't always physical, and can sometimes be [intellectual property rights](legal-ip.md) or ownership of [organizations](groups-large.md).
 
-## G. Incarceration
+## Bodily Harm
 
-Placing criminals together in a confined or restricted space.
-
-Can range from complete detainment to casual monitoring of their behaviors.
-
-Without closer supervision, becomes a de facto training center for criminals to learn from each other.
-
-- Solitary confinement is a [human rights violation](people-3_respect.md).
-- There may be other rules that prohibit forced labor.
-- Without solitary confinement or forced labor, the only workable solution is to place them in a new community that gives them [morally](morality.md) superior [purposes](purpose.md).
-
-## H. Bodily Damage
-
-The most dramatic form of punishment.
+The most dramatic form of physical punishment.
 
 - The authority will try to cause pain to that person, either permanently (e.g., severing limbs) or temporarily (e.g., beating).
 
-Most forms of torture connect to something in that person's mind, while a few of them (e.g., flogging) are meant for public [humiliation](people-image-why.md).
+Most forms of torture connect to the psychological evoking of [fear](mind-feelings-fear.md) in someone's mind, while a few of them (e.g., flogging) are meant for public [humiliation](mind-feelings-shame.md).
 
-## I. Exile
+## Exile
 
 Ejection from the group, sometimes forcibly.
 
@@ -81,9 +84,9 @@ If the organization has the [power](power.md) to keep them alive, sending to a s
 
 The purpose of exile over death is often for [political](power.md) [purposes](purpose.md), but can sometimes be an act of grace from the leadership in lieu of permanent incarceration or death.
 
-## J. Death
+## Death
 
-Death is the most severe form of exile, with the person prematurely sent to [whatever is after this life](religion-answers.md).
+[Death](hardship-death.md) is the most severe form of exile, with the person prematurely sent to [whatever is after this life](religion-answers.md).
 
 - The method involves any variety of means to make a critical organ fail.
 
@@ -91,7 +94,7 @@ The method of killing can range from quick and painless (e.g., lethal injection)
 
 While it may appear to be the most severe, it is also the most final, since the authority for any further consequences are delegated to [God](theology-god.md).
 
-## K. Punishing Connections
+## Punishing Connections
 
 Forbidding contact with a specified individual or group.
 
@@ -99,6 +102,6 @@ It can be *any* of the above, but directed toward [family](people-family.md) and
 
 ---
 
-All the above methods are meant as a deterrent to future behavior by others, but civil resistance can motivate the authorities to act proactively.
+All the above methods are meant as a social deterrent against future behavior by other people, but civil resistance can motivate the authorities to act proactively.
 
 While it may be useful to [coerce](power-types.md) the person (e.g., debtor's prison), those other people are often [victims](hardship-ptsd.md) of the organization's [evil](morality-evil.md).

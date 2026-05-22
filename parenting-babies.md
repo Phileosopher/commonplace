@@ -3,7 +3,7 @@
 
 As much as they're a choice, raising children is one of the most significant decisions you can ever make.
 
-However, any healthy marriage will mean children are both impossible to entirely prepare for or prevent having:
+However, any [healthy marriage](relationships-marriage.md) will mean children are both impossible to entirely prepare for or prevent having:
 
 - If you want a baby, there's no guarantee you'll have one.
   - Conception is very much a combination of fertility, [diet](body-diet.md), [exercise](body-exercise.md), [age](maturity.md), and [genetics](science-life-biochem.md).
@@ -40,6 +40,15 @@ Any preparation beforehand is worth the effort, but you'll still be overwhelmed:
 - Mothers tend to feel an intense protective instinct and affection for their infant.
 - Fathers will often feel neglected by their wife from her constant preoccupation with the baby.
 - [Keep your relationship a priority](relationships-marriage.md) as you adapt to the new family member.
+
+This is entirely [taboo](morality-taboo.md) to say, but almost 1/3 of mothers feel terrible about having children.
+
+- Without [love](people-love.md), a baby (both unborn and early childhood) is a type of parasite.
+- For these mothers, the social pressures will often "parentify" their baby into being a role model and incapable of doing wrong.
+- In that context, this creates the basis of [many issues within family dynamics](hardship-family.md).
+- While this doesn't often happen, the answer to this problem comes through her community accepting and loving her enough to permit her to feel those anxieties without judgment.
+  - From this safe place, she can then be given healthy models of parenting that show her the implicit [meaning](meaning.md) within [self-sacrifice](morality-virtues.md).
+- In that absence, it's a higher likelihood that the mother will fail and raise a [neurodivergent](mind-neurodivergence.md) child.
 
 Research and experience babies before having them:
 

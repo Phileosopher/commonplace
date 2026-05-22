@@ -3,9 +3,21 @@
 
 As a group grows, we have a harder time [personally connecting](people-friends.md) with everyone in that group. Starting around 20 people, other members can just as often be acquaintances as close friends. We hit a hard limit on human interaction at about 150 people, both psychologically and [logistically](logistics.md).
 
-A [social network](networks-social.md) user, a citizen of a [city](politics-city.md) or [country](politics-country.md), an employee of a corporation, and a member of a large club are all functionally in a large group. Broadly speaking, modern society consists *mostly* of large groups, segmented into [smaller groups](groups-small.md) according to who and what's most [convenient](purpose.md) or [familiar](symbols.md).
+From anything larger, many psychological dynamics start bleeding across each other, irrespective of its context:
 
-We tend to purpose ourselves toward larger groups for several reasons:
+- [Churches](church.md)
+- [Clubs](fun.md)
+- [Social networks](networks-social.md)
+- [Gangs](legal-crimes.md)
+- [Corporations](mgmt-middle.md)
+- [Cities](politics-city.md)
+- [Nations](politics-country.md)
+
+At the farthest end, governments have the most [power](power-types.md) because they've effectively [cornered the market](politics-monopolies.md) on [death](hardship-death.md). Other groups also have power in proportion to [how much they can enforce their rules](people-rules-methods.md).
+
+Broadly speaking, modern society consists *mostly* of large groups, segmented into [smaller groups](groups-small.md) according to who and what's most [convenient](purpose.md) or [familiar](symbols.md).
+
+We individually tend to [purpose](purpose.md) ourselves toward larger groups for several reasons:
 
 1. Larger groups give us the [impression](people-image-why.md) of [security](safety.md) against things we [fear](mind-feelings-fear.md).
 2. Each person is capable of [*heavily* specializing](jobs-specialization.md) in things they want and giving others what *they* specialize in.
@@ -29,7 +41,7 @@ APPLICATION: An executive needs *many* specific background elements that allow t
 
 APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
 
-As groups become progressively larger, top-ranking people will become dramatically more [powerful](power.md) than low-ranking ones to create a [class divide](classes.md). To prevent too much [in-fighting](people-conflicts-war-why.md), the people at the top will naturally convey an [image](people-image-why.md) that dilutes how much power they legitimately have:
+As groups become progressively larger, top-ranking people will become dramatically more [powerful](power.md) than low-ranking ones to create a [class divide](people-classes.md). To prevent too much [in-fighting](people-conflicts-war-why.md), the people at the top will naturally convey an [image](people-image-why.md) that dilutes how much power they legitimately have:
 
 - Leaders will have others introduce them before they speak.
 - [Knowledge](understanding.md) experts will use [language](language.md) to imply they're [uncertain](understanding-certainty.md).
@@ -168,7 +180,7 @@ Taxing, especially, will broadly destroy [purposes](purpose.md):
 - Taxing what people produce makes people want to [create](creations.md) less.
 - Taxing what people consume makes them less likely to consume.
 - Taxing [taboo](morality-taboo.md) things too much without completely [outlawing](people-rules.md) it often makes the organization depend on that thing for income.
-- Taking enough from the [rich](classes.md) removes the [incentive](purpose.md) for the middle class to [take risks](entrepreneur-why.md) toward becoming rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
+- Taking enough from the [rich](people-classes.md) removes the [incentive](purpose.md) for the middle class to [take risks](entrepreneur-why.md) toward becoming rich, and is never enough in a [large system](groups-large.md) to balance the group's budget alone.
 - Taking enough from the middle class often makes them become the lower class.
 - Taking enough from the lower class is almost completely [evil](morality-evil.md), since it barely benefits the leadership and hurts those with the least [power](power.md).
 - In fact, the only [fair](morality-justice.md) tax is a progressive tax up to a specific level of survival, then everything else from middle-class onward as a flat and non-negotiable percentage.
@@ -183,6 +195,14 @@ APPLICATION: As of 2022, the USA's Income Tax Code socially engineers every resi
 6. Generally [unaware](mind-awareness.md) of the above
 
 APPLICATION: Large group leaders must juggle *far* too many competing [values](values.md) and [subcultures](groups-small.md) to maintain much sense of [order](unknown.md). For this reason, groups that scale become [ever-increasingly awful](mgmt-badsystems.md) at doing what they were originally [purposed](purpose.md) to do.
+
+The above-stated leader subculture has a profound impact on the leaders. Since the leadership draws people [biased](mind-bias.md) toward the leaders' mindset, they will often believe the *entire* group thinks similarly to their inner circle. This discrepancy sits in proportion to how much more power the leader holds than individual members.
+
+- The belief presumes everyone follows [the rules](people-rules.md) just as much.
+- Most of the time, it's a type of blindness to *why* people follow rules in the first place (i.e., usually out of [fear](mind-feelings-fear.md).
+- In particular, they often believe the public will be quick to tell them if something is wrong, and that missing information can often bring the leader's demise.
+
+APPLICATION: Generally, people are always serving their own interests, and they estimate that a large group is serving those interests the most. This means there really is no true loyalty, and there never has been throughout [human history](humanity-universals.md).
 
 When a [bad system](mgmt-badsystems.md) starts socially engineering, they're often operating off [theories](mind-imagination.md) mixed with trial-and-error. This can be utterly disastrous, and often leads to [social unrest](people-conflicts-war-why.md), people losing property, and people dying.
 

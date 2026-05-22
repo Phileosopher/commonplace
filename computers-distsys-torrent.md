@@ -53,6 +53,8 @@ There's not much scientific information about money lost on IPs, but the EU *did
 
 This doesn't change the current legality of intellectual property, though. There are specific clauses such as fair use that permit educational purposes and parody, and many varieties of more lenient IPs exist for people who don't feel driven to the severely confining scope of copyright (e.g., [creative commons](legal-ip.md), [LGPL](legal-ip-floss.md)).
 
+This also doesn't touch on the oddness of piracy culture. All of the [hacking](hacking.md) subculture is present, but the cyberpunk motif goes in an even more counter-culture direction. It does make sense, since it takes a certain type of [neurodivergence](mind-neurodivergence.md) to risk utterly punitive civil (and sometimes criminal) liability to reproduce every single cartoon ever made (including the awful ones) or to spend a ton of time [penetration testing](computers-cysec-pentest.md) nothing but sports video games.
+
 ## P2P protocols
 
 Before going into the technical side of it, it's worth understanding how "peer-to-peer" (P2P) [protocols](standards-computers.md) work:

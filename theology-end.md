@@ -1,7 +1,7 @@
 
 # The events that will happen when Jesus returns (Eschatology)
 
-Last updated 9/2025
+Last updated 05/2026
 
 The Father's plan is for the Son to come back, which will be the final finish to what He started.
 
@@ -62,6 +62,7 @@ We need odd geopolitical circumstances:
 - Wars will intensify and risks of war will increase.
 - Famines and earthquakes are sporadic right now, but we're waiting for more dramatic disasters, and more frequently.
 - People will feel very [safe](safety.md), even with the natural disasters happening, which will likely be from ubiquitous disaster-alleviating [technology](technology.md) implemented everywhere ([1 Thessalonians 5:3](https://biblehub.com/1_thessalonians/5-3.htm)).
+- We will see a *major* merger of all religions at that time that shares a mutual hatred against Christians and Jews.
 
 We would need to transition into a single world government:
 
@@ -88,6 +89,17 @@ The Jewish people haven't seen their Messiah:
 - There's a partial hardening of their hearts for the completion of the Gentiles' salvation ([Romans 11:25-26](https://biblehub.com/romans/11.htm)).
 - As of right now, there's an evangelistic effort toward the Jews through groups like [One For Israel](https://www.oneforisrael.org/).
 - Many Jews have come to believe they may have missed when their Messiah may have come, so they're scouring [all the old prophecies](theology-salvation-prophecies.md) for Him.
+
+Many people compare the world's current sin to Noah's time ([Matthew 24:37](https://biblehub.com/matthew/24-37.htm)), but many of them lack sufficient imagination on how bad things can get. With a little bit of [imagination](mind-imagination.md), here are a few states we haven't seen:
+
+- Abortion has mass approval (>75%), even with the full knowledge of the "fetus" being a human being.
+- Criminal sentencing for murder never effectively going past 5 years unless it was a repeat offense.
+- Homosexuality and transgenderism is more praised as an effective family unit than the nuclear father+mother arrangement.
+  - Further, medical technology would completely replace the logistical need for a mother to bear children.
+- Genetic engineering becomes mainstream, with many people modified with animal DNA.
+  - This would create a modern-day Nephilim, and those people would dominate entire industries with their enhanced capabilities.
+- Computer-body integration becomes commonplace, with modern internet use involving a cerebral implant.
+- Assisted suicide, by justifying organ donation, is generally considered a heroic sacrifice.
 
 ## At the same time, many prophecies *have* happened
 
@@ -228,3 +240,10 @@ Finally, after the Millennium, several things will happen:
 2. There will be the largest court hearing in all creation, which will judge everyone not written in the Book of Life ([Revelation 20:11-15](https://biblehub.com/revelation/20.htm)).
 3. God will establish a new heaven and new earth ([Revelation 21:1-4](https://biblehub.com/revelation/21.htm)).
 4. Lastly, the Bride of Christ will be fully revealed ([Revelation 21:9-22:5](https://biblehub.com/revelation/21.htm), [1 Corinthians 3:10-15](https://biblehub.com/1_corinthians/3.htm), [Romans 14:10-12](https://biblehub.com/romans/14.htm)).
+
+## This does matter
+
+Many people like to assert that none of the details matter about Jesus returning.
+
+- However, that attitude isn't healthy, since the resurrection is a huge part of why believers live.
+- In many ways, [ethics](morality.md) is applied eschatology because we live out what we believe will happen.

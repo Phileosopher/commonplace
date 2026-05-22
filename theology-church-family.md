@@ -6,7 +6,7 @@ As a believer, you have a new [family](people-family.md) by relation through Jes
 This family is a spiritual one that adds on top of (and sometimes supersedes) your biological family.
 
 - If you don't have a good family, God will bless you with other members to replace them ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).
-- Some groups bordering on [cult status](culture-cults.md) go to an extreme of disassociating with *all* family, but there's no directive in the Bible to disassociate from biological family.
+- Some groups bordering on [cult status](people-culture-cults.md) go to an extreme of disassociating with *all* family, but there's no directive in the Bible to disassociate from biological family.
   - In fact, there is more in Scripture toward [sharing Christ with them](spiritual-exercises-evangelism.md) than anything else.
 - Compared to your physical family, your spiritual family is *much* more important ([Ephesians 2:19](https://biblehub.com/ephesians/2-19.htm)).
 
@@ -131,6 +131,6 @@ There are a few possible scenarios:
 
 - Both Christian backgrounds: You will likely have [cultural](people-culture.md) conflicts over denominational differences, but it can all be reconciled in Christ if the people in the conflicts are all legitimate Christians.
 - Christian background with non-Christian background: The non-Christian family will likely have *severe* issues with your value systems, so expect pushback from them about pretty much everything, and it may mean that spouse will get excommunicated.
-- Both non-Christian backgrounds: Expect [persecution](hardship-persecution-church.md) from both sides, and don't expect the relationships to maintain themselves for long. Most of the time with them will need to be [well-calculated](https://theologos.site/unnatural-law/) or [evangelically](spiritual-exercises-evangelism.md) motivated, especially if there's any [cult-like indoctrination](culture-cults.md).
+- Both non-Christian backgrounds: Expect [persecution](hardship-persecution-church.md) from both sides, and don't expect the relationships to maintain themselves for long. Most of the time with them will need to be [well-calculated](https://theologos.site/unnatural-law/) or [evangelically](spiritual-exercises-evangelism.md) motivated, especially if there's any [cult-like indoctrination](people-culture-cults.md).
 
 No matter what, your biological family is *not* as significant as your [spiritual family](church.md), and you are *extremely* blessed if they are one and the same.

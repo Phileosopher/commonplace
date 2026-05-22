@@ -13,7 +13,7 @@ People begin their [story](stories-why.md) about you based on the impression the
 
 [Your clothing](clothes.md) communicates many messages about who you are:
 
-- Even when *you* don't [identify](people-identity.md) with what you wear, other people define your [image](people-image-why.md) (especially your [social class](classes.md)) from your clothes.
+- Even when *you* don't [identify](people-identity.md) with what you wear, other people define your [image](people-image-why.md) (especially your [social class](people-classes.md)) from your clothes.
 - Often, the clothes we wear shape small characteristics of how we express ourselves.
 
 ## Groom yourself

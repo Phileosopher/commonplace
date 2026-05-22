@@ -146,6 +146,7 @@ Life insurance
     - Universal life insurance is like whole life insurance, but with more features
 - Near the end of your life, your life insurance needs should *not* be significant.
   - Beyond [burial costs](hardship-death.md) and [caring for your spouse](relationships-marriage.md), you won't need it.
+- Unless you have a [revocable living trust](hardship-death.md), life insurance claim payments to minors will be postponed until they become legal adults.
 - Children's life insurance should only serve to cover burial expenses.
 - Whole life insurance is almost always *much* pricier than term life insurance.
 - Most people are completely unaware of the details of their life insurance policy.

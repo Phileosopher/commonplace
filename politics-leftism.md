@@ -14,7 +14,7 @@ While leftism started with some ideas from intellectuals like Plato and Thomas M
 
 In practice, though, leftism *always* has the same mechanism:
 
-1. Establish a powerful minority as a [capitalizing](money-economics.md) force. Historically it was the [wealthy](classes.md), but it can just as much represent along [gender](people-gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
+1. Establish a powerful minority as a [capitalizing](money-economics.md) force. Historically it was the [wealthy](people-classes.md), but it can just as much represent along [gender](people-gender.md), sexual orientation, racial, [educational](education.md), [health](body-health.md), [family structure](family.md), or anything else.
 2. Blame many of the current issues on the excessive ownership by that powerful minority.
 3. Make political moves to take away that minority's elevated status and give it to the oppressed majority.
 4. If the minority opposes the action, incite the majority to suppress and [persecute](hardship-persecution.md) them.
@@ -50,7 +50,7 @@ This presumption, however, implies all things can be [known](understanding.md). 
 
 People aren't concerned with inequality, but are tremendously hypersensitive against cheaters, especially when the cheaters get away with it. Most leftist leaders [blame](people-image-distortion.md) their opponents in power for every social issue. Unlike religion, though, they don't tend to treat it as a general [human](humanity.md) [moral](morality.md) issue, but more an issue with [bad leadership](mgmt-badsystems.md) where they're the solution.
 
-They do this with many well-placed choices of [language](language.md) that separate people into various [classes](classes.md):
+They do this with many well-placed choices of [language](language.md) that separate people into various [classes](people-classes.md):
 
 - Systemic racism
 - Social justice
@@ -76,12 +76,12 @@ The practical effect of leftism is that the government should receive [power](po
 
 Since [power](power.md) is how we accomplish *any* [purpose](purpose.md), governments should have some involvement with *everything* a person can [choose](mind-decisions.md) to do.
 
-Naturally, many people in the [lower and lower-middle classes](classes.md) will find this attractive, but many various demographics will have reason to [imagine](mind-imagination.md) they could profit from a leftist revolution:
+Naturally, many people in the [lower and lower-middle classes](people-classes.md) will find this attractive, but many various demographics will have reason to [imagine](mind-imagination.md) they could profit from a leftist revolution:
 
 - People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](people-image-why.md) in a societal upheaval.
 - Self-[identifying](people-identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](mind-decisions.md).
 - People who want free stuff, but don't consider [where it comes from](results.md).
-- [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](people-image-why.md) benevolent. By doing so, their [image](people-image-why.md) is [risk management](safety-riskmgmt.md) against people taking their stuff.
+- [Upper-class](people-classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](people-image-why.md) benevolent. By doing so, their [image](people-image-why.md) is [risk management](safety-riskmgmt.md) against people taking their stuff.
 - Anyone who hates [reality](reality.md) or [their place in it](people-image-why.md), doesn't [understand](understanding.md) how much worse things could be, or wants to see [large-scale](groups-large.md) political [change](people-trends.md) without regard to its [risks](safety.md).
 
 APPLICATION: Attacking someone because they attacked you is two wrong actions, or at the very best one wrong action and a retaliation. Nothing [good](morality.md) comes of it, but the scope of the actions can destroy quite a lot. However, the Left frequently uses evil-for-evil to [justify](logic.md) a political revolution.
@@ -113,7 +113,7 @@ In practice, leftism also has a history of political violence, but tends to hype
 
 ## Rebranding leftism
 
-The leftist [narrative](stories-why.md) has expanded itself in recent history. Instead of merely calling low-income people the "oppressed", it has [classified](classes.md) society in other directions.
+The leftist [narrative](stories-why.md) has expanded itself in recent history. Instead of merely calling low-income people the "oppressed", it has [classified](people-classes.md) society in other directions.
 
 The most prominent form of classification comes through [identity](people-identity.md) politics. Instead of grouping people by their financial "oppressor" status (i.e., poor proletariat vs. wealthy bourgeois), every person is demarcated by additional oppressive states of existence:
 
@@ -170,11 +170,11 @@ The cure for any potential forthcoming climate catastrophe is more abstract: giv
 
 APPLICATION: A leftist requires more [faith](understanding-certainty.md) in the [government](groups-large.md) than their individual [perceptions](people-image-why.md), [strength](results.md), or [common sense](understanding.md). For that reason, successful people never sincerely believe in leftism (even if they [say they do](people-image-why.md)) because it requires [confronting and overcoming personal challenges](success-1_why.md).
 
-The solutions proposed by leftist leaders are complete [misdirections](people-image-distortion.md). Extended surveillance, shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries-why.md).
+The solutions proposed by leftist leaders are complete [misdirections](people-image-distortion.md). Extended surveillance, shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](people-classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries-why.md).
 
 While most leftists don't realize it, the leadership of the far left heavily endorses climate change because it's a [creative](mind-creativity.md) method to gain more [power](power.md). By closely tracking someone's "carbon footprint", they can see exactly where someone goes, what they [do](results.md), who they [interact with](people-conversation.md), and often [deduce](logic.md) with somewhat reliable accuracy what they're [thinking](understanding.md).
 
-APPLICATION: At its farthest, leftism is a [cult](culture-cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
+APPLICATION: At its farthest, leftism is a [cult](people-culture-cults.md), even though it does a great job [marketing](marketing.md) itself as a [moral](morality.md) movement.
 
 ## Language
 

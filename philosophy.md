@@ -59,7 +59,7 @@ Most of the philosophers of antiquity (e.g., Socrates, Plato, Aristotle) were Gr
 
 At the time, this was a relatively new idea, at least in its scope. They were asking [meaningful](meaning.md) questions that forced anyone from any discipline to stop and more wholly consider who they were and what they were doing. They also tried expressing the experience as a [lifestyle](people-goodlife.md) that extended out of their [thinking and understanding](understanding.md).
 
-The lifestyle of a philosopher was often treated as an important basis for their understanding, and some philosophy students were never taught philosophy until age 30. This value has a bit of [upper-class privilege](classes.md), but has merit by avoiding [youthful arguing](maturity.md).
+The lifestyle of a philosopher was often treated as an important basis for their understanding, and some philosophy students were never taught philosophy until age 30. This value has a bit of [upper-class privilege](people-classes.md), but has merit by avoiding [youthful arguing](maturity.md).
 
 In effect, they created many "building blocks" to describe what reality is. Everyone should read some ancient Greek philosophy at least once.
 

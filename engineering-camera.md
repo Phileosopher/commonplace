@@ -37,6 +37,8 @@ Exposure determines how much the camera lets light in, which is determined by 3 
 
 Manual focus lenses require tuning by the photographer, but autofocus adapts the focus to the objects in the frame. The [algorithms](computers-programming-algorithms.md) in most modern cameras are good enough that autofocus is almost always better for anything but still photography.
 
+Action cameras (e.g., GoPro) are configured for an intentionally rapid shutter speed (which avoids any motion blur). To compensate, the aperture and light sensor are higher.
+
 ## Image artifacts
 
 There are a few types of "artifacts" from how cameras capture images. They're errors between the actual representation of the image as someone would perceive it compared to the image represented on a screen or photo.

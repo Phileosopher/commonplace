@@ -90,7 +90,7 @@ Cons:
 
 ### Oligarchy - a small group controls everything
 
-Oligarchy is the same as an autocracy, but with more people involved, and can be classified by *which* [social class](classes.md) run things:
+Oligarchy is the same as an autocracy, but with more people involved, and can be classified by *which* [social class](people-classes.md) run things:
 
 - Aristocracy - a higher class defined by [birth](people-family.md)
 - Band society - one group (often a family) is run hierarchically by a strong leader

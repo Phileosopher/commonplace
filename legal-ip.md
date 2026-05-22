@@ -148,7 +148,7 @@ For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of
 Copyright gives property holders the license to profit, but also gives those holders the ability to impede freedom.
 
 - When private censorship impedes a public library's operation, it prevents the free flow of ideas.
-- When culturally relevant media is set behind a required payment, it creates a [class divide](classes.md) against the people who can't afford it.
+- When culturally relevant media is set behind a required payment, it creates a [class divide](people-classes.md) against the people who can't afford it.
 - Many times, content providers will take down content on behalf of copyright-holders' interests, which can often work against the interests of the public.
 - At the farthest end, copyright holders can control what people are permitted to consume, which can directly influence their capacity for discussion and thought.
 

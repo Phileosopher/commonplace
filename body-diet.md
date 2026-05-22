@@ -1,7 +1,23 @@
 
 # How to diet correctly
 
+One of the myths around dieting is that it's about cutting down calories.
+
+- While this is technically true, it's a bit like saying that [money management](money-1_why.md) is about having more money.
+- The general "eat less and [move more](body-exercise.md)" idea largely fails because it doesn't address the details involved in a healthy diet.
+- In practice, like every other [successful endeavor](success-2_attitude.md), the answer comes through willpower applied to the right things.
+
 ## Dieting starts with your mind
+
+Appropriate dieting is about managing an energy surplus, which comes from several holistically connected [lifestyle habits](habits.md):
+
+- Eating patterns (e.g, timing, frequency)
+- Food quality (i.e., nutrient density)
+- [Sleep cycles](sleep.md)
+- [Stress management skills](mind-feelings-happiness-stress.md)
+- Environmental constraints (e.g., [workplace](jobs-1_why.md), [commute](autos.md), food accessibility)
+- [Beliefs](values.md) about food and dieting including [culture](people-culture.md)
+- Biological factors like [family](people-family.md) and [genetics](science-life.md)
 
 We need self-discipline to withhold from comfort foods, so mental wellness has a *profound* impact on our results:
 
@@ -26,9 +42,24 @@ Measure whatever you can (e.g., calories, steps walked) and record what you eat 
   3. Hips, at the widest point below the waist
   4. Mid-thigh on both legs
 
+While many cultural and biological factors can shift things, the ideal number of daily servings is approximately the same for everyone.
+
+- Dairy: 3 cups
+- Vegetables: 2 1/2 cups
+- Fruits: 2 cups
+- Protein: 5 1/2 ounces
+- Grains: 3-6 ounces
+- Oils: 9 teaspoons
+- Typically, the more refined, the more dense a serving.
+  - e.g., dried fruit or cheese is far smaller per serving than fresh fruit or milk.
+- It's worth noting that this ideal diet can also be staggered.
+  - Someone may be perfectly fine overeating protein one day and not eating any the next.
+
 Pay attention to yourself while you eat:
 
 - [Closely observe](mind-awareness.md) when you feel peckish, hungry, sated, full, and stuffed.
+- Pay careful attention to whenever a hunger signal may actually be a thirst signal.
+- Also pay attention to any cravings that the current food only marginally fulfills.
 - Before you start your meal, physically specify where you'll stop.
 
 Put together a precise meal plan for exactly *one* week, then stick closely to it to get an intuition for how much you require of each portion.

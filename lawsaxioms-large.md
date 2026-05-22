@@ -37,6 +37,8 @@ Magus' Correlation - A culture's complexity is directly correlated to the number
 
 Malthusian Growth Model - Large-scale things grow exponentially over time.
 
+Monolithic Outsider Effect - Every outsider of a group imagines a group to be single-minded, and that's because members try to hide their perpetual power struggles.
+
 Optimal Fragmentation Principle - People are most creative when there's a moderate level of division that isn't severe enough to be destructive and isn't mild enough to create complacency.
 
 Orgel's First Rule - Spontaneous processes will create spontaneous solutions.

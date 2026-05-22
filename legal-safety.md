@@ -153,6 +153,12 @@ Whenever you feel unsafe, record *everything*.
   - Write down relevant names, times, and places.
   - Do *not* use erasable gel pens, and use a pencil if you're not sure.
 
+When asked to disclose by an authority, openly disclose unless you have a means to protect yourself such as a lawyer.
+
+- Often, you will find yourself in more trouble by the cover-up than by the event itself.
+- Further, it is very unlikely that a cover-up will successfully work, so coming clean gives an opportunity for grace from the authorities.
+  - By contrast, [lying](people-lying.md) to authorities will entirely sabotage any chance of redemption.
+
 Always give precise clarifications to your testimony and promises.
 
 - Only state what you know to be true.

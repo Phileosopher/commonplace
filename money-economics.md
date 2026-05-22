@@ -23,7 +23,7 @@ APPLICATION: Because we consider the price of things compared to what other peop
 
 We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](mind-imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
 
-APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
+APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](people-classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
 
 We tend to assign more value to things we have than things we don't, which means we tend to only [feel right](mind-feelings.md) about selling our things at a price higher than what we paid for. For this reason, even when the price of something is *very* fixed, there's always 2 prices (a lower "asking price" and a higher "receiving price").
 
@@ -61,7 +61,7 @@ Governments can print money, but they're not the only organizations who can. [Bl
 
 A country *has* to print more money constantly to keep up with the growth of a country, and it's in the best interests of a government to have an overstated value of their currency, so inflation is a natural result. However, too much printing and there will be runaway inflation as the value of each "denomination" goes down. It's a delicate balancing act.
 
-If inflation becomes too uncontrolled, it can ravage society. However, a steady inflation rate is only a risk to [those who have wealth stored](classes.md). For non-wealthy people, they just have to find [a better source of income](jobs-1_why.md) instead of finding another place to safely weather out an inflationary spike.
+If inflation becomes too uncontrolled, it can ravage society. However, a steady inflation rate is only a risk to [those who have wealth stored](people-classes.md). For non-wealthy people, they just have to find [a better source of income](jobs-1_why.md) instead of finding another place to safely weather out an inflationary spike.
 
 Because of things like [technology](technology.md) and society's [trends](people-trends.md) about commonplace activities, measuring inflation is absurdly complicated and somewhat controversial on how to approach it. Plus, because so many people are observing metrics like inflation, some government policies can play math games with the money supply to make inflation [appear](people-image-why.md) differently than it really is. However, technology *does* create inequality, to the degree that some people don't have it.
 
@@ -95,7 +95,7 @@ APPLICATION: As long as people can privately own things, legally or illegally, t
 
 In any exchange, both sides *always* benefit from the trade. Even under duress (e.g., blackmail), there's a perceived benefit for both sides to make that exchange.
 
-APPLICATION: The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](classes.md) or [political fashions that try to redirect it](politics-leftism.md). No matter how badly a [government](people-rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
+APPLICATION: The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](people-classes.md) or [political fashions that try to redirect it](politics-leftism.md). No matter how badly a [government](people-rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
 
 Even when we *give* things away, we're usually calculating a more elaborate [purpose](purpose.md):
 
@@ -274,7 +274,7 @@ Proponents of John Maynard Keynes tend to believe that output and production are
 
 Friedrich Hayek's values, on the other hand, adhere to the belief that output and production are *completely* based on individual perception and [personality](people-personality.md), with the best measurement of a society's wealth coming through how well they [save money](money-3_budget.md). For that reason, less government intervention is critical to solving most economic issues.
 
-APPLICATION: Anyone who praises how well capitalism works should have some awareness that it only works because of the selfish [moral state](morality.md) of [human nature](humanity.md). It proves how despicable our natural state is and should lead us to some level of individual repentance. It tends to create [class divisions](classes.md) as an inherent nature, and the weakest or least qualified will often suffer under capitalist societies that honor the presence of the free market. Unfortunately, [all other alternatives](politics-systems.md) are worse.
+APPLICATION: Anyone who praises how well capitalism works should have some awareness that it only works because of the selfish [moral state](morality.md) of [human nature](humanity.md). It proves how despicable our natural state is and should lead us to some level of individual repentance. It tends to create [class divisions](people-classes.md) as an inherent nature, and the weakest or least qualified will often suffer under capitalist societies that honor the presence of the free market. Unfortunately, [all other alternatives](politics-systems.md) are worse.
 
 ## More information
 

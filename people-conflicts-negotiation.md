@@ -41,18 +41,61 @@ Healthy negotiations cycle through the same stages:
 4. They discuss a way to reconcile the demands, which can last anywhere from a few seconds to months depending on the severity.
 5. The conflict resolves with someone stating absolute consequences, or people bring up additional conflicts to further intensify the experience.
 
+## Be prepared for mind games
+
 Contrary to popular opinion, great negotiation represents something closer to modern psychotherapy than a haggling session.
 
 Before you approach them, make a good guess of what everyone wants:
 
-- You must know what you desire and fear.
-  - Rank each desire on a scale from 1 to 10.
-  - Expect to sacrifice your lowest-priority desires to get what you want.
-- You sohuld somewhat reliably guess *their* desires.
-  - People often begin conflicts with a clear purpose of what *they* want, but don't understand what the other person wants.
-  - If you don't know, consider how they [feel](mind-feelings.md) and [what they want from life](humanity-universals.md).
-- People tend to impose their background onto others.
-  - Don't expect others to see your desires, and always keep your mind open about theirs.
+You must know what you desire and fear.
+
+- Rank each desire on a scale from 1 to 10.
+- Expect to sacrifice your lowest-priority desires to get what you want.
+
+You should somewhat reliably guess *their* desires.
+
+- People often begin conflicts with a clear purpose of what *they* want, but don't understand what the other person wants.
+- If you don't know, consider how they [feel](mind-feelings.md) and [what they want from life](humanity-universals.md).
+
+People tend to impose their background onto others.
+
+- Don't expect others to see your desires, and always keep your mind open about theirs.
+
+Everyone seeks the same six non-exclusive motivations based on how they were [loved](people-love.md) their childhood:
+
+1. Significance
+   - They learned they had to earn their love by being the best, so they want their voice or presence to make a difference.
+   - This means you should acknowledge their contribution and show that their presence counts (e.g., "Your insight really helps here").
+   - You can also utterly demolish their sense of self by telling them how nothing they or anyone else ever does will ever matter (i.e., [nihilist philosophy](philosophy.md)).
+2. Acceptance
+   - They learned that they were only safe when they were backed by [a group](groups-small.md), so they feel a compulsion to belong to one.
+   - This means reassuring your connection with them (e.g., "We're in this together").
+   - You can also utterly demolish their sense of self by articulating [the tenuous nature of all social groups](groups-small.md).
+3. Approval
+   - They learned that their [results](results.md) gave continual love, so they want others to recognize they're showing up.
+   - Unlike with significance they're looking for acknowledgment more than praise.
+   - Give them authentic appreciation (e.g., "You handled that really well").
+   - You can also utterly demolish their sense of self by telling them that nothing they do is ever enough.
+4. Intelligence
+   - They learned that being "right" kept them safe, so they want to know that other people are respecting their ideas, insight, and logic.
+   - Respect their reasoning, even if you don't agree with their conclusion (e.g., "That's an interesting point of view, and I hadn't thought of that").
+   - You can also utterly demolish their sense of self by using facts to indicate exactly how and why they're wrong.
+5. Pity/care
+   - They were punished or ignored for legitimate distress, so they learned that expressing suffering was the only way to be seen, loved, or comforted.
+   - They don't necessarily want pity, but they do want care and safety.
+   - Many times, they will use victimizing language (e.g., "It's been so hard lately", "I just can't seem to get a break").
+   - Affirm them with warmth and genuine empathy without giving any solutions (e.g., "That sounds very difficult, and I can only imagine how exhausting that must be").
+   - You can also utterly demolish their sense of self by demonstrating how they are self-victimizing.
+6. Strength/power
+   - They grew up in an unstable environment and concluded that control was the only form of safety.
+   - They want [some form of power](power-types.md) and will frequently mask their insecurity with confidence or assertiveness.
+   - This will often represent as over-assertion of autonomy (e.g., "I can handle it", "I don't need anyone's help", "Everyone relies on me").
+   - Respect their autonomy and avoid assisting them unless they invite you to it (e.g., "I trust your judgment on this").
+   - You can also utterly demolish their sense of self by overpowering them in some way.
+
+- These motivations aren't about *being* one of those traits, but to be *seen* as one of those traits to others.
+  - Most people subconsciously give some level of token affirmation to one of those ends to keep peace with everyone.
+- Further, you must be aware of what *you* value, since an expert negotiator will likely try to employ that method against you.
 
 Be careful with numbers:
 
@@ -61,6 +104,8 @@ Be careful with numbers:
 - Numbers like "3" and "7" imply an exact calculation, while round numbers like "5" and "10" imply approximations.
 - Always start with a *much* safer number than you're willing to sacrifice for, since they're almost certainly going to try to change it.
 - Instead of giving your "actual" value, give a recommended one (e.g., "People with my experience level are usually worth 55 to 75 thousand" when you know you could get 50).
+
+## Prepare for walking away beforehand
 
 Have a BATNA (a backup plan) if they won't compromise:
 

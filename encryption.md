@@ -18,6 +18,16 @@ Unencrypted "plaintext" information is usually readable without any further effo
 
 Since the encryption is often using math calculations to convert binary data, encrypted data viewed in a text file often shows weird [non-alphabetic characters](computers-keyboard.md). (e.g., 01000100 for the character "D" may convert to 10101100 for the character "¬").
 
+Cryptography makes it relatively more work to hack anyone, since anyone can gain access to anyone's information without it.
+
+- Governments would be free to surveil and attack anyone at will, and criminals would be able to hack anyone at will.
+- Anyone can *still* be hacked with cryptography, but it creates dramatically more work for the attackers.
+  - With this constraint, governments and hackers will only attack based on a priorities list, which will protect almost everyone else.
+- We can't really "trust" the cryptography, because it's simply math.
+  - For it to actually matter, someone has to use code *with* that math.
+  - Thus, we only really trust the people who make the systems.
+  - Often, the math is never broken, but the things *around* the math are vulnerable (software, hardware, code, etc.).
+
 ## History
 
 The first enciphered messages were from a few thousand years ago. Up until computers, encryption has taken a variety of forms:
@@ -100,7 +110,7 @@ These "ciphers" can be mixed and matched to create hybrid ciphers.
 
 Some encryption can be cracked and "reverse engineered", but others are nearly unbeatable. Ciphers have been frequently compromised, so new ones must replace them with extra degrees of complexity.
 
-Many forms of encryption use the Merkle--Damgård construction originally created in 1979:
+Many forms of encryption use the Merkle-Damgård construction originally created in 1979:
 
 1. Input the initialization vector (IV).
 2. Process Message Block 1 through the algorithm's rounds and make it f1.
@@ -111,6 +121,10 @@ Many forms of encryption use the Merkle--Damgård construction originally create
 
 Modern iterations use the Merkle--Damgård construction, but add other elements into the process (e.g., sponge construction, HAIFA construction) to avoid length extension attacks.
 
+Key derivation functions (KDFs) become meta by encrypting the key itself with a different key. This creates another layer of complexity to break through.
+
+## Encryption algorithms
+
 There are many types of encryption [algorithms](computers-programming-algorithms.md) available now:
 
 - Message-Digest Algorithm was made in 1989, and has iterated from MD2 to MD6. MD4 was compromised through collision attacks and MD6 was compromised by differential attacks. MD5 is still the de facto standard even though it's cryptographically insecure.
@@ -120,7 +134,21 @@ There are many types of encryption [algorithms](computers-programming-algorithms
 - RIPEMD was made in 1996, and based on the principles from MD4. RIPEMD-160 hasn't been broken yet.
 - There are others: Whirlpool, BLAKE, Tiger, RadioGatún, PANAMA, and GOST, to name a few. They're constantly being developed, [a bit like programming languages](computers-languages.md), so there's no need to cover an exhaustive list here.
 
-Key derivation functions (KDFs) become meta by encrypting the key itself with a different key. This creates another layer of complexity to break through.
+SHA-1 is decent, but not great.
+
+- It's useful for non-critical situations.
+- The public key can make a digest, but can't decrypt one.
+
+MD5 is another popular algorithm.
+
+The base64 encoder and decoder uses the "secure socket layer" (SSL) [protocol](standards-computers.md) to send cryptographic data.
+
+- The private key is the only one that decrypts, while the public key always encrypts.
+- There are 2 kinds of public keys:
+  1. Made-up public keys for general use.
+  2. 3rd-party authorized public keys (e.g., GoDaddy, Comodo, Verisign, etc.).
+     - These second public keys are "digital certificates", or "signed private keys".
+     - It can be $100-200 or $1000-2000 to get your certificate formally signed.
 
 ## Attacks
 

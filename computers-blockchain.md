@@ -190,7 +190,7 @@ The more vocal advocates for crypto often imply that the lack of central control
 - It doesn't protect citizens from harm and crime *inside* their region (e.g., police, firefighting, healthcare).
 - It can't provide the optional but preferable effort of building infrastructure that's part of the commons (e.g., road and rail, preserving parks, utilities like water/trash).
 - It won't provide incentives for private activities beneficial to society (e.g., farming subsidies, technology grants).
-- It can't provide services to the [underclass](classes.md) (e.g., healthcare, foster care, most social services).
+- It can't provide services to the [underclass](people-classes.md) (e.g., healthcare, foster care, most social services).
 
 ### Privacy concerns
 

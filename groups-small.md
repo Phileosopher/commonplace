@@ -27,7 +27,7 @@ While a group holds together by shared values, we can often forget that individu
 
 One of the most practical effects of leadership comes through everyone's magnification of their [purpose](purpose.md). The leader's purpose is naturally magnified by other members acting as an extension of their will, but lower-ranking members' purposes are also magnified, at least proportionally to the leadership's willingness and ability to grant [power](power.md) to them.
 
-Members always have at least some [power](power.md) in the group. In the case of a [low power distance](people-culture.md) group (e.g., a club), everyone shares resources to pursue their own unique [purposes](purpose.md). In groups with high power distance (e.g., a [cult](culture-cults.md)), the power funnels upward to the leader, and all the members [believe](understanding-certainty.md) in the group's collective [purposes](purpose.md).
+Members always have at least some [power](power.md) in the group. In the case of a [low power distance](people-culture.md) group (e.g., a club), everyone shares resources to pursue their own unique [purposes](purpose.md). In groups with high power distance (e.g., a [cult](people-culture-cults.md)), the power funnels upward to the leader, and all the members [believe](understanding-certainty.md) in the group's collective [purposes](purpose.md).
 
 Each member has at least some [power](power.md), [purpose](purpose.md), and [beliefs](understanding-certainty.md) from their group, so it's far harder to [influence](power-influence.md) anyone while they're in a group to new ideas *outside* the group than if they had discovered those [values](values.md) separately.
 
@@ -40,6 +40,8 @@ When a shared [purpose](purpose.md) is strong enough, people can get along bette
 [Leadership](mgmt-1_why.md) is nothing more than [making decisions](mind-decisions.md) that affect a group.
 
 People tend to give power to leaders proportional to how much they [trust](mind-trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](mind-trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
+
+Politically, every group starts as a type of [dictatorship](politics-systems.md), then diverges into another form as more people adapt clear roles.
 
 The increased [order](unknown.md) necessary for a leader to make systems, structure, and [rules](people-rules.md) almost guarantees that they'll lean more into a high Conscientiousness [personality](people-personality.md).
 
@@ -63,7 +65,7 @@ APPLICATION: Good leaders have the [wisdom](understanding.md) to stall [decision
 
 One of a leader's most critical decisions involves how the group's [image](people-image-why.md) appears to those outside of the group. Generally, the image must appear immaculate (or at least good enough) to gain approval enough for the group to grow. That image is typically a response to how the most extreme members of a group interact with outsiders.
 
-When confronting [evil](morality-evil.md) inside a group, leaders are at a tremendous disadvantage. ~95% of the members are well-intended and do largely good or benign self-interested things, but a statistically insignificant minority create *severe* damage to a group when they have the opportunity. The leadership often [trusts](mind-trust.md) members out of necessity, and therefore will have limited capacity to react. To offset this, they'll typically [trend](people-trends.md) toward managing a "core group" within the larger group over time, and it will only get worse as the [organization scales](groups-large.md) until the group has at least two distinctive [social classes](classes.md).
+When confronting [evil](morality-evil.md) inside a group, leaders are at a tremendous disadvantage. ~95% of the members are well-intended and do largely good or benign self-interested things, but a statistically insignificant minority create *severe* damage to a group when they have the opportunity. The leadership often [trusts](mind-trust.md) members out of necessity, and therefore will have limited capacity to react. To offset this, they'll typically [trend](people-trends.md) toward managing a "core group" within the larger group over time, and it will only get worse as the [organization scales](groups-large.md) until the group has at least two distinctive [social classes](people-classes.md).
 
 In most groups, the various [forms of power](power-types.md) grant different types of leadership to various members. There's a significant difference between a [natural specialty](jobs-specialization.md) and [personality](people-personality.md) that creates different types of [value](values-quality.md), versus conveying that value to others, and at least a few archetypes typically arise through different members:
 

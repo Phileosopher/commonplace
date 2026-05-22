@@ -139,6 +139,12 @@ We do well enough with any set of information, but the trouble arises from havin
 - To be [successful](success-1_why.md) and [happy](mind-feelings-happiness.md), we do need at least *some* flow of information.
 - We must receive enough information to feel reasonably informed about what may affect our decisions, but never so much that it provokes us to unhealthy thoughts or the urge to step away.
 
+There is an endless supply of information on everything, but not of your time.
+
+- Try to not keep a pile of "to consume" around.
+  - Never keep more than 4 weeks' worth of content available.
+- Your time [having fun](fun.md) and with your [family](people-family.md) is far more important than simply knowing more information.
+
 Learn to say "no" to more information.
 
 - Every new piece of information provides less [meaning](meaning.md) than the last (i.e., diminishing return).
@@ -168,7 +174,32 @@ Our intuition is a valuable detection system for [risks](safety-riskmgmt.md), so
 - Avoid subscribing to new things.
 - Spend more time [working](success-4_routine.md) and less time [chatting](language-speaking.md) with others.
 
-And, if anything seems to have unusually high value or could be potentially useful, make sure to [commonplace it](https://stucky.tech/notes/).
+Consider the facts per minute:
+
+- Since your time is more important than anything else, you will save time if you can get just what you need in the shortest window of time.
+- Without learning to reject content, most information will flow through at around 2 f/m.
+- If you're fully focused, you should be consuming about 5 f/m (something new every ~12 seconds).
+  - There is also an effective "new facts per minute", which should be at least 1 nf/m.
+- Some conditions can severely alter your retention rate:
+  - [Taking notes](mind-memory-notes.md) can double your f/m retention on dense content.
+  - Caffeine and interest in the subject can raise your maximum f/m.
+  - When multitasking, your retention will be ~0.5 f/m.
+- To accommodate multitasking, most standard podcasts are configured to give ~0.2-0.4 f/m.
+- If you don't feel like you're learning much, swap out the source for a higher f/m.
+
+If anything seems to have unusually high value or could be potentially useful, make sure to [commonplace it](https://stucky.tech/notes/).
+
+The content length gives clues on how information-dense the subject will be.
+
+- If the content is short-form (e.g., 5-minute video, article), it will have far more information packed into it than a long-form equivalent (e.g., 1-hour video, book).
+
+Doing is faster than reading, and reading is faster than seeing.
+
+- Everything you consume should direct toward some type of [creative project](mind-creativity.md).
+
+Reading and watching content is *much* less effective than writing summaries.
+
+- While you don't need a [rigorous method](https://stucky.tech/method/), you must *do* something with that information to add any [meaning](meaning.md) to it.
 
 ## 4: Mindfully sift
 
@@ -190,41 +221,15 @@ The constant stream of data is valuable to us because it *sometimes* yields some
 - Work as hard as you can to attach whatever you're consuming to something legitimately practical.
 - Most people stop after they've burned out, but leave as soon as you see 4-5 consecutive things that weren't worth your time.
 
-There is an endless supply of information on everything, but not of your time.
-
-- Try to not keep a pile of "to consume" around.
-  - Never keep more than 4 weeks' worth of content available.
-- Your time [having fun](fun.md) and with your [family](people-family.md) is far more important than simply knowing more information.
-
-Reading and watching content is *much* less effective than writing summaries.
-
-- While you don't need a [rigorous method](https://stucky.tech/method/), you must *do* something with that information to add any [meaning](meaning.md) to it.
-
-Consider the facts per minute:
-
-- Since your time is more important than anything else, you will save time if you can get just what you need in the shortest window of time.
-- Without learning to reject content, most information will flow through at around 2 f/m.
-- If you're fully focused, you should be consuming about 5 f/m (something new every ~12 seconds).
-  - There is also an effective "new facts per minute", which should be at least 1 nf/m.
-- Some conditions can severely alter your retention rate:
-  - [Taking notes](mind-memory-notes.md) can double your f/m retention on dense content.
-  - Caffeine and interest in the subject can raise your maximum f/m.
-  - When multitasking, your retention will be ~0.5 f/m.
-- To accommodate multitasking, most standard podcasts are configured to give ~0.2-0.4 f/m.
-- If you don't feel like you're learning much, swap out the source for a higher f/m.
-
 You must *enjoy* what you're consuming to pay attention to it.
 
 - We tend to consume mindlessly when we're bored.
 - If we want to [remember](mind-memory.md) and [use](success-4_routine.md) that information, it must be at least somewhat [entertaining](fun.md) to us.
 
-Doing is faster than reading, and reading is faster than seeing.
+Try to find signaling words to speed up your comprehension.
 
-- Everything you consume should direct toward some type of [creative project](mind-creativity.md).
-
-The content length gives clues on how information-dense the subject will be.
-
-- If the content is short-form (e.g., 5-minute video, article), it will have far more information packed into it than a long-form equivalent (e.g., 1-hour video, book).
+- Many times, you'll find specific words that give shorthand information (e.g., specific prepositions, specific conjunctions, structure of specific topic sentences).
+- Often, with enough experience, you'll be able to sift through entire textbooks within a few hours.
 
 If you wish to multitask, pair up mindless tasks whenever you can (e.g., listen to music or a lightweight podcast while doing something relatively repetitive like [household chores](home-housekeeping.md)).
 

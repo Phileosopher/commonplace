@@ -10,6 +10,8 @@ For a more legitimate tech glossary, several others are better:
 
 ## 0-9
 
+3D system - a system that only triggers if a person or system becomes dead, disappears, or is disabled
+
 51% attack - changing blockchain blocks on so many computers at once that they all conform to the new information, the greatest threat for a blockchain hack
 
 ## A

@@ -170,6 +170,12 @@ Open up your eyes and watch the feelings and thoughts flood back into consciousn
 
 - Stay mindful that it's still all perspective and that all of it isn't precisely "reality".
 
+As an alternate, use your shadow, which gives you direct feedback to center yourself with your body:
+
+1. Stand near a wall that casts your shadow from a lamp behind you.
+2. Straighten your posture and stand comfortably.
+3. Hold your posture for 10 breaths.
+
 ## D. Expand your sense of awareness to the world around you
 
 Visualize something familiar you can see around you, like a household object.
@@ -229,6 +235,22 @@ Focusing our reflection is a [habitual](habits.md) process.
 3. Use reminders, such as alarms, to routinely do it.
 4. Find [groups](groups-small.md) who can share in discussing gains in mindfulness.
 
+Make daily routines around mindfulness.
+
+- Mindful mornings: spend a few minutes of focused breathing or meditation at the beginning of the day.
+- Mindful commuting: when traveling, spend some time in silence.
+- Mindful eating
+- Mindful work breaks
+- Digital detox: devote time to complete disconnection from technology
+- Mindful activities that require full attention like gardening, painting or washing dishes
+
+Create a mindful home environment.
+
+- Have a quiet space like a cozy corner, a comfortable chair, or a digital-free zone.
+- [Decorate](home-decorations.md) with soft lighting, plants, or calming wall colors.
+
+Increase mindfulness in social interactions by learning to behave non-judgmentally, [actively listen](language-speaking-listening.md), and [choosing your words carefully](language-speaking-tone.md).
+
 Reflect inwardly:
 
 - Focus on each thought as it arises.
@@ -237,12 +259,16 @@ Reflect inwardly:
 - Reflect on [Scripture](theology-bible.md).
   - We can only grow when we gain wisdom beyond ourselves.
   - Inward reflecting can focus what we understand and give [certainty](understanding-certainty.md), but doesn't necessarily give more answers.
+- Use the sentences "I notice" and "I wonder" to describe what you're observing.
+  - When making observations, stick to what is provably present, and avoid not inferences or connections.
+  - Then, consider what you still do not understand and want to know.
 
 Reflect on the present:
 
 - Focus on "now", dropping out everything about "then", "could be", and "will be".
   - Mindfully "check in" to see how you're feeling at that moment.
   - "Scan" your body to see how each part of your body is functioning.
+  - Sequentially relax each muscle in your body ("progressive muscle relaxation" or PMR).
 - Learn to say to yourself, "I have a feeling of _____," instead of "I am _____."
   - Become willing to experience your feelings without judging them.
   - Radically accept all of your feelings as a unique part of your very useful body.
@@ -254,6 +280,9 @@ Reflect on the present:
   - We often think we're being [rational](understanding.md), but we rarely are.
   - Direct your attention to weak points in your [reasoning](logic.md).
 - Focus on mindfully eating by procedurally observing taste, texture, and aroma.
+- Detach yourself from the experience and observe it as it comes by.
+  - Watch your feelings and thoughts as they arise, as if you were observing yourself.
+  - Then, try to accurately describe what each "actor" feels in that interaction.
 
 Reflect on changes:
 
@@ -266,6 +295,14 @@ Reflect on changes:
     3. Keep your eyes open and relaxed, with your gaze directed about 6 feet in front of you.
     4. Find a comfortable position for your hands.
     5. Finish the walk in stillness.
+- Categorize new observations through several lenses:
+  1. Connect: how does this confirm what I already know?
+  2. Extend: what new ideas have broadened what I know?
+  3. Challenge: what contradictions or issues am I observing here?
+- Ask several questions about whatever you're observing:
+  1. Observations: what do I notice? (only concrete, [certain](understanding-certainty.md) things)
+  2. Inferences: what do I think? (interpretations and conclusions)
+  3. Questions: what do I wonder?
 
 Reflect on the past:
 
@@ -288,6 +325,11 @@ Reflect on others around you:
 - Accept everything you can't change regarding other people, including [conflicts with others](people-conflicts.md) and [in your relationship](relationships-why.md).
   - Examine the social context of what others are saying and doing, including the fact that you're *always* present for them.
 - Take the time to [analyze](logic.md) and consider typically agreed-upon things more thoroughly.
+- When observing someone, ask a few questions:
+  - What can that person perceive?
+  - What might that person know or believe about the situation?
+  - What might that person care about?
+  - What is that person unable to know?
 
 Cycle and merge your perspectives:
 
@@ -302,3 +344,7 @@ Cycle and merge your perspectives:
   5. Depressing views of the future (fatalistic)
   6. Transcendental views of the future (hopeful)
 - Observe the best perspective to adopt for the given situation.
+
+## More information
+
+[Relaxation Response](http://www.relaxationresponse.org/)

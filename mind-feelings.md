@@ -7,6 +7,8 @@ At our core, beyond [reasoning or sensibility](logic.md), we experience the worl
 
 Biochemically, a feeling is a hormone reaction triggered by a response to environmental stimuli based on a particular [belief](values.md) synthesized through [experience](mind-imagination.md). This stimulus can come from our [perceptions](people-image-why.md), or simply from our physical state. These feelings provoke impulses that drive our [decisions](mind-decisions.md) and [purposes](purpose.md).
 
+At the same time, while feelings are impulse reactions, they are also [lenses](people-image.md) on reality.
+
 APPLICATION: If you want to change your feelings, change your physical state. Furrowing your brow will make you think harder, standing up straight will make you more confident, walking faster will make you more productive.
 
 In one sense, feelings are a status indicator of what we generally [understand](understanding.md) is happening. But, in another sense, feelings are low-level forms of [logic](logic.md), framed on reactionary premises (which we [trust](mind-trust.md)) instead of well-formed ones (which may be harder to quickly [identify](people-image-why.md)).
@@ -39,6 +41,11 @@ All feelings can be categorized by their pleasurability and energy.
     - This mode helps us identify others' [hardship](hardship.md), which builds a capacity for empathy.
 - These domains wobble around proportionally to how fast we experience our feelings.
   - When our personality is [high-neuroticism](people-personality-ocean.md), these will move *very* fast.
+
+For the sake of simplicity, I use "feelings" constantly here, but that word can be subdivided as "affect" versus "mood".
+
+- Affect is the present impulsive state that arises from a present experience or thought.
+- Mood is a general state of mind (more on that later).
 
 ## Feelings from thoughts
 
@@ -120,6 +127,28 @@ If we don't have any feeling over anything, we simply feel apathy.
 
 There are hundreds of [words](mind-feelings-list.md) to capture every feeling, especially as the object of our situation changes (and provides further associated feelings), and they're *still* not precise enough to accurately capture most of the sensations.
 
+## The emotional response cycle
+
+Broadly, our feelings converge into a [habitual](habits.md) cycle that rapidly moves across multiple [layers of consciousness](https://gainedin.site/layers/):
+
+1. Stimulus: [triggers](habits.md) programmed into us from early childhood.
+2. Initial reaction: a physiological response such as a tightening in the chest, adrenaline rush, or a fleeting thought.
+3. Interpretation: our brain is trying to understand the situation and make sense of what is going on.
+4. Full emotional experience: when enough time to process the information has transpired to process what we've experienced (a matter of seconds) we feel the entire emotion.
+5. Action or expression: the physical way we externally show the emotion
+6. Resolution or suppression either we resolve and release the emotion, or suppress it for resurfacing later when we're [safer](safety.md)
+
+Several factors can influence how our emotional responses present themselves.
+
+- Our personal history determines what we are safe to feel and express.
+- Our current mental state defines the severity and range of interpretation and expression (e.g., [dysregulation](mind-awareness-dysregulation.md)).
+- Our physical state can magnify or diminish the experience (e.g., how much [sleep](sleep.md) we have had).
+- Environmental factors and context that indicate to us how we can express the feeling.
+
+Often, many [neurodivergences](mind-neurodivergence.md) have a shaky relationship with the action/expression phase.
+
+- This can make resolving feelings very difficult, especially as we [mature](maturity.md) and the complexes become pathologies.
+
 ## Focus
 
 We can only feel what we're focused on, which often connects with trying to "[fix](https://adequate.life/fix/)" the world around us. If we're simply running through a [habit](habits.md) or distracted by doing two things at once, we won't feel anything about something.
@@ -156,9 +185,10 @@ APPLICATION: Most of our feelings *would* be precisely accurate if they were bas
 
 If an [experience](people-image-why.md) was particularly [influential](influence.md) towards our [understanding](understanding.md) or [desire](purpose.md) (especially if it was [traumatic](hardship-ptsd.md)), our feelings can persist to frame further beliefs, which can create secondary feelings with *much* more power over our actions.
 
-APPLICATION: Sensational things hit our feelings more, and we should be [distrustful](mind-trust.md) proportionally to the [sensationalism](people-image-why.md). This isn't easy because anger gives us the [impression](people-image-why.md) that we have [power](power.md), so we're easy to [influence](power-influence.md) toward things that make us angry.
+- If a feeling persists and is reinforced enough with [values](values.md), it becomes a [conviction](understanding-certainty.md).
+- When taken to the farthest level, the excess of desire eventually passes into the realm of [fetish](relationships-sex.md).
 
-If a feeling persists and is reinforced enough, it becomes a [conviction](understanding-certainty.md).
+APPLICATION: Sensational things hit our feelings more, and we should be [distrustful](mind-trust.md) proportionally to the [sensationalism](people-image-why.md). This isn't easy because anger gives us the [impression](people-image-why.md) that we have [power](power.md), so we're easy to [influence](power-influence.md) toward things that make us angry.
 
 If any adverse feeling lingers long enough, it becomes a [mental illness](hardship-worthlessness.md). And, enough mental illness, especially from an [early enough age](maturity.md), creates most [neurodivergence](mind-neurodivergence.md).
 
@@ -191,7 +221,7 @@ Further, intuition is *really* difficult to [analyze](logic.md). If our self-ref
 
 ## Repositioning
 
-The beauty of our mind's neuroplasticity is that we are always capable to rewire how we [habituate](habits.md) our feelings. While we don't typically need to reconfigure our baser feelings (e.g., fear, anger), protracted mental feeling-beliefs can *always* be rebuilt into more useful mental structures:
+The beauty of our mind's neuroplasticity is that we are always capable to rewire how we [habituate](habits.md) our feelings into moods. While we don't typically need to reconfigure our baser feelings (e.g., fear, anger), we tend to develop distorted views of the world through protracted mental feeling-beliefs:
 
 - [Bitterness](mind-feelings-anger.md) - [Release](hardship-forgiveness.md) whatever you feel compelled to [control](purpose.md).
 - Anxiety - Find [fear](mind-feelings-fear.md) in *much* worse things, which is typically through death.

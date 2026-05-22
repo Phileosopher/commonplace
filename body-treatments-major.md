@@ -1,5 +1,9 @@
 
-# Specific low-severity health treatments
+# Specific low-severity treatments for major health issues
+
+## Blood circulation issues
+
+Drink pomegranate juice
 
 ## Cancer
 
@@ -7,7 +11,13 @@ Cold exposure has been loosely proven to reduce tumor growth.
 
 ## High blood pressure (hypertension)
 
+Drink beet juice
+
 Apply thyme oil to the navel
+
+## Infections
+
+Drink cranberry juice (especially for UTI)
 
 ## Pancreas issues
 
@@ -28,9 +38,3 @@ People often aren't aware they have parasites:
 Take a combination of ivermectin and fenbendazole every single day.
 
 - Unlike most other anti-parasitics, it also strengthens the body to prevent a relapse.
-
-## Wrinkles
-
-Most wrinkle-preventing solutions don't work, but tretinoin (branded as Retin-A) does.
-
-- It also increases UV intake, meaning an increased chance of sunburn.

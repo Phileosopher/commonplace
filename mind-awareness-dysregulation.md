@@ -36,56 +36,37 @@ While there are many ways to implement it, can only attain self-regulation throu
 3. Find out why we are [certain](certainty.md) of some things, what we have actual control over, and everything we are [capable of doing](purpose.md).
 4. Apply [virtue](morality.md) appropriately for the situation to know what we ought to do, and when.
 
-## Re-regulation exercises
+## Cognitive restructuring
 
-There are many various ways to re-regulate.
+When we become mindful, we witness distortions that open up the possibility for cognitive restructuring.
 
-- Each approach comes from a different angle for slowing down and separating our feelings from our observations.
-- In one sense, they're all forms of [meditation](mind-awareness-meditation.md) upon our perspectives.
-- None of these are ideal, since the most dramatic benefit comes from simply disengaging from feeling a compulsion to act.
+1. Highlighting distortions: we can recognize a thought we shouldn't act on and pause before reacting.
+2. Promoting objectivity: we can see things as they truly are, not how the distortions portray them.
+3. Encouraging flexibility: we can challenge and change rigid beliefs that don't accommodate reality (and also cause [anger](mind-feelings-anger.md)).
 
-Self-Scan
+Without restructuring our thoughts, too much [awareness](mind-awareness.md) can sometimes make people more selfish or [evil](morality-evil.md).
 
-- Scan top-to-bottom how your body is right now, without judgment.
-- Sequentially relax each muscle in your body ("progressive muscle relaxation" or PMR)
+- The large-scale purpose of increased awareness should be primarily to [serve others' interests](people-3_respect.md).
+- Depending on your [social status](groups-member.md) and [culture](people-culture.md), knowing certain facts can inhibit your [success](success-1_why.md) or prevent you from being a [decent human being](people-3_respect.md).
 
-I Notice, I Wonder
+The process for cognitive restructuring is relatively straightforward:
 
-- Use the sentences "I Notice" and "I Wonder" to describe what you're observing.
-- When making observations, stick to what is provably present, and avoid not inferences or connections.
-- Then, consider what you still do not understand and want to know.
+1. Mindfully [meditate](mind-awareness-meditation.md) to gain awareness, without judgment.
+2. [clearly identify the cognitive distortion with a label](mind-awareness-language.md).
+3. For every thought, conduct an audit of its connected thoughts by asking several clear questions:
+   1. Where will these thoughts lead me?
+   2. Will these thoughts get me to where I want to go?
+      - Will these thoughts build me up or tear me down?
+      - If not sure, where *do* I want to go?
+   3. Are these thoughts [morally acceptable](morality.md) beyond what I simply feel to be right?
+   4. Do I feel guilty thinking these thoughts, and why?
+   5. Could I share these thoughts with someone else?
+      - This gives tremendous insight on the relationship between your spiritual state and others' spiritual state.
+   6. Where did these thoughts originate?
+4. Reframe the distorted thought with a more balanced and realistic one.
+   - This usually includes holding multiple perspectives at once without trying to merge them.
 
-Connect, Extend, Challenge
+We must train our minds to listen to principles, [values](values.md), and [morals](morality.md) more than [feelings](mind-feelings.md) or [intuition](understanding.md).
 
-- Categorize new observations through several lenses:
-  1. Connect: How does this confirm what I already know?
-  2. Extend: What new ideas have broadened what I know?
-  3. Challenge: What contradictions or issues am I observing here?
-
-Observations, Inferences, Questions
-
-- Ask several questions about whatever you're observing:
-  1. Observations: What do I notice? (only concrete, [certain](understanding-certainty.md) things)
-  2. Inferences: What do I think? (interpretations and conclusions)
-  3. Questions: What do I wonder?
-
-Step Inside
-
-- When observing someone, ask a few questions:
-  - What can that person perceive?
-  - What might that person know or believe about the situation?
-  - What might that person care about?
-  - What is that person unable to know?
-
-3-2-1 Bridge
-
-- Before engaging with an observation, write down several things:
-  - 3 words or ideas associated with it.
-  - 2 questions you have about it.
-  - One comparison to something else that comes to mind.
-
-Observer/Actor
-
-- Detach yourself from the experience and observe it as it comes by.
-  - Watch your feelings and thoughts as they arise, as if you were observing yourself.
-- Then, try to accurately describe what each "actor" feels in that interaction.
+- The entire purpose is to act, not react, since reactions let other people control us.
+- We were designed to be [loving](people-love.md) toward others, and reactions always work against that design.

@@ -311,6 +311,8 @@ If you like what you see, write a professional thank-you letter to everyone you 
 
 If the employer asks for references, don't assume they're going to hire you.
 
+- While it's [unethical](morality.md), many hiring managers keep someone ready to start work "just in case".
+
 ## Stay in Touch
 
 Try to connect with them on professional social media like [LinkedIn](https://www.linkedin.com/).
@@ -327,6 +329,7 @@ Since all sorts of issues can arise, do *not* give up the job search until you'v
 
 - A good lead isn't a job offer until you've made [a contractual agreeement](people-contracts.md).
 - A job offer isn't a job until you're at your first workday.
+- That job is not stable until you've spent at least a few weeks to prove your usefulness to the manager.
 
 A manager can pass you over for many reasons, so don't take it personally:
 

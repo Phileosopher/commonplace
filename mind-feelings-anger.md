@@ -23,6 +23,8 @@ Anger is *very* useful to get things done, but it ruins our finesse. [Healthy bo
 
 APPLICATION: Healthy anger management requires a willingness to do things (which creates action), but not desire to control things (which creates compulsive behavior and [dysregulation](mind-awareness-dysregulation.md)).
 
+At the same time, if we don't [release past anger](hardship-ptsd-release.md), we will normalize it and our [unawareness](mind-awareness.md) will permit it to control us later.
+
 ## Anger's basis
 
 Anger is a secondary [emotion](mind-feelings.md), meaning it derived from a primary emotion and then permuted with new information.

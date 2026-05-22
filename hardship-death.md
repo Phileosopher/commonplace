@@ -233,6 +233,16 @@ Draft the documents with an attorney, and keep it current as your situation chan
 - Clarify likely circumstances you can think of as well, such as divorce or having children.
 - Preferably, you should leave enough for your children they can do anything they want, but not enough that they can [do nothing](success-1_why.md).
 
+Arrange what you want done in advance with a power of attorney.
+
+- Someone will be designated to make the decisions according to your will, so communicate in advance with them.
+
+Consider moving everything to a living revocable trust.
+
+- It allows you to transfer wealth to your next of kin while you're still alive.
+- While it can cost a bit of money to set up, it will ensure assets aren't hung up in probate court.
+  - Probate court often costs as much or more than a living revocable trust.
+
 If you're nearing death, don't worry too much about those around you:
 
 - Your loved ones, while well-meaning, will make the experience more difficult through their projected fears and anxieties.

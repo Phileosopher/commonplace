@@ -36,6 +36,20 @@ While most people won't tell you (since it's [taboo](morality-taboo.md) or may t
 
 - If you weren't preoccupied with your thoughts and focused instead on addressing others' problems, you would slowly find contentment in accumulated [results](results.md) over time.
 
+Or, in other words, it is a guarantee someone would be depressed if they had all the following:
+
+1. No [intimate partner](relationships-marriage.md)
+2. No [family](people-family.md)
+3. No [children](parenting-children.md)
+4. No [friends](people-friends.md)
+5. No [job](jobs-1_why.md)
+6. No [career](jobs-specialization.md)
+7. No [educational pathway](education.md)
+8. No [involvement in civic responsibility](groups-large.md)
+9. No [church attendance](church.md)
+10. No [spiritual life](spiritual-exercises.md)
+11. No [routine](habits.md)
+
 With that in mind, the most persistent meaning comes through our connections with others:
 
 - Hugging and getting a massage can help with grief and suffering, since the physical contact releases endorphins.

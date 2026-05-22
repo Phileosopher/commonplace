@@ -227,6 +227,8 @@ Data - information, plural of datum, can classify into various data types
 
 Data center - a large set of enterprise-grade computers, often run by companies that sell storage or compute power
 
+Data integrity - the assurance of data being accurate and consistent
+
 Data structure - a collected form of data
 
 Data type - the form of the data which can include integers, boolean, floats, doubles, strings, characters, and more
@@ -293,7 +295,7 @@ Dictionary - aka "associative array" or "map" or "symbol table", an array that u
 
 Dictionary attack - password cracking by running through all possible words, doesn't work if there are numbers in it
 
-Digital certificate - an authorization by a certificate authority that indicates a computer automatically has permissions for a fixed window of time into the future
+Digital certificate - aka signed private key, an authorization by a certificate authority that indicates a computer automatically has permissions for a fixed window of time into the future
 
 Digital signal - a logically divided signal that represents a black-and-white measurement, the opposite of an analog signal
 

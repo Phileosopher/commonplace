@@ -25,14 +25,14 @@ Rent a car if train tickets are expensive.
 
 ## Driving
 
-Don't buy premium gas.
+Don't buy premium gas unless the vehicle has a high compression ratio or uses forced air induction (e.g., turbo, supercharger).
 
-- The quality difference is negligible or nonexistent.
-- Additives are cheaper in the long term.
+- The quality difference only reduces knock, and the fuel is the same otherwise.
+- Additives are both cheaper and more effective in the long-term (e.g., removes water).
 
 Join gas station rewards programs.
 
-- Track your rewards as you acrrue them.
+- Track your rewards as you accrue them.
 
 Avoid unnecessary wear on your car by driving slower and more carefully.
 
@@ -125,7 +125,7 @@ When flying with kids:
 
 ## Saving on lodging
 
-Price shop hotels with a discount room-filling service.
+Price shop hotels with a discount room-filling service (e.g., Priceline).
 
 Use the same hotel or chain frequently to occasionally get promotions or discounts.
 
@@ -144,26 +144,22 @@ Call the hotel directly:
 
 Try to use independently owned hotels because they're the highest-quality in the world and are far more likely to give you a discount.
 
+- The front desk clerk at the hotel often charges a reasonable rate to run errands, plunge toilets, tie bow-ties, deliver towels, and make breakfast.
+
 Hotel tipping is mostly out of style but if you do leave one, put it under the pillow and leave a note to clarify who it's for.
 
-If you ever lose your phone charger, ask the front desk of your hotel because they often have extras that other people have left.\
+Many "eco-friendly" options like opting out of cleaning your room are tricks to give the housekeeper less work, so ignore them if you want a clean room.
+
 Alternative lodging arrangements:
 
-Only get a timeshare if you're budgeting a vacation every year for decades.
-
-Rent out your home while you're away.
-
-Rent a local guest house instead of a hotel.
-
-- Try renting from a local host through a room-sharing site.
-
-House-swap with someone in the classified ads for where you want to stay.
-
-Pack a tent and camp in someone's garden.
-
-Couch-surf through an internet posting.
-
-Look at renting a portion of a monthly classified ad property if you're staying there for more than two nights or have a large group.
+- Only get a timeshare if you're budgeting a vacation every year for decades.
+- Rent out your home while you're away.
+- Rent a local guest house instead of a hotel.
+  - Try renting from a local host through a room-sharing site.
+- House-swap with someone in the classified ads for where you want to stay.
+- Pack a tent and camp in someone's garden.
+- Couch-surf through an internet posting.
+- Look at renting a portion of a monthly classified ad property if you're staying there for more than two nights or have a large group.
 
 Try a work-for-rent arrangement.
 
@@ -196,3 +192,8 @@ Find free ways to take [vacations](fun-vacations.md):
 - Get a travel scholarship.
 - Take up a challenge and get sponsored for something intense.
 - Enter a contest.
+
+If you ever happen to lose your phone charger:
+
+- Most hotels have a gigantic bin full of phone chargers other people have left.
+- If you have a USB cord but not a charger, many hotel TVs have a USB plug on the back.

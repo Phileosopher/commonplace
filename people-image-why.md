@@ -87,6 +87,14 @@ APPLICATION: The cure for [image distortion](people-image-distortion.md) is curi
 
 APPLICATION: To live [sincerely](people-goodlife.md), our inner lives must reflect our outer lives, including our [conflicts](people-conflicts-inner.md).
 
+## Self-deception
+
+We're constantly at risk of [lying](people-lying.md) to ourselves. We may not [understand](understanding.md) and think we do, or our [purposes](purpose.md) may be more [evil](morality-evil.md) than we realize. With [creativity](mind-creativity.md) or intelligence, we can maintain multiple [conflicting opinions](people-conflicts-inner.md) in our minds at the same time.
+
+APPLICATION: The most profound [liars](people-lying.md) may actually believe their lies. [Narcissists](mind-neurodivergence-clusterb-narcissist.md), in particular, have an unusual ability to [twist the truth](people-image-distortion.md) in every conceivably advantageous way.
+
+When someone can find other people who share their type of deception, they may form a [group](groups-small.md) around it. This [emboldens](understanding-certainty.md) everyone in the group to [believe](understanding-certainty.md) those thoughts even more.
+
 ## Culture's image
 
 The basis of all [culture](people-culture.md), [social conflict](people-conflicts-why.md), and grander [social trends](people-trends.md) revolves around an image of a person, *not* the [reality](reality.md) of who they are.

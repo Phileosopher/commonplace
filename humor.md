@@ -122,7 +122,7 @@ Humor isn't merely jokes and comedians. We find humor frequently throughout life
 
 Generally, the more painful *and* unique an experience is, the more humor we'll draw from it later once we get over the [trauma](hardship-ptsd.md) from it. We won't find humor in the present-tense if we're [afraid](mind-feelings-fear.md) of anything.
 
-One aspect hiding behind humor is that it's a reliable [stress relief](mind-feelings-happiness-focus.md) from the awful things that can happen to us. It's why [successful](success-1_why.md) people tend to also have a sense of humor.
+One aspect hiding behind humor is that it's a reliable [stress relief](mind-feelings-happiness-focus.md) from the awful things that can happen to us. Sometimes it's wish fulfillment, and other times it's addressing the absurdity contained within [reality](reality.md). This is why most [broadly successful](success-1_why.md) people also tend to have a decent sense of humor.
 
 One of the easiest ways to [influence](influence.md) others is through adding at least a bit of humor to pretty much everything. It's difficult to hate someone you find funny.
 

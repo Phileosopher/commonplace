@@ -96,6 +96,7 @@ When picking a fund:
 - Each trade will likely incur fees or commissions, so avoid actively managed funds.
 - The expense ratio will tell you how much the fund operator makes each year.
 - Pay more attention to what the fund manager is investing *toward* than their rate of return.
+- Aim for no load funds (it has a load if it has A or B at the end of the fund's name).
 
 Pros:
 

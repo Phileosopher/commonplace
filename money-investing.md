@@ -326,6 +326,12 @@ Max out your IRA/401(k) and Roth IRA.
 - If you expect to be *very* wealthy later, do the Roth IRA first (and get taxed first).
 - If you don't ever expect to be particularly wealthy, do the IRA/401(k) first (and get taxed later).
 
+If you have any [children](parenting-children.md), invest in a 529 plan.
+
+- The plan is built to allow tax-deferred savings for a child.
+- There are some conditions attached to the arrangement (e.g., stocks can't be invested at least 5 years before the child becomes an adult.
+- The savings are transferable to other children or yourself in the event a child doesn't use it.
+
 Investments across national borders may incur taxes from *both* countries!
 
 - Staying in your country avoids the tariffs/duties you may have to pay.
@@ -382,7 +388,7 @@ In general, a good investing/retirement strategy should involve:
 1. Don't touch your investment until it reaches 10 times your annual salary needs.
 2. Start spending 7% of it per year.
 3. If you keep investing safely, your wealth will never be exhausted.
-4. If you desire any further than that, you should be trying to climb [the social ladder](classes.md).
+4. If you desire any further than that, you should be trying to climb [the social ladder](people-classes.md).
 
 You should have at least a few idiosyncrasies resolved regarding your retirement:
 
@@ -436,7 +442,7 @@ To understand how each of your investments fit with your financial goals, focus 
 The faster you give away money, the more it flows back to you.
 
 - It's not because of "good karma", but more that you spend less time defending it and more time making more of it.
-- If you start growing rich, you *must* isolate yourself to avoid further [social problems](classes.md).
+- If you start growing rich, you *must* isolate yourself to avoid further [social problems](people-classes.md).
 
 Listen to your [significant other's](relationships-marriage.md) advice, since they share your life with you, and it's their money too.
 

@@ -3,11 +3,15 @@
 
 The history of passwords traces back to military messaging. In a [war](people-conflicts-war.md), military leaders must communicate, but without the enemy seeing that communication. The same philosophy holds true with protecting computer information, and is a critical subdomain of [keeping computers safe](computers-cysec.md).
 
+Most operating system security consists of sequential layers of "authentication". More authentication factors means more complexity.
+
 Most computers have "certificates" to authenticate with each other. Setting certificate deadlines prohibits someone salvaging your computer later and using an old certificate.
+
+There is, however, a major risk of *too much* security. It is very easy to create a self-defeating loop by setting authentication *behind* the authentication wall (e.g., sending email authentication to an email on the same server).
 
 ## Factors
 
-There are three ways to give evidence that someone is who they say they are.
+There are three "factors" to give evidence that someone is who they say they are.
 
 - Knowledge: something they know (e.g., a password or other "secret")
 - Possession: something they have (e.g., a mobile phone or other object)
@@ -38,6 +42,8 @@ However, this policy must also require renaming the "default" passwords. Very of
 
 To store the information, it should be in ciphertext, where the password is inaccessible. If a computer ever cross-references the password with *anything*, it's likely waiting to [be compromised](computers-cysec-pentest.md).
 
+However, user decisions are the best solution for password integrity. Every user should routinely change all their passwords, *especially* admin accounts.
+
 ### Possession: Checksum
 
 The simplest version of verifying a downloaded file is to cross-reference its download with its [checksum](encryption.md), which is usually released on the website as a small separate download.
@@ -49,6 +55,19 @@ Another means of verifying is via an external hardware token. This could be a US
 ### Possession: Devices
 
 One of the simplest ways to confirm someone possesses something is to send them a temporary message, such as a 6-digit code. Then, if they actually have the object and want to validate, they can enter a temporary 6-digit number.
+
+### Inherence: Previous interaction
+
+Cybersecurity professionals use human rules ("policies") and computer rules ("permissions") to create "protection rings" around computer information or technology, which creates a type of "perimeter security". The x86 protection rings, for example:
+
+- Ring 0 - core operating system files
+- Ring 1 - drivers for important hardware
+- Ring 2 - drivers for not-as-important hardware
+- Ring 3 - applications
+
+One of the more recent trends has been to employ "zero-trust" networks, which assumes that every actor is by default untrustworthy before trusting them.
+
+- While this is the safest approach compared to perimeter security, it is also *very* burdensome to everyone who uses it, since they'll need to re-authenticate every single time.
 
 ### Inherence: Biometrics
 

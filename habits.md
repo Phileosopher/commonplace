@@ -67,7 +67,7 @@ Humans are the only creatures on this planet that can stop mid-habit and questio
 
 Whenever the pleasure of a reward lasts for more than 8 seconds, it's hitting *far* more than mere animal stimuli. At that point, it affects our [souls](humanity.md).
 
-APPLICATION: To change our habits, we must control our methods, since we can only control our triggers in a [cult](culture-cults.md) and have no control over the [results](results.md) directly.
+APPLICATION: To change our habits, we must control our methods, since we can only control our triggers in a [cult](people-culture-cults.md) and have no control over the [results](results.md) directly.
 
 The pleasurable reward for habits [diminishes](results.md) as we do it more frequently, and is a huge component of [diminishing return](money-economics.md).
 

@@ -82,3 +82,28 @@ All things great and small rise, have their glory, then fall.
 
 - Babylon is shown as a growing empire, through Daniel's life, and its prophesied end.
 - Jonah and Nahum show the rise and fall of Nineveh.
+
+## Meta-patterns
+
+There are many, *many* chiastic patterns throughout the Bible.
+
+- A chiasm presents a series of ideas, then repeats them in reverse order (e.g., the Sabbath was made/for man/not man/for the Sabbath).
+- Here are a few:
+  - Genesis 6-9
+  - Joshua 1:5-9
+  - Ecclesiastes 11:3-12:2
+  - Isaiah 1:21-26
+  - Joel 3:17-21
+  - Amos 5:4-6a
+  - Luke 1:6-25
+  - Hebrews 12:1-2
+
+Further, many chiasms nest inside other chiasms.
+
+Sometimes, there are dual chiastic parallels.
+
+- In other words, there are chiastic patterns that run the exact same across multiple domains.
+- Here are a few:
+  - Genesis 19:4-8 with Judges 19:22-24
+
+[More chiasms](https://bible.wiki/wiki/List_of_chiasms)

@@ -71,6 +71,14 @@ When most of the group's members can no longer see [love](people-love.md) or [vi
 
 ## Conformity
 
+With the exception of a [bad system], new members to any group all share several common characteristics:
+
+1. They must learn the [language or terminology](language.md) of that group, and the members will [see them](people-image.md) as an outsider until they do.
+2. They must prove themselves with either some sort of direct [skill](power-types.md) that benefits the group or a willingness to [learn](education.md) from members.
+3. Aggregately, they will have come from a diverse range of other groups and will bring their [culture of origin](people-culture.md) into the group.
+4. They [desire](purpose.md) to assimilate into that group, often as part of their [identity](identity.md).
+5. In some form, they're reinforcing the group's central [culture](people-culture.md)
+
 We tend to conform our lifestyles to match the group's to the degree we [identify](people-identity.md) with that group and [like](people-friends-why.md) the other members we're around:
 
 1. We find [meaning](meaning.md) and [purpose](purpose.md) in that conformity because it reflects how we see the group's [identity](people-identity.md).
@@ -99,6 +107,15 @@ Unfortunately, we can overwork our [image](people-image-why.md) beyond what's [h
 
 In most groups, there is an [obsessive](addiction.md) minority of that group who has decided to over-[identify](people-identity.md) with it, and have adapted behaviors that cause tremendous [conflicts](people-conflicts-why.md) with others. While they *aren't* the majority of the group, they [represent](people-image-why.md) that group's [values](values.md) to the [outside](people-image-why.md), proportional to the leadership's public response to them.
 
+In groups, the role of citizenship/membership carries a unique type of [identity](people-identity.md) to it.
+
+- The idea evokes some type of [beneficial status](power.md), but comes with certain [responsibilities](meaning.md).
+- For people to agree to this role, they are [consenting](people-contracts.md) to the responsibilities associated with the position.
+- Over time, however, the leadership will lower the requirements for that role to gain more [power](power.md) through additional entrants, and the entire group will become [a bad system](mgmt-badsystems.md).
+- The speed of this decomposition is proportional to how small its [middle class](people-classes.md) is, since the upper class is concerned with [raw power](power.md) and the underclass is concerned with survival and the middle class wants things to stay the way they've been.
+
+APPLICATION: A stable society, and stable groups in general, come from a very large middle class.
+
 ## Climbing the ladder
 
 In a [group](groups-member.md), a person's influence is a [social trend](people-trends.md):
@@ -114,13 +131,15 @@ In groups pertaining to aptitude or performance, a person's ability to [influenc
 
 As we gain [influence](influence.md), our group-related tasks become more complicated. Instead of our performance showing through aptitude and attention to small details, we're [measured](people-image-why.md) by our [communication](people-conversation.md) ability to empower *others'* aptitude and attention to small details.
 
-APPLICATION: [Unloving](people-love.md) groups are all power games. A [cult leader](culture-cults.md) focuses power upwards, and self-help seminars focus power on each individual, but it's all the same mechanism of rearranging power from its natural state.
+APPLICATION: [Unloving](people-love.md) groups are all power games. A [cult leader](people-culture-cults.md) focuses power upwards, and self-help seminars focus power on each individual, but it's all the same mechanism of rearranging power from its natural state.
 
 The group's size and collective [influence](influence.md) represent the ceiling of how much [power](power.md) a person can [use](purpose.md). A low-ranking member, however, must spend *much* more work and more time [influencing](influence.md) until they have the [power](power.md) to make far-reaching [decisions](mind-decisions.md).
 
 APPLICATION: The larger a group grows, the more extreme [personalities](people-personality.md) it'll acquire, and those extreme personalities become the [representation](people-image-why.md) of that group to everyone else. For that reason, by the time a group becomes [large](groups-large.md), it's already become different from it was when it was small.
 
 At absolutely any point, an influencer can [violate a cultural standard](morality-taboo.md) and incur [shame](people-image-why.md), which will *quickly* make them lose [favor](people-image-why.md) with the rest of the group. The only exception to this is in a [defective social system](mgmt-badsystems.md).
+
+The only significant change to a group, however, comes through *another* group exerting its [influence](power-influence.md) over that group. This can be a peer group (e.g., two similarly-sized corporations) or a more powerful one. Smaller groups can only control larger groups when they have a specific [form of power](power-types.md) that is greater than the larger group.
 
 ## Leaving the group
 

@@ -92,7 +92,7 @@ Any expansion of a location from a stop sign will create a "stroad".
 
 - It will have been a street, where people once carried out a lifestyle.
 - However, the traffic expansion will make the former street into a type of road, where people move quickly to get from one point to another.
-- The stroad diminishes property values and reduces the quality of life, further magnifying any [class distinctions](classes.md) that would normally come from urbanization.
+- The stroad diminishes property values and reduces the quality of life, further magnifying any [class distinctions](people-classes.md) that would normally come from urbanization.
 
 The simplest solution is to introduce a traffic light.
 

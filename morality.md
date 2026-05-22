@@ -9,7 +9,14 @@ However, the definition of "good" is vague. There are 6 very different dictionar
 
 It is safe to say that no human being can be called universally good. When we say someone is "good", we usually mean they are *generally* good.
 
-Morality comes from "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md). When implemented with more clear [logic](logic.md), mores becomes [laws](people-rules.md).
+The basis for morality isn't very precise without [religious guidance](religion.md), but we can definitely deduce some truths on it:
+
+1. We are flawed, so morality must come from somewhere central.
+2. Morality can't be fully relative, since we can all agree that some things are [evil](morality-evil.md).
+3. Morality can't simply be a [social contract](people-contracts.md), since that contract must be originating from somewhere else that isn't humanity.
+4. While moral things maximize [happiness](mind-feelings-happiness.md), we don't have a clear way to measure happiness.
+5. Morality can't strictly be principle-based as an end to itself, since all good principles are based on how we interpret consequences in the first place.
+6. While we can definitely say morality exists, it may not be knowable through any form of [philosophy](philosophy.md), [logic](logic.md), or reasoning.
 
 ## Context
 
@@ -145,3 +152,7 @@ Humility is critical for the [good life](people-goodlife.md) and a [healthy soci
 - True, complete humility requires complete [self-awareness](mind-awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.
 
 APPLICATION: We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](mind-imagination.md) that we're moral, but it doesn't do anything for our inner wellness.
+
+Finally, morality creates "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md).
+
+- When implemented with more clear [logic](logic.md), mores becomes [laws](people-rules.md).

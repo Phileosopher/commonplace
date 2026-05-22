@@ -42,6 +42,7 @@ Word choice: replacement
 - Frequently call things by what they aren't until it's [habituated](habits.md) into everyone's memory.
 - Change a verb or conjunction to make something a [lie](people-lying.md) (e.g., "walked *in* the room" vs "walked *near* the room").
 - Swapping out a word in a familiar saying.
+- Using verbs that imply someone's character (e.g., when someone "alleges" or "claims" something versus "states" or "says").
 
 Word choice: additions
 
@@ -86,8 +87,8 @@ Comparing [values](values.md)
 Comparing [feelings](mind-feelings.md)
 
 - Use social proof with [anecdotes](stories-why.md) of others' experiences.
-- Signal [wealth or social status](classes.md) to others with a behavior or expensive trinket/clothing.
-- Counter-signal as a high-status person with a [lower-class](classes.md) behavior or trinket/clothing to evoke relative poverty or sincerity.
+- Signal [wealth or social status](people-classes.md) to others with a behavior or expensive trinket/clothing.
+- Counter-signal as a high-status person with a [lower-class](people-classes.md) behavior or trinket/clothing to evoke relative poverty or sincerity.
 - Use a loosely related metaphor or comparative story to explain the [results](results.md) of something.
 - Attach two events as if they were connected, but only connect through a shared [feeling](mind-feelings.md).
 - Offering something that's awful to then offer something that appears to be a compromise ([door-in-the-face technique](https://en.wikipedia.org/wiki/Door-in-the-face_technique)).
@@ -101,6 +102,13 @@ Comparing with [the unknown](unknown.md)
 
 - Allude to something as particularly exclusive, rare, unique, special, or unheard of.
 - Give an implication that there are very few of something left to force a belief in [scarcity](mind-decisions.md), especially regarding [trends](people-trends.md).
+
+One of the easiest deceptions involves our use of time. We can see a minority of the instances of something and will [draw the conclusion](logic.md) that the rest of that time was [mathematically](math.md) the same:
+
+- How often an employee is working versus what they're doing when the boss is absent.
+- How late or early someone arrives to an event.
+- What someone usually wears, compared to that first image of seeing them.
+- How someone typically [says](language.md) things, versus what they said in response to the observer.
 
 ## [Conversation](people-conversation.md)
 

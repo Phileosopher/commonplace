@@ -20,7 +20,7 @@ The Third Great Awakening came between the late 1850s and late 1920s, and had a 
 
 The **Church of the Nazarene** arose as a set of mergers of various Holiness Movement churches, starting in 1907, though they slowed down on the mergers around the end of the late-2000's. Broadly, this was one of the first churches that pioneered the Ecumenical Movement (where churches try to come together and partner even though they're from different [cultures](people-culture.md)).
 
-In 1954, China's new government established the **Three-Self Patriotic Movement**, which taught a form of Christianity that was aligned with the interests of the Chinese Communist Party. It was disbanded during their Cultural Revolution from 1966 to 1976, then brought back in 1979 with even more [government oversight](politics-systems.md). It veers *very* close, if not outright, into [cult territory](culture-cults.md).
+In 1954, China's new government established the **Three-Self Patriotic Movement**, which taught a form of Christianity that was aligned with the interests of the Chinese Communist Party. It was disbanded during their Cultural Revolution from 1966 to 1976, then brought back in 1979 with even more [government oversight](politics-systems.md). It veers *very* close, if not outright, into [cult territory](people-culture-cults.md).
 
 The Fourth Great Awakening happened in the late 1960s through the early 1970s [following World War II](https://gainedin.site/here-2/). During this time, many members of "mainline" Protestant churches left and went to the most conservative ones (e.g., Baptists, Lutherans), and is where most of the denominations of the Third Great Awakening culturally froze.
 

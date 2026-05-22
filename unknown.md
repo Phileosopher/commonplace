@@ -123,7 +123,7 @@ Present ("what is")
 - Often poorer [health management](body-health.md) and [substance abuse](addiction.md)
 - [Understanding](understanding.md) might not deter actions
 - Seeks more sensation and novelty, less [emotionally stable](mind-feelings.md) and more [risk-taking](entrepreneur-why.md), more likely to [lie](people-lying.md)
-- Tend to be [poor](classes.md) or [uneducated](education.md)
+- Tend to be [poor](people-classes.md) or [uneducated](education.md)
 - Seeks instant gratification, lower grades in [school](education.md)
 - Typically [fun](fun.md) to be around
 

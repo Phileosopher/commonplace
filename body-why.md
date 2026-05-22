@@ -20,6 +20,8 @@ Most aspects of living well require a healthy body:
 - The health of our body determines our ability to [think creatively](mind-creativity.md), [sleep](sleep.md), [have fun](fun.md), and [generally succeed](success-1_why.md).
 - Besides improving our [memory](mind-memory.md) from the extra blood flow, our brain actually *rebuilds itself* from exercise!
 
+Our physique is a public expression of our private decisions, and we [present ourselves better](people-image.md) when we maintain our body.
+
 Weight management is absurdly easy to understand, but challenging to do:
 
 - Our bodies work through [metabolic processes](body-metabolism.md) that generally run automatically without our intervention.

@@ -236,7 +236,7 @@ APPLICATION: If someone calls something "new", look for what it's similar to acr
 Sometimes, a trend-resistant [organization](groups-large.md) (e.g., [education](education.md) [industry](jobs-specialization.md)) will take give old trends from the past undue [praise](people-image-why.md) by virtue of their age. Often, they'll make a tedious mess of something originally intended for fun. Other times, history simply fades the [story](stories-storytellers.md):
 
 - Most clothing fashions of any artistic depiction are only the ceremonial wear, and people wore more mundane work clothes most of the time: Rome's senate didn't always wear togas, guards didn't always wear full gear, Reformation-era settlers didn't always wear buckled hats.
-- Hygiene in the Middle Ages was a well-honored value. However, it's [funnier](humor.md) to see the [peasantry](classes.md) clothed in more mud than clothing, so the [trope](stories-why.md) maintains itself.
+- Hygiene in the Middle Ages was a well-honored value. However, it's [funnier](humor.md) to see the [peasantry](people-classes.md) clothed in more mud than clothing, so the [trope](stories-why.md) maintains itself.
 - Ancient Greek and Roman art was vibrant and colorful. However, the paint wore off the marble, meaning the popular image was that white marble was the standard.
 - William Shakespeare's works are dry and dull for us to read. In his time, they were full of pop culture references, slang, base [humor](humor.md), and silly [stories](stories-why.md).
 - Poetry was once a song and dance, more like our modern-day rock concerts. Somewhere in between, [educators](education.md) removed the performance aspect and translating [languages](language.md) removed the rest of any flow it would have had.

@@ -1,12 +1,7 @@
 
 # What regret and shame is
 
-Shame is the internalization of regret or guilt.
-
-- Guilt is the [feeling](mind-feelings.md) of having done something [immoral](morality-justice.md).
-- Regret is [not forgiving](hardship-forgiveness.md) ourselves over past decisions.
-- Both are a [desire](purpose.md) and [feeling](mind-feelings.md) to have done things in the past differently.
-- We tend to fail at moving on from guilt and regret when we [relive trauma](hardship-ptsd.md).
+Regret is [not forgiving](hardship-forgiveness.md) ourselves over past decisions.
 
 The only [use](results.md) for regret is when we have [not learned](understanding.md) from the [decision](mind-decisions.md) we had made.
 
@@ -18,16 +13,28 @@ No matter what, people make decisions they think are [reasonable](logic.md) at t
 
 ## Regret becomes shame
 
+We tend to fail at moving on from guilt and regret when we [relive trauma](hardship-ptsd.md).
+
+Shame is the internalization or personalization of regret, guilt, or rejection.
+
+- Beyond regret, guilt is the [feeling](mind-feelings.md) of having done something [immoral](morality-justice.md).
+- Rejection is the actual behavior, which can come from many reasons.
+
+Both regret and shame are a [desire](purpose.md) and [feeling](mind-feelings.md) to have done things in the past differently.
+
+- Shame moves from the realm of behavior ("I [decided](mind-decisions.md) wrongly") to [identity](people-identity.md) ("[I am](humanity.md) wrong").
+- Shame is a broad belief that we are defective, inadequate, or flawed.
+
 Over time, regret converts into shame:
 
-- Shame is the belief that we are defective, inadequate, or flawed.
-- Shame moves from the realm of behavior ("I did wrongly") to [identity](people-identity.md) ("I am wrong").
 - We'll presume (often when we're highly susceptible as children) that we can "fix" ourselves to feel less shame.
 
 ## Living in regret and shame
 
 Shame is painful, and stops the ability to self-reflect.
 
+- Unlike regret, which implies the capacity for [personal change](people-changes.md), shame is founded on a belief that oneself is an immovable object.
+- It makes us feel like an outcast, unclean, and naked.
 - At least some of the things we declare as "broken" are core parts of our [personality](people-personality.md).
 - *Any* [self-development](success-1_why.md) will be halted by shame, since the mind will interpret it as self-protection.
 
@@ -38,13 +45,13 @@ Shame frequently comes through [conflicts](people-conflicts-why.md) about a [tab
 If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll often find [groups that reinforce it](groups-member.md).
 
 - As time persists, we may be trained to be controlled by the [bullies](power.md) of that group.
-- Instead of learning to [cope with it](mind-decisions.md) as it arises, we'll try to [control others' lives](power-influence.md).
+- Instead of learning to [cope with it](mind-decisions.md) as it arises, we'll try to [control others' lives](power-influence.md), which will create a perpetuating cycle.
 
 ## Shame indicators
 
 Many elements of shame express consistently in the same form.
 
-- Unfortunately, most of those indicators are [socially acceptable](people-rules-list.md), which creates a legitimate [battle between individual preference and conformity](https://gainedin.site/protector-real/)
+- Unfortunately, many of those indicators are [normative](people-culture.md) and [socially acceptable](people-rules-list.md), which creates a legitimate [battle between individual preference and conformity](https://gainedin.site/protector-real/)
 
 Frequently apologizing:
 
@@ -93,6 +100,27 @@ Looking to manage others' feelings:
 
 - They're looking to resolve others' feelings because they don't want to consider their own.
 - Often, they don't want to be seen as a problem, so they're seeking others' validation instead.
+
+Further, shame is the basis for *many* other dysfunctions:
+
+- [Addiction](addiction.md)
+- [Anger](mind-feelings-anger.md)
+- Eating disorders (e.g., anorexia, overeating)
+- Withdrawal due to [fear](mind-feelings-fear.md)
+- Impulsive behavior to find [meaning](meaning.md) (e.g., exhibitionism, cutting)
+- Generalized [fear](mind-feelings-fear.md) of being publicly humiliated
+- Physical violence (e.g., suicide, homicide)
+- Disbelief about being worthy of [love](people-love.md)
+- [Unforgiveness](hardship-forgiveness.md) of self
+
+## Cultural shame
+
+The degree of shame in a [culture](people-culture.md) heavily defines its structure.
+
+- At the farthest end, an honor/shame mindset idealizes living honorably, and dishonorable behavior is considered cause for [full rejection](morality-taboo.md).
+  - Eastern cultures tend to embody this mindset (e.g., Chinese, Japanese).
+- A common alternative is to adopt a guilt/innocence mindset, where actions themselves are specifically shamed, but someone can avoid negative repercussions through living innocent of the alleged wrongdoing.
+  - While this is generally the approach in Western culture, many domains still embody honor/shame in practice (e.g., [incarceration](hardship-incarceration.md), [divorce](hardship-family-divorce.md), some aspects of [leftism](politics-leftism.md)).
 
 ## Shifting out of shame
 

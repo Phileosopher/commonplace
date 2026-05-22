@@ -51,7 +51,7 @@ Cultural Christianity - Christians are responsible to instill a holy culture in 
   - In this life, we're destined to battle hardship, which includes [not being able to fully trust those around us](hardship-persecution-church.md).
 - A variation of this is Christian nationalism, which indicates a person's Christian background should reflect on their [political views](politics-conservativeliberal.md).
   - While our political views can be shaped by our spirituality, [sound economic theory](money-economics.md) and [governance principles](lawsaxioms-legal.md) will *not* have relevance once [Jesus returns](theology-end.md).
-  - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war-why.md), or our [political activism](culture-cults.md).
+  - To live for the Kingdom of Heaven, we must learn to love others sacrificially, which has very little to do with [how we choose to vote](politics-systems.md), any attempt at a [political revolution](people-conflicts-war-why.md), or our [political activism](people-culture-cults.md).
 
 Apostolic Succession - The 12 apostles have future apostles to run the Church in an unbroken lineage.
 

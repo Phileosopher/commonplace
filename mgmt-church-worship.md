@@ -46,7 +46,7 @@ Conformity to Christ is conforming to what the Holy Spirit dictates.
 
 Unfortunately, the [culture](people-culture.md) surrounding a Church will heavily define how people interpret Scripture.
 
-- In the USA currently, [leftward thinking](politics-leftism.md) drives church leadership, while the congregation represents the approximate [political views](politics-conservativeliberal.md) of American society. This reflects the general leftism of the [capital and governing class](classes.md)
+- In the USA currently, [leftward thinking](politics-leftism.md) drives church leadership, while the congregation represents the approximate [political views](politics-conservativeliberal.md) of American society. This reflects the general leftism of the [capital and governing class](people-classes.md)
 
 If you pull *anything* from existing denominations, you'll also often draw their added criticism because it was inspired from them.
 
@@ -172,7 +172,7 @@ Deductively, every church will have 3 different classifications of "believer" ([
 2. People doing good things, but with selfish intent in *everything* they do, who will still enter God's kingdom.
 3. People who publicly look good, and have done good things, but don't know Jesus personally, and will not enter His kingdom.
 
-A church starts engaging in [cult-like behavior](culture-cults.md) when it starts mandating members attend something to achieve some form of status.
+A church starts engaging in [cult-like behavior](people-culture-cults.md) when it starts mandating members attend something to achieve some form of status.
 
 - In a culturally diverse geographical region, the vast range of lifestyles a person can have will mean they *can't* attend all the events even if they wanted to.
 - Church leaders who survive on donations often underestimate how much working a full-time job can consume most of a week.

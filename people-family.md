@@ -115,7 +115,7 @@ A people group made of one set of genetics will have a certain [cultural](people
 
 ## Classes
 
-Unless they have *amazing* parents, a child raised by a [powerful](power.md) family is at an unusual disadvantage. By having their power from birth (as opposed to [building it](creations.md)), the child has no legitimate [aptitude](results.md) with what they [wield](purpose.md) and can only learn to grow from that position onward. If their family name ever loses power (which they often can't control), they will likely never recover without help if they move down a [social class](classes.md).
+Unless they have *amazing* parents, a child raised by a [powerful](power.md) family is at an unusual disadvantage. By having their power from birth (as opposed to [building it](creations.md)), the child has no legitimate [aptitude](results.md) with what they [wield](purpose.md) and can only learn to grow from that position onward. If their family name ever loses power (which they often can't control), they will likely never recover without help if they move down a [social class](people-classes.md).
 
 On the other hand, a child who came from a low-ranking family has an unspoken advantage within their domain. If their parents taught them well, they'll be able to weather more hardship from having grown up without much privilege. While it's more difficult than it sounds, if they can [hide their shoddy background](people-image-why.md), they will often be a class above *any* of their peers.
 

@@ -8,7 +8,7 @@ NOTE: While an extensive list of *all* the forms of power is impossible, I've co
 - [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](mind-imagination.md).
 - Wisdom - [general](philosophy.md) [understanding](understanding.md) of [reality](reality.md).
 - Expertise - having a [specialized](jobs-specialization.md) [understanding](understanding.md) of things, *especially* of how to wield all the other forms of power.
-- Aptitude - ability to physically [do things](results.md).
+- Aptitude/Talent - ability to physically [do things](results.md).
 - Experience - possessing memory of places and events.
 
 Natural
@@ -22,8 +22,8 @@ Natural
 Social (also known as "politics")
 
 - Status - general [opinions](people-image-why.md) from others.
-- Coercive - can [punish](people-rules.md) people, driven by others' [fears](mind-feelings-fear.md).
-- Reward - can [reward](results.md) people, driven by others' [loves](people-love.md).
+- Coercive - can [punish](people-rules-methods.md) people, driven by others' [fears](mind-feelings-fear.md).
+- Reward - can [reward](results.md) people, driven by others' [loves](people-love.md), and often involves [money](money-1_why.md).
 - Likability/[Influence](power-influence.md) - how much people will [enjoy](purpose.md) or [trust](mind-trust.md) being with them.
 - Formal - [honor](people-image-why.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](people-culture.md).
 - Fame - [familiarity](people-image-why.md) with a name.
@@ -38,7 +38,7 @@ Contextual
 - Powerlessness/[Victimhood](hardship-ptsd.md) - it's impossible to be blamed for something we couldn't [control](results.md).
 - Absence - by not having, we have the future means to gain something, which may increase another power in the process of gaining.
 - Blackmail/Extortion - by giving something, you can get something in return later.
-- Shame/guilt - using someone's present or prior feelings of [shame or guilt](mind-feelings-shame.md) about hurting someone else's [feelings](mind-feelings.md) or breaking a [rule](people-rules.md).
+- Shame/guilt - using someone's present or prior feelings of [shame or guilt](mind-feelings-shame.md) about hurting someone else's [feelings](mind-feelings.md) or breaking a [social rule](people-rules.md).
 
 ## Social Modifiers
 

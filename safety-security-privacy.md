@@ -3,6 +3,8 @@
 
 Plainly, privacy is the obscuring of [information](information.md) that would otherwise be accessible by others.
 
+- In particular, the most important information is personally identifiable information (PII).
+
 The trouble with privacy is that it can come from multiple motivations:
 
 1. A desire to [protect something](safety.md) that ought to be protected (e.g., not disclosing a password).

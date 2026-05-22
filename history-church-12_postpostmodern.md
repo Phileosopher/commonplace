@@ -3,7 +3,7 @@
 
 The **World Assemblies of God Fellowship** arose in 1989 as a cooperative of over 170 Pentecostal denominations, though it had existed on a much smaller scale since 1914. It served to give more connection and collaboration across the groups, given their [cultural differences](people-culture.md) and shared [theology](theology.md).
 
-The **New Apostolic Movement** spun off the Charismatic movements and was coined in 1996, which indicate that there are new Apostles that God appoints as an authority to run the Church. From one angle, their values could be considered a [cult](culture-cults.md).
+The **New Apostolic Movement** spun off the Charismatic movements and was coined in 1996, which indicate that there are new Apostles that God appoints as an authority to run the Church. From one angle, their values could be considered a [cult](people-culture-cults.md).
 
 The Neo-charismatic Movement started in the early 1980s with groups like the Vineyard Movement that deviated from Calvary Chapel, and vastly expanded the scope of Charismatic spirituality.
 

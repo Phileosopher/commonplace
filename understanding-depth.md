@@ -37,6 +37,7 @@ D. Familiarity
 
 - We understand the necessary [values](values.md) of that thing well enough that we can [separate it](logic.md) into its components and understand which ones matter most for [various purposes](purpose.md).
 - Skills are interchangeable adequacy: we've broken it apart and can work on our weakest points.
+- This is the foundation for the "steel man" approach, which involves being able to fully explain to our opponent in a [conflict](people-conflicts.md) exactly what they think and why.
 
 APPLICATION: There are far too many [unknown](unknown.md) things with elements we can't know to reliably reach the end of understanding anything. For that reason, knowledge is only worth gaining if we can direct ourselves to a tangible [purpose](purpose.md).
 

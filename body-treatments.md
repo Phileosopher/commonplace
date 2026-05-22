@@ -17,7 +17,7 @@ Prevention is *always* better than treatment.
 
 ## Prioritize preventative and noninvasive treatments
 
-Aim for [specific treatments for your situation](body-health-treatments-specific.md).
+Aim for [specific treatments for your situation](body-treatments-major.md).
 
 Many over-the-counter painkillers are *very* effective at suppressing pain:
 
@@ -32,7 +32,7 @@ Affordable snake oil will work for your health when you believe it will.
 
 Essential oils applied to the navel will directly affect stem cells, and will have a holistic effect across your whole body.
 
-Also, some [minor issues](body-firstaid-minor.md) can be treated without any incident.
+Also, some [minor issues](body-treatments-minor.md) can be treated without any incident.
 
 ## Don't neglect checkups
 
@@ -82,6 +82,53 @@ Not all vaccines are the same.
 3. Starting with COVID-19, some vaccines are mRNA gene therapy.
    - They use an advanced technology that swaps out the genetic code in your body's cells.
    - This is, as of the early 2020s, highly experimental, and could potentially cause cancer in the long term.
+
+There are some historical [trends](people-trends.md) that should give some degree of skepticism about pharmaceutical [marketing](marketing.md).
+
+- 1760s: mercury was a common treatment for conditions like syphilis.
+  - It was known to be toxic at the time, but was advanced anyway.
+- 1770s: tobacco smoke enemas were thought to stimulate respiration and warmth in drowning victims.
+  - Nicotine is not only harmful in large quantities, but also a vasoconstrictor (tightens blood vessels), meaning it performed the opposite effect.
+- 1780s: electrical therapy became a popular treatment.
+- 1790s: laxatives were commonly used for many prescriptions.
+- 1800s: hypnosis was used to remove patient symptoms.
+  - While this has a psychological effect, it doesn't address underlying causes of pain.
+- 1800s: leeches were popular for purifying blood.
+  - While they're great for stopping blood clots and still used today, they don't "purify" blood.
+- 1810s: surgery incorporated getting the patient drunk beforehand.
+  - This was before antiseptic so it wasn't a bad idea, but alcohol is a blood thinner and therefore increases the risk of mortality.
+- 1830s: arsenic was prescribed to cure asthma, reduced libido, and skin problems.
+  - Arsenic is, put simply, a poison.
+- 1840s: spas and hydropathic centers became popular treatments.
+  - While the heat from the experience will increase blood flow and cause purging through sweating, it's no better than [a good exercise regimen](body-exercise.md).
+- 1850s: Mrs. Winslow's Soothing Syrup was an over-the-counter baby colic treatment.
+  - It included a lethal dose of morphine and high-proof alcohol.
+- 1880s: cocaine was a reliable anesthetic and was part of many soft drinks and medicines (e.g., Coca-Cola).
+  - Cocaine is also a highly addictive drug.
+- 1890s: radiation was considered a healthy therapy for cancer and skin disease.
+  - Ironically, radiation actually *causes* cancer.
+- 1900s: diamorphone (brand name Heroin) was an over-the-counter drug by Bayer.
+  - Heroin is a highly addictive drug.
+- 1920s: malaria was used to treat advanced stages of syphilis by inducing a fever that would kill the bacteria ("pyrotherapy").
+  - Syphilis usually isn't fatal, but malaria often can be.
+- 1920s: beyond luminescent paint, radium was regarded as a healthy additive to cosmetics, soap, razor blades, and beverages.
+  - Radium's radiation causes cancer.
+- 1930s: brain surgeons used a type of ice pick called an orbitoclast by inserting it through the eye socket.
+  - The treatment diminished mental issues, but also often caused paralysis and death.
+- 1930s: for several decades, doctors were paid to say that cigarettes didn't cause smokers to cough as much as dust, germs, or a lack of menthol in them.
+  - Smoking has been directly correlated with respiratory issues.
+- 1950s: the hallucinogenic LSD was prescribed for psychiatric use.
+- 1950s: antidepressants were prescribed for psychiatric use.
+  - There is now evidence that the research overstates their actual effectiveness, and that many of them have [addictive](addiction.md) properties (e.g., SSRI).
+- 1980s: botulinum toxin (botox) became a cosmetic treatment.
+  - Botulinum is a neurotoxin, and is the deadliest known natural substance ever recorded.
+- 1980s: vaccines were given zero liability (i.e., nobody can sue against them).
+  - This came to a head in 2020 by mislabeling mRNA gene therapy as a vaccine.
+
+As a general rule, aim for boring technology.
+
+- If it has been around for at least 3-4 decades, there's enough [scientific evidence](science.md) to prove its likely effectiveness.
+- However, if it has been around for over a century, there's rarely a profit incentive to use science and you'll have to consult folklore.
 
 If you need medical equipment, look into what the private payment price is (rather than billing your insurance).
 

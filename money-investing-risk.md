@@ -230,7 +230,7 @@ Observe the markets' large-scale [trends](people-trends.md):
 - History *very* frequently [remixes from the past](people-trends.md), so learn to detect [patterns](symbols.md) that happened decades ago.
 - Ignore the minute gyrations of the market, which is harder than it sounds.
   - We tend to get caught up in the emotional rush of a [well-marketed](marketing.md) product.
-  - Investors' subcultures can often closely reflect the [fanatical originators of cults](culture-cults.md).
+  - Investors' subcultures can often closely reflect the [fanatical originators of cults](people-culture-cults.md).
 - Generally, it's a good idea to sell when there's hype and buy when there's panic.
 
 The average investor has a specific approximate psychological profile:

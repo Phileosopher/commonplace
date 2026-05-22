@@ -24,7 +24,7 @@ Cultures will frequently share similar addictions, so most people end up believi
 
 APPLICATION: Most people are addicts, especially as they gain [power](power.md) to [do what they want](purpose.md). We are often [afraid](mind-feelings-fear.md) to [confront](people-boundaries-why.md) them, sometimes because it's [culturally](people-culture.md) accepted, but must stay aware of their substances when dealing with them.
 
-If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](culture-cults.md).
+If someone has an addiction that's also counter-cultural, they're likely to be labeled as part of a [cult](people-culture-cults.md).
 
 ## Transitioning
 

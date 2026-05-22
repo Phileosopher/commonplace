@@ -99,7 +99,7 @@ When interstellar travel is involved and the story doesn't have something like l
 5. Space luxury liner
    - Sleek design that borrows from modern luxury autos
    - e.g., The Fifth Element, Avenue 5
-   - A more focused story of wealthy people on a futuristic, gigantic pleasure vessel, potential story elements about [class struggle](classes.md) with the limited number of poor people on the ship
+   - A more focused story of wealthy people on a futuristic, gigantic pleasure vessel, potential story elements about [class struggle](people-classes.md) with the limited number of poor people on the ship
 6. Gigantic saucer
    - A very large saucer, often within the Earth's atmosphere
    - e.g., War of the Worlds, Independence Day

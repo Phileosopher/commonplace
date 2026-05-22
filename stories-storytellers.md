@@ -161,7 +161,7 @@ APPLICATION: Most of the tales and creative works of the distant past that have 
 
 Often, old information drifts back into public awareness, but with less context about the original [culture](people-culture.md). It can be a lack of information, but other times revisionists will adapt the story to fit the [fashions](people-trends.md) of the present time:
 
-- The American story of Thanksgiving was originally an anti-[leftist](politics-leftism.md) message, *not* simply an act of generosity on the Native American's part.
+- The [American story of Thanksgiving](holidays-thanksgiving.md) was originally an anti-[leftist](politics-leftism.md) message, *not* simply an act of generosity on the Native American's part.
 - Christmas traditions are borrowed from *dozens* of sources across the last few thousand years, and most of the traditions' origins are *not* Christian.
 - People have *not* believed the Earth was flat since Ancient Greece, with the notable exception of a [political](politics-conservativeliberal.md) push during the Protestant Reformation, so Christopher Columbus didn't prove it to anyone.
 - Across most written history, the average lifespan of 30 included infant mortality, so everyone who lived past their 5th birthday typically lived until about 65.
@@ -170,9 +170,13 @@ Often, those misconceptions become popular culture upon *other* [media](creation
 
 - Greek statues were brightly colored, but the paint chipped off.
 - The dinosaurs may have had feathers or fur.
-- Elaborate clothing like feathered hats, buckled shoes, decorative uniforms, long dresses, and bright ornaments were only for special occasions. Beyond [royalty](classes.md), everyone typically wore standard clothes.
+- Elaborate clothing like feathered hats, buckled shoes, decorative uniforms, long dresses, and bright ornaments were only for special occasions. Beyond [royalty](people-classes.md), everyone typically wore standard clothes.
 
-However, we enjoy the spectacle and tend to like what we [feel](mind-feelings.md) more than [reality](reality.md), so the [myths](stories-myths.md) will always propagate.
+However, we enjoy the spectacle and tend to like what we [feel](mind-feelings.md) more than [reality](reality.md), so the [myths](stories-myths.md) will always propagate. When the myth adds enough secondary information later, it becomes an amalgamation of all its previous iterations (a "palimpsest"):
+
+- The vampire mythology is vastly different than the same myths from 400 years ago.
+- Sherlock Holmes is now unrecognizable relative to his 1887 version.
+- While Jesus Christ was a first-century Jew, stories about him have adapted into culturally relevant variations across almost every race and ethnicity in the world.
 
 Often, we'll venerate an old story (e.g., John D. Rockefeller) and condemn a currently developing one (e.g., Donald J. Trump).
 

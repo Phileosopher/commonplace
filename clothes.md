@@ -12,7 +12,7 @@ Since we have many synthetic and affordable textiles to choose from, we no longe
 - Our [age demographic](maturity.md), to the degree we can appear to be a certain age
 - Our social affiliations, such as place of employment
 - [Idols](addiction-substances.md) and [religious](religion.md) [symbols](symbols.md) we associate with
-- [Social class](classes.md) and ethnicity
+- [Social class](people-classes.md) and ethnicity
 
 To that end, most of the effort regarding following clothing [fashions](people-trends.md) centers around [image](people-image-why.md) management.
 
@@ -60,7 +60,7 @@ A. White Tie is the finest clothing possible:
 - Men should have a full dress outfit with a bow tie, a tailcoat, and a waistcoat.
   - Always have a pocket square with a different color than the tie.
 - Women should wear long, elegant evening gowns with a matching set of gloves.
-- Even among [the elite](classes.md), a $650 outfit ($350 suit, $100 watch, $150 other accessories) is all anyone would ever conceivably need.
+- Even among [the elite](people-classes.md), a $650 outfit ($350 suit, $100 watch, $150 other accessories) is all anyone would ever conceivably need.
 
 B. Black Tie is most common for weddings, funerals, and other important occasions:
 

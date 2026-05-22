@@ -6,7 +6,7 @@ Unless we're merely trying to survive, we're always [purposing](purpose.md) ours
 These values we identify with are an [image](people-image-why.md) we've [created](creations.md) through [self-observation](mind-awareness.md) of our daily lives:
 
 - Pastimes, consumer goods, [trends](people-trends.md), and heroes.
-- [Physical things](reality.md) like [sexuality](people-gender.md), psychological diagnosis, race, or [social class](classes.md).
+- [Physical things](reality.md) like [sexuality](people-gender.md), psychological diagnosis, race, or [social class](people-classes.md).
 - [Friends](people-friends-why.md) and [social groups](groups-member.md).
 - Long-term [purposes](purpose.md) like [career](jobs-1_why.md), [family](people-family.md), and [legacy](legacy.md).
 - Raw [principles and concepts](values.md), [virtues](morality-virtues.md), or [understanding](understanding.md) of specific things.

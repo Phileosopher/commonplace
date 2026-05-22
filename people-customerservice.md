@@ -6,7 +6,7 @@ Customer service is the art of making people feel more important than they actua
 In general, the skill comes through behaving like a nice person, even when other people are *not* behaving nicely.
 
 - Working with customers is a generally unpleasant experience, proportionally to how little you know how to navigate interactions with complete strangers.
-- There's a way to be polite with customers while also setting boundaries, but it requires using a [higher-context](culture.md) approach than they do.
+- There's a way to be polite with customers while also setting boundaries, but it requires using a [higher-context](people-culture-dimensions.md) approach than they do.
 
 The art of working with the public involves many small details of [tact](people-boundaries.md), but adds behaviors that make the consumer feel important.
 
@@ -99,6 +99,11 @@ Sometimes, you can help them "reset" their phone password without doing anything
 1. Take their phone and pretend you're opening up some special password reset program.
 2. Hand them their phone back and ask them to enter their "new password".
 3. About 70% of the time, they will enter their current password and gain access.
+
+Be careful when offering to replace things.
+
+- Many times an upgrade can come with more issues, and the customer may resent that they no longer have "the one that worked".
+- Sometimes, people grow unusually attached to specific objects, even if they're inferior or will be expensive to repair.
 
 ## C. Frustrated customers
 

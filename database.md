@@ -1,7 +1,7 @@
 
 # What databases are
 
-[Data](data.md) itself is important, but a huge part of that importance comes from the connections it has to other things. The number "40" doesn't mean much by itself, but it has a *huge* implication if it's sitting next to another datum that says "age", "friends" or "number of people killed in falling pillow incident".
+[Data](data.md) itself is important, but a huge part of that importance comes from the connections it has with other things. The number "40" doesn't mean much by itself, but it has a *huge* implication if it's sitting next to another datum that says "age", "friends" or "number of people killed in falling pillow incident".
 
 There are many ways to store data, but the longest-standing method for most situations is to use relational databases.
 
@@ -41,6 +41,21 @@ The primary key has a few consistent attributes:
 3. It's never "null".
 
 The easiest way to have a primary key is to make it a "surrogate key", where it has no real-world equivalent. That way, when weird statistical exceptions to the rule happen and people change their Social Security or name, you don't have to worry about rebuilding an entire record.
+
+## Data integrity
+
+"Data integrity" is the maintenance and assurance of reliable and consistent data, and it can be divided into four categories:
+
+1. Entity integrity: there are no duplicate entries.
+2. Domain integrity: only "correct" values are in the database.
+3. Referential integrity: records used by other records can't be deleted.
+4. User-Defined integrity: other database-specific things that make extra rules as the user needs them.
+
+To that end, there are several major steps to great database design.
+
+1. Data mining: getting good data, which closely dovetails with [good statistical gathering methods](math-stat.md).
+2. Data cleaning: getting rid of bad, duplicate, incomplete, and glitched-out entries.
+3. Data analysis: using [logic](logic-cs.md) on the database to find relevant information.
 
 ## SQL
 

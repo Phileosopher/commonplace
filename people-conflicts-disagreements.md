@@ -10,18 +10,42 @@ When you disagree with someone, mind a few realities:
 - Every human, yourself included, believes certain things without proof.
   - Be [open to criticism](success-5_persevering.md), even when it's uncomfortable.
 
-Most innocent conflicts have a few particular, silly causes:
-
-- Different definitions of the same word or phrase.
-- Solutions to issues that someone else sees as backward or incomplete.
-- Expectations about others' behavior which assume malicious intent.
-
 Whenever possible, try to avoid all conflicts in the evening.
 
 - People are usually more exhausted later in the day and likely to [become angry](mind-feelings-anger.md) than in the morning.
 - Unless it's truly urgent, postpone the conflict to the first thing the next day.
 
-## Focusing on the issue
+## Consider the facts and their motivation
+
+As far as facts are concerned, there are only several possible states for how they're disagreeing with you:
+
+1. They understand what you're saying, and clearly disagree with it (the one we usually [feel](mind-feelings.md) is the case).
+2. They *don't* understand what you're saying, but are objecting to what they understand.
+3. They may or may not understand what you're saying, but are trying to deflect your attention from something else.
+
+The best way to continue is to confirm their motivations:
+
+1. If they understand and disagree, you can have a pleasant discussion where both of you will at least walk away more [educated](education.md) for it.
+2. If they don't understand and disagree, you will both need to exercise more patience to find common ground, which isn't always possible.
+3. If they're deflecting, you must be careful how to approach and what to say next.
+
+The best way to confirm is to entirely reframe what you're trying to say (often by stating everything in a different order).
+
+- If they understand for sure, they'll repeat their disagreement in some way.
+  - If you're [actively listening](language-speaking-listening.md), you can often understand more precisely where their disagreement sits.
+- If they still don't understand, your new approach will confuse them compared to the first time.
+  - Depending on their patience level, this will either make them curious or frustrated.
+  - However, being earnest can often open a dialogue in its own right.
+- If they're using a smokescreen, they'll shift their entire set of information to match your new perspective.
+  - At this point, you should exit the conflict.
+
+Most innocent conflicts have a few particular, silly causes:
+
+- Different definitions of the same word or phrase.
+- Solutions to issues that someone else sees as backward or incomplete.
+- Expectations about others' behavior which assume malicious intent (often due to [past trauma](hardship-ptsd.md)).
+
+## Focus on the issue
 
 When you disagree, have a goal in mind:
 
@@ -172,7 +196,7 @@ If you legitimately hurt others, apologize sincerely and quickly:
 Stay mindful of yelling or interruptions.
 
 - People who yell feel out of control.
-- With the exception of [narcissistic behavior](mind-neurodivergence-clusterb-narcissist-conflicts.md), interruptions are a sign that someone is more concerned with what they have to say than what others may say.
+- With the exception of [narcissistic behavior](people-conflicts-narcissist.md), interruptions are a sign that someone is more concerned with what they have to say than what others may say.
 
 Designate time to share perspective.
 

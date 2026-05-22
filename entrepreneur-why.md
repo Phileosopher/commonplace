@@ -96,7 +96,7 @@ If it's not obvious, this is a *massive* vote of [confidence](mind-trust.md) in 
 
 APPLICATION: Pay close attention to the heretics, since the [new trends](people-trends.md) will come from them if enough people share their [belief](understanding-certainty.md).
 
-The [social class](classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](money-economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](mind-decisions.md)* to give them [power](power.md) to keep them going.
+The [social class](people-classes.md) of the risk-taker will often lean upward, but this isn't strictly the case. Their trajectory all depends on what they're trying to accomplish. However, [money](money-economics.md) and [influence](influence.md) will follow them because others who believe in them will *[choose](mind-decisions.md)* to give them [power](power.md) to keep them going.
 
 This success won't be without opposition. Every new trend means the death of an old one, and the [groups losing power](mgmt-badsystems.md) will try to shut it down to maintain their way of life. For this reason, most of the individuals who make the risks against established convention will *not* succeed.
 

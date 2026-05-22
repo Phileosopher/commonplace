@@ -76,25 +76,13 @@ When choosing a [mate](people-gender.md) or [leader](groups-small.md), personali
 - While [hiring people](mgmt-1_why.md) should be based at least somewhat on conscientiousness, this is *especially* true for managers who [direct other people](groups-small.md). However, the appearance of most leaders demonstrates through assertiveness, which often creates [awful social systems](mgmt-badsystems.md) if the appointing leaders aren't careful.
 - For [creative](mind-creativity.md) solutions (e.g., [writers](stories-why.md), [entertainers](stories-storytellers.md), [artists](mind-creativity.md)), look for low-conscientiousness people, since they don't obsess about following existing [constraints](people-rules.md).
 
-Our [self-esteem](people-identity.md) is essentially our extraversion (as a positive emotional state) minus our neuroticism (as a negative emotional state).
-
-Most things we call "personality disorders" are simply the combination of [neurodivergent](mind-neurodivergence.md) personality characteristics that create adverse [consequences](results.md) for society:
-
-- Cluster A personality disorders (paranoid personality disorder, schizoid/schizotypal personality disorder) are *extremely* high neuroticism without enough conscientiousness to constantly add new [perceptions](people-image-why.md) about [reality](reality.md).
-- [Cluster B](mind-neurodivergence-clusterb.md) personality disorders (antisocial personality disorder, borderline personality disorder, histrionic personality disorder, narcissistic personality disorder) are the extremes of low conscientiousness and high extraversion mixed with early childhood [PTSD](hardship-ptsd.md).
-- Cluster C personality disorders break into several domains:
-  - Avoidant personality disorder is high agreeableness and low extraversion.
-  - Dependent personality disorder is high agreeableness and low conscientiousness.
-  - Obsessive-compulsive disorder is low agreeableness and high conscientiousness.
-- While it's more neurological than personality, the [autism spectrum](mind-neurodivergence-autism.md) is the extremes of extraversion low enough to not detect others' body language, high conscientiousness, and high neuroticism.
-
-Beyond that, these 5 base components create synergies with a wide variety of mixtures.
+These 5 base components create synergies with a wide variety of mixtures.
 
 - Statistically, most people have low conscientiousness and high openness to experience. This makes them very flexible to [adapt](people-changes.md) to changing situations, but comes at the risk of adapting wrongly to a [bad leader](mgmt-badsystems.md).
 - The [high-risk](entrepreneur-why.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
 - [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, their lower openness to experience would mean they'd spend less time pondering and would run society instead as [managers](mgmt-1_why.md).
 - Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-specialization.md) crime can be much broader on the range of conscientiousness.
-- [Religious](religion.md) leaders (except for [cults](culture-cults.md)) are high conscientiousness and high neuroticism, with [popular](people-trends.md) religions often having high openness to experience and at least moderate extraversion as well.
+- [Religious](religion.md) leaders (except for [cults](people-culture-cults.md)) are high conscientiousness and high neuroticism, with [popular](people-trends.md) religions often having high openness to experience and at least moderate extraversion as well.
 - Most [large groups](groups-large.md) tailored for [productivity](purpose.md) (e.g., corporations) are literally *run* by high-agreeableness, high-conscientiousness people (especially [women](people-gender.md)).
 - People who foster plenty of nostalgia tend to foster [tradition and convention](habits.md), which requires high agreeableness, high conscientiousness, and low openness to experience.
 - [Funny people](humor.md) are typically high-openness (to see things in a [creative new way](mind-creativity.md)), moderate-agreeableness (to make jokes that involve pain), and low-enough conscientiousness to find comfort in breaking [rules](people-rules.md).
@@ -105,7 +93,21 @@ Beyond that, these 5 base components create synergies with a wide variety of mix
   4. Independent-minded and passive - The Daydreamer
 - The two forces of high extraversion and high agreeableness can combine to form a false sense of self (described in the next section).
 
-Finally, the "energy" of each of the spectra becomes *severe* conflicts when someone happens to have extremes on two or more dimensions.
+Our [self-esteem](people-identity.md) is essentially our extraversion (as a positive emotional state) minus our neuroticism (as a negative emotional state).
+
+Most things we call "[personality disorders](mind-neurodivergence.md)" are simply the combination of [neurodivergent](mind-neurodivergence.md) personality characteristics that create adverse [consequences](results.md) for society.
+
+- [Cluster A](mind-neurodivergence-clustera.md) is *extremely* high neuroticism (to constantly add new [perceptions](people-image-why.md) about [reality](reality.md)) without the sufficient conscientousness to tether themselves to [reality](reality.md).
+- [Cluster B](mind-neurodivergence-clusterb.md) is adding extremely low conscientiousness and high extraversion with early childhood [PTSD](hardship-ptsd.md).
+- [Cluster C](mind-neurodivergence-clusterc.md) is a combination of possible extremes:
+  - Avoidant personality disorder is high agreeableness and low extraversion.
+  - Dependent personality disorder is high agreeableness and low conscientiousness.
+  - Obsessive-compulsive disorder is low agreeableness and high conscientiousness.
+- [Psychopathy](mind-neurodivergence-psychopath.md) is the combination of low-enough agreeableness and low-enough conscientiousness to be antisocial, mixed with low neuroticism to self-regulate emotions.
+
+While [autism](mind-neurodivergence-autism.md) is more neurological than personality, the spectrum often demonstrates extremes of extraversion low enough to not detect others' body language, high conscientiousness, and high neuroticism.
+
+Finally, the "energy" of each of the spectra creates *severe* conflicts (both [inward](people-conflicts-inner.md) and [outwardly](people-conflicts-bad.md)) when someone happens to have extremes on two or more dimensions.
 
 ## Image/shadow
 

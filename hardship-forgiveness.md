@@ -21,7 +21,8 @@ Many times, we come to believe that other people must be held accountable before
 
 If we don't forgive, we will generate [bitterness](mind-feelings-anger.md) over time.
 
-- This will bring more [trauma](hardship-ptsd.md) into our minds.
+- This will bring more [trauma](hardship-ptsd.md) into our minds as we relive the experience.
+- Over time, we will eventually [identify](people-identity.md) with everything we haven't released.
 - We are each individually responsible to forgive the others who hurt us.
 
 Beyond others, we must also forgive ourselves.

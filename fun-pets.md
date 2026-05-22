@@ -53,6 +53,14 @@ If you want to, you can befriend crows:
    - When they have fledglings, they will be less responsive, but will revert to their familiar pattern once the fledgling has grown at least a few weeks.
 5. If you want to, talk with them. Tou can also try saying something specific every time you're about to bring food out.
 
+Make sure your pet is complementary to your other pets.
+
+- Some animals are biologically wired to hate each other:
+  - Predator animals like cats and prey animals like mice and birds have an instinctual eat/run behavior about the other.
+  - Territorial animals like dogs have trouble with other dogs and people they feel are taking over their territory.
+  - Cats are highly territorial, so they won't like other cats coming into your home later.
+- Sometimes, multiple pets will work together to create a *very* large mess.
+
 ## Make what you can for your pet
 
 Most pet supplies are complete luxuries:
@@ -184,9 +192,3 @@ If your pet has an encounter with a skunk:
 
 - Rub their fur with a solution of half water and half vinegar, rinse with warm water and repeat as needed.
 - If you don't have vinegar, give a tomato juice bath.
-
-Some animals are biologically wired to hate each other:
-
-- Predator animals like cats and prey animals like mice and birds have an instinctual eat/run behavior about the other.
-- Territorial animals like dogs have trouble with other dogs and people they feel are taking over their territory.
-- Cats are highly territorial, so they won't like other cats coming into your home later.

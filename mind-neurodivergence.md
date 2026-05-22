@@ -58,7 +58,7 @@ The cure for it:
 
 ## Autism spectrum disorder (ASD)
 
-I have enough information on this that [it merits a separate section](mind-neurodivergence-autism.md).
+Autism is unique enough that [it merits a separate section](mind-neurodivergence-autism.md).
 
 ## Bipolar personality disorder (BPD)
 
@@ -79,13 +79,21 @@ How to behave with them:
 
 The cure for it:
 
-- There really is no cure for it, except behavior modification for inappropriate actions.
+- There really is no cure for it except behavior modification for inappropriate actions.
+
+## Cluster A/B/C personality disorders
+
+The personality clusters are aligned with how we can specifically fail at working with information:
+
+- [Cluster A](mind-neurodivergence-clustera.md) personality disorders are a processing problem (i.e., bad incoming information).
+- [Cluster B](mind-neurodivergence-clusterb.md) personality disorders have a [memory retention](mind-memory.md) problem (i.e., bad memory management).
+- [Cluster C](mind-neurodivergence-clusterc.md) personality disorders breaks into several domains based on an issue with [imagining things](mind-imagination.md) (i.e., managing expectations).
 
 ## Intelligence
 
 A capacity to think far faster than most people.
 
-- May be localized to a specialization, or may be near-universal.
+- May be localized to a [specialization](jobs-specialization.md), or may be near-universal.
 - Can be measured reliably with IQ tests, but high IQ doesn't guarantee wisdom or effectiveness with that intelligence.
 
 Indicators:
@@ -106,63 +114,6 @@ The cure for it:
 - Socialization is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
 - Without socialization, they will often descend into other forms of neurodivergence.
 
-## Cluster A
-
-A viewpoint that is overcrowded with [imagination](mind-imagination.md), to the point of hallucinations and [identity](people-identity.md) issues.
-
-- Effectively a problem with perceptions about the present.
-- This can include schizophrenia, delusions, and split personality disorder.
-- Many modes of thought and perspective assembled, but not synthesized into the demarcation between "reality" and "imagination".
-- Often a sign of extreme intelligence, especially visual processing aptitude.
-- At a farther extreme, their ability to self-identify is impeded, and they may have a mistaken sense of self relative to reality.
-
-Indicators:
-
-- Clear signs of intelligence, often with the ability to make remarkable associations via [symbolic connection](symbols.md).
-- The obsession with symbolic connections impedes their [sense of humor](humor.md), especially puns.
-
-How to behave with them:
-
-- Respect their views, since they often have endless [conflicts in their mind](people-conflicts-inner.md) without you adding your input.
-- Don't make any sudden movements or impulsive actions around them, especially if they have ever experienced [trauma](hardship-ptsd.md) in their past.
-
-The cure for it:
-
-- They are often absurdly capable of drawing connections, so their occupation should require more [creativity](mind-creativity.md) than most people may be able to perform.
-- The only risks are contained in *what* forms of thought and perspective they maintain, so the best solution is to build a relationship with them to allow yourself to clarify to them when they are in error.
-
-## Cluster B
-
-This one is ubiquitous and complex enough that [it merits a separate section](mind-neurodivergence-clusterb.md).
-
-- It is effectively a problem with processing memories of the past.
-
-## Cluster C
-
-A viewpoint that has problems with [anxiety](mind-bias-fear.md) and compulsive behaviors.
-
-- Effectively a problem with over-obsessing about the future.
-
-There are three major classifications:
-
-- Avoidant Personality Disorder (AVPD): heavily avoids circumstances.
-- Dependent Personality Disorder (DPD): heavily over-relies on others.
-- Obsessive-Compulsive Personality Disorder (OCPD): preoccupied with order, rules, and schedules.
-
-Indicators:
-
-- Constantly obsessed about the future, even when it doesn't make sense.
-- Obsessive actions taken in preparation for the future that don't materially change the circumstances.
-
-How to behave with them:
-
-- Be patient with their fears, since they believe those fears are legitimate.
-- When trying to talk them down from their anxieties, ask questions that undermine (not simply state) the reliability of their concerns.
-
-The cure for it:
-
-- Mostly, they need [awareness](mind-awareness.md) of further information that diminishes their paranoia (e.g., [God is in control](god-will.md)).
-
 ## Oppositional Defiance Disorder (ODD)
 
 An antagonism against any authority figures.
@@ -181,11 +132,15 @@ The cure for it:
 - It typically expresses in adolescence and represents as a [phase of maturation](maturity.md).
 - However, if the anti-establishment mindset is still present into their 30s, it likely represents their [personality](people-personality.md).
 
-## Synaesthesia and altered perceptual states
+## Psychopathy spectrum
+
+The domain of psychopathy has enough information that [it merits its own section](mind-neurodivergence-psychopath.md).
+
+## Synesthesia and altered perceptual states
 
 An altered state of incoming perception, where information doesn't align with typical associations.
 
-- It can be through crossed perceptual states ("synaesthesia") or the absence of perceptual states from an early enough developmental age that frames the world in a different context (e.g., blindness from birth)
+- It can be through crossed perceptual states ("synesthesia") or the absence of perceptual states from an early enough developmental age that frames the world in a different context (e.g., blindness from birth)
 
 Indicators:
 
@@ -199,7 +154,7 @@ The cure for it:
 
 - Beyond assisting them to exist in society (e.g., ADA accommodations), there is no need to do anything.
 
-## Tourettes syndrome
+## Tourette's syndrome
 
 A mental state of deriving tremendous [meaning](meaning.md) out of information that has not been connected with [language](language.md).
 

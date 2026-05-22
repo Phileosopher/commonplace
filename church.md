@@ -36,7 +36,7 @@ Without [persecution](hardship-persecution-church.md), church members usually fo
 - High neuroticism - there is tremendous value in miracles and [spiritual signs](spiritual-gifts.md)
 - Low neuroticism - there is tremendous value in [quiet, daily devotion](spiritual-exercises.md) to God
 
-Some churches become [cults](culture-cults.md) when they take away from Jesus' simple statements, His deity, or invalidate His sacrifice.
+Some churches become [cults](people-culture-cults.md) when they take away from Jesus' simple statements, His deity, or invalidate His sacrifice.
 
 - If you're a new Christian, openly voice concerns if you don't [understand](understanding.md) that church's interpretation of the Bible.
 
@@ -49,6 +49,13 @@ Church locations can be *anywhere*.
 Some believers insist on meeting in specific buildings or avoiding a routine venue.
 
 - While their meetings are good, they sin if they hate other parts of the church ([Acts 9:1-5](https://biblehub.com/acts/9.htm)).
+
+While you certainly can share in many corporate [spiritual practices](spiritual-exercises.md) in church, it really isn't about *you*.
+
+- The church is built up by everyone's love for each other.
+  - When you see a dysfunctional church culture, it's because they're missing sufficient love in Christ.
+- Very likely, if you see problems in the church you'll likely need to [start leading other believers](spiritual-discipleship.md) if God permits you.
+  - This starts, however, by being an example among others.
 
 ## Wisely choose your leaders
 
@@ -94,7 +101,7 @@ God won't work much with leaders who are unrepentant about their [sins](theology
 A healthy church should see a wide variety of believers, relative to the geographic region:
 
 - There should be both older and younger people [serving](church-serve.md) in various capacities.
-- The leadership should represent the range of that region's [socioeconomic classes](classes.md).
+- The leadership should represent the range of that region's [socioeconomic classes](people-classes.md).
 - Given Jesus' tendency to have compassion on the social outcasts, there should be a *higher* ratio of unusual people than a typical social group in the area.
 - If they're sufficiently [sharing the Gospel](spiritual-exercises-evangelism.md), they will have new believers, meaning there should be a wide spread of new versus veteran Christians.
 

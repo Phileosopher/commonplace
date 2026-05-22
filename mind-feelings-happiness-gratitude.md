@@ -108,7 +108,7 @@ While this is categorized, we can also often jump between strata.
 9. Have consistent access to a hot shower
 10. Have bathroom facilities in your home
 11. Have a full bathroom in your home
-12. Have access to [advanced healthcare](body-health-treatments.md)
+12. Have access to [advanced healthcare](body-treatments.md)
 13. Have luxury hygiene supplies (e.g., perfume, bath bombs)
 14. Have a full bathroom in your home that nobody else uses
 

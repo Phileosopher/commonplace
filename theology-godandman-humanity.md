@@ -1,22 +1,24 @@
 
 # Who people are according to the Bible
 
-[Man](humanity.md) is unique among all creatures, and God [created](creations.md) us in His image.
+Animals and plants, in a sense, possess a type of soul, but not like people ([Genesis 1:30](https://biblehub.com/genesis/1-30.htm)).
 
-- [Genesis 1:26-27](https://biblehub.com/genesis/1.htm)
-- We were *designed* to have a continuing relationship with God.
+[Man](humanity.md) is unique among all creatures, and God [created](creations.md) us in His image ([Genesis 1:26-27](https://biblehub.com/genesis/1.htm)).
 
-Animals and plants, in a sense, also possess a type of soul, but not like people.
+- The nature of being an image of God defines why our essence can only ever become an [identity](people-identity.md) associated with [values](values.md) or association with a being, and never a value or full imitation of a being itself.
+- It also means that, as reflections of God, our value is contained strictly in how much we conform to [God's qualities](theology-god.md).
 
-- [Genesis 1:30](https://biblehub.com/genesis/1-30.htm)
+We were *designed* to have a continuing relationship with God that compares to being adopted as children ([Ephesians 1:5](https://biblehub.com/ephesians/1.htm)).
 
 The reflection of His image gives us a type of inherent value, irrespective of what we [think of ourselves and others](people-identity.md).
+
+- God loves us more than anything else in all creation.
+- Since we are made in God's image, we are implicitly worthy of His love.
 
 We are uniquely special compared to *all* other created beings.
 
 - [Genesis 9:6](https://biblehub.com/genesis/9-6.htm)
 - [2 Peter 2:12](https://biblehub.com/2_peter/2-12.htm)
-
 - The Bible *never* indicates people are angels, spirit beings, or a part of [God](theology-god.md).
 
 Every person is a tripartite being with a body, a soul, and a spirit.

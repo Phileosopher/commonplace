@@ -19,7 +19,7 @@ APPLICATION: A culture's [language](mind-awareness.md) and [beliefs](understandi
 
 - Self-referencing words heavily define a nation's [identity](people-identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](mind-imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
 - Europe
-  - "Luxury" to the British translates as "detachment" because [sophistication](classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
+  - "Luxury" to the British translates as "detachment" because [sophistication](people-classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
   - "Money" becomes "unpleasant fact" in France because they see its scarcity as an impediment to their [purposes](purpose.md).
   - "Shopping" is, to the French, "[learning](understanding.md) your culture" because they consider the experience to be [educational](education.md).
   - "Luxury" to the French means "freedom" because it demonstrates the [image](people-image-why.md) of wealth.
@@ -38,7 +38,7 @@ APPLICATION: A culture's [language](mind-awareness.md) and [beliefs](understandi
   - "Seduction" translates to "manipulation" because they're *constantly* experiencing the quiet [influence](power-influence.md) of [marketing](marketing.md) and [bad systems](mgmt-badsystems.md) while also valuing their [freedoms](people-boundaries-why.md).
   - "[Dinner](cooking.md)" translates to "home" because it's where most of their [traditions](habits.md) take place after they [work](results.md), and the [food](cooking.md) is secondary. Naturally, "food" becomes "fuel".
   - "[Work](results.md)" translates to "[who you are](people-identity.md)" because Americans seek immense [meaning](meaning.md) in their [jobs](jobs-1_why.md). "Shopping", then, becomes "reconnecting with life" because it's a naturally social activity compared to work.
-  - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](money-economics.md) and [family-based social status](classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
+  - "Money" becomes "proof", since it's a measurable (and awful) way of keeping track of [wealth](money-economics.md) and [family-based social status](people-classes.md) means very little to Americans. This also means "luxury" becomes "credibility".
   - "[Quality](values-quality.md)" means "it [works](results.md)" because they're obsessed about [functionality](purpose.md) and convenience.
   - "Perfection" means "death" because American society *does* value [performance](results.md), but also values the [unknown](unknown.md).
 

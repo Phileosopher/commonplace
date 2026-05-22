@@ -44,7 +44,7 @@ These roles mean your success as a parent comes from [your success in everything
 However, a *child's* success goes far beyond simply their parents:
 
 - As early as 5 and 6 years old, children take cues and input from the world around them as much as their parents.
-- While you will have at least some control over all of it, the demographics and [social class](classes.md) of where your children grow up have an impact on who influences them.
+- While you will have at least some control over all of it, the demographics and [social class](people-classes.md) of where your children grow up have an impact on who influences them.
 - To give your child the best, scientifically proven demographic experience, try [homesteading](home-homestead.md).
 
 Children will rarely thank their parents for their self-improvement until they've become adults themselves:

@@ -42,7 +42,7 @@ The only thing even *close* to being similar is the invention of the [automotive
 
 ### The Over-Information Age
 
-In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-cs.md) called "the internet". Once the [trend](people-trends.md) caught on, every member of society on all tiers of [social status](classes.md) could access everything as soon as they could get to a computer.
+In the mid-1990s, some geeks built a vast rat's nest of [networked computers](networks-cs.md) called "the internet". Once the [trend](people-trends.md) caught on, every member of society on all tiers of [social status](people-classes.md) could access everything as soon as they could get to a computer.
 
 By the 2010s, nearly anyone with a portable computer (e.g., a cell phone) and a reliable internet connection had *instant* access to *far* more information than kings had a century ago.
 
