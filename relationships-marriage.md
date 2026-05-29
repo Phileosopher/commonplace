@@ -17,7 +17,7 @@ In healthy marriages, both spouses make tremendous sacrifices for each other:
 - Respect them and their [decisions](mind-decisions.md), even when they're not around.
 - Their advice and input must be important to you somehow, or the relationship needs to change.
 
-All relationships build on trust:
+All relationships build on [trust](mind-trust.md):
 
 - Every relationship issue can be fixed with open [communication](language-speaking.md) and faithful behavior.
   - As your relationship develops, you'll *always* find more [conflicts and disagreements](people-conflicts.md) you must sort out together.
@@ -349,6 +349,28 @@ Even in a loveless marriage, staying married has some benefits:
   - Bond over shared experiences like the [children](parenting-children.md) or television.
   - Keep conversation topics lightweight and neutral.
 - For your own [happiness](mind-feelings-happiness.md), however, you *must* move on from a loveless or abusive marriage.
+
+## Modern risks to marriage
+
+The [precedent](legal-safety.md) around marriage has shifted dramatically in the last few centuries.
+
+1. At one time, only men worked and women [took care of children](parenting-children.md).
+2. When a [divorce](hardship-family-divorce.md) happened (which was extremely rare), the women could only maintain their lifestyle with his alimony payments.
+3. Further, parenting was once far more expensive before [modern appliances and superstores](engineering-conveniences.md) or [public primary education](education.md), so he had to pay child support as well.
+4. Then, and only then, the discussion of custody and visitation would arise, with her receiving more custody under things like the [tender years doctrine](lawsaxioms-legal.md).
+
+The [rules](people-rules.md) were framed under a society where women couldn't vote or hold most careers.
+
+Now, however, society has largely changed, but the rules often haven't.
+
+- Women can now pursue nearly any career they want, but often receive preferential treatment in alimony disputes.
+- Modern technology allows either parent to be a sufficient caretaker with the right community supporting them, but mothers are often favored in custody decisions.
+- Visitation is now absurdly easy remotely with various forms of [social media](networks-social.md) and messaging, but courts often don't factor that simplicity into it.
+
+To that end, the [civil agreement](people-contracts.md) aspect of the system means most men should have a prenuptial agreement to protect themselves, at least with respect to custody as well as a limit on alimony.
+
+- While many people give [shame](mind-feelings-shame.md) over this because they don't expect the marriage to fail, the [power](power.md) balance is so heavily stacked against men that it's the only way to make the relationship equal again.
+- Further, it serves to keep men safe, since a woman who refuses to sign a prenuptial agreement may have been planning for an eventual divorce anyway.
 
 ## Marriage is an investment
 

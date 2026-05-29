@@ -59,6 +59,14 @@ Morality must have a basis for its actions. There are some things that *can't* d
 
 As a general concept, we are all born with a conscience that maintains a semblance of morality. Based on our [upbringing](people-family.md), [culturally imposed standards](people-culture.md) will at least partially program our conscience.
 
+We have a bad design flaw in ourselves called "moral balancing".
+
+1. We perform a good action.
+2. At a certain point, we [feel](mind-feelings.md) dissatisfied with the consequences of that action.
+3. Later, we will indulge in a separate and unrelated immoral action because we "earned it".
+
+This can also work in the reverse, where we'll perform an immoral action and then do something good in an unrelated domain later. Either way, it never reconciles the wrong action performed in either context.
+
 In practice, morality can only exist as a reference to [whatever authority formed us](religion.md). In whatever case, we must submit to that authority and are morally [enslaved](people-slavery.md) to that construct:
 
 - If Islam is true, [jihad](people-conflicts-war-why.md) has its time and place.

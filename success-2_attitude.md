@@ -175,6 +175,7 @@ Spend more [money](money-1_why.md) on self-education than on creature comforts.
 
 "Follow your passion" is terrible advice because selfishness is a worthless existence.
 
+- Perseverance must be toward the right things to have any value, and endless "grit" without listening to the world's signals is foolishness.
 - The only good value and [meaning](meaning.md) in our tasks comes throughhow we feel responsible to serve others' interests.
 - A healthy mindset will expand itself beyond ourselves into how we see and treat others.
 
@@ -220,7 +221,8 @@ Avoid conflicting goals (e.g., "spend more time outdoors" and "build my business
 
 Aim for things nobody can take away from you:
 
-- Understanding and skills
+- Broader [understanding](understanding.md) that won't become obsolete
+- General [skills](jobs-specialization.md) that apply to many things
 - Aspects of [your reputation](people-image.md) tied to your competence and character
 
 Avoid secondary gain (things you can get through [lying or embellishing reality](people-lying.md)).
@@ -235,6 +237,8 @@ Avoid secondary gain (things you can get through [lying or embellishing reality]
 Intelligent, hard-working, talented people do have an advantage, but will always lose to people who can use new ideas in a conventional context.
 
 Focus on [attitudes that permit new ideas to grow](mind-creativity-how.md).
+
+- Many people think cynicism is a sign of intelligence, but the ability to [find problems](https://adequate.life/fix/) is not as unique as the ability to [creatively solve them](mind-creativity-how.md).
 
 Seek advice everywhere.
 
@@ -297,6 +301,10 @@ When you imagine the glory of success, you're ignoring ways you can fail.
 
 - We can easily [self-hypnotize](mind-awareness-meditation.md) ourselves to believing we're capable of things we're not.
 - We are also capable of spending so much time fantasizing that we become delusional.
+
+Further, a 5-year or 10-year plan is an arbitrary constraint.
+
+- Your best results will come from pursuing opportunities you couldn't have planned ahead of time to get.
 
 To mentally prepare for something, work to gain wisdom and skill instead.
 

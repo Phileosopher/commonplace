@@ -52,43 +52,6 @@ All followers of Christ are responsible for removing sin from their lives by sub
 
 - Submission is a constant and disciplined reliance on the Holy Spirit, and requires [many habits](spiritual-exercises.md) to maintain.
 
-## Only God's grace will save us
-
-Removing sin doesn't matter for salvation from hell:
-
-- [Romans 3:20-24](https://biblehub.com/romans/3.htm)
-- [Ephesians 2:8-9](https://biblehub.com/ephesians/2.htm)
-- We can never purify ourselves to a place of worthiness, and are under judgment from the moment we've first sinned.
-- In fact, sins run so deep that only God's divine intervention can stop us from committing them.
-
-If you confess your sins and ask for forgiveness, [Jesus will forgive you](https://theologos.site/gospel/)
-
-- [1 John 1:9](https://biblehub.com/1_john/1-9.htm)
-
-- Over time, God purifies Christians as they keep avoiding sin.
-  - [1 John 1:7](https://biblehub.com/1_john/1-7.htm)
-- However, despite our best efforts, we will never entirely remove sins from this life.
-  - [1 John 1:8](https://biblehub.com/1_john/1-8.htm)
-- In fact, as we understand ourselves more, we gain *more* awareness of the evil [habits](habits.md) we've [culturally normalized](people-culture.md)!
-
-To avoid sin, we must draw near to God and stay far away from even thinking of sin.
-
-- [2 Corinthians 5:17](https://biblehub.com/2_corinthians/5-17.htm)
-- Some people try to hover comfortably close to sin without crossing the line (e.g., sexual experimentation, near-drunkenness).
-- While Christ's sacrifice gives us the freedom to sin, it has no use in the new life.
-  - [1 Corinthians 10:23](https://biblehub.com/1_corinthians/10-23.htm)
-- For the sake of your soul, stay away from anyone or anything that can cause you to sin.
-  - [Matthew 5:29-30](https://biblehub.com/matthew/5.htm)
-
-God gave us each a specific amount of grace according to our needs.
-
-- [Ephesians 4:7](https://biblehub.com/ephesians/4-7.htm)
-- God knows what you'll do before you do it, so He's already prepared to forgive you for what you haven't done yet.
-- This grace should make our walk with God bolder and more confident.
-  - [Hebrews 4:16](https://biblehub.com/hebrews/4-16.htm)
-
-God indicates [hundreds of sins in Scripture that sever our relationship with Him](https://stucky.tech/notes/morality-sins-list.md).
-
 ## Some Hebrew laws don't transfer precisely to now
 
 God designed the Law within a historical context to separate the [culture](people-culture.md) of His people for the purpose of holiness.
@@ -117,6 +80,29 @@ God didn't create the laws to needlessly oppress.
 - Each of the laws, when examined for their intent, teaches either how to [live well](people-goodlife.md), [love](people-love.md), or have a relationship with Christ.
   - [Galatians 3:23-24](https://biblehub.com/galatians/3.htm)
 - Some odder laws (like forbidding shellfish) often have [health implications](body-health.md) that existed before [modern technology](engineering-conveniences.md) like [refrigeration](engineering.md).
+
+## Only God's grace will save us
+
+God indicates [hundreds of sins in Scripture that sever our relationship with Him](https://stucky.tech/notes/morality-sins-list.md).
+
+Removing sin won't matter for [salvation from hell](theology-salvation.md) (Romans 3:20-24, Ephesians 2:8-9):
+
+- We deserve eternal death for the scope of sins we have all committed and [normalized](people-culture.md).
+- We can never purify ourselves to a place of worthiness, and are under judgment from the moment we've first sinned.
+- In fact, sins run so deep that only God's divine intervention can stop us from committing them.
+
+If you confess your sins and ask for forgiveness, [Jesus will forgive you](https://theologos.site/gospel/) (1 John 1:9).
+
+- Over time, God purifies Christians as they keep avoiding sin (1 John 1:7).
+- However, despite our best efforts, we will never entirely remove sins from this life (1 John 1:8)
+- In fact, as we understand ourselves more, we gain *more* awareness of the evil [habits](habits.md) we've [culturally normalized](people-culture.md)!
+
+Unfortunately, some [heresies](people-conflicts-christian-4_false.md) severely misrepresent our sins and how we can deal with them.
+
+- Pelagianism asserts that human nature does not have a fallen state and isn't corrupted by original sin.
+- Semipelagianism states that man and God are cooperating to achieve man's salvation.
+- Works Righteousness/Legalism indicates that humanity is saved by what they do, or some combination of what they do combined with faith in Jesus.
+- Manichaeism states that good and evil are both equally powerful in ability or authority, which takes away from Jesus' capacity to fully forgive sins.
 
 ## Every sin centers on an idol
 
@@ -211,12 +197,23 @@ Very often, religious people in the Christian church will use the "all sins are 
 
 ## Purging sins is a lifelong challenge
 
-[New Christians](christian-new.md) are often zealous to remove all their sins, but eventually slow seasons walking with God can create complacency:
+To avoid sin, we must draw near to God and stay far away from even thinking of sin (2 Corinthians 5:17).
+
+- Some people try to hover comfortably close to sin without crossing the line (e.g., sexual experimentation, near-drunkenness).
+- While Christ's sacrifice gives us the freedom to sin, it has no use in the new life (1 Corinthians 10:23).
+- For the sake of your soul, stay away from anyone or anything that can cause you to sin (Matthew 5:29-30).
+
+[New Christians](christian-new.md) are often zealous to remove all their sins, but eventually slow seasons can create complacency:
 
 - Drifting a few degrees from where God wants you
 - Focusing on too many distractions
 - No [hardship](hardship.md) to force spiritual growth
 - Obsessing about being a "super Christian" (which may lead to legalism)
+
+God gave us each a specific amount of grace according to our needs (Ephesians 4:7).
+
+- God knows what you'll do before you do it, so He's already prepared to forgive you for what you haven't done yet.
+- This grace should make our walk with God bolder and more confident (Hebrews 4:16).
 
 Fight complacency as much as possible:
 
@@ -226,12 +223,17 @@ Fight complacency as much as possible:
 - [Consume and study](bible-study.md) His Word frequently.
 - [Associate frequently with other believers](church.md) and repent immediately whenever they address one of your sins.
 
+One particular [heresy](people-conflicts-christian-4_false.md) is that our sin isn't important to purge anymore.
+
+- Antinomianism states that because Jesus rescues Christians from the legal guilt of sin, they're free to sin as they please.
+  - This is patently wrong, and referenced multiple times that we should revisit it (Romans 6:1, Hebrews 6:1-8).
+  - Further, God has plenty more to say against [teachers who teach this doctrine](https://theologos.site/false/)
+  - Christus Victor goes even farther to state that all sins and all [death](hardship-death.md), has been abolished entirely, so there's no judgment for them anymore.
+
 ## Watch for religiousness
 
-Religiousness is also known as "leaven" (yeast) and leads to legalism.
+Religiousness is also known as "leaven" (yeast) and leads to legalism (Luke 12:1, 1 Corinthians 5:6-8).
 
-- [Luke 12:1](https://biblehub.com/luke/12-1.htm)
-- [1 Corinthians 5:6-8](https://biblehub.com/1_corinthians/5.htm)
 - Once it's mixed, yeast and dough can never be separated, and religious thinking inflates the simple truth into dogmatic fluff.
 
 Watch for legalism in yourself and others:
@@ -252,9 +254,8 @@ Legalism builds through stages:
 
 ## In Christ, you will avoid all sin
 
-Jesus commanded us to carry our cross daily.
+Jesus commanded us to carry our cross daily (Matthew 16:24-25).
 
-- [Matthew 16:24-25](https://biblehub.com/matthew/16.htm)
 - The cross was a death penalty, and you must put your flesh to death on a daily, hourly, and per-minute basis.
 - You will face opposition from [the Satan](spiritual-warfare.md), the [world](hardship-persecution-church.md), and your [desires](theology-godandman-humanity.md).
 - Most risks to our souls are completely irrelevant when we follow God's commands.

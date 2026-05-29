@@ -318,7 +318,7 @@ Stay hospitable and open to others with needs, *especially* the [underclass](peo
 Give to groups that need the money the most.
 
 - When disasters happen, churches suffer because everyone donates to the disaster fund.
-- During the summer months, not-for-profit organizations suffer the most.
+- During the summer months, [not-for-profit organizations](mgmt-npo.md) and [parachurch groups](church-parachurch.md) suffer the most.
 
 Do what you can for the people suffering around you.
 

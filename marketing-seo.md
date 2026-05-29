@@ -26,6 +26,14 @@ For internet marketing, there are several standardized billing arrangements:
 - Cost per lead (CPL) charges every time someone expresses an interest in the product (e.g., a mailing list).
 - Cost per acquisition (CPA) charges every time there's a new customer or sale.
 
+The development of [machine learning](computers-ai-ml.md) has radically changed SEO.
+
+- For the most part, prospects and lead generation are now [trending](people-trends.md) toward secondary experiences through machine learning chatbots.
+  - Dominantly, the context for search queries now requires getting to the point more quickly.
+  - Further, your [reputation](people-image.md) among many websites will end up mixing into the search results as well.
+- At the same time, anyone who [decides](mind-decisions-how.md) to actually engage with the product is still going to visit [the website](computers-software-webdev.md).
+- In a sense, the chatbot results give more [power](power.md) to the consumer, and take it away from marketing professionals.
+
 ## Improving hit count
 
 The most common measurement of a website's success is from visits by users (hit count).

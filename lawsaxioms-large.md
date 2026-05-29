@@ -111,8 +111,6 @@ Brooks' Law - Adding more people to a late [creative](mind-creativity.md) projec
 
 Cheops Law - Everything is built late or over budget.
 
-Conway's Law - Any creation made by an organization reflects that organization's structure.
-
 Dilbert Principle - The most ineffective workers are moved to where they can damage things the least: management.
 
 Economies of Scale - Things get cheaper per-item when you make a lot of them.
@@ -196,7 +194,9 @@ Narrative Gravity Law - People are drawn to [stories](stories-why.md) that skew 
 
 Seinfeld is Unfunny - Entertaining stories are less entertaining once they become popular.
 
-Streisand Effect - Hiding or removing information will often backfire and make it *more* public.
+Streisand Effect - Censoring information will often backfire and make it *more* public.
+
+Unintended Consequences Law / Smokey Bear Effect - Well-intended rules without enough foresight will often backfire and [make the problem worse](people-rules-unintended.md).
 
 Wiio's Fifth Law - Mass communication is more focused on [appearances](people-image-why.md) than [reality](reality.md).
 

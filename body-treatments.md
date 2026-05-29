@@ -45,6 +45,10 @@ As soon as you feel a risk to your health or [start aging](hardship-aging.md), a
 - If your family has a history of diabetes, get a fasting blood glucose test yearly after age 40.
 - However, general annual checkups (even when you're healthy) do *not* do much to save lives because it gives people the [bias](mind-bias.md) that they're fine because the doctor had checked already.
 
+Many cancers are easily visible as growths along the skin, but you *need* checkups for most internal cancers.
+
+- Colon cancer and prostate cancer are both highly preventable if you routinely get checkups.
+
 However, always take the doctor's advice as a consultant or sales personnel, *not* as a certain truth.
 
 - If you're not certain, ask a second doctor's opinion without informing them about the first doctor.

@@ -65,7 +65,7 @@ Eventually, the Satan will inspire people to reject Christians:
 From there, Christians will start incurring public [shame](mind-feelings-shame.md):
 
 - They'll start losing their [status and reputation](people-image-why.md) in their [communities](groups-small.md).
-- [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based not-for-profit organizations).
+- [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based [not-for-profit organizations](mgmt-npo.md)).
 - Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-friends.md) will slowly alienate them.
 - Officials will forbid or restrict certain Christian practices like [public evangelism](spiritual-exercises-evangelism.md), [expressing faith](mind-trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
 - The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](rules-methods.md) that inhibit Christians to freely assemble.

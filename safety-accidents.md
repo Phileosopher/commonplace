@@ -73,3 +73,11 @@ If you can't jump out of the way of a car about to hit you, jump upwards.
 8. Avoid ever thrashing, since you might attract sharks.
 
 If your [car](autos.md) is broken down at the side of the road, avoid standing in front of it (in case another vehicle strikes it).
+
+## Getting stuck in a trunk
+
+- If it's present, find the trunk release lever.
+- Look near the door for a trunk release lever.
+- Sometimes, the back seat will fold down.
+- Use the car jack to wedge open the trunk lid.
+- Disconnect the plug and kick out the brake lights, then stick your arm out to try to get someone's attention.

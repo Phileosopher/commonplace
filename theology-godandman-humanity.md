@@ -54,6 +54,12 @@ The *exact* nature of these domains is at least somewhat expressed via Christian
 - The domains of the soul become relatively clear for each person as they develop their [identity in Christ](people-identity.md).
   - In fact, it's entirely possible that each soul was designed differently enough that we can't completely [analyze](logic.md) them to build a reliable general case.
 
+One specific condition that exists is that we aren't reincarnated.
+
+- Scripture makes it perfectly clear that we move to the next life directly after this one.
+- The [heresy](people-conflicts-christian-4_false.md) of Reincarnationism states some humans (which may include Jesus and New Testament figures) are reincarnations of previous people (such as Old Testament figures).
+  - There simply is no evidence of this ever happening.
+
 ## The Body
 
 The body itself has three major functions, though they have been largely corrupted to expand beyond their initial domain:

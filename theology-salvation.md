@@ -11,13 +11,28 @@ God has a two-step approach to salvation:
 2. Jesus, as God, chose to become the moral sacrifice for all our sins ([Romans 5:6-6:13](https://biblehub.com/romans/5.htm)).
 3. When we persevere to the end (meaning [death](hardship-death.md)), we will be saved (Matthew 24:13, Mark 13:13, Luke 21:19, Galatians 6:9, 2 Timothy 2:12, Revelation 2:10).
    - God will certainly assist in this perseverance (Hebrews 10:36)
-   - There is more to this, such as giving us authority (Revelation 2:26) and a permanent relationship with Him, but that's [a different discussion](theology-godandman.md).
+   - There is more to this, such as giving us authority (Revelation 2:26) and a permanent relationship with Him, but [that's a different discussion](theology-godandman.md).
    - Even while the idea of salvation is very straightforward, [the Gospel itself is highly controversial](https://theologos.site/gospel/).
 
 We are also, in response to that, responsible to strive to not sin again, assisted by the Holy Spirit (Romans 6).
 
 - However, even then, God's grace is sufficient to cover all sins when we repent (Romans 8:1, 1 John 1:9).
 - This grace includes the [habitual](https://adequate.life/habits/) sins we will invariably fall into as long as our bodies are still programmed to them.
+
+The essence of this creates quite a few [heresies](people-conflicts-christian-4_false.md) about salvation:
+
+- Universalism: Everyone will go to Heaven.
+  - Many people will certainly reject God, and there is a [hell](theology-heavenhell.md) reserved for them.
+- Dual Covenant Theology: Jews can still receive salvation without believing in Jesus.
+  - There is a *ton* of Scripture that indicates that God does not take their rejection lightly.
+- Inclusivism: Faith is not necessary for salvation, and God's mercy includes non-Christian peoples on the earth.
+  - The beginning of Romans speaks to this specifically, and indicates that we are all bound under some implicit form of the Law by breaking the [covenant of Natural Law](people-contracts.md).
+  - At the same time, understanding [God's nature](theology-god.md) means God is not going to intentionally alienate people from the truth if there is any possibility they would want it.
+- Pluralism: Two or more religions in conflict can be true at the same time.
+  - Besides defying [logic](logic.md), salvation in Christianity is black-and-white.
+- Rauschenbuschism (social gospel, or social justice gospel): The primary purpose of the Gospel is to cure social issues, not to forgive sins and reconcile with God.
+  - The purpose of the Gospel is for the inner transformation of the soul.
+  - One *consequence* of the Gospel is that social issues will go away, but [death](hardship-death.md) makes that far less important than our eternal state.
 
 ## Conflicts regarding salvation
 
@@ -66,6 +81,18 @@ In that historical void, the [predestination](theology-predestination.md) debate
 - This discussion holds a tremendous amount of sway here because it determines how God frames His decisions, and therefore determines how salvation works.
 
 Further than all of this, other debates have raged about [many lesser idiosyncrasies](people-conflicts-christian-1_dumb.md), as well as [Second Work theology](people-conflicts-christian-3_near.md).
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Issues with losing salvation
 

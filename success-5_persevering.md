@@ -37,6 +37,8 @@ The quickest way to learn is to get the quickest feedback possible:
 
 You will need to stay [motivated](purpose.md) and [organized](organization.md) to persevere.
 
+- Most people think it's easy, but that's only because they see others' end result after many troubling failures.
+
 Persistence is another word for faith or resilience:
 
 - Even when you're discouraged, always visualize and imagine your desired results.

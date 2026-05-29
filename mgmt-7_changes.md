@@ -16,7 +16,7 @@ Stay extremely paranoid about *any* dips in your financial situation.
 - If you're aware of it, do *not* try to cut your losses and run, since people will look for someone to blame.
   - Instead, look for someone else to buy out your organization, which may give an opportunity for you to leave management entirely if you want.
 
-Above a specific level (or throughout the growth of a not-for-profit), your role will be subjected to the desires of a board of trustees.
+Above a specific level (or throughout the growth of a [not-for-profit](mgmt-npo.md)), your role will be subjected to the desires of a board of trustees.
 
 - Even if they don't exert their power, this board will have some level of [influence](power-influence.md) over *every* [decision](mind-decisions.md) and [change](people-changes.md) within the organization.
 - If you have control over your board, pick people who match your values, *not* simply [who you're familiar with](people-friends.md).

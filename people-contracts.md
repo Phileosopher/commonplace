@@ -187,7 +187,7 @@ Stay on top of communication.
 Try to give degrees of separation whenever possible.
 
 - Run things through a PO box instead of a physical address.
-- Establish a trust, corporation, not-for-profit organization, or limited liability company for large-scale activities.
+- Establish a trust, corporation, [not-for-profit organization](mgmt-npo.md), or limited liability company for large-scale activities.
 - Use bank safety deposit boxes and storage units instead of storing things on-site.
 
 When an agreement has adverse consequences for termination, watch for people performing strange behavior with it.

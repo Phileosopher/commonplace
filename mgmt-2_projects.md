@@ -30,6 +30,10 @@ Before even *beginning* to dive into projects and [forming teams](mgmt-3_teams.m
 - What rewards will the members receive if they do well at the project?
 - What other projects will likely arise if the project is successful? How about if it fails?
 
+This can represent as a mission statement, but it doesn't have to.
+
+- Often, a mission statement will hold you accountable, but also comes at the risk of creating extra corporate jargon.
+
 Reflect your vision with your lifestyle.
 
 - Your own way of life should reflect on the projects and goals you're aspiring to achieve.

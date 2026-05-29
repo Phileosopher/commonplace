@@ -108,7 +108,7 @@ Describe in detail the demographics of each product's customers.
   - The organization's size
   - Preferences for quality, technology, and price
 - Add any frequently tracked industry-specific demographics as well.
-- If it's a not-for-profit organization, indicate the projected demographics of both the donors *and* recipients.
+- If it's a [not-for-profit organization](mgmt-npo.md), indicate the projected demographics of both the donors *and* recipients.
 
 Provide a detailed explanation of each product or service.
 

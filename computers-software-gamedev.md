@@ -33,6 +33,42 @@ Some independent game developers find ways to cleverly work with ludonarrative a
 
 To advance the game's events, there's an invisible box in the game world called a "trigger volume" that starts an action when the user enters or exits it. For the savvy gamer, it becomes absurdly obvious by how an event happens suddenly, so setting events on a randomly generated delay of at least several seconds can add to the realism.
 
+## Appeal
+
+A game has to be [fun](fun.md), but this "fun" represents three very specific domains:
+
+1. Context (i.e., [story](stories-why.md))
+2. Challenge
+3. Catharsis (i.e., gratification)
+
+All three are necessary, but each dimension can be weaker if another dimension makes up for it.
+
+- A simple arcade-style game usually has barely any story, but has *extremely* well-tuned controls and high-quality visual feedback to constantly [communicate to the player](engineering-design.md).
+- A visual novel isn't challenging at all, but holds together with a high-quality story and gratuitous amounts of [visual art](art-visual.md).
+- Many experimental and independent games are in no way gratifying, but their story's context and the challenge they provide evokes a contradictory experience that can give players [meaning](meaning.md).
+
+[Storytelling](stories-form.md) in games is similar to any other medium, with a few key differences:
+
+1. The stories have to pace themselves at the speed of the game, meaning it's a variable timing that's dependent on player [choice](mind-decisions.md).
+2. There is a higher chance that players won't complete the stories than other media due to time constraints or frustration.
+
+With respect to challenge, players must feel the game is being [fair](morality-justice.md) or they'll give up:
+
+1. The enemies must come in small groups (3-4 usually), and never overwhelming numbers.
+2. Every enemy uses the same attack pattern every time, and they are starkly demarcated from each other for quick visual recognition.
+3. The environment's layout adjusts to add more difficulty, but never add random behaviors from enemies.
+4. The final enemy in each wave is slightly easier than the rest, which leaves players with a softer impression of the game's difficulty.
+
+In other words, a game's challenge has to make the player feel like they're improving at the game as they play it.
+
+Catharsis has, in many ways, become the fallback for many games.
+
+- At its core, the behavior reproduces the same psychology that corresponds to casino interaction (i.e., making [addicts](addiction.md)).
+  - There are severe [ethical](morality.md) problems with casino mechanics, especially when they monetize the approach.
+- Unfortunately, many mainstream games are nothing but raw catharsis, so they can be exciting and stimulating, but generally don't give any [meaning](meaning.md) following the game.
+  - [Stories](stories-why.md) give an implicit meaning by giving the player more guidance on [how they ought to live](people-goodlife.md).
+  - Challenge gives the players meaning through the development of a specific, not-that-useful [skillset](jobs-specialization.md), similar to [sports](fun-sports.md) without the [exercise](body-exercise.md).
+
 ## Industry competition
 
 Designing a good game requires [graphics development](engineering-graphics.md), both in 2D and 3D, as well as tons of [programming](computers-programming.md), but much of it is automated. It once required direct programming for just about everything, meaning it used to be *far* more challenging.

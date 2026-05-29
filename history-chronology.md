@@ -6001,9 +6001,9 @@ This is a chronological history spanning from Adam to now on the presumption tha
 5987/1986
 5988/1987
 5989/1988
-5990/1989: USSR collapses, World Assemblies of God Fellowship founded
+5990/1989: World Assemblies of God Fellowship founded
 5991/1990
-5992/1991: Atomic Age ends
+5992/1991: USSR collapses, Atomic Age ends
 5993/1992: internet becomes public
 5994/1993
 5995/1994

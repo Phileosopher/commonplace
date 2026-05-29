@@ -117,7 +117,7 @@ Gilbert's Law - The person who decides to perform a task is always responsible t
 
 Goal-Gradient Effect - The closer someone is to a goal, the faster they approach it.
 
-Goodhart's Law / Perverse Incentive - When a goal becomes a measurement, that measurement isn't a good goal anymore.
+Goodhart's Law / Perverse Incentive / McNamara Fallacy / Cobra Effect - When a goal becomes a measurement, that measurement isn't a good goal anymore.
 
 Jakob's Law - When people interact with something, they treat it like other things they're familiar with.
 
@@ -232,6 +232,8 @@ Miller's Law - The only way to understand others is to assume they're being trut
 
 Postel's Law / Robustness Principle - Ideal scenarios come from receiving liberally and sending carefully.
 
+Propinquity Law - The chance of two people communicating is directly proportional to how close they are.
+
 Sagan Standard - Extraordinary claims need extraordinary evidence.
 
 Wheaton's Law - Don't be a jerk.
@@ -242,7 +244,7 @@ Zeroeth Law of Thermodynamics - If two systems are synchronized with a third one
 
 Campbell's Law - As a social measurement influences more social decisions, it'll be more corrupted by the social system it's monitoring.
 
-Conway's Law - If a system makes another system, it'll copy how it communicates.
+Conway's Law - Any system made by another system copies its parent system's structure.
 
 Gresham's Law - When things are equal and regulated, undervalued things tend to drive out precisely valued things during circulation.
 

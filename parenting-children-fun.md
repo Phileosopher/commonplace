@@ -44,21 +44,12 @@ Being silly takes practice because you have to violate most of the [social rules
 - You'll look silly to other adults when you interact, climb, and run with children, especially when you're the only one.
 - When frustrated, make a mock threat that turns the situation into play.
 
-Teach valuable lessons through play that would normally be lectures.
-
-- Speak loudly about something being a secret.
-- Make an [organizing](organization.md) game to help them [clean up](home-housekeeping.md).
-- Make pretend games to confront whatever they're afraid of.
-- Pretend to be scared of absolutely everything.
-- Let them physically wrestle out a problem they had earlier that day, with you being the problem.
-- If there's something they're not supposed to do that isn't dangerous, try to get them to *do it* instead.
-
 All children's games are about [connecting](people-why.md) with others and learning valuable skills.
 
 - Many of the "edutainment" [marketing](marketing.md) misses that commonplace games are often just as sufficient.
 - A few examples of educational games:
   - Improves hand-eye coordination: patty cake, chase, tag
-  - Learning to [follow instructions](people-rules.md): the hokey pokey, follow the leader, red light/green light, simon says
+  - Learning to [follow instructions](people-rules.md): the Hokey Pokey, Follow the Leader, Red Light/Green Light, Simon Says
   - Problem-solving skills: hide-and-seek, puzzles
 
 Teach [active listening](language-speaking.md) by assigning speaker/listener roles and having the listener summarize the speaker.
@@ -307,3 +298,18 @@ Sometimes, if you already have [money](money-3_budget.md) invested in the situat
 - Have them agree to endure the next few months, then cancel the activity.
 - Work with them to help sell what you bought.
 - Have them work an agreed amount to pay off what you had to pay.
+
+## Even when they're in trouble, you can still have fun
+
+Often, [humor](humor.md) can lighten the severity of how frustrated you feel when they [break rules](parenting-children-boundaries.md).
+
+Teach valuable lessons through play that would normally be lectures.
+
+- Speak loudly about something being a secret.
+- Make an [organizing](organization.md) game to help them [clean up](home-housekeeping.md).
+- Make pretend games to confront whatever they're afraid of.
+- Pretend to be scared of absolutely everything.
+- Let them physically wrestle out a problem they had earlier that day, with you being the problem.
+- If there's something they're not supposed to do that isn't dangerous, try to get them to *do it* instead.
+
+If they draw on the wall, you could frame it as a modern art piece.

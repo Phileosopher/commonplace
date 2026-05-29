@@ -38,6 +38,17 @@ Each of them has problems as well:
 - Polytheism can only maintain itself if the gods themselves are the custodians of [virtue](morality-virtues.md), which makes their dualistic counterpart inferior, and enough reasoning means there can only be one god.
 - Pantheism makes all human actions meaningless, since nothing is added or removed from the God that is the cosmic energy surrounding and within us.
 
+## Religion's paradoxes
+
+Most of the time, religions provide [logical paradoxes](philosophy-paradoxes.md) when we strictly use [logic](logic.md) alone:
+
+- Zen kōans are simple paradoxes designed to self-contradict (e.g., "the still and running water").
+- Islamic teaching tends to use calls for war at times and calls for peace at others.
+- Christianity's assertions require stepping out of the context of this life (e.g., "he who wishes to gain his life must lose it").
+- [Atheism](https://trendless.tech/scientism/) asserts that we should only focus on what we can scientifically prove, but also that we can scientifically prove there is no god.
+
+The answer to a religion is often in trusting something that necessarily must exist beyond our present [understanding](understanding.md).
+
 ## The social movement of religion
 
 Many times, the culture of a religion outpaces the religion's precepts. Most critics of a religion will point to those cultural idiosyncrasies as if they are core to the religion, but they often aren't.

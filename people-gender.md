@@ -16,6 +16,7 @@ Like everything else we perceive, we tend to observe gender differences as compl
 - Women express far more [emotion](mind-feelings.md) than men (though they have mostly the same emotions), and it comes from [understanding and sensing](understanding.md) more.
 - Men don't value [friendships](people-friends-why.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
 - Women don't persevere with [decisions](mind-decisions.md) as much as men because their nature is to revisit them for verification.
+- In [sexuality](relationships-sex.md), men are typically far more visually stimulated, while women are far more emotionally stimulated.
 
 The differences arise from birth, specifically in whether the wiring for reproduction is built into us.
 

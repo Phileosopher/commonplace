@@ -46,17 +46,86 @@ One of the downsides of the system is that on the individual level the entire pr
 
 ## Agile methodology
 
-The system is designed for when project goals aren't entirely clear:
+The original idea was from [software development](computers-programming.md), where the goals and possible risks aren't always easy to understand.
 
-1. Break the project into subprojects, called "sprints".
+- The system revises every development stage as the situation changes.
+
+There are 12 principles that bind the concept together:
+
+1. Aim for satisfied customers by giving early and continuous results.
+2. Adapt without resistance to whenever any requirements change at any time.
+3. Give frequent results (weeks, not months).
+4. Every day, make sure the workers and customers are cooperating.
+5. Trust individuals who are motivated, and build projects around them.
+6. Prioritize face-to-face [communication](people-conversation.md) whenever possible.
+7. Measure progress by whether the product actually works.
+8. Keep going at a constant pace ("sustainable development").
+9. Constantly draw attention to high-quality work and [good design](engineering-design.md).
+10. Maximize simplicity, which is the amount of work that doesn't need to be done.
+11. Emphasize self-organized teams and expect the best designs, systems, and requirements to come from them.
+12. Routinely find ways and adjust things to make the team more effective.
+
+Broadly, the "agile manifesto" emphasizes something that [feels](mind-feelings.md) very human and a little bit [libertarian](politics-conservativeliberal.md):
+
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
+The system is designed around smaller-scale iterations:
+
+1. Break the project into subprojects, called iterations or "sprints".
 2. At the end of a sprint, everyone reviews the work and makes adjustments for the next sprint.
 3. In difficulties come in the middle of a sprint, make smaller subprojects within that sprint with newer, smaller goals.
 4. Repeat until complete.
 
-The original idea was from [software development](computers-programming.md), where the goals and possible risks aren't always perfectly clear.
+In large organizations that require more centralized planning, agile isn't very useful.
 
-- The system revises every development stage as the situation changes.
-- Other variations of Agile like [Scrum](https://www.scrum.org/) or [Lean](https://www.lean.org/WhatsLean/) add more structure.
+- The issue is that it is focused on people and results more than processes and systems, so it's very difficult to scale.
+- Most of the methodologies are so decentralized that most "agile companies" are actually using hybrids of Agile.
+- Other variations of Agile like [Scrum](https://www.scrum.org/) or [Lean](https://www.lean.org/WhatsLean/) add more structure to Agile.
+
+### Scrum variations
+
+In Scrum, the team is directed by a Product Owner (PO), who decides what to build next.
+
+- They are essentially the manager, but with the implication that they're doing more communicating than directing.
+- The PO is backed by a Scrum Master (SM) who promotes and supports the Scrum system and helps with finding and fixing risks to the project.
+- All of this connects to a multi-function Development Team, with each "developer" having no [special role](jobs-specialization.md) and working autonomously toward the designated goals.
+
+Scrum uses three classes of "artifacts":
+
+- The Product Backlog is the collective and compiled set of known tasks about the product.
+  - For transparency, this [database](database.md) is visible to the stakeholders.
+  - Every item has a description, position, estimated effort required, and approximate value.
+  - Higher-ordered items are more detailed and clearer than lower-ordered ones.
+  - Every item must be attainable within one sprint.
+- The Sprint Backlog is the collection of estimated tasks that can get done in a given sprint.
+- The Increment is the collection of tasks in the Sprint Backlog that actually got done.
+  - The Definition of Done (DoD) is a *very* specific demarcation with no room for uncertainty (e.g., unit tests, integration tests, [documentation](language-writing-documentation.md), deployed to production).
+
+Scrum goals are sprints, but set by the product owner and then adapted by the team to stay measurable and clear.
+
+- The emphasis is to avoid [stories](stories-why.md) that incorporate vagueness and instead focus on clear goals.
+
+Sprints themselves are divided into a few stages:
+
+1. The Development Team performs Sprint Planning, where they create a Sprint Backlog.
+   - This phase may last up to 8 hours to prepare for 4-week sprint.
+   - At this time, they fill the Sprint Backlog with as many Product Backlog Items they think they can finish.
+   - After communicating for clarification, everyone phrases a Sprint Goal.
+   - Once they have a Sprint Goal, they discuss how they'll turn the items into bite-size Increments.
+2. Every day, the Development Team meets for a Daily Scrum (or "Stand Up").
+   - These meetings may last up to 15 minutes, and detailed discussions come after the Stand Up.
+   - It's mostly a focus on what happened the day before, what to do next, any delays, and how to resolve delays.
+3. After the sprint, conduct a Sprint Review with the Development Team and customers.
+   - The meeting may last up to 4 hours for a 4-week sprint.
+   - They meet and discuss the finished Increment and update the Product Backlog.
+4. The Development Team performs a Retrospective separately to find possible improvements.
+   - This meeting may take up to 3 hours in a 4-week sprint.
+   - The meeting is both about [finding problems](https://adequate.life/fix/) and introducing [creative ideas](mind-creativity-how.md).
+
+More info on its defects: [The Scream Guide to Scrum Anti-Patterns](https://www.scribd.com/document/606134290/The-Scream-Guide)
 
 ## Holacracy
 
@@ -80,3 +149,27 @@ The original idea was from [software development](computers-programming.md), whe
 The system gives everyone power to self-manage, which is a very effective system if everyone is trustworthy to self-direct.
 
 - If everyone depends heavily on each other, though, it can cause severe breakdowns in communications and activities and be *worse* than micromanagement.
+
+## Project Management Triangle
+
+Every single project will only permit 2 of 3 variables:
+
+1. Cost (i.e., cheap)
+2. Time (i.e., fast)
+3. Quality (i.e., good)
+
+Every single effort to add the third will sacrifice one of the others.
+
+It's entirely possible to have all 3 of them in the following:
+
+1. Average-priced
+2. Within an accommodating deadline
+3. Good enough
+
+When this calculates for goods instead of services, the "fast" component is within the required research to attain the goods.
+
+There is also an [insurance](money-insurance-how.md) calculation that runs similarly:
+
+1. Low premium and deductible
+2. High limits
+3. Thoroughly covers things

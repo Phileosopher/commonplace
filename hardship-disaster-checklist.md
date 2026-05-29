@@ -45,17 +45,21 @@ Naturally, some of these things aren't reasonable for your situation, and some a
   - [ ] Maps
   - [ ] Thomas guide
   - [ ] Compass
-- [ ] A simple toolbox for basic maintenance tasks:
+- [ ] A simple toolbox for basic maintenance tasks
   - [ ] Screwdrivers
   - [ ] Channel-locks
   - [ ] Crescent wrench
+  - [ ] Several sets of pliers
   - [ ] Heavy flashlight
   - [ ] Multi-tool
+  - [ ] Mechanic's gloves
+  - [ ] Head lamp
 - Signaling tools
   - [ ] Whistle
   - [ ] Telescoping magnet
   - [ ] Road flares
   - [ ] Reflectors
+  - [ ] Reflective triangle
 - Auto maintenance supplies
   - [ ] Extra water and coolant
   - [ ] At least 1-3 quarts of oil and a funnel
@@ -63,7 +67,7 @@ Naturally, some of these things aren't reasonable for your situation, and some a
   - [ ] Jumper cables or a car starter
   - [ ] Ice scraper and snow brush
   - [ ] Extra cell phone charger
-  - [ ] Portable air compressor
+  - [ ] Portable air compressor or tire inflator
   - [ ] Extra windshield wipers
 - Multi-use supplies
   - [ ] Zip ties

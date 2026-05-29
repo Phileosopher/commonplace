@@ -255,7 +255,7 @@ A company that succeeds in an accounting period will have money left over, and i
 
 1. Save it as Retained Earnings, typically by placing it in a reserve account (i.e., make a [self-insurance](money-insurance.md) policy).
    - It's taxable, but reinforces Operating activity.
-   - A not-for-profit organization can't technically make a profit.
+   - A [not-for-profit organization](mgmt-npo.md) can't technically make a profit.
 2. Reinvest the money into more assets (e.g., buy new equipment).
    - Often *not* taxable, and can be an Investing activity.
 3. Pay down liabilities.

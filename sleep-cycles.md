@@ -70,3 +70,5 @@ SPAMAYL — Sleep polyphasically as much as you like:
 - More flexible than many other sleep cycles.
 - Take 7–10 naps across the day, ~20 minutes per nap.
 - Total daily sleep time: 1.5–4 hours.
+
+Further, it's entirely possible if someone has delayed sleep phase disorder (DSPD) that they'll vacillate regularly through *all* the above.

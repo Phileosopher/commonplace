@@ -238,7 +238,15 @@ Many [leaders](groups-large.md) believe individuals can't correctly decide their
 
 Complete emergent order would be complete anarchy, though, because no central leadership structure would enforce any large-scale [rules](people-rules.md).
 
-At the farthest end of supply side economics is laissez-faire ("allow to do"), which implies that government intervention should be *completely* absent from private organizations' affairs. This can frequently create [monopolies](politics-monopolies.md) and [bad systems](mgmt-badsystems.md), though it's a *highly* contentious question about whether monopolies persist indefinitely or decay quickly.
+At the farthest end of supply side economics is laissez-faire ("allow to do"), which implies that government intervention should be *completely* absent from private organizations' affairs.
+
+- This can frequently create [monopolies](politics-monopolies.md) and [bad systems](mgmt-badsystems.md), though it's a *highly* contentious question about whether monopolies persist indefinitely or decay quickly.
+- As a general rule, the government's excessive involvement will facilitate several possible effects:
+  1. They will stifle that market, which will motivate fewer competitors to enter that market and [innovate](mind-creativity-how.md).
+  2. They will take control of that market, which will create an inferior product in every capacity.
+- On the other hand, governments don't like to sit idly while [injustice](morality-justice.md) is happening.
+  - Therefore, the healthy middle ground is for the government to offer contracts that give incentives to new entrants to the market, and to constantly use their money to encourage more competitors to participate.
+  - At the same time, governments must also be careful to not create crony capitalism by giving incentives to existing market players.
 
 Centralized planning taken to its farthest becomes fascism or [communism](politics-leftism.md). So far, it's always failed spectacularly because people don't like to be controlled.
 

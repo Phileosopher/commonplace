@@ -179,7 +179,7 @@ While it happened subtly before, the abuser ramps up the [conditioned response](
   - Threats to the victim's children
   - Sexual coercion
   - Public humiliation
-- The abuser's desired result is for them to admit that resistance isn't worth the effort.
+- The abuser's desired result is for the victim to admit that resistance isn't worth the effort.
 
 At some specific point in time, the victim has now started to recognize the abuser's tactics.
 

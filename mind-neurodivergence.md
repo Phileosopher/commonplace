@@ -99,6 +99,7 @@ A capacity to think far faster than most people.
 Indicators:
 
 - Quicker ability to come to large conclusions, slower ability to react to baser triggers.
+  - At the far end, this can make them severely overthink [basic life decisions](mind-decisions.md).
 - An unusually strong understanding of complex things.
 
 How to behave with them:
@@ -111,8 +112,9 @@ How to behave with them:
 
 The cure for it:
 
-- Socialization is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
+- [Socialization](jobs-specialization.md) is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
 - Without socialization, they will often descend into other forms of neurodivergence.
+  - It's also a scientific possibility that intelligence itself *is* a composite of other neurodivergence.
 
 ## Oppositional Defiance Disorder (ODD)
 

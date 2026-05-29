@@ -33,7 +33,7 @@ Your best entrepreneurial ideas will come from obsession over an unfulfilled nee
    - Things people don't have the time or energy to do.
 2. Think of [creative ways](mind-creativity-how.md) it can be resolved.
 3. Of all those solutions, consider what people would pay to fix their problem, or how much people would want to donate toward the cause.
-4. If you can find something people will pay for, make a business. If you've found something people will donate to a cause over, make a not-for-profit organization.
+4. If you can find something people will pay for, make a business. If you've found something people will donate to a cause over, [make a not-for-profit organization](mgmt-npo.md).
 
 ## Get feedback
 
@@ -65,7 +65,7 @@ Within the first 5 years, 90% of startups fail for the same predictable reasons:
    - Typically, business ideas cost [much more money to start](entrepreneur-3_plan.md) than the entrepreneur originally expected.
    - The company might have a completely unprofitable model.
    - The company may [grow too fast](entrepreneur-6_scaling.md) and implode on itself.
-   - The not-for-profit organization isn't able to raise enough funds to meet minimum objectives.
+   - The [not-for-profit organization](mgmt-npo.md) isn't able to raise enough funds to meet minimum objectives.
 2. Inadequate necessary skills to start or maintain the business.
    - People simply don't need or want the product (42% of failures).
 3. The owner doesn't have enough vision to see where the business is going.

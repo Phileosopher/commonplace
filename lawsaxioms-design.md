@@ -1,7 +1,7 @@
 
 # Design rules
 
-This is a list of rules generally necessary for good [design](engineering-design.md). Many of them dovetail with our [cognitive biases](mind-bias.md).
+This is a list of rules generally necessary for good [design](engineering-design.md). Many of them dovetail with our [cognitive biases](mind-bias.md) and [general axioms for everything](lawsaxioms.md).
 
 Least Astonishment Principle - a design should match a user's experience, expectations, and mental models
 
@@ -70,7 +70,6 @@ Finding meaning
 - Social proof - we adapt our actions from what other people do
   - Survey bias - we tend to skew survey responses toward socially acceptable answers
 - Spotlight effect - we believe we're being noticed more than we really are
-- Streisand effect - censoring information increases awareness of that information
 - Pseudo-set framing - tasks that are part of a group are more tempting to complete
 - Temptation bundling - hard tasks are less scary when paired with things we desire
 - Unit bias - one unit of something feels like the ideal amount

@@ -202,15 +202,7 @@ Quite a few tricks can be abused to dishonestly gain others' favor:
 
 Further, people are more susceptible to influence when they're rushed, overwhelmed, distracted, [indifferent](purpose.md), [stressed](mind-feelings-happiness-stress.md), or [distrustful](understanding-certainty.md).
 
-When provoking people to give resources, our bias constructs a specific procedure that's so straightforward that most not-for-profit organizations are [bad systems](mgmt-badsystems.md) by abusing our systems of guilt and shame:
-
-1. Win their favor enough that they'll hear out the request.
-2. Give something at first without asking anything in return.
-3. Ask in a vague sense if they're a "[good](morality.md)" person and willing to help someone in need.
-4. A short time later, approach them again and ask for a trivial request they'd likely do already (e.g., be a safe driver).
-5. Ask a significant amount, then ask for something much smaller when they decline.
-6. Work upward to larger increments as they become [habituated](habits.md) to consistently giving.
-7. Ask them to ask others as well.
+When provoking people to give resources, our bias constructs a specific procedure that's so straightforward that most [not-for-profit organizations](mgmt-npo.md) are [bad systems](mgmt-badsystems.md) by abusing our systems of guilt and shame.
 
 APPLICATION: Watch for easy ways people influence you without noticing, especially for [selling things](marketing-sales.md):
 

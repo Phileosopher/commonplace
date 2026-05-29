@@ -123,7 +123,7 @@ Heresies that add content to the Bible:
 
 - Montanism - The Bible is either insufficient or incomplete, and God regularly gives new revelations that change based on the [culture](people-culture.md) He's speaking to.
   - Their attitude created a *lot* of [political friction](people-conflicts-war-why.md) for the Christian church.
-  - There are multiple works inspired by them (mostly apocalypse-focused), including the Apocalypse of Peter, and the fact that they accepted the Apocalypse of St. John (now known as Revelation in the Bible) is why the Assyrian Church of the East won't accept it as canon.
+  - There are multiple works inspired by them (mostly apocalypse-focused), including the [Apocalypse of Peter](bible-noncanon.md), and the fact that they accepted the [Apocalypse of St. John](bible-9_vision-rev.md) (now known as Revelation in the Bible) is why the Assyrian Church of the East won't accept it as canon.
 - Some works have *very* significant historical value (e.g., Jasher, other early Christian letters).
   - This information is *very* valuable to gather context and understanding of the culture and context around the Bible.
   - However, the works are *not* inspired by God, and should be considered as authoritative as the writings of [spiritual leadership](mgmt-church.md).
@@ -132,62 +132,12 @@ Heresies that add content to the Bible:
 
 ## Outright against the Bible
 
-Heresies about [God's nature](theology-god.md):
+Many heresies naturally arise in the flow of good Christian theology, so they've been merged into those pages:
 
-- Audianism - God has a human form, and we're precisely created in God's image.
-- Christian Deism - God does not intervene in or interact with the world.
-- Limited Theism - God is not omnipotent, and His powers can be limited.
-- Neoplatonism/Pantheism - We are emanations from God, and we return to become part of God again when we depart this life.
-- Open Theism - God doesn't know everything, including the future.
-
-Heresies about the Trinity:
-
-- Monarchianism - God is only one person.
-- Modalism/Patripassianism - The members of the Trinity are only three different aspects or modes of the same person, not three distinct persons.
-  - Sabellianism (Emanations) - The Father was the Old Testament God, The Son was the New Testament God, and the Holy Spirit is God right now.
-- Partialism - Each member of the Trinity is not fully God, but only 1/3 of God.
-  - Swedenborgianism - Each member of the Trinity is like humanity's [body, soul, and spirit](theology-godandman-humanity.md).
-- Tritheism The Godhead is actually three separate gods.
-
-Heresies about Jesus' nature:
-
-- Adoptionism - Jesus became God sometime after His birth.
-- Apollinarism - Jesus did not have a rational [human soul or mind](theology-godandman-humanity.md), but instead His soul was simply a Logos.
-- Arianism - Jesus and the Holy Spirit are lesser, created beings and not directly God.
-- Docetism - Jesus was divine, but only seemed to be human, and didn't experience any human experiences.
-- Ebionitism - Jesus was distinguished from other humans, but was nonetheless purely human.
-- Eutychianism/Monophysitism - Jesus only has one nature, which is divine, and any finite nature is swallowed up by it.
-- Kenosis - Jesus wasn't divine while on Earth.
-- Nestorianism - Jesus is two persons.
-- Socinianism - Jesus is a deified man, and there is no Trinity.
-- Subordinationism - The Son is lesser than the Father in essence or attributes.
-
-Heresies about the Holy Spirit:
-
-- Macedonianism - God the Holy Spirit is merely a creation of God and not one of His persons.
-
-Heresies about the Virgin Mary:
-
-- Collyridianism - The Virgin Mary, mother of Jesus, is a goddess.
-- Virgin birth denial - Jesus was not born of a virgin.
-
-Heresies about [sins](theology-sins.md) and [morality](morality.md):
-
-- Antinomianism - Jesus rescues Christians from the legal guilt of sin, so they're free to sin as they please.
-- Manichaeism - Good and evil are both equally powerful in ability or authority.
-- Pelagianism - Human nature does not have a fallen state and isn't corrupted by original sin.
-- Semipelagianism - Man and God cooperate to achieve man's salvation.
-- Works Righteousness/Legalism - Humanity is saved by what they do, or a combination of what they do combined with faith in Jesus.
-- Christus Victor - All sins, and all death, has been abolished entirely, so there's no judgment for them anymore.
-
-Heresies about salvation:
-
-- Dual Covenant Theology - Jews can still receive salvation without believing in Jesus.
-- Inclusivism - Faith is not necessary for salvation, and God's mercy includes non-Christian peoples on the earth.
-- Pluralism - Two or more religions in conflict can be true at the same time.
-- Rauschenbuschism (social gospel, or social justice gospel) - The primary purpose of the Gospel is to cure social issues, not to forgive sins and reconcile with God.
-- Universalism - Everyone will go to Heaven.
-
-Heresies about human nature:
-
-- Reincarnationism - some humans (which may include Jesus and New Testament figures) are reincarnations of previous people (such as Old Testament figures).
+- [God's nature](theology-god.md) and [the Trinity](theology-god-trinity.md)
+- [Jesus' nature](theology-god-jesus.md)
+- [The Holy Spirit's nature](theology-god-spirit.md)
+- [The Virgin Mary](theology-mary.md)
+- [Sins](theology-sins.md)
+- [Salvation](theology-salvation.md)
+- [Human nature](theology-godandman-humanity.md)

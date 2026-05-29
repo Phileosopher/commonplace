@@ -9,382 +9,119 @@ Even without [the Bible](theology-bible.md), we can still [logically conclude Go
 
 ## God is a mystery
 
-God is unlike any other being in our experience:
-
-- [Psalm 113:5-6](https://biblehub.com/psalms/113.htm)
-- [Isaiah 55:8-9](https://biblehub.com/isaiah/55.htm)
-- [Isaiah 57:15](https://biblehub.com/isaiah/57-15.htm)
-- [John 8:23](https://biblehub.com/john/8-23.htm)
+God is unlike any other being in our experience (Psalm 113:5-6, Isaiah 55:8-9, Isaiah 57:15, John 8:23).
 
 We [understand](understanding.md) God through theology (i.e., "knowledge of God").
 
 - God has an eternal and infinite nature, so we need a decent capacity for [philosophy](philosophy.md) to [understand His viewpoint](https://theologos.site/god-sight/).
-  - To be clear, though, we do *not* need to understand his view to [have a relationship with Him](https://theologos.site/gospel/) ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm))
-- We can partially [understand](understanding.md) God, but won't be able to fully understand Him in this life ([1 Corinthians 13:9-12](https://biblehub.com/1_corinthians/13.htm)).
+  - To be clear, though, we do *not* need to understand his view to [have a relationship with Him](https://theologos.site/gospel/) (Matthew 11:25)
+- We can partially [understand](understanding.md) God, but won't be able to fully understand Him in this life (1 Corinthians 13:9-12).
 - Thankfully, there are no intellectual barriers to [loving people](church-serve.md), meaning everyone can act in awareness of God.
 
-The Father, Son, and Holy Spirit are a three-part God.
+We can't know everything about God
 
-- This God is a god of [love](people-love.md), first and foremost, with all other qualities subordinate to that essence.
-  - Any judgments we deliver against God are demonstrations of our failings, *not* on God's essence.
-- Each of the Persons of God are distinctive, but they are all God.
-- From the framing of our understanding, God could have been *anything*, but He chose to be a God composed of three parts.
+- God created us in His [image](people-image-why.md), but we aren't God (Genesis 1:27).
+- Our finite nature means we can't fully understand Him (Psalm 103:15-16).
+
+## God is the standard
 
 God is incorruptibly good, indivisibly powerful, and perfect.
 
-- Any inherently good quality we ascribe is either embodied within God as the fullest definition, or we are ascribing to something that isn't an inherently good quality.
-  - For example, God is the kindest being ever, and no other being can be as kind as God.
-  - As another example, God *could* be the most efficient, except that efficiency beyond a certain point becomes tyranny, so God's efficiency stops when it starts to become tyranny.
-- Nevertheless, all values were originally designed by God in the first place, so God is familiar with *all* of their designs.
+Any inherently good quality we ascribe is either embodied within God as the fullest definition, or we are ascribing to something that isn't an inherently good quality.
 
-Jesus is the Son of the Father.
+- For example, God is the kindest being ever, and no other being can be as kind as God.
+- As another example, God *could* be the most efficient, except that efficiency beyond a certain point becomes tyranny, so God's efficiency stops when it starts to become tyranny.
 
-- Thorough belief in Jesus requires trusting the Bible was translated correctly (see Bibliology).
-- Jesus was fully God, and became fully man, then fully died, and was resurrected by the Father.
+Nevertheless, all values were originally designed by God in the first place, so God is familiar with *all* of their designs.
 
-The Father created everything, and doesn't change whatsoever.
+## God is love
 
-- We know the Father through the Son.
-- The Bible has *plenty* to say about the Father.
+God's attributes literally *define* love (Deuteronomy 7:7-8, John 14:31, Romans 5:5-8, Romans 8:35-39, 1 John 4:8-16).
 
-The Holy Spirit works to fulfill [the Father's plans](god-will.md).
+- All other qualities are subordinate to God's essence of being [love](people-love.md).
+- This means that any judgments we deliver against God are demonstrations of our failings, *not* on God's essence.
 
-- There isn't as much in Scripture about the Spirit as there is about the Father or Son.
+God is [good](morality.md) (Exodus 34:6-7, Psalm 25:8, James 1:17).
+
+God is gracious (Psalm 145:17, Romans 3:24, Romans 5:15, Romans 5:20, Ephesians 4:7, Hebrews 4:16).
+
+God is nearby and actively involved (Jeremiah 23:23-24, Acts 17:27-28, Haggai 2:5).
 
 ## God is forever the same
 
+God is self-existing (Exodus 3:14, Psalm 90:2, John 1:1-5, John 5:26, Colossians 1:15-17).
+
+God is eternal (Psalm 102:12, Hebrews 13:8).
+
+- While we can understand infinity as a concept of time, eternity is entirely removed from time.
+
+God doesn't change, even from outside influences (Malachi 3:6, James 1:17)
+
+- God's unchanging nature, however, is a tricky discussion with respect to [the person of Jesus](theology-god-jesus.md).
+
+## God is good
+
+God is holy, which means perfectly pure (Exodus 3:5-6, 1 Samuel 2:2, Psalm 99:2-3, Isaiah 6:3, Revelation 4:8).
+
+God is righteous, which is holiness applied to [action](results.md) (Genesis 18:25, Psalm 19:7-9, Psalm 145:17, Jeremiah 9:24).
+
+God is fair and [just](morality-justice.md) (Genesis 18:25, Exodus 34:6-7, Nehemiah 9:32-33, Psalm 99:4, Romans 1:32, Romans 9:14-33, 1 Peter 1:17).
+
+Therefore, only God has the right and ability to deliver judgment.
+
+God is merciful (Psalm 6:4, Romans 9:23-24, Ephesians 2:4, Titus 3:5, Hebrews 4:16, 1 Peter 1:3).
+
+The Bible *constantly* demonstrates God's involvement in our lives, which refutes the [heresy](people-conflicts-christian-4_false.md) of Christian Deism, which asserts that God doesn't intervene in or interact with the world.
+
+## We can also know what God *can't* be
+
+God isn't [conventional](habits.md) or [predictable](mind-imagination.md).
+
+- This means God isn't "tame" or weak.
+
+God [knows](understanding.md) everything (Ezekiel 11:5, Psalm 147:5, Acts 15:18, Romans 2:6, Romans 11:33, Hebrews 4:13, 1 John 3:20).
+
+God is all-present (1 Kings 8:27, Job 11:7-9, Psalm 90:1-2, Psalm 139:7-10, Jeremiah 23:23-24).
+
+- God isn't simply a cosmic energy or "in all of us".
+  - God isn't necessarily *in* everything, but He certainly can be anywhere He wants.
+- This refutes Neoplatonism/Pantheism, which is the [heresy](people-conflicts-christian-4_false.md) that we are emanations from God.
+  - This usually implies somehow that we return to become part of God again when we [depart this life](hardship-death.md).
+
+God is [all-powerful](power.md) (Psalm 115:3, Jeremiah 32:17, Matthew 19:26, Mark 14:36, Romans 11:36, Ephesians 1:11, Hebrews 1:3).
+
+- Therefore, God isn't and can't be limited, which defies the [heresy](people-conflicts-christian-4_false.md) of Limited Theism.
+- Alongside Limited Theism, Open Theism can't be true, which asserts that God doesn't know everything.
+  - However, the [doctrine of the Trinity](theology-god-trinity.md) does make this particular view more nuanced.
+- Further, [human nature](humanity-universals.md) by comparison refutes the heresy of Audianism, which is that God has a human form and that we're precisely created in God's image.
+
+God can't [self-contradicting](logic.md), petty, or fickle.
+
+- This also extends to [logical paradoxes](philosophy-paradoxes.md).
+  - In other words, God absolutely *could* lift a stone so heavy he couldn't lift it, and then lift it, because *He literally designed logic itself*!
+
+## God's characteristics and actions are *not* the same
+
 God has a few frequently used names:
 
+- These names represent roles, but never fully describe God's essence.
 - Elohim
   - "El" means "strength" or "strong one", and "ohim" comes from "Alah", meaning to bind oneself by an [oath](people-contracts.md).
   - Altogether, it most clearly relates to "reverence".
 - YHWH or Yahweh
   - The Jews felt God's name was too sacred to pronounce with vowels, so we don't know how it would sound (e.g., "Yehwah", "Ayohuweho").
 - Adonai, which means "lord, master, or husband".
-
-God is self-existing:
-
-- [Exodus 3:14](https://biblehub.com/exodus/3-14.htm)
-- [Psalm 90:2](https://biblehub.com/psalms/90-2.htm)
-- [John 1:1-5](https://biblehub.com/john/1.htm)
-- [John 5:26](https://biblehub.com/john/5-26.htm)
-- [Colossians 1:15-17](https://biblehub.com/colossians/1.htm)
-
-God is eternal:
-
-- [Psalm 102:12](https://biblehub.com/psalms/102-12.htm)
--[Hebrews 13:8](https://biblehub.com/hebrews/13-8.htm)
-
-- While we can understand infinity as a concept of time, eternity is entirely removed from time.
-
-God doesn't change, even from outside influences:
-
-- [Malachi 3:6](https://biblehub.com/malachi/3-6.htm)
-- [James 1:17](https://biblehub.com/james/1-17.htm)
-- God's unchanging nature, however, is a tricky discussion with respect to the person of Jesus (see below).
-
-## God is love
-
-God's attributes literally *define* love:
-
-- [Deuteronomy 7:7-8](https://biblehub.com/deuteronomy/7.htm)
-- [John 14:31](https://biblehub.com/john/14-31.htm)
-- [Romans 5:5-8](https://biblehub.com/romans/5.htm)
-- [Romans 8:35-39](https://biblehub.com/romans/8.htm)
-- [1 John 4:8-16](https://biblehub.com/1_john/4.htm)
-
-God is good:
-
-- [Exodus 34:6-7](https://biblehub.com/exodus/34.htm)
-- [Psalm 25:8](https://biblehub.com/psalms/25-8.htm)
-- [James 1:17](https://biblehub.com/james/1-17.htm)
-
-God is gracious:
-
-- [Psalm 145:17](https://www.bible.com/bible/206/psa.145.17)
-- [Romans 3:24](https://biblehub.com/romans/3-24.htm)
-- [Romans 5:15](https://biblehub.com/romans/5-15.htm)
-- [Romans 5:20](https://biblehub.com/romans/5-20.htm)
-- [Ephesians 4:7](https://biblehub.com/ephesians/4-7.htm)
-- [Hebrews 4:16](https://biblehub.com/hebrews/4-16.htm)
-
-God is nearby and actively involved:
-
-- [Jeremiah 23:23-24](https://biblehub.com/jeremiah/23.htm)
-- [Acts 17:27-28](https://biblehub.com/acts/17.htm)
-- [Haggai 2:5](https://biblehub.com/haggai/2-5.htm)
-
-## Only God has the right and ability to deliver judgment
-
-God is holy, which means perfectly pure:
-
-- [Exodus 3:5-6](https://biblehub.com/exodus/3.htm)
-- [1 Samuel 2:2](https://biblehub.com/1_samuel/2.htm)
-- [Psalm 99:2-3](https://biblehub.com/psalms/99.htm)
-- [Isaiah 6:3](https://biblehub.com/isaiah/6-3.htm)
-- [Revelation 4:8](https://biblehub.com/revelation/4-8.htm)
-
-God is righteous, which is holiness applied to [action](results.md):
-
-- [Genesis 18:25](https://biblehub.com/genesis/18-25.htm)
-- [Psalm 19:7-9](https://biblehub.com/psalms/19.htm)
-- [Psalm 145:17](https://biblehub.com/psalms/145-17.htm)
-- [Jeremiah 9:24](https://biblehub.com/jeremiah/9-24.htm)
-
-God [knows](understanding.md) everything:
-
-- [Ezekiel 11:5](https://biblehub.com/ezekiel/11-5.htm)
-- [Psalm 147:5](https://biblehub.com/psalms/147-5.htm)
-- [Acts 15:18](https://biblehub.com/acts/15-18.htm)
-- [Romans 2:6](https://biblehub.com/romans/2-6.htm)
-- [Romans 11:33](https://biblehub.com/romans/11-33.htm)
-- [Hebrews 4:13](https://biblehub.com/hebrews/4-13.htm)
-- [1 John 3:20](https://biblehub.com/1_john/3-20.htm)
-
-God is fair and [just](morality-justice.md):
-
-- [Genesis 18:25](https://biblehub.com/genesis/18-25.htm)
-[Exodus 34:6-7](https://biblehub.com/exodus/34.htm)
-- [Nehemiah 9:32-33](https://biblehub.com/nehemiah/9.htm)
-- [Psalm 99:4](https://biblehub.com/psalms/99-4.htm)
-- [Romans 1:32](https://biblehub.com/romans/1-32.htm)
-- [Romans 9:14-33](https://biblehub.com/romans/9.htm)
-- [1 Peter 1:17](https://biblehub.com/1_peter/1-17.htm)
-
-God is merciful:
-
-- [Psalm 6:4](https://biblehub.com/psalms/6-4.htm)
-- [Romans 9:23-24](https://biblehub.com/romans/9.htm)
-- [Ephesians 2:4](https://biblehub.com/ephesians/2-4.htm)
-- [Titus 3:5](https://biblehub.com/titus/3-5.htm)
-- [Hebrews 4:16](https://biblehub.com/hebrews/4-16.htm)
-- [1 Peter 1:3](https://biblehub.com/1_peter/1-3.htm)
-
-God is [all-powerful](power.md):
-
-- [Psalm 115:3](https://biblehub.com/psalms/115-3.htm)
-- [Jeremiah 32:17](https://biblehub.com/jeremiah/32-17.htm)
-- [Matthew 19:26](https://biblehub.com/matthew/19-26.htm)
-- [Mark 14:36](https://biblehub.com/mark/14-36.htm)
-- [Romans 11:36](https://biblehub.com/romans/11-36.htm)
-- [Ephesians 1:11](https://biblehub.com/ephesians/1-11.htm)
-- [Hebrews 1:3](https://biblehub.com/hebrews/1-3.htm)
-
-God is all-present:
-
-- [1 Kings 8:27](https://biblehub.com/1_kings/8-27.htm)
-- [Job 11:7-9](https://biblehub.com/job/11.htm)
-- [Psalm 90:1-2](https://biblehub.com/psalms/90.htm)
-- [Psalm 139:7-10](https://biblehub.com/psalms/139.htm)
-- [Jeremiah 23:23-24](https://biblehub.com/jeremiah/23.htm)
-- God isn't necessarily *in* everything, but He certainly can be anywhere He wants.
-
-## God's characteristics and actions are *not* the same
+- There are about 960 names and titles for God, however, so this is *not* an exhaustive list:
+  - [Names and Titles of God](https://christiananswers.net/dictionary/namesofgod)
 
 God can certainly be wrathful, but only as a response to [evil](morality-evil.md).
 
 Relative to us, He has many roles:
 
-- King of kings and Lord of lords
-  - [Deuteronomy 10:17](https://biblehub.com/deuteronomy/10-17.htm)
-  - [1 Timothy 6:15](https://biblehub.com/1_timothy/6-15.htm)
-  - [Revelation 19:16](https://biblehub.com/revelation/19-16.htm)
-- The Great Physician
-  - [Psalm 103:3](https://biblehub.com/psalms/103-3.htm)
-  - [Matthew 14:14](https://biblehub.com/matthew/14-14.htm)
-  - [James 5:16](https://biblehub.com/james/5-16.htm)
-- The Great Lawyer
-  - [Isaiah 40:8](https://biblehub.com/isaiah/40-8.htm)
-  - [Matthew 5:18](https://biblehub.com/matthew/5-18.htm)
-  - [Luke 16:17](https://biblehub.com/luke/16-17.htm)
-- The Great Teacher
-  - [Job 35:11](https://biblehub.com/job/35-11.htm)
-  - [1 Corinthians 1:27](https://biblehub.com/1_corinthians/1-27.htm)
-- The Great Artist
-  - [Job 37:14-16](https://biblehub.com/job/37.htm)
-  - [Psalm 96:11-12](https://biblehub.com/psalms/96.htm)
-  - [Ecclesiastes 3:11](https://biblehub.com/ecclesiastes/3-11.htm)
-- The Great Recordkeeper
-  - [2 Samuel 14:11](https://biblehub.com/2_samuel/14-11.htm)
-  - [Luke 21:28](https://biblehub.com/luke/21-28.htm)
-- A Consuming Fire
-  - [Hebrews 12:29](https://biblehub.com/hebrews/12-29.htm)
-  - [Deuteronomy 4:24](https://biblehub.com/deuteronomy/4-24.htm)
-
-## Jesus is God
-
-Jesus consistently claimed to be equal with God using an intentionally concealed tone:
-
-- [John 8:58](https://biblehub.com/john/8-58.htm)
-- [Mark 2:1-12](https://biblehub.com/mark/2.htm)
-- [Mark 2:28](https://biblehub.com/mark/2-28.htm)
-- [Mark 14:60-64](https://biblehub.com/mark/14.htm)
-
-Jesus is also, however, fully man:
-
-- [Matthew 16:3](https://biblehub.com/matthew/16-3.htm)
-- [Matthew 20:28](https://biblehub.com/matthew/20-28.htm)
-
-Like the Trinity, it's difficult for us to understand how Jesus is 100% man and 100% equal with God.
-
-- He couldn't have risen from the dead or done miracles if He didn't have God's power.
-- He couldn't have legitimately died if He wasn't a man.
-- *We're* obviously not God, so it requires more [philosophical](philosophy.md) [analysis](logic.md).
-
-[Jesus' *entire message*](https://theologos.site/gospel/) requires people to take His divine humanity as a literal concept, so Christians in this life will always be stuck with a paradox of [understanding](understanding.md).
-
-There is no direct significance about the name "Jesus" or "Jesus Christ".
-
-- The modern styling would be "Josh the Savior".
-  - Many Jewish people were called Jesus up to the second century AD, and it should more accurately be phrased "Yeshua", borrowed from "Joshua".
-  - The word "Joshua" was contracted from "Jehoshua", which meant "Jehovah the Savior".
-  - "Christ" simply means "Messiah" or "Savior", which describes His role.
-- Calling Him "Lord" is a far more pronounced reality, since the [power dynamic](power.md) is extremely discrepant.
-- He goes by *many* other names, and here are a few examples:
-  - Branch ([Isaiah 11:1](https://biblehub.com/isaiah/11-1.htm))
-  - Banner for People ([Isaiah 11:10](https://biblehub.com/isaiah/11-10.htm))
-  - Desire of All Nations ([Haggai 2:7](https://biblehub.com/haggai/2-7.htm))
-  - Peacemaker (Shiloh) ([Genesis 49:10](https://biblehub.com/genesis/49-10.htm))
-  - Prophet ([Deuteronomy 18:15](https://biblehub.com/deuteronomy/18-15.htm))
-  - Redeemer ([Psalm 19:14](https://biblehub.com/psalms/19-14.htm))
-  - Savior ([Acts 5:3](https://biblehub.com/acts/5-3.htm))
-- Calling on His name has significance ([Romans 10:13](https://biblehub.com/romans/10-13.htm), [Joel 2:32](https://biblehub.com/joel/2-32.htm))
-  - However, the meaning *behind* calling on the name of Jesus is far more significant than the name itself.
-
-## God is a Trinity of three persons
-
-The Bible is *filled* with references to God's three-person essence.
-
-All three were present during creation.
-
-- [John 1:1-3](https://biblehub.com/john/1.htm)
-- [Genesis 1:1-2](https://biblehub.com/genesis/1.htm)
-
-All three were present at Jesus' conception ([Luke 1:35](https://biblehub.com/luke/1-35.htm)).
-
-All three were present when Jesus started his ministry ([Luke 3:21-22](https://biblehub.com/luke/3.htm))
-
-Jesus placed all three on the same level of authority ([Matthew 28:19](https://biblehub.com/matthew/28-19.htm))
-
-God is a Father, a Son, and a Spirit.
-
-- [Matthew 12:31](https://biblehub.com/matthew/12-31.htm)
-- [John 16:3](https://biblehub.com/john/16-3.htm)
-- [John 16:8](https://biblehub.com/john/16-8.htm)
-- [Acts 5:3](https://biblehub.com/acts/5-3.htm)
-- [Acts 7:51](https://biblehub.com/acts/7-51.htm)
-- [Acts 8:39](https://biblehub.com/acts/8-39.htm)
-- [Acts 10:19-20](https://biblehub.com/acts/10.htm)
-- [Romans 8:26-27](https://biblehub.com/romans/8.htm)
-- [1 Corinthians 2:10-11](https://biblehub.com/1_corinthians/2.htm)
-- [1 Corinthians 12:11](https://biblehub.com/1_corinthians/12-11.htm)
-- [Ephesians 4:30](https://biblehub.com/ephesians/4-30.htm)
-- [Hebrews 10:29](https://biblehub.com/hebrews/10-29.htm)
-
-At least two persons of God (the Father and Son) are distinctly male.
-
-- Some metaphors express female attributes, but *very* rarely:
-  - [Matthew 23:37](https://biblehub.com/matthew/23-37.htm)
-  - [Luke 15](https://biblehub.com/luke/15.htm)
-
-God is One, but also three unique people who are all the same God.
-
-- [Matthew 28:19](https://biblehub.com/matthew/28-19.htm)
-- [Luke 1:35](https://biblehub.com/luke/1-35.htm)
-- [John 14:16-17](https://biblehub.com/john/14.htm)
-- [John 14:23](https://biblehub.com/john/14-23.htm)
-
-The Trinity involves three highly interconnected relationships that closely resemble a [family](church-family.md), but more intimately than we're capable of imagining.
-
-- [Love](people-love.md) always requires a giver and receiver, and the Trinity makes Him the only being that can love as both essence *and* action.
-
-### One of our most difficult challenges is understanding the Trinity
-
-The Bible clearly shows separate divine relationships.
-
-Jesus is distinctly different from God:
-
-- ([John 1:1](https://biblehub.com/john/1-1.htm)
-- [John 1:14](https://biblehub.com/john/1-14.htm)
-- [John 4:25-26](https://biblehub.com/john/4.htm)
-- [John 8:24](https://biblehub.com/john/8-24.htm)
-- [John 10:30](https://biblehub.com/john/10-30.htm)
-- [1 John 5:7](https://biblehub.com/1_john/5-7.htm)).
-
-At the same time, Jesus is the same as God:
-
-- [Isaiah 7:14](https://biblehub.com/isaiah/7-14.htm)
-- [Luke 2:21](https://biblehub.com/luke/2-21.htm)
-- [Colossians 2:9-10](https://biblehub.com/colossians/2.htm)
-- [Hebrews 1:8](https://biblehub.com/hebrews/1-14.htm)
-- [1 Timothy 3:16](https://biblehub.com/1_timothy/3-16.htm)
-
-Jesus and the Holy Spirit are distinctly different:
-
-- ([Matthew 1:20](https://biblehub.com/matthew/1-20.htm)
-- [Romans 8:9](https://biblehub.com/romans/8-9.htm)
-
-The Father and the Holy Spirit are distinctly different:
-
-- [John 14:26](https://biblehub.com/john/14-26.htm)
-- [John 15:26](https://biblehub.com/john/15-26.htm)
-- [1 Corinthians 2:10](https://biblehub.com/1_corinthians/2-10.htm))
-
-In short:
-
-- The Father isn't the Son or Holy Spirit.
-- The Son isn't the Father or the Holy Spirit.
-- The Holy Spirit isn't the Father or the Son.
-- But, all three are irreducibly God.
-
-We don't have any decent comparisons to the Trinity:
-
-- Water (solid, liquid, and gas) or light (primary colors that add to make white) fail in their analogy because external conditions define their form.
-- Our [body, soul, and spirit](theology-godandman-humanity.md) can somewhat compare, but our essence is still all contained entirely within the same being.
-
-With God being a Trinity, by [deduction](logic.md) each Person will have a different [perspective](people-image-why.md), each with at least a slightly different [understanding](understanding.md) of something:
-
-- [Matthew 24:36](https://biblehub.com/matthew/24-36.htm)
-- [John 6:38](https://biblehub.com/john/6-38.htm)
-
-The presence of a Trinity is the only logical way many things can happen within Christianity.
-
-- Jesus can't pray to the Father in any meaningful way without having some degree of difference from the Father.
-- We can't live to be like Jesus if Jesus isn't human.
-- The Father can't deliver judgment fairly if He's a finite human.
-- The arguments for the existence of God can prove the Father's existence, but they don't necessarily prove anything about Jesus.
-- Without the Son possessing at least some scarcity of information while also being God, then God wouldn't need to respond to human changes.
-  - Without changes, there is effectively no [free will](mind-decisions.md) because God is simply acting out a predetermined script.
-  - There is no [legitimate relationship with God whatsoever](theology-godandman.md) without a God who can respond to us in some capacity.
-- Jesus has been described as the firstborn of all creation ([Colossians 1:15](https://biblehub.com/colossians/1-15.htm)), and the Trinity makes it possible for God to always exist while also deciding to change for the sake of His creation.
-
-## We can't know everything about God
-
-God created us in His [image](people-image-why.md), but we aren't God:
-
-- [Genesis 1:27](https://www.bible.com/bible/206/gen.1.27)
-
-Our finite nature means we can't fully understand Him:
-
-- [Psalm 103:15-16](https://www.bible.com/bible/206/psa.103)
-
-## We can also know what God *can't* be
-
-God isn't "tame" or weak.
-
-God isn't [self-contradicting](logic.md), petty, or fickle.
-
-God isn't [conventional](habits.md) or [predictable](mind-imagination.md).
-
-God isn't simply a cosmic energy or "in all of us".
-
-## More information
-
-God's names:
-
-- [The Names of Jesus - Elmer Towns](https://ntslibrary.com/PDF%20Books/The_Names_Of_Jesus%5BETowns%5D.pdf)
-- [The Names of the Holy Spirit - Elmer Towns](https://www.ntslibrary.com/PDF%20Books/The_Names_Of_The_HolySpirit[ETowns].pdf)
-
-In-depth analysis:
-
-- [On the Holy Trinity; Doctrinal Treatises; Moral Treatises - Compilation](https://www.ccel.org/ccel/schaff/npnf103.html)
+- King of kings and Lord of lords (Deuteronomy 10:17, 1 Timothy 6:15, Revelation 19:16)
+- Great Physician (Psalm 103:3, Matthew 14:14, James 5:16)
+- Great Lawyer (Isaiah 40:8, Matthew 5:18, Luke 16:17)
+- Great Teacher (Job 35:11, 1 Corinthians 1:27)
+- Great Artist (Job 37:14-16, Psalm 96:11-12, Ecclesiastes 3:11)
+- Great Recordkeeper (2 Samuel 14:11, Luke 21:28)
+- A Consuming Fire (Hebrews 12:29, Deuteronomy 4:24)

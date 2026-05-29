@@ -58,17 +58,7 @@ Each new child adds new dynamics to the family:
 - A [married couple](relationships-marriage.md) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
 - With three or more children, parents' attention is often split so heavily that each child may not receive enough attention from their parents.
 
-Because young children have limits with their [understanding](understanding.md), adjust how you [speak](language-speaking.md) with them:
-
-1. State the idea you wish to express in the plainest and clearest possible terms (e.g., "It is dangerous to play in the street").
-2. Phrase everything positively (e.g., "It is good to play where it is safe.").
-3. Direct them to trustworthy authorities (e.g., "Ask your parents where it is safe to play.").
-4. Eliminate all prescriptive, directive, or instructive elements (e.g., "Your parents will tell you where it is safe to play.").
-5. Remove anything that suggests certainty (e.g., "Your parents can tell you where it is safe to play.").
-6. When with other children that aren't your own, remove anything that may not apply to all children (e.g., "Your favorite grown-ups can tell you where it's safe to play.").
-7. Add a simple motivational idea that will give them a reason to follow your advice (e.g., "Your favorite grown-ups can tell you where it is safe to play. It is good to listen to them").
-8. Rephrase your new statement while repeating the first step (e.g., "Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them.").
-9. Relate it to some phase of development a preschooler can understand ("Your favorite grown-ups can tell you where it is safe to play. It is important to try to listen to them, and listening is an important part of growing.").
+Because young children have limits with their [understanding](understanding.md), adjust how you [speak](language-speaking-children.md) with them.
 
 The best indicator of a healthy child is that they're playing:
 
@@ -104,7 +94,7 @@ From birth, children set goals by using their environment:
 
 Your child cares more about the approval and support of their guardians than *anything* else in the world:
 
-- A child gains their sense of [identity](people-identity.md) strictly from how they imagine you see them.
+- A child gains their sense of [identity](people-identity.md) strictly from how they imagine their parents see them.
 - They're constantly asking three questions throughout their entire upbringing and onward into adulthood:
   1. "Dad, what do you [believe](understanding.md) about me?"
   2. "Dad, what do you [feel](mind-feelings.md) about me?"

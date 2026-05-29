@@ -3,13 +3,14 @@
 
 The group of believers who have a relationship with God are known as [the Church](church.md).
 
-The "church", however, has several definitions:
+The "church", however, has several definitions that sit on a spectrum:
 
 1. It can refer to the group of individuals who have an eternal relationship with God.
    - This definition includes everyone who had believed in the coming Messiah *before* Jesus was born.
    - This term is usually also called the "catholic" church by some believers.
-2. It can refer to the [cultural group](people-culture.md) of those people, specifically when they're meeting.
-3. Many times, it includes the [not-for-profit organization](mgmt-church-worship.md) that meets, including people who only allege their relationship with God.
+2. It can refer to everyone who has alleged commitment to Christianity in the past (e.g., [the Sinner's prayer](spiritual-exercises-evangelism-presentations.md), baptism, confirmation).
+3. It can refer to the [cultural group](people-culture.md) of those people, specifically when they're meeting.
+4. Many times, it includes the [worship center organization](mgmt-church-worship.md), which is a [not-for-profit organization](mgmt-npo.md) that includes people who may not even allege a relationship with God.
    - This one includes every person who associates with Christian culture, including [debatably spiritual practices](people-conflicts-christian-2_debatable.md).
 
 Christians who choose to lead the Church are held to a higher moral standard.

@@ -46,6 +46,11 @@ Each translation wrestles with [language](language.md) barriers that form a spec
 - The ideal way for most people to study is with multiple bibles next to each other (e.g., parallel bible, cross-referencing software).
   - The ultimate ideal is to read ancient Greek, Hebrew, and Aramaic, but it's not necessary to generally understand the ideas and most people aren't that dedicated.
   - However, by using a concordance (e.g., Strong's) and a dictionary (e.g., Vine's), you can often derive more meaning out of a specific word.
+- Frequently, the implications and meaning of Bible translations are *radically* different.
+  - Reading anything from the King James family (e.g., KJV, NKJV) is effectively a variation of reading Shakespeare.
+  - Many of the modern word-for-word and meaning-for-meaning translations feel like an intelligent person speaking.
+  - Many thought-for-thought and paraphrase translations feel like an uneducated person speaking.
+  - Some translations become so obsessed with [politics](politics-conservativeliberal.md) around [gender](people-gender.md) that they dramatically change pronouns to "fit a modern context" (e.g., NIV).
 
 Unless a prophet's words have an obvious [symbolism](symbols.md), interpret the words in a usual, literal, historical sense:
 

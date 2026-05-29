@@ -259,7 +259,7 @@ Many governments provide capital allowances and tax credits for specific activit
 - Specific, [fashionable](people-trends.md) industries and activities tend to receive tax credits.
 - Lately, [energy-efficient and "green" activities](politics-leftism-sustainability.md) have received plenty of government grants and advantages.
 
-If an organization is savvy enough and has enough startup costs, they can create a not-for-profit charitable organization with a board run by hand-picked people loyal to their founding organization's leadership.
+If an organization is savvy enough and has enough startup costs, they can create a [not-for-profit charitable organization](mgmt-npo.md) with a board run by hand-picked people loyal to their founding organization's leadership.
 
 - Whenever a company is about to experience significant tax expense, they can make a charitable contribution (typically at the end of the year before the end of December) that offsets tax payments.
 
@@ -303,7 +303,7 @@ In particular, modern art is an effective way to move money without taxes:
 
 1. Wealthy individual pays a comparatively modest amount to an artist to paint something (e.g., $24,000).
 2. Individual takes the piece to an appraiser who values it at an absurd amount (e.g., $40,000,000).
-3. Individual donates the newly appraised artwork to a museum, which is a qualifying not-for-profit.
+3. Individual donates the newly appraised artwork to a museum, which is a qualifying [not-for-profit](mgmt-npo.md).
 4. Wealthy individual gets a tax write-off for that amount, reducing the tax liability they otherwise would have had.
 
 While most income tax code requires you to pay at least *some* portion of your income, Section 121 gives a free opportunity:
