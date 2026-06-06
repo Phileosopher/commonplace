@@ -8,7 +8,8 @@ Part of the issue with diagnosing psychopathy comes through how subjective the c
 
 Psychopathy, narcissism, and Machiavellianism put together are called the "dark triad", but it's possible they're the same thing in many ways.
 
-- Psychological diagnosis, however, is the description of a pathological disorder, so it's entirely possible that all personalities can theoretically descend down into the same form of corruption (which is consistent with [some religious viewpoints](https://theologos.site/narcissism/)).
+- The people who fulfill these three characteristics are about 7% of the population.
+- Psychological diagnosis, however, is the description of a pathological disorder, so it's entirely possible that all personalities can theoretically descend into the same form of corruption (which is consistent with [some religious viewpoints](https://theologos.site/narcissism/)).
 
 The Psychopathy Checklist-Revised (PCL-R) is the standard for determining psychopathy.
 

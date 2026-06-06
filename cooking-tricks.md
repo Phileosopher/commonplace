@@ -170,6 +170,12 @@ Cook fish fillets in the microwave:
 
 Hold kabobs in an upside-down colander to cook or serve.
 
+To dispose of grease easily:
+
+1. Place a piece of folded aluminum foil in the kitchen sink drain.
+2. Pour the grease in.
+3. Once it dries, ball it up and throw it out.
+
 ## Beans/nuts
 
 Soak lentils and beans quickly:

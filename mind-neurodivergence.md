@@ -89,7 +89,7 @@ The personality clusters are aligned with how we can specifically fail at workin
 - [Cluster B](mind-neurodivergence-clusterb.md) personality disorders have a [memory retention](mind-memory.md) problem (i.e., bad memory management).
 - [Cluster C](mind-neurodivergence-clusterc.md) personality disorders breaks into several domains based on an issue with [imagining things](mind-imagination.md) (i.e., managing expectations).
 
-## Intelligence
+## High intelligence
 
 A capacity to think far faster than most people.
 
@@ -106,15 +106,43 @@ How to behave with them:
 
 - Avoid [small talk](language-speaking-smalltalk.md), since they find it boring.
   - If they exhaust you, politely limit your time with them.
-- They have more interest and patience with complex matters, so even "dumb" things will be made complex with them.
+- They have more interest and patience with complexity, so they will make "dumb" things complex.
+- They generally have less patience with most social systems than average.
+  - All of society's systems run at a speed that's much slower than their mind runs, so they are forced to slow down just to stay on the same wavelength as everyone else.
 - The greatest sense of [meaning](meaning.md) they'll receive will come through your acknowledgment of something new you hadn't learned from them.
   - However, don't take offense if they find your discovery annoying, since they often build cumulative information over concepts that often aren't part of the public dialogue.
 
 The cure for it:
 
-- [Socialization](jobs-specialization.md) is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
+- [Socialization](people-friends.md) is still a requirement, but becomes progressively more difficult in proportion to their intelligence (since most people simply can't think on that level of depth).
 - Without socialization, they will often descend into other forms of neurodivergence.
   - It's also a scientific possibility that intelligence itself *is* a composite of other neurodivergence.
+
+## Low intelligence
+
+The tendency to think slower than most people.
+
+- May be a specific disability, or may be near-universal (e.g., Down's Syndrome).
+- Can be measured reliably with IQ tests, but low IQ doesn't dictate any [moral](morality.md) standing (though it may affect patience).
+
+Indicators:
+
+- Difficulty coming to large conclusions, rapid ability to react to baser triggers.
+  - At the far end, this can make them react wrongly to [basic life decisions](mind-decisions.md).
+
+How to behave with them:
+
+- Only speak with [small talk](language-speaking-smalltalk.md), since they often have the mind of [a child](language-speaking-children.md).
+- They are often easily entertained if you keep things lightweight, but they'll also become frustrated more quickly.
+  - Impulse control is much more difficult for them, and [addiction](addiction.md) is a much greater risk.
+- The endless [specializations](jobs-specialization.md) of society have marginalized them more than any other people group.
+  - As tasks become more technical (e.g., excavator replaces shoveling dirt), [technology](technology.md) slowly drives them out of many [jobs](jobs-1_why.md).
+  - If you're [managing them](mgmt-3_teams.md) give them simple, physical tasks.
+
+The cure for it:
+
+- They're still capable of you're willing to [teach them](education-how.md), but will simply require much more patience.
+  - Focus as much as possible on *only* the details that matter (i.e., "what" more than "why" or "how").
 
 ## Oppositional Defiance Disorder (ODD)
 

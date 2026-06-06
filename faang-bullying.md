@@ -43,8 +43,10 @@ Apple
 Amazon
 
 - [2021-04 Twitch, owned by Amazon, will ban users by the broad definition of "severe misconduct" away from their site](https://web.archive.org/web/20210407172946/https://www.reuters.com/article/us-twitch-moderation/twitch-will-ban-users-for-severe-misconduct-that-occurs-away-from-its-site-idUSKBN2BU2QJ).
+- [2021-09 An Amazon worker was illegally fired by Amazon for speaking out about a coworker’s death](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
 - [2022-02 Audiblegate: Audible is not giving publishers their royalties and making them absorb some transaction costs](https://web.archive.org/web/20220213104303/https://twitter.com/wdfpodcast/status/1492810241372741636).
 - [2023-05 A blogger who criticized Amazon's policies was harassed by Amazon's lawyers later](https://web.archive.org/web/20230530173410/https://twitter.com/Molson_Hart/status/1663582588210905091).
+- [2023-09 A developer account for photo and video editing software was removed by Apple, and they didn't pay out the $108,878 they incurred](https://seraleev.notion.site/Our-developer-account-was-removed-by-Apple-and-they-haven-t-paid-out-108-878-b61192711c74487480373badc70d42c0).
 
 Google/Alphabet
 

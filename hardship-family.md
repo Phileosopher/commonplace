@@ -22,6 +22,28 @@ Find a new, healthier, supportive group who respects your boundaries more:
 
 ## How to handle abusive parents and guardians
 
+Families start with [a man and a woman](relationships-marriage.md), and every dysfunctional family arises from two dysfunctional people.
+
+- Over time, each family member will adopt at least a few rigid roles:
+  - Peacemaker: tries to resolve all [conflicts](people-conflicts.md)
+  - Caretaker: tries to do all the work
+  - Scapegoat: gets in the most trouble
+  - Golden One: cherished and praised by everyone else
+  - Silent One: ignored by everyone else
+  - There are many others, depending on which psychological system is being used.
+- Healthy families will move these roles around, but dysfunctional ones tend to lock people into those roles.
+  - The Peacemaker and Caretaker will constantly cross [boundaries](people-boundaries.md) to attempt peace with everyone, and will be [abused](hardship-abuse.md) in the process.
+  - The Scapegoat will be constantly berated as "bad" even when they [succeed](success-1_why.md).
+  - The Golden One will be valued by everyone, but will also be held to an unfair standard.
+  - The Silent One will be neglected and have to become self-sufficient.
+
+Parents often play siblings against each other.
+
+- A parent will shame the Scapegoat with the Golden Child (e.g., falsehoods like "I raised you both the same.").
+- The parent will often compare the siblings with each other, a bit like a competition that disregards all aspects of [personality](people-personality.md).
+- The parent will speak about the child more often than *to* the child (i.e., using a third person or "triangulation").
+- The parent will withhold [love](people-love.md) from one child while publicly showering the other one with it.
+
 If you've been hurt by a parent, don't wait for them to change:
 
 - They obviously created the environment you were in, with all its specific patterns, and they didn't change *that* time.

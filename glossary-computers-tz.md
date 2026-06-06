@@ -89,6 +89,8 @@ Tunnel - a two-way communication between two resources, typically applies to VPN
 
 Tuple - a finite ordered list of elements, indicated by n (e.g., an n-tuple has n elements)
 
+Turing test - the mathematician Alan Turing's constantly moving target of what makes a computer indistinguishable from a human
+
 TWAIN - the driver standard for scanners, not an acronym but is a reference to "never the twain shall meet"
 
 Two's complement - a mathematical means of representing negative numbers by using the binary number from decrementing in binary from 0
@@ -251,6 +253,8 @@ Wireframe - a line-based form of something, can be a visual guide of how somethi
 
 Word - the size of a memory register, typically a base-2 representation (2, 4, 8, 16, 32, 64, etc.)
 
+Word processor - software that helps with [writing](language-writing.md)
+
 Worm - malware that self-replicates onto other networked computers
 
 WPS - can refer to Wi-Fi positioning system (a method of using Wi-Fi signals for trilateration) or Wi-Fi protected setup (a button-activated authentication system built into most network routers)
@@ -280,5 +284,7 @@ Zero-click attack - a cyberattack that doesn't require the user to do anything t
 Zero-day exploit - aka "0 Day", an exploit that was just discovered after it could be exploited
 
 Zero-trust security - assuming that users and devices aren't trustworthy by default
+
+Zip bomb - aka decompression bomb or zip of death, a malicious archive file designed to overwhelm a computer when decompressed
 
 Zone file - a file on a DNS host that indicates resource records

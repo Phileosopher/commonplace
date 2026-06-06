@@ -21,8 +21,8 @@ Like everything else we perceive, we tend to observe gender differences as compl
 The differences arise from birth, specifically in whether the wiring for reproduction is built into us.
 
 - Females have an innate sense of purpose built into their bodies for [nurturing an infant](parenting-babies.md), while males don't.
-  - The female mind is perpetually preoccupied with patience in fostering a delicate thing, while at the same time concerning itself with other things at the same time (e.g., risks, further resources).
-    - This mindset is vital for fostering delicate things.
+  - The female mind is perpetually preoccupied with patience in fostering a delicate thing that is incapable of performing an [immoral](morality.md) action, while at the same time concerning itself with other things at the same time to that end (e.g., risks, further resources).
+    - This mindset is vital for fostering delicate things in general, but especially in parenting.
   - In early [childhood](maturity.md), this will demonstrate with girls making everything a type of "baby", with boys testing their physical capacity to its farthest range.
   - However, in the wrong time and place (i.e., after a 6-month-old infant), a female can often enable bad behavior or disempower developing children.
   - Further, in the presence of [danger](safety.md), they will instinctively align with an anti-predator mindset, which effectively gives *zero* [justice](morality-justice.md) to the alleged "predator".
@@ -76,7 +76,7 @@ However, many people heavily [identify](people-identity.md) with that portion of
 
 Some people, especially among the LGBT+ community, revolve their *entire* lifestyle around elements of sexual intercourse and [imagine](mind-imagination.md) everyone else does as well.
 
-## Development
+## Sexual development
 
 Sexual development comes in waves of identification, with each one adding onto the previous.
 
@@ -178,6 +178,21 @@ It's often [taboo](morality-taboo.md) to say, but the two genders work best with
 - When men are placed in a supporting role to women, they don't have the mental ability to reason out possible risks or problems.
 
 APPLICATION: The genders work fantastically well with one another, assuming basic human [love](people-love.md). Otherwise, it's all a [power](power.md) game that men can ultimately win by a show of force, which becomes the [stereotype](people-image-why.md) of an authoritarian male that eventually re-represents itself in a show of force.
+
+## Women and politics
+
+The above-stated purpose-built mechanism of a female contrasted to men's implicit non-purpose creates an implicit [political](politics-conservativeliberal.md) problem in society.
+
+- The differences in [personality](people-personality.md) across populations means that men and women will score near-equally on most metrics, but the men will always sit on farther domains of the statistical curve (e.g., the smartest people in the world and the dumbest people in the world are men).
+  - This means that men will always out-succeed *and* under-succeed women, if we factor all aspects together.
+- The aspect of [career paths](jobs-1_why.md) will always skew toward men because they don't stop their career to [raise children](parenting-babies.md).
+  - Feminist dialogue has tracked the earnings potential for this situation to about 70% the earnings potential of men.
+- Finally, it means that [evil](morality-evil.md) men tend to be more domineering and overtly abusive, while evil women tend to be more controlling and subversive.
+
+Further, advancements in abortion technology have created a very real problem.
+
+- If we define abortion as the ending of a baby's life, then more people have died in the 20th century from abortion than almost all the wars and genocides combined.
+- However, birth control is absolutely necessary for women to stay competitive alongside men.
 
 ## Men and feelings
 

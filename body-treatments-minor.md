@@ -268,6 +268,15 @@ Set a cotton ball soaked in brandy in the navel
 
 Stick out your tongue
 
+## Sluggish feeling
+
+Purge your lymphatic system:
+
+- Slap each armpit 20 times.
+- Slap each elbow pit 20 times (affects your lung channel).
+- Slap your stomach near the navel 30 times (the digestion channel).
+- Slap the outside of your legs 30 times (affects the gallbladder channel).
+
 ## Small cuts, paper cuts, and razor cuts
 
 Apply superglue to the cut

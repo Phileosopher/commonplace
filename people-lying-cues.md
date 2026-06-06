@@ -14,6 +14,11 @@ However, if a person is delusional (e.g., [Cluster B personality](mind-neurodive
 
 ## Body language
 
+The most dominant expression of a liar comes through a discrepancy in body language.
+
+- Sometimes, one part of their body does something different from the rest (e.g., twitching leg while behaving at ease).
+- Other times, they will express an inaccurate emotional response (e.g., nodding head while looking anxious).
+
 Shrugging isn't necessarily a sign of lying:
 
 - It shows uncertainty or indifference, so it should consistently match their statement.
@@ -51,10 +56,18 @@ Leg movements:
 
 ## Speaking and tone
 
+In general, they'll be speaking more slowly than normal and buying time.
+
+The flow of the liar's statements will often be more self-corrective.
+
+- They'll state things, then stop mid-sentence and give more precise details.
+- They will state the truth, which means they'll own when they don't know something.
+- They'll use more specific details in everything (e.g., dates, times), and will also precisely quote people.
+
 Watch for a higher pitch that rises or breaks:
 
 - Pitch connects loosely to a feeling of strength.
-- Juveniles and women are more likely to use high-pitched voices while speaking the *truth*.
+- By contrast, juveniles and women are more likely to use high-pitched voices while speaking the truth.
 
 Many people "buy time" with hesitations in speaking, but great liars will make *fewer* errors than truth-tellers.
 
@@ -94,7 +107,7 @@ Vague answers usually conceal a true opinion.
 
 Qualifiers (e.g., but, kind of, like, however) are a verbal technicality that someone can fall back on.
 
-Expanded contractions (e.g., I did not, I was not) instead of proper contractions (didn't, wasn't) buy a little more time.
+Expanded contractions (e.g., I did not, I was not) instead of proper contractions (didn't, wasn't) buy a little more time to think.
 
 Stating a loss of memory with "I don't recall" or "I don't know" is an easy way to add vagueness or buy time.
 

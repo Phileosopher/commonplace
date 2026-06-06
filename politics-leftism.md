@@ -111,6 +111,19 @@ In practice, leftism also has a history of political violence, but tends to hype
 - Their value system is configured based on the idea that their political views are inherently sensible.
 - Since there's no higher authority (i.e., [God](theology-god.md)), there's no accountability if the group pivots on a specific issue.
 
+Even [politically manipulative people](power-influence-how.md) have a hard time with leftism, since the efforts to antagonize and destroy all leadership structures will eventually point to the manipulative people themselves.
+
+The long-term effects of leftism combine with a plethora of doctrines to create a predictable cycle across civilization:
+
+1. Society maintains a community-oriented, [family](people-family.md)-oriented way of life across centuries.
+2. As [technology](technology.md) scales, people become more autonomous, which creates variations of [libertarianism and liberalism](politics-conservativeliberal.md) that go against conventional conservative lifestyles.
+3. Eventually, a few philosophies arise that *dramatically* decrease reproducing children:
+   - [Feminism](people-gender.md) may endorse marriage, but will effectively cut the number of women giving birth in a population in half.
+   - Homosexuality removes the [marriage-based](relationships-marriage.md) model for raising children, effectively removing the self-sufficiency of two people to have a person.
+   - Any promotion toward [healthcare technology](body-health-toxins.md) can further incapacitate someone (e.g., fertility issues, trans-sexual surgery).
+4. Within 40 years, [the existing order of leftism has grown old](people-trends.md).
+5. Within 60-80 years, most of that population has been replaced by people with a lineage of a conservative family that believes in preserving life.
+
 ## Rebranding leftism
 
 The leftist [narrative](stories-why.md) has expanded itself in recent history. Instead of merely calling low-income people the "oppressed", it has [classified](people-classes.md) society in other directions.

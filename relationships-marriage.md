@@ -12,7 +12,8 @@ Marriage is a type of [social contract](people-contracts.md):
 In healthy marriages, both spouses make tremendous sacrifices for each other:
 
 - From [dating](relationships-dating.md) onward, you're maintaining [an intimate friendship](people-friends.md) and learning to [love](people-love.md).
-- Your relationship *can* be [fun](fun.md), but it also comes with responsibilities.
+- Your relationship *can* be [fun](fun.md), but it also comes with responsibilities and a lifelong commitment.
+  - The [agreement](relationships-marriage-secularcontract.md) of "to have and to hold" means to stay with that person through *everything*.
 - Whenever possible, stay emotionally supportive and available for them.
 - Respect them and their [decisions](mind-decisions.md), even when they're not around.
 - Their advice and input must be important to you somehow, or the relationship needs to change.

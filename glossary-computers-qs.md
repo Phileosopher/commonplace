@@ -75,6 +75,8 @@ Register - a DFF attached to a multiplexer, the implementation of storing memory
 
 Regular expression - aka regex, the sequence of characters used in computer code to sort through text for specific conditions, syntax varies by programming language
 
+Reinforcement learning - a deep learning approach where the model uses user feedback to "reinforce" a bias of some things over others
+
 Relational database - a database that links its data together with a primary key, uses SQL to interact with it, contrast to NoSQL
 
 Relative motion - the distance between two points irrespective of where they're at, how a mouse and touchpad send information, opposite of absolute motion
@@ -209,6 +211,8 @@ Simplex - data transmission that's only one way, contrast to duplex
 
 Single-board computer - a cheaply made computer made with only one printed circuit board such as the [Raspberry Pi](https://www.raspberrypi.org/) and [Arduino](https://www.arduino.cc/), perfect for simple projects and low-cost solutions
 
+Singularity - a specific AGI condition that futurists assert will happen where all the computer systems are so networked and intelligent that they gain a collective consciousness
+
 SISO - single-input single-output, a relatively slow transceiver configuration compared to SU-MIMO or MU-MIMO
 
 Skeleton loader - a design placeholder element, typically with a scrolling indicator, to express the framework of a page *before* it loads completely
@@ -256,6 +260,8 @@ SPA - single page app, a simple website/app that's only 1 page of content
 Split cache - a hardware architecture where memory is split between programs and data
 
 Spoofing - feeding false information into a computer to imply something different from reality, often used for hacking, examples include GPS spoofing (to change perceived geolocation) and cell tower spoofing (to make a cell phone think a computer is a cell tower)
+
+Spreadsheet - a table-based interface for working with two-dimensional data, has become ubiquitous among society alongside word processors and slideshow apps
 
 Sprite - the foreground and moving elements of a game, contrasts to a static background
 

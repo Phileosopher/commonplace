@@ -312,3 +312,46 @@ One of the most critical skills in conflict management is to know when to diseng
 
 - If you let them cross your boundaries, it sets a precedent for them to continue doing it later.
 - Once you've said what you wanted to say, any further discussion is a waste of yours and their time.
+
+## Going no contact
+
+Sometimes, you may need go "no contact" if you consistently feel [unsafe](safety.md) and can't [trust](mind-trust.md) that anyone will change.
+
+- Most people will go no contact to self-protect, so this is perfectly typical.
+- Even no contact for a period of months or years can give clarity over what to do next.
+- Estrangement is rarely "one big event", and is more often a dramatic decision after years of smaller injuries.
+
+There are some clear indicators that no contact may be ideal:
+
+- Persistent invalidation of your experiences or feelings.
+- Consistent, unapologetic [boundary violations](people-boundaries.md).
+- A complete lack of insight about their role in any of the conflicts.
+- [Narcissistic](hardship-abuse-narcissist.md) traits or they're exercising [control dynamics](power-influence.md).
+- Pulling in other people to the conflict ("triangulation").
+
+Before going no contact, you should do your best to resolve the issue:
+
+- Try setting clear boundaries (the other person won't respect them).
+- Make several sincere attempts to have a [crucial conversation](people-conflicts-crucial.md) about the matter.
+- Explain your [feelings](mind-feelings.md) clearly and articulately.
+
+However, if none of those happen, you may be permitting unhealthy behavior and may even be [caught in a narcissistic abuse cycle](hardship-abuse-narcissist-stages.md):
+
+- Minimizing your own needs to "keep the peace".
+- Staying longer in an unhealthy context than you should.
+- Give multiple "second chances" in the hopes that they will change.
+
+Estrangement will create a dramatic [change](people-changes.md).
+
+- The estranging person will often feel both [guilt](mind-feelings-shame.md) and relief together.
+- The estranged person will often feel some combination of guilt, confusion, or (in the case of [narcissistic abuse](hardship-abuse-narcissist.md)) relief.
+- This usually creates tremendous suffering for estranged [family members](hardship-family.md), and can often divide a community.
+
+Attempting to reconnect will often fail the first time.
+
+- There's usually a clear pattern that re-emerges:
+  1. Both sides reconnect with hope they'll make things work out.
+  2. The old conflicts dynamics resurface quickly.
+  3. At least one of the people feel far more disappointed than before.
+  4. There's usually another, often longer, estrangement.
+- While the [love](people-love.md) is real, both people have to have made the necessary [changes](habits-change.md) within themselves for there to be any hope of restoration.

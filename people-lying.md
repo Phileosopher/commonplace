@@ -5,7 +5,7 @@
 
 We're *surrounded* by lies:
 
-- People lie about 3 times for every 10 minutes of talking.
+- On average, people lie about 3 times for every 10 minutes of talking, or about 10-200 times a day.
 - Everyone wants to adapt their [image](people-image-distortion.md) to its best possible interpretation.
 - [Modern marketing](marketing.md) creates false perceptions to sell their products.
 - Most of the time, success requires small lies, or "bending the truth", especially when we've [endured severe hardship](hardship.md) and are afraid of what others may think.
@@ -22,6 +22,10 @@ Many times, we're forced to lie.
 
 - We often have to avoid [shame](mind-feelings-shame.md), so we will make "little white lies" to prevent others from knowing we didn't do what we promised, then fix it ourselves.
 - This is [habit-forming](habits.md), and can extend to entire [cultures](people-culture.md) that *expect* everyone is lying at least a little.
+
+Lies, however, are frequently a cooperative act.
+
+- Most people will be complicit in lying because they believe it will maintain social harmony.
 
 Because of all this, we frequently assume *falsely* that other people are lying, even when they're not.
 

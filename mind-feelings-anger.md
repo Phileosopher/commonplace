@@ -7,7 +7,7 @@ Anger is an emotional belief of a [perceived](people-image-why.md) sense of [inj
 2. A belief that the loss was [unjust](morality-justice.md).
 3. Belief that [action](mind-decisions.md) can be taken that will resolve the injustice.
 
-Generally, anger becomes a catch-all feeling when we don't understand how to feel otherwise or have judged an injustice.
+Generally, anger becomes a catch-all feeling when we don't understand how to feel otherwise or have judged an injustice. It's a protective response that gives us control.
 
 When we feel anger, we release more adrenaline, which makes our heart rate increase, our blood pressure rise, and our muscles tighten. Our hormones are essentially preparing for a "fight or flight" circumstance.
 
@@ -72,7 +72,13 @@ Anger is always connected with suffering, and there are many common triggers for
 - Treatment that was unfair or violated our [boundaries](people-boundaries.md)
 - Past [trauma](hardship-ptsd.md)
 
-Reducing anger comes through a specific sequence:
+Slowing from anger at the moment requires conditioning the brain that things are safe:
+
+1. Take a deep breath inward (about 3 seconds).
+2. Take an additional inhale while holding the air (which pushes the respiratory system farther open).
+3. Exhale slowly (across 6 seconds), which activates the vagus nerve and engages the parasympathetic nervous system.
+
+Beyond the instant moment, reducing anger comes through a specific sequence:
 
 1. Understand the source of our suffering for the purpose of addressing it.
 2. Manage our expectations to lower our [stress](mind-feelings-happiness-stress.md).

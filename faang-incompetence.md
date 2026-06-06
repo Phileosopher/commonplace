@@ -73,6 +73,7 @@ Google/Alphabet
 - [2023-03 Google Drive puts an undocumented hard limit on how many files you can have, even if you're paying for its service](https://web.archive.org/web/20230331183021/https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/).
 - [2023-06 YouTube is testing out permanently blocking users who use ad blockers](https://web.archive.org/web/20230628202558/https://www.androidpolice.com/youtube-ad-blockers-three-strikes/).
 - [2023-10 A Google-verified advertiser provides KeePass malvertising](https://web.archive.org/web/20231019045124/https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/).
+- [2023-12 Google promised unlimited cloud storage, then cancels the plan and makes it read-only, then gave a journalist 7 days to migrate their 237 TB before it was deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/).
 
 Microsoft
 

@@ -89,6 +89,10 @@ As traditions become [stories](stories-why.md), they often develop [superstition
 
 APPLICATION: Every new member of a group must learn the value of their culture's traditions for themselves. The best way to destroy a culture is for the older order to be bad at [teaching](education.md). The easiest way to teach is through a [rite of passage](maturity.md) because the next generation can maintain the older generation's [beliefs](understanding-certainty.md) through [feeling](mind-feelings.md) the experience for themselves.
 
+Often, we will [feel](mind-feelings.md) strong affections about our cultural background. We frequently will make the mistake of assuming others will experience a similar [meaning](meaning.md) if they adopt a similar culture.
+
+APPLICATION: Everyone has a different basis of where they come to understand experiences. We may [feel](mind-feelings.md) the same things, but often *not* over the same reasons.
+
 Sometimes, new leadership will destroy those mindless traditions, but it's impossible to purge *all* of them because of how frequently we make these traditions and how much the older order would hate the [changes](people-changes.md):
 
 - Holiday celebrations such as Christmas and Easter.

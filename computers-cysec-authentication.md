@@ -19,7 +19,7 @@ There are three "factors" to give evidence that someone is who they say they are
 
 They all have downsides:
 
-- Someone can guess knowledge (especially with [social engineering](social-engineering.md)).
+- Someone can guess knowledge (especially with [social engineering](computers-cysec-socialengineering.md)).
 - Someone can duplicate what someone possesses, or at least enough to fool a computer.
 - Nobody can take someone's inherence very easily, but it can't be updated easily if they ever *do* succeed at stealing it (i.e., there's no easy way to rebuild fingerprints or reconstruct a face).
 

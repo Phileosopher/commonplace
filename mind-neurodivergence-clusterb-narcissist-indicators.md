@@ -25,6 +25,14 @@ This is a more common-sense summary, and therapists are trained to detect more a
      - Most professionals in this capacity don't react to charm, intimidation, pity, or bragging.
      - Their response is usually irritation, anger, or defensiveness.
 
+There are some easy indicators to pick up their behavior immediately:
+
+- They cut off people, but won't tolerate others cutting them off as well.
+- When others refuse to engage in their confrontations, they become irritated.
+- They present themselves as morally superior, where typical boundaries don't apply to them.
+- They veer into odd topics or go into long monologues that allow them to dominate conversations.
+- None of these indicators are warning signs alone, but collectively they demonstrate signs of dominance, manipulation, and a lack of empathy.
+
 ## The primary indicator of narcissism
 
 The one trait of a narcissist is denial.
@@ -80,6 +88,57 @@ To earn admiration, they'll behave kind, humble, and spiritual.
 - To gain status and control, they'll happily volunteer or lead events.
 - While they openly virtue signal love and forgiveness, they'll secretly gossip and judge others.
 - They'll frequently misuse [Scripture](theology-bible.md) to justify their actions or silence others' disagreements.
+
+Their personalities mean they're more likely to gravitate toward certain hobbies and careers more than others.
+
+- Collecting status symbols:
+  - Luxury cars
+  - Watches
+  - Wine
+  - Shoes
+- Excessive status lifestyle:
+  - Golf
+  - Fine dining
+  - Designer fashion
+  - Luxury travel
+  - Auctions
+  - Yacht boating
+- Direct public-facing hobbies:
+  - Social media/live streaming creator
+  - Amateur acting
+  - Karaoke
+  - Public speaking
+  - Cosplay
+  - Modeling
+  - Beauty pageants
+- Indirect public-facing hobbies:
+  - Interior design
+  - [Art](art.md) or photography
+  - Volunteering that draws attention to them
+  - Personal branding
+- Self-improvement culture:
+  - Fitness influencer
+  - Competitive bodybuilding
+  - Biohacking and "alpha male" self-improvement
+  - Spiritual retreats
+- Dominance hobbies:
+  - [Cooking/baking](cooking.md)
+  - Poker
+  - Martial arts
+  - Competitive video games
+  - Pickup artist culture
+  - Spying on people or stalking
+  - Harrassing people
+- Fantasy fulfillment:
+  - Reality TV
+  - Alternate life video games
+  - Fake online profiles
+- Public-facing careers:
+  - Any of the above if it makes money
+  - DJ
+  - [Sales/marketing](marketing.md)
+  - Stock/[cryptocurrency](computers-blockchain.md) trading
+- It's worth noting that the issue on all these is *why* they do it, not simply that they do it.
 
 ## Nonverbal cues
 

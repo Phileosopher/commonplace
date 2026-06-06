@@ -37,7 +37,11 @@ The quickest way to learn is to get the quickest feedback possible:
 
 You will need to stay [motivated](purpose.md) and [organized](organization.md) to persevere.
 
-- Most people think it's easy, but that's only because they see others' end result after many troubling failures.
+- If you do one small thing every day, you'll move faster than if you do a big thing once in a while.
+  - Slow is smooth, smooth is steady, and steady is fast.
+  - Aim for precision more than results.
+- The [structure of habits](habits.md) means it takes time to build them up.
+  - Most people think it's easy because they see others' end result after many troubling failures.
 
 Persistence is another word for faith or resilience:
 

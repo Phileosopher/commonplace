@@ -38,6 +38,12 @@ If you need more, most yoga poses are simply variations of stretching.
 
 ## Focusing on problem areas
 
+If you have a neck hump:
+
+1. Get on your hands and knees and spread your legs as far as you can.
+2. Put your elbows on the ground in front of you with your hands clasped together and look upward.
+3. To add more intensity, do the stretch while standing and use a chair.
+
 If you have stiffness in your shoulder or arm:
 
 1. Lift your palm upward, then extend your arm.

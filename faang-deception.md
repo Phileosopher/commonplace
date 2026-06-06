@@ -36,7 +36,9 @@ Facebook/Meta
 - [2021-09 Certain high-profile individuals are exempt from some or all of their algorithm's rules](https://web.archive.org/web/20210913144339/https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353).
 - [2021-09 Facebook is suppressing references to open source social media such as Mastodon](https://web.archive.org/web/20210911172845/https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon).
 - [2022-07 Facebook is fighting the privacy improvement of URL stripping by encrypting their links](https://web.archive.org/web/20220717132610/https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/).
+- [2023-05 Facebook has removed SSL encryption of competitors' analytics traffic to spy on them](https://dn710009.ca.archive.org/0/items/gov.uscourts.cand.369872/gov.uscourts.cand.369872.575.0.pdf)
 - [2023-09 Facebook will block a link to privacy tips from the EFF](https://archive.ph/20230929160829/https://techhub.social/@kirbstr/111148950526108155).
+- [2023-12 Meta has globally censored pro-Palestinian views](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report).
 
 Amazon
 
@@ -66,6 +68,7 @@ Apple
 
 Google/Alphabet
 
+- [2012-10 Google has systematically tried to deter adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 - [2017-01 Chromium's Widevine DRM can no longer be disabled](https://bugs.chromium.org/p/chromium/issues/detail?id=686430).
 - [2020-01 Google Drive removes shared files it deems "misleading content"](https://web.archive.org/web/20201107034820/https://support.google.com/docs/answer/148505).
 - [2020-07 41% of Google's first page of results are Google products, with the top 15% of the page being 63% Google](https://web.archive.org/web/20200728122742/https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors).
@@ -93,6 +96,8 @@ Google/Alphabet
 - [2023-09 Google Chrome's "Privacy Sandbox" sends a "topics" list to advertisers](https://web.archive.org/web/20231002000048/https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/).
 - [2023-10 Against its claims, Google's PlayProtect removed the sideloaded KDE Connect software because it wasn't installed through the Google Play Store](https://web.archive.org/web/20231014122546/https://discuss.kde.org/t/f-droid-version-of-kdeconnect-uninstalled-by-playprotect/5992).
 - [2023-10 Google is now advocating against internet privacy by supporting a government bill that would require age verification](https://web.archive.org/web/20231101000702/https://www.techdirt.com/2023/10/23/google-decides-to-pull-up-the-ladder-on-the-open-internet-pushes-for-unconstitutional-regulatory-proposals/).
+- [2023-11 Youtube artificially slowed down video load times for Firefox users, and spoofing Chrome magically made the problem go away](https://web.archive.org/web/20231120053030/https://old.reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down/).
+- [2023-12 YouTube hasn't reliably taken down scam advertisements](https://web.archive.org/web/20231212151624/https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/).
 
 Microsoft
 
@@ -142,6 +147,7 @@ Other
 - [2022-12 LastPass set the "div" window for deleting the account to "display:none" (thereby making it impossible to delete the account)](https://web.archive.org/web/20221224223032/https://infosec.exchange/@chiesennegs/109570145849933257).
 - [2023-01 Airbnb removes negative reviews without notification](https://news.ycombinator.com/item?id=34219422).
 - [2023-03 Experian makes it very difficult for consumers to work with it](https://web.archive.org/web/20230313211518/https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage).
+- [2023-04 AT&T Wireless shapes traffic to make some websites unusable](https://adriano.fyi/posts/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/).
 - [2023-06 Avast acquired the independent "I don't care about cookies" extension](https://web.archive.org/web/20230607202731/https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1).
 - [2023-06 Yelp reviews can be severely distorted](https://archive.is/20230614165439/https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php).
 - [2023-06 Stack Exchange is making data dumps harder to access](https://web.archive.org/web/20230615083035/https://meta.stackexchange.com/questions/389922/june-2023-data-dump-is-missing/390023).

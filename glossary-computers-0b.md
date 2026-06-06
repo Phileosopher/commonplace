@@ -42,7 +42,13 @@ ADF - auto-document feeder, a feature for scanners that can scan many pages at o
 
 Adware - software that bloats a computer with ads
 
+AGI - artificial general intelligence, a [futurist's dream goal](https://gainedin.site/machines/) of a computer that can do everything a human can do, see singularity
+
+AI - artificial intelligence, a vague word that could mean a computer having intelligence, or a computer doing human-like tasks, see AGI
+
 Algorithm - a set of mathematical rules (e.g., if the number is less than 5, then leave it alone, otherwise subtract 1)
+
+Algorithmic bias - the specific [bias](mind-bias.md) reflected within deep learning due to biased source data
 
 Aliasing - distortion in a video or audio signal due to feedback, often from a bounced signal or changed resolution
 
@@ -175,6 +181,8 @@ BIOS - basic input-output system, a simple system on the motherboard that activa
 Bit - one 0 or 1 inside a computer, can be scaled to kb, mb, tb, pb, etc.
 
 Bitrate - the sampling rate per second multiplied by the sampling depth, often represents as kilobits per second
+
+Black box - a system that takes inputs and produces outputs, but without indicating what's going on inside it
 
 Black-hat hacker - aka "black hat", a hacker who doesn't honor ethics
 

@@ -130,17 +130,13 @@ French Toast Casserole
 
 ## Lunch
 
+[Make a sandwich](cooking-recipes-sandwiches.md).
+
 You can bake potatoes in the microwave.
 
 Cook and shuck corn by putting husked corn in the microwave for 2-5 minutes, cutting on one side, and sliding the cob out of the husk.
 
 When boiling cob corn, add a pinch of sugar to bring out the corn's natural sweetness.
-
-Make a giant pita sandwich:
-
-1. Cut out the inside of a bread bowl and add any ingredients you want.
-2. Put the top back on and flatten it with a weight.
-3. Cut it into slices.
 
 Orange marmalade:
 
@@ -150,18 +146,6 @@ Orange marmalade:
 4. Let the mixture simmer for a few hours.
 5. Let it cool, then place it into jars.
 6. It will keep for three months in the refrigerator.
-
-Make a sandwich roll:
-
-1. Flatten bread with a roller, add slices of cheese, and roll up tightly.
-2. Set it on medium heat with butter in a pan.
-3. Press and turn the roll to brown it and keep it together.
-
-Make a spaghetti sandwich:
-
-1. Set cooked spaghetti on slices of bread.
-2. Add garlic and any seasonings.
-3. Bake in a sandwich maker or oven.
 
 ## Dinner
 

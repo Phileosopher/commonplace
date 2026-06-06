@@ -9,6 +9,29 @@ Don't confuse your depression with sadness:
 - Depression is where you've come to believe that one of your needs can *never* be met (instead of just right now), then [relive the past](hardship-ptsd.md) repeatedly to find an answer.
 - Over time, depression will erode your [philosophical views](philosophy.md), which will lead to further decay of your [sense of identity](people-identity.md), which will eventually lead to an existential crisis.
 
+Only you can know what you're precisely feeling, but there's a very clear way to distinguish between laziness, procrastination, and executive dysfunction:
+
+- Laziness comes with a type of peace:
+  1. You don't want to do a task and [choose](mind-decisions.md) not to.
+  2. If it doesn't get done, or someone else will do it, you don't care.
+  3. There's only a problem if it should be done, and you can know that by [becoming more aware of your goals in life](success-3_goals.md).
+- Procrastination does *not* come with peace:
+  1. You want to do a task, but you postpone it because it seems difficult, boring, or time-consuming.
+  2. As long as it isn't done, you're not happy with it being present.
+  3. If that's the problem, you'll either need to [persevere into it](success-5_persevering.md) or [say "no" to it](success-3_goals.md).
+- Executive dysfunction is a type of *subconscious* procrastination:
+  1. You want to do a task, and you have set time to do it, but can't seem to do it.
+  2. This may come as blanking out in the moment, finding new distractions, or simply postponing it.
+  3. This issue is because of chronic [shame and guilt](mind-feelings-shame.md).
+
+Unfortunately, procrastination will frequently create depression:
+
+1. We will face some sort of [trauma](hardship-ptsd.md) that we can't deal with at that moment.
+2. We'll postpone it long enough to develop a [habit](habits.md) of procrastination.
+3. After procrastinating long enough, the problems will increase (and often multiply).
+4. If the problem is severe enough, our mind will self-protect with executive dysfunction.
+5. When we permit executive dysfunction to persist without some form of [change](people-changes.md) (internally or with help), we will become depressed when the [results](results.md) of our decisions arrive.
+
 ## The problem with depression
 
 Contrary to what you feel, your first problem is *not* a lack of understanding or happiness:

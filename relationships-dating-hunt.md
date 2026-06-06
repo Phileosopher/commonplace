@@ -1,6 +1,31 @@
 
 # How to hunt for a date
 
+To avoid wasting time, use a three-date limit to find a good partner:
+
+- While it may seem brutal, it prevents developing unhealthy codependency with mentally unwell people.
+- The method quickly works through potential partners:
+  1. Primal Chemistry: examine whether you like how they look, sound, laugh, talk, etc.
+     - Ask probing questions about their lifestyle:
+       - What they do for work and why
+       - Who their best friend is and why
+       - What they do for fun and why
+       - Explicitly ask them if they want a committed relationship (irrespective of whether it's with you) and they should say "yes"
+     - To avoid [bias](mind-bias.md) from falling in love, look for *anything* that might be even slightly annoying.
+  2. Personal Chemistry: look for their goals, religion, beliefs, philosophy, etc.
+     - Don't focus on intellectual, high-level things as much as personal things.
+     - You're checking to see if they're even *capable* of personal conversation or sharing [emotions](mind-feelings.md).
+       - If not, they may be heavily avoidant and overly intellectual, meaning they will be terrible with [hardship](hardship.md) later.
+  3. Attachment Chemistry: Talk about real things that are actually a problem.
+     - Give them a problem and see how they respond to it.
+       - Tell the truth as fast as possible to avoid wasting time.
+     - Be intentionally vulnerable and challenge them to reveal themselves as well.
+     - At this point, you should drop them [if you see any red flags](relationships-dating-warning.md).
+       - If they promise to do something later about one of their failings, that is a *very* bad sign.
+- These three dates also give tremendous context for the coming 6 months.
+  - You can hold them accountable about what they were aspiring toward, what they promised, and who they are.
+- Keep asking questions about them as you get to know them, which gives you information about whether they're a good fit for [marriage](relationships-marriage.md).
+
 ## Signs of interest
 
 To get a baseline, pay close attention to how that person responds to *other* people of your gender and social status.
@@ -8,6 +33,8 @@ To get a baseline, pay close attention to how that person responds to *other* pe
 Universal cues:
 
 - When meeting, eyebrows rise and then come back down after a second.
+- More focus on the other person than normal (e.g., eye contact, facing them).
+  - Naturally, this means they're *not* interested when they're giving less focus on the other person.
 - Slightly longer and more focused eye contact than normal.
   - Pupils will dilate 45% larger while looking at someone they're interested in.
   - While typical staring is 4.5 seconds, people who are interested average 8.2 seconds.
@@ -38,8 +65,15 @@ Female-specific cues:
   - Sits with one leg pressed on top of the other with a hand on the thigh.
   - Exposes neck and wrist skin more.
   - Tosses hair, intimate gazing.
-- Brings up a movie she wants to watch or place she wants to go.
+- Tries to frame a date.
+  - Brings up a movie she wants to watch or place she wants to go.
+  - Is always free if her target asks if she wants to do something.
+  - This also means that she'll either avoid a date or suggest a group date when she's *not* interested.
 - In a public place, spends at least 5 minutes talking with a guy she's interested in without making a signal to find someone else.
+- She won't mention any other males in her life.
+  - This means she's mentioning other males when she *doesn't* like you.
+- She responds rapidly and with plenty of engagement to text messages (e.g., questions, long answers).
+  - This means she's slow to respond, gives one-word answers and doesn't ask questions back when she's *not* interested.
 
 ## Hunt everywhere
 

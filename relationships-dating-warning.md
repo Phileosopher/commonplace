@@ -13,12 +13,20 @@ You are quickly in love with them:
   - Using pheromone-based cologne/perfume.
   - Visiting a variety of places together.
   - Giving many affirmations and affectionate statements.
+- You'll be able to tell because they're developing emotional intimacy with you faster than behavioral consistency.'
+  - You'll hear about deep talks, future plans, and transparent [feelings](mind-feelings.md), but you'll see vague, delayed, or inconsistent actions behind them.
 - All of this is for the purpose of creating a quick commitment (e.g., for [sex](relationships-sex.md)).
 - If the relationship is legitimate, that person will have no issue meeting your [family](people-family.md), [friends](people-friends.md), and slowly getting to know you.
 
+Unable to be honest:
+
+- They should be able to sincerely express the truth.
+- Any [lying](people-lying.md) or [unawareness](mind-awareness.md) now will only get worse at the relationship persists.
+- This can represent emotionally as well through pulling back after closeness.
+
 Constantly seeking compliments or affirmation:
 
-- Sometimes, it subtly expresses throughan awkward silence after expressing an accomplishment.
+- Sometimes, it subtly expresses through an awkward silence after expressing an accomplishment.
 - They have a deep need for admiration, which is a core aspect of [narcissism](mind-neurodivergence-clusterb-narcissist.md).
 - Healthy people don't need constant affirmation.
 

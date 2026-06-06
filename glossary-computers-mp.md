@@ -137,6 +137,8 @@ NAS - network-attached storage, a computer designed to do nothing but keep infor
 
 NAT - network address translation, converting IPs into other IPs, necessary for IPv4 when they started running out of IPs but not necessary for IPv6
 
+NLP - natural language processing, machine learning applied to natural language and speech
+
 Netcode - computer code that executes across a network, often refers to internet-based games
 
 Nested function - a function inside a function, extremely useful but can get complicated to follow the code (especially if there's a recursion)
@@ -149,7 +151,7 @@ Network interface card - aka NIC, a device that's designed to connect to a netwo
 
 Network sniffing - using software to capture packets, can be used for hacking or for diagnostics/learning
 
-Neural network - a mechanism of machine learning that consists of a network of individual rule-defining components
+Neural network - a mechanism of deep learning that consists of a network of individual rule-defining components
 
 NFT - non-fungible token, a unique cryptographic token for something, refers to blockchain
 

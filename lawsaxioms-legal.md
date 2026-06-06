@@ -125,6 +125,8 @@ Beneficium inventarii - literally "benefit of the inventory", limits liability o
 
 - Doctrine of exoneration of liens (common law) - a debt of a property (i.e., a mortgage) is paid with funds from the originating estate and not from the property itself
 
+Best interest of the child doctrine (family law) - a custody principle that decisions regarding a child prioritize that child's well-being, safety, and development, a highly vague concept based on philosophies about [family](people-family.md)
+
 Bona fide purchaser (common and property law) - Someone who buys property without knowing that someone else different from the seller had rightful ownership of it is entitled to receive it
 
 Capitis diminutio - literally "diminished capacity", removing all or part of a person's former status and legal capacity

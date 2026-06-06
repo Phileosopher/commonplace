@@ -30,6 +30,9 @@ If someone has an addiction that's also counter-cultural, they're likely to be l
 
 Every person risks an addiction, at any time, when they have unrestrained [desires](purpose.md).
 
+- In particular, they start trusting the [feeling](mind-feelings.md) they get from a [substance](addiction-substances.md) more than they should.
+- Eventually, they will start seeking the feeling even when it can adversely affect them, and everything will slowly come to revolve around that substance.
+
 Addicts never start off as addicts. As children, the decisions that begin their descent into obsession are typical children's behaviors:
 
 - Children who want to fit in with others will sacrifice their virtues in the process.

@@ -195,6 +195,8 @@ This often comes through [shame](mind-feelings-shame.md) over how much they cont
 
 The victim will often persist in this environment because they will recollect when things were better ("rosy retrospection").
 
+- The abuser will continually reinforce these cues to give the victim hope, and this hope is a huge reason why the abuse can last for many years.
+
 The only way this ends is through several awful possibilities:
 
 1. Full submission and acceptance, which moves to Stage 6.
@@ -245,6 +247,11 @@ When the abuser sees they're losing [influence](power-influence.md) that can't b
 
 ## 8. Destruction and erasure (aka "discard")
 
+The abuser is trying to form a bond where they are the hurt child and the victim is a type of parent.
+
+- The effort is to "teach" the victim how to be the fulfillment of all the needs the abuser needs (a type of "replacement mom").
+- This stops when the victim decides to [treat the abuser like a child](people-conflicts-narcissist.md), since it brings reality into the situation and destroys the delusion.
+
 The abuser will systematically destroy and discard their victim when they're done with them.
 
 - They will retell the events of an experience, but will rearrange or omit a few details to make them the hero or victim.
@@ -273,7 +280,7 @@ If the abuser is intelligent or experienced, they can exploit behaviors in their
 - Provoking their victims to domestic violence.
 - Using a [politically advantageous demographic](politics-leftism.md) for their benefit (e.g., leveraging being [a female](people-gender.md) or African American).
 
-At this point, the victim's best decision is to [learn to heal](hardship-abuse.md)
+At this point, the victim's best decision is to [learn to heal](hardship-abuse-narcissist.md)
 
 ## Recap
 

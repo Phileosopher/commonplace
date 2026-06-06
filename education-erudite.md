@@ -18,7 +18,8 @@ With that said, it's entirely possible to waste time on [useless content](inform
 This, therefore, is my attempt to capture the best of all possible domains.
 
 - This is a purely academic approach, which is trying to capture valuable things while leaving your brain the freedom to *not* read everything ever made.
-- There's obviously no accounting for taste, but that'would be a question about "[art](art-recommended.md)".
+- There's obviously no accounting for taste, but that would be a question about "[art](art.md)", and this is about covering the essentials.
+- I intentionally limit it to 10 per category to avoid any overload.
 
 ## Books
 
@@ -32,6 +33,8 @@ While it has [religious](religion.md) implications, [the Bible](theology-bible.m
 Self-help
 
 - Charles Duhigg's "The Power of Habit", though Part 3 and onward is a bit weak.
+- Dale Carnegie's "How to Win Friends and Influence People" is a basic primer in social skills.
+- Stephen Covey's "The Seven Habits of Highly Effective People", though the 7th habit is nearly worthless.
 
 Engineering and design
 
@@ -51,6 +54,24 @@ Religion
 - Christian
   - St. Ignatius of Loyola's "Spiritual Exercises"
   - C.S. Lewis' "Mere Christianity"
+
+Fiction
+
+- Science fiction
+  - Lord of the Rings series
+
+## Films
+
+Science fiction
+
+- Primer
+
+## Games
+
+Video games
+
+- Kill it With Fire
+- Flower
 
 ## Things to avoid like the plague
 

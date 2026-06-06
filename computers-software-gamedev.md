@@ -44,7 +44,7 @@ A game has to be [fun](fun.md), but this "fun" represents three very specific do
 All three are necessary, but each dimension can be weaker if another dimension makes up for it.
 
 - A simple arcade-style game usually has barely any story, but has *extremely* well-tuned controls and high-quality visual feedback to constantly [communicate to the player](engineering-design.md).
-- A visual novel isn't challenging at all, but holds together with a high-quality story and gratuitous amounts of [visual art](art-visual.md).
+- A visual novel isn't challenging at all, but holds together with a high-quality story and gratuitous amounts of [visual art](art-media-visual.md).
 - Many experimental and independent games are in no way gratifying, but their story's context and the challenge they provide evokes a contradictory experience that can give players [meaning](meaning.md).
 
 [Storytelling](stories-form.md) in games is similar to any other medium, with a few key differences:

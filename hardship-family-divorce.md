@@ -78,16 +78,45 @@ Ideally, you'll be able to settle an agreement with them.
 - Many times a settlement is possible, but it *will* be a compromise that both of you won't completely like.
   - Don't waste time or legal fees on any type of settlement if they're completely unwilling to shift on their preferences.
 
+### High-conflict divorces
+
 If the divorce is high-conflict, expect it to go longer than you'd ever prefer.
 
 - Court battles are long, messy, and unpleasant for almost everyone.
-- Watch for any false allegations your ex makes against you.
-  1. Note any repeated allegations, since they may be guilty of those actions.
-  2. Ask for all information during the discovery process through things like depositions, document production requests, interrogatories, and subpoenas.
-  3. Find out as much information possible to support the fact that they are, in fact, doing the behaviors they accuse you of doing.
-- Carefully consider the [story](stories-why.md) they make against you with their allegations.
-  - In whatever capacity possible, create evidence that counters their allegations.
-- Once you can counter their arguments with facts about them, and your present story repudiates their allegations, you have a better chance of winning your case.
+
+Coparenting during and after divorce is simply not possible with a high-conflict ex.
+
+- Instead, it's better to pursue "parallel parenting" or "protective parenting", which is the mindset that the other person is either uninvolved or a threat to your children's well-being.
+- Be [very careful what you say](legal-safety.md) to your ex, since *anything* you say can and may be read publicly by a judge later.
+
+Men, more than women, are extremely vulnerable during divorces.
+
+- The legal precedent of the past has arranged a context where women have more [power](power.md) than men, especially with respect to custody.
+  - Men are about 15x more likely to be [incarcerated](hardship-incarceration.md) and have an order of protection placed against them.
+- Many [Cluster B](mind-neurodivergence-clusterb.md) women will use the "silver bullet strategy", which will involve many false allegations in the hopes that something will stick.
+  - These allegations create mental conditions similar to being a prisoner of war, and men are 9 times more likely to commit suicide in these contexts due to [depression](hardship-depression.md), [betrayal PTSD](hardship-ptsd.md), and [sleep disorders](sleep-insomnia.md).
+- Society also doesn't know how to handle the context.
+  - Most people without experience with [narcissistic abuse](hardship-abuse-narcissist-stages.md) will blame men.
+  - Most institutions are poorly prepared for the trauma men face, and often will either ignore them or misdiagnose the problem.
+  - Many women are trained to believe that all women must be believed about all allegations.
+
+Watch for any false allegations your ex makes against you.
+
+1. Note any repeated allegations, since they may be guilty of those actions.
+2. Ask for all information during the discovery process through things like depositions, document production requests, interrogatories, and subpoenas.
+3. Find out as much information possible to support the fact that they are, in fact, doing the behaviors they accuse you of doing.
+
+Carefully consider the [story](stories-why.md) they make against you with their allegations.
+
+- False allegations are typically projected admissions, and come as two forms:
+  1. Admissions of their own behaviors, which you need to focus on finding facts that confirm it (interrogatories, request for public documents, subpoenas, etc.).
+  2. Admissions of what they're going to attack you with, which prepares you for the [image](people-image.md) they present and how you can respond.
+- In whatever capacity possible, build evidence that counters their allegations.
+  - Over time, the truth will show itself, even if your ex has exposed almost everyone to [narcissistic abuse](hardship-abuse-narcissist-stages.md).
+
+Once you can counter their arguments with facts about them, and your present story repudiates their allegations, you have a better chance of winning your case.
+
+## Rebuilding
 
 After you've grieved for a long while, you can start again:
 
@@ -96,7 +125,7 @@ After you've grieved for a long while, you can start again:
   - Very often, attraction to toxic people means you have unresolved and unconscious [trauma](hardship-ptsd.md) driving your behavior.
 - You're guaranteed to have a "rebound" relationship, so don't take *anything* seriously or steadily for at least 2-3 years.
 
-## How to work through divorcing parents
+## How to work through the trauma of divorcing parents
 
 Even if you're in your 40s, you'll feel like your world is falling apart:
 

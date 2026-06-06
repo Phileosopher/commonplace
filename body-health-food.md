@@ -36,6 +36,10 @@ Fat is a necessary, healthy part of the body.
 The body needs more proteins and fats than carbohydrates.
 
 - Generally, people crave a variation of what their body needs (which is rarely bread or candy).
+  - Chocolate cravings are for magnesium, which can come from dark chocolate, spinach, pumpkin seeds, or avocado.
+  - Sour cravings are for fresh food, which can come from watermelon, pineapple, lemon water, or mint.
+  - Crunchy food is for stress relief, which can come from celery, apples, carrots, or rice cakes.
+  - Spicy craving is for stimulation, which can come from chili peppers, ginger, jalapeños, or cinnamon.
 - Carbohydrates are our body's energy, but are unhealthy when they spike blood sugar levels.
 - Generally, food with a high glycemic index is full of quickly digested simple sugars.
 - Empty carbs (e.g., candy) are the easiest food and snacks to grab, which is why you'll need a *ton* of impulse control to survive it.
@@ -83,6 +87,7 @@ The Standard American Diet (SAD) is *filled* with risks, on several levels:
 1. Too many additives and preservatives, which often demonstrates in products that can last on a shelf for over two years without spoiling whatsoever.
 2. Enormous portions, which guarantee obesity simply from raw calorie count irrespective of the food itself.
 3. Too many carbohydrates in the food, irrespective of being simple or complex, or whether there's enough fiber in it.
+4. Further than this, almost every single American flavor combination is a [patented](legal-ip.md) combination of 80-150 specialized chemicals specifically designed to create a shockwave of flavor sensations that promote [addiction](addiction.md).
 
 While [Big Medi/Pharma](https://gainedin.site/here-2/) may prolong your life, they would prefer your dependence on them.
 
@@ -99,6 +104,14 @@ While [Big Medi/Pharma](https://gainedin.site/here-2/) may prolong your life, th
 
 [Lose weight](body-diet.md), since any gains from eating healthy things can't offset the risks of being morbidly obese.
 
+The dominant problem with processed food is that more processing makes self-regulation more difficult.
+
+- 6 tortillas is the same as a bowl of tortilla chips.
+- 3 corn on the cob is the same as a bowl of corn cereal or popcorn.
+- 3 potatoes is the same as a plate of french fries.
+- 3 whole apples is the same as 8 ounces of apple juice.
+- 4 glasses of milk is 4 ounces of cheese.
+
 Take controversial advice carefully, since those things *might* be bad for you, but you'll need to feel it out with your body:
 
 - Soy-based products, though it's even more debatable on how and what form of refinement is acceptable.
@@ -111,15 +124,25 @@ Generally, aim for enough nutrients:
 
 - Vitamin A maintains eyesight.
 - Most of the B vitamins have strong benefits.
+  - Vitamin B2 deficiency causes cracking in the corners of the mouth, skin issues, unexplained hair loss, and sore throat.
   - Vitamin B3 (niacin) helps with cholesterol, skin health, and preventing dementia.
-  - Deficiency in Vitamin B6 can cause aggression.
-- Vitamin C maintains the immune system.
+  - Vitamin B6 deficiency can cause aggression.
+  - Vitamin B7 deficiency shows with thinning hair.
+  - Vitamin B12 deficiency causes pale skin and cold extremities.
+- Vitamin C maintains the immune system, so bleeding gums shows a deficiency.
 - Vitamin D combines with calcium to rebuild bones.
   - If you're indoors most of the day, take Vitamin D3 supplements, preferably with K2 to help it deliver calcium.
 - Vitamin E has antioxidant (general health) properties, and almost anything with antioxidants is healthy (though there's not much [science](science.md) around why).
-- Electrolytes are salts that help muscles work better.
+- Vitamin K keeps a few systems healthy.
+  - Vitamin K2 keeps your teeth strong and calcium out of the blood system's arteries.
+  - Vitamin K deficiency can come from dark circles underneath the eyes.
+- Iodine maintains the nervous system, and thinning eyebrows show a deficiency.
+- Iron keeps your body's structure, so ridges on fingernails, dark circles under the eyes, or ice cravings show a deficiency.
+- Magnesium assists in many processes from muscle function to mental health, and calf cramps and restless legs syndrome at night show a deficiency.
+- Zinc keeps your fingernails pure, so white spots shows a deficiency.
+- Electrolytes are salts that help muscles work better, and shaking hands is a salt deficiency.
 - Focus on eating and supplementing what your body *can't* synthesize itself:
-  - Omega-3 fatty acids
+  - Omega-3 fatty acids, which will show a deficiency with dandruff.
   - Potassium (found heavily in bananas)
 - If you have any concerns about not getting enough nutrients, at *least* take a daily multivitamin every once in a while.
   - Most daily multivitamins have most of the necessary vitamins and minerals except Vitamin D3 and iron.
@@ -177,6 +200,7 @@ In general, avoid modern synthetic food:
 - Unfermented soy products have a host of risks.
 - Most fast food adds much more salt, fat, and preservatives than store-bought alternatives, and they often deep-fry them.
   - In restaurants, be careful asking a waitress' recommended dish, since it's usually what the kitchen is trying to get rid of.
+  - Flip a pizza upside down in the box to get a large amount of its grease out.
 
 With vegetables and fruits, try to "eat the rainbow" to get all you need (red, yellow, blue, purpose, orange, green, etc.).
 
@@ -258,6 +282,7 @@ Dairy and eggs can be healthy:
 - Milk products have plenty of calcium and vitamin E.
 - Egg yolks have lots of vitamin E.
 - Yogurt prevents yeast infection and has probiotics to improve digestive health.
+- Butter is very high in vitamin K2 and improves colon health.
 
 Not all grains are unhealthy:
 

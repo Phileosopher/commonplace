@@ -39,6 +39,7 @@ Learn to be constantly in a state of situational awareness.
 
 - This doesn't mean you're panicky, but that you're alert.
 - The [emotional vibe](mind-feelings.md) you give off of being comfortably alert is enough to deter most potential risks for exploitation.
+- Most criminals are trained to find easily suggestible and easily distracted "marks" and to avoid any attention ("heat") on whatever they're trying to [steal](safety-theft.md).
 
 Pay attention to social reality more than technical reality.
 

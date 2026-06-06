@@ -45,6 +45,42 @@ Always answer anyone who knocks on your door at night:
 
 Make sure you've [virus-scanned](computers-cysec.md) your computer and are [safely using the internet](safety-security.md).
 
+## Pickpocketing
+
+Pickpocketers will closely track, and often manipulate, your attention.
+
+Learn to pay close attention to any movement out of the corner of your eye, as well as any attempts to misdirect your gaze.
+
+There are different ways to manipulate someone's attention:
+
+- Overwhelm someone's attention by using lots of movement at once ("fanning").
+- Split someone's attention by doing something and then splitting it into two things.
+- Drawing someone's attention to one specific thing, thereby removing their attention from everything else.
+
+There are degrees of complexity for stealing personal effects:
+
+1. Table steal: grabs something readily available as soon as someone isn't looking.
+   - They may use a "shade" to hide the object from view.
+2. Outside breast pocket: grabs something in a shirt pocket.
+   - This is an easy steal that requires using the mark's movement to hide the action (e.g., dropping and picking something up).
+3. ID badge steal: grab something off a lanyard or necklace.
+   - This requires several seconds maintaining eye contact, which requires someone saying something close to that person's personal space.
+   - The approach to heat is an exception to most maneuvers because calling attention to the badge allows the thief to draw into someone's personal space ("painting it red").
+   - Further, there is a clasp released at that exact moment, so the script will usually include a finger snap or other loud noise.
+4. Outside jacket pocket: pulling out of an exterior clothing pocket.
+   - This one often happens in crowded locations, where the cover and shade come from the environment.
+   - Sometimes, the thief will distract the mark with another gesture on the other side of their body, which will hide the "dip" from stealing the object.
+5. Watch steal: unclasping a watch from someone's hand.
+   - This is more difficult in non-[performance](business-show.md) capacities, and requires building [rapport](mind-trust.md) for people to drop their attention.
+   - The approach can involve palm-reading, a magic trick, or having someone hold their hand out for some other reason that conditions the mark for the thief's touch.
+   - This is delicate, since there are many motions that can trigger the touch.
+   - Traditional watches are more difficult than modern elastic watches because the clasp can re-engage on a looser hole.
+6. Pants pocket steal: the most well-known steam.
+   - Sometimes, they'll steal the object when the mark's pants are down in a bathroom stall.
+   - First, the thief will usually "tap the poke" by pushing the wallet/phone from the bottom first.
+   - When they do it, it's very close to themark's body, and therefore requires them to get very close.
+   - This isn't the most complex, and professional thieves can take things from someone's inside jacket pocket or even their necktie.
+
 ## If someone is breaking into your home
 
 Depending on the situation, it may make more sense to confront, hide, or run from them, so understand [what your rights are](legal-safety.md) beforehand.

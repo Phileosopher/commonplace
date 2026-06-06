@@ -109,7 +109,7 @@ If you have a strong opinion on something, use the Two-And-Done Rule:
 4. If they still don't agree, yield to their decision while retaining your opinion.
 5. Never bring it up again.
 
-## Escalations
+### Avoid escalations
 
 Conflicts tend to escalate through stages:
 
@@ -121,7 +121,7 @@ Conflicts tend to escalate through stages:
 6. After name-calling, they'll make threats proportional to their feelings (though they won't actually plan to do anything).
 7. If they're sufficiently motivated and [immoral](morality.md), they'll perform direct deviant behavior, which will either express as physical aggression or plotting revenge.
 
-However, if people are restrained, they will skip over some escalation stages.
+However, if people are restrained with malicious intent, they will skip over some escalation stages.
 
 - [Narcissists](mind-neurodivergence-clusterb-narcissist.md) will typically skip over yelling.
 - Criminally-minded people will often move straight to deviant behavior.
@@ -131,23 +131,6 @@ The only way to slow this escalation is to speak gently and slowly (i.e., speaki
 - This doesn't stop it, though, and only stops escalating when the other person feels they've been understood and are safe.
 - Since de-escalation is also their responsibility, it's wisest to give time to cool off, but will only improve relations if it's done before the interruptions have become yelling.
   - Alternately, if any de-escalations don't improve relations, that person may be a [narcissist](mind-neurodivergence-clusterb-narcissist.md)
-
-### Avoid escalations
-
-Conflicts create trouble through stages of escalation:
-
-1. Tension - the conflict isn't voiced yet, and often not even recognized as a conflict.
-2. Debate - an effort by each side to convince the other, often with black-and-white thinking, but mostly based on facts.
-3. Actions replacing words - There are no more discussions, and each side take actions regarding their stance, and empathy goes down.
-   - Up to this point, facilitation can bring everyone back into agreement.
-4. Coalitions - The parties are looking for supporters, and the original issue no longer matters compared to winning.
-5. Loss of face - Opponents are defamed, which can include exaggerations and lies.
-6. Threats - The parties try to regain control with implied promises.
-   - Up to this point, mediation can halt any further damage.
-7. Limited destruction - The opponents are no longer seen as human, and losses are acceptable if the other person loses more.
-8. Annihilation - The opponents are now worth destroying by any means possible.
-9. Abyss - Even complete self-destruction is acceptable as long as their opponents also suffer.
-   - When someone wishes to destroy their opponent, forcible intervention is the only available option.
 
 Defuse someone very angry at you or screaming:
 
@@ -165,6 +148,21 @@ If it gets heated, go to separate rooms or outside, with indication that you can
 - Talk it out again, but keep each person's ideas to a five-minute limit.
 - If it gets heated again, leave again and repeat the same procedure.
 - Quickly and meaningfully say you're sorry, but *only* if you mean it.
+
+On a larger scale, escalation becomes a more severe social issue:
+
+1. Tension - the conflict isn't voiced yet, and often not even recognized as a conflict.
+2. Debate - an effort by each side to convince the other, often with black-and-white thinking, but mostly based on facts.
+3. Actions replacing words - There are no more discussions, and each side take actions regarding their stance, and empathy goes down.
+   - Up to this point, facilitation can bring everyone back into agreement.
+4. Coalitions - The parties are looking for supporters, and the original issue no longer matters compared to winning.
+5. Loss of face - Opponents are defamed, which can include exaggerations and lies.
+6. Threats - The parties try to regain control with implied promises.
+   - Up to this point, mediation can halt any further damage.
+7. Limited destruction - The opponents are no longer seen as human, and losses are acceptable if the other person loses more.
+8. Annihilation - The opponents are now worth destroying by any means possible.
+9. Abyss - Even complete self-destruction is acceptable as long as their opponents also suffer.
+   - When someone wishes to destroy their opponent, forcible intervention is the only available option.
 
 If you legitimately hurt others, apologize sincerely and quickly:
 
@@ -190,6 +188,17 @@ If you legitimately hurt others, apologize sincerely and quickly:
   6. Requesting forgiveness for your actions.
 - However, [never apologize for something you didn't do](legal-safety.md).
   - If you're careful, you can usually express heartfelt sympathy without apologizing.
+
+Often, people will behave or react inappropriately, but won't want to take accountability for their side of the conflict:
+
+1. Acknowledge the emotional situation without fueling more conflict.
+   - e.g., "I understand this has been difficult for you."
+   - It gives recognition, but doesn't empower the tension.
+2. Follow with a question about responsibility.
+   - e.g., "What do you think would help fix this?"
+   - Be a *very* good [listener](language-speaking-listening.md) for whatever they say.
+3. Set a clear [boundary](people-boundaries.md) for the context.
+   - e.g., "I want everyone to get along but can't be involved if this is only about blame. Here's what I will do now."
 
 ## Approaching respectfully
 
@@ -243,3 +252,56 @@ Every encounter has a possibility for [negotiation](people-conflicts-negotiation
 
 - Since people and circumstances change, never permit the door to be entirely shut.
 - Beyond the opportunities it can open up, you are taking the [moral high ground](morality.md).
+
+## Focusing on repair
+
+When things don't go well, most people will use [bad conflict mechanisms](people-friends-bad.md) afterward.
+
+- Time won't heal things alone, and will only lower the [emotional](mind-feelings.md) intensity and reduce reactivity.
+  - Depending on each person's [self-awareness](mind-awareness.md), time may also allow people to gain more perspective about the events.
+- With time, you must do your best to make the other person feel [safe](safety.md).
+
+Keeping [friends](people-friends.md) and [relationships](relationships-marriage-conflicts.md) is built heavily on mutual trust and authenticity.
+
+- Both people have to be willing to take risks.
+- Most of the time, both sides have [trust](mind-trust.md) issues with the other.
+
+Make sure everyone feels [safe](safety.md) together.
+
+- Both people should have [regulated nervous systems](mind-awareness-dysregulation.md).
+- Both people should be able to access positive [memories](mind-memory.md) of each other.
+
+Both sides should verbally and explicitly agree with each other on a few things:
+
+1. They're not enemies.
+2. They'll both try to [actively listen](language-speaking-listening.md).
+3. Both sides want to focus on a shared problem.
+4. Both sides are willing to respect [healthy boundaries](people-boundaries.md).
+
+Both sides must be willing to admit they've failed in some way.
+
+- This requires a specific type of [emotional maturity](mind-feelings.md), since it *will* make someone feel [guilt](mind-feelings-shame.md) and [sadness](mind-feelings-sadness.md).
+- Reconciliation only happens with accountability (which is why [Cluster B personalities](mind-neurodivergence-clusterb.md) create so much misery for everyone).
+- This will look different depending on the context, but every single person can take full responsibility for another person's hurt feelings, irrespective of reality.
+
+Both of them must commit to avoiding "you" statements as much as possible, as well as the Speaker-Listener technique.
+
+Avoid either side comparing who was hurt worse.
+
+- Both sides were hurt, and there's literally no way to measure by any reasonable comparison.
+
+Many times, each side must promise to change.
+
+- However, it's better to promise something smaller and actually do it than promise something dramatic and fail at it later.
+
+Even an unreconciled situation can revisit itself later.
+
+- [Hardship](hardship.md) has a way of opening others to resolve issues they formerly vowed to never revisit.
+- The most profound turning point for reconciliation comes when someone shifts their [identity](people-identity.md) away from over-attachment to the other person.
+  - This requires killing earlier [developmental](maturity.md) fantasies about the other person.
+
+A reconciled relationship will always look different than before.
+
+- It often has more [boundaries](people-boundaries.md) with limited or gradual contact and structured interactions.
+- Both sides will have adjusted their expectations more to reality.
+- In the process, both sides will have more emotional independence and less access to each other's deeply vulnerable areas without building [trust](mind-trust.md) again.

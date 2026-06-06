@@ -79,6 +79,10 @@ Even if you're an adult, you're never too old to organize a game of Capture the 
 
 Celebrate April Fool's Day with pranks:
 
+- Play pranks at your workplace:
+  - Put a veggie tray on an office break room table inside a cake or doughnut box.
+  - Replace a phone handle with a banana.
+  - Put scotch tape on the bottom of a computer mouse.
 - Tease your friends and family:
   - Paint a bar of soap with clear nail polish to keep it from lathering.
   - Cut out a spider and put it underneath a lampshade to create a silhouette.
@@ -88,10 +92,6 @@ Celebrate April Fool's Day with pranks:
   - Reply to late-night Snapchat selfies with "what the f*** is behind you!?"
   - Freeze Mentos inside ice cubes, then drop them into Diet Coke while serving.
   - Mix M&M's, Reese's Pieces, and Skittles in a bowl.
-- Play pranks at your workplace:
-  - Put a veggie tray on an office break room table inside a cake or doughnut box.
-  - Replace a phone handle with a banana.
-  - Put scotch tape on the bottom of a computer mouse.
 - Only play pranks on friends who'll enjoy the joke:
   - Give a jewelry box to someone with a note that says, JUST KIDDING!
   - Coat a raw egg with chocolate to make it look like a candy egg.
@@ -101,6 +101,10 @@ Celebrate April Fool's Day with pranks:
 - Lightly prank strangers:
   - Wear sunglasses, sit in a car with the window down, and aim a hairdryer at people as they drive by like a radar gun.
   - If anyone parks across two spots, draw "new lines" on each side of the car and mark it as "IDIOT PARKING".
+  - Make vanilla pudding and put it in a mayonnaise jar, then eat it in public.
+  - Get into a crowded elevator and say "I bet you're all wondering why I gathered you here today".
+  - Run excitedly into a store and ask what year it is. When they respond, yell "It worked!" and run out cheering.
+  - Follow joggers in your car loudly playing a sports movie montage song (e.g., "Eye of the Tiger" from Rocky).
 - Play pranks on animals:
   - Feed apples to a cow to get it drunk.
   - Feed a dog peanut butter.
@@ -121,7 +125,7 @@ Make easy, fun Halloween costumes:
   - Apply makeup to make the eye look irritated.
   - Put gory blood all over it.
 
-Celebrate Christmas:
+Celebrate [Christmas](holidays-christmas.md):
 
 - Decorate everything, including your ceiling.
 - Have a Secret Santa or White Elephant gift exchange.
@@ -260,3 +264,5 @@ Candles that smoke after blowing out are actually blowing wax, and lighting the 
 Attach a book to a retracting dog leash to read in the bathtub.
 
 Keep a small water gun on hot days and spray dogs as you see them (assuming the owners don't mind).
+
+If you have a lot of time and 30-100 binder or key rings, [make ancient tumbling rings](https://www.instructables.com/The-Tumbling-Rings-of-AntiquityOn-Your-Office-D/).

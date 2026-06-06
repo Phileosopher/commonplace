@@ -130,3 +130,17 @@ In online games that have in-game currency and permit players to trade with each
 
 - If the developers only permit cash to flow into the system (i.e., through natural gameplay) but don't allow it to flow *out* of the system, the bartering will slowly yield a natural inflation.
 - To that end, most online game developers have to deal with rudimentary economic policy concepts.
+
+Due to [the nature of specialization](jobs-specialization.md), most strategy games suffer tremendously from a failure in the developers understanding [good managmeent](mgmt-1_why.md).
+
+- Military strategy may be the most accurate, since the aspects of combining resource-gathering, [logistics](logistics.md), and [technological development](technology.md) are relatively easy to observe from military history (e.g., Command & Conquer).
+- However, most other management games (e.g., city planning) will depict the player's [decision-making](mind-decisions.md) as being the dominant factor against opponents' decisions.
+  - In reality, unless there's effectively a dictatorship (e.g., [monarchy](politics-systems.md), corporate CEO) most people in a vast system will make unilateral decisions that develop the system in new and unprecedented ways.
+  - Further, even in a centrally-planned system, leaders are typically constrained by popular opinion and can't make dramatic decisions without everything at least temporarily falling apart.
+- Naturally, this creates a break from realism when we mix city-planning and military strategy (e.g., 4X games).
+- The ideal management game would incorporate the following:
+  1. The player can make limited unilateral decisions (e.g., Reigns).
+  2. Environmental factors change the game based on things the player can't control, but the player can respond to those things.
+  3. The player's decisions affect unstated variables that affect how easy it will be to do things in the future.
+  4. The player's character is still held responsible and scored on at least some of the things they didn't decide.
+- Unfortunately, the ideal is difficult to algorithmically generate, so it usually only sits within the context of a [story](stories-why.md).

@@ -138,18 +138,24 @@ You can definitely use language that asserts healthy boundaries with them, but t
 - "Go ahead and keep doing it, I won't get in the way of it at this point."
 - The quickest way to halt every conflict is to say "I accept that's how you feel".
 
-The most peaceable option is to help them "forget" you:
+The one thing that will terrify and destroy them, more than anything, is to stonewall them.
 
-- Give a threat that you'll expose their wrongdoing, then offer for everyone to forget the event if they don't talk anymore.
-  - It's effectively a form of blackmail, but absolutely necessary because of the lack of [love](people-love.md) on their end.
-- "If you keep doing this, I will report the event you disclosed to me."
-- "I can release a recording of this discussion on social media, or we can forget this ever happened."
+1. Carry on like normal.
+2. When they create conflict, let them run their mouth and tune it out.
+3. After they're finished, don't respond to anything they do, and say, "okay, is that all?"
 
 It's worth noting that you *can* behave like a psychopath to them.
 
 - Their ego is weak enough that they'll be terrified of you.
 - However, this is highly risky, since they will use anything you do against you.
 - Further, while it may be satisfying in the short-term, it is a very [legally unsafe](legal-safety.md) thing to do.
+
+The most peaceable option is to help them "forget" you:
+
+- Give a threat that you'll expose their wrongdoing, then offer for everyone to forget the event if they don't talk anymore.
+  - It's effectively a form of blackmail, but absolutely necessary because of the lack of [love](people-love.md) on their end.
+- "If you keep doing this, I will report the event you disclosed to me."
+- "I can release a recording of this discussion on social media, or we can forget this ever happened."
 
 ## After the fact
 

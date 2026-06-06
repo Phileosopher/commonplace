@@ -45,6 +45,8 @@ CGI - common gateway interface, a set of standards that allow a server to run a 
 
 Chain of custody - aka provenance, a sequence of historical events, typically refers to blockchain
 
+Chain of trust - the flow of various computers authenticating each other, a common topic in cybersecurity
+
 Changelog - aka release notes, documentation for technical people to read that summarizes changes that happen between versions
 
 Channel - designated streams of independent information, can refer to radio frequencies or sound, signals from neighboring channels may bleed over
@@ -229,6 +231,12 @@ Data center - a large set of enterprise-grade computers, often run by companies 
 
 Data integrity - the assurance of data being accurate and consistent
 
+Data mining - using computers to make more data off gathered data
+
+Data science - the science of data mining
+
+Data set - a collection of ordered, related elements of information, can often represent in a spreadsheet table
+
 Data structure - a collected form of data
 
 Data type - the form of the data which can include integers, boolean, floats, doubles, strings, characters, and more
@@ -256,6 +264,8 @@ Decrypt - to decode data with a key, opposite of encode
 Dedicated - a broad term to refer to a computer resource completely allocated for a specific purpose
 
 Dedicated plan - a pricing plan that directs specific hardware for customers who need it, opposite of shared plan
+
+Deep learning - a specific type of machine learning that tries to reproduce the human brain
 
 Default - aka out-of-the-box, the normal configuration without any extra input, sometimes called "vanilla" or "stock"
 

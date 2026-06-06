@@ -5,6 +5,8 @@ Customize the menu by right-clicking the Start button, selecting Settings, then 
 
 As of 2023, the ideal Windows operating system for almost everything is Windows Server 2012 R2.
 
+Name a new Windows folder "Control Panel Shortcuts.{ed7ba470-8e54-465e-825c-99712043e01c}" to access many hidden settings.
+
 ## Bypass Microsoft Account requirement
 
 This worked for Windows 11, but may have changed.

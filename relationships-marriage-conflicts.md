@@ -133,6 +133,12 @@ Practice [healthy boundaries](people-boundaries.md).
 - If they demand you stay in the [conflict](people-conflicts.md), reschedule a specific time when you'll discuss the issue again.
 - If they press the matter and don't honor your boundaries when you've indicated when you're revisiting it, leave immediately.
 
+Generally, men want peace and women want connection.
+
+- Typically, a woman will typically create conflicts when she doesn't feel connected to her husband.
+- Then, a man will typically withdraw when he feels threatened.
+- This can create a feedback loop over time that, when not addressed, becomes [a divorce](hardship-family-divorce.md).
+
 Learn gratitude.
 
 - A date night laughing at web content is a far better thing than being entirely alone.
@@ -147,7 +153,14 @@ Expect your spouse to teach you more about yourself than you wanted to know.
 - If you're emotionally distant, they'll express your coldness.
 - If you're selfish, they'll show you how much.
 
-Barring mental illness, avoid involving outsiders into your arguments.
+The best marital partners are *not* great at avoiding or managing conflicts, but are instead experts in repairing afterward.
+
+- Compatibility, shared interest, and passion don't define good marriage.
+- They use kindness, humor, and empathy to [de-escalate and create healing](people-conflicts-disagreements.md).
+- This requires [emotional attunement](mind-awareness-feelings.md) to others, which requires [listening skills](language-speaking-listening.md) and plenty of [self-reflection](mind-awareness.md).
+- In particular, they stay consistent with this emotional work over time.
+
+Barring legitimate [mental illness](mind-neurodivergence.md), avoid involving outsiders into your arguments.
 
 - Including other people into the marriage complicates the issue.
   - Never insult them in front of others.
@@ -258,6 +271,17 @@ A marriage will slowly break down in clear stages:
 
 Often, as the stages progress, the only way to break the cycle is through couples therapy.
 
-The number one indicator of divorce is when both partners are calmly speaking with each other, but feel tense.
+## Irreconcilable conflicts
+
+The number one indicator of [divorce](hardship-family-divorce.md) is when both partners are calmly speaking with each other, but feel tense.
 
 - In other words, they're speaking to self-protect, but *not* to build or maintain any sort of relationship with their partner.
+- And, more specifically, the most clear indicator is a smirk of contempt by one of the spouses.
+
+Sometimes, a wife will be [planning for divorce](hardship-family-divorce.md) *years* before the husband even thinks it's a possibility.
+
+- Women will frequently provoke a husband to [anger](mind-feelings-anger.md), then use any violence by that husband as justification for her divorce.
+  - This can often pair with marriage or pastoral counseling, as well as [understanding precise legal language](legal-safety.md) to get an edge in a divorce court.
+- Most men with plotting wives over-trust their spouses and have a hard time accepting their wife is plotting to leave him until it's too late (often after the divorce).
+  - Frequently, she will use an escalation (and may even time one) to gain the most leverage (e.g., waiting longer for alimony, having an excuse to take the children away).
+  - To that end, men must be extra alert about the behaviors from their wives.

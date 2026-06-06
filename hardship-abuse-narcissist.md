@@ -1,7 +1,7 @@
 
 ## How to work through narcissistic abuse
 
-In particular, people with [Cluster B personality disorder](mind-neurodivergence-clusterb.md), non-negotiably, causes the most damage to others.
+In particular, people with [Cluster B personality disorder](mind-neurodivergence-clusterb.md), non-negotiably, causes severe damage to others.
 
 - Except for [narcissists](mind-neurodivergence-clusterb-narcissist.md), they don't really *aim* for that abuse, but the naturally-formed selfishness within their personality means they're unable to recognize the damage they do to others' feelings.
 - Their abuse is highly effective because most people who haven't experienced it have a hard time imagining it:
@@ -22,7 +22,32 @@ If you've *ever* been close to a narcissist, they will cause trouble for you:
   - They will, however, expect others to acknowledge their [pain and hardship](hardship.md).
   - While they won't give much sincere praise, they'll expect others to praise them in some capacity.
 
-When we've encountered a narcissist, our only healing comes through learning to [love others](people-love.md) more than ourselves.
+## Healing afterward
+
+At some point, a narcissist will make a severe [break](hardship-abuse-narcissist-stages.md) from you when you likely don't expect it.
+
+- This happens when something in you has decided to set [clear boundaries](people-boundaries.md), and those boundaries make them realize they can't graft themselves with you or use you anymore.
+
+The immediate feeling from their break will be severe [guilt](mind-feelings-shame.md).
+
+- This guilt will psychologically mirror the sorrow of leaving an infant in desperate need, largely because you played a caretaker role in their life.
+- In the emotional intensity, it's easy to forget that the "child" you feel is in fact trapped in an adult body.
+  - That person has essentially misused their adult state to create [evil](morality-evil.md) against you.
+  - This "child" has the weapon of adulthood, and has every intention to destroy you.
+- It is also very common to experience "survivor's guilt" (guilt over not suffering as much as others).
+  - It can represent as "not having done enough" or assuming responsibility for others' [feelings](mind-feelings.md)
+  - However, you are in no way responsible for making other people [feel](mind-feelings.md) anything.
+
+Expect the abuser to smear you for as long as possible.
+
+- This is common, and happens due to the attitudes following [their discard](hardship-abuse-narcissist-stages.md).
+  - You are damaged, hurt, and see how utterly empty that person is, meaning you don't see their behavior as worthy of their total annihilation.
+  - They are throwing an adult tantrum and trying to destroy you as an act of revenge that they've lost control of you.
+  - Therefore, you'll be quieter, and they'll be telling the whole world about how awful you are.
+- You will almost certainly [lose friends](people-friends-bad.md) you trusted were more reasonable.
+- They will try to defame you, maybe even publicly, and may even perjure you in court with false allegations.
+
+The only healing from narcissistic comes through learning to [love others](people-love.md) more than ourselves.
 
 - Narcissists build their fantasy around victimization, so absolutely *anyone* who victimizes, even as a response to a narcissist, runs the risk of becoming one themselves.
   - The vampire [mythology](stories-myths.md) comes directly from this imagery: you become the monster yourself if you don't take the time to heal from it.
@@ -32,9 +57,11 @@ When we've encountered a narcissist, our only healing comes through learning to 
   - The mistake of responding with [bad boundaries](people-boundaries.md).
   - The [sins](theology-sins-list.md) you committed against them, even if you feel it was justified.
 
+## Family narcissism
+
 Their behavior is the direct cause of most [family hardship](hardship-family.md).
 
-- Most of them are *very* severe parents, often [disciplining their children](parenting-children-boundaries-rules.md) far more than loving them.
+- Most narcissists are *very* severe parents, often [disciplining their children](parenting-children-boundaries-rules.md) far more than loving them.
 - When there isn't any formal discipline in the home, the children are exposed to severe [chaos and disorder](unknown.md).
 
 Being raised by a narcissist can severely affect someone's [personality](people-personality.md).

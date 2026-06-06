@@ -82,6 +82,6 @@ But, not all domains are equal:
   - Most sites like .com and .net are ~$10-20 annually.
   - Others cost more (.ai is ~$90, .inc is >$1,000 and climbing).
   - Some are cheaper or free (.xyz is $12, .tk is free).
-- To that end, many people who [scam](social-engineering.md), [hack](computers-cysec-pentest.md), and [host pirated content](computers-distsys-torrent.md) like using cheap/free, disposable domains, which may affect a domain as a [marketable](marketing.md) address when legitimate organizations block the entire domain extension.
+- To that end, many people who [scam](computers-cysec-socialengineering.md), [hack](computers-cysec-pentest.md), and [host pirated content](computers-distsys-torrent.md) like using cheap/free, disposable domains, which may affect a domain as a [marketable](marketing.md) address when legitimate organizations block the entire domain extension.
 - Some domains (e.g., .de) will validate *before* registration is approved.
 - Some domains require more information (e.g., .us requires submitting a connection to [your legal fiction](people-image-modern.md)).

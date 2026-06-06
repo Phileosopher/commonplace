@@ -47,6 +47,13 @@ Wave effects, both with sound and with light, happen relative to the location of
 - The best example comes from observing a train honking its horn as it speeds past. First, the train sounds more high-pitched than if it were standing still, then shifts rapidly downward to a much lower pitch as it drives by.
 - This red shift/blue shift also blends in with spacetime (proven partially by [GPS](logistics-navigation.md) calculations), so a person traveling near the speed of light will age slower than someone who stays still.
 
+## Difficult calculations
+
+Most physicists like to explore idealized scenarios because two forces in particular make things complicated:
+
+- Friction effectively takes every formula and makes it complicated for reality.
+- We don't really even know how turbulence works, though we can definitely approximate it.
+
 ## Obvious unanswered questions
 
 - Where did the matter in the universe first come from?
