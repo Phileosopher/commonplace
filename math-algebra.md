@@ -16,7 +16,7 @@ With the presence of variables, the equations have *many* options for factoring:
 - 5 + x = 12 can become x = 7 or x - 7 = 0
 - x^2^ + 5 = 2 can be x^2^ = -3 or x = √-3 or x^2^ + 3 = 0
 
-For highly practical minds, it's easy to get lost in algebra because it requires abstractly thinking with a type of [certainty](understanding-certainty.md) about an [unknown](unknown.md) thing (e.g., let x be a not-yet-established number).
+For highly practical minds, it's easy to get lost in algebra because it requires abstractly thinking with a type of [certainty](mind-understanding-certainty.md) about an [unknown](unknown.md) thing (e.g., let x be a not-yet-established number).
 
 Most equations require "solve for □" to give an absolute concept, but the vagueness of algebra comes from its relativity, which is probably the largest failure in mathematics [pedagogy](education.md):
 

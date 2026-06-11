@@ -15,7 +15,7 @@ You can expand this concept even further by internalizing and applying everythin
 
 Generally, spiritual things travel at the speed of thought. While the Satan works constantly to prevent us from sharing our ideas with others, this has come to a fever pitch with how much our [technology](technology.md) magnifies information.
 
-Since the battle is over the mind, and information is the vehicle for how we [understand](understanding.md), the devil and demons work tirelessly to warp it.
+Since the battle is over the mind, and information is the vehicle for how we [understand](mind-understanding.md), the devil and demons work tirelessly to warp it.
 
 The devil's entire [purpose](purpose.md) is to create a constantly [fearful](mind-feelings-fear.md), anxious, bewildered, unsettled person who [reacts](habits.md) before thinking.
 
@@ -41,14 +41,14 @@ His approach does, however, vary heavily by [what specific thing he's trying to 
 
 ## It Doesn't Matter
 
-The Satan's entire [belief system](understanding-certainty.md) and strategy considers absolutely nothing but raw [power](power.md).
+The Satan's entire [belief system](mind-understanding-certainty.md) and strategy considers absolutely nothing but raw [power](power.md).
 
 - Even the people who have pledged allegiance to Lucifer himself are clueless about how much he's exploiting them, at least until they're no longer useful.
 
 Whenever God wants, He can stop *everything* the Satan can try to do:
 
 - He can speak directly to believers' hearts to inspire or encourage.
-- A simple walk outside or genuine [intellectual discovery](understanding.md) can undo *decades* of the devil's work, merely through our [soul's connections with ourselves and each other](theology-godandman-humanity.md). It's why he so desperately wants us to do things we hate and avoid things we [like](purpose.md).
+- A simple walk outside or genuine [intellectual discovery](mind-understanding.md) can undo *decades* of the devil's work, merely through our [soul's connections with ourselves and each other](theology-godandman-humanity.md). It's why he so desperately wants us to do things we hate and avoid things we [like](purpose.md).
 - Very often, he'll try to push us against what we really [want to do](theology-godandman.md) (e.g., stamp collecting, playing basketball) out of a [fear](mind-feelings-fear.md) that it's not the "[right](people-image-why.md)" or "best" or "[important](purpose.md)" thing to do.
 - Self-discovery can be *very* profound, so anytime we run across a genuine thought, he'll try to scramble it before we can [write it down](language-writing.md) or [say it](language-speaking.md) (especially to [those close to us](people-friends.md) or on [social media](technology.md)).
 - Of course, if we avoid publishing it, he can foster a sense of self-righteous superiority that we're "above all that". Taken far enough, it can become the cause of tremendous intellectual [pride](theology-sins.md).
@@ -62,7 +62,7 @@ One of the Satan's biggest lies is that he won't let up on tempting us until we 
 
 - They *suspect* it's all a ploy for some secret agenda or meta-game of control.
 - Believers [know better](people-identity.md), and [time will show it](https://theologos.site/millennium/) after the [final cleanup Jesus needs to do](theology-end.md).
-- Believers, therefore, [understand](understanding.md) reality more than the most powerful force of [evil](morality-evil.md) does.
+- Believers, therefore, [understand](mind-understanding.md) reality more than the most powerful force of [evil](morality-evil.md) does.
 
 In fact, the demons go absolutely *crazy* [when believers trust God](https://theologos.site/devotion-chaos/).
 

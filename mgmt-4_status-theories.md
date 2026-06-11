@@ -80,7 +80,7 @@ It identifies 7 internal and external factors that constitute a team's effective
 - Internal factors
   - Thrust - the team's [purpose](purpose.md)
   - Trust - team members' mutual [confidence](mind-trust.md) and respect
-  - Talent - qualified members with skills and [experience](understanding.md)
+  - Talent - qualified members with skills and [experience](mind-understanding.md)
   - Task Skills - members' ability to complete specific processes efficiently
   - Teamwork/Teaming - members' individual skill at working within a team environment
 - External factors

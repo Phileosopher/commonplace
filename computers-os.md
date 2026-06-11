@@ -80,4 +80,4 @@ We take *many* [GUI features](engineering-design.md) for granted in most consume
 
 ## Development
 
-Designing "native" OS [GUI-based](engineering-graphics.md) applications is a headache compared to [web apps](computers-sofware-webdev.md). Each operating system has its own [specific knowledge](understanding.md). Most of that knowledge is built around various methods to get software even working correctly. Plus, each proprietary OS (such as Apple) has an approval process that makes it even more complicated (e.g., App Store).
+Designing "native" OS [GUI-based](engineering-graphics.md) applications is a headache compared to [web apps](computers-sofware-webdev.md). Each operating system has its own [specific knowledge](mind-understanding.md). Most of that knowledge is built around various methods to get software even working correctly. Plus, each proprietary OS (such as Apple) has an approval process that makes it even more complicated (e.g., App Store).

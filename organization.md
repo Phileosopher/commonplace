@@ -3,7 +3,7 @@
 
 We're constantly scanning our environment, so organization makes life simpler and gives us [mental peace](hardship-forgiveness.md).
 
-When we organize, we often [understand](understanding.md) what we have, which can create [meaning](meaning.md) in many small ways.
+When we organize, we often [understand](mind-understanding.md) what we have, which can create [meaning](meaning.md) in many small ways.
 
 Organization helps with [productivity](success-4_routine.md):
 

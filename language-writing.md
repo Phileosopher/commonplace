@@ -30,7 +30,7 @@ Compared to speaking, writing converts and transmits more easily across a medium
 
 ## Write passionately
 
-Writing requires understanding the basics of language (vocabulary, grammar, elements of style), then learning ways to express your [feelings](mind-feelings.md) and [observations](understanding.md):
+Writing requires understanding the basics of language (vocabulary, grammar, elements of style), then learning ways to express your [feelings](mind-feelings.md) and [observations](mind-understanding.md):
 
 - Read great writing to learn what to do, then suffer through bad writing to learn what to *not* do.
 - To build great writing skills, [write frequently](success-5_persevering.md) and [develop a creative mindset](mind-creativity-how.md).
@@ -44,11 +44,11 @@ Writing captures feelings simply, so your word choice shows your passion for the
 
 Writing is communicating information to someone where they forget they're [imagining](mind-imagination.md) something simply from a collection of words.
 
-When writing, you gain a more thorough [understanding](understanding.md) of what you're trying to communicate.
+When writing, you gain a more thorough [understanding](mind-understanding.md) of what you're trying to communicate.
 
 - In general, the [information](information.md) contained in writing should be focused on conveying wisdom.
 - This wisdom frequently uses fewer words to convey more information at once.
-- Without deep, profound [understanding](understanding.md) of something, we can't write well.
+- Without deep, profound [understanding](mind-understanding.md) of something, we can't write well.
 
 Your best writing is the best version of *your* [creative](mind-creativity-how.md) style, not how well you imitate another writer.
 
@@ -79,7 +79,7 @@ Write about things other people *want* to read:
 - *Anything* can be interesting with a sufficiently motivated and talented writer, so your ability to [influence](power-influence.md) and [entertain](humor.md) is critical.
 - If you don't understand your audience, you'll add too much detail and useless information.
 
-Writing should both entertain and [educate](understanding.md):
+Writing should both entertain and [educate](mind-understanding.md):
 
 - The reader must learn something, or they will feel the story was a waste of time.
 - The reader must be amused or will find the information boring.
@@ -109,7 +109,7 @@ Pay close attention to the reader's perception throughout the work:
 - Don't jump ahead presuming they already know something.
   - The easiest approach is to move through the experience chronologically or systematically.
   - You'll have a harder time moving slowly through the information, proportionally to your intelligence or knowledge.
-  - Give extra attention to things people frequently overlook and presume they [understand](understanding.md).
+  - Give extra attention to things people frequently overlook and presume they [understand](mind-understanding.md).
 - Rearrange giant chunks to conform to the chronological order that's easiest for them to understand.
 
 After you've written out a first draft, keep that audience in mind while [editing](language-writing-editing.md) the second time around.
@@ -136,7 +136,7 @@ Get to the point or start as close to the end as possible:
 
 All writing is either explaining or exploring:
 
-- Explanations are transmitting information and ideas: making things [clearly known](understanding.md).
+- Explanations are transmitting information and ideas: making things [clearly known](mind-understanding.md).
   - This can be [technical documentation](language-writing-documentation.md) or any form of [nonfiction](language-witing-nonfiction.md)
 - Explorations are developing hard-to-grasp concepts: making [the unknown](unknown.md) partially known.
   - This can be in the form of [stories](language-writing-stories.md), poetry, or [philosophy](philosophy.md).

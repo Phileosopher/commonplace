@@ -109,7 +109,7 @@ Don't compare yourself to others, and don't measure your efforts against others'
 
 Your only true power is through your current choices today.
 
-- Tomorrow has plenty of [uncertainty](understanding-certainty.md), and you have plenty to worry about today without including tomorrow into it.
+- Tomorrow has plenty of [uncertainty](mind-understanding-certainty.md), and you have plenty to worry about today without including tomorrow into it.
 
 Self-control gives us [power](power-types.md), and people tend to give or take power from us relative to how well we appear to wield it.
 
@@ -221,7 +221,7 @@ Avoid conflicting goals (e.g., "spend more time outdoors" and "build my business
 
 Aim for things nobody can take away from you:
 
-- Broader [understanding](understanding.md) that won't become obsolete
+- Broader [understanding](mind-understanding.md) that won't become obsolete
 - General [skills](jobs-specialization.md) that apply to many things
 - Aspects of [your reputation](people-image.md) tied to your competence and character
 
@@ -257,7 +257,7 @@ If you remember yourself from 10 years ago, that person was a less educated and 
 
 - Therefore, the future successful version of you will also see your present self in much the same way.
 
-All success requires gaining [wisdom](understanding.md) (aka applied knowledge).
+All success requires gaining [wisdom](mind-understanding.md) (aka applied knowledge).
 
 - We tend to easily see others' bias more than our own, so it's critical to accept others' input about our thoughts.
 - Seek understanding, no matter how uncomfortable it may be.

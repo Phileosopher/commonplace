@@ -43,7 +43,7 @@ Ask your friends and family what they think of the idea.
 
 Expect feedback from people you know to be [biased](mind-bias.md):
 
-- Some people [believe in you](understanding-certainty.md) or want to [stay your friend](people-friends.md), meaning they'll give more praise than criticism.
+- Some people [believe in you](mind-understanding-certainty.md) or want to [stay your friend](people-friends.md), meaning they'll give more praise than criticism.
 - Others will be jealous or have their own agenda, meaning they'll give criticism that isn't helpful.
 - The best feedback comes from people who tell you what's wrong, and *why* it's wrong, and the theoretical way to get around it.
 
@@ -74,7 +74,7 @@ Within the first 5 years, 90% of startups fail for the same predictable reasons:
 
 Keep learning and researching as much as possible.
 
-- As early as possible, develop [habits](habits.md) toward constantly [learning](understanding.md).
+- As early as possible, develop [habits](habits.md) toward constantly [learning](mind-understanding.md).
 - Look for free online courses, since they're ubiquitous and broadly cover everything you'd need to know.
 - Find trade-specific whitepapers, since they usually give technical information that *precisely* describes what you're looking for.
 - If a paid class clearly gives the answer to a specific entrepreneurial question, the class is often worth the money saved on what you *didn't* spend on that mistake.
@@ -88,7 +88,7 @@ Be careful with partnerships.
 - The partnership is for the purpose of making money, or for a shared cause, but is *not* permanent.
   - Everyone should have the freedom to back out of the arrangement anytime they want.
 - Choose partners carefully.
-  - That person is gaining an intimate knowledge of how you work, and when they leave they'll [understand](understanding.md) most of your organization's design.
+  - That person is gaining an intimate knowledge of how you work, and when they leave they'll [understand](mind-understanding.md) most of your organization's design.
   - Establish yourself first and keep as much control of it, *then* seek out a partner when you want to start something later.
 
 ## Distill the idea

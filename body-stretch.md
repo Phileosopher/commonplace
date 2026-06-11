@@ -88,6 +88,11 @@ To relax your body via the parasympathetic [nervous system](body-systems.md):
 
 - Pivot your torso while swinging your arms freely back and forth (the way bored children behave).
 
+If your balance is weak:
+
+- Focus on standing on one leg for prolonged periods to improve your core strength.
+  - If it gets too easy, take away the use of your arms, then your sight, then turn your head left and right at the same time.
+
 If you have sciatica (the hip's piriformis muscle is too tight):
 
 - Most people try to stretch that muscle, but that's a misdirection from tightness in the knee and ankle.

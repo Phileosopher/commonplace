@@ -12,21 +12,21 @@ The expression of [language](language.md) for that particular purpose implies th
 We're [habituated](habits.md) to conversations, so we treat them as a relatively simple process, but it's a rather elaborate mechanism:
 
 1. Person A makes [decisions](mind-decisions.md) to use [language](language.md), considering all the [symbolic](symbols.md) contexts they're [trying to express](purpose.md) they expect Person B to interpret, and typically [imagining](mind-imagination.md) what Person B is likely perceiving.
-2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](people-image-why.md) and [understood](understanding.md) them as they send it.
+2. Person A sends those [sounds](language-speaking.md) or [symbols](language-writing.md) across a [medium](creations.md), closely [considering](logic.md) whether Person B [received them](people-image-why.md) and [understood](mind-understanding.md) them as they send it.
 3. Person B processes each sentence they heard into a set of [values](values.md) that create a small [story](stories-why.md), which assembles into an aggregate story across the message and, in the case of any [cultural context](people-culture.md), across the [surrounding environment](reality.md).
 4. Person B [decides](mind-decisions.md) how to respond to Person A, then the role is reversed.
 5. As the conversation persists, Person A and Person B maintain partial [memory](mind-memory.md) of *all* the past information they recorded, and will draw on it at *any* time in the future, even decades later.
 
-This "conversation" helps us [understand](understanding.md) the world around us better because we end up converging our [perspective](people-image-why.md) with the partial perspective of another person. This is effectively another [story](stories-why.md) to add to our experiences.
+This "conversation" helps us [understand](mind-understanding.md) the world around us better because we end up converging our [perspective](people-image-why.md) with the partial perspective of another person. This is effectively another [story](stories-why.md) to add to our experiences.
 
-APPLICATION: Conversations help us [understand](understanding.md) reality from others' points of view, so we gain the maximum possible understanding when we seek to understand others' views and have frequent conversations with as many people as possible.
+APPLICATION: Conversations help us [understand](mind-understanding.md) reality from others' points of view, so we gain the maximum possible understanding when we seek to understand others' views and have frequent conversations with as many people as possible.
 
-We are such social creatures that we have conversations with *ourselves*! That dialogue helps us [reason](logic.md) and [understand](understanding.md) things better, but it's a quirky trait that shows how much we need [companionship](people-friends-why.md).
+We are such social creatures that we have conversations with *ourselves*! That dialogue helps us [reason](logic.md) and [understand](mind-understanding.md) things better, but it's a quirky trait that shows how much we need [companionship](people-friends-why.md).
 
 Our communication skill comes through two major sub-skills:
 
-1. How easily we can adapt our [understanding](understanding.md) of [reality](reality.md) to conform to the [image](people-image-why.md) they see (listening).
-2. How well we can [convey](results.md) the [image](people-image-why.md) we want them to see using [symbols](symbols.md) they'd easily [understand](understanding.md) (language).
+1. How easily we can adapt our [understanding](mind-understanding.md) of [reality](reality.md) to conform to the [image](people-image-why.md) they see (listening).
+2. How well we can [convey](results.md) the [image](people-image-why.md) we want them to see using [symbols](symbols.md) they'd easily [understand](mind-understanding.md) (language).
 
 Our [creative](mind-creativity.md) [decisions](mind-decisions.md) are essentially the [image](people-image-why.md) of [reality](reality.md) the other person interprets, with many factors added proportionally to how little they [trust](mind-trust.md) us.
 
@@ -56,7 +56,7 @@ Our choices broadly create a few possible general communication approaches (DISC
 1. Strip things down to concise [stories](stories-why.md) (Dominance).
 2. Emphasize social [relationships](people-friends-why.md) (Influence).
 3. Focus on [facts and information](reality.md) with many details (Steadiness).
-4. Focus on others' [understanding](understanding.md) by repeating ideas multiple times (Compliance).
+4. Focus on others' [understanding](mind-understanding.md) by repeating ideas multiple times (Compliance).
 
 Beyond this, we will adapt our style with many, many subtle approaches, all [purposed](purpose.md) to [influence](influence.md) others.
 
@@ -64,7 +64,7 @@ People often add, remove, or change important details (aka "[lying](people-lying
 
 ## Failing at conversation
 
-Even with complete and brutal honesty, [conflicts](people-conflicts-why.md) from [misunderstandings](understanding.md) are a fact of communication.
+Even with complete and brutal honesty, [conflicts](people-conflicts-why.md) from [misunderstandings](mind-understanding.md) are a fact of communication.
 
 Firstly, each person has a different [background](people-family.md) and [view](people-image-why.md) of the world, so we each speak with a slightly different form of [logical structuring](logic.md). Most people aren't patient enough to discover that structure, so they focus solely on [elements](people-image-why.md) they [disagree with](people-conflicts-why.md).
 
@@ -92,17 +92,17 @@ Finally, we must closely examine every time we [identify](people-identity.md) wi
 
 ## Shared understanding
 
-When we listen and respond, we tend to gather a type of "shared [understanding](understanding.md)". Enough of back-and-forth shared understanding will create common [values](values.md) that can establish a [friendship](people-friends-why.md).
+When we listen and respond, we tend to gather a type of "shared [understanding](mind-understanding.md)". Enough of back-and-forth shared understanding will create common [values](values.md) that can establish a [friendship](people-friends-why.md).
 
-This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](people-image-why.md) how they see life, so we can somewhat reliably [imagine](mind-imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](understanding-certainty.md) we [perceive](people-image-why.md) from them through the [medium](creations.md) of [stories](stories-why.md) and [feelings](mind-feelings.md).
+This shared understanding dramatically expands our view of the world, often farther than any books or [formalized education](education.md). We [see](people-image-why.md) how they see life, so we can somewhat reliably [imagine](mind-imagination.md) their experiences. Our minds imitate the [values](values.md) and [beliefs](mind-understanding-certainty.md) we [perceive](people-image-why.md) from them through the [medium](creations.md) of [stories](stories-why.md) and [feelings](mind-feelings.md).
 
 This only goes as far as we trust their experiences. Otherwise, we segment their experiences off as something we can [analyze](logic.md) later. In that situation, we're drawing our [stories](stories-why.md) and [feelings](mind-feelings.md) from *self-made* [stories](stories-why.md) derived from their experiences as the source material. This can be useful for [scientific inquiry](science.md), but tends to distract from the intimacy of the original storyteller.
 
-APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](understanding.md), people tend to answer questions based on what they [believe](understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](people-culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
+APPLICATION: While the dialogue of questions and answers in our mind is strictly for [understanding](mind-understanding.md), people tend to answer questions based on what they [believe](mind-understanding-certainty.md) the other person *wants* to hear. This can create [cultural conflicts](people-culture.md), and the only solution is to [boldly](mind-feelings-fear.md) answer questions the way we'd answer it if we ourselves were asking it in our minds.
 
 As we integrate this understanding in with ours, we end up having two [perspectives](people-image-why.md) in our mind at the same time: theirs and ours. If we can successfully harmonize both views as equally valid, without [needless invalidation](people-conflicts-inner.md), we can frequently see other things as if we *were* two people seeing something.
 
-When we compound this form of understanding across all people, any one person can be as [wise](understanding.md) as everyone that person has encountered and learned from, up to the limits of their mental capacity and [desire](purpose.md).
+When we compound this form of understanding across all people, any one person can be as [wise](mind-understanding.md) as everyone that person has encountered and learned from, up to the limits of their mental capacity and [desire](purpose.md).
 
 ## Shared dismissal of information
 

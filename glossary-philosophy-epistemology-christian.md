@@ -83,7 +83,7 @@ Christian worldviews have a wide scope to describe our understanding:
 - **Infinitism** can work, but only if we recurse or loop the reasons on themselves (since God's thoughts create an original reason).
 - **Intuitionism** and **logicism** work well (as well as the opposite in **preintuitionism**), since Christian doctrine doesn't concern itself much about the details of [math](math.md).
 - **Operationalism** works because our observations can create values.
-- Both **relationalism** and **substantivalism** go *far* deeper into the weeds about how [language](language.md) and [understanding](understanding.md) work than anything *remotely* in Christian doctrine.
+- Both **relationalism** and **substantivalism** go *far* deeper into the weeds about how [language](language.md) and [understanding](mind-understanding.md) work than anything *remotely* in Christian doctrine.
 
 **Deconstructionism** (along with **existentialism**, **interpretivism**, and **perspectivism**) *can* be true, but must stop with *most* of our understanding.
 

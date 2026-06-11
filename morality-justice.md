@@ -69,7 +69,7 @@ APPLICATION: Among other things, [leftism](politics-leftism.md) tends to conflat
 
 APPLICATION: To enforce justice, we must honor a standard that goes beyond the place we administer justice. Whether it's [God](religion.md) or a set of [rules](people-rules.md), it becomes the [philosophical framework](philosophy.md) for how we judge.
 
-A judge's job is to define rules to make sense of how to process everyone present in front of them, so they [presume](understanding-certainty.md) the morality basis that fits their [religious](religion.md) and [political](politics-conservativeliberal.md) views.
+A judge's job is to define rules to make sense of how to process everyone present in front of them, so they [presume](mind-understanding-certainty.md) the morality basis that fits their [religious](religion.md) and [political](politics-conservativeliberal.md) views.
 
 There are two forms of delivering the implementation of justice:
 

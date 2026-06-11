@@ -11,8 +11,8 @@ Arguments against the truth aren't *nearly* as destructive as pleasant-sounding 
 
 By isolating each generation from previous generations through rebellion, the devil can avoid wisdom from previous generations seeping into [youths'](maturity.md) understanding:
 
-- The natural product of this is that they have to [relearn](understanding.md) *everything* the previous generation had to learn.
-- Plus, without the context from prior generations, the person will be left endlessly [wondering](mind-imagination.md) about the context or condemning their predecessors without considering [motives](purpose.md) or [understanding](understanding.md) beyond their own [preconceived notions](mind-bias.md).
+- The natural product of this is that they have to [relearn](mind-understanding.md) *everything* the previous generation had to learn.
+- Plus, without the context from prior generations, the person will be left endlessly [wondering](mind-imagination.md) about the context or condemning their predecessors without considering [motives](purpose.md) or [understanding](mind-understanding.md) beyond their own [preconceived notions](mind-bias.md).
 
 ## Tricks against devotion
 
@@ -60,7 +60,7 @@ To destroy deeper [philosophical](philosophy.md) and theological thought, demons
 - Often, he'll push bad things we [imagine](mind-imagination.md) into the "real" space and good things into the "ideal" space, away from what we see as reality.
 - One major variation of this is to provoke people into thinking they're being "[scientific](science.md)" when they're merely avoiding things that we can't explicitly measure.
 
-God wants us to be constantly aware of what we don't [know](understanding.md) and not particularly concerned with what we *do* know, so the devil tries to make us lean on our understanding as much as possible:
+God wants us to be constantly aware of what we don't [know](mind-understanding.md) and not particularly concerned with what we *do* know, so the devil tries to make us lean on our understanding as much as possible:
 
 - God's [purpose](purpose.md) for humility is for us to [enjoy](mind-feelings-happiness.md) things beyond ourselves as much as our thoughts, so demons try to direct our thoughts inward as much as possible. He'll try to prevent us from remembering that our talents, abilities, strengths, [circumstances](results.md), and [relationships](groups-small.md) all [came from God](theology-god.md) in the first place.
 - Generally, he'll provoke us to overthink things, creating [elaborate models](logic.md) we can then [require](mind-imagination.md) everything else to conform into. This is easy for the Satan, proportionally to our intelligence.
@@ -86,7 +86,7 @@ Demons can never create pleasures, but will distort them into less pleasurable f
 
 One of the devil's simplest tricks is for us to feel entitled to specific things that aren't really ours. Naturally, any misfortunes regarding that thing will feel like an [injustice](morality-justice.md) to us:
 
-- God has given us *everything*, so He is entitled to take it away. This includes [money](money-1_why.md), possessions, [relationships](people-friends.md), [understanding](understanding.md), our [essence itself](people-love.md), and time.
+- God has given us *everything*, so He is entitled to take it away. This includes [money](money-1_why.md), possessions, [relationships](people-friends.md), [understanding](mind-understanding.md), our [essence itself](people-love.md), and time.
 - Specifically, we tend to see as "ours" when we wake up, so any duties that require our attention are "stealing" or "taxing" our time.
 - We don't really "own" anything, but the Satan doesn't want us to remember that fact, so he tries to make us unaware and self-absorbed. The easiest method is to promote [language](language.md) that implies [ownership](people-boundaries-why.md) (e.g., "*my* shirt", "*my* car", "*my* boyfriend").
 
@@ -100,7 +100,7 @@ One of the devil's simplest tricks is for us to feel entitled to specific things
 Gluttony isn't merely from excess, and can often be from delicacy. [Western Christianity](https://theologos.site/the-west/) tends not to talk about it, which allows the devil to work:
 
 - The idolatry of gluttony runs the range of anything we can consume and goes beyond food to domains such as chocolate, cigarettes, beer, television, [consumed media](stories-storytellers.md), and [technology](technology.md).
-- The dangers of gluttony in delicacy come when someone isn't satisfied with what they have and merely wants something "a little better". Females can become obsessed with one "single, little thing" they want, while males can believe they're merely acting out of [understanding](understanding.md) "real [quality](values-quality.md)".
+- The dangers of gluttony in delicacy come when someone isn't satisfied with what they have and merely wants something "a little better". Females can become obsessed with one "single, little thing" they want, while males can believe they're merely acting out of [understanding](mind-understanding.md) "real [quality](values-quality.md)".
 - To provoke gluttony of excess, demons redirect someone into a false sense of spirituality through their awareness. If they start considering the [medical effects](body-health.md) of their lifestyle, the devil can redirect them to a love/hate obsession with over-exercise or make them even *more* picky with their food decisions.
 - To counter God's command for selfless sacrifice, the Satan will often direct a selfish [purpose](purpose.md) to an internal dialogue that justifies how that action is somehow selfless.
 - Once someone is a [glutton](addiction.md), they'll lose all sense of goodness or kindness once a substance is removed. This can be strategically useful for disrupting an entire group [pursuing God's will](god-will.md), especially if it triggers that person's [shadow self](people-personality.md).
@@ -111,7 +111,7 @@ God designed us to be sexually pure or monogamous, and the devil has spent hundr
 - Marriage, sex, and [families](church-family.md) are a generational development of how God's love is supposed to play out, so the devil has a particularly strong agenda to destroy them.
 - While being in love isn't necessarily good or bad, the devil will try to push our [sentiments](mind-feelings.md) away from good things. Direct them to a passionate tryst if they're particularly sentimental, or guide them to rigid sexual repression and bitterness if they're more rational.
 - While we're in love, people are inspired to act kind and lovingly, and demons can provoke us to believe that we must *always* be in the frame of mind of giving what they want, even when we don't really know what they *do* want! Taken past the honeymoon phase, couples will become very unhappy by [imagining](mind-imagination.md) their partner is ungrateful for all the sacrifice they believe they're making.
-- Being in love often postpones or suppresses relationship issues, so the devil tries to secretly build up the issues while they're in love. For example, men see selflessness as respecting boundaries while women see it as intervening, so both sides can grow to [believe](understanding-certainty.md) the other is selfish.
+- Being in love often postpones or suppresses relationship issues, so the devil tries to secretly build up the issues while they're in love. For example, men see selflessness as respecting boundaries while women see it as intervening, so both sides can grow to [believe](mind-understanding-certainty.md) the other is selfish.
 
 While staying sexually pure has no adverse health effects, the devil tells us sexuality must be explored:
 
@@ -160,7 +160,7 @@ Any [conflict or struggle](people-conflicts-inner.md) is a golden opportunity fo
   3. Keep fostering the feeling that someone can [trust](mind-trust.md) something that isn't God.
   4. Trigger the cowardice when it's time to stand for a conviction, which will feed into the [sinful](theology-sins.md), perfectly natural state of [fear](mind-feelings-fear.md).
 
-Even when he can't provoke us to conceited thinking or distract us with a bad [belief](understanding-certainty.md) from inexperience, he can still use our behaviors to make others [stumble](theology-sins.md):
+Even when he can't provoke us to conceited thinking or distract us with a bad [belief](mind-understanding-certainty.md) from inexperience, he can still use our behaviors to make others [stumble](theology-sins.md):
 
 - He'll provoke people to imitate bad behaviors alongside good ones, then will magnify the bad behaviors until the person is imitating a [caricature](people-image-distortion.md) of their role model's original bad behavior.
 - God will often endure our [prejudices](people-image-why.md) and silly views, but the devil can easily distort those prejudices until they're applying to the wrong groups (e.g., viewing "my group versus other believers" as "believers versus the world"). Taken far enough, that person can build a smug "secret society" attitude toward everyone outside their [group](groups-small.md), starting with unbelievers and eventually covering other believers.
@@ -190,16 +190,16 @@ The devil makes us hate people groups, but only as a passive, brewing hatred:
 
 - We tend to [connect](people-friends-why.md) with other people when we observe [details about their lives](stories-why.md).
 - Thus, we may grow dissatisfied from general hate, and enough hatred without a motive toward [destruction](morality-evil.md) will make us focus on people enough that we realize we've been [unfair](morality-justice.md).
-- So, the devil tries to keep us distant from [understanding](understanding.md) anyone we don't like.
+- So, the devil tries to keep us distant from [understanding](mind-understanding.md) anyone we don't like.
 - When people believe [fringe ideas](people-trends.md), the devil will work *very* hard to turn those beliefs into rebellious ideals.
-- Generally, strong-willed people with hard [convictions](understanding-certainty.md) are easily misled by divisive beliefs, while weak-willed and compliant people will be misled by pacifism and compromising ideals.
+- Generally, strong-willed people with hard [convictions](mind-understanding-certainty.md) are easily misled by divisive beliefs, while weak-willed and compliant people will be misled by pacifism and compromising ideals.
 
 Christianity is a [simple message](https://theologos.site/gospel/) that naturally unifies *all* humanity through recognizing their need for salvation in light of their sin. The Satan responds with "Christianity and..." to create [special interests](jobs-specialization.md) that make the person feel separate from the rest of the Church:
 
 - While God built us to have an interest in cycling seasons of new things (e.g., yearly seasons, [fashions](people-trends.md), [technologies](technology.md)), this can easily pervert to a desire for novelty and [change](people-changes.md) merely for its own sake.
 - Novelty has a [diminishing return](mind-decisions.md), and requires progressively more investment to maintain. Believers ensnared in [fashions](people-trends.md) will invariably feel dissatisfied or greedy as their interest persists, which can lead to many other sins.
 - Across society, fashions create *many* other vices that convert some of God's [values](values.md) with their time and place into an antagonist. Cruel societies fight sentiment, [emotional](mind-feelings.md) ones fight [reasoning](logic.md), lazy ones fight honor, [liberal ones fight convention](https://theologos.site/the-west/).
-- To answer our roles in these trends, we should ask simple questions (Is it right? Is it possible?), but the devil provokes us to ask complicated questions (Is it progressive or reactionary? Is it on the right side of history? Will this make an impact?). Those questions [wonder](mind-imagination.md) about the future, which is a vacuum of [understanding](understanding.md), so the Satan has full control to make suggestions that provoke more misery.
+- To answer our roles in these trends, we should ask simple questions (Is it right? Is it possible?), but the devil provokes us to ask complicated questions (Is it progressive or reactionary? Is it on the right side of history? Will this make an impact?). Those questions [wonder](mind-imagination.md) about the future, which is a vacuum of [understanding](mind-understanding.md), so the Satan has full control to make suggestions that provoke more misery.
 
 After enough time away from other believers, demons can provoke someone to [go to many churches](church.md) on the justification of being a type of "connoisseur":
 
@@ -222,7 +222,7 @@ Through a *lot* of work, the demons have built a society that promotes not [chan
 
 While the devil can show his hand to scare people through things like magicians or witches, hiding himself can create materialists and skeptics:
 
-- The easiest way to hide spiritual things is to bring pop culture references to mind (pitchfork and horns, cartoonish behavior), then communicate how silly they are to truly [believe](understanding-certainty.md) in.
+- The easiest way to hide spiritual things is to bring pop culture references to mind (pitchfork and horns, cartoonish behavior), then communicate how silly they are to truly [believe](mind-understanding-certainty.md) in.
 - He's built systems for ages that make things that appear to be sensible and natural immersed *heavily* in spiritual things, such as futurism and transhumanism.
 - The best way he can keep working is for people to either believe he doesn't exist, or that it doesn't matter if they're aware of his existence.
 

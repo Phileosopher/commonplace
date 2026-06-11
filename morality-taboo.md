@@ -66,7 +66,7 @@ The "nerds/geeks" of society don't really think about shame. This makes them typ
 
 Taboos have frequent risks.
 
-Firstly, taboos will make people [identify](people-identity.md) against their thoughts. They may [believe](understanding-certainty.md) something, but they have to keep it secret from everyone else. The shame will usually shut down any further discussion and will [feed their shadow self](people-personality.md), which frequently leads to hypocrisy.
+Firstly, taboos will make people [identify](people-identity.md) against their thoughts. They may [believe](mind-understanding-certainty.md) something, but they have to keep it secret from everyone else. The shame will usually shut down any further discussion and will [feed their shadow self](people-personality.md), which frequently leads to hypocrisy.
 
 The very essence of believing a taboo without understanding why is the *opposite* of open-minded. It shuts down or stifles most [creative](mind-creativity.md) endeavors, including [social risks](entrepreneur-why.md) that could have tremendously benefited others.
 
@@ -94,7 +94,7 @@ Exploring taboos has many benefits:
 - Most legitimately [high-quality](values-quality.md) [creative](mind-creativity.md) endeavors explore taboos directly or imply their existence.
 - If someone tenaciously pursues [truth](reality.md), they frequently won't pay attention to [rules](people-rules.md) they're breaking, especially if they're [philosophers](philosophy.md).
 - Typically, [social trends](people-trends.md) start with someone [taking the risk](entrepreneur-why.md) to confront or explore a taboo.
-- Why taboos exist often gives *tremendous* [understanding](understanding.md) to anyone willing to [explore it](purpose.md).
+- Why taboos exist often gives *tremendous* [understanding](mind-understanding.md) to anyone willing to [explore it](purpose.md).
 
 Some people try to break taboos merely because they're there. Most of them are doing it to provoke socially adverse reactions (Oppositional Defiance Disorder, or ODD). This is in direct opposition to pursuing [the good life](people-goodlife.md). Many [leaders](groups-small.md) will try to make an example of these people and imply *all* the taboo-breakers have the same [motivation](purpose.md), but the motivations of everyone else in that position are more varied.
 
@@ -102,7 +102,7 @@ APPLICATION: Breaking taboos is risky, but can be rewarding if you know what you
 
 ## Hacking
 
-Skillful [creators](creations.md) and [leaders](groups-small.md) are keenly [aware](understanding.md) of taboos, but use them to their advantage. Many of them become [entrepreneurs and inventors](entrepreneur-why.md).
+Skillful [creators](creations.md) and [leaders](groups-small.md) are keenly [aware](mind-understanding.md) of taboos, but use them to their advantage. Many of them become [entrepreneurs and inventors](entrepreneur-why.md).
 
 Typically, they will add more room for failure by becoming more sophisticated. By [habitually](habits.md) using appropriate [language](language.md), expert [image](people-image-why.md) managers can rearrange their [story](stories-why.md) to [imply](people-image-distortion.md) better [motivations](purpose.md) than the culture's prejudice of a taboo-breaker. This isn't 100% reliable, but the public can often give more grace than otherwise.
 

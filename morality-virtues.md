@@ -5,7 +5,7 @@ This is an approximate list of virtues, which are the bedrock of any [morality](
 
 ## Stand-alone states of being
 
-Empathy/Compassion - [understanding](understanding.md) and [feeling](mind-feelings.md) others' experiences
+Empathy/Compassion - [understanding](mind-understanding.md) and [feeling](mind-feelings.md) others' experiences
 
 Kindness/Mercy/Grace - [doing](results.md) good things for others
 
@@ -17,7 +17,7 @@ Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-ha
 
 Forgiveness - [reconciles and releases](hardship-forgiveness.md)
 
-## Products of the [mind](understanding.md) alone
+## Products of the [mind](mind-understanding.md) alone
 
 Humility - seeing others as more important than ourselves
 
@@ -25,9 +25,9 @@ Humility - seeing others as more important than ourselves
 
 [Creativity](mind-creativity.md) - [making things](creations.md) after drawing connections from observations
 
-[Curiosity/Open-Mindedness](purpose.md) - a love of [learning](understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
+[Curiosity/Open-Mindedness](purpose.md) - a love of [learning](mind-understanding.md), specifically in seeing beyond [convention](people-culture.md) to find new truths
 
-[Wisdom and perspective](understanding.md)/Understanding/Respect - applying knowledge and experience into [daily life](habits.md) and [decisions](mind-decisions.md)
+[Wisdom and perspective](mind-understanding.md)/Understanding/Respect - applying knowledge and experience into [daily life](habits.md) and [decisions](mind-decisions.md)
 
 ## Perspectives we choose to [see](people-image-why.md)
 
@@ -51,7 +51,7 @@ Spirituality - finds [purposes](purpose.md) that [transcend this life](legacy.md
 
 Bravery/Courage - stands against opposition
 
-Persistence/Perseverance - maintains a [purpose](purpose.md) [faithfully](understanding-certainty.md) with little or no outside support
+Persistence/Perseverance - maintains a [purpose](purpose.md) [faithfully](mind-understanding-certainty.md) with little or no outside support
 
 Integrity/Commitment - holds fast to important [values](values.md) and [promises](people-contracts.md), no matter what
 

@@ -75,7 +75,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 **Waldorf** (aka **Steiner education**, est. 1919) homeschooling believes in educating the whole child with the frequent mantra "head, heart, and hands":
 
 - Waldorf's style was founded through a German school from Rudolf Steiner's spiritualized [philosophy](philosophy.md) of [anthroposophy](https://en.wikipedia.org/wiki/Anthroposophy) with the frequent mantra "head, heart and hands".
-  - Head means [thinking](understanding.md) clearly and independently.
+  - Head means [thinking](mind-understanding.md) clearly and independently.
   - Heart means the student having [emotional connection](mind-feelings.md) with their work and the world at large.
   - Hands means the willingness to take action to [achieve goals](results.md) and [contribute to the world](meaning.md).
 - In practice, it's like Charlotte Mason, but has a far more secular approach with more holistic elements.
@@ -84,7 +84,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 - Older children are taught to develop [self-awareness](mind-awareness.md) and [reason](logic.md) things out for themselves.
 - One key detail is that it's *very* anti-[technology](technology.md).
 
-**Multiple Intelligences** (est. 1983) homeschooling derives off the belief that every person has a form of [intelligence](understanding.md) that sits on multiple spectra:
+**Multiple Intelligences** (est. 1983) homeschooling derives off the belief that every person has a form of [intelligence](mind-understanding.md) that sits on multiple spectra:
 
 - The theory is based on Howard Gardner's Harvard essay and book [Frames of Mind](https://www.amazon.com/Frames-Mind-Theory-Multiple-Intelligences/dp/0465024335):
   1. [Visual](image.md) and space (visual-spatial)
@@ -106,7 +106,7 @@ You can typically adapt your routines *beyond* your children to accommodate thei
 
 **Unschooling** (aka **natural**, **interest-led** learning, **child-led** learning) uses everyday life experiences without formalized lessons or schedules:
 
-- This comes from believing that [learning](education.md) happens naturally and effortlessly, which requires parents [trusting](understanding-certainty.md) their children.
+- This comes from believing that [learning](education.md) happens naturally and effortlessly, which requires parents [trusting](mind-understanding-certainty.md) their children.
 - Sometimes, critics call it "home-squirreling" from the wayward framing of the conversations.
 - Generally, the parents ask the *children* what they are eager to learn that day.
 - The children will know how to research and become [experts](jobs-specialization.md) in their areas of interest, but the risk is they may do poorly on grade level assessments, and *will* have a difficult time in a formalized school system later if they pursue it.

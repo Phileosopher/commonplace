@@ -1,7 +1,7 @@
 
 # What awareness and mindfulness is
 
-Knowing ourselves is the basis of all [understanding](understanding.md).
+Knowing ourselves is the basis of all [understanding](mind-understanding.md).
 
 - Awareness is the first step to *all* conscious [change](people-changes.md).
 - Without self-awareness, our subconscious [habits](habits.md) automatically run our lives.
@@ -14,7 +14,7 @@ Staying mindful, or aware, isn't the same for each person, and we have a tendenc
 - Non-attachment: having no [feelings](mind-feelings.md) about the incoming experiences.
 - Compassion: associating with the emotional [hardship](hardship.md) from another's experience.
 - Conceptualization: able to physically see different perspectives in [space](reality.md).
-- Analysis: able to draw rational connections from previously [understood](understanding.md) information.
+- Analysis: able to draw rational connections from previously [understood](mind-understanding.md) information.
 
 We all have inner [conversations](people-conversation.md) with ourselves called "thoughts".
 
@@ -72,7 +72,7 @@ We must challenge our cognitive distortions with further awareness.
 Mindfulness helps us to step back and evaluate the situation, which creates several benefits:
 
 1. Detachment: we can view [our feelings](mind-feelings.md) like they're passing through instead of as concrete truths.
-2. Clarity: we can [understand](understanding.md) fact-based concepts with less [bias](mind-bias.md) from our feelings.
+2. Clarity: we can [understand](mind-understanding.md) fact-based concepts with less [bias](mind-bias.md) from our feelings.
 3. Choice: we can actively and consciously [decide](mind-decisions.md) the best way to respond to our thoughts without reacting.
 4. Wisdom: we can detect early signs of [risk](safety.md) by decoding emerging [patterns](symbols.md).
 5. Emotional intelligence: we can possess more [emotional intelligence](power-influence.md).

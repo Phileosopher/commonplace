@@ -42,7 +42,7 @@ This is the domain of the mind's raw inputs, but processed within the mind as so
 Reasoning: a form of thought
 
 - Assembles a new thought based on at least two elements.
-  - It revolves around some form of [certainty](understanding-certainty.md) to form that basis.
+  - It revolves around some form of [certainty](mind-understanding-certainty.md) to form that basis.
 - Can be [logical](logic.md) reasoning, or [emotional](mind-feelings.md) expression put to [language](language.md).
 
 Change: a depiction of movement

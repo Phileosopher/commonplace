@@ -35,7 +35,7 @@ Or, to put it more simply, all anger can be articulated by the following stateme
 
 The basis of our anger, therefore, can come from many domains:
 
-- We [fear](mind-feelings-fear.md) losing [power](power.md) that we [believe](understanding-certainty.md) we are entitled to.
+- We [fear](mind-feelings-fear.md) losing [power](power.md) that we [believe](mind-understanding-certainty.md) we are entitled to.
 - We fear not having enough power to accomplish our [desires](purpose.md).
 - We feel [sad](mind-feelings-sadness.md) about [a loss](hardship.md) that we believe shouldn't have happened or failed [expectations](mind-imagination.md).
 - We were [surprised](mind-feelings-surprise.md) in a way that made us feel [afraid](mind-feelings-fear.md).
@@ -45,7 +45,7 @@ The basis of our anger, therefore, can come from many domains:
 - We could have a vitamin deficiency.
 - All of our troubles may be magnified through [substance abuse](addiction-substances.md).
 
-All of this distills to [stress](mind-feelings-happiness-stress.md) that we [believe](understanding.md) we must do something about.
+All of this distills to [stress](mind-feelings-happiness-stress.md) that we [believe](mind-understanding.md) we must do something about.
 
 This stress triggers a very base-level animal response to do something physical:
 

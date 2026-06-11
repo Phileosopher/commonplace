@@ -46,7 +46,7 @@ With official authorities, temper your behavior:
 A. Overpowering is trying to command the most control in the conflict:
 
 - They're using intensity and manipulation to control the situation, often by ignoring their [boundaries](people-3_respect.md) and limits.
-- The only version of reality they'll acknowledge is their own [understanding](understanding.md).
+- The only version of reality they'll acknowledge is their own [understanding](mind-understanding.md).
 - To them, nobody else is allowed to use their power, so they'll communicate unreasonable demands without any feeling or consideration.
 - They're generally indifferent to others in the conflict until they're affected by it, and won't tend to [listen](language-speaking.md) to others' feelings or thoughts.
 - When they perceive opposition they'll counter, block, and divert it.

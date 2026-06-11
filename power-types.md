@@ -6,8 +6,8 @@ NOTE: While an extensive list of *all* the forms of power is impossible, I've co
 [Human Capital](money-economics.md)
 
 - [Creativity](mind-creativity.md) - can accomplish a purpose using methods outside of others' [expectations](mind-imagination.md).
-- Wisdom - [general](philosophy.md) [understanding](understanding.md) of [reality](reality.md).
-- Expertise - having a [specialized](jobs-specialization.md) [understanding](understanding.md) of things, *especially* of how to wield all the other forms of power.
+- Wisdom - [general](philosophy.md) [understanding](mind-understanding.md) of [reality](reality.md).
+- Expertise - having a [specialized](jobs-specialization.md) [understanding](mind-understanding.md) of things, *especially* of how to wield all the other forms of power.
 - Aptitude/Talent - ability to physically [do things](results.md).
 - Experience - possessing memory of places and events.
 
@@ -28,7 +28,7 @@ Social (also known as "politics")
 - Formal - [honor](people-image-why.md) or an official title bestowed by a [group](groups-member.md), often established by the [culture](people-culture.md).
 - Fame - [familiarity](people-image-why.md) with a name.
 - Property/Wealth - ownership of things, [people](people-slavery.md), [intellectual properties](legal-ip.md), or [rights](people-boundaries-why.md) that can accomplish a [purpose](purpose.md).
-- Money - a specific means of stockpiling others' [power](power.md) for later, with each person basing its [value](values-quality.md) on how much they [believe](understanding-certainty.md) everyone else [values](values-quality.md) it (i.e., [economics](money-economics.md)). It's relatively [measurable](math.md) compared to all the other forms of power, and is one of the few that we can trade.
+- Money - a specific means of stockpiling others' [power](power.md) for later, with each person basing its [value](values-quality.md) on how much they [believe](mind-understanding-certainty.md) everyone else [values](values-quality.md) it (i.e., [economics](money-economics.md)). It's relatively [measurable](math.md) compared to all the other forms of power, and is one of the few that we can trade.
 
 Contextual
 
@@ -57,4 +57,4 @@ Subdivisions - anything that breaks out power where multiple people can own the 
 - Usage rights - the right to use something without owning it (e.g., renting, mining rights, streaming media services).
 - Group affiliation - [connection with](groups-member.md) or [leadership](groups-small.md) of a collectively powerful organization.
 
-Secrets - information that others don't know, which disseminates in approximately equal portions from [understanding](understanding.md) and [gossip](people-conversation.md).
+Secrets - information that others don't know, which disseminates in approximately equal portions from [understanding](mind-understanding.md) and [gossip](people-conversation.md).

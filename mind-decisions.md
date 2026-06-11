@@ -3,7 +3,7 @@
 
 A decision is the closest component we can ever get to what we call a "[soul](humanity.md)", and is the mechanism that defines anything we call "intelligent" or "human".
 
-We tend to judge our [identity](people-identity.md) by our decisions when they yield positive [results](results.md), but lean more into our [circumstances](reality.md) when we experience [hardship](hardship.md) (a product of [guilt and shame](mind-feelings-shame.md)). However, we tend to [believe](understanding-certainty.md) the opposite in others: their decisions are *not* their identity when they're succeeding, while their decisions are *entirely* who they are when they fail.
+We tend to judge our [identity](people-identity.md) by our decisions when they yield positive [results](results.md), but lean more into our [circumstances](reality.md) when we experience [hardship](hardship.md) (a product of [guilt and shame](mind-feelings-shame.md)). However, we tend to [believe](mind-understanding-certainty.md) the opposite in others: their decisions are *not* their identity when they're succeeding, while their decisions are *entirely* who they are when they fail.
 
 We are *constantly* deciding things. When we were little, nearly all our decisions were conscious. However, we quickly developed many [habits](habits.md) automatically, and those decisions were pushed into the subconscious.
 
@@ -15,13 +15,13 @@ Contrary to how it may [seem](people-image-why.md), decision-making is far more 
 
 As we develop [habits](habits.md) from infancy onward and our [identity](people-identity.md) grows, we subconsciously conform to an identity with further decisions and [changes](people-changes.md) without [awareness](mind-awareness.md) of it.
 
-As we gain [experience](understanding.md), *most* decisions become [habitual](habits.md). Decisions force [change](people-changes.md) and require directing [our essence](humanity.md) to it, so it's a gigantic portion of why [aging](maturity.md) makes us both set in our ways and unaware of the passage of time.
+As we gain [experience](mind-understanding.md), *most* decisions become [habitual](habits.md). Decisions force [change](people-changes.md) and require directing [our essence](humanity.md) to it, so it's a gigantic portion of why [aging](maturity.md) makes us both set in our ways and unaware of the passage of time.
 
 ## Willpower
 
-We face [conflicts](people-conflicts-inner.md) about what we want. If we have *any* conflict about what we [imagine](mind-imagination.md) [doing](results.md) or [believing](understanding-certainty.md), we must deny a [sentiment](mind-feelings.md) to [act](creations.md) toward a repeat of that action. "Willpower" is the amount of resistance we must use to make a particular decision.
+We face [conflicts](people-conflicts-inner.md) about what we want. If we have *any* conflict about what we [imagine](mind-imagination.md) [doing](results.md) or [believing](mind-understanding-certainty.md), we must deny a [sentiment](mind-feelings.md) to [act](creations.md) toward a repeat of that action. "Willpower" is the amount of resistance we must use to make a particular decision.
 
-Every day, we wake up with a certain amount of willpower based on how much we're [certain](understanding-certainty.md) about what we can do. Over the day, we can refresh that [certainty](understanding-certainty.md) through affirmations or rest, but that willpower reserve will slowly drain until we become incapable of even performing basic [tasks](purpose.md) or resisting *any* [substance](addiction-substances.md).
+Every day, we wake up with a certain amount of willpower based on how much we're [certain](mind-understanding-certainty.md) about what we can do. Over the day, we can refresh that [certainty](mind-understanding-certainty.md) through affirmations or rest, but that willpower reserve will slowly drain until we become incapable of even performing basic [tasks](purpose.md) or resisting *any* [substance](addiction-substances.md).
 
 APPLICATION: We slowly lose [willpower](purpose.md) from decision-making, and are more likely to be impulsive when confronted with too much selection.
 
@@ -31,7 +31,7 @@ Our willpower reserve is connected with our animal capacity for brainpower, whic
 
 ## Unconscious
 
-Our framework of information can often be shoddy and [untrustworthy](understanding-certainty.md), but we still must make decisions with it.
+Our framework of information can often be shoddy and [untrustworthy](mind-understanding-certainty.md), but we still must make decisions with it.
 
 Since unconscious decisions are essentially [habits](habits.md) by another name, and the word "decisions" usually only refers to the diverging options we consciously select.
 
@@ -40,10 +40,10 @@ APPLICATION: Generally, experiences and decisions we make beforehand craft our m
 There is a spectrum between conscious decisions and habits. Across repetition, decisions become habits through a specific flow:
 
 1. Experience [perceived facts](reality.md).
-2. Condense the information into reasonable [stories](stories-why.md) that answer ["how", "why", and "what"](understanding.md).
+2. Condense the information into reasonable [stories](stories-why.md) that answer ["how", "why", and "what"](mind-understanding.md).
 3. The end of the story creates a [feeling](mind-feelings.md) that defines the [purpose](purpose.md) we ascribe to the experience.
 
-We feel comfortable handing off most decisions to the subconscious, except for when that decision either may create [painful](mind-feelings-fear.md) [results](results.md) or makes us feel something [unfamiliar](understanding-certainty.md).
+We feel comfortable handing off most decisions to the subconscious, except for when that decision either may create [painful](mind-feelings-fear.md) [results](results.md) or makes us feel something [unfamiliar](mind-understanding-certainty.md).
 
 We can profoundly understand the basis of our [personalities](people-personality.md) by what decisions we obsess over and how much.
 

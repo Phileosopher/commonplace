@@ -50,6 +50,11 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Insurance fraud investigators, private investigators
    - Medical finance professionals, real estate agencies
    - Even if you try hiding, *any* individual with you who indicates your name will connect your new situation with your old one.
+7. This reputation will languish for a fixed amount of time based on either legal limits or [utility](purpose.md).
+   - [Applicant data](jobs-4_hunt.md) can last for 330 days.
+   - Driving history can last 3 years for the most part, but calculates for 5 years total, and sometimes as far as 7 years for some miscellaneous calculations.
+   - [Debts](money-2_debt.md) can last 7 years, or 10 years in the case of a bankruptcy.
+   - [Criminal history](legal-crimes.md) can last 7 years, 10 years, or a lifetime depending on the situation.
 
 To that end, your reputation involves a few arcane tasks:
 

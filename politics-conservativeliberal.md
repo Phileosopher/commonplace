@@ -19,7 +19,7 @@ While there are many things that can be "conserved", there are some things that 
 8. A physical environment that supports human life and health (with a moral environment ideal for [raising children](parenting-children)).
 9. A [strong military](people-conflicts-war.md) that can defend a nation's core interests while staying unaffected by politics and respecting that civilians have authority over them.
 
-When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](mind-imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](people-trends.md), since they have [hope](mind-trust.md) in what they haven't seen.
+When people are [young](maturity.md), they tend to have no basis for the old way of things. All they know is what they've experienced in their relatively short lives and what they've [learned](mind-understanding.md) from their [culture](people-culture.md). Since society is flawed, and they [imagine](mind-imagination.md) it [can be better](politics-perfectsociety.md), they tend to embrace *any* [social changes](people-trends.md), since they have [hope](mind-trust.md) in what they haven't seen.
 
 As people [age](maturity.md), they tend to discover that there's nothing really "[new](people-image-why.md)". At the same time, they often have amassed [power](power.md) over the old and familiar system. Thus, beyond the [inherent risks](safety.md) to any [large-scale changes](people-trends.md), they have more to lose and tend to vote more conservatively.
 
@@ -27,15 +27,15 @@ APPLICATION: Younger people are typically easier to [convince](influence.md) tha
 
 Conservatives tend to vote for civilization and liberals for equality, but this isn't precisely true:
 
-- At the farthest extremes, a conservative will *always* enforce [rules](people-rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](politics-leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](people-image-why.md) because they are severely implementing [order](understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
-- Most normal people have a case-by-case [inner conflict](people-conflicts-inner.md) tied to their [beliefs](understanding-certainty.md). Those beliefs come from [religious views](religion.md), definitions of [humanity](humanity.md), how we should [empower](power.md) the weakest in society, and many other [philosophical](philosophy.md) elements.
+- At the farthest extremes, a conservative will *always* enforce [rules](people-rules.md) complying with a [moral](morality.md) standard (thereby implementing [religion](religion.md)), and a liberal will *always* lean to [leftist](politics-leftism.md) ideals (thereby implementing secularism). However, they both have more in common than they may [appear](people-image-why.md) because they are severely implementing [order](mind-understanding-certainty.md). This makes the spectrum more of a "horseshoe" than a line.
+- Most normal people have a case-by-case [inner conflict](people-conflicts-inner.md) tied to their [beliefs](mind-understanding-certainty.md). Those beliefs come from [religious views](religion.md), definitions of [humanity](humanity.md), how we should [empower](power.md) the weakest in society, and many other [philosophical](philosophy.md) elements.
 
 APPLICATION: By nature, conservatives will be somewhat antagonistic against overly used [technology](technology.md), and liberals against overly applied [virtue](morality.md).
 
 While liberalism can embrace anything [trendy](people-trends.md), conservatives can also embrace anything [trendy](people-trends.md) from the past. They're both adopting those trends through what they [imagine](mind-imagination.md):
 
 - Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](people-trends.md) [cultures](people-culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
-- Liberals are using expectations of present [actions](results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](understanding-certainty.md) to [know](understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
+- Liberals are using expectations of present [actions](results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](mind-understanding-certainty.md) to [know](mind-understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
 
 ## Undefined
 
@@ -56,13 +56,13 @@ Conservative and liberal are difficult to define because they're responses to [t
 
 Political power often requires bending public opinion, so "conservative" and "liberal" are often hijacked for other [purposes](purpose.md). Sometimes, *conservatives* are looking for new things and liberals are trying to restore an old social order, but [feelings](mind-feelings.md) run so strongly that the definition and meaning of the words everyone uses is very difficult to separate out.
 
-APPLICATION: To live [the good life](people-goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](understanding.md) and [decide](mind-decisions.md) for themselves.
+APPLICATION: To live [the good life](people-goodlife.md), we must only consider politics to the degree we have control over political decisions. To the average person, it extends only to the people we can [vote](groups-large.md) for. In a free society, we must let everyone else [learn](mind-understanding.md) and [decide](mind-decisions.md) for themselves.
 
 When the group isn't "liberal" or "conservative" enough and the group can't settle their [conflicts](people-conflicts-war-why.md), they tend to fork off into separate groups and redefine their [purposes](purpose.md). In the USA as of ~2021, for example, "liberal" floats near [leftism](politics-leftism.md) while "conservative" can broadly sit either near "libertarianism" or conventional "conservatism", depending on how much [influence](influence.md) people believe the government ought to have.
 
-APPLICATION: The image of politically extreme [zealots](mind-trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](people-image-why.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
+APPLICATION: The image of politically extreme [zealots](mind-trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](people-image-why.md) to [believe](mind-understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
 
-APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](mind-decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](mind-decisions.md).
+APPLICATION: Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](mind-understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](mind-understanding-certainty.md) evil is bad [choices](mind-decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](mind-understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](mind-decisions.md).
 
 Most of this contention comes through a series of inter-related conflicts:
 
@@ -90,7 +90,7 @@ Underneath the surface, there are two competing value systems that define where 
    - People are naturally selfish.
    - Knowledge is limited and naturally decentralized.
    - If this is the case, all we can do is to build institutions that harness what already exists.
-2. Unconstrained - social problems are the failure of some form of [wisdom](understanding.md) or [willpower](purpose.md).
+2. Unconstrained - social problems are the failure of some form of [wisdom](mind-understanding.md) or [willpower](purpose.md).
    - Every problem can be solved with the right [leadership](mgmt-1_why.md), [education](education.md), or system.
 
 The constrained value system means conservatives believe in natural law:

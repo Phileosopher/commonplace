@@ -10,7 +10,7 @@ The entire system is vastly complex, but all life is programmed from those 4 pri
 There are constraints to the DNA analogy:
 
 - Our brains are chemical trigger machines, but programmed softly through [the repetition of habit](habits.md) (rather than hard entry of non-negotiable [information](data.md)).
-- Computers are logic machines, and if we work hard enough at making [AI algorithms](computers-ai.md), we can make them imitate feelings. By contrast, we are [feeling](mind-feelings.md) beings that create [logic](logic.md) upon those framed intuitions once we've achieved some level of [certainty](understanding-certainty.md).
+- Computers are logic machines, and if we work hard enough at making [AI algorithms](computers-ai.md), we can make them imitate feelings. By contrast, we are [feeling](mind-feelings.md) beings that create [logic](logic.md) upon those framed intuitions once we've achieved some level of [certainty](mind-understanding-certainty.md).
 
 It's safe to say mindless activities track absolutely the same as a computer (e.g., working a [factory job](computers-robotics.md), [driving](creations.md) passively down a clear highway), and all of those tasks can largely be automated.
 

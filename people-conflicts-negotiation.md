@@ -431,7 +431,7 @@ People typically need to say "no", so don't take it personally:
 - We tend to hear "no" as "no, in every way", but it has many alternative meanings:
   - "I am not yet ready to agree."
   - "You're making me feel uncomfortable."
-  - "I don't [understand](understanding.md)."
+  - "I don't [understand](mind-understanding.md)."
   - "I don't think I can [afford it](money-3_budget.md)."
   - "I want something else."
   - "I need more information."

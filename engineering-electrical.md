@@ -1,30 +1,222 @@
 
-# Electrical engineering
+# Electrical engineering summarized
 
 Electricity was discovered by observing the electric eel. It etymologically combines "electrum" from Latin and "ēlektron" from Greek. This word was synonymous with was a naturally occurring alloy of gold and silver called "amber".
+
+There are a vast range of [standards](standards.md) for electrical code, and they move around based on new developments and implementations. However, given that the technology is about 200 years old, they're nowhere *near* as volatile as [computer standards](standards-computers.md)
 
 Electricity and magnetism are *very* connected.
 
 - A magnetic force can be multiplied through an electric current by wrapping an electrical coil around an object. This is how speedometers and voltmeters work.
 - It's always safe to assume magnetism is present when electricity is present, and the converse.
 
-## Electrical connections
-
 Electricity is simply the large-scale movement of many electrons from atoms with more electrons than protons to atoms with fewer electrons than protons. Electricity is *everywhere* in small amounts, but we only see it naturally occur on a dramatic scale with lightning.
 
-Electrical energy is defined by voltage, which is the potential energy difference available between two charges. It's defined as the amount of potential that causes 1 amp moving in 1 second (a "coloumb") to do 1 joule (0.737 ft-pounds) of work.
+## Electrical connections
 
-The formation of electricity gives *tremendous* capacity for people to magnify their labor, and is by far the most ubiquitous. An electrically powered engine generally has less torque than anything combusted (e.g., internal combustion engine, rocket engine) but the energy is *much* easier to transfer around to other sources compared to anything strictly mechanical.
+Electrical energy travels through current between positively or negatively charged objects. Voltage is the potential energy difference available between two charges, and is defined as the amount of potential that causes 1 amp moving in 1 second (a "coloumb") to do 1 joule (0.737 ft-pounds) of work.
+
+The formation of electricity gives *tremendous* capacity for magnifying their labor, and is by far the most ubiquitous. An electrically powered engine generally has less torque than anything combusted (e.g., internal combustion engine, rocket engine) but the energy is *much* easier to transfer around to other sources compared to almost every other mechanical object.
 
 Amperes measure how fast electrons flow, and volts measure the difference in how many electrons between two points. There's usually an analogy with water where voltage is pressure and amperage is flow speed. Wattage is simply amperage multiplied by voltage.
 
-Electricity travels from one point to another through a "conductor" that has a certain amount of resistance measured in ohms. Metal tends to have a much lower resistance than most other materials, and some of the best conductors happen to be copper, silver, and gold because they're [more capable of picking up additional electrons relatively easily](science.md).
+Electricity travels from one point to another through a conductor that has a certain amount of resistance measured in ohms. Metal tends to have a much lower resistance than most other materials, and some of the best conductors happen to be copper, silver, and gold because they're [more capable of picking up additional electrons relatively easily](science.md).
 
-Wires can be temporarily engaged to complete the "circuit". The reason electricity works with wires is because it's the path of least resistance (i.e., usually copper). The engaged wires are typically hidden behind a [designed](engineering-design.md) housing with a switch for the user's safety.
-
-There are usually "fuses" placed in a box to precisely detect where the assembly will break in the case of a severe spike in electric current. All the wiring is supposed to travel through that fuse box at some point in its journey to prevent any cables from breaking in an unpredictable location. For that reason, barring a frayed wire from exposure to the elements, most typical electrical failings are either within the output (e.g., light bulb) or within the fuse.
+Water itself is a poor conductor, but small impurities like salt, acid, and solvents can make water convert from being an insulator into a conductor. This holds true as well for anything that can get wet, such as dry wood or dry skin.
 
 Alternating current (AC) travels *much* farther than direct current (DC), and is generally safer simply from the fact that electrocution will make the victim's muscles seizure instead of contract. However, most small-scale electrical components that use batteries use AC, and [most computers](computers-cpu.md) use AC for their signals because they're more predictable.
+
+Static electricity can also cause a shock, but not usually as severely. It comes from electron buildup, usually from friction, without any grounding.
+
+## Wiring
+
+Wires can be temporarily engaged to complete a circuit. Electricity works with wires because the wire is the path of least resistance (i.e., usually copper or aluminum). That pathway is usually from the live current to its designed destination, the ground, an accidentally energized piece of metal, or another conductor with a current.
+
+To ensure the path is always through desired conductors, all engineered electrical components have insulators that impede the flow of electricity. Further, wires are typically hidden behind a [designed](engineering-design.md) housing with a switch for the user's safety.
+
+There are usually fuses placed in a box to precisely detect where the assembly will break in the case of a severe spike in electric current. All the wiring is supposed to travel through that fuse box at some point in its journey to prevent any cables from breaking in an unpredictable location. For that reason, barring a frayed wire from exposure to the elements, most typical electrical failings are either within the output (e.g., light bulb) or within the fuse.
+
+The most basic division of wire and cable technology is based on voltage:
+
+- 300V: signaling, controls, [wired communications](networks-cs.md)
+- 600V: the most widely used, typically for power and light circuits
+- 2kV-25kV: medium-voltage electrical power distribution circuits
+
+## Phases
+
+A single-phase power transfer is best done with DC, since AC will constantly vacillate.
+
+The 2-phase power system is the simplest usage of AC:
+
+- 2 different conductors carry AC with the same frequency and voltage amplitude based on a common reference.
+- However, each phase is offset by 1/2 of a cycle (i.e., 180 degrees out of phase).
+  - At any given point in time, the magnitude of each conductor will be the same as the other conductor, but with the opposite polarity.
+    - e.g., if one conductor at a specific point in time charged with +125V, the other will have -125V.
+
+The most common electrical system is the 3-phase power supply system:
+
+- The 3-phase supply is more [economical](money-economics.md) because it allows the same amount of power transmitted with 75% of the conductor material.
+- At any given point in time, the magnitude of each conductor will be the same as the other two currents combined, but with the opposite polarity.
+- 3-phase systems often include a 4th wire, especially in a low-voltage distribution, which is a "neutral" wire that allows separate phases to act as a single-phase output.
+  - This offsets the downside of 3-phase systems, since most consumer-grade electrical power runs on single-phase power.
+- The phase offset can either be configured in a star connection (which looks like a "Y") or a delta connection (which looks like a "Δ").
+  - There is no neutral point in delta, so delta always uses 3 wires.
+  - The one advantage of delta is that it has more starting current, so it works great for things that need high starting torque (e.g., large electric factory motors).
+
+## Voltage
+
+The voltage classifications aren't universally standard, so the IEC and ANSI/NEC [standards](standards.md) differ:
+
+- Extra Low Voltage (ELV)
+  - IEC: below 50V AC or 120V DC
+  - Applications include low-power devices like battery systems and control circuits.
+  - This also dovetails closely with [computer signals](networks-cs.md), where the electricity is meant as information instead of power generation.
+- Low Voltage (LV)
+  - IEC: 50V-1kV AC or 120V-1.5kV DC
+  - ANSI/NEC: up to 600V AC
+  - Applications include consumer-grade uses like residential power, commercial buildings, and lighting systems.
+  - Beyond LV, just about everything is AC power (due to its long-distance usefulness and that it's generally safer).
+- Medium Voltage (MV)
+  - IEC: 1kV-35kV, but sometimes extends to 52kV
+  - ANSI/NEC: 601V-69kV
+  - Applications include local distribution, industrial facilities, datacenters, and low-power power plants (e.g., solar and wind)
+- High Voltage (HV)
+  - IEC: 35kV-230kV
+  - ANSI/NEC: 69kV-230kV
+  - Applications include transmission lines, substations, interceity power transfer, and heavy industrial power.
+  - In general, the classifications move around, but everyone agrees that things get a bit different at 230kV.
+- Extra High Voltage (EHV)
+  - IEC: 230kV-800kV
+  - ANSI/NEC: 230kV-500kV
+  - Applications include long-distance transmission lines, grid interconnection, large power plants, and cross-border power exchanges.
+- Ultra High Voltage (UHV)
+  - IEC: over 800kV
+  - ANSI/NEC: over 500kV
+  - Applications include bulk power transmission, supergrids, continental power transfer, and future grid technologies.
+
+## Ground faults
+
+When the cable insulation fails, there will be a ground fault.
+
+- Essentially, the cable will somehow make contact with a conductor that makes its way to the ground.
+- This will represent as *massive* power draw, as well as possible arc flash
+- However, a ground fault can be cleared if the cable's design prevents the ground fault from persisting.
+- Even a small cut can slowly erode a cable because it creates a pocket of air.
+  - The breakdown can often represent something visually similar to water erosion, where the electricity erodes the insulation until something breaks through.
+
+People can detect current as small as 1 milliamp.
+
+- At 5 milliamps, someone will feel a slight shock that's uncomfortable but not painful.
+- Due to muscle and fat composition, at 6-25 milliamps for women or 9-30 milliamps for men it will be a painful shock and muscular control will be lost.
+  - At this point, it may not be possible to let go, but the person can be thrown away from the current if their extensor muscles are stimulated.
+- At 50-150 milliamps, the shock will be extremely painful and can potentially cause a heart attack.
+- At 1-4.3 amps, the heart will cease, muscular and nerve damage will happen, and it's likely fatal.
+- At 10 amps, the heart will cease and there will be severe burns, and death is probable.
+- However, 15 amps is the lowest overcurrent when a fuse or circuit breaker opens a circuit.
+
+The most common injury from electrocution is through burns.
+
+- Electrical burns are from current generating heat while flowing through body tissues.
+- Arc or flash burns come through high temperatures from an electric arc or explosion near the body.
+- Thermal contact burns are from the skin touching hot surfaces of overheated, energized equipment.
+- The duration of exposure can be magnified, however, through a "freezing" effect due to involuntary contraction.
+  - Even long exposure to relatively low voltages can be as dangerous as shorter exposure at higher voltages.
+
+Arc flash will happen across air at about 60-70 volts/mil:
+
+- i.e., a 600-volt cable will jump 0.1 inches or a 15,000-volt cable for 0.25 inches.
+- The electric flux travels farther than this, but isn't concentrated enough to be dangerous.
+- This is a major risk, so engineers are *constantly* redesigning cable to offset this.
+
+The insulation level determines how long until the ground fault can be cleared before it destroys the cable.
+
+- 100% level means it will clear within 1 minute because it can't handle the higher stress and voltage.
+- 133% level means it can't exceed 1 hour, and is often the standard even with a well-grounded system.
+- 173% level means it could be indefinite, meaning the insulation may *never* fail even with a ground fault.
+
+The risks of ground faults can come from overheating.
+
+- It's not uncommon to calculate the amperage heat requirement, but forget that grounding also generates amperage, which can push the cables past their heat threshold.
+
+To prevent ground faults, many places where there may be an undesirable conductor present (e.g., a bathroom, construction site) have ground fault circuit interrupters (GFCIs) that kill the flow of electricity within 1/40 of a second when the wire has a surge from a ground fault (i.e., exceeding 5 milliamperes). There are also arc-fault devices designed for larger voltage systems.
+
+## Cabling
+
+[Each cable is designed](engineering-electrical-cables.jpg) with several factors in mind:
+
+1. An attempt to minimize resistance to allow a channel of unrestrained current
+2. Weather-resistance to maintain the cable (e.g., waterproofing, heat)
+3. Shielding to prevent the cable from causing risks to others
+4. Risks from degradation to the environment (e.g., lead).
+5. In the case of [signals](networks-cs.md), shielding to prevent interference *with* the conduit (e.g., electromagnetic).
+
+Cables are, therefore, composed of several components:
+
+- Conductor, which carries the current
+  - Often copper or aluminum (copper is better but expensive, aluminum is worse but cheaper)
+    - Copper is also [economically](money-economics.md) volatile as a commodity, so it's harder to [scope out projects](mgmt-2_projects.md) at scale.
+    - Aluminum also tends to form oxide that interferes with current, which becomes an effective insulator.
+      - One practice for crimping is to wire brush the oxidation, then apply an oxide inhibitor (usually zinc) that breaks it down.
+    - It's not preferable to use both, since aluminum expands faster than copper, but dual-rated cables can work if necessary.
+  - The strand configuration has a few major approaches:
+    - The design is about occupying less space to send as many amps as possible, with the tradeoff coming in flexibility and cost
+    - Solid: one continuous spool of metal
+    - Stranded: multiple strands together
+      - Bunched: no particular arrangement
+      - Unilay: multiple layers twisted in the same direction
+      - Rope Lay: Unilay, but woven into a mega-twist
+        - This is the most flexible arrangement relative to size
+      - Concentric: multiple layers twisted, with each layer twisted in opposite directions
+      - Compressed: pushes the cables closer together without as much separation
+      - Compact Round: separate cables, but pressed against each other to make a solid-like shape
+        - This is necessary especially for aluminum to increase conductivity
+- Insulation, which protects the conductor
+- Insulation shield, which protects the insulation
+- Further, higher-voltage like Medium Voltage (MV) and High Voltage (HV) have a few more protective elements:
+  - Strand shield for each individual strand (in multi-cable)
+  - Semi-conductor, which help dissipate high voltage that can build up across the line
+    - There can be air in-between strands, but it's not a good insulator.
+      - Slowly, a cable will eat away and literally vaporize insulation, which creates a ground fault.
+    - By extruding a semi-conducting layer that is in contact with the strands, it effectively creates a Faraday cage to prevent insulator decay.
+  - Metallic shield, which works to inhibit arc flash
+    - This accomplishes several things
+      1. Confines the dielectric field within the cable
+      2. The voltage stress within the dielectric is distributed symetrically on a radial axis
+      3. It limits [radio](engineering-radio.md) interference
+      4. There's a lower risk of shock
+      5. It gives a return for short circuit current in the event of a failure
+      6. it gives a neutral return path for concentric neutral cables (where the neutral cables are on the outside of the cable)
+  - Jacket, which further separates the cable from its environment
+    - It doesn't add much electrical value whatsoever, but protects from water damage.
+    - If the jacket, and nothing else, is damaged, it can use any unrated electrical tape to resolve it.
+
+There is a contentious question about installing ground cables on one side or both sides.
+
+- The problem is that additional grounds create additional heat within the circuit and therefore create more cable decay.
+- A 3-conductor setup will certainly benefit from a ground on both sides.
+- However, a case can be argued that a single-phase current only needs one ground, especially if it's a very long run.
+
+Besides [patience and a good attitude](success-5_persevering.md), good cable preparation requires several important factors:
+
+- Have a working familiarity with the tools.
+  - This includes keeping the blades sharp.
+  - If using specialty tools, set the blade depth on a scrap piece of cable.
+- Understand the kit you're working with.
+  - This may take a few minutes of reading the instructions, but can save a lot of problems.
+- Understand the environment you're working with.
+  - This usually means scoping out if you'll need to make any special arrangements.
+- Cutback dimensions are critical, so check your math twice before cutting.
+- Crimp the lug or connector correctly.
+
+## Cable repair
+
+Before anything, make sure EVERYTHING is powered off.
+
+- Double and triple check, since it can be fatal.
+
+With some exceptions *never* splice a cable.
+
+- Terminating may have to happen, but new construction should avoid splicing at all costs because it sabotages the integrity of the cable over time.
 
 ## Solar cells
 
@@ -43,6 +235,15 @@ Another side effect of electrical transfer is magnetism. Again, by winding elect
 - Generate electricity by applying mechanical energy to it (e.g., a generator).
 - Detect magnetic activity through energy within its proximity (e.g., metal detector).
 - Configure it with a magnet to create a gauge (e.g., speedometer).
+
+## Electricity and biochemistry
+
+Our [body systems](body-systems.md) are connected with electricity.
+
+- The nervous system is a series of well-refined electrical signals.
+  - The heart, as part of the cardiovascular system, is maintained by consistent electricity.
+- The heart itself, however, also has a "little brain" of 40,000 neurons, which serves to generate and read a small electromagnetic field
+  - We have a built-in ability to detect electromagnetism, and that reading directly resonates with our ability to identify [spiritual warfare](spiritual-warfare.md).
 
 ## Batteries
 

@@ -39,7 +39,7 @@ To attain fullness in Christ, we must manage all three components of ourselves.
 - [1 Thessalonians 5:23](https://biblehub.com/1_thessalonians/5-23.htm)
 - We can only find true [meaning](meaning.md) when we've harmonized all three:
   1. Our spirit must be directed to [God's will](god-will.md) to recognize spiritual truths.
-  2. We must submit our soul to our spirit in [understanding](understanding.md) and applying spiritual truths.
+  2. We must submit our soul to our spirit in [understanding](mind-understanding.md) and applying spiritual truths.
   3. We must discipline our body to [perform the action](results.md) our soul has directed us to perform.
 
 The *exact* nature of these domains is at least somewhat expressed via Christian tradition.
@@ -74,7 +74,7 @@ B. Reproduction - copulation for the purpose of [carrying one's essence onward](
 
 - When perverted, we desire further expansion beyond the [seasonal nature](people-trends.md) of our existence.
   - [Ecclesiastes 3:1-8](https://biblehub.com/ecclesiastes/3.htm)
-- Reproduction can also be perverted toward desires to reproduce one's [power](power.md) and [methods](understanding.md) upon others, attain a great [name](language.md) that persists for millennia, or polygamy.
+- Reproduction can also be perverted toward desires to reproduce one's [power](power.md) and [methods](mind-understanding.md) upon others, attain a great [name](language.md) that persists for millennia, or polygamy.
 
 C. Defense - [protection](safety-riskmgmt.md) from bad things:
 
@@ -122,7 +122,7 @@ The soul is also known as "sentience", and is the part of us that give us [power
 Christian tradition has demarcated the soul as having emotions, mind, and volition or will.
 
 - Emotions are narrowly contrasted from [feelings](mind-feelings.md), but it's very difficult to define (the "spirit" in Eastern Orthodoxy).
-- The mind is where we [understand information](understanding.md), but it's very difficult to differentiate it between the brain (the "word" in Eastern Orthodoxy).
+- The mind is where we [understand information](mind-understanding.md), but it's very difficult to differentiate it between the brain (the "word" in Eastern Orthodoxy).
 - The will is where we make conscious, [non-habitual](habits.md) [decisions](mind-decisions.md) (the "nous" in Eastern Orthodoxy).
 
 A. Emotions are [feelings](mind-feelings.md) that detect experiences from our body and soul.
@@ -134,9 +134,9 @@ A. Emotions are [feelings](mind-feelings.md) that detect experiences from our bo
   - [Colossians 3:5](https://biblehub.com/colossians/3-5.htm)
 - While the body's feelings are the domain of hormonal triggers in the brain, the emotions can be deduced as the domain of feelings that can't be scientifically measured.
 
-B. Mind is our capacity to [understand](understanding.md) via [imagining](mind-imagination.md) and [remembering](mind-memory.md) toward a defined [purpose](purpose.md) (though there's *much* more to [how it works](https://gainedin.site/layers/)).
+B. Mind is our capacity to [understand](mind-understanding.md) via [imagining](mind-imagination.md) and [remembering](mind-memory.md) toward a defined [purpose](purpose.md) (though there's *much* more to [how it works](https://gainedin.site/layers/)).
 
-- He created us to [understand](understanding.md) and [internalize](bible-study.md) His word, His [plans](god-will.md), and recognize His [power](power.md).
+- He created us to [understand](mind-understanding.md) and [internalize](bible-study.md) His word, His [plans](god-will.md), and recognize His [power](power.md).
 - Without any spiritual direction, we'll dwell on something that affects the [quality](values-quality.md) of our [lives](people-goodlife.md), which can cause most of our [sins](theology-sins.md) if we're not careful.
 - While the brain's thoughts are the domain of electrical impulses in the brain, the mind's thoughts are the elements that can't be scientifically measured.
 
@@ -148,7 +148,7 @@ C. Our will uses the information from our mind to make [decisions](mind-decision
 
 There are a few traits of living by the soul:
 
-- Prioritizing [calculating](understanding.md) over [praying](spiritual-exercises-prayer.md), even when it's something we have zero control over.
+- Prioritizing [calculating](mind-understanding.md) over [praying](spiritual-exercises-prayer.md), even when it's something we have zero control over.
 - When living through the soul, a person will make quick judgments (since they were likely [analyzing](logic.md) things already).
 - Living within the soul will often express as a type of action-based hastiness or severe passion for something.
 
@@ -211,10 +211,10 @@ A. Intuition is spiritual information the mind couldn't have acquired or inferre
 - [Hebrews 11:1](https://biblehub.com/hebrews/11-1.htm)
 - Intuitive thinking doesn't learn from sensory data or the senses.
 - Intuition is God's direct way of leading people, and comes through long periods of [following God](https://theologos.site/devotion-chaos/).
-- We can only [understand](understanding.md) God's will and desires through our intuition.
+- We can only [understand](mind-understanding.md) God's will and desires through our intuition.
 - Most [spiritual gifts](spiritual-gifts.md) operate through our intuition.
 
-B. Conscience is a strong [conviction](understanding-certainty.md) we hold about something, and connects to our capacity to maintain our [ethics](morality.md) via clear [decisions](mind-decisions.md).
+B. Conscience is a strong [conviction](mind-understanding-certainty.md) we hold about something, and connects to our capacity to maintain our [ethics](morality.md) via clear [decisions](mind-decisions.md).
 
 - Our conscience is the basis of how we ought to act toward God *and* other people.
   - [1 Peter 3:21](https://biblehub.com/1_peter/3-21.htm), [Acts 24:16](https://biblehub.com/acts/24-16.htm)
@@ -256,7 +256,7 @@ Our bodies can only react, and anything that requires more elaborate thought or 
 Our body/soul distinction is relatively easy to identify, but observing the soul versus the spirit is *much* harder:
 
 - The soul is more easily distracted than the spirit, and tends to swerve into being too [rational](logic.md) or too [emotional](mind-feelings.md) for the time and place.
-- The soul desires [understanding](understanding.md), but the spirit desires to be [within the moment](mind-awareness.md).
+- The soul desires [understanding](mind-understanding.md), but the spirit desires to be [within the moment](mind-awareness.md).
 - Most of the soul's behaviors are impulsive, while the spirit's are more sustained and patient.
 - The soul is capable of being "weighed down" by various struggles, but the spirit can never be subdued (though it can be misled).
 - Our spirits have much more strength to accomplish without outside involvement than our souls (e.g., [spiritual gifts](spiritual-gifts.md)).

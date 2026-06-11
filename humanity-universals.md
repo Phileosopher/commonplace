@@ -6,7 +6,7 @@ NOTE: This is a list of what people *all* seem to do. We could argue about outli
 Abstractions
 
 - We all [perceive](people-image-why.md) stuff, then pull [patterns](symbols.md) off it to use elsewhere.
-- Those patterns reproduce all over our [understanding](understanding.md), including in [analysis](logic.md) and [stories](stories-why.md).
+- Those patterns reproduce all over our [understanding](mind-understanding.md), including in [analysis](logic.md) and [stories](stories-why.md).
 - We then convert those abstractions into [values](values.md) and create [habitual](habits.md) thoughts around them.
 
 Aesthetics
@@ -29,7 +29,7 @@ Amusement
 
 Change
 
-- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](understanding.md), and to [social trends](people-trends.md), which frequently reflect in our [identity](people-identity.md) and [priorities](mind-decisions.md).
+- We're *constantly* [adapting](people-changes.md) to our environment, to [new discoveries](mind-understanding.md), and to [social trends](people-trends.md), which frequently reflect in our [identity](people-identity.md) and [priorities](mind-decisions.md).
 - While we can't easily see these changes minute-by-minute, everyone changes slowly across years and decades.
 
 Comparisons
@@ -42,8 +42,8 @@ Comparisons
 Conflicts
 
 - We all possess different points of view and opinions, which clash against each other.
-- First, they [clash](people-conflicts-inner.md) against our [understanding](understanding.md) inside our minds.
-- Then, we [push](people-conflicts-why.md) against others around us with our [beliefs](understanding-certainty.md).
+- First, they [clash](people-conflicts-inner.md) against our [understanding](mind-understanding.md) inside our minds.
+- Then, we [push](people-conflicts-why.md) against others around us with our [beliefs](mind-understanding-certainty.md).
 - Taken far enough, multiple [groups](groups-large.md) will [oppose](people-conflicts-war-why.md) each other.
 
 Companionship
@@ -65,13 +65,13 @@ Denying Death
 
 - We know we're going to die, but we don't talk or think about it [routinely](habits.md).
 - We tend to [associate](symbols.md) diseases with death.
-- Generally, our [beliefs](understanding-certainty.md) about diseases and [how to live](people-goodlife.md) involve [extending life](religion-answers.md) or [transcending it](legacy.md).
+- Generally, our [beliefs](mind-understanding-certainty.md) about diseases and [how to live](people-goodlife.md) involve [extending life](religion-answers.md) or [transcending it](legacy.md).
 - We always [mourn](hardship-death.md) when we experience the death of those we [love](people-love.md).
 
 Dreams
 
 - While we [sleep](sleep.md), we have [dreams](sleep-dreams.md).
-- [Amusingly](humor.md), [science](science.md) still has no [idea](understanding.md) *why* we dream.
+- [Amusingly](humor.md), [science](science.md) still has no [idea](mind-understanding.md) *why* we dream.
 - We interpret our dreams as having some [meaning](purpose.md) to our lives.
 
 Expectations
@@ -79,12 +79,12 @@ Expectations
 - We're *constantly* looking to the future to [predict, expect, and plan](mind-imagination.md) and have a mixed [hope](purpose.md)/[fear](mind-feelings-fear.md) about it.
 - We build [traditions](people-culture.md) with others around consistent [patterns](symbols.md).
 - We make [promises](people-contracts.md) based on our expectations of others and [believe](mind-trust.md) people and the surrounding environment will [behave](results.md) a certain way.
-- Further, we tend to [believe](understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
+- Further, we tend to [believe](mind-understanding-certainty.md) that our expectations are the "best" way, and are suspicious of anything that breaks from it.
 
 Exploration
 
-- Our [purposes](purpose.md) usually start with a question, since we're constantly curious about things and willing to take [risks](entrepreneur-why.md) enough to [find out](understanding.md).
-- Most of our [purposes](purpose.md) involve [understanding](understanding.md) or [creating](creations.md) something never understood or created before.
+- Our [purposes](purpose.md) usually start with a question, since we're constantly curious about things and willing to take [risks](entrepreneur-why.md) enough to [find out](mind-understanding.md).
+- Most of our [purposes](purpose.md) involve [understanding](mind-understanding.md) or [creating](creations.md) something never understood or created before.
 
 Expressions
 
@@ -96,19 +96,19 @@ Expressions
 
 Faith/Trust
 
-- We have a strong enough [belief](understanding-certainty.md) that we [understand](understanding.md) the [world](reality.md) that we take [risks](entrepreneur-why.md) doing things.
+- We have a strong enough [belief](mind-understanding-certainty.md) that we [understand](mind-understanding.md) the [world](reality.md) that we take [risks](entrepreneur-why.md) doing things.
 - We use these risks to calculate [purposes](purpose.md) and focus them on [creating](creations.md) things that make [results](results.md).
 
 Feelings
 
 - We experience a vast variety of [feelings](mind-feelings.md), which are the same feelings every other human feels, based on a reaction in the brain stem.
-- We're [happy](mind-feelings-happiness.md) when we don't feel anything is wrong, [scared](mind-feelings-fear.md) when we don't feel [safe](safety.md), angry when we feel [injustice](morality-justice.md), sad when we feel loss, and hopeful when we [believe](understanding-certainty.md) something.
+- We're [happy](mind-feelings-happiness.md) when we don't feel anything is wrong, [scared](mind-feelings-fear.md) when we don't feel [safe](safety.md), angry when we feel [injustice](morality-justice.md), sad when we feel loss, and hopeful when we [believe](mind-understanding-certainty.md) something.
 - Our feelings are the basis for how we express [sympathy and empathy](people-friends.md).
 
 Focus
 
 - While we can train ourselves against it, we tend to lock into doing things and forget everything else around us when we're devoted to a [purpose](purpose.md).
-- We tend to self-hypnotize over things we [believe](understanding-certainty.md) and tend to let our [leaders](groups-member.md) [hypnotize](power-influence.md) us.
+- We tend to self-hypnotize over things we [believe](mind-understanding-certainty.md) and tend to let our [leaders](groups-member.md) [hypnotize](power-influence.md) us.
 
 Food
 
@@ -142,8 +142,8 @@ Humor
 
 Identity
 
-- We [connect ourselves](people-identity.md) to a self-created [image](people-image-why.md) that combines what we [understand](understanding.md) from our environment with our [created](creations.md) [results](results.md).
-- We often manipulate that [image](people-image-why.md) of ourselves as our [understanding](understanding.md) changes.
+- We [connect ourselves](people-identity.md) to a self-created [image](people-image-why.md) that combines what we [understand](mind-understanding.md) from our environment with our [created](creations.md) [results](results.md).
+- We often manipulate that [image](people-image-why.md) of ourselves as our [understanding](mind-understanding.md) changes.
 
 Image
 
@@ -160,7 +160,7 @@ Imagination
 Logic
 
 - We all construct [logical ideas](logic.md) with if/then premises.
-- We analyze when we wish to further [understand](understanding.md) things.
+- We analyze when we wish to further [understand](mind-understanding.md) things.
 
 Math/Measuring
 
@@ -170,8 +170,8 @@ Math/Measuring
 
 Media
 
-- We gain [understanding](understanding.md) of ourselves by observing how others [do things](results.md).
-- We use [creations](creations.md) to [communicate](people-conversation.md) [stories](stories-why.md) with others when we believe it will increase their [understanding](understanding.md).
+- We gain [understanding](mind-understanding.md) of ourselves by observing how others [do things](results.md).
+- We use [creations](creations.md) to [communicate](people-conversation.md) [stories](stories-why.md) with others when we believe it will increase their [understanding](mind-understanding.md).
 
 Money
 
@@ -206,7 +206,7 @@ Preferences
 
 Primal/Animal Impulses
 
-- We [understand](understanding.md) and often perform variations of basic animal reactions, such as hissing, spitting, puffing up in size, and many others.
+- We [understand](mind-understanding.md) and often perform variations of basic animal reactions, such as hissing, spitting, puffing up in size, and many others.
 - We share this primal wiring that we share with most other animals, but we add those [feelings](mind-feelings.md) together to [symbolically](symbols.md) connect beyond it to many other things.
 
 Privacy
@@ -256,7 +256,7 @@ Specializations
 Stories
 
 - We all form our thoughts into [narratives](stories-why.md) with a beginning, middle, and end.
-- That end usually implies a [value](values.md) that everyone ought to [understand](understanding.md).
+- That end usually implies a [value](values.md) that everyone ought to [understand](mind-understanding.md).
 - Those stories often take on mythological proportions, folklore, and proverbial statements as [facts](reality.md) are obscured.
 
 Substance Habituation
@@ -267,7 +267,7 @@ Substance Habituation
 Supernatural
 
 - We group the "[natural](science.md)" against the "[supernatural/subnatural/magic](religion-answers.md)".
-- We tend to establish the [unknown](mind-trust.md) as having more power than the [known](understanding.md).
+- We tend to establish the [unknown](mind-trust.md) as having more power than the [known](mind-understanding.md).
 - Interaction with the non-natural typically includes divination, special rituals, and music.
 - One of the most legitimate reasons we focus on the supernatural is to stop or stall our inevitable [death](legacy.md).
 
@@ -281,14 +281,14 @@ Technology
 
 Understanding
 
-- We assemble [ideas](values.md) using our [memory](mind-memory.md) and [perceptions](people-image-why.md) until we believe we [know something](understanding.md).
+- We assemble [ideas](values.md) using our [memory](mind-memory.md) and [perceptions](people-image-why.md) until we believe we [know something](mind-understanding.md).
 - We must practice repetitively to [succeed](success-1_why.md).
 - We use substances and techniques to increase [awareness](mind-awareness.md) or alter consciousness.
 
 Vagueness
 
-- We don't generally like vague or [uncertain](understanding-certainty.md) things, especially if they might make us [unsafe](safety.md).
-- For the sake of [image](people-image-why.md) or avoiding [pain](mind-feelings-fear.md) from [understanding](understanding.md), we often keep things vague inside ourselves.
+- We don't generally like vague or [uncertain](mind-understanding-certainty.md) things, especially if they might make us [unsafe](safety.md).
+- For the sake of [image](people-image-why.md) or avoiding [pain](mind-feelings-fear.md) from [understanding](mind-understanding.md), we often keep things vague inside ourselves.
 - This vagueness frequently expresses as general beliefs about fortune or misfortune, especially with [predicting the future](mind-imagination.md).
 - To avoid vagueness, we [explain](logic.md) things to ourselves and others.
 
@@ -303,7 +303,7 @@ Values
   - [Elements](science.md) of the [world](reality.md) around us, including [weather conditions](science-earth-weather.md)
   - [Social status](people-image-why.md)
 - Our separations start as binary distinctions, then divide further as we gain [maturity](maturity.md).
-- We form [words](language.md) for every one of these categories as we [understand](understanding.md) them.
+- We form [words](language.md) for every one of these categories as we [understand](mind-understanding.md) them.
 - We tend to [imagine](mind-imagination.md) everyone else thinks the way we do.
 
 Violence

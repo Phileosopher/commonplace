@@ -45,7 +45,7 @@ Be prepared for the narcissist's triangulation or "flying monkeys" (a term refer
   - Many times, those people are at [other stages of narcissist's abuse cycle](hardship-abuse-narcissist-stages.md), meaning they're [victims of abuse](hardship-abuse.md) themselves.
 - While it can often be tempting to become angry at the flying monkey, *never* take your anger out on them.
   - At best, they will see you as mentally unstable and will relay that information back to the abuser.
-  - At worst, they will consider you the [abuser](hardship-abuse.md) and will proceed with more [certainty](understanding-certainty.md) on that presumption.
+  - At worst, they will consider you the [abuser](hardship-abuse.md) and will proceed with more [certainty](mind-understanding-certainty.md) on that presumption.
 - The narcissist's [capacity for influence](power-influence.md) heavily determines how many flying monkeys they have and who will believe them.
   - This can become disastrous across society when some of those people are in positions of legitimate authority (e.g., police officer, judge)
 
@@ -69,6 +69,12 @@ Most people argue to prove a point, but they're simply maintaining their narciss
     - e.g., "That's a funny thing coming from a self-professed Christian."
   - Explain: you're giving more information for them to use against you.
     - e.g., "Why should I believe you?"
+
+To avoid [DARVO](people-trends-stages.md), stay focused on the issue:
+
+- "We're not switching topics, I'm just asking about what happened."
+- "We can talk about your feelings after we address the facts."
+- "What part, specifically, are you taking responsibility for in this situation?"
 
 To buy time, deflect from any interactions that could turn into a conflict.
 

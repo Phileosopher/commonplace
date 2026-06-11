@@ -42,14 +42,14 @@ Rural
 - The people value autonomy (self-determined [decisions](mind-decisions.md)) over interdependence.
 - Most available services are very limited from how few specialists are competing for [work](results.md), and most people have a plethora of general skills to take care of tasks themselves.
 - Everyone tends to speak more quietly and slower, and has a type of "free" [disposition](people-personality.md).
-- They tend to be very [understanding](understanding.md) and [self-aware](mind-awareness.md) from having lots of time to think and observe.
+- They tend to be very [understanding](mind-understanding.md) and [self-aware](mind-awareness.md) from having lots of time to think and observe.
 
 Urban
 
 - Tightly managed [rules](people-rules.md) with many, many exceptions and clarifications.
 - Most people receive [news](stories-storytellers.md) almost as soon as it happens.
 - The people value interdependence and dependence over autonomy.
-- Generally, there are *many* people competing for services, but individuals don't often have the means or skill to do things themselves, and must often [trust](understanding-certainty.md) everyone else.
+- Generally, there are *many* people competing for services, but individuals don't often have the means or skill to do things themselves, and must often [trust](mind-understanding-certainty.md) everyone else.
 - Everyone tends to speak very loud and fast, and has a certain "caged" [disposition](people-personality.md).
 - Their strength is in setting [priorities](success-3_goals.md) well, but they're *awful* at managing the competing flows of information.
 
@@ -63,7 +63,7 @@ Suburban
 
 Our preference of population density comes from how much we value [privacy versus convenience](safety.md). Most of these preferences express as [rituals](habits.md) involving physical and emotional distance.
 
-The [cultural](people-culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](results.md) the [collective values](values.md) everyone [believes](understanding-certainty.md).
+The [cultural](people-culture.md) mix of a city is difficult to [measure](math.md), but most people can [feel](mind-feelings.md) it. Each person is contributing to that city proportional to the [power](power.md) they possess, so the city has a "heartbeat" of its [style](mind-creativity.md) based on how everyone [acts out](results.md) the [collective values](values.md) everyone [believes](mind-understanding-certainty.md).
 
 APPLICATION: The three population density groups have irreconcilable differences in [value](values.md) systems:
 

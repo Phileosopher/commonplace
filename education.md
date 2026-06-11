@@ -1,7 +1,7 @@
 
 # How education (pedagogy) works
 
-Learning is how we develop [understanding](understanding.md). We can learn by trying things ourselves, or by trusting someone [specialized](jobs-specialization.md) in the things we want to understand. Self-directed learning will use *both* a hybrid of doing things ourselves with learning from others' specialized experience.
+Learning is how we develop [understanding](mind-understanding.md). We can learn by trying things ourselves, or by trusting someone [specialized](jobs-specialization.md) in the things we want to understand. Self-directed learning will use *both* a hybrid of doing things ourselves with learning from others' specialized experience.
 
 We tend to have limited attention spans, and learn best in "bursts" of condensed information. We stop learning as soon as we [feel](mind-feelings.md) fatigue from our memory holding too much information (which is usually about 4 new things, or ~20 minutes). To store the information in long-term memory, we [meditate](mind-awareness.md) on those ideas to grasp their [significance](purpose.md), then repeat the information later to create a [pattern](symbols.md) between our memory and [reality](reality.md).
 
@@ -9,11 +9,11 @@ APPLICATION: To read 60 minutes of content in a day, we do better for 5 minutes 
 
 APPLICATION: Less information that's more well-understood is *always* better than lots of information that's poorly understood.
 
-We gain *much* more [understanding](understanding.md) through direct, interactive experiences than simply reading about a concept.
+We gain *much* more [understanding](mind-understanding.md) through direct, interactive experiences than simply reading about a concept.
 
 One of the most rapid ways we can learn is through the distilled experience of great teachers *after* we've attempted performing the tasks ourselves. We need them to offset the [uncertainty](unknown.md) we'd normally confront when trying something [new](unknown.md), but only *after* we've tried something ourselves to [feel](mind-feelings.md) what the experience is like.
 
-Everyone in a modern society must learn the basics of [reading](language.md), [writing](language-writing.md), and [math](math.md) (which should also naturally cover some [logic](logic.md)). However, gaining the full range of wisdom and [understanding](understanding.md) requires a far broader range of "soft understanding". While different societies have grouped it differently, a few general classifications always apply:
+Everyone in a modern society must learn the basics of [reading](language.md), [writing](language-writing.md), and [math](math.md) (which should also naturally cover some [logic](logic.md)). However, gaining the full range of wisdom and [understanding](mind-understanding.md) requires a far broader range of "soft understanding". While different societies have grouped it differently, a few general classifications always apply:
 
 1. Consuming real-life [stories](stories-why.md) from the learner's favorite past era (i.e., [History](stories-storytellers.md))
 2. The learner's preferred tactile form of [creation](mind-creativity.md) such as [computer programming](computers-software.md), sculpting, writing or fine art (i.e., "the Arts")
@@ -43,7 +43,7 @@ This desire-based learning is counter-intuitive in [modern societies](jobs-speci
 
 APPLICATION: Learning must be our desire, nobody else's. We must want to learn, and should always find it [fun](fun.md). Only teachers who enjoy the subject can teach well.
 
-APPLICATION: We learn when we need to or want to, but not because others told us to. The most educated people were simply curious about [understanding](understanding.md) many things.
+APPLICATION: We learn when we need to or want to, but not because others told us to. The most educated people were simply curious about [understanding](mind-understanding.md) many things.
 
 FURTHER APPLICATION: Good teachers start with a passion for the subject, which they then [influence](power-influence.md) into their students. You're only around a good teacher if you learn something new with them every time you have a conversation with them and find new joy in the subjects they're covering.
 
@@ -51,17 +51,17 @@ If the knowledge is worthwhile, it's difficult for it to go away. Any [meaningfu
 
 ## Measuring an education
 
-Education is [understanding](understanding.md), which means it's difficult to measure. However, most [cultures](people-culture.md) must demarcate between educated and uneducated people for [specialized tasks](jobs-specialization.md), so they use [measurable](math.md) criteria to judge others' worth:
+Education is [understanding](mind-understanding.md), which means it's difficult to measure. However, most [cultures](people-culture.md) must demarcate between educated and uneducated people for [specialized tasks](jobs-specialization.md), so they use [measurable](math.md) criteria to judge others' worth:
 
 - A test bank of multiple-choice questions. This is the easiest way to test because it can be automated by [technology](technology.md), but [it can be easily gamed](mind-memory.md). However, providing feedback on wrong answers (and, more importantly, why) can *dramatically* improve learning.
-- [Writing](language-writing.md) or [spoken](language-speaking.md) explanations about the subject. Usually, this is as far as most mass-population educators ever care about. Like multiple-choice, it can be gamed, especially by matching the [language](language.md) and [opinions](understanding-certainty.md) of the educator.
+- [Writing](language-writing.md) or [spoken](language-speaking.md) explanations about the subject. Usually, this is as far as most mass-population educators ever care about. Like multiple-choice, it can be gamed, especially by matching the [language](language.md) and [opinions](mind-understanding-certainty.md) of the educator.
 - Performance-based review by requiring the student to [create something](creations.md) with what they learned. This is by *far* the most effective indicator of competence, but requires the educator (and any administrators) to legitimately [care](purpose.md) about the quality of the students' work, and it's difficult to delegate to [technology](technology.md) at scale.
 
 APPLICATION: IQ tests, SAT, and school grades are measurements by intelligent people who want to call each other intelligent. They're no more [useful](purpose.md) than joining MENSA.
 
-Ideally, a teacher will test their students on the way *into* the class to see how well they already understand and cut down on unnecessary teaching, then use a similar-enough test on the way *out* of the class to see how well they [gained understanding](understanding.md). This allows the teacher to [improve their craft](jobs-specialization.md) in the process.
+Ideally, a teacher will test their students on the way *into* the class to see how well they already understand and cut down on unnecessary teaching, then use a similar-enough test on the way *out* of the class to see how well they [gained understanding](mind-understanding.md). This allows the teacher to [improve their craft](jobs-specialization.md) in the process.
 
-The most distinctive measure of education is that a person can rely on their [understanding](understanding.md) for a given subject, and (if applicable) [use it](purpose.md) effectively in its time and place. Ironically, this success comes from being *outside* a cloistered schooling environment.
+The most distinctive measure of education is that a person can rely on their [understanding](mind-understanding.md) for a given subject, and (if applicable) [use it](purpose.md) effectively in its time and place. Ironically, this success comes from being *outside* a cloistered schooling environment.
 
 APPLICATION: To detect the quality of a teacher, ask students a week or month after the test what they learned.
 
@@ -71,17 +71,17 @@ In the absence of a standard test, the entire system becomes a [political free-f
 
 ## Conveying experience
 
-Anyone who shares information that goes beyond [anecdotal belief](understanding-certainty.md) into a [represented value](values.md) is a teacher, even if only informally or for a few minutes. At that moment, the information they have is *far* more [important](meaning.md) than they are.
+Anyone who shares information that goes beyond [anecdotal belief](mind-understanding-certainty.md) into a [represented value](values.md) is a teacher, even if only informally or for a few minutes. At that moment, the information they have is *far* more [important](meaning.md) than they are.
 
 APPLICATION: If you wish to learn, find a mentor in that subject. The internet is a great place to connect for that reason.
 
-One blind spot with any teacher, by the nature of who they are, is that they have an inherent [belief](mind-trust.md) that their subject is worth [understanding](understanding.md) (since they wouldn't wish to teach it otherwise). Therefore, they have *two* jobs: convey the information, and convey *why* that information has value.
+One blind spot with any teacher, by the nature of who they are, is that they have an inherent [belief](mind-trust.md) that their subject is worth [understanding](mind-understanding.md) (since they wouldn't wish to teach it otherwise). Therefore, they have *two* jobs: convey the information, and convey *why* that information has value.
 
 APPLICATION: Those who are most afraid of things will teach about them. While ineptitude may instigate that fear, over-thinking is just as sufficient.
 
-Beyond decent-enough [speaking](language-speaking.md) and [writing](language-writing.md) skills, a good teacher has a profoundly accurate [impression](people-image-why.md) of the student's [understanding](understanding.md) that approximates what the student is thinking. This means they can communicate the information exactly to that person, while also being able to anticipate and answer the rational questions the student was going to ask next. To keep it interesting, they'll appeal to [novelty](unknown.md) over [repetition](habits.md).
+Beyond decent-enough [speaking](language-speaking.md) and [writing](language-writing.md) skills, a good teacher has a profoundly accurate [impression](people-image-why.md) of the student's [understanding](mind-understanding.md) that approximates what the student is thinking. This means they can communicate the information exactly to that person, while also being able to anticipate and answer the rational questions the student was going to ask next. To keep it interesting, they'll appeal to [novelty](unknown.md) over [repetition](habits.md).
 
-The limits of our abilities to [understand](understanding.md) and teach have an inverted relationship. If we become *extremely* specialized into a domain, we often can't articulate it to others. On the other hand, if we're preoccupied with teaching well, we'll often disregard our continued studies further into the subject.
+The limits of our abilities to [understand](mind-understanding.md) and teach have an inverted relationship. If we become *extremely* specialized into a domain, we often can't articulate it to others. On the other hand, if we're preoccupied with teaching well, we'll often disregard our continued studies further into the subject.
 
 In practice, beyond [great communication skills](people-conversation.md), every moderately successful teacher will always employ a few proven principles:
 
@@ -137,7 +137,7 @@ Great teaching is [not scalable](groups-large.md), and the most effective teachi
 
 ## Bad teaching
 
-The role of teaching, like every other form of [power](power.md), draws many people who selfishly desire [social status](groups-small.md) or [specialized ability](jobs-specialization.md) to leverage elsewhere. A teacher's knowledge makes them inherently more [powerful](power.md) in their [understanding](understanding.md) than the students (or, at least, they [appear](people-image-distortion.md) to be).
+The role of teaching, like every other form of [power](power.md), draws many people who selfishly desire [social status](groups-small.md) or [specialized ability](jobs-specialization.md) to leverage elsewhere. A teacher's knowledge makes them inherently more [powerful](power.md) in their [understanding](mind-understanding.md) than the students (or, at least, they [appear](people-image-distortion.md) to be).
 
 Most [educational institutions](groups-large.md), though, have no other measurement of a teacher's [influence](influence.md), so they revert to how *long* someone was an educator (i.e., tenure). For this reason, most of the promotion and advancement of a teacher's status comes through [political influence](influence.md) and merely existing in a role, rather than any comparatively universal standard of quality.
 
@@ -191,9 +191,9 @@ APPLICATION: Fixing a bad teaching system is difficult, but possible:
 
 - Give the teacher increasingly important roles that continue to [challenge](meaning.md) the teacher. Or, fire all the young teachers and only hire [old veterans](maturity.md) with applicable [industry-relevant experience](jobs-specialization.md). There must also be some sort of [risk](entrepreneur-why.md) for the teacher expressing bad information, or they'll develop and [propagate](people-conversation.md) bad [habits](habits.md).
 - Consistently put teachers with other teachers of dramatically opposing views and [political values](politics-systems.md) (preferably co-teaching).
-- Give the teachers the freedom (and expectation) to teach their self-generated ideas. If they only teach what other people have said or done, they don't [understand](understanding.md) the material.
+- Give the teachers the freedom (and expectation) to teach their self-generated ideas. If they only teach what other people have said or done, they don't [understand](mind-understanding.md) the material.
 - Expose the teacher's classroom instruction to public scrutiny. If the public agrees or finds [meaning](meaning.md) in it, it's a good class. Otherwise, shut it down.
-- Require the students to ask incessant questions about what they don't [know](understanding.md). If the teacher has been speaking for 5 minutes or longer without a question, the class should be shut down. If the classroom is large enough to [scare](mind-feelings-fear.md) students from speaking up, split the class up.
+- Require the students to ask incessant questions about what they don't [know](mind-understanding.md). If the teacher has been speaking for 5 minutes or longer without a question, the class should be shut down. If the classroom is large enough to [scare](mind-feelings-fear.md) students from speaking up, split the class up.
 - Introduce at least 1 new teacher every year from a non-teaching capacity, preferably [aging](maturity.md) [industry](jobs-specialization.md) professionals who want a more laid-back role than they were performing.
 - If the students start failing, the teachers aren't covering the information well enough, and the school must either trim the curriculum or get new teachers.
 - Ignore what other schools are doing. Ignore money-making activities that aren't central to the core curriculum and focus of the school (e.g., [sports teams](fun-sports.md)).
@@ -212,11 +212,11 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 The only true sign of a good educator is that the students will *outperform* the teachers. Those teachers were doing their job conquering the [unknown](unknown.md), so their students can take those ideas and run with them further. This holds true especially for intimate teaching roles such as [parenting](parenting-children.md).
 
-APPLICATION: The dominant difference between an educator and an [innovator](entrepreneur-why.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](people-trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](understanding.md).
+APPLICATION: The dominant difference between an educator and an [innovator](entrepreneur-why.md) comes through the dominant force they seek. Innovators seek answers and movement, while educators are farther back on any [trend](people-trends.md) by seeking the [compromise](people-conflicts-inner.md) between [creativity](mind-creativity.md) and [understanding](mind-understanding.md).
 
 Bad educators wish to be important as much as good educators, but most bad educators will find their students out-succeeding them to be [unacceptable](morality-taboo.md), similarly to [awful parents](people-family.md).
 
-Intelligent students *can* learn from dumb teachers, but they will further widen the gap of [understanding](understanding.md) between intelligence within an educational institution.
+Intelligent students *can* learn from dumb teachers, but they will further widen the gap of [understanding](mind-understanding.md) between intelligence within an educational institution.
 
 APPLICATION: A smart student can still learn from a dumb teacher, though they'll often need to do separate research about what they're curious about.
 

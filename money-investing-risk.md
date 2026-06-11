@@ -42,7 +42,7 @@ Try to avoid adding more unnecessary risk to your portfolio.
   - Carefully consider the kind of borrowers you make a relationship with.
 - Avoid taking out debts for risky purchases.
   - Your investment isn't guaranteed, but your debt is.
-- The only difference between gambling and investing is [knowledge](understanding.md), so stay as well-informed as possible on whatever you're investing into.
+- The only difference between gambling and investing is [knowledge](mind-understanding.md), so stay as well-informed as possible on whatever you're investing into.
 
 Generally, conservative thinking means your investments will stay steady with or slightly above inflation.
 
@@ -52,7 +52,7 @@ Our [bias](mind-bias.md) means we tend to believe our "retirement money" is on t
 - We tend to think our present money is more important to the future than that future money when we've made returns.
 - Most of our mindset about money comes from comparisons to other money (e.g., a $100 increase to $110 isn't as emotional to us as a $10 increase to $20).
   - Our emotional reactions are to the scope of gain or loss itself, and *not* to the domain of our actual financial position.
-- We tend to make dumber mistakes proportionally to how much we strictly trust our [intuition](understanding.md).
+- We tend to make dumber mistakes proportionally to how much we strictly trust our [intuition](mind-understanding.md).
   - As a general rule, most people tend to keep losing investments and get rid of winning ones.
   - The decline in price is only indicated on paper, and only feels "real" the moment you sell.
   - For that reason, since you're feeling what almost everyone else is feeling, the smartest investing move is often to go *against* what you're feeling.
@@ -187,7 +187,7 @@ If you operate strictly on a cash basis, you'll never go entirely broke.
 
 ## Expect disappointment
 
-Generally, our [bias](mind-bias.md) makes us believe we'd never commit others' past mistakes, and that *our* future is far more [certain](understanding-certainty.md) than it really is.
+Generally, our [bias](mind-bias.md) makes us believe we'd never commit others' past mistakes, and that *our* future is far more [certain](mind-understanding-certainty.md) than it really is.
 
 - You will win some, you will lose some, but the losses will hurt more than the gains.
 - Most investors act quickly, so the very act of moving slowly on trades will oddly time your market movements compared to everyone else.
@@ -216,7 +216,7 @@ Don't rush your plans or set your expectations too highly.
 
 - Good investing spans decades.
 - Don't let [fear](mind-feelings-fear.md) kill your chances to make a decent return.
-- Your [philosophies](philosophy.md), [values](purpose.md), and [understanding](understanding.md) are more critical to successful investing than luck.
+- Your [philosophies](philosophy.md), [values](purpose.md), and [understanding](mind-understanding.md) are more critical to successful investing than luck.
 
 ## Things to watch for
 
@@ -277,7 +277,7 @@ At any given moment, a market trend exists as one of 4 movements, and you should
 Look ahead at the future of the market.
 
 - Government decisions can dramatically slow or speed up market crashes, but they *always* happen.
-- It's possible to develop an intuition for what the public will likely do with enough observation and [understanding](understanding.md), and you should move in the opposite direction.
+- It's possible to develop an intuition for what the public will likely do with enough observation and [understanding](mind-understanding.md), and you should move in the opposite direction.
 
 Ask questions about the second-degree effects of market movements:
 
@@ -330,7 +330,7 @@ If you want to beat conventional thought, bet on unlikely odds.
 
 The public [narrative](stories-why.md) defines where markets travel.
 
-- It's our [natural bias](mind-bias.md) to [create order](understanding-certainty.md) even when something is *completely* [random](unknown.md).
+- It's our [natural bias](mind-bias.md) to [create order](mind-understanding-certainty.md) even when something is *completely* [random](unknown.md).
   - The market is a random progression with a slightly upward slope over long periods, and that's all that anyone can say with certainty.
   - High past returns might indicate low future returns, and low past returns might indicate high future returns.
   - A pessimistic set of investors dampening a stock price can often influence a company to perform better.

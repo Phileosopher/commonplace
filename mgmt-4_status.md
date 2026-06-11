@@ -11,7 +11,7 @@ When planning, take advantage of the team's natural strengths.
 
 There are many progress-tracking systems that can help evaluate where a team is and where it's likely going.
 
-- Each one is capturing [certainty](understanding-certainty.md) from a specific [perspective](people-image-why.md).
+- Each one is capturing [certainty](mind-understanding-certainty.md) from a specific [perspective](people-image-why.md).
 
 There are [many ways to track whether the team is effective at what they do](mgmt-4_status-theories.md), but they tend to only be rough estimates that don't consider complexities within the project.
 
@@ -58,7 +58,7 @@ However, different parties may still need to know the current or near-future sta
 
 Most managers over-track their workers for a few simple reasons:
 
-- They feel [out of control](unknown.md) and don't [trust](understanding-certainty.md) their workers.
+- They feel [out of control](unknown.md) and don't [trust](mind-understanding-certainty.md) their workers.
 - They believe managers *ought* to track their workers, or they're simply imitating what they've experienced themselves when they were a worker.
 - They're trying to [predict the future](mind-imagination.md) based on the workers' results.
 
@@ -219,7 +219,7 @@ After the project is finished, assign people to the project's continuity plan.
 - Do *not* move everyone to a new project as soon as they're finished with their [specialization](jobs-specialization.md).
   - There may be wrap-up work, or they may want to stay to finalize a few more details.
 - Instead, keep around anyone who would *prefer* to maintain the project:
-  - People who want to maintain projects clearly [believe](understanding-certainty.md) in it, so they'll do a better job than someone else who is highly skilled person but doesn't care.
+  - People who want to maintain projects clearly [believe](mind-understanding-certainty.md) in it, so they'll do a better job than someone else who is highly skilled person but doesn't care.
   - [Maintenance](https://adequate.life/fix/) is typically easier than [creating](creations.md), so you won't need the best workers for it, and the creators are the most familiar with the project.
 
 Anticipate anyone assigned to maintaining that project to be a bit less productive on future projects (~5-25% less).

@@ -44,7 +44,7 @@ God's consideration:
 
 Mankind's consideration:
 
-- Don't consume the tree that brings [knowledge](understanding.md) of [morality](morality.md)
+- Don't consume the tree that brings [knowledge](mind-understanding.md) of [morality](morality.md)
 
 The contract was breached through man's [decision](mind-decisions.md), and certain conditions were added ([Genesis 3:16-19](https://biblehub.com/genesis/3.htm)).
 

@@ -3,7 +3,7 @@
 
 ## Magnifying individual faults
 
-In any group, everyone's [understanding](understanding.md) and ability increases over time, but *also* their foolishness and incompetence.
+In any group, everyone's [understanding](mind-understanding.md) and ability increases over time, but *also* their foolishness and incompetence.
 
 Bad systems arise from relatively unimportant details at first:
 
@@ -12,13 +12,13 @@ Bad systems arise from relatively unimportant details at first:
 - Some of the organization's [rules](people-rules.md) are irrelevant and nobody updated it.
 - The organization must respond to other outside groups for many of their [decisions](mind-decisions.md).
 
-As the organization scales and everyone [specializes](jobs-specialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](people-culture.md) doesn't address practical things, they feel [confident](understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
+As the organization scales and everyone [specializes](jobs-specialization.md), the members have informal [conversations](people-conversation.md) with one another about the [group's](groups-member.md) issues. Once multiple people agree on how the group's [culture](people-culture.md) doesn't address practical things, they feel [confident](mind-understanding-certainty.md) that the thing is [reality](reality.md) and not merely [an improbable event](math.md).
 
 APPLICATION: People slowly permit [tyranny](power-types.md) into their lives when they accept what the leadership does. Since [power-hungry](power-types.md) people don't tend to demarcate a stopping point, that slow [consent](people-contracts.md) will eventually go too far, but often at the cost of many lives and many destroyed aspects of [civilization](jobs-specialization.md).
 
 Once people know they're not [delusional](reality.md), they're more willing to break the group's [rules](people-rules.md). Eventually, the entire organization suffers collective decay as [motivations](purpose.md) toward self-interest override the motivation for any [collective good](morality.md).
 
-APPLICATION: Bad leaders are concerned about money, mostly because they're not thinking about members' [purposes](purpose.md) or [considering](understanding.md) the well-being of the organization.
+APPLICATION: Bad leaders are concerned about money, mostly because they're not thinking about members' [purposes](purpose.md) or [considering](mind-understanding.md) the well-being of the organization.
 
 The [moral](morality.md) decay among individuals comes through several key motivators:
 
@@ -40,7 +40,7 @@ One person with [malicious or selfish](morality-evil.md) intent in a key positio
 
 Often, bad leaders can quickly emerge in a good system:
 
-- Inheriting the system from someone else, but without any skills or [ability](understanding.md) to lead.
+- Inheriting the system from someone else, but without any skills or [ability](mind-understanding.md) to lead.
 - Maintaining well-enough for a long time, but a [traumatic experience](hardship-ptsd.md) in their [personal life](people-family.md) destroys their ability to lead.
 - Appointed through legitimate competence in a different field, but unable to [perform](results.md) as a leader. The [culture](people-culture.md) will then forbid them from demotion again ([Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)).
 - Using raw [power](power.md), such as military strength, to seize control, then not delegating to capable people once they've acquired it.
@@ -59,20 +59,20 @@ Any system can fall apart into a bad system, since the most reliable way to gain
 
 Many specific, bad leadership [decisions](mind-decisions.md) can [create](creations.md) a bad system:
 
-- [Redundant policies](bureaucracy.md) that add extra work but don't add value to the organization's [knowledge](understanding.md) or [power](power.md). This can come from double-entering information or cross-referencing two systems that draw from the same source.
-- [Security](safety.md) [policies](people-rules.md) that don't adapt to [trends](people-trends.md) and [technology](technology.md). They won't protect much from anyone with enough [desire](purpose.md) and a little [creativity](mind-creativity.md), but will stifle members from [creating](creations.md) legitimately [useful](purpose.md) things for the organization. The clearest indicator is when members only have partial [information](understanding.md) to do the task, but no idea of the [consequences](results.md) of their task.
+- [Redundant policies](bureaucracy.md) that add extra work but don't add value to the organization's [knowledge](mind-understanding.md) or [power](power.md). This can come from double-entering information or cross-referencing two systems that draw from the same source.
+- [Security](safety.md) [policies](people-rules.md) that don't adapt to [trends](people-trends.md) and [technology](technology.md). They won't protect much from anyone with enough [desire](purpose.md) and a little [creativity](mind-creativity.md), but will stifle members from [creating](creations.md) legitimately [useful](purpose.md) things for the organization. The clearest indicator is when members only have partial [information](mind-understanding.md) to do the task, but no idea of the [consequences](results.md) of their task.
 - It's much easier to make new [rules](people-rules.md) than amend old ones, especially long-standing rules. Most [members](groups-member.md) [trust](mind-trust.md) there's a good [reason](purpose.md) for the rules and build [habits](habits.md) around them. Leaders often [fear](mind-feelings-fear.md) short-term [changes](people-changes.md) that may affect members' [productivity](results.md) or erode their [trust](mind-trust.md) in the [group](groups-member.md), even if it's an incredibly beneficial long-term decision.
 - Low-rank members rarely [care](people-love.md) about their organization as much as the leaders. However, they often [appear](people-image-why.md) to be loyal to please their leaders. A leader unaware of this will make catastrophically stupid decisions based on all the members' attitude being the same as the leaders'.
-- If leaders inherit a system, they may not [know](understanding.md) what the previous leader had been doing or why. They'll often keep existing [rules](people-rules.md) to maintain [routines](habits.md), but add more. This makes tasks excessively complicated and more time-consuming, which the individuals will eventually learn to streamline by ignoring at least some rules.
-- Tests may [appear](people-image-why.md) to verify aptitude or [understanding](understanding.md), so leaders will sharply define roles with them, but they can be manipulated through [influencing](influence.md) the test proctors, [memorizing](mind-memory.md) the answers in advance, or studying only portions of the curriculum that will be on the test.
-- Leaders will often disregard relevant [trends](people-trends.md) and [technologies](technology.md) that would change the system's role or [importance](purpose.md) to members and outside groups. This often comes from complacency or forgetting how [power](power.md) can shift at the speed of [changed](people-changes.md) [beliefs](understanding-certainty.md).
+- If leaders inherit a system, they may not [know](mind-understanding.md) what the previous leader had been doing or why. They'll often keep existing [rules](people-rules.md) to maintain [routines](habits.md), but add more. This makes tasks excessively complicated and more time-consuming, which the individuals will eventually learn to streamline by ignoring at least some rules.
+- Tests may [appear](people-image-why.md) to verify aptitude or [understanding](mind-understanding.md), so leaders will sharply define roles with them, but they can be manipulated through [influencing](influence.md) the test proctors, [memorizing](mind-memory.md) the answers in advance, or studying only portions of the curriculum that will be on the test.
+- Leaders will often disregard relevant [trends](people-trends.md) and [technologies](technology.md) that would change the system's role or [importance](purpose.md) to members and outside groups. This often comes from complacency or forgetting how [power](power.md) can shift at the speed of [changed](people-changes.md) [beliefs](mind-understanding-certainty.md).
 - Some leaders focus solely on [image](people-image-why.md) over [substance](reality.md) by [creatively](mind-creativity.md) manipulating [numbers](math.md) and [distorting image](people-image-distortion.md). This can often mislead other [powerful](power.md) people/groups and give undeserved credibility or shame.
 - Many leaders will take the group's [power](power.md) for granted, then make decisions that fulfill their personal [desires](purpose.md) instead of the best interests of the group.
 - If the [predictions](mind-imagination.md) of the leaders become inaccurate enough, they'll blow vast amounts of [power](power.md) on useless projects with an unclear or ineffective [purpose](purpose.md).
 
 Often, since the leadership won't particularly care about the unspoken masses of people outside their group, their mismanagement will be magnified by the other people they listen to. Instead of paying attention to the most thought-provoking criticism, they'll usually pay more attention to the majority (who are often [biased](mind-bias.md) toward [political fashions](politics-conservativeliberal.md) or simply acting on their first-impulse [emotions](mind-feelings.md)) or their superiors (who are often biased toward [more power](power-types.md)).
 
-Usually, the worst systems are made of *multiple* bad leadership decisions that feed into each other, and often across multiple leaders who didn't know what the previous leader had been doing or how to run an organization [wisely](understanding.md).
+Usually, the worst systems are made of *multiple* bad leadership decisions that feed into each other, and often across multiple leaders who didn't know what the previous leader had been doing or how to run an organization [wisely](mind-understanding.md).
 
 Frequently, bad systems are [legally](people-rules.md) forbidden or have too much to lose to say "no", so they find methods to make people give up without them having to say it:
 
@@ -87,11 +87,11 @@ Of course, [evil](morality-evil.md) intent can lead to horrible management as we
 - [Distorting](people-image-distortion.md) who [appears](people-image-why.md) to be responsible, then delivering the [consequences](results.md) of [rules](people-rules.md) on specific people who may have not deserved it.
 - Using [doublespeak](language.md) to hide [intent](purpose.md) while making [promises](people-contracts.md), or outright breaking promises when it serves [self-interest](purpose.md) later.
 - Fiercely [attacking](people-conflicts-war-why.md) an outside group, often with the [implication](people-image-why.md) of delivering [justice](morality-justice.md).
-- Taking advantage of the lead times between [lying](people-lying.md) and others [finding out](understanding.md).
+- Taking advantage of the lead times between [lying](people-lying.md) and others [finding out](mind-understanding.md).
 
 If everyone in a group is sufficiently educated, the leadership can't maintain its power. However, [education](education.md) requires work, so the leadership will [skew the truth](people-image-distortion.md):
 
-- Nobody likes to be blamed, and people will often [tweak their image](people-image-distortion.md) to sidestep accountability. However, bad leadership *constantly* tries to redirect blame. Usually, they'll be [unfairly punitive or gracious](morality-justice.md) to the subject of their blame. They're simply taking advantage of the opportunity, and tend not to sincerely [believe](understanding-certainty.md) anything they say.
+- Nobody likes to be blamed, and people will often [tweak their image](people-image-distortion.md) to sidestep accountability. However, bad leadership *constantly* tries to redirect blame. Usually, they'll be [unfairly punitive or gracious](morality-justice.md) to the subject of their blame. They're simply taking advantage of the opportunity, and tend not to sincerely [believe](mind-understanding-certainty.md) anything they say.
 - Frequently, the leadership of a bad system can find other unaffiliated groups to act as a third party (e.g., consultant, outside group). If anything wrong happens, they can always shift blame to that third party and sever ties with them to [maintain their image](people-image-distortion.md). Then, they can simply travel to one of that third party's competitors (who don't [communicate](people-conversation.md) the [risks](safety.md) of working with them). If the victim group's [specialization](jobs-specialization.md) is in enough of a [cycle](people-trends.md), there will be a never-ending supply of blame-shifting until all new entrants to that market are exhausted.
 - Often, when the system is older than the leader, they'll find ways to blend in by saying and doing what other leaders in other bad systems are doing. By conforming to existing [standards](mind-imagination.md), the premise is that they can't be blamed because they were simply honoring the standard.
 - Create a relatively small spectrum of what is deemed as acceptable opinion, then foster [fierce debates](people-conflicts-why.md) within that smaller domain to redirect from the larger spectrum of ideas.
@@ -136,9 +136,9 @@ Just because a system has become awful doesn't mean it's useless. The group can 
 - People will still often join a group without any [passion](purpose.md) for that group's [vision](purpose.md). They'll only transition through the group as long as the leadership [expects](mind-imagination.md) they'll satisfy their [purposes](purpose.md) (such as gaining [money](power-types.md) or [influence](influence.md) beyond that group), and the high-quality people will tend to operate closer to the fringe of the group.
 - If the [leader](groups-large.md) is particularly savvy, they'll hire the smartest people they can find for a task. This will ensure that the person is working *for* them instead of the risk of working against them.
 - Many people see [large groups](groups-large.md), of any type, as [safer](safety.md) than [small groups](groups-small.md), and they'll join from that [appearance](people-image-why.md) if they're averse to [social risk](entrepreneur-why.md).
-- Since their experiences can't guide them, [young people](maturity.md) and [fools](understanding.md) are susceptible to following the [impressions](people-image-why.md) they felt from the group, even if those ideals are impossible to [attain](results.md).
+- Since their experiences can't guide them, [young people](maturity.md) and [fools](mind-understanding.md) are susceptible to following the [impressions](people-image-why.md) they felt from the group, even if those ideals are impossible to [attain](results.md).
 - [Evil](morality-evil.md) people may see the group as an excellent opportunity to control and gain [power](power.md). If the group persists with these people in it, they eventually become leadership and make the system even worse.
 
-For whatever reason, the members don't have [confidence](understanding-certainty.md) in the [group](groups-member.md). They're using it for an ulterior [purpose](purpose.md).
+For whatever reason, the members don't have [confidence](mind-understanding-certainty.md) in the [group](groups-member.md). They're using it for an ulterior [purpose](purpose.md).
 
 APPLICATION: As a weaker member of a group, the best bad systems to join are too busy fighting an external conflict to pay attention to you. If they *ever* defeat the external force, they'll come for you. If *every* system in an [industry](jobs-specialization.md) is bad, the best [decision](mind-decisions.md) is to passively keep them fighting between each other and stay out of sight.

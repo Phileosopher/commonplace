@@ -10,7 +10,7 @@ Unless the conflict is relatively short, there's a general calculus that approxi
 5. Multiply or divide by prevailing [philosophical values](values.md) that can affect everyone:
    - Belief in the importance of the conflict (as opposed to doing it out of [potential](mind-imagination.md) personal gain).
    - Brutality toward enemies (as opposed to the polar opposite of taking prisoners and treating them well).
-   - The relative [education](understanding.md) of the groups (which will hinder the like-mindedness of [purpose](purpose.md) but increase [results](results.md) as it scales).
+   - The relative [education](mind-understanding.md) of the groups (which will hinder the like-mindedness of [purpose](purpose.md) but increase [results](results.md) as it scales).
    - Any sense of ownership by the groups over what they're trying to take or defend.
 
 When two or more groups attack each other, their relative size makes a profound difference in the fight's events. But, there are a few universal aspects irrespective of size or context:
@@ -20,7 +20,7 @@ When two or more groups attack each other, their relative size makes a profound 
 - If a group starts losing, the [loyalty](mind-trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their lives for any purpose they want (and are more easily dissuaded from their [duties](people-rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
 - The members' loyalty determines how much the entire endeavor can advance forward purely to satisfy the [ego](humanity.md) of the attacking leadership. This can only persist, however, as long as those members can advance their own self-interest as well.
 - The methods that any groups will even *think* of tie very closely to the group's long-term interests:
-  - Nuclear warfare obliterates *everything* (land, possessions, [human labor](results.md), [human skills](understanding.md)), so it's only a last-ditch effort as a means to survive.
+  - Nuclear warfare obliterates *everything* (land, possessions, [human labor](results.md), [human skills](mind-understanding.md)), so it's only a last-ditch effort as a means to survive.
   - Constraining power when the other group has a *different* type of power creates a "cold war" or "trade war", which ends up dramatically hurting both sides.
 
 The organization's ability to [educate](education.md) means of attacking and defending (e.g., military training) is frequently the determining factor in a tightly contested battle. However, the ability of an organization to [change](people-changes.md) their tactics relative to what the *other* side is doing can quickly determine whether a group can succeed.
@@ -77,18 +77,18 @@ However, the smaller group will often surrender. If they do, they're either abso
 
 ## Evenly matched
 
-Groups *hate* to be evenly matched both from how much destruction it can cause and how [uncertain](understanding-certainty.md) the results will be. Thus, they work very hard to overwhelm their opposition as much as possible, and typically do it at the same time.
+Groups *hate* to be evenly matched both from how much destruction it can cause and how [uncertain](mind-understanding-certainty.md) the results will be. Thus, they work very hard to overwhelm their opposition as much as possible, and typically do it at the same time.
 
 A close battle between two [large groups](groups-large.md) quickly becomes extremely dramatic and intense. Since both sides have similar [resources](power.md), both of them will do *anything* to get an edge on the other:
 
 - Military and communications [technology](technology.md) developments.
 - Recruiting *any* other groups. This can include pretty much anyone who sympathizes with the battling group, and can be public or private.
-- [Manipulating their image](people-image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](mind-decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](understanding-certainty.md).
+- [Manipulating their image](people-image-distortion.md) to imply their opponents are less capable. This is especially useful when the groups are contending for the [decision](mind-decisions.md) of a third group, but works when there's anyone undecided over where they want to [place their allegiance](mind-understanding-certainty.md).
 - Most war strategies involve cutting off resources from their opponent. This can include core needs (e.g., food, water), military supplies (e.g., guns, ammunition), or communications technology. At the farthest, a group can destroy its *own* supplies to prevent the enemy from acquiring it (scorched earth policy).
   - Each unit, squadron, battalion, and legion must be as self-reliant as possible to ensure they're safe from any disruptions.
 - Diplomatically ending any further conflict is the greatest net win for everyone, but it's not always in the interests of a group that's significantly more powerful.
 
-APPLICATION: Large-scale conflicts still involve individuals with uniquely separate [purposes](purpose.md), and people shift their loyalties as they gain [understanding](understanding.md). It's not uncommon for low-ranking soldiers who saw the horrors of combat to hate a sustained conflict more than their comparatively well-protected commanders. Only [highly influential](influence.md) people can draw everyone together.
+APPLICATION: Large-scale conflicts still involve individuals with uniquely separate [purposes](purpose.md), and people shift their loyalties as they gain [understanding](mind-understanding.md). It's not uncommon for low-ranking soldiers who saw the horrors of combat to hate a sustained conflict more than their comparatively well-protected commanders. Only [highly influential](influence.md) people can draw everyone together.
 
 For the sake of [drama](stories-storytellers.md), [history](stories-storytellers.md) tends to portray battles as evenly matched when they were decisive and overwhelming victories.
 

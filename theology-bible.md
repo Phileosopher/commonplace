@@ -189,7 +189,7 @@ The people who wrote the Bible were living people in ancient societies, with the
 
 The paper the Bible is written on doesn't have any inherent divinity, nor its ancient language.
 
-- The Word of God is the [ideas](values.md) themselves as they're interpreted in a person's [mind](understanding.md), delivered *through* the written or spoken text.
+- The Word of God is the [ideas](values.md) themselves as they're interpreted in a person's [mind](mind-understanding.md), delivered *through* the written or spoken text.
 
 ## Take the Bible for what it is
 
@@ -217,7 +217,7 @@ The Bible is vague on *many* things, and that was God's intent.
 - By God intentionally omitting certain information, each [culture](people-culture.md) can fill in the gaps on how to implement many of His commands (even if they have [conflicts with each other](people-conflicts-christian-why.md) about *how* something implements).
   - God works through [the Church at large](church.md) just as much as through the messages contained in the Bible.
 - The Bible will answer every "what" question you could have about [ethical matters](morality.md), and answers *many* practical "how" questions, but rarely gives a direct "why" answer to an abstract concept.
-- We'll often discover the answers to our "why" questions if we're [open-minded](understanding.md) and meditate deeply on [how God framed the Bible](bible-study.md).
+- We'll often discover the answers to our "why" questions if we're [open-minded](mind-understanding.md) and meditate deeply on [how God framed the Bible](bible-study.md).
 
 God's primary [purpose](purpose.md) for the Bible is to reprogram our [personalities](theology-godandman.md) to something better.
 

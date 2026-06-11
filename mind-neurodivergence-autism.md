@@ -19,7 +19,7 @@ Poor body language and expression (though capable of processing the information 
 
 A general hyperfixation on specific subjects, lack of interest in other related subjects.
 
-- General focus on [understanding](understanding.md) to the point of complete [certainty](understanding-certainty.md)
+- General focus on [understanding](mind-understanding.md) to the point of complete [certainty](mind-understanding-certainty.md)
 - Often over-certain regarding [unknown things](unknown.md)
 - Repetitive playing and hobbies
 - Uneven physical and verbal skills ("spiky skills")

@@ -9,7 +9,7 @@ In summary, everyone must [love](people-love.md) each other for a perfect societ
 
 ## Law and order
 
-[Misunderstandings](understanding.md) frequently create [conflicts](people-conflicts-why.md). But, if everyone loved each other, they'd presume the best of the other person and the conflicts would never be prolonged, suppressed, or devolve into [violence](people-boundaries-why.md). Everyone would sort out their issues as quickly as possible.
+[Misunderstandings](mind-understanding.md) frequently create [conflicts](people-conflicts-why.md). But, if everyone loved each other, they'd presume the best of the other person and the conflicts would never be prolonged, suppressed, or devolve into [violence](people-boundaries-why.md). Everyone would sort out their issues as quickly as possible.
 
 [Laws](people-rules.md) would only serve to enforce common sense and self-respect, and would rarely be broken intentionally. Thus, the laws would exist as a fail-safe for everything else.
 
@@ -38,20 +38,20 @@ Each [group](groups-small.md) would exist with its own distinct variety of cultu
 The [cultures](people-culture.md) of *all* people groups in a perfect society would be within a specific range:
 
 - Conflict Style - Everyone would be graciously confrontational, since they'd have no [fear](mind-feelings-fear.md) that other people would become offended or [distort the truth](people-image-distortion.md).
-- Context Level - It would vary broadly by everyone's preference. However, everyone would patiently lower their context as they saw others not quite [understanding](understanding.md) the higher context.
+- Context Level - It would vary broadly by everyone's preference. However, everyone would patiently lower their context as they saw others not quite [understanding](mind-understanding.md) the higher context.
 - Individualism/Collectivism - While everyone would be held personally responsible for their [decisions](mind-decisions.md), they'd focus on the best interests of *all* humanity. [Privacy](safety.md) wouldn't matter much, but would always be respected.
 - Masculinity/Femininity - Everyone would be as results-oriented or harmony-oriented as they wanted. However, everyone would *also* patiently endure others' different approach to tasks. Men would be compassionate toward women, women would respect men.
 - Power Distance - Every single group would have zero power distance. While everyone would respect each other's unique abilities and strengths, nobody would be considered "lesser" simply by having less power or authority.
 - Time Flexibility - There'd be a broad range based on the urgency of the tasks to be performed, but people would generally be patient for everything.
-- Time Orientation - Everyone would have the [wisdom](understanding.md) to look far into the future about their [decisions](mind-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](mind-imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
+- Time Orientation - Everyone would have the [wisdom](mind-understanding.md) to look far into the future about their [decisions](mind-decisions.md), but be considerate of others' short-term pain. While not everyone would be able to [imagine](mind-imagination.md) large-scale consequences, everyone would respect and carefully consider the views of the people with the most foresight.
 - Principles/Applications - We'd see the full range of principles versus implementations.
-- Uncertainty Avoidance - Everyone, by knowing everyone else loved them, would be significantly more comfortable with [uncertainty](understanding-certainty.md) than we are today. However, some people would still accept the [unknown](unknown.md) more than others.
+- Uncertainty Avoidance - Everyone, by knowing everyone else loved them, would be significantly more comfortable with [uncertainty](mind-understanding-certainty.md) than we are today. However, some people would still accept the [unknown](unknown.md) more than others.
 
 Since they wouldn't have to deal with others pushing in crowds or byproducts of self-interested, destructive behaviors like traffic jams, people would generally move faster and get more things done.
 
 The implications of this culture would mean that young people will respect their elders' superior experience, and elders will consider the value of new [trends](people-trends.md). Thus, everyone would adopt better trends that added more value (because the [young](maturity.md) heeded the old), and more quickly (because the old considered the young).
 
-Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](mind-trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](understanding.md). In fact, that person's unique culture will often form an unfettered [trend](people-trends.md) to transform the host group as they observe the stranger.
+Cross-culturally, the love of other people (including complete outsiders) would overlook distinctive differences in customs or approach. They'll [trust](mind-trust.md) outsiders more, and will treat it strictly as an opportunity to [learn](mind-understanding.md). In fact, that person's unique culture will often form an unfettered [trend](people-trends.md) to transform the host group as they observe the stranger.
 
 Cross-pollination of cultural values will be frequent. People who travel among groups (such as couriers) will frequently spread the culture through informal [stories](stories-why.md) of other cultures and places, with their ideas representing as [new trends](people-trends.md) among those cultures.
 
@@ -69,7 +69,7 @@ Presently, there's *zero* work for particularly unintelligent people. The more w
 
 Property ownership would still exist, but [conflicts over it](people-boundaries-why.md) wouldn't be as toxic. The purpose of property would be less about [power](power.md) and more about [responsibility](meaning.md). Someone would have a well, for example, who was responsible for keeping it cleared, but *everyone* would profit from the well-being cleared, and they'd often gift the owner out of gratitude.
 
-When people would build, they'll have the time to do things right, so the architecture would blend beautifully with the natural scenery. We'd see the wide variety of domiciles there that we see now, likely wider from all the expanded [understanding](understanding.md) of each person.
+When people would build, they'll have the time to do things right, so the architecture would blend beautifully with the natural scenery. We'd see the wide variety of domiciles there that we see now, likely wider from all the expanded [understanding](mind-understanding.md) of each person.
 
 We'd see most of the same [specializations](jobs-specialization.md) as [engineering](engineering.md), architecture, and [customer service](people-customerservice.md), but with a few notable exceptions:
 
@@ -107,11 +107,11 @@ In our society, we frequently must trade elegance for speed: ugly and fast versu
 
 [Risks](entrepreneur-why.md) would be easier to take as well. The entire community would be behind them, and that person would give credit in turn. Thus, the rocket scientist would have the support of the farmer, and everyone in the group would receive the praise.
 
-Everyone would work their job with the [understanding](understanding.md) that it may change someday. They'd also not be [afraid](mind-feelings-fear.md) of survival exclusively through doing that role. They'd always be ready to delegate their role or stop it as the situation changes.
+Everyone would work their job with the [understanding](mind-understanding.md) that it may change someday. They'd also not be [afraid](mind-feelings-fear.md) of survival exclusively through doing that role. They'd always be ready to delegate their role or stop it as the situation changes.
 
 ## Recreation
 
-We'd [create](mind-creativity.md) all *sorts* of things like what we see today for recreation. However, those [creations](creations.md) would be driven strictly by a desire to grow others' [understanding](understanding.md), provoke others to [goodness](morality.md), and enrich their lives. Our pastimes would be the ultimate convergence of [education](education.md) and entertainment.
+We'd [create](mind-creativity.md) all *sorts* of things like what we see today for recreation. However, those [creations](creations.md) would be driven strictly by a desire to grow others' [understanding](mind-understanding.md), provoke others to [goodness](morality.md), and enrich their lives. Our pastimes would be the ultimate convergence of [education](education.md) and entertainment.
 
 Beyond films and books, we'd design and share electronic games, sophisticated sports, and elaborate toys. There'd be competitions and tournaments for just about anything anyone wanted, as long as there were a few people to have fun competing with.
 
@@ -129,7 +129,7 @@ The educators would be masters of their craft. Anyone who educated would do it b
 
 People would share information willingly. This would include [technological developments](technology.md), [scientific discoveries](science.md), and [creative tricks](mind-creativity-how.md).
 
-Since nobody would [fear](mind-feelings-fear.md) losing [power](power.md) or [influence](power-influence.md) from others "stealing" information, the collective of human [understanding](understanding.md) would develop within weeks instead of years.
+Since nobody would [fear](mind-feelings-fear.md) losing [power](power.md) or [influence](power-influence.md) from others "stealing" information, the collective of human [understanding](mind-understanding.md) would develop within weeks instead of years.
 
 Technology would develop *much* more quickly than we're accustomed to because people who invent things would quickly give away their developments, empowering other people to [build on that existing development](https://www.meltingasphalt.com/interactive/going-critical/).
 

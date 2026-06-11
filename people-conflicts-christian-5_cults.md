@@ -10,7 +10,7 @@
 [Language](language.md) is a *massive* factor in most cults:
 
 - Their choice of words are often the same as the rest of Christianity, but carry an entirely different (and typically more complex) [meaning](symbols.md).
-- Most [understanding](understanding.md) of specific concepts are hidden behind dense jargon and long explanations.
+- Most [understanding](mind-understanding.md) of specific concepts are hidden behind dense jargon and long explanations.
   - [Good educators](education.md) can simplify vastly complex ideas, but cults practically forbid that form of brevity.
 
 Cults often borrow directly from the Bible.
@@ -23,7 +23,7 @@ Cults often borrow directly from the Bible.
 
 Most people, including Christians, can be close-minded, but cult members can take it to extremes.
 
-- Cult members are told to accept everything at face value, with stern rebukes if they ask questions for [further understanding](understanding.md).
+- Cult members are told to accept everything at face value, with stern rebukes if they ask questions for [further understanding](mind-understanding.md).
 - To accept the doctrine of a cult, cult members have to personally reject [the simple Gospel message](https://theologos.site/gospel/), meaning they often have a personal antagonism against Christianity in general.
 - A cult may have *many* well-reasoned components, but the core doctrine's [logic](logic.md) breaks down compared to Christianity.
 

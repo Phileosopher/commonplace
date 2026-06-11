@@ -53,7 +53,7 @@ Most of the more durable heresies and bad theology comes through a few major rou
 
 ## Debating
 
-The only worthwhile debates are the ones that affect how to rightly [understand](understanding.md) the truth and [walk with God](spiritual-exercises.md) ([Titus 3:9](https://biblehub.com/titus/3-9.htm)).
+The only worthwhile debates are the ones that affect how to rightly [understand](mind-understanding.md) the truth and [walk with God](spiritual-exercises.md) ([Titus 3:9](https://biblehub.com/titus/3-9.htm)).
 
 - [The devil works overtime](spiritual-warfare-tricks.md) to deter and discourage [healthy disagreements](people-conflicts.md).
 - Healthy Christian disagreements are loving, patient discussions over [philosophies](philosophy.md) and [ideas](values.md).

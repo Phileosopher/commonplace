@@ -36,7 +36,7 @@ There's a *lot* of energy stored in atoms. By separating them (fission) or joini
 
 These atoms can bond together with other atoms (often via opposite ions), and that's what creates molecules, which then moves into the realm of chemistry.
 
-Photon waves are complicated because they're both particles *and* waves, depending on how you measure them. This is the domain of [quantum physics](computers-quantum.md), and has very complicated [metaphysical implications](understanding.md) because the physical properties of particles are defined by whether we observe them or not.
+Photon waves are complicated because they're both particles *and* waves, depending on how you measure them. This is the domain of [quantum physics](computers-quantum.md), and has very complicated [metaphysical implications](mind-understanding.md) because the physical properties of particles are defined by whether we observe them or not.
 
 Sound is a wave made from the vibration of molecules that ripple shockwaves across neighboring molecules. For this reason, sound travels fastest and farthest in dense liquid (e.g., water).
 

@@ -111,14 +111,14 @@ Finally, the "energy" of each of the spectra creates *severe* conflicts (both [i
 
 ## Image/shadow
 
-For the most (or entire) part, we are [image-based](people-image-why.md) people. Our [cultures](people-culture.md) teach us about certain [moral](morality.md) things we must [do](purpose.md), [say](people-conversation.md), [think](understanding.md), and [be](people-identity.md).
+For the most (or entire) part, we are [image-based](people-image-why.md) people. Our [cultures](people-culture.md) teach us about certain [moral](morality.md) things we must [do](purpose.md), [say](people-conversation.md), [think](mind-understanding.md), and [be](people-identity.md).
 
 We maintain that [image](people-image-why.md) of how we expect others to want us to behave, and it forces us to express at *least* two personalities:
 
 1. The way we would behave if nobody was around whatsoever, including the absence of any [god(s)](religion.md) who may see us otherwise.
 2. How we believe we must be for others to [accept us](people-boundaries-why.md), or at least for us to gain [influence](influence.md) and [power](power.md).
 
-One consequence of this is that measuring personalities is very difficult. People will often adapt the [image](people-image-why.md) of their disposition to whatever they [believe](understanding-certainty.md) to be advantageous at the time.
+One consequence of this is that measuring personalities is very difficult. People will often adapt the [image](people-image-why.md) of their disposition to whatever they [believe](mind-understanding-certainty.md) to be advantageous at the time.
 
 Generally, most cultures form an expected "false self" with a specific range of personality:
 

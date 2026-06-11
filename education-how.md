@@ -1,7 +1,7 @@
 
 # How to teach and publicly speak
 
-The act of teaching is the art of conveying information to others in a way they [understand](understanding.md).
+The act of teaching is the art of conveying information to others in a way they [understand](mind-understanding.md).
 
 While the one-on-one experience of teaching is an intimate experience of guiding someone through trial-and error, [large-scale teachers](education.md) are effectively public speakers with some dialogue interspersed to clarify points to the audience.
 
@@ -21,7 +21,7 @@ Speaking to a crowd is the most extreme form of communication, but crosses into 
 - [Job interviews](jobs-5_interview.md)
 - Tense, difficult conversations and [negotiations](people-conflicts-negotiation.md)
 - [Product sales pitches](marketing.md)
-- [Convincing](power-influence.md) others of a cause you [believe in](understanding-certainty.md)
+- [Convincing](power-influence.md) others of a cause you [believe in](mind-understanding-certainty.md)
 - Most [management](mgmt-1_why.md) roles require public speaking
 
 While anyone can publicly speak with practice, more people are [afraid](mind-feelings-fear.md) of it than dying:
@@ -36,10 +36,10 @@ Conveniently, audiences pay more attention to the message than the speaker:
 - In that sense, public speaking is mostly a performance that magnifies an interesting perspective.
 - People even feel like a story of the speaker's *life* is separate from that speaker standing in front of them.
 - Only speak with a purpose in mind:
-  1. To inform - gives [understanding](understanding.md), an explanation, or knowledge
+  1. To inform - gives [understanding](mind-understanding.md), an explanation, or knowledge
   2. To [entertain](fun.md) - bring amusement, enjoyment, and laughter
   3. To [inspire](purpose.md) - animate or exalt [the human spirit](humanity.md) or arouse [feelings](mind-feelings.md)
-  4. To [convince](power-influence.md) - trigger change, alter [beliefs](understanding-certainty.md) or strengthen beliefs
+  4. To [convince](power-influence.md) - trigger change, alter [beliefs](mind-understanding-certainty.md) or strengthen beliefs
   5. To persuade - bring a belief through [argument and reason](logic.md)
 - People only remember up to 3 points from a speech, so keep it brief.
 
@@ -72,7 +72,7 @@ Your preparation is completely personal preference:
 
 - All you need is a working understanding of what you're trying to share.
   - You should be confident enough to speak without consciously thinking about what you want to say.
-  - If you thoroughly [understand](understanding.md) your ideas, you can expand or shrink it to the size of any presentation.
+  - If you thoroughly [understand](mind-understanding.md) your ideas, you can expand or shrink it to the size of any presentation.
 - Don't completely improvise when you can research beforehand, but don't read off a script unless you must.
   - If you must read off a script, memorize the first and last few lines to look at the audience at the beginning and end when they're likely to look at you.
   - If you intend to memorize it all, you should be able to speak ahead of a double-time recording of yourself while focusing on something else.

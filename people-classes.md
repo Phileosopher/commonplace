@@ -1,7 +1,7 @@
 
 # How social classes divide
 
-In any [large group](groups-large.md), people divide out into [smaller groups](groups-small.md) from [distinctions](hardship-discrimination.md) between [values](values.md) they [believe](understanding-certainty.md).
+In any [large group](groups-large.md), people divide out into [smaller groups](groups-small.md) from [distinctions](hardship-discrimination.md) between [values](values.md) they [believe](mind-understanding-certainty.md).
 
 Even though they share certain values across their [group](groups-large.md), smaller and more specific values arise from differences in [status](people-image-why.md), [power](power.md), [purpose](jobs-specialization.md), and [appearance](people-image-why.md).
 
@@ -41,7 +41,7 @@ Even in [social groups](groups-large.md), the class divide demonstrates itself. 
 
 There's always a class with very little [power](power.md) to do much. They could be poor, [young](maturity.md), unimportant, or simply new to the group.
 
-As they encounter [power](power.md), they have very little experience or [wisdom](understanding.md) in managing it. Thus, many of them will quickly waste it instead of stockpiling it. Usually, the power they have is proportionally close to or less than the power they need merely to keep surviving.
+As they encounter [power](power.md), they have very little experience or [wisdom](mind-understanding.md) in managing it. Thus, many of them will quickly waste it instead of stockpiling it. Usually, the power they have is proportionally close to or less than the power they need merely to keep surviving.
 
 Generally, in a [large group](groups-large.md), the lower class is too preoccupied with surviving to concern themselves with the other groups.
 
@@ -132,7 +132,7 @@ Beyond the standard cultural adaptations like specific [language](language.md) a
 
 Generally, higher classes have an attitude problem when they're demoted, and lower classes have a self-respect problem when promoted. The way the person [imagines](mind-imagination.md) their social status typically expresses itself in how people react to it.
 
-Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends-why.md) with others. The person must make [wise](understanding.md) [decisions](mind-decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
+Moving out of the lower class requires *tons* of discipline and restraint, as well as some luck and [connections](people-friends-why.md) with others. The person must make [wise](mind-understanding.md) [decisions](mind-decisions.md) that give long-term benefits, then discover an [opportunity](power.md) they can seize with what they've been preparing.
 
 When people move upwards in a social class, they must trust more [power](power.md) to others who will more reliably [specialize](jobs-specialization.md) in handling things like their [assets](money-accounting.md), [legal situation](legal-safety.md), and [insurance](money-insurance.md). Unlike the [cleverness](mind-creativity.md) required to subsist with little in a lower class, higher class people must be proficient with their [social skills](people-boundaries.md) and make more [friends](people-friends-why.md).
 
@@ -168,7 +168,7 @@ Generally, they'll also appeal to [specific political values](politics-conservat
 
 At the end of the conflict, though, nothing [really](reality.md) changes except that a few upper-class people have changed roles. Often, if the new leadership was more [evil](morality-evil.md), everyone loses some of their [freedoms](morality-justice.md).
 
-APPLICATION: We only make decisions as part of a social class as far as we [identify](people-identity.md) with our situation. We can frequently [appear](people-image-why.md) as a different class, and there is sometimes [wisdom](understanding.md) in appearing to be a lower class than we are.
+APPLICATION: We only make decisions as part of a social class as far as we [identify](people-identity.md) with our situation. We can frequently [appear](people-image-why.md) as a different class, and there is sometimes [wisdom](mind-understanding.md) in appearing to be a lower class than we are.
 
 APPLICATION: The social expectations and use of things vary heavily by each class:
 

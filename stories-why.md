@@ -13,9 +13,9 @@ Different people (e.g., [social classes](people-classes.md), [age groups](maturi
 
 ## The structure of a story
 
-Each story has a beginning, middle, and an end. The order is critical to how we [understand](understanding.md) that story and the [values](values.md) attached to it.
+Each story has a beginning, middle, and an end. The order is critical to how we [understand](mind-understanding.md) that story and the [values](values.md) attached to it.
 
-APPLICATION: A story is relatively simple to [make](mind-creativity.md) and [understand](understanding.md) if you can attach it to your [feelings](mind-feelings.md):
+APPLICATION: A story is relatively simple to [make](mind-creativity.md) and [understand](mind-understanding.md) if you can attach it to your [feelings](mind-feelings.md):
 
 1. Character
 2. Needs
@@ -74,7 +74,7 @@ Mechanically, there are only a few ways to build a story:
 
 - Narration - use a third party to move the story from one point to another.
 - Description - use a third party to give context around the story.
-- Dialogue - explain [thoughts](understanding.md) and [feelings](mind-feelings.md) with some sort of [conversation](people-conversation.md).
+- Dialogue - explain [thoughts](mind-understanding.md) and [feelings](mind-feelings.md) with some sort of [conversation](people-conversation.md).
 - Expression - Use sensory cues like visuals or sounds to paint an [image](people-image-why.md).
 - Interaction - use the audience's [decisions](mind-decisions.md) and [expressions](results.md) to [influence](influence.md) how the audience [feels](mind-feelings.md) by drawing them into the experience.
 
@@ -92,14 +92,14 @@ Stories are crudely drawn [maps](people-image-why.md) that point to [meaning](me
 
 - Every [popular](people-trends.md) song made across history has a very limited number of starting chords, and has the same set of possible ending chords to evoke specific feelings.
 - People usually engage more easily with movies and novels than with documentaries and textbooks.
-- [Every society](humanity-universals.md) uses [folklore and myths](stories-myths.md), as well as [proverbs](lawsaxioms.md), that communicate important [lessons](understanding.md).
+- [Every society](humanity-universals.md) uses [folklore and myths](stories-myths.md), as well as [proverbs](lawsaxioms.md), that communicate important [lessons](mind-understanding.md).
 - The motivation to convey a story is always driven, at least partly, by the [emotion of anger](mind-feelings-anger.md).
 
 APPLICATION: Popular [trends](people-trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](people-culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.
 
 Since it's a map and not an accurate depiction, a story is always an exploration of extremes.
 
-Every story communicates a [value](values.md). The stories people remember will communicate values that reference beyond itself and add meaning to the audience's life beyond the story. To achieve this, the [creator](mind-creativity.md) *must* draw from associations the audience [already had](understanding.md) before the story started.
+Every story communicates a [value](values.md). The stories people remember will communicate values that reference beyond itself and add meaning to the audience's life beyond the story. To achieve this, the [creator](mind-creativity.md) *must* draw from associations the audience [already had](mind-understanding.md) before the story started.
 
 One of the most critical messages in most stories involves how we must [decide](mind-decisions.md) in the face of [scarcity](money-economics.md). This leads to *severe* [conflict](people-conflicts-inner.md), so all stories revolve and move from [conflict](people-conflicts-why.md).
 
@@ -125,7 +125,7 @@ These themes float around a few possible [conflicts](people-conflicts-inner.md):
 
 - The balance between life and [death](legacy.md).
 - The realm of the [conscious](mind-decisions.md) versus [unconscious](habits.md).
-- The distinction between [order](understanding-certainty.md) and [chaos](unknown.md).
+- The distinction between [order](mind-understanding-certainty.md) and [chaos](unknown.md).
 
 A single detail can dramatically change the values of *everything* in that story, especially near the ending. One out-of-place remark or body language gesture may demonstrate ideas the creator secretly hid in the story's message. In this sense, observant consumers who detect details and understand a story entirely differently than less observant or more [immature](maturity.md) consumers will interpret.
 
@@ -141,8 +141,8 @@ Frequently, most plots tend to fall into a few predictable patterns:
 - Redemption - a [moral](morality.md) change where a character becomes good.
 - Punitive - a good character turns bad and is [punished](people-rules.md).
 - Testing - a character's [resolve](purpose.md) is tested against [hardship](hardship.md).
-- Education - a character must [change](people-changes.md) their negative [understanding](understanding.md) of something.
-- Disillusionment - a character's must change their [positive](understanding-certainty.md) [expectations](mind-imagination.md).
+- Education - a character must [change](people-changes.md) their negative [understanding](mind-understanding.md) of something.
+- Disillusionment - a character's must change their [positive](mind-understanding-certainty.md) [expectations](mind-imagination.md).
 
 Generally, the first-person [perspective](people-image-why.md) is difficult for most people to handle because it constantly reminds them that *they're* not experiencing the story. Instead, writers tend to prefer second-person viewpoints whenever possible, and they tend to add factual inconsistencies to keep the audience guessing about [reality](reality.md) within the story's context.
 
@@ -156,7 +156,7 @@ Story-building is communicating the [changes](people-changes.md) that take place
 
 ### Character-building
 
-Through character-building, the [creator](mind-creativity.md) is designing the personality of the character. While all characters merely need a [purpose](purpose.md), a story will allude to their [past decisions](mind-decisions.md), [prejudices and sense](understanding-certainty.md), and [who they are](humanity.md). An excellent storyteller can create someone so vivid that the audience will [identify](people-identity.md) with the character and be able to approximately [predict](mind-imagination.md) what they will do next.
+Through character-building, the [creator](mind-creativity.md) is designing the personality of the character. While all characters merely need a [purpose](purpose.md), a story will allude to their [past decisions](mind-decisions.md), [prejudices and sense](mind-understanding-certainty.md), and [who they are](humanity.md). An excellent storyteller can create someone so vivid that the audience will [identify](people-identity.md) with the character and be able to approximately [predict](mind-imagination.md) what they will do next.
 
 An interesting mechanism of character-building is to create within that character irreconcilable, competing motivations. They can be simple (and often generates [humor](humor.md)), subtle (and more easily generate drama), or elaborate (which can create both humor *and* drama).
 
@@ -182,14 +182,14 @@ To add value to the story, every additional character should be able to evoke un
 
 Extremely effective stories *all* carry the same highly polished components:
 
-1. The story is simple enough to hit the audience's [feelings](mind-feelings.md). The audience will find it amusing and want to continue consuming it, usually because there's a [new](people-image-why.md) experience inside the story and because it's fulfilling a [wish](purpose.md) embedded in the audience's [culture](people-culture.md). This only comes from the [creator](mind-creativity.md) having a fierce [belief](understanding-certainty.md) they want to share through that story.
-2. The [storyteller](stories-storytellers.md) will intentionally omit information. They [understand](understanding.md) a more elaborate concept, but they use simpler ideas to articulate smaller ideas, then require the audience to connect the larger picture.
+1. The story is simple enough to hit the audience's [feelings](mind-feelings.md). The audience will find it amusing and want to continue consuming it, usually because there's a [new](people-image-why.md) experience inside the story and because it's fulfilling a [wish](purpose.md) embedded in the audience's [culture](people-culture.md). This only comes from the [creator](mind-creativity.md) having a fierce [belief](mind-understanding-certainty.md) they want to share through that story.
+2. The [storyteller](stories-storytellers.md) will intentionally omit information. They [understand](mind-understanding.md) a more elaborate concept, but they use simpler ideas to articulate smaller ideas, then require the audience to connect the larger picture.
 3. Few or no [facts](reality.md) refute the story, which implies that it's true or could easily be true. The creator will often obscure the details by using their [authority](power.md) or something unknown instead of [logic](logic.md) for the audience to [feel persuaded](influence.md):
    - Describing the story firsthand, but explaining how all evidence of it was lost (older fiction)
    - Setting the story in a hypothetical far future or alternate reality (science fiction)
    - The world operates with science behaving very differently (fantasy)
    - Unknowable [fears](mind-feelings-fear.md) take on a more tangible form (horror)
-4. The entire story will [appear](people-image-why.md) as if the creator had specifically [purposed](purpose.md) the story for the audience to hear. While the message may be vague, the [action](mind-decisions.md) the creator wants for the *audience* must be explicit. If possible, the creator gives clearly defined [consequences](results.md) for those actions. While a coincidence can bring a character into that story, they'll only come out of it with a coincidence if the message is to [trust](understanding-certainty.md) the unknown.
+4. The entire story will [appear](people-image-why.md) as if the creator had specifically [purposed](purpose.md) the story for the audience to hear. While the message may be vague, the [action](mind-decisions.md) the creator wants for the *audience* must be explicit. If possible, the creator gives clearly defined [consequences](results.md) for those actions. While a coincidence can bring a character into that story, they'll only come out of it with a coincidence if the message is to [trust](mind-understanding-certainty.md) the unknown.
 
 Audiences have a limited attention span, so fewer details mean more impact. To maximize details that create meaning for certain [cultures](people-culture.md), most genre styles *heavily* expand details of a story:
 
@@ -201,7 +201,7 @@ Audiences have a limited attention span, so fewer details mean more impact. To m
   - Horror focuses on the antagonist's [actions](results.md).
   - Thrillers focus on the antagonist's [decisions and motivations](mind-decisions.md).
 
-One component of every story is its suspense. Before the creator reveals the ending, the audience can interpret any [uncertain](understanding-certainty.md) details to have any form of implication they want. Expert storytellers give enough suspense to keep people somewhat reliably guessing the end, but with enough details that they were alluding to that ending all along. Too much suspense will frustrate the audience from lack of [understanding](understanding.md).
+One component of every story is its suspense. Before the creator reveals the ending, the audience can interpret any [uncertain](mind-understanding-certainty.md) details to have any form of implication they want. Expert storytellers give enough suspense to keep people somewhat reliably guessing the end, but with enough details that they were alluding to that ending all along. Too much suspense will frustrate the audience from lack of [understanding](mind-understanding.md).
 
 We usually make stories retroactively. The season finale of a TV show or the plot twist of a movie can change *everything* about it and destroy or enrich the experience. Sometimes, creators will try to merge a completely fictional story with reality by making it an origin or future story of *our* world (especially in sci-fi).
 
@@ -216,11 +216,11 @@ We often see a story as an [abstracted](values.md) existence, but it's part of a
 
 In the case of a speech or nonfiction facts, the *audience* is the main character of the story, unveiled as the audience member makes [decisions](mind-decisions.md) and [acts](results.md) with those [ideas](values.md) in mind. Sometimes the story will begin with the narrator, but it always ends with the audience.
 
-Taken far enough, our understanding of a single word, data point, or sensation is a separate story, and *all* [human understanding](understanding.md) is a vast collection of connected stories.
+Taken far enough, our understanding of a single word, data point, or sensation is a separate story, and *all* [human understanding](mind-understanding.md) is a vast collection of connected stories.
 
 We retroactively make stories automatically about our lives. History is the stories of our past woven into one large story that leads to the present day. [Journalism](stories-storytellers.md) is stories about the present, with varying degrees of [truth](reality.md) to them. Mentally well people use plenty of [humor](humor.md) throughout any story they make.
 
-Unfortunately, we tend to make the present moment or the [foreseeable future](mind-imagination.md) the end of our stories unless we [believe in something](understanding-certainty.md). This makes it very difficult to stay [satisfied or happy](mind-feelings-happiness.md) in hardship.
+Unfortunately, we tend to make the present moment or the [foreseeable future](mind-imagination.md) the end of our stories unless we [believe in something](mind-understanding-certainty.md). This makes it very difficult to stay [satisfied or happy](mind-feelings-happiness.md) in hardship.
 
 Since every story is [inspired](mind-creativity.md) by other stories and [reality](reality.md), stories can be [analyzed](logic.md) and reproduced by observing specific [values](values.md) called "[tropes](http://tvtropes.org)". Every decent [storyteller](stories-storytellers.md), beyond conveying [feeling](mind-feelings.md), is also aware of where a trope's [trend](people-trends.md) currently is for their audience.
 
@@ -234,10 +234,10 @@ Often, story writers will create ordinary people, then put them in odd situation
 
 ## Downsides
 
-This story-based means of understanding has a few issues. While we can capture [feelings](mind-feelings.md) and [values](values.md) precisely (especially [morals](morality.md)), we tend to misrepresent [facts](reality.md). Our information-gathering is too poor to accurately [understand](understanding.md) all things.
+This story-based means of understanding has a few issues. While we can capture [feelings](mind-feelings.md) and [values](values.md) precisely (especially [morals](morality.md)), we tend to misrepresent [facts](reality.md). Our information-gathering is too poor to accurately [understand](mind-understanding.md) all things.
 
 Our brains don't have segmented areas for fiction versus nonfiction, so the experiences we consume (such as movies or books) will bleed together with our real-life experiences. At its extreme, [habitual](habits.md) liars start losing track of reality.
 
-Because of stories, it's humanly impossible to *not* have a [bias](people-image-why.md). The very order of how we read information and [data](math.md) changes how we feel about the conclusion. [Logic](logic.md) itself is a story. We *can* understand facts better with more patience and [rigor](science.md), but must always [believe](understanding-certainty.md) in something we can't prove entirely.
+Because of stories, it's humanly impossible to *not* have a [bias](people-image-why.md). The very order of how we read information and [data](math.md) changes how we feel about the conclusion. [Logic](logic.md) itself is a story. We *can* understand facts better with more patience and [rigor](science.md), but must always [believe](mind-understanding-certainty.md) in something we can't prove entirely.
 
-We tend to [believe](understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](mind-imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](people-rules.md) to do or not do.
+We tend to [believe](mind-understanding-certainty.md) our stories *are* [reality](reality.md) and make [expectations](mind-imagination.md) based on those beliefs. Our decisions often mean we compromise on large benefits (e.g., extreme safety) and receive small gains (e.g., exposure to *extreme* risks). The only way to [influence](influence.md) people otherwise is to use dramatic characters that portray extreme examples of what people [ought](people-rules.md) to do or not do.

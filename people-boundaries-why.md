@@ -25,8 +25,8 @@ There are *many* human rights:
   - When law-abiding, can live in peace and be left alone.
 - Freedom to act without fear of others sabotaging many of their things:
   - Able to move about freely, rest, and have an adequate living arrangement.
-  - Able to [think](understanding.md) and [believe](understanding-certainty.md) what they want (which includes being wrong).
-  - They can freely pursue their [identity](people-identity.md), [change](people-changes.md), and [learn](understanding.md).
+  - Able to [think](mind-understanding.md) and [believe](mind-understanding-certainty.md) what they want (which includes being wrong).
+  - They can freely pursue their [identity](people-identity.md), [change](people-changes.md), and [learn](mind-understanding.md).
   - They can express their ideas through [language](language.md).
   - They can [communicate with others](people-conversation.md), but are entitled to their privacy.
   - They can [have a family](people-family.md), [marry](people-gender.md), and [be in a community](groups-member.md).
@@ -72,7 +72,7 @@ Privileges are expansions on our rights, but have further responsibilities assoc
 
 The complicated part about each person's rights is that it applies to *everyone else*.
 
-Most [interpersonal conflicts](people-conflicts-why.md) are grounded on either [misunderstanding](understanding.md) boundaries or trying to [assert privileges](power.md) as if they were rights.
+Most [interpersonal conflicts](people-conflicts-why.md) are grounded on either [misunderstanding](mind-understanding.md) boundaries or trying to [assert privileges](power.md) as if they were rights.
 
 Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](politics-leftism.md) actually *thrive* on this sense of injustice.
 
@@ -98,13 +98,13 @@ APPLICATION: Asserting human rights is probably most of the trouble plaguing [so
 
 Further, since [power dynamics](power-types.md) are biologically configured to be uneven, and we're not always [loving](people-love.md), almost every person has abused another's human rights at one point or another. Some part of it is [upbringing](people-family.md), but most (if not all) [human souls](humanity.md) have [evil](morality-evil.md) in them that [will entertain](mind-imagination.md) the desire to violate others' rights for self-interest.
 
-Our [upbringing](people-family.md) can also communicate to us that we don't have certain rights when we legitimately do. Even though our [intuition](mind-feelings.md) will disagree, we'll often sabotage our [understanding](understanding.md) of the world to accommodate or fight what we're taught.
+Our [upbringing](people-family.md) can also communicate to us that we don't have certain rights when we legitimately do. Even though our [intuition](mind-feelings.md) will disagree, we'll often sabotage our [understanding](mind-understanding.md) of the world to accommodate or fight what we're taught.
 
 The only way any one person can reliably satisfy another's human rights is through [loving](people-love.md) them. Otherwise, we usually won't consider others' mental rights, even with elaborate [social engineering](mgmt-badsystems.md).
 
 In the absence of love, the only way people can ever make sensible [decisions](mind-decisions.md) is through rebelling against a common enemy. This is [the only way](people-conflicts-war-why.md) that [large-scale groups](groups-large.md) will band together, though they will often turn on each other when that outside enemy is destroyed.
 
-One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](people-image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](mind-trust.md) the average citizen.
+One of the trickiest debates about freedoms includes the right to [speak](language.md). By speaking, we express our [souls](humanity.md) onto our [environment](creations.md). While it's the only way for us to stumble through the trial-and-error method of [discovering truths](mind-understanding.md), it can also be abused to [immorally](morality.md) gain [power](power.md) or [distort truths](people-image-distortion.md), especially via [influence](influence.md). Thus, a government's [regulations](people-rules.md) about free speech will dictate how much they [trust](mind-trust.md) the average citizen.
 
 ## Privileges
 
@@ -117,17 +117,17 @@ Many times, people believe their privileges *are* rights, often from a privilege
 - [Love](people-love.md) isn't a right, since that would require others to desire differently than they prefer.
 - Any service another person provides (e.g., [education](education.md), [auto](autos.md) repair) isn't a right because it would force them into [slavery](people-slavery.md)
 
-APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](understanding.md) others' rights.
+APPLICATION: Most mental disorders come from bad boundaries. Healthy boundaries require saying "no" when someone violates a boundary, and honoring others saying "no". We often assert our boundaries well enough, but tend to ignore others' rights by comparison. It's *far* more complicated when we have [past trauma](hardship-ptsd.md) or don't [understand](mind-understanding.md) others' rights.
 
 Unfortunately, we can set [implicit contracts](people-contracts.md) with privileges used regularly that abuse others' boundaries. This can create situations where a violated right is certainly [unethical](morality.md), but is entirely [legal](people-rules.md).
 
-APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](entrepreneur-why.md) on adding value to the public.
+APPLICATION: When you have a lousy job, your boss made an agreement with you for you to trade your [labor](results.md) for [money](power-types.md). By acquiring [trade-specific](jobs-specialization.md) [understanding](mind-understanding.md), you can gain *more* [power](power.md) than you had and find a better job, either by finding a better boss who will give you a better arrangement or by taking a [social risk](entrepreneur-why.md) on adding value to the public.
 
 APPLICATION: Nothing is technically free, and receiving *anything* is technically consenting to an unspoken agreement.
 
 ## Privacy
 
-Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](understanding.md).
+Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](mind-understanding.md).
 
 The information individuals may obstruct from others is a very specific list, though people may interpret *anything* as private depending on their [culture](people-culture.md):
 
@@ -153,10 +153,10 @@ Unfortunately, there's no easy way to keep track of those keys. The manager must
 1. Everyone had the same key, so they must get new ones.
 2. Everyone had a different key, and the stolen keys are rendered invalid.
 
-Unfortunately, every single security idea requires a comparatively [unsafe](safety.md) "door" or entryway that someone could theoretically enter without official authorization. Power and [understanding](understanding.md) *always* tempts our [human nature](humanity.md), so every effective privacy measure is complicated, ridiculous, and time-intensive.
+Unfortunately, every single security idea requires a comparatively [unsafe](safety.md) "door" or entryway that someone could theoretically enter without official authorization. Power and [understanding](mind-understanding.md) *always* tempts our [human nature](humanity.md), so every effective privacy measure is complicated, ridiculous, and time-intensive.
 
 APPLICATION: We tend to trust [larger groups](groups-large.md) because they seem [stronger](power.md), but a larger group is *less* [safe](safety.md) than a [smaller one](groups-small.md) because they can't handle privacy as intimately.
 
 [Technology](technology.md) magnifies our results, so it also magnifies the role of privacy against intruders. We can make elaborate [security](safety.md) systems, but it allows elaborate invasions of those systems.
 
-APPLICATION: Many [bad systems](mgmt-badsystems.md) unscrupulously use their [power](power.md) to [predict](mind-imagination.md) human behavior, but there are far too many variables to reliably do it. *Maybe* in a hundred years' time, but as soon as people become aware someone is trying to predict them they'll rearrange their thoughts, so a working model is never reliable if anyone [knows](understanding.md) about it.
+APPLICATION: Many [bad systems](mgmt-badsystems.md) unscrupulously use their [power](power.md) to [predict](mind-imagination.md) human behavior, but there are far too many variables to reliably do it. *Maybe* in a hundred years' time, but as soon as people become aware someone is trying to predict them they'll rearrange their thoughts, so a working model is never reliable if anyone [knows](mind-understanding.md) about it.

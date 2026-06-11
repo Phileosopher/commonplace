@@ -402,7 +402,7 @@ If you can, consider making a 4-day workweek:
 
 As much as possible, spend time thinking about your situation from new angles:
 
-- Take everything you've [understood](understanding.md) and question it.
+- Take everything you've [understood](mind-understanding.md) and question it.
 - Look for things you've never thought about.
 - [Finding happiness](mind-feelings-happiness.md) is the long-term solution for enduring failures.
 - Watch for small problems that become big ones later.

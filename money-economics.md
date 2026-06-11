@@ -17,7 +17,7 @@ Irrespective, there is a type of free market wired into our existence, which rep
 
 ## Value
 
-We make [choices](mind-decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
+We make [choices](mind-decisions.md) to [trade](people-contracts.md) or [make](creations.md) things from our [understanding](mind-understanding.md) of [value](values-quality.md). This value is entirely subjective, based on our needs and wants and our [beliefs](mind-understanding-certainty.md) of others' needs and wants, and ties closely into our concept of [meaning](meaning.md).
 
 APPLICATION: Because we consider the price of things compared to what other people would pay, the easiest form of reflecting uninhibited demand would be a [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction), where everyone privately [communicates](people-conversation.md) their price to the seller and the winner pays the *second*-highest price.
 
@@ -35,11 +35,11 @@ APPLICATION: Value is very relative to [utility](purpose.md). For that reason, m
 
 With the odd exception of [addiction](addiction.md), our [decisions](mind-decisions.md) tend toward scarcer things.
 
-Our concept of economic value is based on [information](understanding.md), mostly on scarcity and others' interpretations of value, which can *never* be complete.
+Our concept of economic value is based on [information](mind-understanding.md), mostly on scarcity and others' interpretations of value, which can *never* be complete.
 
 The measurable value of something fluctuates *constantly* for several reasons:
 
-- Information about things is constantly changing, and we're constantly [learning more](understanding.md) about that thing as we observe it.
+- Information about things is constantly changing, and we're constantly [learning more](mind-understanding.md) about that thing as we observe it.
 - Changing information implies a [story](stories-why.md), and therefore a [trend](people-trends.md) we try to [predict](mind-imagination.md).
 - We [imagine](mind-imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
 
@@ -55,7 +55,7 @@ People use money for a few reasons:
 
 - It's scarce because governments only print a limited amount.
 - It's a measurable and "portable" type of [power](power-types.md), so it's easy to keep around and stockpile (except for the risks from inflation).
-- For the sake of [control](power.md) and organizational [understanding](understanding.md), [government taxation](money-accounting.md) policies are typically based on money transactions.
+- For the sake of [control](power.md) and organizational [understanding](mind-understanding.md), [government taxation](money-accounting.md) policies are typically based on money transactions.
 
 Governments can print money, but they're not the only organizations who can. [Blockchain technology](computers-blockchain.md), for example, is the backbone of cryptocurrency. In that situation, the scarcity is the mathematically regulated number of blocks contained on a chain, instead of a government's [control](people-rules.md) over supply.
 
@@ -73,8 +73,8 @@ Every economic activity is a trade, with any differentiation in timing or future
 
 We exchange many types of goods and services:
 
-- [Skills](understanding.md) at operating, manipulating, or creating
-- Expert [knowledge](understanding.md) or training about a subject
+- [Skills](mind-understanding.md) at operating, manipulating, or creating
+- Expert [knowledge](mind-understanding.md) or training about a subject
 - Natural or farmed resources
 - Finished goods
 - Physical strength and energy
@@ -171,7 +171,7 @@ Supply is how much of something there is, and demand is how much people [want](p
 - When there's less supply or more demand, people will trade more to get it.
 - This entire relationship is because everyone is considering what they [desire](purpose.md) relative to what they [imagine](mind-imagination.md) everyone else will do.
 
-People make [decisions](mind-decisions.md), but with limited [information](understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a small amount. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
+People make [decisions](mind-decisions.md), but with limited [information](mind-understanding.md). If all people had complete wisdom, they'd make perfectly wise decisions, and any measurable [value](values.md) would only fluctuate a small amount. However, people choose to withhold information, plus there's simply breakdowns in [communication](people-conversation.md). For that reason, people make frequent incomplete decisions without realizing until later ("adverse selection").
 
 Cost increases for trading are sometimes predictable:
 
@@ -192,7 +192,7 @@ One of the downsides of technology, though, is that it strips away [meaning](mea
 
 Human capital is the added total of someone's non-material assets:
 
-- [Knowledge and skills](understanding.md)
+- [Knowledge and skills](mind-understanding.md)
 - Health and strength
 - [Creativity](mind-creativity.md)
 - [Willpower](humanity.md)
@@ -216,7 +216,7 @@ Black markets will trade almost *any* goods or services [against organizational 
 - Substances with addictive properties or the [inspiration](mind-creativity.md) for destructive [purposes](purpose.md), like alcohol or recreational drugs.
 - Heterosexual or homosexual pornography and prostitution services.
 - Specific sexual fetishes like child pornography or watching people get murdered.
-- Certain [media](creations.md) like music, movies, or video games that [symbolize](symbols.md) specific [ideas](values.md) or [educate](understanding.md) about certain things.
+- Certain [media](creations.md) like music, movies, or video games that [symbolize](symbols.md) specific [ideas](values.md) or [educate](mind-understanding.md) about certain things.
 - Specific collectible things like animal horns or objects from another [people group](groups-member.md).
 - Objects that could be used as weapons (especially against the leadership), such as firearms, grenades, nuclear material, or biological weapons.
 - [Other people](people-slavery.md), typically for [labor](purpose.md) or [sexual](people-gender.md) reasons.
@@ -241,16 +241,16 @@ Capitalist societies reward organizations and individuals who add what the publi
 
 As [organizations](groups-large.md) grow, diminishing per-unit costs ("economies of scale") permit enormous companies to produce items for far cheaper than individuals ever could.
 
-[Accounting](money-accounting.md) is the language of business, and [marketing](marketing.md) is the art of conveying value. Individuals who [understand](understanding.md) business can often trade their things for more, merely by [crafting](creations.md) their [image](people-image-why.md) for customers and governments.
+[Accounting](money-accounting.md) is the language of business, and [marketing](marketing.md) is the art of conveying value. Individuals who [understand](mind-understanding.md) business can often trade their things for more, merely by [crafting](creations.md) their [image](people-image-why.md) for customers and governments.
 
 ## Speculation
 
-Everyone [expects](mind-imagination.md) markets, or at least certain items on those markets, to change value over time ("speculation"). The primary way they do this is by looking at the [patterns](symbols.md) that existed beforehand, typically with the [belief](understanding-certainty.md) that what happened last time will happen again.
+Everyone [expects](mind-imagination.md) markets, or at least certain items on those markets, to change value over time ("speculation"). The primary way they do this is by looking at the [patterns](symbols.md) that existed beforehand, typically with the [belief](mind-understanding-certainty.md) that what happened last time will happen again.
 
 Several factors mean the patterns of market behavior will never occur the same way each time:
 
 - Across years and generations, the [culture](people-culture.md) has shifted, so everyone's [decisions](mind-decisions.md) will be a little different.
-- The [technology](technology.md) has changed, often for the better, meaning [information](understanding.md) will flow *much* faster and change [narratives](stories-storytellers.md) more rapidly.
+- The [technology](technology.md) has changed, often for the better, meaning [information](mind-understanding.md) will flow *much* faster and change [narratives](stories-storytellers.md) more rapidly.
 - People *know* [what happened last time](stories-storytellers.md), so they will make [changes](mind-decisions.md) based on that information. Often, they'll start a [trend of knowledge](people-trends.md) that can sometimes redirect the movement of activities through an entirely different set of circumstances.
 
 Further, in an [over-information society](https://stucky.tech/purpose/), *multiple* trends may be playing out at the same time. It can be very unclear *which* trend will most articulately replay itself, and the results can be dramatically different.

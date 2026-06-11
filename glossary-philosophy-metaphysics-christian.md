@@ -22,7 +22,7 @@ However, **monism** and **pluralism** could certainly exist *within* the univers
   - **Materialism** (and its derivatives in **dialectical materialism**, **historical materialism**, **naturalism**, and **physicalism**) isn't possible in Christian doctrine, since there is a *lot* of Scripture revolving around the concept of a "spirit" state that transcends a physical one.
     - In particular, **Christian materialism**, despite its name, requires indicating that only Jesus exists, and we are illusions, which takes away from any meaningful relationship God would have with us.
     - Physicalism's variants (**eliminative materialism**, **emergent materialism**, **French materialism**, **reductionism**, and **revisionary mateirialism**) are abiding by [science's](science.md) latest [trends](people-trends.md), but don't hold up if we assume that God is a spirit being of any form.
-- Pluralism is also entirely possible if we believe that some things are designed to transcend [human understanding](understanding.md).
+- Pluralism is also entirely possible if we believe that some things are designed to transcend [human understanding](mind-understanding.md).
   - **Holism** and **organicism** has plenty of use. An example would be how the Church with all its members together is more value than each individual within the Church.
   - At the same time, **reductionism** (and **ontological reductionism**) is also significant in its place. After all, as a [thought experiment](philosophy-paradoxes.md), Jesus would still have died for one single human being.
 
@@ -78,7 +78,7 @@ The very real nature of [sin](theology-sins.md) and our implicit need for a Savi
 
 **Eternalism** is certainly *partly* true, at least with reference to God. Our beliefs about what God knows and how long He has known it will affect how far it goes.
 
-**Philosophical presentism** also has a tremendous amount of possibility, since the past is simply [memories](understanding.md) and the future is simply [imagination](mind-imagination.md).
+**Philosophical presentism** also has a tremendous amount of possibility, since the past is simply [memories](mind-understanding.md) and the future is simply [imagination](mind-imagination.md).
 
 ### The Verdict
 

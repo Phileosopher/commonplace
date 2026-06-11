@@ -24,7 +24,7 @@ Wisely interpret the Bible:
 - The Bible *will* interpret itself: Scripture explains Scripture.
 - We can only understand and properly comprehend Scripture through faith and the Holy Spirit ([1 Corinthians 2:14-15](https://biblehub.com/1_corinthians/2.htm)).
 - Interpret personal experience through Scripture, not the other way around.
-- God wrote the Bible to [change our lives](people-goodlife.md), not [increase our knowledge](understanding.md).
+- God wrote the Bible to [change our lives](people-goodlife.md), not [increase our knowledge](mind-understanding.md).
 - Listen to Scripture's common-sense interpretation first, then its historical context, and finally Bible scholars' opinions and commentaries.
 
 Observe and honor the Bible's grammar and syntax:

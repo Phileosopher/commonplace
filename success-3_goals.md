@@ -427,7 +427,7 @@ Be realistic:
 
 If goal-setting is causing you trouble, you're doing it wrong:
 
-- The entire reason you're setting goals is to create [certainty](understanding-certainty.md) about what you want to do.
+- The entire reason you're setting goals is to create [certainty](mind-understanding-certainty.md) about what you want to do.
 - The goals can't be so specific that you lose the overall reason you're doing the goals in the first place.
 - If you have too many goals you'll focus on the easy ones to simply cut down the pile.
 - If the goals are too short-term, you won't see desirable results beyond a few years' time.

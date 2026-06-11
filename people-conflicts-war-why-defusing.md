@@ -11,7 +11,7 @@ If both sides are willing to appease, they can settle it with a [negotiation](pe
 
 However, if one side doesn't want to relent, the other side's reconciliation only trades time until the inevitable conflict while giving their opponent more [power](power.md).
 
-Very often, people will behave as if they don't [understand](understanding.md) the other side. Understanding *sometimes* resolves [conflicts](people-conflicts-why.md), but those people are often trying to [distort how things look](people-image-distortion.md) to take advantage of others' grace.
+Very often, people will behave as if they don't [understand](mind-understanding.md) the other side. Understanding *sometimes* resolves [conflicts](people-conflicts-why.md), but those people are often trying to [distort how things look](people-image-distortion.md) to take advantage of others' grace.
 
 As an appeased group gains more [power](power.md), they'll make increasingly more unreasonable demands over time. Often, because the appeasing leaders are [fearful](mind-feelings-fear.md) and have made a [habit](habits.md) of [compromising boundaries](people-boundaries-why.md), they'll keep conceding indefinitely, all the way until the demanding group gives an impossible request.
 
@@ -28,7 +28,7 @@ Destroying key components of a larger group can delay or nullify that group's [p
 - [Destroy that group's image](people-image-distortion.md) to make the people fight with each other or destroy their reputation outside the group. The easiest way is to draw extra attention to one of that group's past [decisions](mind-decisions.md), which often includes [starting](people-trends.md) a protest.
 - Sabotage resources or the means to acquire resources, usually by attacking the weakest points (which is often their [communications](people-conversation.md) [technology](technology.md)).
 - Redirect and reroute resources toward the subverting group's [purposes](purpose.md). This can involve redirecting physical things (e.g., raw materials) or mental things (e.g., information).
-- Building [trust](understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](mind-decisions.md) ability.
+- Building [trust](mind-understanding-certainty.md) with that group to do one of the above a later time, but by hiding [power](power.md) or having a key [decision-making](mind-decisions.md) ability.
 
 If enough people already agreed with the minority group, the idea was already waiting to happen and simply needed [brave enough](mind-feelings-fear.md) people who were willing to take the [risk](entrepreneur-why.md) against their [authorities](power.md) to start the [trend](people-trends.md).
 

@@ -29,7 +29,7 @@ MLM's primary profit doesn't come from its advertised product.
 Instead, MLM's incentive to join is to become a consumer-seller.
 
 - MLM pricing models and marketing attention demonstrate the primary customers are the group who believe themselves to be sellers *of* the stated product.
-- Most MLM sales are delivering a [vision](understanding-certainty.md) of selling others with a dream.
+- Most MLM sales are delivering a [vision](mind-understanding-certainty.md) of selling others with a dream.
 
 MLM inspires confidence in its members through motivational tapes, seminars, and videos.
 

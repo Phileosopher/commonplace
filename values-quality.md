@@ -1,7 +1,7 @@
 
 # The concept of quality
 
-Quality is an assembled value in our minds which combines a string of *other* [values](values.md) we perceive from [nature](reality.md). The more values pulled in through our [understanding](understanding.md) that are [harmonious](mind-feelings.md) and reliable, the more quality.
+Quality is an assembled value in our minds which combines a string of *other* [values](values.md) we perceive from [nature](reality.md). The more values pulled in through our [understanding](mind-understanding.md) that are [harmonious](mind-feelings.md) and reliable, the more quality.
 
 For example, the quality of a sunset comes from the associations to familiarity, color, connections to [related experiences](stories-why.md), understanding of the [science](science.md) of color, and how we [feel](mind-feelings.md) about it.
 
@@ -9,7 +9,7 @@ When we interpret a [value](values.md) as something higher than another value, w
 
 We find qualities when we remove extra information. With all that information, it's simply [static or noise](unknown.md).
 
-Quality gives us tremendous insight into the world around us. By elegantly portraying [patterns](symbols.md) that exist in the universe, we have the means to implicitly [understand](understanding.md) many domains that we'd otherwise not be able to comprehend.
+Quality gives us tremendous insight into the world around us. By elegantly portraying [patterns](symbols.md) that exist in the universe, we have the means to implicitly [understand](mind-understanding.md) many domains that we'd otherwise not be able to comprehend.
 
 APPLICATION: There is an inherent beauty within many things, to the degree they reference nature and reality. We can gain tremendous [happiness](mind-feelings-happiness.md) by finding it.
 
@@ -21,7 +21,7 @@ Each combined [work](creations.md) is greater than its components. A car, ecosys
 
 Beauty resonates with our animal essence, which is why this concept is a "lower" [layer](https://gainedin.site/layers/) than [values](values.md). However, beauty *requires* values for us to perceive it. Modern and post-modern movements have tried to divorce beauty from values, but all they're left with are [abstractions](symbols.md) and [feelings](mind-feelings.md).
 
-The only response that we can say when we witness beauty is a [feeling](mind-feelings.md) that, in a nutshell, says "wow". It draws many connections to many associations at once and usually showcases tremendous [skill](mind-creativity.md) if it was [created](creations.md). The feeling is, in my opinion, a short-circuit by the brain where we've [purposed](purpose.md) to [understand](understanding.md) the entire breadth of the experience but are overwhelmed by the quality of the thing, all within a few seconds.
+The only response that we can say when we witness beauty is a [feeling](mind-feelings.md) that, in a nutshell, says "wow". It draws many connections to many associations at once and usually showcases tremendous [skill](mind-creativity.md) if it was [created](creations.md). The feeling is, in my opinion, a short-circuit by the brain where we've [purposed](purpose.md) to [understand](mind-understanding.md) the entire breadth of the experience but are overwhelmed by the quality of the thing, all within a few seconds.
 
 Since beauty floats within the animal essence, there's a limited scope of what we can classify as beauty, which is mostly patterned on how we [feel](mind-feelings.md) about [nature](reality.md) around us:
 
@@ -35,7 +35,7 @@ Since beauty floats within the animal essence, there's a limited scope of what w
 - Visual representations almost always honor geometric patterns and contrasting triad colors (like we see in naturally occurring landscapes).
 - Most man-made patterns employ variations of specific [numbers](math.md) like 3, 7, and 12.
 - Things often scale upward or downward with a similar form, which is the [symbolic](symbols.md) essence of [fractals](math.md).
-- Often, elements interconnect with other elements (like the way we [think and understand](understanding.md)).
+- Often, elements interconnect with other elements (like the way we [think and understand](mind-understanding.md)).
 
 Some things are *never* beauty, and we have an easier time detecting them than beauty. Poop or a murder scene, for example, are universally interpreted as [disgusting](mind-feelings-disgust.md). But, with the right creator's [direction](mind-creativity.md), vulgar or wrong things become *connected* to a beautiful [idea](values.md) if they float back to a desirable [human universal](humanity-universals.md).
 
@@ -53,7 +53,7 @@ APPLICATION: Beautiful art always has a [purpose](purpose.md) for its existence,
 
 Not all attributes of a thing are inherently beautiful. Often, something can be beautiful in part but not in its whole. For example, a film with dubious [moral](morality.md) qualities and a disturbingly [evil](morality-evil.md) source reference may have artistry that expertly captures the intrinsic art of acting, videography, lighting, and so on. Its parts are beautiful by themselves as strictly a reference to the respective [crafts](results.md) that made it, even if it's a bad creation in its entirety.
 
-The realm of [understanding](understanding.md) various varieties of beauty is known as "taste". Our tastes are flavored by [moral disposition](morality.md), [personality](humanity.md), and [prior experience](understanding.md), so each person's taste will differentiate wildly.
+The realm of [understanding](mind-understanding.md) various varieties of beauty is known as "taste". Our tastes are flavored by [moral disposition](morality.md), [personality](humanity.md), and [prior experience](mind-understanding.md), so each person's taste will differentiate wildly.
 
 We have a constant need for [novelty](people-image-why.md), so we find tremendous value in "remixes". A remix is [creatively](mind-creativity.md) combining existing elements into a new form:
 
@@ -64,7 +64,7 @@ We have a constant need for [novelty](people-image-why.md), so we find tremendou
 
 Because of their [inexperience](maturity.md), less [skillful](mind-creativity.md) creators will have an easier time [targeting](purpose.md) young people, which is how most [media](creations.md) for mass appeal is [marketed](marketing.md). The simple reason for this is that [older people](maturity.md) are harder to [please](meaning.md):
 
-- They usually [understand](understanding.md) more than younger people.
+- They usually [understand](mind-understanding.md) more than younger people.
 - They have experienced more [cultures](people-culture.md) by virtue of having lived in a time with less [technology](technology.md).
 - Older people can often [analyze](logic.md) better and detect more [symbols](symbols.md) in [stories](stories-why.md).
 

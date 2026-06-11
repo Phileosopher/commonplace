@@ -47,7 +47,7 @@ When we're unaware of something in our mind, we have no control over its influen
 
 Once you've spent a few weeks observing someone's baseline behavior, you can usually detect their most overt past trauma responses. The trauma-associated topic will make them behave in some disproportionate way compared to their standard behavior (e.g., stiffening, twitching, going silent, lashing out). This behavior will often be self-reflective in a way that creates a "loop" that doesn't involve others' feedback at all.
 
-This odd behavior isn't technically "their" behavior. They're reacting with the [methods](habits.md) from when the trauma happened, which were survival impulses that are no longer necessary. Their behavior may have been *decades* ago when they were much [younger](maturity.md) and [understood](understanding.md) the world differently.
+This odd behavior isn't technically "their" behavior. They're reacting with the [methods](habits.md) from when the trauma happened, which were survival impulses that are no longer necessary. Their behavior may have been *decades* ago when they were much [younger](maturity.md) and [understood](mind-understanding.md) the world differently.
 
 There are also more subtle forms of trauma. This can include perfectionism, cutting off other people while they're speaking, shutting down all body language, constantly monitoring feelings, constantly keeping busy, and trying to please others.
 
@@ -57,7 +57,7 @@ In an extreme way, we *can* halt someone else's trauma loop by doing something v
 
 ## Shadow self
 
-This aggregate of all our trauma and past pain blends into our ["shadow" persona](people-personality.md). It's not the authentic, sensible, modern version of us, and is an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past. This persona is held together by unpleasant [feelings](mind-feelings.md). Irrespective whether a person's motivations are [selfish or selfless](morality.md), their persona is never very effective at [doing anything](results.md) because it's a limited [perspective](understanding.md) with obsolete information.
+This aggregate of all our trauma and past pain blends into our ["shadow" persona](people-personality.md). It's not the authentic, sensible, modern version of us, and is an aggregate of every painful and [forbidden](morality-taboo.md) part of us from our past. This persona is held together by unpleasant [feelings](mind-feelings.md). Irrespective whether a person's motivations are [selfish or selfless](morality.md), their persona is never very effective at [doing anything](results.md) because it's a limited [perspective](mind-understanding.md) with obsolete information.
 
 Since unawareness causes the least short-term pain, most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](mind-feelings-happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
 
@@ -84,7 +84,7 @@ APPLICATION: Some of the worst archetypes of people come from this hardened trau
 - [Yellow journalists](stories-storytellers.md)
 - [Attorneys](people-rules.md)
 - [Lobbyists](mgmt-badsystems.md) and [activists](groups-member.md)
-- [Hyper-intellectuals](understanding.md), especially [post-modern philosophers](philosophy.md)
+- [Hyper-intellectuals](mind-understanding.md), especially [post-modern philosophers](philosophy.md)
 
 FURTHER APPLICATION: We should pity these people. They're oblivious to their motives, even while many of them [destroy society](politics-leftism.md). If we condemn them, they become self-proclaimed martyrs. If we venerate them, they [hold to their persona](people-identity.md) more than their true selves.
 
@@ -99,7 +99,7 @@ there are four major reasons people get stuck in the past:
 1. They lack genuine [repentance](people-changes.md) over any of their wrongdoing.
 2. They're afraid of what other people may think or do.
 3. They don't want to leave their habitual [evil](morality-evil.md).
-4. They don't [understand](understanding.md) that they can find redemption if they move on.
+4. They don't [understand](mind-understanding.md) that they can find redemption if they move on.
 
 Unfortunately, when we don't release trauma by working through it, we will often re-experience its consequences. Anything that isn't completely resolved in our mind *will* come back to haunt us:
 

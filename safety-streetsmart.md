@@ -1,7 +1,7 @@
 
 # How to be street smart
 
-There is a distinction in [understanding](understanding.md) between "book smart" and "street smart":
+There is a distinction in [understanding](mind-understanding.md) between "book smart" and "street smart":
 
 - Book smart is the stereotype of an [educated](education.md) college graduate:
   - They're seen as great at ingesting [lots of information](information.md), [taking tests](mind-memory-tests.md), and possesses lots of [specialized](jobs-specialization.md) information.

@@ -1,7 +1,7 @@
 
 # Statistics in computers
 
-Statistical likelihood and probability is difficult for us to wrap our minds around, mostly because it deals with numerical values (which represent a [certainty](understanding-certainty.md)) applied to future possibilities (which represent an [uncertainty](unknown.md)).
+Statistical likelihood and probability is difficult for us to wrap our minds around, mostly because it deals with numerical values (which represent a [certainty](mind-understanding-certainty.md)) applied to future possibilities (which represent an [uncertainty](unknown.md)).
 
 ## Birthday Paradox
 

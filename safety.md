@@ -11,9 +11,9 @@ APPLICATION: Money is a major source of safety, simply because it's effective at
 
 ## Risk
 
-Risk can most accurately be rephrased as "the [likelihood](mind-imagination.md) that we could lose [power](power.md)". [Risks are inherent](mind-trust.md) to existing in this life, so people become more careful and decisive as they gain [wisdom](understanding.md). With experience, people only act when they're [certain](understanding-certainty.md).
+Risk can most accurately be rephrased as "the [likelihood](mind-imagination.md) that we could lose [power](power.md)". [Risks are inherent](mind-trust.md) to existing in this life, so people become more careful and decisive as they gain [wisdom](mind-understanding.md). With experience, people only act when they're [certain](mind-understanding-certainty.md).
 
-We usually have a [fear](mind-feelings-fear.md) of something specific, but it's rarely [rational](logic.md) or [likely](math.md) (especially with [past trauma](hardship-ptsd.md)), so we'll simply [feel](mind-feelings.md) vaguely uneasy. Even when we use [statistics](math.md) or behave to force an ultimatum, we're only making our feelings more [certain](understanding-certainty.md) with fact-based possibilities.
+We usually have a [fear](mind-feelings-fear.md) of something specific, but it's rarely [rational](logic.md) or [likely](math.md) (especially with [past trauma](hardship-ptsd.md)), so we'll simply [feel](mind-feelings.md) vaguely uneasy. Even when we use [statistics](math.md) or behave to force an ultimatum, we're only making our feelings more [certain](mind-understanding-certainty.md) with fact-based possibilities.
 
 The entire point of *any* security/safety system is from vague [trust](mind-trust.md) issues against possible risks:
 
@@ -71,4 +71,4 @@ One specific example of this phenomenon comes through safety equipment. Designer
 - Adding plastic padding and protective shells to sports equipment (as opposed to leather-based gear) has made those sports *much* more dangerous (e.g., boxing, American football) through the participants using the additional shielding as an offensive opportunity.
 - Increasing the reliability and stopping power of body armor has created increasingly dangerous hollow point bullets that go through them, making modern warfare dramatically more lethal than it has ever been before.
 
-The answer is to foster an [attitude](understanding.md) of safety in the users, but that would require training more [maturity](maturity.md) into people, so [it won't happen](https://theologos.site/unnatural-law/).
+The answer is to foster an [attitude](mind-understanding.md) of safety in the users, but that would require training more [maturity](maturity.md) into people, so [it won't happen](https://theologos.site/unnatural-law/).

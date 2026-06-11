@@ -193,7 +193,7 @@ Psychological needs relate to how we see ourselves in the world:
 - The need to [attempt risks](unknown.md), [have fun](fun.md), and [learn](mind-memory.md)
 - The need to [emotionally release](mind-feelings.md) through crying, venting, or [creating](mind-creativity.md)
 - The need to see [evidence of growth or improvement](results.md)
-- The need for to [be certain about something](understanding-certainty.md)
+- The need for to [be certain about something](mind-understanding-certainty.md)
 - The need for [something to work toward](meaning.md) or [be a part of](groups-small.md), as well as [evidence of success](success-1_why.md)
 - The need to help other people do the same, often via [parenting](parenting-babies.md) or [management](mgmt-1_why.md)
 
@@ -218,7 +218,7 @@ Unmet needs will eventually ferment into an existential crisis:
 - Personal [choice](mind-decisions.md) will feel severely limited.
 - We begin overemphasizing [death and mortality](hardship-death.md).
 - We become aware that we can't reliably plan major life decisions.
-- Further, once we realize we can't anticipate *anything*, we'll develop an anxiety and terror from that [uncertainty](understanding-certainty.md).
+- Further, once we realize we can't anticipate *anything*, we'll develop an anxiety and terror from that [uncertainty](mind-understanding-certainty.md).
 
 ### Misery Source #2: Unchangeable Stressors
 

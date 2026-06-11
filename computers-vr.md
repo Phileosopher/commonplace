@@ -79,7 +79,7 @@ AR uses several approaches to track reality:
 
 One of the most common uses of VR is "virtual try-ON" (VTON), which allows someone to test how a product will look before purchasing it.
 
-One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](mind-imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-health.md) and [education](education.md).
+One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](mind-understanding.md) with the technology can effectively [imagine](mind-imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-health.md) and [education](education.md).
 
 VR also can serve as an effective [exercise aide](body-exercise.md), especially for people who otherwise would *not* exercise.
 
@@ -96,7 +96,7 @@ Firstly, the hardware has issues:
 
 The software is often poorly designed as well:
 
-- Most VR designers have competing ideas on how to approach the concept, and each variation of the product requires a new [learning curve](understanding.md) to adapt to it.
+- Most VR designers have competing ideas on how to approach the concept, and each variation of the product requires a new [learning curve](mind-understanding.md) to adapt to it.
 - Since they're frequently accompanied by new input devices as well, most of them haven't adopted decent-quality [UX](engineering-design.md) for navigation.
 - Many of them don't have critical features like built-in focus-adjustment or the means to use a [keyboard](computers-keyboard.md) and [mouse](computers-mouse.md).
 - Most of the software is *not* backwards-compatible with a [conventional screen](engineering-screen.md), which can severely limit the user's options if they wish to display something.

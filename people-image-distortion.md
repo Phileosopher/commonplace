@@ -12,21 +12,21 @@ Almost everything in this list works to serve a few main themes:
 
 Experts at distorting appearances are frequently good at [predicting](mind-imagination.md) what will happen, and regularly do it prematurely before adverse consequences happen.
 
-## [Mental](understanding.md)
+## [Mental](mind-understanding.md)
 
 Beliefs
 
-- Solidify [belief](understanding-certainty.md) via [hypnosis](habits.md) about something that can't be confirmed in [reality](reality.md).
-- [Emotionally](mind-feelings.md) distance [beliefs](understanding-certainty.md) into "boxes" to [perform](results.md) despite disbelieving something, often with the [language](language.md)/[conversation](people-conversation.md) distortion methods below.
-- Respond to questions, and create a basis of [understanding](understanding.md), with an oversimplified answer that [feels](mind-feelings.md) like it's more true out of its simplicity.
+- Solidify [belief](mind-understanding-certainty.md) via [hypnosis](habits.md) about something that can't be confirmed in [reality](reality.md).
+- [Emotionally](mind-feelings.md) distance [beliefs](mind-understanding-certainty.md) into "boxes" to [perform](results.md) despite disbelieving something, often with the [language](language.md)/[conversation](people-conversation.md) distortion methods below.
+- Respond to questions, and create a basis of [understanding](mind-understanding.md), with an oversimplified answer that [feels](mind-feelings.md) like it's more true out of its simplicity.
 
 [Logic](logic.md)
 
 - Invalidate premises to reposition or open up the possibilities for reasoning.
 - Add new premises that change the [story](stories-why.md), typically intensifying it.
 - Provide unusual or irrational conclusions that [imply](mind-feelings.md) new premises that don't exist.
-- Justify the moral basis of something by [trusting](understanding-certainty.md) that a [decision](mind-decisions.md) is inherently [good](morality.md) from what it [might](mind-trust.md) [cause](results.md).
-- Make someone doubt and question [understanding](understanding.md), [perceptions](people-image-why.md), and [reasoning](logic.md) they [know](understanding-certainty.md) to be [true](reality.md) ("gaslighting").
+- Justify the moral basis of something by [trusting](mind-understanding-certainty.md) that a [decision](mind-decisions.md) is inherently [good](morality.md) from what it [might](mind-trust.md) [cause](results.md).
+- Make someone doubt and question [understanding](mind-understanding.md), [perceptions](people-image-why.md), and [reasoning](logic.md) they [know](mind-understanding-certainty.md) to be [true](reality.md) ("gaslighting").
 - Justify the basis of something by virtue of someone's [authority](jobs-specialization.md).
 - Express a secondary motive as the primary [purpose](purpose.md).
 
@@ -34,7 +34,7 @@ Beliefs
 
 Word choice: replacement
 
-- [Specialized](jobs-specialization.md) and trade-specific jargon that sounds more [educated](understanding.md), signals [group membership](groups-member.md), or hides how things [feel](mind-feelings.md).
+- [Specialized](jobs-specialization.md) and trade-specific jargon that sounds more [educated](mind-understanding.md), signals [group membership](groups-member.md), or hides how things [feel](mind-feelings.md).
 - A word that [feels](mind-feelings.md) stronger indicates more [power](power.md) or provokes more [fear](mind-feelings-fear.md) (e.g., "weapon of war" instead of "gun").
 - A word that [feels](mind-feelings.md) weaker indicates less [power](power.md) and often implies [victimhood](hardship-ptsd.md).
 - Words can be swapped to build associations to other words (e.g., "attacked" versus "defended").
@@ -123,7 +123,7 @@ Topic
 Implying about self
 
 - Speak vaguely or avoid saying certain things to evoke others [imagining](mind-imagination.md) sophistication, [power](power.md), or [expertise](jobs-specialization.md).
-- Repeat [virtues](morality.md) others [may](understanding.md) believe ("virtue signaling") to indicate loyalty.
+- Repeat [virtues](morality.md) others [may](mind-understanding.md) believe ("virtue signaling") to indicate loyalty.
 - Feign ignorance to elicit pity or catch a botched restatement.
 - Feign repentance to mend broken [trust](mind-trust.md).
 - Make a [creation](creations.md) appear rushed or improvised when it was well-rehearsed, staged, or meticulously craft, which will inspire the audience to give more grace to it.
@@ -178,15 +178,15 @@ First impressions
 
 Tone of voice/context
 
-- Express more [confidence](understanding-certainty.md) than what they think to [convince](power-influence.md) others of [power](power.md) or [certainty](understanding-certainty.md).
-- Express less [confidence](understanding-certainty.md) than what they think to appear more open-minded.
+- Express more [confidence](mind-understanding-certainty.md) than what they think to [convince](power-influence.md) others of [power](power.md) or [certainty](mind-understanding-certainty.md).
+- Express less [confidence](mind-understanding-certainty.md) than what they think to appear more open-minded.
 - Speak condescendingly or rudely to imply that the person doesn't matter by comparison to them.
 - Laugh or eat to express oral dominance.
 
 Redirection
 
 - Call another group by a label that only fits a few [outliers](people-trends.md) of the group.
-- Call an entire group [evil](morality-evil.md) instead of merely their [beliefs](understanding-certainty.md) or a few specific people in that group.
+- Call an entire group [evil](morality-evil.md) instead of merely their [beliefs](mind-understanding-certainty.md) or a few specific people in that group.
 - Use existing [reputation](people-image-why.md) to hide laziness or incompetence.
 - Imply that their thing is the new [trend](people-trends.md), which makes others [imagine](mind-imagination.md) they'll miss out on it.
 - Imply there are only a few possible [options](mind-decisions.md), even when there are more.
@@ -216,7 +216,7 @@ Blame
 
 - Blame a [smaller outside group](groups-small.md) to make them appear incompetent.
 - Blame a low-ranking [member](groups-member.md), then eject them from the group as publicly as possible.
-- Blame the predecessor of the organization, *especially* if they had any differences of [opinion](understanding-certainty.md).
+- Blame the predecessor of the organization, *especially* if they had any differences of [opinion](mind-understanding-certainty.md).
 
 Inter-organization
 

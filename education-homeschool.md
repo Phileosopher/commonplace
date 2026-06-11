@@ -25,7 +25,7 @@ Homeschooling children is *not* necessarily better or worse.
 - With respect to school supplies, children don't need much.
   - Most of the so-called "necessary" supplies [advertising](marketing.md) to foster a [consumer mindset](money-2_debt.md).
 
-If you [thoroughly understand](understanding.md) what you learned in high school, are a [decent-enough parent](parenting-children.md), and sufficiently committed to raising them [with someone else](relationships-marriage.md), educating your child isn't difficult.
+If you [thoroughly understand](mind-understanding.md) what you learned in high school, are a [decent-enough parent](parenting-children.md), and sufficiently committed to raising them [with someone else](relationships-marriage.md), educating your child isn't difficult.
 
 - Public school education systems often use [dark patterns](engineering-design.md) to imply elementary education is far more complicated than you're [specialized](jobs-specialization.md) to perform.
 
@@ -41,7 +41,7 @@ Government-provided education is a substantial *quantity* of time, so aim for *q
 - Generally, if they keep developing their intellectual strengths, they'll come back around to positively influencing their weaknesses:
   - An analytical child who hates history but loves math may find value in dates' chronological sequence.
   - Artistic children tend to love reading sensational stories more than history, so they may enjoy history once they see dramatizations of it.
-- Since they simply need to [understand](understanding.md) the information or methods directly, don't worry about completing a specific curriculum if another teaching method works better for how they're [learning](education.md).
+- Since they simply need to [understand](mind-understanding.md) the information or methods directly, don't worry about completing a specific curriculum if another teaching method works better for how they're [learning](education.md).
 - Further, [government-required requirements](education-requirements.md) are relatively easy to attain for most parents, at *least* through most of elementary school.
 
 There's really no homeschool "culture".
@@ -74,12 +74,12 @@ A. The child *must* agree to homeschooling and promise to be serious about it.
 B. Homeschooled children do *not* need as much time learning as formalized education.
 
 - Generally, 30 minutes of hard, formalized education a day (preferably in the morning) is enough to cover the basic educational requirements for their current grade, with the rest of the day as reinforcement of the idea.
-- Children [learn](understanding.md) at different rates, and homeschool allows a tailored experience relative to each child's [personality](people-personality.md).
+- Children [learn](mind-understanding.md) at different rates, and homeschool allows a tailored experience relative to each child's [personality](people-personality.md).
 - Give them freedom to explore and play on their own, *without* structure.
 
 C. Don't over-test or over-drill them.
 
-- [Understanding](understanding.md) transitions through gradations, and needs some cooling-off to prevent burnout.
+- [Understanding](mind-understanding.md) transitions through gradations, and needs some cooling-off to prevent burnout.
   - Sometimes, it may work best to work on one subject a day or week, instead of a little of each subject every day.
 - We don't measure *adults* who [specialize](jobs-specialization.md) in one role by their weakest roles, so we shouldn't do that to our children.
 

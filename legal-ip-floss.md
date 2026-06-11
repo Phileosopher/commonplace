@@ -103,7 +103,7 @@ If the developer's work was relatively easy, but depends on *other* work, then t
 - Open-source-supporting [not-for-profit organizations](mgmt-npo.md) provide grants to keep the developers paid (e.g., [Free Software Foundation](https://www.fsf.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Linux Foundation](https://www.linuxfoundation.org/), [NLnet](https://nlnet.nl/)).
 - Corporations who benefit from the product contribute, often *through* the above-stated NPOs to make it [tax-deductible](money-accounting.md).
 
-When [larger companies](mgmt-5_communication-cs.md) use open-source from an outside developer, they *must* be aware of the risks, and it's their responsibility to take action:
+When [larger companies](mgmt-5_communication.md) use open-source from an outside developer, they *must* be aware of the risks, and it's their responsibility to take action:
 
 - They're consenting to a weak [implicit contract](people-contracts.md), with little to no promises on either side.
 - They are adopting a copy of the software as-is, which may mean they're potentially trusting the [security](computers-cysec.md) and [reliability](computers-cysec-compliance.md) of their company's infrastructure to an overworked parent or college student.

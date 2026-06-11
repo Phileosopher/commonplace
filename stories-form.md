@@ -5,7 +5,7 @@ Every story has a main character (protagonist), who always experiences an [inner
 
 The emphasized [values](values.md) and message will be on about the scope of that sacrifice. The sacrifice will be the catalyst for the character to [change](people-changes.md) and may be caused by the character [anticipating](mind-imagination.md), [performing](mind-decisions.md), or [experiencing consequences](results.md).
 
-The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](people-culture.md) of the creator is critically important.
+The [creative](mind-creativity.md) [quality](values-quality.md) of the character and their experiences is *directly* proportional to the quality of the creator's [ability](mind-understanding.md) to [communicate](language.md) their experiences. Naturally, that person would need [worthwhile experiences](maturity.md) worth communicating in the first place, which is why the [culture](people-culture.md) of the creator is critically important.
 
 Across the duration of *any* story, it contains 7-8 "[movements](people-changes.md)" that alter the flow or [feeling](mind-feelings.md) of the story. The story itself is a consequence, not just of a setting, of the main character (who is defined as a Hero). The main character is always facing [the unknown](unknown.md) through a ridiculously predictable set of circumstances:
 
@@ -35,7 +35,7 @@ In retelling, the timeline of a story will move at several relative speeds:
 
 The beginning of the story starts with a "normal" environment. The main character is in a zone they feel [safe](safety.md) in, which often includes a comfortable setting and [culturally](people-culture.md) typical [family](people-family.md). However, they want something they can't get in that zone. In nonfiction facts (e.g., [self-help guides](https://adequate.life/habits/), [philosophy](philosophy.md), [science](science.md)), the main character is typically the author or the reader.
 
-At times, the starting point is in the middle of a [conflict](people-conflicts-why.md). Other times, it's *extremely* long documentation of the environment. But, it's always a starting point the audience has some [familiarity](understanding.md) with.
+At times, the starting point is in the middle of a [conflict](people-conflicts-why.md). Other times, it's *extremely* long documentation of the environment. But, it's always a starting point the audience has some [familiarity](mind-understanding.md) with.
 
 Often, the main character has [companion characters](people-friends-why.md) who share in their [safety](safety.md). Sometimes, at least one of their friends won't be *entirely* in the safe zone.
 
@@ -61,7 +61,7 @@ Complex stories (which draw in audiences more) involve the main character severe
 
 ## Middle (rising action)
 
-The structure of the middle of stories varies wildly. Many events happen, usually as a barrage of changes. Frequent enough changes will force the audience to rely strictly on [feelings](mind-feelings.md) to follow the story since they won't be able to [keep track](people-image-why.md) of them all or [understand](understanding.md) their implications, though the audience's [logic](logic.md) will eventually catch up in [retrospect](mind-memory.md).
+The structure of the middle of stories varies wildly. Many events happen, usually as a barrage of changes. Frequent enough changes will force the audience to rely strictly on [feelings](mind-feelings.md) to follow the story since they won't be able to [keep track](people-image-why.md) of them all or [understand](mind-understanding.md) their implications, though the audience's [logic](logic.md) will eventually catch up in [retrospect](mind-memory.md).
 
 The first change will come from a threshold guardian. They will have to change to push past the limits that kept them in the safety of their zone. The threshold guardian could be *anything*:
 
@@ -70,9 +70,9 @@ The first change will come from a threshold guardian. They will have to change t
 - The safe zone falling apart entirely
 - The main character discovering the safe zone isn't actually safe
 
-Usually, the main character will interact with a mentor who gives [wisdom](understanding.md) about what to do, a bit like a [parental proxy](people-family.md). However, the mentor can also be [a creative work](creations.md) that [communicates or implies](language.md) the idea.
+Usually, the main character will interact with a mentor who gives [wisdom](mind-understanding.md) about what to do, a bit like a [parental proxy](people-family.md). However, the mentor can also be [a creative work](creations.md) that [communicates or implies](language.md) the idea.
 
-There will also often be an antagonist the main character is [opposed to](mind-imagination.md). The antagonist will [believe](understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
+There will also often be an antagonist the main character is [opposed to](mind-imagination.md). The antagonist will [believe](mind-understanding-certainty.md) their opposing cause about as much as the hero, and often more. To drive the point home, they'll often be [evil](morality-evil.md) in other ways beyond the scope of necessity.
 
 Great stories require the challenges for the character to be difficult, and tend to use [changes](people-changes.md) which directly [confront](people-conflicts-inner.md) the main character's [fears](mind-feelings-fear.md).
 
@@ -82,7 +82,7 @@ In stories larger than a few minutes, the middle of the story takes up most of t
 
 Somewhere in the middle, the main character will have to make a choice. They will always make a heavy sacrifice of something, often despite their [fears](mind-feelings-fear.md). It'll be something they [value](power.md) and must give up to get something else, often what they were missing in the beginning.
 
-In a story longer than a few minutes, the character has a period beforehand where they're [willing](purpose.md) or [conflicted](people-conflicts-inner.md), but not [acting](results.md) yet (turning point). The storyteller will usually capitalize on their [fears](mind-feelings-fear.md) and [hopes](understanding-certainty.md), usually in a relatively quieter setting compared to the rest of the story's middle.
+In a story longer than a few minutes, the character has a period beforehand where they're [willing](purpose.md) or [conflicted](people-conflicts-inner.md), but not [acting](results.md) yet (turning point). The storyteller will usually capitalize on their [fears](mind-feelings-fear.md) and [hopes](mind-understanding-certainty.md), usually in a relatively quieter setting compared to the rest of the story's middle.
 
 Even when the results are predictable, the story *must* [surprise](unknown.md) the audience. Otherwise, people will find it boring.
 
@@ -90,18 +90,18 @@ At the turning point, the character is crossing a threshold into a new thing, of
 
 - [Trauma](hardship-ptsd.md) they must [fight](people-conflicts-inner.md) against
 - Bad and incorrect [ideas](values.md) they had believed
-- Limits to their [understanding](understanding.md) they hadn't realized
+- Limits to their [understanding](mind-understanding.md) they hadn't realized
 - Difficult [moral decisions](morality.md) they must perform or reconcile
 
-The style of the story heavily defines what the main character's transition sits on. The audience's [gender](people-gender.md), [age range](maturity.md), [intelligence](understanding.md), [sense of humor](humor.md), and [moral beliefs](morality.md) all play a part into the [ideals](values.md) worth communicating. Generally, sophisticated stories are far more subtle. Longer stories have more turning points.
+The style of the story heavily defines what the main character's transition sits on. The audience's [gender](people-gender.md), [age range](maturity.md), [intelligence](mind-understanding.md), [sense of humor](humor.md), and [moral beliefs](morality.md) all play a part into the [ideals](values.md) worth communicating. Generally, sophisticated stories are far more subtle. Longer stories have more turning points.
 
 ## End (conclusion/synthesis)
 
 The end of the story converges the beginning and middle of the story. The main character is now clearly [motivated](purpose.md) to act, and the audience is observing the [results](results.md) of that action on the story's assembled world.
 
-The end will represent a final conflict (climax), with everything the main character had done, including their new [skills](understanding.md) and [friendships](people-friends-why.md), helping to [achieve](results.md) their [purpose](purpose.md).
+The end will represent a final conflict (climax), with everything the main character had done, including their new [skills](mind-understanding.md) and [friendships](people-friends-why.md), helping to [achieve](results.md) their [purpose](purpose.md).
 
-The final conflict will often [symbolize](symbols.md) the main character's first encounter to highlight how the character [transformed](people-changes.md). But this time, the character will act with more [certainty](understanding-certainty.md) and [understanding](understanding.md) than they ever had before. No matter what, they will somehow find [meaning](meaning.md) or [closure](understanding-certainty.md) in their new action.
+The final conflict will often [symbolize](symbols.md) the main character's first encounter to highlight how the character [transformed](people-changes.md). But this time, the character will act with more [certainty](mind-understanding-certainty.md) and [understanding](mind-understanding.md) than they ever had before. No matter what, they will somehow find [meaning](meaning.md) or [closure](mind-understanding-certainty.md) in their new action.
 
 At the conclusion, most of the information disappears except for whatever was [meaningful](meaning.md) for the main story's events. This is a subconscious release of the excess information ("catharsis"/"closure").
 
@@ -123,11 +123,11 @@ There's always a message at the end of the story. The [mood](mind-feelings.md) o
 
 APPLICATION: If you're [working on a task](success-4_routine.md), do *not* stop. If you stop, that's the end of the experience, and the task will [feel](mind-feelings.md) longer by the time you're *actually* done.
 
-When done correctly, the end is the conclusion of a larger story, with a final [image](people-image-why.md) that leaves the audience with a personal [decision](mind-decisions.md) for themselves. They can accept an expanded [understanding](understanding.md) (according to the creator) of what constitutes [the good life](people-goodlife.md) or reject that [perspective](people-image-why.md) outright.
+When done correctly, the end is the conclusion of a larger story, with a final [image](people-image-why.md) that leaves the audience with a personal [decision](mind-decisions.md) for themselves. They can accept an expanded [understanding](mind-understanding.md) (according to the creator) of what constitutes [the good life](people-goodlife.md) or reject that [perspective](people-image-why.md) outright.
 
 APPLICATION: To live a [good life](people-goodlife.md), we must experience great stories, which means we must routinely veer into extremes.
 
-To make a good story, the conclusion must inspire a strong [feeling](mind-feelings.md) (usually [love](people-love.md) but sometimes [fear](mind-feelings-fear.md)) that provokes [action](results.md) in the audience. The only way to accomplish this is through giving an ending they want (to clarify [purpose](purpose.md) to them), but in a way they don't expect (to provoke [trust](understanding-certainty.md) in the [unknown](unknown.md)).
+To make a good story, the conclusion must inspire a strong [feeling](mind-feelings.md) (usually [love](people-love.md) but sometimes [fear](mind-feelings-fear.md)) that provokes [action](results.md) in the audience. The only way to accomplish this is through giving an ending they want (to clarify [purpose](purpose.md) to them), but in a way they don't expect (to provoke [trust](mind-understanding-certainty.md) in the [unknown](unknown.md)).
 
 APPLICATION: People would rather have the experience of climbing social classes from lower to middle than drop from upper to middle, even if the second would be a more pleasant experience.
 

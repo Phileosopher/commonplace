@@ -116,7 +116,7 @@ There are multiple forms of unreliable narrator:
    - Murderbot (Murderbot Diaries): describes details, but without feelings of any sort.
 2. Attempting truth, but adding incorrect information
    - This requires a delicate touch of distortion, since you have to step a few paces away from the truth.
-     - It also requires enough comfort with [uncertainty](understanding-certainty.md) that you can project the discomfort through the narrator's inadequacy to know.
+     - It also requires enough comfort with [uncertainty](mind-understanding-certainty.md) that you can project the discomfort through the narrator's inadequacy to know.
      - Lemony Snicket (A Series of Unfortunate Events): not present for the event, reconstructs the facts on later research that may be wrong or incomplete
 3. Subconsciously misunderstanding the truth
    - The distortion has to be present, but always toward the narrator's singular [purpose](purpose.md) of coping with the facts.

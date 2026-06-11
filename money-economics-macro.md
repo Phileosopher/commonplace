@@ -228,9 +228,9 @@ Endless distortions and doping to an economy start doing strange things to it.
 
 ## Market corrections
 
-Most economists argue incessantly about the degree that markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this opinion distills to how economists believe people make [decisions](mind-decisions.md) and how easily [power](power.md) can shift.
+Most economists argue incessantly about the degree that markets correct themselves ("the invisible hand"). Since markets are so vastly complicated, it's currently impossible to [understand](mind-understanding.md) them entirely. This means the general spectrum of opinion on the ideal way to approach markets ranges from complete "centralized planning" to completely permitting "emergent order". Most of this opinion distills to how economists believe people make [decisions](mind-decisions.md) and how easily [power](power.md) can shift.
 
-Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
+Centralized planning (aka "redistributionists") is when people are given [control](power.md) of various aspects of society. The prevailing [belief](mind-understanding-certainty.md) is that [experts](jobs-specialization.md) should manage everything. However, most real-life central planners are politicians and bureaucrats.
 
 Emergent order (aka "growthist" or "supply side economics") is when each person is given freedom to manage themselves. The prevailing belief is that self-interested individuals will [pursue](purpose.md) their self-interest if they're given freedom to benefit from it. From the outside, emergent order appears as a chaotic swarm of unrelated individuals doing unrelated things. But it's an organized type of chaos that somehow works, even though it's difficult to [measure](math.md).
 

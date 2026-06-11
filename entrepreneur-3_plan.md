@@ -4,7 +4,7 @@
 A business plan is designed to clarify every part of a business.
 
 - Most startups fail, and startups which succeed are rarely the first attempt.
-- By crafting a formalized business plan, you're forced to find [certainty](understanding-certainty.md) on how you'll perform business activities, even if you'll never need investors to review it.
+- By crafting a formalized business plan, you're forced to find [certainty](mind-understanding-certainty.md) on how you'll perform business activities, even if you'll never need investors to review it.
 
 Further, at some point, you'll need to [convince others](power-influence.md) to give you money, and a business plan helps prove that to others.
 
@@ -15,7 +15,7 @@ If you *are* seeking [funding](entrepreneur-6_scaling.md), you're answering ques
 
 1. Is the business idea sound and reasonable?
 2. Is this business idea timed correctly?
-   - If it's too early, nobody will [understand](understanding.md) it or [connect](power-influence.md) with it.
+   - If it's too early, nobody will [understand](mind-understanding.md) it or [connect](power-influence.md) with it.
    - If it's too late, the market will have too many competitors.
 3. Do you have sufficient [talent](creations.md), [devotion](purpose.md), and skill to act on the business idea?
 4. Is the business model structured correctly to keep running indefinitely?
@@ -172,7 +172,7 @@ You're trying to tailor your product to your customer, so consider how the produ
 Make a standardized [script](language-speaking.md) for contacting leads.
 
 - Use the Golden Circle to communicate the concept:
-  1. WHY you do and [believe](understanding.md)
+  1. WHY you do and [believe](mind-understanding.md)
   2. HOW you do it
   3. WHAT product you make
 - Keep refining the speech until you have a few versions:

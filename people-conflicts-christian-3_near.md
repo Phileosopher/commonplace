@@ -23,7 +23,7 @@ To Christians, a heresy is a belief that deviates from a dominant Christian [the
 
 Within reason, someone can still believe heresies and have a [relationship with Jesus](people-identity.md).
 
-- Their salvation is certainly crippled, but can still exist as long as they [understand](understanding.md) and believe [the basics of the Gospel](https://theologos.site/gospel/).
+- Their salvation is certainly crippled, but can still exist as long as they [understand](mind-understanding.md) and believe [the basics of the Gospel](https://theologos.site/gospel/).
 - Cults, however, can easily arise in the absence of the solid theological foundation of good Christian doctrine.
 - Sometimes heresies are completely unintentional, and generations of mindless ritual can often create [institutional misunderstanding](mgmt-badsystems.md).
 - As long as the [leadership](mgmt-church.md) of that group still defers their authority to Christ and what is true, that group is never at risk of becoming a cult.
@@ -87,9 +87,9 @@ Philosophical vagueness about aspects of Christianity:
 
 - [The Gospel](https://theologos.site/gospel/) is a simple concept, designed to be absurdly simple to understand.
   - God Himself has many mysteries, but He's also *very* accessible ([James 1:5](https://biblehub.com/james/1-5.htm)).
-- Smart people are often foolish with their intellect and tend to clutter up doctrinal matters that would otherwise be easily [understood](understanding.md) ([Romans 1:22](https://biblehub.com/romans/1-22.htm)).
+- Smart people are often foolish with their intellect and tend to clutter up doctrinal matters that would otherwise be easily [understood](mind-understanding.md) ([Romans 1:22](https://biblehub.com/romans/1-22.htm)).
   - *Highly* intelligent people have a tendency to heavily parse [language](language.md) to the point that it's difficult to precisely follow them, and readers or listeners can often get lost.
-  - God literally *[designed](creations.md)* [universals](humanity-universals.md) in nature for us to [presume](mind-trust.md), but some smart people have major [trust issues](understanding-certainty.md).
+  - God literally *[designed](creations.md)* [universals](humanity-universals.md) in nature for us to [presume](mind-trust.md), but some smart people have major [trust issues](mind-understanding-certainty.md).
 - Some people will define words like "God" and "eternal" in strange ways that create tremendous [uncertainty](unknown.md).
   - Most [post-modern philosophy](philosophy.md), including pseudo-Christian works like Kierkegaard, fall into this domain.
 

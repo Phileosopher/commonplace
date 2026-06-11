@@ -47,7 +47,7 @@ People can often use projection, transference, and poor self-management skills t
 - Many people project their poor self-management onto others:
   - Blame is often from poor anger management skills.
   - Anxiety is frequently from not being able to see the big picture.
-  - Doubt and prejudice is often from a lack of [understanding](understanding.md).
+  - Doubt and prejudice is often from a lack of [understanding](mind-understanding.md).
 - Plus, all the above behaviors are usually caused by things they are *[completely unaware about](mind-awareness.md)*.
 - And, in all of this, some people *will* use shame and guilt to [control you](power-types.md).
 
@@ -75,7 +75,7 @@ You're the chaotic accumulation of various experiences and responses:
   - Culture of origin including [habits](habits.md), traditions, and rituals
 - Every experience you've been through, good or bad
 - Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
-  - Further, the things you've [learned](understanding.md) from those experiences.
+  - Further, the things you've [learned](mind-understanding.md) from those experiences.
 - [Habits](habits.md) you've accumulated from all the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
 - Nobody is quite like you, so nobody else matters much for comparison.
 
@@ -135,7 +135,7 @@ Even while you can't control your capacity for pain, you *can* learn some basic 
 - A developed sense of [humor](humor.md), especially about oneself.
 - A well-developed intuition about people.
   - The ability to open up to [friends](people-friends.md) about [feelings](mind-feelings.md).
-  - Able to [understand](understanding.md) others without judgment.
+  - Able to [understand](mind-understanding.md) others without judgment.
   - A good [listener](language-speaking-listening.md).
   - Able and unafraid to ask for help whenever needed.
 - A sober [view of oneself](mind-awareness.md).
@@ -233,7 +233,7 @@ However, we don't need to accept *all* the painful realities at once:
 - We only need to focus on the scope of reality that sits within our direct control.
 - Any further than what we can emotionally withstand will create unbelievable anxiety and distress.
 - Depending on the situation, this may require observing reality second-by-second.
-- This is increasingly difficult in proportion to our [intelligence](people-personality.md) and [understanding](understanding.md).
+- This is increasingly difficult in proportion to our [intelligence](people-personality.md) and [understanding](mind-understanding.md).
 
 The world of possibilities is never reality:
 
@@ -255,7 +255,7 @@ Getting to a place of "perpetual present-ness" requires self-disciplining oursel
 
 - While it's absolutely a worthwhile endeavor to find [God](theology-god.md) in the darkest places of our lives, many people have released control without any religious components.
   - It's worth noting that legitimate spiritual experiences are more likely to happen while under severe hardship, so that's the best time to discover God.
-- If anything keeps floating into your consciousness, [write it out](language-writing.md) plainly and thoroughly to get a [grasp](understanding.md) of what that thing is.
+- If anything keeps floating into your consciousness, [write it out](language-writing.md) plainly and thoroughly to get a [grasp](mind-understanding.md) of what that thing is.
 - Even when things are terrible, you can find [meaning](meaning.md) in suffering through focusing strictly on what you're responsible for.
 
 ## Beyond now, focus on hope
@@ -373,10 +373,10 @@ If you've made a bad decision, learn to forgive yourself:
 - Because you're so afraid of it, the situation will *never* play itself out again.
   - And, even if it did, you'd make a different decision.
   - If you feel uncertain about the situation repeating itself, ask yourself if you're [fully aware](mind-awareness.md) of who you are.
-- Your [trauma](hardship-ptsd.md) is no longer useful for anything besides [learning from it](understanding.md), so [let it go](hardship-ptsd-release.md), even if others won't.
+- Your [trauma](hardship-ptsd.md) is no longer useful for anything besides [learning from it](mind-understanding.md), so [let it go](hardship-ptsd-release.md), even if others won't.
 
 Once you've recovered, you will be more resilient and durable than you would have been before if you accept that it happened and move on:
 
 - You've survived something, so consider yourself stronger because it hasn't killed you.
-- If you look carefully, severe hardship can open many doors elsewhere through your expanded [experience](understanding.md).
+- If you look carefully, severe hardship can open many doors elsewhere through your expanded [experience](mind-understanding.md).
 - We learn through internalizing the lessons from our [memories](mind-memory.md), so keep growing and keep moving forward with the knowledge that you're stronger for what has happened to you.

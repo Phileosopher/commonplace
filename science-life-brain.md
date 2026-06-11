@@ -1,7 +1,7 @@
 
 # Brain science (neurology) summarized
 
-The brain is a unique organ compared to all other organs because it heavily connects with the way we are capable of [understanding](understanding.md).
+The brain is a unique organ compared to all other organs because it heavily connects with the way we are capable of [understanding](mind-understanding.md).
 
 - Further, our capacity for [decision-making](mind-decisions.md) exists within the brain.
 - While it's a stretch to say that the brain is synonymous for the soul, it has quite a bit of power over the soul (especially in how it shapes and reinforces [habits](habits.md)).

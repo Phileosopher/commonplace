@@ -5,7 +5,7 @@ True journalism is rare, and most people who go to journalism school are taught 
 
 - However, the discipline of journalism is the art of [storytelling](stories-storytellers.md), but directed at conveying stories that are both informative and interesting.
 
-Without good journalism, the endless facts will interfere with the audience's easy [understanding](understanding.md) of a [story](stories-why.md).
+Without good journalism, the endless facts will interfere with the audience's easy [understanding](mind-understanding.md) of a [story](stories-why.md).
 
 ## Starting with facts
 

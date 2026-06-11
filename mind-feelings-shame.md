@@ -3,7 +3,7 @@
 
 Regret is [not forgiving](hardship-forgiveness.md) ourselves over past decisions.
 
-The only [use](results.md) for regret is when we have [not learned](understanding.md) from the [decision](mind-decisions.md) we had made.
+The only [use](results.md) for regret is when we have [not learned](mind-understanding.md) from the [decision](mind-decisions.md) we had made.
 
 - It's effectively useless when we did [the right thing](morality.md) at the time with the information we had available.
 

@@ -40,7 +40,7 @@ Our [religious tendencies](religion.md) mean we tend to draw behind the [image](
 Management reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-friends.md):
 
 - [Aptitude](success-1_why.md) (or at least competence) in the group's specialization.
-- Behavior that appears [decisive](understanding-certainty.md).
+- Behavior that appears [decisive](mind-understanding-certainty.md).
 - Distant enough with subordinates to stay relatively [unbiased](mind-bias.md), but close enough to provide [emotional](mind-feelings.md)/[moral](morality.md) support.
 
 And generally, people tend to select their leaders from among the people who talk the most in a group.
@@ -177,9 +177,9 @@ The stereotype of bad managers distill to a few key details:
 - Not particularly competent as an individual or in [certain domains](jobs-specialization.md), but no [self-awareness](mind-awareness.md) of that fact.
 - Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which make their expectations from others at least somewhat hypocritical.
 - Either poor [interpersonal](people-boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
-- Poorly [understood](understanding.md) or poorly articulated [vision](mind-imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
+- Poorly [understood](mind-understanding.md) or poorly articulated [vision](mind-imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
 - Unwilling to hear [constructive input](people-conflicts-why.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
-- Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged (a particular problem of [Cluster B diagnosis](mind-neurodivergence-clusterb.md)).
+- Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](mind-understanding.md) and acknowledged (a particular problem of [Cluster B diagnosis](mind-neurodivergence-clusterb.md)).
 - Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some [credit](people-image-why.md) (a particular problem of [narcissism](mind-neurodivergence-clusterb-narcissist.md)).
 - Obsessed about goals or the group's well-being without concern for individuals in the group.
 
@@ -212,8 +212,8 @@ Watch for key phrases and behaviors that show non-leader managers (NLMs):
 
 When nobody leads by asking questions that provoke change, NLM [culture](people-culture.md) will naturally build into a predictable, unique, [silly](https://www.youtube.com/watch?v=GyV_UG60dD4) pattern of manager behavior:
 
-- Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](people-contracts.md) or expressing [certainty](understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
-- Dense and meaningless jargon, which shows both a lack of [understanding](understanding.md) and unwillingness to own that lack of understanding.
+- Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](people-contracts.md) or expressing [certainty](mind-understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
+- Dense and meaningless jargon, which shows both a lack of [understanding](mind-understanding.md) and unwillingness to own that lack of understanding.
 - Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](results.md) within those projects.
 - Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals.md) when they may be held accountable on it.
 - Often dismally [unaware](mind-awareness.md) of how everyone else [sees them](people-image-why.md).
@@ -247,7 +247,7 @@ The manager's skills will need to be appropriate to the team's purposes:
 - Skill at [influencing others](power-influence.md) to their perspective.
 - [Curates their image](people-image-distortion.md) and [crafts stories](stories-why.md) to appear at least a little better than [reality](reality.md).
 - Adapts to change and inspires others to it as well.
-- Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](results.md) to take.
+- Able to calmly [analyze](logic.md) the situation enough to [understand](mind-understanding.md) the [wisest path](results.md) to take.
 - Appearing fearless in the face of hardship.
 - Makes [rules](people-rules.md).
 - Follows rules.

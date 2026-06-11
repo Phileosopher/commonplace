@@ -35,7 +35,7 @@ Any person, however, only becomes a victim of undue influence when several simul
 
 1. They trust a person with [influencing skills](influence.md) as an authority figure farther than that person's legitimate authority.
 2. That authority figure has a [story](stories-why.md) that doesn't reflect or accommodate [reality](reality.md).
-3. That person decides to trust the authority figure's [story](stories-why.md) over their [understanding](understanding.md).
+3. That person decides to trust the authority figure's [story](stories-why.md) over their [understanding](mind-understanding.md).
 
 APPLICATION: People aren't merely "brainwashed" into a cult. They had to have been trained towards high suggestibility beforehand. This would be [taboo](morality-taboo.md) to confront, but the parents of cult members are at least partly to blame for their membership and actions.
 
@@ -79,7 +79,7 @@ Only a specific group of [personalities](people-personality.md) will *ever* [cho
 - Openness to Experience
   - Low-enough Openness to simply [trust](mind-trust.md) someone else for information.
   - High-enough Openness to adopt new [trends](people-trends.md) foreign to their lifestyle.
-  - Low-enough Intelligence to not ask questions that would make the leadership demonstrate they *don't* [understand](understanding.md) everything.
+  - Low-enough Intelligence to not ask questions that would make the leadership demonstrate they *don't* [understand](mind-understanding.md) everything.
 - Conscientiousness doesn't really matter, though the cult will need to be *much* more consistent and complex with their rules proportional to that person's conscientiousness.
 - Extraversion doesn't matter much, though introverts may be more susceptible from less social feedback from outside sources.
 - Agreeableness
@@ -99,7 +99,7 @@ Usually, joining a cult requires a large personal sacrifice.
 
 - This sacrifice ensures the member has found [meaning](meaning.md) regading the group, since their efforts will validate that the sacrifice was worth it.
 - Additional sacrifices compound onto the first sacrifice, meaning they develop *more* of a sense of meaning as they continue to give over everything to the group.
-- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](people-identity.md), [ownership](people-boundaries-why.md), or [agency](mind-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
+- Eventually, they've sacrificed all sense of [self](humanity.md), [identity](people-identity.md), [ownership](people-boundaries-why.md), or [agency](mind-decisions.md), and are so deeply entrenched into their efforts that the slightest [hope](mind-understanding-certainty.md) of any redemption can [keep them going](success-5_persevering.md).
 
 ## Advancing
 
@@ -108,7 +108,7 @@ Incrementally, the members are then introduced to further sacrifices to release 
 1. Behavior control - their [physical reality](reality.md):
    - The collective group ends up owning *all* their individual [creations and results](results.md).
    - This typically starts with [legitimately good habits](https://adequate.life/habits/), then moves to more intimate control methods.
-2. Information control - how they [understand](understanding.md) [reality](reality.md):
+2. Information control - how they [understand](mind-understanding.md) [reality](reality.md):
    - The group will typically give clear answers to more [controversial matters](people-conflicts-why.md), then work inward to otherwise non-negotiable or [taboo](morality-taboo.md) beliefs.
 3. Thought control - how they [think](values.md):
    - Their values will be subtly shifted to conform with the group's shared standards.
@@ -157,14 +157,14 @@ By the end, the person has been transformed into a perfect extension of the lead
 
 **Thought control** is a [philosophical](philosophy.md) redirection that conforms a mind to a predetermined [value system](values.md):
 
-- Members are required to internalize the group's doctrine as [absolute truth](understanding-certainty.md).
+- Members are required to internalize the group's doctrine as [absolute truth](mind-understanding-certainty.md).
   - This doctrine is subject to a black-and-white dichotomy, with no room for exceptions.
   - Only "good" or "proper" thoughts are permitted, which forbids *any* criticism of the leader, doctrine, or policy.
-  - Rejection of [rational analysis, critical thinking](logic.md), and [constructive criticism](understanding.md).
+  - Rejection of [rational analysis, critical thinking](logic.md), and [constructive criticism](mind-understanding.md).
   - Alternative belief systems are illegitimate, evil, or not useful, which may include *other* cults or [reality itself](reality.md).
 - Through repetition, manipulate memories to falsely insert past events that hadn't happened.
 - The member is required to adopt a new [name](language.md) and [identity](people-identity.md).
-- Copious amounts of [jargon and cliché](language.md) statements that obstruct access to [understanding](understanding.md).
+- Copious amounts of [jargon and cliché](language.md) statements that obstruct access to [understanding](mind-understanding.md).
 - [Hypnosis](habits.md) that alters mental states, undermine conscious thought, and can even make members [regress in age](maturity.md):
   - Denial, rationalization, justification, or [wishful](mind-trust.md) thinking
   - Chanting, mantras, and meditation

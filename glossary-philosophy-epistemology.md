@@ -1,7 +1,7 @@
 
 # Epistemology glossary
 
-Epistemology - The branch of philosophy concerned with the nature and scope of [knowledge](understanding.md).
+Epistemology - The branch of philosophy concerned with the nature and scope of [knowledge](mind-understanding.md).
 
 ## What is knowledge?
 
@@ -29,7 +29,7 @@ Externism - Only outside experience is certain, and there's nothing certain insi
 
 Ethnocentrism - People view their environment through their [culture](people-culture.md).
 
-- Methodological relativism - A researcher must suspend their [cultural biases](people-culture.md) to understand other [beliefs](understanding-certainty.md) and [behaviors](results.md).
+- Methodological relativism - A researcher must suspend their [cultural biases](people-culture.md) to understand other [beliefs](mind-understanding-certainty.md) and [behaviors](results.md).
 - Polylogism - People think differently because of the [groups](groups-small.md) they're in.
 
 Innatism - The mind is born with ideas or knowledge, so not all of it comes from experiences. Contrasts against empiricism.

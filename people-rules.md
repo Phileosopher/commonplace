@@ -44,7 +44,7 @@ APPLICATION: Rules never motivate people toward things implicitly, so rules can 
 
 To be [just](morality-justice.md), every rule must have a few qualities:
 
-1. The rule's [boundaries](people-boundaries-why.md) must [make sense](understanding.md) to everyone.
+1. The rule's [boundaries](people-boundaries-why.md) must [make sense](mind-understanding.md) to everyone.
 2. The rule's [consequences](results.md) must reasonably fit the crime and be enforceable.
 3. The [language](language.md) and [enforcement](results.md) of the rule must be resistant to [image distortion](people-image-distortion.md) by [evil people](morality-evil.md).
 4. The rules must not impede the ranges of human behaviors that could be both [ethical](morality.md) and [culturally permissible](people-culture.md).
@@ -91,7 +91,7 @@ Power dynamics become more complicated because *other* groups often have tremend
 - Representatives of other [large groups](groups-large.md) who could use their [power](power.md) (e.g., envoys, lobbyists, senators, CEOs, NGOs, Super PACs).
 - [Large corporations](groups-large.md) who [create](creations.md) the things that people need and [want](purpose.md).
 - Organizations that transfer [risk](safety.md) to alleviate [fears](mind-feelings-fear.md) (e.g., [insurance](money-insurance.md)).
-- The managers overseeing [technology](technology.md), especially the ones that manage [information](understanding.md) and [communications](people-conversation.md).
+- The managers overseeing [technology](technology.md), especially the ones that manage [information](mind-understanding.md) and [communications](people-conversation.md).
 - [Media](creations.md) organizations who [share stories](stories-storytellers.md) (e.g., news outlets, [scientific research](science.md) organizations).
 
 If there is a hierarchy of power, it's almost guaranteed each tier will have their interpretations and nuances that *will* diverge from each other.
@@ -104,7 +104,7 @@ Rules, when properly enforced, are *[supposed](mind-imagination.md)* to [empower
 
 APPLICATION: There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
 
-- All people who ever think immoral thoughts at one point or another are susceptible to [performing it](results.md) if they're given power to [decide](mind-decisions.md). But, there's no way to [know](understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
+- All people who ever think immoral thoughts at one point or another are susceptible to [performing it](results.md) if they're given power to [decide](mind-decisions.md). But, there's no way to [know](mind-understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
 - No matter how elaborate or constricting a system is, all humans who [purpose](purpose.md) one thing can be subverted by other humans with sufficient [motivation](purpose.md) and resources for the opposite purpose.
 
 Even if a rule system begins rightly, it will decay through good [intentions](purpose.md). By any means possible ("realism") a leader will try to achieve a good [consequence](results.md), and they will cross a moral line as they continue trying to create their desired results ("noble cause corruption"). It can represent in various forms:
@@ -151,7 +151,7 @@ APPLICATION: The [power](power.md) and [longevity](legacy.md) of government lean
 
 1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](results.md) unless it falls within their interests, and it's all determined by [how they maintain their power](politics-systems.md).
 2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal-ac.md) for the [consequences](results.md) of what they [decide](mind-decisions.md).
-3. If you prefer a [social reform](people-trends.md), a government is *not* [trustworthy](understanding-certainty.md) to correctly employ it.
+3. If you prefer a [social reform](people-trends.md), a government is *not* [trustworthy](mind-understanding-certainty.md) to correctly employ it.
 4. A government is never powerful enough that a person is never entitled to their [freedoms](people-boundaries-why.md).
 
 On the other end, an absence of rules will allow the [strongest](power.md) people in the group with [evil](morality-evil.md) intent to abuse everyone else's [rights](people-boundaries-why.md) without the [risk](safety.md) of losing power. When this happens, that person can make their *own* rules that strip away more [power](power.md) to enforce their rule.
@@ -186,19 +186,19 @@ One of the most common forms of redistributing who makes the rules comes through
 
 However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories-why.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
 
-The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](mind-decisions.md) [power](power-types.md) to specific people that the majority [trusts](mind-trust.md), they can (theoretically) make [wise](understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
+The compromise to *everyone* voting on everything is to appoint elected representatives. By giving [decision](mind-decisions.md) [power](power-types.md) to specific people that the majority [trusts](mind-trust.md), they can (theoretically) make [wise](mind-understanding.md) decisions in the [interests](purpose.md) of the public and [free up time](jobs-specialization.md) for everyone else.
 
 APPLICATION: True, pure [democracy](politics-systems.md) is completely unattainable. Only flavors of it can exist because the rules will always favor the rule-makers.
 
 To the degree people can engage in the voting process, an electoral system gives one specific [type of power](power-types.md) to the public. They can funnel their individually unimportant [decisions](mind-decisions.md) through an appointed leader, who can then make all the decisions.
 
-Voting comes with an unfortunate side effect. Since people make decisions based on what they understand, which is based on what they [perceive](people-image-why.md), the people who become appointed are the ones who *appear* to be the most [fitting](results.md) for the role. Thus, the art of [political power](power.md) in an elected society is to [bend the image](people-image-distortion.md) to [influence](influence.md) [opinions](understanding.md) toward their [purposes](purpose.md), rather than [military/tactical strength](people-conflicts-war-why.md), and it becomes nothing more than a popularity contest.
+Voting comes with an unfortunate side effect. Since people make decisions based on what they understand, which is based on what they [perceive](people-image-why.md), the people who become appointed are the ones who *appear* to be the most [fitting](results.md) for the role. Thus, the art of [political power](power.md) in an elected society is to [bend the image](people-image-distortion.md) to [influence](influence.md) [opinions](mind-understanding.md) toward their [purposes](purpose.md), rather than [military/tactical strength](people-conflicts-war-why.md), and it becomes nothing more than a popularity contest.
 
 APPLICATION: In any election, the most competent-[looking](people-image-why.md) person ends up winning. Politicians in free societies are frequently good-looking and appear to be competent, but have more reason to *look* good than *be* good at running society.
 
 FURTHER APPLICATION: The best solution for society would be a small group of *very* intelligent, experienced, compassionate geeks. However, nobody would vote them in, and they'd never be able to [coerce](people-conflicts-war-why.md) or [influence](influence.md) their way to [power](power.md).
 
-There's tremendous power behind elected officials in a government, so [large groups](groups-large.md) will put significant [effort](results.md) into [bending](people-image-distortion.md) public [opinion](understanding.md) to motivate everyone to vote for a specific candidate.
+There's tremendous power behind elected officials in a government, so [large groups](groups-large.md) will put significant [effort](results.md) into [bending](people-image-distortion.md) public [opinion](mind-understanding.md) to motivate everyone to vote for a specific candidate.
 
 APPLICATION: Politics creates constant [distorted perceptions](people-image-distortion.md), but it's the only solution for an election-based society. Any alternative involves leaders who *don't* need to consider the public's opinion and can simply take control through raw [power](power.md).
 
@@ -208,7 +208,7 @@ To avoid [corrupting perspective](people-image-distortion.md), most large-scale 
 
 Rules are broadly abstracted away from the [rule-maker](mind-creativity.md) as a separate existence, so they can persist *long* [after the creator dies](legacy.md).
 
-Future rule managers are always forced to make decisions on how to [interpret](understanding.md) their predecessor's rules as [technology](technology.md) and [trends](people-trends.md) change, and they often don't have the [aptitude](habits.md) the rule-maker had when making the rule.
+Future rule managers are always forced to make decisions on how to [interpret](mind-understanding.md) their predecessor's rules as [technology](technology.md) and [trends](people-trends.md) change, and they often don't have the [aptitude](habits.md) the rule-maker had when making the rule.
 
 APPLICATION: To manage rules, most top-ranking authorities give [power](power.md) to sub-leaders:
 

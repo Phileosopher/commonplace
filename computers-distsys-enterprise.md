@@ -129,7 +129,11 @@ To accommodate all the changes, and the need to make sure everything runs correc
 
 The trouble with maintaining three environments, though, is that the conditions for each of them might not be precisely the same. Those edge cases will make a dramatic difference if anything goes wrong.
 
-When things *do* go wrong, panic is likely, proportionally to [what you don't understand](understanding.md). However, while your imagination may create fantastic stories of anxiety and catastrophe, the problem can usually be solved by [diligently reviewing the likely sources of the issue](fix-computers.md).
+When things *do* go wrong, panic is likely, proportionally to [what you don't understand](mind-understanding.md). However, while your imagination may create fantastic stories of anxiety and catastrophe, the problem can usually be solved by [diligently reviewing the likely sources of the issue](fix-computers.md).
+
+This failure, mixed with the complexities of *many* various integrated systems, means that every web developer can't be just one person.
+
+- They will absolutely *need* other software-as-a-service (SaaS) to maintain their sanity.
 
 ## Decentralized
 
@@ -137,6 +141,30 @@ While it's still not developed much, the conventional host/client relationship (
 
 ## Pricing
 
-If you're managing computers, you'll have various customers. Some will want to host their low-profile project for their family and friends, while others will have profoundly large computing needs. Some will pay the same amount every month, while others will want your service as a "redundant" backup plan if theirs fails.
+If you're managing computers, you'll have various customers.
+
+- Some will want to host their low-profile project for their family and friends, while others will have profoundly large computing needs.
+- Some will pay the same amount every month, while others will want your service as a "redundant" backup plan if theirs fails.
+
+There is a hidden risk with any sufficient "unlimited" plan for absolutely every service provider.
+
+1. Any service providing unlimited storage/domains/sites/bandwidth cannot literally fulfill that role, and make a [marketing](marketing.md) risk:
+   - This is effectively the economics of the all-you-can-eat buffet.
+   - First, they are hoping that their customers will not test the limits of that unlimited condition.
+   - Second, they are trusting that enough clients will *not* heavily use the service enough to offset the cost.
+   - Third, they may try to use [design patterns](engineering-design.md) that steers the customer away from the more expensive portions of their service.
+2. To offset that impossible promise, they sell the product at a premium to the 80% Pareto distribution who *won't* use the promised service to the fullest of its ability.
+   - This is essentially what [insurance companies](money-insurance-how.md) do.
+   - e.g., if 20% of users effectively consume $100/month in direct expenses and the other 80% consume $1/month, they break even at $20.80/user, so it makes sense to set it at $30/month.
+3. As long as many people use the product without taking full advantage of the "unlimited" service, things are fine. However, if for whatever reason more people use that unlimited service, the pricing will have to change.
+4. It's also not always easy to compete with pricing, since other hosting providers are promising the same thing.
+5. Over time, prices go up and covered services go down, or they will go out of business.
+
+This problem is part of the back-end reason why [FLOSS culture](legal-ip-floss.md) emphatically emphasizes "protocols over platforms".
+
+However, the bad marketing promise has 2 possible solutions:
+
+1. Set a hard and non-negotiable limit for every public pricing model. This allows the service provider to accurately gauge the cost and never worry about changing their promises later. It gives full flexibility, but keeps everyone honest and won't ruin the customers' lives later.
+2. Charge per-item, per-piece, at a *very low profit margin. This often requires the customers to be abnormally tech-savvy unless you bill the customer for tech support.
 
 To specialize with different customers, set up a "dedicated" plan and a "shared" plan. The dedicated customers will have more direct access to everything, while the enthusiasts and small business owners can use the shared tier.

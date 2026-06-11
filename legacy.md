@@ -29,7 +29,7 @@ In civilized societies with lots of [technology](technology.md), there will be e
 
 Unless we make an intentional purpose to release control of what we have to others, our weakened or [obsolete](people-trends.md) skills will guarantee we'll sabotage most of the potential we could have given to those who will succeed us.
 
-Without [religion](religion.md), we can only find [meaning](meaning.md) in this life, before we've died, and there's very little benefit to advancing the [body of knowledge](understanding.md) of any domain, [building a new technology](technology.md) or [creating anything new](creations.md) if we're even remotely thinking about life beyond this one.
+Without [religion](religion.md), we can only find [meaning](meaning.md) in this life, before we've died, and there's very little benefit to advancing the [body of knowledge](mind-understanding.md) of any domain, [building a new technology](technology.md) or [creating anything new](creations.md) if we're even remotely thinking about life beyond this one.
 
 APPLICATION: The primary reason that innovation in [scientific](science.md) and [engineering](engineering.md) domains are dominated by atheists is because they have nothing else beyond this life to live for.
 
@@ -39,7 +39,7 @@ Things often *do* live beyond ourselves, but not in the way we think they do. Ou
 
 - We will [influence](influence.md) people, especially [younger](maturity.md) people, in ways that they'll find more [purpose](purpose.md) and [build](creations.md) bigger things. This is *their* [creation](creations.md) that was [influenced](influence.md) by ours, not ours alone.
 - Even if we could publicly encode *every* bit of information for others' benefit, time will distort and destroy the [truth](reality.md) that happened. Books get burned, websites go down, archives decompose, and it will all eventually become a cryptic dead [language](language.md) if it doesn't disappear.
-- With many [creations](creations.md), even with relatively reliable transcription and translation, the [stories](stories-why.md) carry progressively less weight for future generations as they lose the context of the [fashionable](people-trends.md) [beliefs](understanding-certainty.md) of our present times. Eventually, they become a source of [parody](humor.md) and [hubris](morality.md) by a society that doesn't know the creation's original context.
+- With many [creations](creations.md), even with relatively reliable transcription and translation, the [stories](stories-why.md) carry progressively less weight for future generations as they lose the context of the [fashionable](people-trends.md) [beliefs](mind-understanding-certainty.md) of our present times. Eventually, they become a source of [parody](humor.md) and [hubris](morality.md) by a society that doesn't know the creation's original context.
 - Preserving a [family name](people-family.md) or [group](groups-small.md) is also futile. The descendants of the vision will make their own [decisions](mind-decisions.md), and it's only a matter of time before one of them makes habitually dumb decisions. Our guidance can only carry them a few generations until they destroy what we built. This happens even faster if they inherit the [power](power.md) we've built without the skills it took to *[build](success-1_why.md)* that power.
 - Spreading [fear](mind-feelings-fear.md) ends when our presence ends. While people know the names of Genghis Khan and Alexander the Great, nobody respects their former power any more except small groups of historians.
 
@@ -69,4 +69,4 @@ Even if we could theoretically add something [meaningful](meaning.md) to the uni
 
 We *can* find [purposes](purpose.md) that sit [beyond this life](religion.md) to bring into this one, but that's [a different discussion](https://theologos.site/gospel/) heavily steeped in [religious bias](religion.md).
 
-Otherwise, without any true [certainty](understanding-certainty.md) about the domain following this life, our best [decision](mind-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](mind-imagination.md) to the degree it affects the present.
+Otherwise, without any true [certainty](mind-understanding-certainty.md) about the domain following this life, our best [decision](mind-decisions.md) is to [live for the present](mind-feelings-happiness-stress.md) and the [near future](mind-imagination.md) to the degree it affects the present.

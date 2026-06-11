@@ -3,7 +3,7 @@
 
 Modern thinking leans a bit heavily on [science](science.md). The natural downside of [logic](logic.md)-heavy [cultures](people-culture.md) is that they'll often dismiss folktales and myths as being "stuff for kids".
 
-While [stories](stories-why.md) are frequently fun, they contain compelling [patterns](symbols.md) that transcend time, even though the claimed weapons against mythological beings are typically silly. No matter where you look, everyone across the [lens of history](history-eras.md) tells the same stories, with the only anthropological differences coming from constraints like geography, neighboring cultures' [influence](power-influence.md), and shared communal [experiences](understanding.md).
+While [stories](stories-why.md) are frequently fun, they contain compelling [patterns](symbols.md) that transcend time, even though the claimed weapons against mythological beings are typically silly. No matter where you look, everyone across the [lens of history](history-eras.md) tells the same stories, with the only anthropological differences coming from constraints like geography, neighboring cultures' [influence](power-influence.md), and shared communal [experiences](mind-understanding.md).
 
 If we connect those patterns, many universals will represent in common with all aspects of the human experience, specifically with [how things *ought* to be](mind-imagination.md). The myths are frequently a product of societies who were less [educated](education.md) (but by no means less qualified) and trying to [pass on their understanding](legacy.md) to their children who were even less educated than *them*. In particular, the [fear-based](mind-feelings-fear.md) themes are direct symbolism to real-life threats.
 
@@ -31,11 +31,11 @@ Water always symbolizes [the unknown](unknown.md), which closely connects with t
 
 The woods, by contrast to water, also symbolize the unknown, but with more [trauma](hardship-ptsd.md) and less [death](hardship-death.md).
 
-Any games of luck or chance represent the [unknown](unknown.md) and [uncertainty](understanding-certainty.md) that arises within [reality](reality.md).
+Any games of luck or chance represent the [unknown](unknown.md) and [uncertainty](mind-understanding-certainty.md) that arises within [reality](reality.md).
 
 Using gold or silver to ward off monsters is symbolic of how [money and wealth](power-types.md) can cure most problems.
 
-Calling out the name of a monster to control it symbolizes how we assign [values](values.md) (and therefore gain [power](power.md) through [understanding](understanding.md)) through identifying what a thing is with [language](language.md).
+Calling out the name of a monster to control it symbolizes how we assign [values](values.md) (and therefore gain [power](power.md) through [understanding](mind-understanding.md)) through identifying what a thing is with [language](language.md).
 
 - At the same time, calling out the name of a monster risking its presence symbolizes how the [values](values.md) we interpret can also control us through [fear](mind-feelings-fear.md).
 
@@ -53,7 +53,7 @@ Depictions of heaven and hell (as well as any other variations, including Nirvan
 
 Any version of the "shadow self" (e.g., Mr. Hyde) is a depiction of our unspoken [subconscious desires](mind-feelings.md) and [limited control over them](mind-decisions.md).
 
-[Intelligent](understanding.md) beings are often seen as [contenders](people-conflicts-why.md) with the gods, and often as villains.
+[Intelligent](mind-understanding.md) beings are often seen as [contenders](people-conflicts-why.md) with the gods, and often as villains.
 
 ## Beings/Races
 
@@ -88,7 +88,7 @@ Quite a few creatures represent females and femininity:
 - Sirens represent the deceit of beautiful women.
 - Witches represent the [technological brilliance](technology.md) and deceit of an older matriarch. Her witch's brew symbolizes her means to influence society in subtle ways, and the broom represents the custodial work that came with homemaking.
 - Nymphs represent the wispy and (from [males' perspective](people-gender.md)) disjointed connections inherent to females.
-- An old crone typically represents the convergence of the [unknown](unknown.md) with the wisdom from [experience](understanding.md).
+- An old crone typically represents the convergence of the [unknown](unknown.md) with the wisdom from [experience](mind-understanding.md).
 
 Other creatures represent males and masculinity:
 
@@ -112,7 +112,7 @@ The phoenix is an optimistic take on how we see [death](mind-feelings-fear.md), 
 
 Many of them are complex mix-and-match elements of multiple things:
 
-- Zombies, a product of [modern society](jobs-specialization.md), represent crowds of people mindlessly [set in their ways](habits.md), with our [fear of death](mind-feelings-fear.md) and the [uncertainty](understanding-certainty.md) of the afterlife mixed into it.
+- Zombies, a product of [modern society](jobs-specialization.md), represent crowds of people mindlessly [set in their ways](habits.md), with our [fear of death](mind-feelings-fear.md) and the [uncertainty](mind-understanding-certainty.md) of the afterlife mixed into it.
 - Killer robots are a combination of the [technical idiots](https://gainedin.site/idiot/) of [modern society](jobs-specialization.md), mixed with the [fear of the unknown](unknown.md) regarding [modern technology](technology.md).
 - Unicorns' representation of purity and virginity comes from combining associations of the color white and purity, mixed with aspects of virility with the horn.
 

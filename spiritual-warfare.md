@@ -38,14 +38,14 @@ The mind is the Satan's battleground:
 
 - Every single conversation and interaction can become a spiritual battle ([Romans 12:2](https://biblehub.com/romans/12-2.htm), [Ephesians 6:12](https://biblehub.com/ephesians/6-12.htm), [2 Corinthians 10:5](https://biblehub.com/2_corinthians/10-5.htm)).
 - The Satan attacks at three degrees of intensity:
-  1. Harassment and oppression by alluding to lies that someone might [believe](understanding-certainty.md).
-  2. If someone is willing to listen (including believers), [influencing and speaking](spiritual-warfare-tricks.md) to people directly to their [mind](understanding.md).
+  1. Harassment and oppression by alluding to lies that someone might [believe](mind-understanding-certainty.md).
+  2. If someone is willing to listen (including believers), [influencing and speaking](spiritual-warfare-tricks.md) to people directly to their [mind](mind-understanding.md).
   3. Directly controlling them through their loss of control via bad [habits](habits.md), which can include possession.
 - [Our design](theology-godandman-humanity.md) means we become ineffective or destructive if he wins against our mind.
 
 When we satisfy our sins, our thoughts dwell on them more:
 
-- We develop an [anxious](mind-feelings-fear.md), [distrustful](understanding-certainty.md), violent, envious attitude when we dwell on [sins](theology-sins.md).
+- We develop an [anxious](mind-feelings-fear.md), [distrustful](mind-understanding-certainty.md), violent, envious attitude when we dwell on [sins](theology-sins.md).
 - The Satan uses our sins as vectors of attack against us.
 
 We only win the battle against the Satan when we fully submit our minds to Christ:
@@ -58,7 +58,7 @@ We only win the battle against the Satan when we fully submit our minds to Chris
 
 His strategy directly attacks Christians and the Church from many angles:
 
-- The Satan's [lies](people-lying.md) tend to exploit the fact that we can't always be [certain](understanding-certainty.md) about many things.
+- The Satan's [lies](people-lying.md) tend to exploit the fact that we can't always be [certain](mind-understanding-certainty.md) about many things.
 - He typically erodes our [trust](mind-trust.md) in good things.
 - He'll also make us prefer to trust [evil things](morality-evil.md) more often.
 

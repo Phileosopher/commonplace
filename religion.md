@@ -23,7 +23,7 @@ Either way, the culture surrounding their values certainly betrays a steadier de
 The framing of a religion is based on the form of deity that we're assuming to exist in the Unknown.
 
 - Agnosticism is the simple non-knowledge of a deity.
-- Atheism is the absence of a deity altogether as a known fact. It often pairs with agnosticism, but creates more [certainty](understanding-certainty.md) on the matter.
+- Atheism is the absence of a deity altogether as a known fact. It often pairs with agnosticism, but creates more [certainty](mind-understanding-certainty.md) on the matter.
 - Monotheism has one God or, at the very least, one superior God above all other gods.
 - Polytheism has more than one god with distinctive power over various domains.
 - Pantheism vaguely defines God as a spirit or cosmic energy, which typically frames the logic that *everything* is part of God.
@@ -47,7 +47,7 @@ Most of the time, religions provide [logical paradoxes](philosophy-paradoxes.md)
 - Christianity's assertions require stepping out of the context of this life (e.g., "he who wishes to gain his life must lose it").
 - [Atheism](https://trendless.tech/scientism/) asserts that we should only focus on what we can scientifically prove, but also that we can scientifically prove there is no god.
 
-The answer to a religion is often in trusting something that necessarily must exist beyond our present [understanding](understanding.md).
+The answer to a religion is often in trusting something that necessarily must exist beyond our present [understanding](mind-understanding.md).
 
 ## The social movement of religion
 

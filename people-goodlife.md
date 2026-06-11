@@ -9,7 +9,7 @@ In a broad sense, "the good life" comes when we experience consistent [meaning](
 
 APPLICATION: A well-lived life is more significant than being well-received by others or possessing many things. In fact, it's also lower-maintenance: both [reputation](people-image-why.md) and possessions require much more work to maintain than a wealth of experiences.
 
-The good life is a model we [build in our minds](mind-imagination.md), then strive for above other things. All aspects of [right conduct](morality.md), [role modeling](maturity.md), and [leadership](groups-large.md) require a well-calibrated good life. The people who attained that way of life before us are worthy of our [honor](people-image-why.md), and are the strongest source of [wisdom](understanding.md) we can ever possess in this life.
+The good life is a model we [build in our minds](mind-imagination.md), then strive for above other things. All aspects of [right conduct](morality.md), [role modeling](maturity.md), and [leadership](groups-large.md) require a well-calibrated good life. The people who attained that way of life before us are worthy of our [honor](people-image-why.md), and are the strongest source of [wisdom](mind-understanding.md) we can ever possess in this life.
 
 The good things that encompass the good life are the basis for all our [morality](morality.md).
 
@@ -23,7 +23,7 @@ Living well requires *constant* [change](people-changes.md) and pushing against 
 
 We must associate with others who share our values, whether it's in finding [friendship](people-friends-why.md) or associating with (and sometimes [leading](groups-small.md)) [groups](groups-member.md). This should express as a [love](people-love.md) for oneself and others, not merely for the sake of gaining [power](power.md).
 
-We must also be authentic with what we say and do. Honesty with ourselves is critical to keeping ourselves connected closely to [reality](reality.md), and is critical to simplifying reality to permit our [intuitions](mind-feelings.md) to develop a strong [understanding](understanding.md) of what we [learn](education.md).
+We must also be authentic with what we say and do. Honesty with ourselves is critical to keeping ourselves connected closely to [reality](reality.md), and is critical to simplifying reality to permit our [intuitions](mind-feelings.md) to develop a strong [understanding](mind-understanding.md) of what we [learn](education.md).
 
 ## Humor
 
@@ -39,7 +39,7 @@ Over the course of a lifetime, a good life will have a progressive upward [cycle
 
 APPLICATION: Use the Five-Minute Favor Rule: *always* help someone if you can fulfill their need within 5 minutes.
 
-The [quality](values-quality.md) of a person could probably be most clearly [measured](math.md) by how much they change to conform to their [understanding](understanding.md) of the good life. This could be expanded to include how much they improve their understanding when [reality](reality.md) demonstrates its [results](results.md) to their [decisions](mind-decisions.md).
+The [quality](values-quality.md) of a person could probably be most clearly [measured](math.md) by how much they change to conform to their [understanding](mind-understanding.md) of the good life. This could be expanded to include how much they improve their understanding when [reality](reality.md) demonstrates its [results](results.md) to their [decisions](mind-decisions.md).
 
 APPLICATION: To discern the [quality](values-quality.md) of what a person really is, don't look at where they are, but instead look at where they've come from, how far they've come, and how they respond to their situation.
 
@@ -54,10 +54,10 @@ APPLICATION: At certain times, every person must be the following:
 
 1. An artist who [creates](mind-creativity.md) something.
 2. A warrior who [fights](people-conflicts-why.md) something.
-3. A philosopher who seeks to [understand](understanding.md) something.
+3. A philosopher who seeks to [understand](mind-understanding.md) something.
 4. A laborer who [builds](creations.md) something.
 
-Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](people-image-why.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](people-image-why.md).
+Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](people-image-why.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](mind-understanding.md) the benefits of the first. But, many people simply [reprogram](mind-understanding.md) their [beliefs](mind-understanding-certainty.md) to accommodate their [shame](people-image-why.md).
 
 The good life, therefore, is constantly changing between prosperity and [hardship](hardship.md) to give us context for the [stories](stories-why.md) we build from our environment.
 
@@ -65,7 +65,7 @@ Of course, those stories should probably have happy endings. Unfortunately, [dea
 
 ## How
 
-We *could* live a good life without extremes, but our lives are short enough that we won't experience life fast enough to attain it without having a proper [upbringing](people-family.md) and [training](education.md) in it. Thus, to gain the greatest [understanding](understanding.md) of the right way to live, we must overshoot it in every possible direction that it may arrive.
+We *could* live a good life without extremes, but our lives are short enough that we won't experience life fast enough to attain it without having a proper [upbringing](people-family.md) and [training](education.md) in it. Thus, to gain the greatest [understanding](mind-understanding.md) of the right way to live, we must overshoot it in every possible direction that it may arrive.
 
 The entire idea of "moderation in all things" is a bit oversimplified since we must define "moderate", but it represents a few combined concepts:
 
@@ -80,9 +80,9 @@ We need a bit more than merely "moderation":
 3. We must stay optimistic about the [future](mind-imagination.md), or we'll submit to our [fears](mind-feelings-fear.md). But, [reality](reality.md) is often terrifying. The easiest way to do this is by finding [gratitude](mind-feelings-happiness-stress.md) over all things through observation, including life itself, but can also come through lowering [expectations](mind-imagination.md). Most people require [religious habits](religion.md) to attain that optimism.
 4. Finally, we must avoid pettiness whenever we can. We're all born petty because our limited experience makes us feel everything as a severe encounter.
 
-APPLICATION: There's not much value in following a cynical person, but we can learn plenty about what *is* good by what that cynic was still [optimistic](mind-trust.md) or [certain](understanding-certainty.md) about.
+APPLICATION: There's not much value in following a cynical person, but we can learn plenty about what *is* good by what that cynic was still [optimistic](mind-trust.md) or [certain](mind-understanding-certainty.md) about.
 
-[Most people shouldn't be philosophers](philosophy.md), but we must avoid letting our [feelings](mind-feelings.md) and [focus](purpose.md) swing from one [trend](people-trends.md) to the next. Otherwise, we'll subject ourselves to [needless conflicts](people-conflicts-why.md) and [distorting](people-image-distortion.md) how we [understand](understanding.md) [reality](reality.md).
+[Most people shouldn't be philosophers](philosophy.md), but we must avoid letting our [feelings](mind-feelings.md) and [focus](purpose.md) swing from one [trend](people-trends.md) to the next. Otherwise, we'll subject ourselves to [needless conflicts](people-conflicts-why.md) and [distorting](people-image-distortion.md) how we [understand](mind-understanding.md) [reality](reality.md).
 
 We should be driven by [standards](values.md), not [opposition to something else](people-conflicts-why.md). The standards themselves have their [source of authority](power.md), so we must know what that standard is and whether we want to submit to it.
 

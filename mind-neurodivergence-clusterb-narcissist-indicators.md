@@ -10,7 +10,7 @@ This is a more common-sense summary, and therapists are trained to detect more a
 
 - Further, many people adjacent to narcissistic behavior often learn to detect it as well (e.g., law enforcement, lawyers, judges).
 - Procedurally, they look for broad patterns:
-  1. They often start by being overly charming (flattering, funny, etc.).
+  1. They often start by being overly charming (flattering, [funny](humor.md), etc.).
   2. They'll avoid all responsibility (e.g., "Tell me about your role in the conflict").
      - Frequently, they'll talk for a long time without answering the question, blame everyone else, and then describe themselves in every context as the victim.
   3. Their emotional vocabulary will be very limited (e.g., "How does that make you feel?").
@@ -225,6 +225,10 @@ They will use self-deprecating humor, then add humor at others' expense immediat
 
 ## Responses to conflict
 
+The complex issue with narcissistic behavior is that the narcissist will *create* the conflict, but find a way to make it seem like it was someone else.
+
+- Their most common approach is to find someone else who is easily antagonized, then antagonize them without that person or others around them seeing the behavior ("baiting" or "reactive abuse").
+
 They will remain calm after causing chaos.
 
 - Sometimes they'll behave as if they didn't hear or observe something patently obvious.
@@ -255,7 +259,10 @@ Vulnerable narcissists, in particular, have a complex set of cues.
   4. Obsessing about unrelated things
      - Nitpicking over others' small tasks
      - Phrasing their anger as concern (e.g., "I'm just worried...")
-- Unfortunately, their actions can never *prove* their intent, which creates [tremendous hardship for their victims later](hardship-abuse.md).
+  5. Confusing responses ("word salad")
+     - Talking about many things that might not be related
+     - Blaming others, including the person they're responding to
+- Unfortunately, their actions can never *prove* their intent, which creates [tremendous hardship for their victims later](hardship-abuse-narcissist.md).
 
 Look for manipulative language that reframes their moral and character defects:
 

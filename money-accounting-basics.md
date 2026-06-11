@@ -82,7 +82,7 @@ Assumption 3 - Monetary Unit Principle
 - That currency is as fixed as possible to accurately reflect value compared to everything else.
   - In other words, the USD is the standard of currency because everyone uses it as the standard of currency.
   - Barring a major upset in the world [economic](money-economics.md) system (this was written in 2023) even other *currencies* are pegged to the dollar.
-- Without it, there's no clear, measurable [certainty](understanding-certainty.md) on the value of anything relative to other items or periods.
+- Without it, there's no clear, measurable [certainty](mind-understanding-certainty.md) on the value of anything relative to other items or periods.
 
 Assumption 4 - Time-Period Principle
 
@@ -159,7 +159,7 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
 3. Posting - record the same information from the journals to the General Ledger.
    - It's effectively the same information, but [classified](organization.md) by account and without the [story](stories-why.md) of what happened.
 4. Trial balance - calculate the total balances at the end of the period.
-   - This is a redundant step that [ensures](understanding-certainty.md) the debits and credits are clearly balanced before moving forward.
+   - This is a redundant step that [ensures](mind-understanding-certainty.md) the debits and credits are clearly balanced before moving forward.
 5. Worksheet - for any discrepancies in the trial balance, make corrections (adjustments) on a worksheet.
    - This step isn't necessary in a small cash-basis organization, but things rarely stay simple in a large organization.
    - Adjustments also account for one-time payments that affect multiple periods:

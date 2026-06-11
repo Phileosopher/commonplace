@@ -67,7 +67,7 @@ Planning fallacy - we underestimate how much time a task will take
 
 Positivity effect/socioemotional selectivity theory - we prefer to hear positive information
 
-Probability neglect - we ignore [likely consequences](results.md) when we're [uncertain](understanding-certainty.md)
+Probability neglect - we ignore [likely consequences](results.md) when we're [uncertain](mind-understanding-certainty.md)
 
 Pro-innovation bias - we believe [a new thing](people-trends.md) should be adopted universally by society without any adaptations
 

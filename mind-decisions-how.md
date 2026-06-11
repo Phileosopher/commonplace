@@ -57,7 +57,7 @@ However, if you *must* act, only handle the emergency-based portion of the decis
 
 ## 3b. If it's not urgent, prepare yourself to gather research
 
-The purpose of your research is to be fully [certain](understanding-certainty.md) over what you will decide.
+The purpose of your research is to be fully [certain](mind-understanding-certainty.md) over what you will decide.
 
 This decision-making process [can sometimes become complex](mind-decisions-calculus.md).
 
@@ -69,7 +69,7 @@ Since the [uncertainty](unknown.md) is its own form of stress, start to research
 
 This will be an exercise in [creativity](mind-creativity-how.md), so go wild with all the decisions.
 
-- Again, you're trying to build [certainty](understanding-certainty.md), so consider the most [ridiculous](humor.md), [dangerous](safety.md), or impractical options.
+- Again, you're trying to build [certainty](mind-understanding-certainty.md), so consider the most [ridiculous](humor.md), [dangerous](safety.md), or impractical options.
 
 ## 5. Eliminate all immoral options
 

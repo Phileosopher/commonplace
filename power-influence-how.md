@@ -16,7 +16,7 @@ Therefore, the following is how to behave in a way that still respects their [bo
 There are many types types of intelligence, but 3 of them are IQ, RQ, and EQ:
 
 - IQ is the Intelligence Quotient, which is raw thinking speed.
-- RQ is Reality Quotient, which is the ability to [understand](understanding.md) and work with [reality](reality.md).
+- RQ is Reality Quotient, which is the ability to [understand](mind-understanding.md) and work with [reality](reality.md).
 - EQ is Emotional Quotient, which balances the rational and emotional sides of the mind.
 
 EQ is, by far, the strongest determination of [success](success-1_why.md):

@@ -52,7 +52,7 @@ In practice, every high-quality software will at least *somewhat* abide by the U
 No matter what someone is designing, they need to keep a few large-scale ideas in place:
 
 1. Because of Moore's Law (where technology doubles in capacity every 2-5 years), computers will be absurdly faster in a few years than they are right now. Thus, getting something with a few features on the market right now is better, and adding features and optimizations later will become progressively easier. There are only a few strange exceptions to this, such as [batteries](engineering-electrical.md).
-2. Take advantage of [abstractions](understanding.md). Instead of building everything from scratch, focus on the element you want to get out the door, and don't reinvent the wheel when you don't have to.
+2. Take advantage of [abstractions](mind-understanding.md). Instead of building everything from scratch, focus on the element you want to get out the door, and don't reinvent the wheel when you don't have to.
 3. Many cases are common, but there will always be "edge cases". It's tempting to work on edge cases, but you'll make a *very* high-quality system by optimizing the *heck* out of the common case and disregarding the edge cases.
 4. Optimize for parallel processing whenever possible. Treat a computer as [a Gantt Chart](https://en.wikipedia.org/wiki/Gantt_chart) on nanosecond-based projects instead of merely as a single task list: some things need to be performed in sequence, while others can be performed at the same time.
 5. Optimize by "pipelining" tasks. Make each function do 1 thing, and divide that thing into as many steps as reasonably possible. This allows for things to scale easily, and each operation can be simple and quick.

@@ -78,7 +78,7 @@ The most abstracted form of wisdom represents as proverbs, which have the follow
 
 - Short enough to be memorable
 - Direct or blunt enough to evoke strong [feelings](mind-feelings.md)
-- Clear and [certain](understanding-certainty.md) about what is being indicated
+- Clear and [certain](mind-understanding-certainty.md) about what is being indicated
 - [Patterned](symbols.md) after [general realities of life](humanity-universals.md)
 - Poetically paced, or with a poetic choice of words
 

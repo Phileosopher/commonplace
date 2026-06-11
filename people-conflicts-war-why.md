@@ -95,7 +95,7 @@ However, the more frequent reality is that the large group will commission a "se
 
 The only way for any smaller group to fight the larger group comes through a unique type of group [social risk](entrepreneur-why.md):
 
-1. Get together to discuss what everyone [understands](understanding.md).
+1. Get together to discuss what everyone [understands](mind-understanding.md).
 2. Give enough time together to cross-pollinate [new ideas](mind-creativity.md) on how to solve the problems.
 3. Agree on a good decision, then [take action on it](results.md).
 

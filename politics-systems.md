@@ -95,15 +95,15 @@ Oligarchy is the same as an autocracy, but with more people involved, and can be
 - Aristocracy - a higher class defined by [birth](people-family.md)
 - Band society - one group (often a family) is run hierarchically by a strong leader
 - Ergatocracy - the working class (though that class usually reverses because the "working class" has stopped working their [trades](jobs-specialization.md) to run things)
-- Geniocracy - a class who is more [intelligent](understanding.md), [creative](mind-creativity.md), or [innovative](entrepreneur-why.md)
+- Geniocracy - a class who is more [intelligent](mind-understanding.md), [creative](mind-creativity.md), or [innovative](entrepreneur-why.md)
 - Kraterocracy - a [stronger](power.md) class
 - Meritocracy - a class with more [ability](creations.md), [specialized knowledge](jobs-specialization.md), or [past contribution to society](legacy.md)
 - Netocracy - a class with more skills with [technology](technology.md) and [influence](power-influence.md)
-- Noocracy - a class of [wise](understanding.md) people
+- Noocracy - a class of [wise](mind-understanding.md) people
 - Plutocracy - a [wealthy](power-types.md) class
 - Stratocracy - a [military](science-earth-weather.md) class
   - Military junta - a committee of military leaders
-- Technocracy - a class of [educated people](understanding.md) or [technical](technology.md) experts
+- Technocracy - a class of [educated people](mind-understanding.md) or [technical](technology.md) experts
 - Theocracy - a [religious leadership](religion-answers.md) class
 - Timocracy - a class of [honorable](morality.md) people
 
@@ -156,7 +156,7 @@ Cons:
   - It's easy to [influence](power-influence.md) and [mislead](people-image-distortion.md) the public about which candidate to vote for.
   - The leadership can disregard citizens' votes, which eventually makes it an oligarchy.
   - With enough [money and manpower](power-types.md), *anyone* can buy an election.
-  - If the voters are satisfied, they'll become *very* [unaware](understanding.md) of the political system and invite severe corruption through [image management](people-image-distortion.md).
+  - If the voters are satisfied, they'll become *very* [unaware](mind-understanding.md) of the political system and invite severe corruption through [image management](people-image-distortion.md).
 - Even when a democracy doesn't devolve into an oligarchy, it can become a [bad system](mgmt-badsystems.md):
   - Adhocracy - the government is relatively disorganized
   - [Bureaucracy](bureaucracy.md) - the government is *overly* organized to the point of being redundant or ineffective

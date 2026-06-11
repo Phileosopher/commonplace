@@ -28,7 +28,7 @@ APPLICATION: In a sense, understanding is like [philosophy](philosophy.md) or [i
 
 After we've integrated those experiences, we tend to call those things "our ideas". They're mostly others' ideas adapted to our form of thinking, but we've worked with them so heavily that we make them a part of our [identity](people-identity.md).
 
-However, we can never fully attain a comprehensive grasp of [reality](reality.md). Most of the foundational things we [believe](understanding-certainty.md) exist on the periphery of our fullest capacity for understanding something.
+However, we can never fully attain a comprehensive grasp of [reality](reality.md). Most of the foundational things we [believe](mind-understanding-certainty.md) exist on the periphery of our fullest capacity for understanding something.
 
 ## The method for understanding
 
@@ -64,4 +64,4 @@ APPLICATION: The quality of our learning comes through the forms of questions we
 
 When we face complex questions, we tend to answer a far more simple question in place of it. Unfortunately, we tend to also not notice that we made that switch, and we'll commit a simple answer to memory about an inherently complicated idea.
 
-Often, the best way to understand something is to [write it down](language-writing.md). It forces us to use the [logic-based](logic.md) portions of our minds to [order](understanding-certainty.md) our thoughts.
+Often, the best way to understand something is to [write it down](language-writing.md). It forces us to use the [logic-based](logic.md) portions of our minds to [order](mind-understanding-certainty.md) our thoughts.

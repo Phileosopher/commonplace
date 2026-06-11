@@ -108,7 +108,7 @@ While most people curate their [appearance](people-image.md), the most well-mana
 
 Lying corrupts the truth:
 
-- Even without lying, we have a tenuous grasp on [what is legitimately true](reality.md), and a falsehood will corrupt that [understanding](understanding.md).
+- Even without lying, we have a tenuous grasp on [what is legitimately true](reality.md), and a falsehood will corrupt that [understanding](mind-understanding.md).
 - It's nearly a [human universal](humanity-universals.md) that we don't like to maintain falsehoods, and it [creates tremendous risks for us](safety-riskmgmt.md) when we do.
 - Since we must spend time working on lies, more lying makes it more difficult to detect the truth.
 

@@ -9,7 +9,7 @@ Good coders don't just sit down and type out code without knowing what they're d
 
 So, they will need to write out "pseudocode". Instead of fussing with syntax and variables, they instead get the "big picture" by making an outline of the code.
 
-Pseudocode has *hundreds* of forms. Like any [creative](mind-creativity-how.md)/[productivity](success-3_goals.md) system, you must make one that conforms to [how your brain works](mind-memory.md) and how you [understand](understanding.md) things. However, there are a few good ones that most programmers use:
+Pseudocode has *hundreds* of forms. Like any [creative](mind-creativity-how.md)/[productivity](success-3_goals.md) system, you must make one that conforms to [how your brain works](mind-memory.md) and how you [understand](mind-understanding.md) things. However, there are a few good ones that most programmers use:
 
 Flowcharts
 

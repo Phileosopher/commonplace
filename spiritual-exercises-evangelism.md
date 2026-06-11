@@ -1,7 +1,7 @@
 
 # How to evangelize (Missiology)
 
-Sharing Jesus (i.e., "good news sharing" or "evangelism") is a lifestyle [decision](mind-decisions.md) that comes from [understanding](understanding.md) and imitating [what Jesus did](https://theologos.site/gospel/) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
+Sharing Jesus (i.e., "good news sharing" or "evangelism") is a lifestyle [decision](mind-decisions.md) that comes from [understanding](mind-understanding.md) and imitating [what Jesus did](https://theologos.site/gospel/) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
 
 - Jesus has called us to travel out and make [disciples](spiritual-discipleship.md) across the world ([Matthew 28:19](https://biblehub.com/matthew/28-19.htm)), which starts with sharing it with everyone open to hearing it.
 
@@ -33,7 +33,7 @@ There are many [competitors](religion-answers.md) and [deceptions](people-lying.
 Your [personality](people-identity.md) defines how you may want to approach others about the subject.
 
 - Share Jesus and what He's done for you.
-- Share the [philosophical](philosophy.md)/theological reasons why you [believe](understanding-certainty.md).
+- Share the [philosophical](philosophy.md)/theological reasons why you [believe](mind-understanding-certainty.md).
 - Simply learn what *other* people believe, then wait until they're interested in your views.
 - Do something public and [attention-grabbing](marketing.md).
 

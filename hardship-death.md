@@ -14,7 +14,7 @@ However, as we grow older, we encounter it *much* more frequently.
 In many ways, death itself is a bit overrated:
 
 - Most people are more afraid of the uncertainty of *how* we die than what comes after.
-- But, beyond the complete [uncertainty](understanding-certainty.md), death itself is a relatively simple situation:
+- But, beyond the complete [uncertainty](mind-understanding-certainty.md), death itself is a relatively simple situation:
   1. Fading from consciousness as one of your primary organs fails.
   2. Either a quick blink into consciousness as your soul experiences whatever is after this life, or complete nothingness if we don't have souls.
 - However, any guesses about what will happen after we die are so uncertain that anything else is speculation without [believing a religion](religion-answers.md).

@@ -1,7 +1,7 @@
 
 # Why people change
 
-People are *constantly* changing. From birth, we are perpetually [deciding](mind-decisions.md), [learning](understanding.md), [aging](maturity.md), making [habits](habits.md), shifting [identities](people-identity.md), and creating new [results](results.md).
+People are *constantly* changing. From birth, we are perpetually [deciding](mind-decisions.md), [learning](mind-understanding.md), [aging](maturity.md), making [habits](habits.md), shifting [identities](people-identity.md), and creating new [results](results.md).
 
 All changes start with [conflicting thoughts](people-conflicts-inner.md) or an [external conflict](people-conflicts-why.md).
 
@@ -13,15 +13,15 @@ We never technically *like* change, since it disrupts our [habits](habits.md). H
 
 Contrary to what many more [intelligent people](education.md) imagine, changing isn't by acting on [logical conclusions](logic.md). Instead, it's based on how well we can [feel](mind-feelings.md) the benefits of the [results](results.md) of making a change.
 
-APPLICATION: We tend to only change toward what we can [feel](mind-feelings.md), mostly because things we can't feel don't seem important to us. Successful [leaders](groups-small.md) feel strongly over abstractions like charts and [calculations](math.md) because they [understand](understanding.md) what those things imply.
+APPLICATION: We tend to only change toward what we can [feel](mind-feelings.md), mostly because things we can't feel don't seem important to us. Successful [leaders](groups-small.md) feel strongly over abstractions like charts and [calculations](math.md) because they [understand](mind-understanding.md) what those things imply.
 
 We can always [choose](mind-decisions.md) to generally direct where our changes will go and the [values](values.md) our changes will associate with:
 
 - Physically - exercising [creativity](mind-creativity.md)/[control](results.md) on the world around us
-- Empirically - adding/invalidating things we've [understood](understanding.md)
+- Empirically - adding/invalidating things we've [understood](mind-understanding.md)
 - Psychologically - changing our [story](stories-why.md) of how the world works
 - Socially - anything involving others including [venting](influence.md), directing, and [politics](influence.md)
-- [Habitually](habits.md) - intensifying what we've done before and adding to our [certainty](understanding-certainty.md)
+- [Habitually](habits.md) - intensifying what we've done before and adding to our [certainty](mind-understanding-certainty.md)
 
 We're changing/responding proportional to the degree we [wish](purpose.md) to act. Those responses are often driven by subconscious [faith](mind-trust.md) in past [habits](habits.md) and experiences.
 
@@ -33,11 +33,11 @@ Our change is always at least proportional to the degree we can [feel](mind-feel
 
 We change to conform to our [expectations](mind-imagination.md) of what [the good life](people-goodlife.md) requires.
 
-APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](understanding.md) of the good life is always [correct](understanding.md) instead of merely trying to change [habits](habits.md).
+APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](mind-understanding.md) of the good life is always [correct](mind-understanding.md) instead of merely trying to change [habits](habits.md).
 
 Except for rebellion, we're always conforming *toward* something. Rebellion's conformity is essentially "anti-something", driven directly by simple [hatred](purpose.md) of that thing.
 
-APPLICATION: From [terrorism](people-conflicts-war-why.md) to [entrepreneurs](entrepreneur-why.md), people do what they [believe](understanding-certainty.md) is ideal for living [the good life](people-goodlife.md).
+APPLICATION: From [terrorism](people-conflicts-war-why.md) to [entrepreneurs](entrepreneur-why.md), people do what they [believe](mind-understanding-certainty.md) is ideal for living [the good life](people-goodlife.md).
 
 Rebellion, in particular, is always anti-[something], so we don't have much control over who or what we oppose. It could be any version of the opposite of something, including its ideological inverse, ideological reverse, absence, or destruction, and we will vacillate between them unless we form principles we conform toward instead.
 
@@ -47,7 +47,7 @@ Inner changes show themselves less directly on [reality](reality.md), but they'r
 
 Typically, every change has most parts of the following [story](stories-why.md):
 
-1. Suffer repeated [consequences](reality.md) that could indicate there's a need to [understand](understanding.md) more or [act](creations.md).
+1. Suffer repeated [consequences](reality.md) that could indicate there's a need to [understand](mind-understanding.md) more or [act](creations.md).
 2. If applicable, [emotionally](mind-feelings.md) recuperate from the [trauma](hardship-ptsd.md) of the experience.
 3. Admit [personal connection](people-identity.md) to those consequences and a need to [decide](mind-decisions.md) on what to do.
 4. [Research and observe](science.md) someone else about how that [problem](purpose.md) could be resolved.
@@ -57,7 +57,7 @@ While we may be changing, our *rate* of change stays relatively constant, propor
 
 ## Time
 
-We don't [imagine](mind-imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](standards-datetime.md) to swing over to [believing](understanding-certainty.md) the *opposite* idea we had.
+We don't [imagine](mind-imagination.md) ourselves to be changing very much, mostly because of how gradual it is, but a mere five years can allow us enough [time](standards-datetime.md) to swing over to [believing](mind-understanding-certainty.md) the *opposite* idea we had.
 
 Each decision is relatively unimportant in a grand sense, but it slightly tweaks [what we are](humanity.md) and [identify](people-identity.md) with. Plus, that decision is easier to make [the next time around](habits.md), which makes us more extreme versions of ourselves if we leave [our decisions](people-conflicts-inner.md) unattended. By combining a decision with [results](results.md), then another decision with its results, and so on, anyone with enough [perspective](people-image-why.md) will see the slow story of how a person changes.
 
@@ -65,7 +65,7 @@ Over a *long* time, we can clearly see the products of our decisions. A decade o
 
 Across a lifetime, natural [trends](people-trends.md) will emerge [regarding](stories-why.md) a person. They're only approximate, but they'll usually give a relatively reliable [prediction](mind-imagination.md) of that person's future [decisions](mind-decisions.md).
 
-No matter how we live, we're building additional [understanding](understanding.md). That understanding comes from how we can recall the [perspective](people-image-why.md) we had when younger compared to now, a bit like a [friendship](people-friends-why.md) with our past selves.
+No matter how we live, we're building additional [understanding](mind-understanding.md). That understanding comes from how we can recall the [perspective](people-image-why.md) we had when younger compared to now, a bit like a [friendship](people-friends-why.md) with our past selves.
 
 APPLICATION: We must change, but we don't like change, and too much or too little change will make us go crazy. For that reason, we must always stay only a little uncomfortable to keep growing. We're not reaching our fullest potential If we're perfectly satisfied, but we'll make *terrible* [decisions](mind-decisions.md) without any [inner peace](people-conflicts-inner.md).
 

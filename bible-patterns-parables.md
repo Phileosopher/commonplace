@@ -22,7 +22,7 @@ The sower and the seeds (Matthew 13:1-23, Mark 4:1-20, Luke 8:4-15)
     4. The seeds that landed in good soil produced 30-100 times their yield.
 - What the parable means:
   - This one is a rare parable that actually explains it all the way through.
-    1. [The devil](spiritual-warfare.md) takes away whatever people hear and don't [understand](understanding.md).
+    1. [The devil](spiritual-warfare.md) takes away whatever people hear and don't [understand](mind-understanding.md).
     2. Some people receive the word with joy but turn away when they experience [hardship](hardship.md).
     3. Some people hear it and receive it, but are distracted by this life's concerns and the [deception](people-lying.md) from [money](money-1_why.md) and are unfruitful.
     4. A minority of people hear the word and understand it, then produce 30-100 times what was invested into them.

@@ -1,7 +1,7 @@
 
 # Cognitive bias and fallacies list
 
-These are the biases and fallacies that define and distort how we [understand](understanding.md) the world around us.
+These are the biases and fallacies that define and distort how we [understand](mind-understanding.md) the world around us.
 
 While cognitive bias and fallacy crafts a [false image](people-image-why.md) relative to [reality](reality.md), most educated people don't often realize that they're very [useful](purpose.md) at making life more [meaningful](meaning.md) or [easier](success-4_routine.md):
 
@@ -22,7 +22,7 @@ Broadly, all the following fallacies fall into three major categories:
 
 It's worth noting that awareness of these biases don't necessarily change anything. We tend to veer into an *opposite* bias while trying to be accurate, and [influencing](power-influence.md) others with incentives to be unbiased doesn't help at all.
 
-This is not a complete list, and probably can never be. Besides including all optical illusions into it, it's based on a "rational actor model", which implies that everyone is [reasonable](understanding.md) until distorted by a bias. The rational actor model is likely wrong.
+This is not a complete list, and probably can never be. Besides including all optical illusions into it, it's based on a "rational actor model", which implies that everyone is [reasonable](mind-understanding.md) until distorted by a bias. The rational actor model is likely wrong.
 
 Other specific bias:
 
@@ -198,7 +198,7 @@ Peak-end rule/duration neglect - we measure an experience by its most intense po
 
 Eaton-Rosen phenomenon/rhyme as reason effect - we consider things are more true when they rhyme
 
-Levels-of-processing effect/testing effect/processing difficulty effect - we [understand](understanding.md) things better when we mentally process them more
+Levels-of-processing effect/testing effect/processing difficulty effect - we [understand](mind-understanding.md) things better when we mentally process them more
 
 Leveling and sharpening - we omit information from stories (leveling) and add details to our stories (sharpening)
 
@@ -222,7 +222,7 @@ Verbatim effect - we remember the "gist" of something more than exact wording
 
 Additive bias - we tend to solve problems by adding when we should be subtracting
 
-Ambiguity effect - we prioritize decisions where things are more [certain](understanding-certainty.md)
+Ambiguity effect - we prioritize decisions where things are more [certain](mind-understanding-certainty.md)
 
 Attentional bias - we filter thoughts based on what we're paying attention to
 

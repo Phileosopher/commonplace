@@ -133,5 +133,5 @@ Often, a bad system's leadership will ally with other large groups to suppress s
 - Conspiring with other [large groups](groups-large.md) to prevent [smaller groups](groups-small.md) from establishing themselves in a domain ("cartels").
 - Creating [rules](people-rules.md) that prevent people from competing with other organizations in the same domain for a certain amount of time after leaving that organization ("non-compete agreements").
 - Using publicized [awards shows](stories-storytellers.md) to demonstrate "insider" [influence](influence.md) to signal affiliated groups.
-- Delaying [law enforcement](people-rules.md) which may harm them for as long as possible, with the expectation that their opponents will run out of [hope](understanding-certainty.md) and no longer want to keep sacrificing resources for the conflict.
+- Delaying [law enforcement](people-rules.md) which may harm them for as long as possible, with the expectation that their opponents will run out of [hope](mind-understanding-certainty.md) and no longer want to keep sacrificing resources for the conflict.
 - Using protesters to "take action" through the [appearance](people-image-distortion.md) of being forced to act.

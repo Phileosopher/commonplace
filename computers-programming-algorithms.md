@@ -94,7 +94,7 @@ To do this, compression algorithms essentially run a sequential process of shrin
 
 ## Machine learning algorithms
 
-Machine learning, in particular, is a vast collection of the previous algorithms, but tends to use other algorithms as well. Most of it is to articulate and clarify [uncertainties](understanding-certainty.md) (called "entropy" inside the industry).
+Machine learning, in particular, is a vast collection of the previous algorithms, but tends to use other algorithms as well. Most of it is to articulate and clarify [uncertainties](mind-understanding-certainty.md) (called "entropy" inside the industry).
 
 A decision tree uses a tree-like model of decisions to walk through a set of selections, a bit like [project management](mgmt-2_projects-cs.md) but with more specificity. When documenting and building, the nodes break apart into sections:
 

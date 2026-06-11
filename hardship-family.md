@@ -55,6 +55,12 @@ If your emotional scarring is severe, spend time completely away from them:
 
 Whatever issues you don't work through *will* express in your [romantic relationships](relationships-why.md), so work intentionally on your [self-awareness](mind-awareness.md) and [growth](maturity.md).
 
+- The number one thing that determines a child's success in life is how well their parents trained them for impulse control.
+  - This is [scientifically](science.md) the single most determining factor even accounting for [personality](people-personality.md), intelligence, talent, and [socioeconomic status](people-classes.md).
+  - [Bad parenting](parenting-children-bad.md) is guaranteed to create limited or nonexistent impulse control.
+- Most people don't tend to learn impulse control later in life, so they will often propagate or magnify their parents' role modeling during [hardship](hardship.md).
+  - However, [choosing to change key habits](habits.md) can reverse the family cycle.
+
 ## How to deal with an unwanted pregnancy
 
 You're in a severely stressful situation, but don't panic:

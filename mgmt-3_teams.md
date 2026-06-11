@@ -157,7 +157,7 @@ Consider your own [personality](people-personality.md) when hiring.
 
 - If you're extroverted, you'll draw out passive workers' performance better.
 - If you're introverted, you'll give more stability to extroverted employees.
-- If you find workers who are more [creative](mind-creativity.md) or [intelligent](understanding.md) than you, expect them to frequently prove you wrong.
+- If you find workers who are more [creative](mind-creativity.md) or [intelligent](mind-understanding.md) than you, expect them to frequently prove you wrong.
 - If you know someone will work harder than you, make sure they'll be well-paid (and possibly more well-paid than you).
 
 While every potential candidate *could* do the job, aim for a [culture](people-culture.md) fit.

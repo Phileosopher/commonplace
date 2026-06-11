@@ -139,7 +139,7 @@ Manage risks with a wide variety of easily adaptable tools:
 
 - Maintain your cash in multiple unrelated banks, such as a large national bank and a local credit union.
 - Keep at least some of your money across different foreign currencies, in case a government suffers mass inflation.
-- [Education](understanding.md), specifically lower-tech skills you like that aren't your [normal career](jobs-1_why.md):
+- [Education](mind-understanding.md), specifically lower-tech skills you like that aren't your [normal career](jobs-1_why.md):
   - Woodworking/carpentry
   - Metalworking, knife-making, gunsmithing
   - Glassblowing, pottery

@@ -3,7 +3,7 @@
 
 Meaning is contained within whatever we call our [souls](humanity.md).
 
-We find meaning through [purposes](purpose.md) we do. However, not *all* purposes create meaning. Meaning is the "[why](understanding.md)" we do things.
+We find meaning through [purposes](purpose.md) we do. However, not *all* purposes create meaning. Meaning is the "[why](mind-understanding.md)" we do things.
 
 Our indirect sense of meaning comes through relationships. It can be [God](religion.md), [family](people-family.md), or [friendships](people-friends-why.md), but is attached to our [innate essence](humanity.md).
 
@@ -13,7 +13,7 @@ The direct sense of meaning we have control over is derived from [purposes](purp
 2. ...which create [actions](results.md), which may simply be thoughts...
 3. ...which accomplish a [purpose](purpose.md) directed toward an object.
 4. We've [predicted](mind-imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
-5. We [believe](understanding-certainty.md) our decision changed the [consequence](results.md).
+5. We [believe](mind-understanding-certainty.md) our decision changed the [consequence](results.md).
 6. The decision we made should have either prevented a potential [loss](mind-feelings-fear.md) or suffering or increased [satisfaction](mind-feelings-happiness.md).
 
 The word "responsible", as used here, is referring specifically to the above. There is often a *different* meaning for the word that means "worthy of blame", and is a matter of [consequences](results.md) (which we can never be entirely responsible for).
@@ -42,7 +42,7 @@ APPLICATION: We find unbelievable meaning through sacrifice for others, and it's
 
 The second-greatest form of experiencing meaning comes through [creating](creations.md) things that benefit others, with the greatest in *being* someone that someone else [loves](people-love.md). When we *only* consider sacrificing for others' interests, we can find incomparable meaning through [love](people-love.md), especially toward others.
 
-Every second, our responsibility-based meaning is subject to change. It can shift from an [emotional state](mind-feelings.md), or from [understanding](understanding.md) something in a new way, or could simply be because we [decided](mind-decisions.md) something differently.
+Every second, our responsibility-based meaning is subject to change. It can shift from an [emotional state](mind-feelings.md), or from [understanding](mind-understanding.md) something in a new way, or could simply be because we [decided](mind-decisions.md) something differently.
 
 ## Irresponsibility and meaning
 
@@ -54,7 +54,7 @@ Even without that provocation, anyone will turn around and pursue the difficult 
 
 APPLICATION: We can find meaning anywhere if we think about it long enough, and it contains many shared parallels:
 
-- A [scientist](science.md) and [theologian](religion.md) will both find meaning because they increase the store of [human knowledge](understanding.md).
+- A [scientist](science.md) and [theologian](religion.md) will both find meaning because they increase the store of [human knowledge](mind-understanding.md).
 - A [soldier](people-conflicts-war-why.md), of *any* country, will find meaning because they fight to defend their [homeland](groups-large.md).
 - The [entrepreneur](entrepreneur-why.md) and builder finds meaning by [building something new](creations.md).
 
@@ -78,7 +78,7 @@ APPLICATION: To find meaning, start with what you can control, then [link it tog
 
 Some people imagine a broadened scope of existence (e.g., a million years) makes everything meaningless. That's only proving itself true from that specific [perspective](people-image-why.md), but doesn't prove anything else. Those people find a paradoxical meaning in defining meaninglessness.
 
-APPLICATION: Nihilism implies everything is meaningless because it eventually won't matter. They're only correct if they believe that we live all instances at once. There's quite a lot of meaning to find in self-preservation and [love for others](people-love.md) we can do *right now*. Most nihilists believe in meaninglessness because they prioritize [certainty](understanding-certainty.md) too much.
+APPLICATION: Nihilism implies everything is meaningless because it eventually won't matter. They're only correct if they believe that we live all instances at once. There's quite a lot of meaning to find in self-preservation and [love for others](people-love.md) we can do *right now*. Most nihilists believe in meaninglessness because they prioritize [certainty](mind-understanding-certainty.md) too much.
 
 ## The journey vs. the destination
 
@@ -86,7 +86,7 @@ We don't find much meaning in the fulfillment of the things we want. Generally, 
 
 APPLICATION: Enjoyment in something isn't in the attainment, but the effort and [expected results](results.md). For that reason, accomplishing challenging and relatively unnoticed things that help others is far more rewarding than simply acquiring or achieving more.
 
-The pathway to fulfilling a [purpose](purpose.md) is *far* more [influential](influence.md) to our sense of meaning than actually getting there. The only requirement is that we [feel](mind-feelings.md) we're making progress toward it, which is usually possible as long as we [hope](understanding-certainty.md) it [can happen](results.md), and it's much easier to maintain hope when we can't [measure](math.md) our goals.
+The pathway to fulfilling a [purpose](purpose.md) is *far* more [influential](influence.md) to our sense of meaning than actually getting there. The only requirement is that we [feel](mind-feelings.md) we're making progress toward it, which is usually possible as long as we [hope](mind-understanding-certainty.md) it [can happen](results.md), and it's much easier to maintain hope when we can't [measure](math.md) our goals.
 
 APPLICATION: Video games give the [appearance](people-image-why.md) of creating results from actions, so they can still provide a sense of meaning even when there aren't any legitimate [results](results.md).
 
@@ -96,12 +96,12 @@ APPLICATION: It's perfectly possible (and not uncommon) to become wildly [succes
 
 Ironically, we can find meaning through mindless [habits](habits.md) of hope in things that do *not* contribute whatsoever to a better existence. This distorts the [good life](people-goodlife.md), since there's only marginal [love](people-love.md) for oneself without producing any tangible benefit to anyone.
 
-APPLICATION: If someone finds meaning in something, don't bother trying to change that person's mind. You can potentially [influence](influence.md) them if they want to hear you out, but their [purpose](purpose.md) is already set based on values they've already [imagined](mind-imagination.md) and [committed](mind-decisions.md) to [believing](understanding-certainty.md).
+APPLICATION: If someone finds meaning in something, don't bother trying to change that person's mind. You can potentially [influence](influence.md) them if they want to hear you out, but their [purpose](purpose.md) is already set based on values they've already [imagined](mind-imagination.md) and [committed](mind-decisions.md) to [believing](mind-understanding-certainty.md).
 
 Too much [specialization](jobs-specialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
 
-APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](mind-imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
+APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](mind-imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](mind-understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
 
 To clarify, though, the greatest meaning comes through genuine, heartfelt, purely selfless [love](people-love.md) shared with others.
 
-APPLICATION: We can frequently [feel](mind-feelings.md) meaning from others, which is how we can [know](understanding.md) something was "half-hearted".
+APPLICATION: We can frequently [feel](mind-feelings.md) meaning from others, which is how we can [know](mind-understanding.md) something was "half-hearted".

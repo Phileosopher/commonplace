@@ -1,7 +1,7 @@
 
 # What humans are
 
-While we don't fully [understand](understanding.md) what we are, we can certainly articulate some realities about ourselves.
+While we don't fully [understand](mind-understanding.md) what we are, we can certainly articulate some realities about ourselves.
 
 ## The body
 
@@ -12,7 +12,7 @@ There is certainly something more than our bodies, and nearly everyone agrees wi
 We're the only "mammals" who think about the future, but tend to make errors about pretty much everything:
 
 - Our thoughts have trouble balancing between what is vague and what is certain.
-- We often [understand](understanding.md) things with an over-simplified [model](logic.md), and tend to [simplify things further](mind-bias.md) if we're ever overwhelmed or have things that violate our [beliefs](mind-trust.md).
+- We often [understand](mind-understanding.md) things with an over-simplified [model](logic.md), and tend to [simplify things further](mind-bias.md) if we're ever overwhelmed or have things that violate our [beliefs](mind-trust.md).
 - When we [try to do something](purpose.md), our bodies are very imprecise without *tons* of [practice](success-5_persevering.md), even when the tasks have become completely [routine](habits.md).
 
 [Moral](morality.md) decisions typically involve [how we use our body](people-goodlife.md), especially in our [language](language.md).
@@ -23,7 +23,7 @@ However, against anything sensible, our errors sometimes become the [creative](m
 
 Absolutely *anything* [noble or good](morality.md) must come from something beyond our bodies. When a person's body is completely in charge of all [decision-making](mind-decisions.md), everything is taken to excessive ends. We all start [as babies](parenting-babies.md) with that mechanism, and most of [our growing](maturity.md) is through understanding the time and place for everything.
 
-While the base configuration of [reality](reality.md) is semi-ordered [chaos](unknown.md), our existence as [understanding](understanding.md) beings is semi-chaotic order.
+While the base configuration of [reality](reality.md) is semi-ordered [chaos](unknown.md), our existence as [understanding](mind-understanding.md) beings is semi-chaotic order.
 
 ## The soul
 
@@ -35,7 +35,7 @@ As it stands, [science](science.md) hasn't found the soul, so there's no empiric
 
 We automatically believe in our own souls, which is because we presume the "soul" in some form exists.
 
-If a soul exists distinctly from the body, it only naturally stands that it'd last beyond the body's [death](mind-feelings-fear.md). There are many competing ideas about [what happens then](religion-answers.md), each expanding the [story](stories-why.md) of our existence into something we can't [know](understanding.md) right now, often with many [myths](stories-myths.md) interspersed that add [meaning](meaning.md) to this present life.
+If a soul exists distinctly from the body, it only naturally stands that it'd last beyond the body's [death](mind-feelings-fear.md). There are many competing ideas about [what happens then](religion-answers.md), each expanding the [story](stories-why.md) of our existence into something we can't [know](mind-understanding.md) right now, often with many [myths](stories-myths.md) interspersed that add [meaning](meaning.md) to this present life.
 
 If the soul exists, the essence of a person is that soul, and their body is simply the thing the person operates.
 
@@ -51,9 +51,9 @@ Souls also each contain a type of [personality](people-personality.md), which is
 
 The soul constructs an [identity](people-identity.md) from its [environment](reality.md), especially from how it observes its [creations](creations.md) and [results](results.md). Most of a person's [growth](maturity.md) comes through finding the right way to get desirable responses.
 
-The things we're naturally [good at](understanding.md) and [like](humanity.md) doing can be defined as natural talent, which comes from the soul's interaction with the body. While it expresses as we create and build, it has its potential *long* before we become [influential](influence.md) with that talent, often when we're [children](maturity.md) before we can even [speak](language.md).
+The things we're naturally [good at](mind-understanding.md) and [like](humanity.md) doing can be defined as natural talent, which comes from the soul's interaction with the body. While it expresses as we create and build, it has its potential *long* before we become [influential](influence.md) with that talent, often when we're [children](maturity.md) before we can even [speak](language.md).
 
-We have thoughts in our mind, which are fleeting glimpses of [patterns](symbols.md) that represent as [values](values.md). When thoughts group together enough to generate [certainty](understanding-certainty.md), they form [feelings](mind-feelings.md) that can last longer than mere thoughts. Over a longer stretch of time, feelings can create an intuition and sensations, which profoundly affect our [understanding](understanding.md) and [personality](people-personality.md).
+We have thoughts in our mind, which are fleeting glimpses of [patterns](symbols.md) that represent as [values](values.md). When thoughts group together enough to generate [certainty](mind-understanding-certainty.md), they form [feelings](mind-feelings.md) that can last longer than mere thoughts. Over a longer stretch of time, feelings can create an intuition and sensations, which profoundly affect our [understanding](mind-understanding.md) and [personality](people-personality.md).
 
 Our subconscious mind is designed to protect us by automatically performing [routine actions](habits.md), but is *ridiculously* hypersensitive to input. These inputs can either be thoughts or [environmental experience](reality.md). Anything we can potentially do automatically and regard as [unimportant](purpose.md), including our [feelings](mind-feelings.md), can become part of that subconscious.
 
@@ -117,5 +117,5 @@ Unfortunately, there are far too many logistical failures that almost guarantee 
 APPLICATION: The transhumanism movement is doomed to never achieve immortality, mostly because their proponents haven't sufficiently grasped how the human soul works.
 
 - Since many of them are naturalists, they consider the soul, brain, mind, and psyche to be synonyms.
-- Without knowing the raw mechanisms of how we're built with absolute [certainty](understanding-certainty.md) (including [our connection](https://gainedin.site/networks/) with God), they miss a major component of how to [fix](https://adequate.life/fix/) humanity.
-- It will persist, however, because it's a secular religion, filled with [myths](stories-myths.md) and [hopes](mind-trust.md) which are difficult to easily define but easy to [believe in](understanding-certainty.md).
+- Without knowing the raw mechanisms of how we're built with absolute [certainty](mind-understanding-certainty.md) (including [our connection](https://gainedin.site/networks/) with God), they miss a major component of how to [fix](https://adequate.life/fix/) humanity.
+- It will persist, however, because it's a secular religion, filled with [myths](stories-myths.md) and [hopes](mind-trust.md) which are difficult to easily define but easy to [believe in](mind-understanding-certainty.md).

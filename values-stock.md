@@ -23,7 +23,7 @@ The [Natural World](reality.md):
 [Religion](religion-answers.md) and [trust](mind-trust.md):
 
 - [God](theology-god.md) is good.
-- [Beliefs](understanding-certainty.md) make people stupid.
+- [Beliefs](mind-understanding-certainty.md) make people stupid.
 - [Hope](mind-trust.md) can change [reality](reality.md).
 - Drinking [alcohol](fun-alcohol.md) or consuming recreational drugs can destroy your life.
 - Anti-drug propaganda is overstating the problem.
@@ -34,7 +34,7 @@ The [Natural World](reality.md):
 - Always trust your first impressions.
 - First impressions are misleading.
 
-[Understanding](understanding.md), [values](values.md), and [science](science.md):
+[Understanding](mind-understanding.md), [values](values.md), and [science](science.md):
 
 - Curiosity is dangerous.
 - Curiosity is good.
@@ -222,7 +222,7 @@ Romantic [love](people-love.md):
 - Having children makes us [grow up](maturity.md).
 - Children are innocent.
 - Children are cruel.
-- You're [responsible](meaning.md) for your children's well-being and [understanding](understanding.md), *not* any media or authority figures.
+- You're [responsible](meaning.md) for your children's well-being and [understanding](mind-understanding.md), *not* any media or authority figures.
 - Your relationships with relatives are stronger than any other [friends](people-friends.md).
 - Build bonds with your children before it's too late.
 - You must [prove yourself](maturity.md) to the older generation.

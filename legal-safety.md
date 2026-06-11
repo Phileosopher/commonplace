@@ -394,6 +394,34 @@ The legal process is a *very* drawn-out mechanism that goes through a predictabl
    - The judge will make a determination on how the guilty party will "pay" for their misbehavior.
    - After this, everything goes to law enforcement and its many subdomains (e.g., child protective services, environmental regulation, etc.).
 
+Submitting evidence in court is often difficult for lawyers.
+
+- While you can often submit *exhibits*, they don't become evidence until there's a substantial link between the given information and how it affects the case.
+- You often can state that you need to cross-examine the information they provide with your own information, which can halt the process.
+
+Learn to be *very* slow to speak when being questioned.
+
+- Always [state the truth](people-lying.md), since you can be sued for perjury later if you don't.
+- When responding to questions, be careful with lawyer questions.
+  - Sometimes they'll ask two different questions at the same time (e.g., "You saw the vehicle speeding and running a red light, correct?")
+  - Other times they'll ask vague questions that can be used later (e.g., "Have you ever been at the scene of the crime?")
+  - They may ask things that create an [emotional](mind-feelings.md) reaction (e.g., "As a criminal, have you ever stolen?")
+  - They'll also often deliver rapid-fire questions in the hopes that you get into a flow of answering haphazardly.
+- By taking it precisely, slowly, and deliberately, you have the ability to validate the truth and, subsequently, permit more [justice](morality-justice.md) in your favor.
+
+When investigating the opposition in a civil case, you usually can't prove that a thing *didn't* happen.
+
+- What you *can* prove, however, is the unreliability of a [lie](people-lying.md).
+- Therefore, the best approach is to focus intently on all the details of a lie to find factual evidence that contradicts it.
+  - Through that approach, the liar will be shown, and their collective credibility of all their *other* claims will also be discredited as well.
+
+A smear campaign isn't simply [abuse](hardship-abuse.md), and is in fact a [crime](legal-crimes.md).
+
+- You won't win by fighting back emotionally, defending yourself in court, or telling your story.
+- Instead, in a high-conflict situation, the smear campaign is a legal opportunity.
+  - It often involves conspiracy, defamation, perjury, harassment, stalking, and sometimes extortion.
+  - They're giving evidence against themselves through their behavior.
+
 Often, in other unrelated domains (e.g., hairstylist licensing), this legal process will be the same thing, but with more [good faith](https://gainedin.site/good-faith/) involved.
 
 If someone performs a breach of contract and doesn't pay, don't hunt them down.

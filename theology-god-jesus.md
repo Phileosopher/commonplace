@@ -20,7 +20,7 @@ Like the Trinity, it's difficult for us to understand how Jesus is 100% man and 
 - He couldn't have legitimately died if He wasn't a man.
 - *We're* obviously not God, so it requires more [philosophical](philosophy.md) [analysis](logic.md).
 
-[Jesus' *entire message*](https://theologos.site/gospel/) requires people to take His divine humanity as a literal concept, so Christians in this life will always be stuck with a paradox of [understanding](understanding.md).
+[Jesus' *entire message*](https://theologos.site/gospel/) requires people to take His divine humanity as a literal concept, so Christians in this life will always be stuck with a paradox of [understanding](mind-understanding.md).
 
 There is no direct significance about the name "Jesus" or "Jesus Christ".
 

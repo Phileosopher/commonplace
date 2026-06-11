@@ -45,7 +45,7 @@ Plumbing (~-4,000)
 
 Mathematics (~-3,000)
 
-- Able to [understand](understanding.md) grouped things beyond the present moment.
+- Able to [understand](mind-understanding.md) grouped things beyond the present moment.
 
 Iron/steel working (~-2,500)
 

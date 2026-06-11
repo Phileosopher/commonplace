@@ -9,7 +9,7 @@ These values we identify with are an [image](people-image-why.md) we've [created
 - [Physical things](reality.md) like [sexuality](people-gender.md), psychological diagnosis, race, or [social class](people-classes.md).
 - [Friends](people-friends-why.md) and [social groups](groups-member.md).
 - Long-term [purposes](purpose.md) like [career](jobs-1_why.md), [family](people-family.md), and [legacy](legacy.md).
-- Raw [principles and concepts](values.md), [virtues](morality-virtues.md), or [understanding](understanding.md) of specific things.
+- Raw [principles and concepts](values.md), [virtues](morality-virtues.md), or [understanding](mind-understanding.md) of specific things.
 - Absence of a thing (e.g., "not pretty enough", "stupid", "weak").
 - Hatred of a thing (e.g., hating a father or [political party](politics-conservativeliberal.md)).
 
@@ -27,17 +27,17 @@ If we keep [living life well](people-goodlife.md), we spend more time *doing* ne
 
 APPLICATION: We become better people when we try to develop [loving](people-love.md) characteristics more than other people *seeing* us as loving.
 
-The name for a thing holds tremendous [power](power.md) through giving [certainty](understanding-certainty.md) about something's presence. The word is a [logical](logic.md) separation from other things, and represents into [how we see that thing](people-image-why.md) in relationship to other things. At the farthest extreme it can often create [religious implications](religion.md).
+The name for a thing holds tremendous [power](power.md) through giving [certainty](mind-understanding-certainty.md) about something's presence. The word is a [logical](logic.md) separation from other things, and represents into [how we see that thing](people-image-why.md) in relationship to other things. At the farthest extreme it can often create [religious implications](religion.md).
 
 ## Shifting
 
 Whenever we experience new [changes](people-changes.md), our identity will likely change. In fact, major components of [personalities](people-personality.md) change whenever people make life decisions like [marry](relationships-marriage.md) or [move](home-moving.md).
 
-Identity fluctuates and shifts around all the time, and is a product of continuous [learning](understanding.md) and [growth](people-changes.md).
+Identity fluctuates and shifts around all the time, and is a product of continuous [learning](mind-understanding.md) and [growth](people-changes.md).
 
 APPLICATION: Slowing our changes in identity is a sign that we're [not growing](meaning.md).
 
-Assuming we're becoming [more mature](maturity.md) and are mentally well, we tend to cycle through various identifiers over time as we [understand](understanding.md) more comparisons about [reality](reality.md) and broaden our sense of self.
+Assuming we're becoming [more mature](maturity.md) and are mentally well, we tend to cycle through various identifiers over time as we [understand](mind-understanding.md) more comparisons about [reality](reality.md) and broaden our sense of self.
 
 Our childhood identities will combine to generate most of how we build our [personalities](people-personality.md), and the personality will persist even after we've moved on from the identifying elements.
 
@@ -57,19 +57,19 @@ If we suffer [addiction](addiction.md), that substance is our [creative](mind-cr
 
 A wide variety of things happen *to* us, but we [decide](mind-decisions.md), consciously or not, *which* [values](values.md) to prioritize. Identity is the "greatest hits" of a person to answer "who am I?" and is one of the most important sets of [habitual thoughts](habits.md) in a person.
 
-Our identities are *always* [decisions](mind-decisions.md), though those decisions are often not conscious. We usually choose our identity by the [perceived benefits](purpose.md) we can acquire through associating with something, but we can sometimes identify through a strong [belief](understanding-certainty.md) in something we're [afraid](mind-feelings-fear.md) of that gives *no* benefit.
+Our identities are *always* [decisions](mind-decisions.md), though those decisions are often not conscious. We usually choose our identity by the [perceived benefits](purpose.md) we can acquire through associating with something, but we can sometimes identify through a strong [belief](mind-understanding-certainty.md) in something we're [afraid](mind-feelings-fear.md) of that gives *no* benefit.
 
 Generally, we do better by identifying with things we can [control](results.md) instead of things given to us from our environment (internal vs. external locus of control).
 
-- If it's beyond our control or [influence](influence.md), we must [trust](understanding-certainty.md) other things to keep our identity compliant with [reality](reality.md).
+- If it's beyond our control or [influence](influence.md), we must [trust](mind-understanding-certainty.md) other things to keep our identity compliant with [reality](reality.md).
 - It takes a long time for us to learn who to trust, when to trust, and how much to trust.
 - Further, if someone breaches that trust, it takes a long time for us to trust again.
 
 We're usually born with an external locus of control and must learn to focus only on what we *can* [control](results.md).
 
-We have "authentic" identities when we have [created](mind-creativity.md) an original mix of our observed [values](values.md) that most closely conform to what we prefer. Otherwise, we can conform to our [culture](people-culture.md) by stating back and repeating *exactly* what we [understand](understanding.md) others want. This isn't always better, but necessary for [understanding](understanding.md) ourselves, and often requires us to reach at *least* [age 35-40](maturity.md) to get there.
+We have "authentic" identities when we have [created](mind-creativity.md) an original mix of our observed [values](values.md) that most closely conform to what we prefer. Otherwise, we can conform to our [culture](people-culture.md) by stating back and repeating *exactly* what we [understand](mind-understanding.md) others want. This isn't always better, but necessary for [understanding](mind-understanding.md) ourselves, and often requires us to reach at *least* [age 35-40](maturity.md) to get there.
 
-APPLICATION: People who use clichés and trite sayings aren't being authentic with their [language](language.md) because they're [afraid](mind-feelings-fear.md) of [what others may think](morality-taboo.md) or what they may [learn](understanding.md) about themselves, and observers can see it clearly.
+APPLICATION: People who use clichés and trite sayings aren't being authentic with their [language](language.md) because they're [afraid](mind-feelings-fear.md) of [what others may think](morality-taboo.md) or what they may [learn](mind-understanding.md) about themselves, and observers can see it clearly.
 
 APPLICATION: The easiest way to detect what others identify with is to see them when they're experiencing changing circumstances. That person will [choose](mind-decisions.md) to keep what they identify with, even when they [deny](people-image-distortion.md) or [feel](mind-feelings.md) shame over it. Often, abrupt [decisions](mind-decisions.md) come *from* those specific identifiers they've finally [made a move](results.md) toward.
 

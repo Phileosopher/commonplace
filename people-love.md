@@ -9,7 +9,7 @@ Love is typically [habitual](habits.md) in day-to-day life, and we begin loving 
 
 The [cultural](people-culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
-True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving that individual and their interests. This shows itself most clearly when people engage in [heated conflicts](people-conflicts-why.md) with one another. It may be directed to preserving a person, object, [belief](understanding-certainty.md), [mode of thought](understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
+True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving that individual and their interests. This shows itself most clearly when people engage in [heated conflicts](people-conflicts-why.md) with one another. It may be directed to preserving a person, object, [belief](mind-understanding-certainty.md), [mode of thought](mind-understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
 
 APPLICATION: Many people who talk about "undying affection" or "oneness with the universe" are associated with limerent feelings, which are *not* any legitimate form of love. True love is far less sensational, and preoccupies itself with the well-being of others.
 
@@ -52,7 +52,7 @@ Since we're most [aware](mind-awareness.md) of ourselves, we feel things about u
 - Ourselves in the [foreseeable future](mind-imagination.md) (i.e., "[safety](safety.md)")
 - [Who we really are](humanity.md) (*philautia* in Greek)
 
-We *can* love others like ourselves, but we're incapable of loving others *more* than ourselves because we don't know about others' needs as easily as our own. While we may [understand](understanding.md) others' needs somewhat, we only extend our love as far as we can adapt our [universal human understanding](humanity-universals.md) out from ourselves toward others.
+We *can* love others like ourselves, but we're incapable of loving others *more* than ourselves because we don't know about others' needs as easily as our own. While we may [understand](mind-understanding.md) others' needs somewhat, we only extend our love as far as we can adapt our [universal human understanding](humanity-universals.md) out from ourselves toward others.
 
 If we sacrifice more for others than ourselves, we are frequently doing it from [religious](religion.md) [habit](habits.md) or our [upbringing](people-family.md). That motivation, whatever it is now, started as a desire for a [form](power-types.md) of [power](power.md).
 
@@ -72,7 +72,7 @@ We can love what a person possesses.
 We can love what a person does.
 
 - Their labor and [results](results.md)
-- Their natural abilities and [understanding](understanding.md)
+- Their natural abilities and [understanding](mind-understanding.md)
 - [Future](mind-imagination.md) abilities or results
 
 We can love who a person is (*agape*/*philia* in Greek, depending on whether we have more [power](power.md) or the same).
@@ -101,7 +101,7 @@ Loving is always sharing, and it includes various sacrifices:
 
 - [Power](power.md), in [one of its forms](power-types.md).
 - Affection and intimacy.
-- [Understanding](understanding.md), and the time it takes to deliver it.
+- [Understanding](mind-understanding.md), and the time it takes to deliver it.
 - [Risking](safety.md) absolutely *any* sort of adverse self-interest for another's benefit.
 
 We can't see love directly from the [soul](humanity.md), but we can see it through what we spend much of our effort doing. And, since we're spending so much effort on it, our [results](results.md) from loving will only loosely connect to whether we actually *do* love.

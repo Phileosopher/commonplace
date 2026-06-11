@@ -62,7 +62,7 @@ One of the most effective forms of improved healthcare, though, comes in underst
 
 ## Goal 4: Quality Education
 
-[Understanding](understanding.md) is critical to all success, and [education](education.md) is the means to that understanding.
+[Understanding](mind-understanding.md) is critical to all success, and [education](education.md) is the means to that understanding.
 
 The onset of [the internet](computers-browser.md) makes education trivially easy.
 
@@ -75,7 +75,7 @@ This won't come without pushback.
 
 The most lasting form of education, though, comes through the wisdom and experience of the [older generation](maturity.md).
 
-- In that sense, in all [disciplines](jobs-specialization.md), venerating the works of the elderly is the best way to glean [tribal knowledge](understanding.md) that's as-of-yet unattainable via systemic reproduction.
+- In that sense, in all [disciplines](jobs-specialization.md), venerating the works of the elderly is the best way to glean [tribal knowledge](mind-understanding.md) that's as-of-yet unattainable via systemic reproduction.
 
 ## Goal 5: Gender Equality
 
@@ -83,7 +83,7 @@ Females and males are [biologically different from birth](people-gender.md). Unf
 
 Like with many [left-leaning ideologies](politics-leftism.md), the hangup ties to the specificity of the term "equality". In that sense, this is a subset of Goal 10.
 
-Since males and females don't [think](understanding.md) precisely the same way, they will not [accomplish purposes](purpose.md) in the same way, or with a similarly predictable timeline.
+Since males and females don't [think](mind-understanding.md) precisely the same way, they will not [accomplish purposes](purpose.md) in the same way, or with a similarly predictable timeline.
 
 - We should clarify whether we should give females and males an equal shot at everything, or make compensating efforts to accommodate for inadequacies in one gender or another (i.e., equality of opportunity vs equality of outcome).
 

@@ -15,7 +15,7 @@ When we understand things to the point of [usefulness](purpose.md), we've acquir
 
 APPLICATION: There are far too many [unknown](unknown.md) things with elements we can't know to reliably reach the end of understanding anything. For that reason, knowledge is only worth gaining if we can direct ourselves to a tangible [purpose](purpose.md).
 
-Our [perceptions](people-image-why.md) are limited, so we take perceived facts by [trusting](understanding-certainty.md) something. We always structure our beliefs [logically](logic.md), but they're not always rational.
+Our [perceptions](people-image-why.md) are limited, so we take perceived facts by [trusting](mind-understanding-certainty.md) something. We always structure our beliefs [logically](logic.md), but they're not always rational.
 
 - *Rational* thoughts, by contrast to logical ones, are tempered by intuition derived from [feelings](mind-feelings.md).
 
@@ -26,15 +26,15 @@ One of the most profound limits to our understanding is that we *always* lock on
 - Nobody can ever sincerely and honestly say, "I believe differently than I know".
 - We're forever stuck with [our bias](mind-bias.md) about [the truth](reality.md), even when we expand our views to accommodate others' beliefs.
 
-Understanding isn't necessarily [logical](logic.md). It incorporates [feelings](mind-feelings.md) to give us a degree of [certainty](understanding-certainty.md) that we're correct. Then, we derive *more* understanding from believing we understand.
+Understanding isn't necessarily [logical](logic.md). It incorporates [feelings](mind-feelings.md) to give us a degree of [certainty](mind-understanding-certainty.md) that we're correct. Then, we derive *more* understanding from believing we understand.
 
 APPLICATION: To be fully sure we're not reacting to [feelings](mind-feelings.md), give any piece of information five minutes for it to percolate into our understanding.
 
-We gain understanding through [learning](understanding-learn.md), which we broadly call "[education](education.md)".
+We gain understanding through [learning](mind-understanding-learn.md), which we broadly call "[education](education.md)".
 
 ## The perspectives from understanding
 
-There are *many* ways to [see something](people-image-why.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](mind-imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](mind-decisions.md) something strictly on their perceptions by leaning into how they [believe](understanding-certainty.md) that *others* understand things.
+There are *many* ways to [see something](people-image-why.md), and everyone who doesn't possess the [Cluster B neurodivergence](mind-neurodivergence.md) can [imagine](mind-imagination.md) perspectives beyond their own. A [learned](education.md) person, in some way, avoids [judging](mind-decisions.md) something strictly on their perceptions by leaning into how they [believe](mind-understanding-certainty.md) that *others* understand things.
 
 The best way to understand other perspectives isn't from simply understanding what someone believes, or whether it's [right or wrong](morality.md). To understand another viewpoint, you must understand *why* they came to that conclusion, and the implications of that set of ideas.
 
@@ -50,7 +50,7 @@ We also must revisit the same expression multiple times to accurately capture it
 
 Of course, when people *don't* want to understand, they build [relationships](people-friends-why.md) with each other over that ignorance. We tend to [associate](people-friends-why.md) others who share our level of [passion](purpose.md) for understanding far more than [specific disciplines](jobs-spcialization.md) we share.
 
-The essence of understanding comes through [its depth](understanding-depth.md), but also ends up constraining itself by its specialization.
+The essence of understanding comes through [its depth](mind-understanding-depth.md), but also ends up constraining itself by its specialization.
 
 ## Specialized understanding
 
@@ -98,11 +98,11 @@ APPLICATION: The wise and foolish are the most confident, both of them from beli
 
 APPLICATION: Question obvious things. The more mundane and obvious, the more likely everyone else overlooks an apparent fact. The same rule goes for [taboo](morality-taboo.md) subjects.
 
-At a certain point, increasing our understanding will simplify things and create more clarity. Once we've grasped the full [image](people-image-why.md) of that thing as far as it can go (which happens eventually because everything but [God](religion-answers.md) has finite components), we find [certainty](understanding-certainty.md) in what we understand.
+At a certain point, increasing our understanding will simplify things and create more clarity. Once we've grasped the full [image](people-image-why.md) of that thing as far as it can go (which happens eventually because everything but [God](religion-answers.md) has finite components), we find [certainty](mind-understanding-certainty.md) in what we understand.
 
 APPLICATION: The more we know, the more possible perspectives we see we may be able to have, and the more we realize we don't know. The pinnacle of understanding is to see how little we ultimately know while also enjoying the journey.
 
-As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](understanding-certainty.md). People with less understanding will often [interpret](people-culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
+As time passes, we lose the context for where we got the information. It blurs itself into a broad and (often) well-placed [certainty](mind-understanding-certainty.md). People with less understanding will often [interpret](people-culture.md) that understanding as arrogance. Depending on the [quality](values-quality.md) of what they understand, they may or may not be.
 
 APPLICATION: Confidence is a lousy indicator for [quality work](results.md), which is why [interviews](jobs-5_interview.md) rarely determine successful candidates for jobs. Instead, soft skills are far more reliable, but there's no easy way to [measure](math.md) them, so great workers can only be [chosen](mind-decisions.md) through a wise interviewer's [intuition](mind-feelings.md) (which requires that interviewer to have experience, [which isn't always a prerequisite for management](mgmt-badsystems.md)).
 
@@ -110,9 +110,9 @@ At the same time, confidence for wise people is granular. For example, someone m
 
 APPLICATION: Often, true understanding doesn't come in what you know, but in knowing intuitively that something is wrong or worth ignoring. The only way to find it out is through very close observation.
 
-APPLICATION: Since we must accept how little we know, more [information](people-image-why.md) makes wisdom harder to maintain. The only way to stay wise *and* intelligent is with many [inner conflicts](people-conflicts-inner.md) over what we'd conventionally [perceive](people-image-why.md) and [believe](understanding-certainty.md).
+APPLICATION: Since we must accept how little we know, more [information](people-image-why.md) makes wisdom harder to maintain. The only way to stay wise *and* intelligent is with many [inner conflicts](people-conflicts-inner.md) over what we'd conventionally [perceive](people-image-why.md) and [believe](mind-understanding-certainty.md).
 
-When someone tests experience against [reality](reality.md), they will discover truth. They know with [absolute certainty](understanding-certainty.md) they've found it, so they don't need to reassess it, and it becomes a [mental habit](habits.md) that slowly moves to the subconscious. People often describe tested experiences as "experience" or "enlightenment", but it's also known as "common sense" when most people in a [group](groups-member.md) automatically believe it.
+When someone tests experience against [reality](reality.md), they will discover truth. They know with [absolute certainty](mind-understanding-certainty.md) they've found it, so they don't need to reassess it, and it becomes a [mental habit](habits.md) that slowly moves to the subconscious. People often describe tested experiences as "experience" or "enlightenment", but it's also known as "common sense" when most people in a [group](groups-member.md) automatically believe it.
 
 APPLICATION: Common sense is the set of experiences that made their way into a group, but that doesn't mean the group understands *why* those experiences are good. This means there's always a push for [new ideas against tradition](politics-conservativeliberal.md) within any social group where nobody really knows what's going on.
 
@@ -138,7 +138,7 @@ We never entirely understand *each other* fully, though. The domain of others' m
 
 ## Measuring understanding
 
-We tend to measure others' understanding by *their* [confidence](understanding-certainty.md), but it's a double-edged sword:
+We tend to measure others' understanding by *their* [confidence](mind-understanding-certainty.md), but it's a double-edged sword:
 
 1. Increasing understanding often creates *less* confidence as we gain awareness of the sophisticated components of the thing.
 2. People can [fake](people-image-distortion.md) confidence, so they'll exploit the [image](people-image-why.md) of confidence to gain [power](power.md) with what they're not showing (sprezzatura).
@@ -146,7 +146,7 @@ We tend to measure others' understanding by *their* [confidence](understanding-c
 Understanding is difficult to measure because that measurement can come through various [results](results.md) that vary wildly:
 
 - How easily or simply they can put those ideas in [words](language.md) or [explain](people-conversation.md) things.
-- How well someone can [imagine](mind-imagination.md) easily [believable](understanding-certainty.md) [stories](stories-why.md).
+- How well someone can [imagine](mind-imagination.md) easily [believable](mind-understanding-certainty.md) [stories](stories-why.md).
 - Capability of mentally [rebuilding](mind-imagination.md) the form of something and dividing it into [logical](logic.md) components.
 - Understanding the connection of something to other things that may be seemingly unrelated at first.
 - How well someone can [feel](mind-feelings.md) the things around something when they don't understand (i.e., "soft skills").
@@ -171,11 +171,11 @@ APPLICATION: If we trust others' understanding, we must mind the [culture](peopl
 
 [Past trauma](hardship-ptsd.md) or [fears](mind-feelings-fear.md) of what things may imply will often make us sidestep having to understand certain things. With enough experience, some people find [creative](mind-creativity.md) ways to avoid understanding something entirely!
 
-Possessing understanding creates a severe blind spot because it makes us [certain](understanding-certainty.md) of specific things, which will slowly develop as presumed [patterns](symbols.md) of how [reality](reality.md) works.
+Possessing understanding creates a severe blind spot because it makes us [certain](mind-understanding-certainty.md) of specific things, which will slowly develop as presumed [patterns](symbols.md) of how [reality](reality.md) works.
 
 - If someone else has a differing [viewpoint](people-image-why.md), even with a similar scope of logical rigor, it's *extremely* tempting to dismiss the person without considering their ideas.
 - Since understanding is effectively a composite of finely-tuned [bias](mind-bias.md), there is a strategic advantage to having no knowledge, especially as [reality changes](reality.md).
-- Rational people can be susceptible to dumb ideas proportional to how much they [trust](understanding-certainty.md) their intelligence.
+- Rational people can be susceptible to dumb ideas proportional to how much they [trust](mind-understanding-certainty.md) their intelligence.
 
 APPLICATION: The elderly have lived so long in their [habits](habits.md), so they either possess some of the strongest understanding of all humanity or some of the worst. There's very little room for them to be in the middle.
 

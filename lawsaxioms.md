@@ -39,7 +39,7 @@ Basket Case Theory - Everyone, no matter [how good they look](people-image-why.m
 
 Bellisario's Maxim - Every [creation](creations.md) has elements the creator overlooked.
 
-Benford's Law of Controversy - [Passion](mind-feelings.md) and available [information](understanding.md) are inversely proportional to one another.
+Benford's Law of Controversy - [Passion](mind-feelings.md) and available [information](mind-understanding.md) are inversely proportional to one another.
 
 Diminishing Intent Law - If someone doesn't act quickly with an idea, the idea will be lost.
 

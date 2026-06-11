@@ -72,7 +72,7 @@ Some non-believers defend their views through elaborate thinking that they're ty
 - Many of them believe a few possible delusions:
   - [God](theology-god.md) is a reckless child in a playground or an angry man in the clouds.
   - [Sin](theology-sins.md) is simply a perception, and doesn't exist, or doesn't apply.
-  - The [spiritual world](spiritual-warfare.md) can be just as easily [understood](understanding.md) as the physical world.
+  - The [spiritual world](spiritual-warfare.md) can be just as easily [understood](mind-understanding.md) as the physical world.
   - Nobody, whatsoever, is [trustworthy](mind-trust.md).
 - Many of them are *very* skilled at making Christians lose their patience and dragging out an argument.
 - Other people are legitimately seeking Jesus, and your joy is more important (and likely) than winning an argument with them.

@@ -3,7 +3,7 @@
 
 People respond better to great listeners than great speakers who don't listen:
 
-- Everyone [understands reality](understanding.md) differently, and listening is how we understand those differences.
+- Everyone [understands reality](mind-understanding.md) differently, and listening is how we understand those differences.
 - By listening, you're telling that person they're important or, at least, their words are important.
 - Even if you're an awful speaker, people will still listen back out of [respect](people-3_respect.md) if you were listening to *them*.
 - Good listening can restart a stopped story or fill in gaps you may have misunderstood.

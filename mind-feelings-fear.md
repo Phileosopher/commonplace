@@ -5,13 +5,13 @@ Fear is whenever the [image](people-image.md) of a situation makes us believe th
 
 More than anything else, fear is the strongest [motivator](purpose.md), though we're often [unaware](mind-awareness.md) of its presence in our minds. Beyond fear, the only close contender for overwhelming motivational drive is [love](people-love.md).
 
-- However, while love is a [choice](mind-decisions.md), fear is a strong reactive [feeling](mind-feelings.md) that can override our [understanding](understanding.md).
+- However, while love is a [choice](mind-decisions.md), fear is a strong reactive [feeling](mind-feelings.md) that can override our [understanding](mind-understanding.md).
 
 When we [imagine](mind-imagination.md) loss in the past, we tend to experience [sadness](mind-feelings-sadness.md), but fear arises when we imagine loss in the future. Fear is a type of "cost" we expect to sacrifice for a [decision](mind-decisions.md).
 
 If we're consistently anxious, we usually have an unknown "dread" we can't put into [language](language.md), but we're afraid of [the unknown](unknown.md) enough that we don't want to confront it.
 
-Our fears always start [rationally](logic.md) when something we [trusted](mind-trust.md) doesn't protect us, but subconscious [beliefs](understanding-certainty.md) that contradict [reality](reality.md) can easily overpower facts, which can make our fears *very* irrational.
+Our fears always start [rationally](logic.md) when something we [trusted](mind-trust.md) doesn't protect us, but subconscious [beliefs](mind-understanding-certainty.md) that contradict [reality](reality.md) can easily overpower facts, which can make our fears *very* irrational.
 
 While most fears have a valid basis, we create fantastically ridiculous [expectations](mind-imagination.md) when we haven't released [past trauma](hardship-ptsd.md), and fears attached to them tend to be *way* overplayed from [reality](reality.md).
 
@@ -25,7 +25,7 @@ APPLICATION: Since nearly everything uncomfortable associates with the perceptio
 
 We tend to be afraid about short-term issues or things we imagine (e.g., sharks, public speaking) and often overlook some things we *should* be afraid of:
 
-- We can't be [precisely certain](understanding-certainty.md) of anything, not even [who we are](people-identity.md) or [what really exists](reality.md).
+- We can't be [precisely certain](mind-understanding-certainty.md) of anything, not even [who we are](people-identity.md) or [what really exists](reality.md).
 - We can't [predict the future](mind-imagination.md) in any reasonable measure, nor have full clarity about what the past even was.
 - We'll all [die](hardship-death.md), with little certainty of [what comes next](religion-answers.md).
 
@@ -68,11 +68,11 @@ While we can reproduce most organs, we can't do anything about a damaged brain. 
 
 The reason death is so difficult to take is from a few difficult realities combined:
 
-1. We can declare death itself to be an absolutely [certain](understanding-certainty.md) thing, far more than most things.
+1. We can declare death itself to be an absolutely [certain](mind-understanding-certainty.md) thing, far more than most things.
 2. Until we're near death, we have [no idea](unknown.md) what will cause it.
 3. Death always alludes to irreconcilable uncertainties of what happens afterward, and [there are many religions that can't all be correct at once](religion-answers.md).
 
-To stay [mentally well](mind-feelings-happiness.md), we subconsciously employ a remarkable technique where we keep the reality of death as [knowledge](understanding.md) separate from our [feelings](mind-feelings.md). That all changes when we [experience](understanding-certainty.md) death firsthand, but it permits us to *not* think about it constantly on a moment-by-moment basis.
+To stay [mentally well](mind-feelings-happiness.md), we subconsciously employ a remarkable technique where we keep the reality of death as [knowledge](mind-understanding.md) separate from our [feelings](mind-feelings.md). That all changes when we [experience](mind-understanding-certainty.md) death firsthand, but it permits us to *not* think about it constantly on a moment-by-moment basis.
 
 To fight death, we tend to obsess about preserving life:
 
@@ -89,7 +89,7 @@ The fear of death contributes to far more [illogical](logic.md) behavior than we
 - As we [get older](maturity.md) and time becomes more [scarce](values.md), we think about death more frequently, which contributes heavily to the [purposes](purpose.md) we pursue.
 - Even [wars](people-conflicts-war-why.md), when not directed to [destroying a people group](morality-evil.md), are fought with the [appearance](people-image-why.md) of fighting for scarce resources that would lead to death if depleted.
 
-APPLICATION: If death had no consequences, nothing would be serious, which is why the most [religious people](religion.md) who sincerely [believe](understanding-certainty.md) their afterlife [stories](stories-why.md) have a great [sense of humor](humor.md).
+APPLICATION: If death had no consequences, nothing would be serious, which is why the most [religious people](religion.md) who sincerely [believe](mind-understanding-certainty.md) their afterlife [stories](stories-why.md) have a great [sense of humor](humor.md).
 
 Since diseases reproduce some experiences of dying, we become insanely irrational when we encounter them, frequently with [obsessive](addiction.md) or excessive [hygiene](people-image.md). Ironically, our bodies successfully fight 99.99% of them off without help, become [stronger for it](hardship.md), and the thing that often kills us is the body's *response* to the disease (e.g., inflammation, fever) or the [political control](power-types.md) around that response.
 
@@ -101,7 +101,7 @@ When we take that fear of death into a more broad application, we tend to create
 
 [Reality](reality.md) itself can be scary, and we'll frequently block or [distort](people-image-distortion.md) our perception of it.
 
-We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](understanding-certainty.md). The [openness to experience](people-personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
+We have an [irrational](logic.md) fear of true things because they force us to [change](people-changes.md). Every time we encounter a change, our [habits](habits.md) must reprogram, and we introduce more of the [unknown](unknown.md) into something we had thought was [certain](mind-understanding-certainty.md). The [openness to experience](people-personality.md) aspects of our personality comes through how well we can resolve the conflicts due to change.
 
 APPLICATION: Everyone's fear of death is why the topic is typically inappropriate [in modern polite society](people-friends.md), and also why thoughts like suicidal tendencies make people generally [feel](mind-feelings.md) uncomfortable.
 
@@ -176,7 +176,7 @@ A fearful group is toxic. People will repeat [stories](stories-why.md) that bear
 
 Fearful people [trust](mind-trust.md) a [large group](groups-large.md) to address their problem, mostly because they trust that [power](power.md) over what they can't see.
 
-One courageous person is capable of sparking a [trend](people-trends.md) of boldness across an entire [group of people](groups-member.md). It isn't uncommon to see entire [political revolutions](people-conflicts-war-why.md) shift from one person's unwillingness to back down from an [idea](values.md) they [believe in](understanding-certainty.md).
+One courageous person is capable of sparking a [trend](people-trends.md) of boldness across an entire [group of people](groups-member.md). It isn't uncommon to see entire [political revolutions](people-conflicts-war-why.md) shift from one person's unwillingness to back down from an [idea](values.md) they [believe in](mind-understanding-certainty.md).
 
 Leaders often become aware of the individuals' trust in them, and can use a steadily reliable [political](power-types.md) trick:
 

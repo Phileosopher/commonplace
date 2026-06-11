@@ -1,7 +1,7 @@
 
 # Thought experiments and paradoxes list
 
-This is a list of philosophers' thought experiments and paradoxes. They are distilled aspects of [imagination](mind-imagination.md) designed to carve out very particular elements of [understanding](understanding.md).
+This is a list of philosophers' thought experiments and paradoxes. They are distilled aspects of [imagination](mind-imagination.md) designed to carve out very particular elements of [understanding](mind-understanding.md).
 
 They're usually implied as entertaining [stories](stories-why.md) (and often the [basis](mind-creativity.md) of many of them), but you'll likely also see [which philosophies you believe](glossary-philosophy.md) and why [some laws are universal](lawsaxioms.md).
 
@@ -14,7 +14,7 @@ Types of thought experiments:
 - Semifactual - What would happen if everything was *completely* the same, but there was one difference in the situation? (alternate realities with variations)
 - Predictive - Assuming things we know right now, what will likely happen? (often used for [scientific](science.md) and [marketing](marketing.md) modeling)
 - Hindcasting - Assuming things we know and a prediction model, can we reproduce what happened inside the model? (typically used to test modeling)
-- Retrodiction - Going back in time step-by-step, what ultimately caused the event? (a common form of gaining [wisdom](understanding.md))
+- Retrodiction - Going back in time step-by-step, what ultimately caused the event? (a common form of gaining [wisdom](mind-understanding.md))
 - Backcasting - Assuming a specific event in the future, what things step-by-step could have theoretically caused that event? (often used for lofty science fiction and fantasy)
 
 If you start mixing [math](math.md) into your thought experiments, you've just swerved into the realm of [game theory](math-gametheory.md).

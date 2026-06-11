@@ -28,7 +28,7 @@ Meditation is critical for living well:
 - Meditation allows us to distinguish "important" from "unimportant" things.
 - The only thing that exists around us is the "present", and meditation helps us separate it from our [memories](mind-memory.md) and [imagination](mind-imagination.md).
 - The events that happen to us don't matter *nearly* as much as how we interpret them.
-- All wisdom, [understanding](understanding.md), [virtue](morality.md), [self-discipline](results.md), [prolonged success](success-6_humility.md), [critical thinking](understanding.md), [analysis](logic.md), and [satisfaction](mind-feelings-happiness.md) require at least some meditation.
+- All wisdom, [understanding](mind-understanding.md), [virtue](morality.md), [self-discipline](results.md), [prolonged success](success-6_humility.md), [critical thinking](mind-understanding.md), [analysis](logic.md), and [satisfaction](mind-feelings-happiness.md) require at least some meditation.
 
 Meditation is necessary to find inner problems:
 
@@ -202,7 +202,7 @@ Follow where ideas come from and where they go.
 - Investigate slowly how those thoughts attach to other feelings and sensations.
 - Carefully watch any memories you have that are tied to those experiences, without judgment.
 
-Dwell on how [certain](understanding-certainty.md) you can be of various things, and how many things really aren't that certain to us.
+Dwell on how [certain](mind-understanding-certainty.md) you can be of various things, and how many things really aren't that certain to us.
 
 Accept your emotions and thoughts as not necessarily "you".
 
@@ -258,7 +258,7 @@ Reflect inwardly:
 - Questioning thoughts: gently question negative or [anger](mind-feelings-anger.md)-inducing thoughts.
 - Reflect on [Scripture](theology-bible.md).
   - We can only grow when we gain wisdom beyond ourselves.
-  - Inward reflecting can focus what we understand and give [certainty](understanding-certainty.md), but doesn't necessarily give more answers.
+  - Inward reflecting can focus what we understand and give [certainty](mind-understanding-certainty.md), but doesn't necessarily give more answers.
 - Use the sentences "I notice" and "I wonder" to describe what you're observing.
   - When making observations, stick to what is provably present, and avoid not inferences or connections.
   - Then, consider what you still do not understand and want to know.
@@ -277,7 +277,7 @@ Reflect on the present:
 - Focus on [what you're grateful for](mind-feelings-happiness-gratitude.md).
 - Find aimless and idle thoughts you no longer need.
 - Practice brutal honesty in your thought life.
-  - We often think we're being [rational](understanding.md), but we rarely are.
+  - We often think we're being [rational](mind-understanding.md), but we rarely are.
   - Direct your attention to weak points in your [reasoning](logic.md).
 - Focus on mindfully eating by procedurally observing taste, texture, and aroma.
 - Detach yourself from the experience and observe it as it comes by.
@@ -300,7 +300,7 @@ Reflect on changes:
   2. Extend: what new ideas have broadened what I know?
   3. Challenge: what contradictions or issues am I observing here?
 - Ask several questions about whatever you're observing:
-  1. Observations: what do I notice? (only concrete, [certain](understanding-certainty.md) things)
+  1. Observations: what do I notice? (only concrete, [certain](mind-understanding-certainty.md) things)
   2. Inferences: what do I think? (interpretations and conclusions)
   3. Questions: what do I wonder?
 

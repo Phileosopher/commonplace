@@ -26,7 +26,7 @@ This will show itself through how they prioritize their life, some examples:
 
 - Aspiring [entrepreneur](entrepreneur-1_what.md): money/power/honor
 - Aspiring [executive/CEO](mgmt-1_why.md): money/power/honor
-- [Intellectual](understanding.md): power
+- [Intellectual](mind-understanding.md): power
 - Worship of their [body's strength](body-exercise.md) (power)
 - Worship of their [body's appearance](people-image.md): honor
 - Aspiring to be religious or a celebrity: honor
@@ -48,7 +48,7 @@ This will show itself through how they prioritize their life, some examples:
 
 Belief in extraterrestrials, potentially interpreting or referring to God Himself as an alien entity.
 
-- Technically, God is an extraterrestrial, but also our Creator, so there's a much greater [power discrepancy](power-types.md) than simply a difference in [technology](technology.md) or [understanding](understanding.md).
+- Technically, God is an extraterrestrial, but also our Creator, so there's a much greater [power discrepancy](power-types.md) than simply a difference in [technology](technology.md) or [understanding](mind-understanding.md).
 - We are also created in His image, so He's not *that* foreign to our existence ([Genesis 1:26](https://biblehub.com/genesis/1-26.htm)).
 - If other sentient life existed in this universe, those people would look stunningly close to us (i.e., be in God's image as well), and they'd have a similar story to our Garden of Eden.
 
@@ -59,7 +59,7 @@ Pantheistic leanings, which imply that all (or several) faiths point to the same
 
 Assertion that the scientific community's long-term time estimations have authority.
 
-- [Science itself](science.md) is a powerful mechanism for understanding [reality](reality.md), but *scientists* are a community of fallen people, mostly atheists, who are usually trying to make everything in their environment completely [certain](understanding-certainty.md), even when things [*can't* be certain](unknown.md).
+- [Science itself](science.md) is a powerful mechanism for understanding [reality](reality.md), but *scientists* are a community of fallen people, mostly atheists, who are usually trying to make everything in their environment completely [certain](mind-understanding-certainty.md), even when things [*can't* be certain](unknown.md).
 - The other end of this extreme is the assertion that the scientific community's assertions are *entirely wrong* about empirically known things.
 
 Odd non-Christian beliefs that closely identify with Christian values (e.g., [Rastafarianism, Mormonism](religion-answers.md)).
@@ -127,7 +127,7 @@ Engages in [cultural activities](people-culture.md) that God doesn't like.
 Believing "Christian" media to be a vastly superior classification of media, even when it's [low-quality](values-quality.md).
 
 - Many Christian [stories](stories-why.md) are absolute garbage because they don't give room for the experience to express itself.
-  - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](understanding-certainty.md) is the superior [decision](mind-decisions.md).
+  - Great stories tell fair-handed depictions of *both* sides of [a concept](values.md), then show the character deciding what the creator [believes](mind-understanding-certainty.md) is the superior [decision](mind-decisions.md).
 - For whatever reason, many Christian creatives have zero [faith](mind-trust.md) in their ability to convey the correct [meaning](meaning.md):
   1. The audience might not understand the implication that a bad thing is bad.
   2. The audience might understand the implication of a bad thing, but have moral sensitivities that may offend them.
@@ -138,7 +138,7 @@ Allegiance to a [denomination](people-conflicts-christian-why.md) or its [cultur
 - They don't see God's [ever-present efforts](https://theologos.site/god-sight/) to draw people from *every* nation, tribe, people group, and language.
   - [Revelation 7:9](https://biblehub.com/revelation/7-9.htm)
 - They can often engage in trying to [convert others](power-influence.md) to their perspective more than converting others to the way of Christ.
-- Frequently, they'll spend more effort arguing about how wrong other people are (and enhancing their [understanding](understanding.md) to that end) than [loving](people-love.md) other people enough to respect (and politely disagree with) their beliefs.
+- Frequently, they'll spend more effort arguing about how wrong other people are (and enhancing their [understanding](mind-understanding.md) to that end) than [loving](people-love.md) other people enough to respect (and politely disagree with) their beliefs.
 - At their most extreme, they'll believe all other denominations will go to hell, or that all [heresies](people-conflicts-christian-why.md) have equal spiritual significance.
 
 Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem.
@@ -179,7 +179,7 @@ Asceticism, or some other deep belief that the body is a bad thing.
 Rigidity and denial to even *think* about [speculative](mind-imagination.md) elements that expand on what the Bible alludes to.
 
 - If we dwell on the Bible, we're going to ask questions (and form theories) about what God may have done before He created us, whether [God](theology-god.md) has always been a Trinity, etc.
-- Most of this is driven by [fear](mind-feelings-fear.md) of heresy, but Christians will be improving their [understanding](understanding.md) for all eternity, so these ideas are worth peacefully discussing and wrestling with.
+- Most of this is driven by [fear](mind-feelings-fear.md) of heresy, but Christians will be improving their [understanding](mind-understanding.md) for all eternity, so these ideas are worth peacefully discussing and wrestling with.
 
 Complete openness to discussing [speculative](mind-imagination.md) elements that have absolutely *no* grounding in the Bible.
 

@@ -182,7 +182,7 @@ Review your notes within 24 hours:
 
 Take [practice tests](mind-memory-tests.md) to track improvements, increase your confidence, and find gaps in understanding.
 
-Focus intently the next time on any gaps in your [understanding](understanding.md):
+Focus intently the next time on any gaps in your [understanding](mind-understanding.md):
 
 - You should be able to quickly paraphrase that section of the material.
 - Focus on one aspect at a time.

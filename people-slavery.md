@@ -50,7 +50,7 @@ APPLICATION: The line between slave and servant is murky. People sometimes conse
 
 ## Power
 
-A slave has little to no [legitimate power](power.md). They may have some types of power (such as [understanding](understanding.md)), but never the [means](purpose.md) to become free or interact equally among society.
+A slave has little to no [legitimate power](power.md). They may have some types of power (such as [understanding](mind-understanding.md)), but never the [means](purpose.md) to become free or interact equally among society.
 
 This situation means the slave has two methods available to change their situation:
 

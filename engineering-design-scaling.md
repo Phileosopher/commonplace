@@ -36,7 +36,7 @@ The best prevention is to make design decisions that, if they were wrong, won't 
 
 Plus, design decisions are subject to the perils of [miscommunication](language.md) and [power dynamics](power-types.md) that come with any [large group](groups-large.md). To avoid it, projects often develop in as many phases as necessary to prevent working on a wrongly defined [purpose](purpose.md):
 
-1. First, get consensus on an idea, which typically has to be realistic, but whoever approves it must [believe](understanding-certainty.md) in it.
+1. First, get consensus on an idea, which typically has to be realistic, but whoever approves it must [believe](mind-understanding-certainty.md) in it.
 2. Conduct plenty of focus groups and research to find exactly what people would want or how they would use the thing.
 3. Designers/engineers will typically create wireframes and stock prototypes of the thing. These wireframes often give a visual aesthetic of what the final product will look like, but lack most details.
 4. After someone approves it, the creators will create a near-finished work without any features. This is the first time the thing actually "exists", but it's pretty lame by comparison to the final product.

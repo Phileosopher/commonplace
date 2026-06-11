@@ -7,7 +7,7 @@ Most people in modern society have been trained in [arithmetic and algebra](math
 
 Math can best be described as the [science](science.md) of [structure and order](unknown.md), which represents as patterns across our [perception](people-image-why.md). Unlike other sciences, though, repetition doesn't prove a mathematical concept: the only way we can tell is with [deductive certainty](logic.md) that it can't be anything else.
 
-Structurally, math is grounded in [logic](logic.md), with zero room for [uncertainty](understanding-certainty.md). Every concept in math is a precisely parsed concept in an imaginary space. Even uncertain things are clarified on *how* uncertain they are.
+Structurally, math is grounded in [logic](logic.md), with zero room for [uncertainty](mind-understanding-certainty.md). Every concept in math is a precisely parsed concept in an imaginary space. Even uncertain things are clarified on *how* uncertain they are.
 
 While some numbers represent real things (e.g., 2, 3) and are therefore called "real numbers", others can only exist in the philosophical realm of mental ideals (e.g., √2, π) and are called "imaginary numbers".
 
@@ -19,20 +19,20 @@ APPLICATION: Math is a [logical](logic.md) [symbol](symbols.md), so enough input
 
 Math is grouping logical values we've [interpreted](people-image-why.md), but has no [purpose](purpose.md) inherently in itself. The form of "3" may exist in some ethereal plane (like Plato had once thought), but our human structure links objects together into [patterns](symbols.md). Therefore, "3" itself isn't useful for anything, but it can be *very* useful to say there's "3 apples" or "3 cars" or "3 letters".
 
-Technically, math only exists in the mind. It's an advanced overlap of [logic](logic.md) that sits on top of what we see as [reality](reality.md) to help us [understand](understanding.md) it more clearly.
+Technically, math only exists in the mind. It's an advanced overlap of [logic](logic.md) that sits on top of what we see as [reality](reality.md) to help us [understand](mind-understanding.md) it more clearly.
 
 APPLICATION: Since math is in our minds, it has the same fickle properties as any other [value](values.md). However, since it uses logic so intimately, we can structure it very well by comparison to any other values.
 
-Many people who [highly value](understanding-certainty.md) math have a difficult time with the mind-based location of math, simply because its reliability within [nature](reality.md) makes them believe it's [immaculate](religion.md). Within most [STEM and accounting](jobs-specialization.md), math *is* reality and not merely in our minds.
+Many people who [highly value](mind-understanding-certainty.md) math have a difficult time with the mind-based location of math, simply because its reliability within [nature](reality.md) makes them believe it's [immaculate](religion.md). Within most [STEM and accounting](jobs-specialization.md), math *is* reality and not merely in our minds.
 
 Math is incredibly useful for us to find [patterns](symbols.md) in the world around us. It's the ultimate means of attaining [order](unknown.md).
 
-APPLICATION: Math is *very* useful in many parts of life, but its value is based on the accuracy of the math user's mind. Further, the signal deteriorates as it's [communicated](stories-storytellers.md), as well as whether they're [trustworthy](understanding-certainty.md) and [honest](people-lying.md), and is augmented by how they've calibrated their [feelings](mind-feelings.md).
+APPLICATION: Math is *very* useful in many parts of life, but its value is based on the accuracy of the math user's mind. Further, the signal deteriorates as it's [communicated](stories-storytellers.md), as well as whether they're [trustworthy](mind-understanding-certainty.md) and [honest](people-lying.md), and is augmented by how they've calibrated their [feelings](mind-feelings.md).
 
 Numerical values are useful to achieve and [track outward results](results.md). We always form a *non*-numeric [purpose](purpose.md) before we start using numbers:
 
 - Someone desires to lose weight and be thin (mostly non-numeric), so they measure the 10 kg they want to lose (numeric).
-- A scientist wishes to [understand](understanding.md) how black holes interact with space (non-numeric), so they measure light bending from surrounding stars (numeric).
+- A scientist wishes to [understand](mind-understanding.md) how black holes interact with space (non-numeric), so they measure light bending from surrounding stars (numeric).
 - A CEO aims to know how well a company is doing (non-numeric), so they run reports that measure different parts of the company (numeric).
 
 The numbers we use are simply relational to other numbers. If someone attained 4, then later attained 6, someone would consider that an improvement, but that would change if you knew they were expected to attain 793. This is a *major* tactic for [deception](people-image-distortion.md), especially when we [anchor](mind-bias.md) to the first number we hear.
@@ -47,7 +47,7 @@ In any meaningful situation, the ultimate goal of a numerical measurement will b
 
 ## Using math
 
-For the sake of *working with* math, all we need is the basis that it's perfectly consistent and something we can be [certain over](understanding-certainty.md).
+For the sake of *working with* math, all we need is the basis that it's perfectly consistent and something we can be [certain over](mind-understanding-certainty.md).
 
 Proving a mathematical concept is accurate requires generating proofs, and that is *most* of the work mathematicians spend time on.
 
@@ -65,7 +65,7 @@ Math anxiety is a legitimately real problem, and most people who don't specializ
 
 However, this is a self-reinforced falsehood driven by several converging factors:
 
-1. Modern Western [education](education.md), especially in the USA, has handed off most of the calculation work to computers. While some disciplines (like [accounting](money-accounting.md)) still train the old-fashioned way (which takes more work and therefore creates more [understanding](understanding.md) from the effort), [computers](computers.md) in general cheapen the required effort to build the math work we do.
+1. Modern Western [education](education.md), especially in the USA, has handed off most of the calculation work to computers. While some disciplines (like [accounting](money-accounting.md)) still train the old-fashioned way (which takes more work and therefore creates more [understanding](mind-understanding.md) from the effort), [computers](computers.md) in general cheapen the required effort to build the math work we do.
 2. Math is *all* cumulative, and it takes patience to work through it. Unlike other [language](language.md) (like prose) that's only *partly* cumulative, math requires [revisiting old concepts repeatedly until you understand them *entirely*](http://www.geometry.org/tex/conc/mathlearn.html). If you only [memorized the information](mind-memory.md) to repeat it back on a test, it will *not* be useful later, and you *will* be confused.
 3. Some higher-level math concepts are filled with dense and sometimes confounding jargon. Integers and integrals, for example, have nothing to do with one another. The ideas are often simpler than the jargon makes them sound.
 4. Higher-education math is composed of many math *researchers*, but many high-end university [cultures](people-culture.md) treat the professors' actual educating of students as side work in lieu of their research. Generally, unskilled [teaching](education.md) therefore contributes to students' stereotypes that math is an impenetrable subject.
@@ -77,7 +77,7 @@ Math is very thorough, so it's never really "easy", and it can often be tedious,
 3. Look *beyond* the book you're reading. The textbook author may have worded it badly or is a [technical idiot](https://gainedin.site/idiot/), and it might be too difficult for *anyone* to understand. Any legitimately useful math will have *many* videos, books, and tutorials on the subject.
 4. If you simply want the clear answer, use a calculator to find the answer, then work your way through it.
 5. Use website tools as well for step-by-step walkthroughs of your exact math problem, which allows you to reproduce the process.
-6. Once you *do* understand it, rework it yourself, without looking at a reference. Take your time, and *do not rush the [learning process](understanding.md)*.
+6. Once you *do* understand it, rework it yourself, without looking at a reference. Take your time, and *do not rush the [learning process](mind-understanding.md)*.
 
 ## Branches/Disciplines
 
@@ -106,7 +106,7 @@ During the Renaissance, two more areas appeared:
 
 - **[Algebra](math-algebra.md)**, which started as mathematical notation, works with precise symbolic descriptions of mathematical ideas, and is still very useful for most people at least once a week or so.
   - Algebra adds a few extra elements into the calculations:
-    - Variables are numbers that [haven't been clearly specified](understanding-certainty.md), meaning the outcome of a calculation will be a second variable relative to the other variables (e.g., X+5=Y).
+    - Variables are numbers that [haven't been clearly specified](mind-understanding-certainty.md), meaning the outcome of a calculation will be a second variable relative to the other variables (e.g., X+5=Y).
     - Exponents essentially compound multiplication and division, similarly to how multiplication compounds addition.
   - The purpose of arithmetic is relatively clear (what do these things equal?), but algebra usually needs more specific context (e.g., solve for X).
 - **Analysis**, with its base coming from **[calculus](math-calc.md)**, which studies nonlinear relationships between different quantities (i.e., patterns for how things are related).

@@ -1,7 +1,7 @@
 
 # What imagination is
 
-Imagination is [understanding](understanding.md) something enough that we can [rebuild](creations.md) a [decent copy](people-image-why.md) of it in our minds.
+Imagination is [understanding](mind-understanding.md) something enough that we can [rebuild](creations.md) a [decent copy](people-image-why.md) of it in our minds.
 
 Imagination comes from two facts:
 
@@ -18,15 +18,15 @@ Most of what we [perceive](people-image-why.md) as "[reality](reality.md)" is si
 
 APPLICATION: The things you dwell on in your mind define what you [produce](creations.md) and how [effectively](results.md). While you don't *directly* create reality with your thoughts, your focus on something *will* increase and decrease the likelihood of events happening that ripple out from that imagined circumstance.
 
-Anything that isn't real is the domain of [fictional stories](stories-why.md). But often, we constrain that imagining into only [likely](understanding-certainty.md) things. The non-fiction version of imagination, usually regarding the future, is called "predictions" or "expectations".
+Anything that isn't real is the domain of [fictional stories](stories-why.md). But often, we constrain that imagining into only [likely](mind-understanding-certainty.md) things. The non-fiction version of imagination, usually regarding the future, is called "predictions" or "expectations".
 
 ## Predictions and expectations
 
-Predictions are stories we have [reason](logic.md) to [believe](understanding-certainty.md) will happen. By the time we're adults, we tend to subconsciously say "no" to all the impossible or unlikely things and localize our thoughts to the possibilities that exist within [reality](reality.md) alone.
+Predictions are stories we have [reason](logic.md) to [believe](mind-understanding-certainty.md) will happen. By the time we're adults, we tend to subconsciously say "no" to all the impossible or unlikely things and localize our thoughts to the possibilities that exist within [reality](reality.md) alone.
 
 When we're children, we make sweeping generalizations with very little accuracy. [Adults](maturity.md) tend to predict things with more case-by-case focus (barring [trauma](hardship-ptsd.md)), but slowing down thoughts to consider [bias](mind-bias.md) still takes tremendous [discipline](morality.md).
 
-APPLICATION: Imagination is a form of [understanding](understanding.md) that isn't constrained by reality. In that sense, [children](maturity.md) typically have the strongest ability to understand (even if they're unskilled at it) and we typically lose that ability as we [gain experience](maturity.md).
+APPLICATION: Imagination is a form of [understanding](mind-understanding.md) that isn't constrained by reality. In that sense, [children](maturity.md) typically have the strongest ability to understand (even if they're unskilled at it) and we typically lose that ability as we [gain experience](maturity.md).
 
 Most of the time, we are correct about our predictions on *what* will happen, but fail spectacularly on *when*.
 
@@ -62,9 +62,9 @@ FURTHER APPLICATION: When something happens, it typically means one thing: it ha
 
 The perceptions of "past" and "future" makes us [feel](mind-feelings.md) our existence is a continuum, and automatically registers in our mind as a series of connected events, even though they are functionally nothing more than memory, now, and imagination.
 
-With very, very few exceptions, we tend to find more [uncertainty](unknown.md) the farther out we go into the future or past. We [trust](mind-trust.md) our next or previous breath as existing implicitly, but will consider next month's events with in-depth [analysis](logic.md) to find the same [certainty](understanding-certainty.md), and treat five years from now as a [complete mystery](unknown.md) or [hope](mind-trust.md).
+With very, very few exceptions, we tend to find more [uncertainty](unknown.md) the farther out we go into the future or past. We [trust](mind-trust.md) our next or previous breath as existing implicitly, but will consider next month's events with in-depth [analysis](logic.md) to find the same [certainty](mind-understanding-certainty.md), and treat five years from now as a [complete mystery](unknown.md) or [hope](mind-trust.md).
 
-Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](understanding.md) everything we need to make sensible [decisions](mind-decisions.md) that create [results](results.md) we want.
+Technically, our predictions never look *only* into the future. If that were the case, we'd always predict fantastic silliness. Instead, we use the framework of the past and present we [know](mind-understanding.md), as well any unproven [impressions](mind-feelings.md) about them, to build a reliable-enough model to [understand](mind-understanding.md) everything we need to make sensible [decisions](mind-decisions.md) that create [results](results.md) we want.
 
 Some predictions go *backward* from the present. By assembling likely past circumstances, we can often infer what caused a situation that presently exists (i.e., "blame"). We give plenty of value to it because we assume it's necessary for [fair retribution](morality-justice.md) for [hardship](hardship-ptsd.md). However, blame isn't very [useful](purpose.md) because it rarely provides legitimate answers to present [decisions](mind-decisions.md) (which are inherently about the future).
 
@@ -82,13 +82,13 @@ For whatever reason, some things are simply [unknowable](unknown.md). As a [purp
 
 We tend to expect the unknown more than the known because we focus on it. Therefore, unknown things seem to stand out for us more, even while mundane things constitute more of our time and [purposes](purpose.md).
 
-However, vast [power](power.md) is at stake for massive [decisions](mind-decisions.md), so people pursue many ways to capture and subdue [uncertainties](understanding-certainty.md), which typically includes [analysis](logic.md) and [religion](religion.md), and can expand into [numerical](math.md) assessment.
+However, vast [power](power.md) is at stake for massive [decisions](mind-decisions.md), so people pursue many ways to capture and subdue [uncertainties](mind-understanding-certainty.md), which typically includes [analysis](logic.md) and [religion](religion.md), and can expand into [numerical](math.md) assessment.
 
-The constant [uncertainties](mind-trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](people-trends.md) before they emerge, and it can create the [illusion](people-image-why.md) that we understand when we really don't.
+The constant [uncertainties](mind-trust.md) of seemingly mundane things, all the way down to the subatomic level and how we form thoughts in the first place, make predictions difficult. However, the more we [understand](mind-understanding.md) something, the more reliably our [intuitions](mind-feelings.md) can follow [trends](people-trends.md) before they emerge, and it can create the [illusion](people-image-why.md) that we understand when we really don't.
 
 ## Expecting chaos
 
-Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](understanding.md) how it works. [Parents](parenting-children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groups-large.md) all share that "chaos prediction" in common.
+Beyond predicting chaos, we can still [direct](purpose.md) it even if we don't quite [understand](mind-understanding.md) how it works. [Parents](parenting-children.md), demolition crews, nuclear engineers, social media experts, and [politicians](groups-large.md) all share that "chaos prediction" in common.
 
 Some people, especially [some large-scale leaders](groups-large.md) and [entrepreneurs](entrepreneur-why.md), can sharpen their [intuition](mind-feelings.md) well enough to trace [patterns](people-trends.md) inside chaos with *astonishing* accuracy.
 
@@ -134,36 +134,36 @@ APPLICATION: Often, the most "likely" [trends](people-trends.md) are the ones th
 
 ## Reliability
 
-Estimating future likelihood is mostly a well-designed illusion, so it's *relatively* reliable. We're good at performing most things we're familiar with, but we tend to assume things are more [certain](understanding-certainty.md) than they really are.
+Estimating future likelihood is mostly a well-designed illusion, so it's *relatively* reliable. We're good at performing most things we're familiar with, but we tend to assume things are more [certain](mind-understanding-certainty.md) than they really are.
 
-However, since everything we work with in our minds is essentially a [story](stories-why.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](understanding.md) and what we have historically [believed](mind-trust.md).
+However, since everything we work with in our minds is essentially a [story](stories-why.md), we tend to fixate on the end of the experience and forget the details. This means we're constantly integrating new sensations in with old experiences and rebuilding our [perspective](people-image-why.md) to converge new information we [understand](mind-understanding.md) and what we have historically [believed](mind-trust.md).
 
 APPLICATION: Our minds have a tendency to drift. You don't remember *anything* as well as you think you do, so nobody and nothing can quite measure to how you've reframed it in your mind. This becomes a major problem if you're [grieving a loved one's death](legacy.md).
 
 We tend to overestimate our predictions, and often believe we know more than we really do. We also frequently tend to [presume](mind-trust.md) that becoming certain about unknown things guarantees we can do something about them.
 
-APPLICATION: We imagine we [understand](understanding.md) the world around us, but most of our beliefs are simply prejudices we've acquired through experience, without much consideration for the idiosyncrasies of reality. Abstractions are valuable as theoretical concepts, but theories *always* take more work to become reality (when they *do* work).
+APPLICATION: We imagine we [understand](mind-understanding.md) the world around us, but most of our beliefs are simply prejudices we've acquired through experience, without much consideration for the idiosyncrasies of reality. Abstractions are valuable as theoretical concepts, but theories *always* take more work to become reality (when they *do* work).
 
 Further, we're pretty good at guessing what has happened, but are typically awful at predicting what *will* happen, for several reasons:
 
 1. We're bad at predicting [trends](people-trends.md) we haven't seen and things we can't know.
-2. We tend not to comprehend the [effects](results.md) of [technology](technology.md) or changes in collective [understanding](understanding.md), which dramatically changes the effects of various factors.
+2. We tend not to comprehend the [effects](results.md) of [technology](technology.md) or changes in collective [understanding](mind-understanding.md), which dramatically changes the effects of various factors.
 3. We tend to overstate what we [feel](mind-feelings.md), even when we're experiencing a distinctly unlikely situation.
-4. We don't like [uncertainty](understanding-certainty.md) in the face of [unknown](unknown.md) things (typically from [conceit](morality-evil.md) or [fear](mind-feelings-fear.md)), so we assign broad [values](values.md) and mental models to highly sophisticated things (like mechanisms and [groups](groups-member.md)). This means technical realities and constraints are lost in our pursuit for [certainty](understanding-certainty.md).
+4. We don't like [uncertainty](mind-understanding-certainty.md) in the face of [unknown](unknown.md) things (typically from [conceit](morality-evil.md) or [fear](mind-feelings-fear.md)), so we assign broad [values](values.md) and mental models to highly sophisticated things (like mechanisms and [groups](groups-member.md)). This means technical realities and constraints are lost in our pursuit for [certainty](mind-understanding-certainty.md).
 
 Even with [statistics](math.md), capturing [information](people-image-why.md) for [analysis](logic.md) doesn't make our predictions more reliable:
 
 1. [Technology](technology.md) can't currently capture all the variables necessary to reliably predict [reality](reality.md) and account for [random chaos](unknown.md), especially when dealing with [social behaviors](people-trends.md).
 2. Capturing information is a secondary [image](people-image-why.md) to reality, which can make models difficult to represent reality itself, even with reliable data.
-3. All events are statistical likelihoods stacked on statistical likelihoods, so finding legitimate chances with averages requires assigning it to multiple statistics, which become layers of abstraction removed even further away from reality. Eventually, [feelings](mind-feelings.md) grounded in [experience](understanding.md) are often more reliable.
-4. [Statistics](math.md) will find remarkably accurate correlations, but only [logic](logic.md) in the scope of an individual's [understanding](understanding.md) can build causation, which is necessary for predictions.
-5. Sometimes, people who make or [sell](marketing-sales.md) statistics are [lying](people-image-distortion.md) about where they got their information, and are simply working off an [educated](understanding.md) [hunch](mind-feelings.md).
+3. All events are statistical likelihoods stacked on statistical likelihoods, so finding legitimate chances with averages requires assigning it to multiple statistics, which become layers of abstraction removed even further away from reality. Eventually, [feelings](mind-feelings.md) grounded in [experience](mind-understanding.md) are often more reliable.
+4. [Statistics](math.md) will find remarkably accurate correlations, but only [logic](logic.md) in the scope of an individual's [understanding](mind-understanding.md) can build causation, which is necessary for predictions.
+5. Sometimes, people who make or [sell](marketing-sales.md) statistics are [lying](people-image-distortion.md) about where they got their information, and are simply working off an [educated](mind-understanding.md) [hunch](mind-feelings.md).
 
 ## Predicting many people
 
-Proportional to our desire for [certainty](understanding-certainty.md) and opportunity to [gain power](power.md), we will track large-scale [social trends](people-trends.md). We can frequently feel them out from our shared [human universals](humanity-universals.md), but too many unknown variables make us unable to precisely track what other people are likely to do, even with [technological assistance](technology.md).
+Proportional to our desire for [certainty](mind-understanding-certainty.md) and opportunity to [gain power](power.md), we will track large-scale [social trends](people-trends.md). We can frequently feel them out from our shared [human universals](humanity-universals.md), but too many unknown variables make us unable to precisely track what other people are likely to do, even with [technological assistance](technology.md).
 
-Predicting a trend is trying to [understand](understanding.md) a [story](stories-why.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](results.md) of a cause based on what we know.
+Predicting a trend is trying to [understand](mind-understanding.md) a [story](stories-why.md) you're in the middle of. We can easily see how trends can cycle across history, but many people are often [unaware](mind-understanding.md) of *other* trends that swung the opposite way. In effect, we're making a gamble on the reasonable [effect](results.md) of a cause based on what we know.
 
 In fact, most of the people who *make* gigantic trends are blissfully unaware of what their impact will be. If someone [who has died](legacy.md) is presently famous, there's a good chance they never would have thought that they'd be as famous as they became.
 

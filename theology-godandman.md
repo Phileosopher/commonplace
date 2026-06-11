@@ -7,8 +7,8 @@ God made mankind for a relationship with Him.
 
 Our fallen state (see Harmatiology) essentially makes our bodies (and souls, to a secondary extent) live in *constant* opposition to God's desires.
 
-- [Fear](mind-feelings-fear.md) and [misused pain memories](hardship-ptsd.md) violate any opportunity for [trusting](mind-trust.md) God, which sabotages our ability to [believe](understanding-certainty.md) Him.
-- When we develop [habits](habits.md) around our self-defined fears and beliefs, we only feel [safe](safety.md) with our own [understanding](understanding.md) or trust in [other people](groups-small.md) or [social institutions](groups-large.md).
+- [Fear](mind-feelings-fear.md) and [misused pain memories](hardship-ptsd.md) violate any opportunity for [trusting](mind-trust.md) God, which sabotages our ability to [believe](mind-understanding-certainty.md) Him.
+- When we develop [habits](habits.md) around our self-defined fears and beliefs, we only feel [safe](safety.md) with our own [understanding](mind-understanding.md) or trust in [other people](groups-small.md) or [social institutions](groups-large.md).
 - With enough self-defined understanding, we can become [addicted](addiction.md) to [*anything*](addiction-substances.md).
 
 All lasting [meaning](meaning.md) that can ever be derived for [living a good life](people-goodlife.md) comes through [following God's will](god-will.md).
@@ -76,7 +76,7 @@ We will slowly bear more [spiritual fruits](morality.md) over time ([Galatians 5
 
 - More [loving](people-love.md), kinder, gentler, humbler and more patient ([Colossians 3:12](https://biblehub.com/colossians/3-12.htm)).
 - More [joyful](mind-feelings-happiness.md) and good.
-- More [faithful](understanding-certainty.md).
+- More [faithful](mind-understanding-certainty.md).
 - More self-controlled, [disciplined](results.md), and at peace.
 - An increased [state of humility](https://theologos.site/devotion-chaos/) ([Philippians 2:3](https://biblehub.com/philippians/2-3.htm)).
 - More forgiving ([Colossians 3:13](https://biblehub.com/colossians/3-13.htm)).
@@ -166,12 +166,12 @@ God *does* often bless us in ways money can't provide:
 
 Religious rituals won't always help our relationship with Jesus.
 
-- We can strengthen our [faith](understanding-certainty.md) with [religious routines](spiritual-exercises.md), but doing them for the wrong reasons can *separate* us from God ([Matthew 23:27-28](https://biblehub.com/matthew/23.htm)).
+- We can strengthen our [faith](mind-understanding-certainty.md) with [religious routines](spiritual-exercises.md), but doing them for the wrong reasons can *separate* us from God ([Matthew 23:27-28](https://biblehub.com/matthew/23.htm)).
 
 Don't search for mystical experiences such as miracles, healing, or supernatural phenomena ([Matthew 12:38-39](https://biblehub.com/matthew/12.htm)).
 
 - God will bring mystical experiences when He wants to, and our faith is more important to Him than miracles ([John 20:29](https://biblehub.com/john/20-29.htm)).
-- Many Christians will pursue a spiritual [feeling](mind-feelings.md) from listening to worship music, but there's no good from seeking it without [understanding](understanding.md).
+- Many Christians will pursue a spiritual [feeling](mind-feelings.md) from listening to worship music, but there's no good from seeking it without [understanding](mind-understanding.md).
 
 ## A relationship with God requires unconditional devotion
 
@@ -197,7 +197,7 @@ We are frequently ungrateful for many of the things He gives us:
 Our relationship with God either thrives or falters.
 
 - Jesus wants our full submission ([Matthew 10:37-38](https://biblehub.com/matthew/10.htm)).
-- We must give up everything else for Him in [faith](understanding-certainty.md) ([Luke 9:24](https://biblehub.com/luke/9-24.htm)).
+- We must give up everything else for Him in [faith](mind-understanding-certainty.md) ([Luke 9:24](https://biblehub.com/luke/9-24.htm)).
 - God wants complete submission from us, all the way to our [souls](theology-godandman-humanity.md) ([Romans 6:13](https://biblehub.com/romans/6-13.htm)).
 - Christianity is a near-constant [inner battle](people-conflicts-inner.md) between our body's [impulses](habits.md) and the [Holy Spirit's commands](god-will.md) ([Romans 7:22-25](https://biblehub.com/romans/7.htm)).
 - We must even submit [personal shame](hardship-worthlessness.md) and [past trauma](hardship-ptsd.md) to Him ([1 John 3:20](https://biblehub.com/1_john/3-20.htm)).

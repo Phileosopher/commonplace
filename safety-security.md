@@ -19,7 +19,7 @@ To that end, every secure thing has to have the following questions answered:
 3. *How* would #2 happen?
 4. *What or how* can #3 be stopped?
 
-We simply don't know the sources of what would harm our assets (#2) without [experience](understanding.md) or [education](education.md), but it's easy to [imagine](mind-imagination.md) we do:
+We simply don't know the sources of what would harm our assets (#2) without [experience](mind-understanding.md) or [education](education.md), but it's easy to [imagine](mind-imagination.md) we do:
 
 - It's impossible to know about risks you couldn't have been exposed to, but it's easy to imagine our [fears](mind-feelings-fear.md) in that direction.
 - [Risk management has many domains](safety-riskmgmt.md), and confidence in one [specialization](jobs-specialization.md) can lead to presuming aptitude in other domains.

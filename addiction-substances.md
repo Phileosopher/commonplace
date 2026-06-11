@@ -253,7 +253,7 @@ Imagining things
 
 [Philosophy](philosophy.md)
 
-- [Certainty](understanding-certainty.md)
+- [Certainty](mind-understanding-certainty.md)
 - Hopelessness (i.e., post-modernism)
 - New thoughts
 
@@ -265,7 +265,7 @@ Spiritualized thoughts
 
 - [Fixing the past](hardship-ptsd.md)
 
-[Understanding](understanding.md)
+[Understanding](mind-understanding.md)
 
 - [College education](jobs-college.md)
 

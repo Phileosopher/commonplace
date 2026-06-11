@@ -12,7 +12,7 @@ The scientific method is an established procedure designed to remove individual 
    - This question comes from a [desire](purpose.md) to discover [facts](reality.md), but the rest of the steps are a [story](stories-why.md) that concludes with communicating the findings.
 2. Do background research.
    - Investigate any existing discoveries from publications, past data, wikis, anecdotes, and personal experiences.
-   - Good scientists work hard to suspend *all* [judgment](understanding-certainty.md) as they thoroughly sift through the information, though [they can never be entirely precise](mind-bias.md).
+   - Good scientists work hard to suspend *all* [judgment](mind-understanding-certainty.md) as they thoroughly sift through the information, though [they can never be entirely precise](mind-bias.md).
 3. Build an educated guess (i.e., a "hypothesis").
    - It doesn't have to make sense, but must be [logical](logic.md).
 4. Test that guess with an experiment.
@@ -39,7 +39,7 @@ All scientific theories can only represent 2 possibilities:
 
 It's impossible to use science to [deductively](logic.md) affirm something as right or true, simply because humanity cannot perceive all [reality](reality.md). We can only [inductively deduce](logic.md) reality with a margin of error, with the consequences being readily apparent but the causes always evading us.
 
-Metaphysics concerns itself with *everything* that exists, but scientific thinking can only localize itself strictly to [provable](understanding-certainty.md) things. Without [philosophy](philosophy.md) or [theology](religion.md), everything beyond the provable is murky conjecture:
+Metaphysics concerns itself with *everything* that exists, but scientific thinking can only localize itself strictly to [provable](mind-understanding-certainty.md) things. Without [philosophy](philosophy.md) or [theology](religion.md), everything beyond the provable is murky conjecture:
 
 - Where the universe came from
 - How life exists
@@ -47,11 +47,11 @@ Metaphysics concerns itself with *everything* that exists, but scientific thinki
 - Most of the "social sciences" surrounding [psychology](humanity.md), [economics](money-economics.md), and [politics](groups-large.md)
 - Whether a [soul](humanity.md) exists
 
-Even within the realm of [known things](understanding-certainty.md), a conversation with a small child will reveal *many* obvious things outside the scope of science.
+Even within the realm of [known things](mind-understanding-certainty.md), a conversation with a small child will reveal *many* obvious things outside the scope of science.
 
 This doesn't mean non-science "science" doesn't have its merits. The emphasis on observation means it won't typically stray as far from the truth compared to most [post-modern philosophical frameworks](philosophy.md), but [institutional decay](mgmt-badsystems.md) is just as likely.
 
-Further, to answer every presently obvious question would yield many more beyond them, and the full breadth of scientific knowledge will never, *ever* end until either our [desire to understand](understanding.md) ceases or we've mastered all aspects of the universe.
+Further, to answer every presently obvious question would yield many more beyond them, and the full breadth of scientific knowledge will never, *ever* end until either our [desire to understand](mind-understanding.md) ceases or we've mastered all aspects of the universe.
 
 [Scientism](https://trendless.tech/scientism/) is a unique philosophy that takes science farther than [its function](purpose.md) permits.
 
@@ -67,7 +67,7 @@ One important component representative in all the sciences is that there are two
 For it to qualify as legitimate science, it must be rigorous, reproducible, and open.
 
 - In particular, legitiamte science can easily be demarcated from [positivism](glossary-philosophy-epistemology.md) by Popper's falsification theory, which is that every hypothesis should be sharply criticized for all use cases.
-- Falsification theory, however, is far too [uncertain](understanding-certainty.md) for most of the scientific community to accept.
+- Falsification theory, however, is far too [uncertain](mind-understanding-certainty.md) for most of the scientific community to accept.
 - This philosophical negligence has gotten so out-of-hand that most scientific studies are irreproducible (a "reproducibility/replicability crisis")
 
 [The formal sciences](science-formal.md), for example, are philosophical abstractions that can only be proven with the assumption of a shared human [value system](values.md):
@@ -111,7 +111,7 @@ All the above sciences apply to the world around us, and that application natura
 - Social sciences, while [not technically sciences](https://trendless.tech/scientism/), build out, among others:
   - [Business administration](mgmt-1_why.md)
   - [Jurisprudence](lawsaxioms-legal.md)
-  - [Pedagogy](understanding.md)
+  - [Pedagogy](mind-understanding.md)
 
 ## More information
 

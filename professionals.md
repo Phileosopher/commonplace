@@ -18,7 +18,7 @@ For *any* specialization, it's vitally critical to know the gist of what those p
 
 1. If we're not aware of that subject *at all*, we run the risk of a professional exploiting us.
 2. Even when that professional is sincere and honest, we run the risk of making a poorly informed decision simply on the limited information that professional provides.
-3. Even when we make the right decisions *without* complete [understanding](understanding.md) of the situation, we don't [learn from it](education.md) and therefore don't grow as much.
+3. Even when we make the right decisions *without* complete [understanding](mind-understanding.md) of the situation, we don't [learn from it](education.md) and therefore don't grow as much.
 4. Over time, not learning from expert advice can make us [technical idiots](https://gainedin.site/idiot/) at worst or, ideally, experiencing limitations on [finding meaning](meaning.md).
 
 Since [the over-information age](information.md), finding legitimately high-skilled people is harder to sift from the many people who *claim* to be high-skilled.

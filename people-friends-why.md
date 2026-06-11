@@ -13,7 +13,7 @@ If we're particularly lonely, we can frequently have an intimate friend-like con
 
 ## Interest
 
-Friendships are grounded on common [interests](purpose.md), [identity](people-identity.md), or [beliefs](understanding-certainty.md), and people share them over *many* domains:
+Friendships are grounded on common [interests](purpose.md), [identity](people-identity.md), or [beliefs](mind-understanding-certainty.md), and people share them over *many* domains:
 
 - Similar prior experiences (like military or school)
 - Same [taste](values-quality.md) in [media](creations.md) and [social trends](people-trends.md)
@@ -34,13 +34,13 @@ Our shared *[interpretation](mind-imagination.md)* of an experience (and how we 
 
 Legitimate friendships are grounded in [love](people-love.md) for one another's [soul](humanity.md). It unifies two people into a shared experience, at least for that moment.
 
-APPLICATION: We gain *massive* [understanding](understanding.md) from friendships because we're experiencing our lives through both ours and that other person's [points of view](people-image-why.md).
+APPLICATION: We gain *massive* [understanding](mind-understanding.md) from friendships because we're experiencing our lives through both ours and that other person's [points of view](people-image-why.md).
 
-The degree that each friend changes comes from their openness to the other friend's [points of view](people-image-why.md). [Stronger](power.md) people have stronger [convictions](understanding-certainty.md) and [understanding](understanding.md), and a weaker friend will *always* conform to the stronger one's standards (at least partially). This comes in three levels:
+The degree that each friend changes comes from their openness to the other friend's [points of view](people-image-why.md). [Stronger](power.md) people have stronger [convictions](mind-understanding-certainty.md) and [understanding](mind-understanding.md), and a weaker friend will *always* conform to the stronger one's standards (at least partially). This comes in three levels:
 
 1. Comrade - a shared [conflict](people-conflicts-why.md), but it only persists as long as the conflict is the same (e.g., most [workplace](jobs-1_why.md) friendships).
 2. Constituent/Partner - a shared [purpose](purpose.md), though the pursued [values](values.md) may be different, and only persists as long as there's [progress](results.md) toward shared goals.
-3. Confidant - Shared [understanding](understanding.md) that engages meaningful [human connection](humanity.md) with each other.
+3. Confidant - Shared [understanding](mind-understanding.md) that engages meaningful [human connection](humanity.md) with each other.
 
 As we [mature](maturity.md), our friendships transition from the pool of children we spent time with into the [specializations](jobs-specialization.md) we've established for ourselves. It's not uncommon for adults to be so preoccupied with the requirements to [work](results.md) that they have very few friends.
 
@@ -48,9 +48,9 @@ APPLICATION: Once we start getting busy with life later on, it's important to [p
 
 ## How
 
-It takes about 34 minutes before we've [decided](mind-decisions.md) if we want to be friends with someone. By that time, we've verified that we're [perceiving](people-image-why.md) with relatively accurate [certainty](understanding-certainty.md) who they really are.
+It takes about 34 minutes before we've [decided](mind-decisions.md) if we want to be friends with someone. By that time, we've verified that we're [perceiving](people-image-why.md) with relatively accurate [certainty](mind-understanding-certainty.md) who they really are.
 
-We start a friendship when we've communicated a [value](values.md) the other person agrees with. The other person doesn't have to [identify](people-identity.md) with it, but they must [believe](understanding-certainty.md) it.
+We start a friendship when we've communicated a [value](values.md) the other person agrees with. The other person doesn't have to [identify](people-identity.md) with it, but they must [believe](mind-understanding-certainty.md) it.
 
 We frequently form our beliefs from the [purposes](purpose.md) we've recently aspired to or [wish](mind-imagination.md) to do soon, so we tend to find friends around our same state of [maturity](maturity.md) and [success](results.md).
 
@@ -60,7 +60,7 @@ APPLICATION: Unless we're *really* close to a friend, leaving a [group](groups-s
 
 We tend to build [trust](mind-trust.md) with our friends, which is often connected with the [groups](groups-member.md) we share with them. That trust creates a profound [influence](influence.md) that affects our large-scale beliefs in many unseen ways. Our [identity](people-identity.md) is frequently intertwined with our friendships.
 
-Given enough time, the friendship between two people can create an exclusive [culture](people-culture.md), with unique [language](language.md), [customs](habits.md), and [beliefs](understanding-certainty.md). If those two people either [have children](people-family.md) or draw in new people, they've created a [small society](groups-small.md).
+Given enough time, the friendship between two people can create an exclusive [culture](people-culture.md), with unique [language](language.md), [customs](habits.md), and [beliefs](mind-understanding-certainty.md). If those two people either [have children](people-family.md) or draw in new people, they've created a [small society](groups-small.md).
 
 APPLICATION: We must be careful about how much we invest into each friendship we have. We tend to change to become like the people we're trying to [influence](influence.md), and the people we spend time with will naturally change as *we* [change](people-changes.md)!
 

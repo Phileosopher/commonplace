@@ -44,7 +44,7 @@ By keeping yourself compliant and relatively unimportant, you'll avoid most of t
 
 Stay busy, even when you don't have much to do:
 
-- Spend time reading just about anything, since it expands your [understanding](understanding.md) and can often give answers to *many* domains of thought you never thought you had.
+- Spend time reading just about anything, since it expands your [understanding](mind-understanding.md) and can often give answers to *many* domains of thought you never thought you had.
 - Find small skills you can build that interest you (e.g., diction, throwing cards, philosophy).
 - Whenever you can, get out: go to the yard, medical, the library, anywhere you're allowed to go.
 - Whatever you do, *do not stay in your cell more than you have to*.

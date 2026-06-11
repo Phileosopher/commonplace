@@ -9,7 +9,7 @@ The range of 1-100 sits as a bell curve, where someone with a score of 1 is thou
 
 A person self-reporting on a Big 5 test is a reliable indicator across decades of how they'll likely [behave](results.md), but *other* people reporting on someone is also a reliable indicator as well.
 
-The dimensions are easy to remember as an acronym, and it takes about 100 [well-asked questions](understanding.md) to find where someone sits on each spectrum:
+The dimensions are easy to remember as an acronym, and it takes about 100 [well-asked questions](mind-understanding.md) to find where someone sits on each spectrum:
 
 - Openness to experience
 - Conscientiousness
@@ -21,9 +21,9 @@ The dimensions are easy to remember as an acronym, and it takes about 100 [well-
 
 We are constantly forced to explore the [unknown](unknown.md) or intensify the [familiar](habits.md).
 
-On the high end, we take enormous [social risks](entrepreneur-why.md) and pioneer [trends](people-trends.md), mostly from the pursuit and love of [ideas](values.md). It provides the advantage of discovering new things, but at the risk of sabotaging healthy, long-standing [institutions](people-rules.md) of society. Most [intelligent](understanding.md) and [creative](mind-creativity.md) people tend to be high openness to experience, though not always.
+On the high end, we take enormous [social risks](entrepreneur-why.md) and pioneer [trends](people-trends.md), mostly from the pursuit and love of [ideas](values.md). It provides the advantage of discovering new things, but at the risk of sabotaging healthy, long-standing [institutions](people-rules.md) of society. Most [intelligent](mind-understanding.md) and [creative](mind-creativity.md) people tend to be high openness to experience, though not always.
 
-On the low end, we establish [cultural traditions](people-culture.md) and [maintain order](understanding-certainty.md). It provides the advantage of maintaining good things and giving order, but at the risk of sabotaging healthy new things and shunning [risks](entrepreneur-why.md).
+On the low end, we establish [cultural traditions](people-culture.md) and [maintain order](mind-understanding-certainty.md). It provides the advantage of maintaining good things and giving order, but at the risk of sabotaging healthy new things and shunning [risks](entrepreneur-why.md).
 
 One tiny statistical correlation shows that people born in warmer climates tend to be a little more willing to [take risks](entrepreneur-why.md).
 
@@ -31,7 +31,7 @@ One tiny statistical correlation shows that people born in warmer climates tend 
 
 We have a certain tolerance and enjoyment of exploring [unknown](unknown.md) [experiences](results.md):
 
-- Enjoys [nature's](reality.md) [beauty](values-quality.md) and [believes](understanding-certainty.md) in [art's](mind-creativity.md) importance
+- Enjoys [nature's](reality.md) [beauty](values-quality.md) and [believes](mind-understanding-certainty.md) in [art's](mind-creativity.md) importance
 - Becomes deeply immersed in [creative works](creations.md) like music and poetry
 - Frequently reflects on experiences and thoughts and sees [beauty](values-quality.md) where others may not notice
 - Needs a [creative outlet](creations.md)
@@ -42,7 +42,7 @@ In general, most people are *not* [creative](mind-creativity.md) in any given do
 
 We also have a certain tolerance and enjoyment of exploring [unknown](unknown.md) [ideas](values.md), which defines how well we can find [unique answers](results.md) to tasks:
 
-- Thinks quickly and rapidly [understands](understanding.md) abstract [ideas](values.md) and [how things work](engineering.md)
+- Thinks quickly and rapidly [understands](mind-understanding.md) abstract [ideas](values.md) and [how things work](engineering.md)
 - Can handle lots of [information](information.md) and has an extensive [vocabulary](language.md) that clearly indicates [ideas](values.md)
 - Enjoys solving complex [problems](purpose.md)
 - Enjoys [philosophical discussions](philosophy.md) and [difficult reading material](education.md)
@@ -51,9 +51,9 @@ The problem with intelligence, however, is that all that internal information me
 
 - APPLICATION: Smart people are also slow thinkers for simple things.
 
-Intellect can be *very* reliably measured with IQ tests that measure a person's ability to take a test about [understanding](understanding.md) and [logic](logic.md), but is a highly [controversial](people-conflicts-inner.md) subject because our biology mostly defines how smart we are, which demonstrates inherently that people have dramatically unequal [power](power.md) among each other.
+Intellect can be *very* reliably measured with IQ tests that measure a person's ability to take a test about [understanding](mind-understanding.md) and [logic](logic.md), but is a highly [controversial](people-conflicts-inner.md) subject because our biology mostly defines how smart we are, which demonstrates inherently that people have dramatically unequal [power](power.md) among each other.
 
-Nobody knows how to increase IQ, though [education](education.md) can increase [understanding](understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
+Nobody knows how to increase IQ, though [education](education.md) can increase [understanding](mind-understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
 
 One aspect of intelligence that magnifies society's [inequality](jobs-specialization.md) comes through [technology](technology.md). Intelligent people naturally understand technology more, meaning they have more [power](power.md) proportionally to the power of that technology.
 
@@ -77,13 +77,13 @@ We have a certain natural desire to create [results](results.md) that make us va
 
 - Carry out our plans without wasting time or getting distracted
 - Setting our minds to the immediate [task](purpose.md) and [finishing](results.md) what we start
-- Making [decisions](mind-decisions.md) quickly and [certain](understanding-certainty.md) about what we're doing
+- Making [decisions](mind-decisions.md) quickly and [certain](mind-understanding-certainty.md) about what we're doing
 
 Often, we make things out of a sense of guilt or shame that our [value](values-quality.md) only comes in what we produce.
 
 ### Orderliness
 
-We have a tendency to [feel](mind-feelings.md) disgust for the [risks](safety.md) of the [unknown](unknown.md), so we value [certainty](understanding-certainty.md) through honoring [details](understanding.md), [organization](organization.md), and [boundaries](people-boundaries-why.md):
+We have a tendency to [feel](mind-feelings.md) disgust for the [risks](safety.md) of the [unknown](unknown.md), so we value [certainty](mind-understanding-certainty.md) through honoring [details](mind-understanding.md), [organization](organization.md), and [boundaries](people-boundaries-why.md):
 
 - [Cleans up](home-housekeeping.md) belongings and keeps things organized
 - Follows a schedule and enjoys [routine](habits.md)
@@ -119,7 +119,7 @@ Enthusiastic people tend to find a certain amount of excitement and joy from [so
 
 ### Assertiveness
 
-Conflicts themselves can be difficult, but assertive people often find a sense of [closure](understanding-certainty.md) out of practicing and enforcing our [boundaries](people-boundaries-why.md):
+Conflicts themselves can be difficult, but assertive people often find a sense of [closure](mind-understanding-certainty.md) out of practicing and enforcing our [boundaries](people-boundaries-why.md):
 
 - [Sees themselves](people-identity.md) as a strong person and a good leader, and takes control in a [group](groups-small.md)
 - Has plenty of experience and talent [influencing](influence.md) and [captivating](stories-storytellers.md) people
@@ -133,7 +133,7 @@ On the high end, we [coexist well with others](people-friends.mdds.md). It provi
 
 On the low end, we disagree more readily. It provides the advantage of [enforcing boundaries](people-boundaries-why.md), but with the risk of intensifying conflicts among well-meaning people.
 
-While disagreeable people typically know *exactly* what they [want](purpose.md), agreeable people often have no idea what they want because they're so busy paying attention to *others'* needs. Disagreeable people can often help agreeable people [understand](understanding.md) their latent [desires](purpose.md) through their more competitive nature.
+While disagreeable people typically know *exactly* what they [want](purpose.md), agreeable people often have no idea what they want because they're so busy paying attention to *others'* needs. Disagreeable people can often help agreeable people [understand](mind-understanding.md) their latent [desires](purpose.md) through their more competitive nature.
 
 ### Compassion
 
@@ -223,7 +223,7 @@ Generally, we can fix most of our personality defects with *other* personality c
   - Conscientiousness can interpret the task as a necessary duty and push through it.
   - Agreeableness can find a way to [negotiate](people-conflicts-negotiation.md) a mutually better arrangement.
 - Low agreeableness when required to get along with others:
-  - Conscientiousness can interpret it as a necessary means of maintaining [order](understanding-certainty.md).
+  - Conscientiousness can interpret it as a necessary means of maintaining [order](mind-understanding-certainty.md).
   - Extraversion can find [meaning](meaning.md) in the social benefits of coexistence.
   - Neuroticism can learn to express vulnerability with others about their [fears](mind-feelings-fear.md) and concerns.
 - High agreeableness when required to confront others:

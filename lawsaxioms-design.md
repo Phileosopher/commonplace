@@ -121,7 +121,7 @@ Time management
 - Labor illusion - we value things more *after* we've done work on it
 - Labor perception bias - we tend to imagine some things *always* take work
 - Planning fallacy - we tend to underestimate how much time a task will take
-- Spacing effect - we [learn more](understanding.md) when [study sessions](mind-memory.md) are spaced out
+- Spacing effect - we [learn more](mind-understanding.md) when [study sessions](mind-memory.md) are spaced out
 
 Memory
 

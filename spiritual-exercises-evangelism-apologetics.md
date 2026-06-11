@@ -14,7 +14,7 @@ Apologetics, in general, boils down to two approaches:
 
 1. Deconstruct the other person's beliefs and provoke them to doubt their particular faith (i.e., a [good-quality debate](language-speaking-debate.md)).
 2. Convey a reliable framework of thought for your beliefs.
-   - Everyone's faith starts as an individual [story](stories-why.md), then branches out into [understanding](understanding.md).
+   - Everyone's faith starts as an individual [story](stories-why.md), then branches out into [understanding](mind-understanding.md).
 
 - You must choose one of them, and it's not possible to do both.
 
@@ -50,7 +50,7 @@ In general, ask questions more than give statements.
   - The person answering the question has to make more assertions to defend their beliefs.
 - Do *not* answer the questions unless they ask you, since it robs them of their [meaning](meaning.md) from discovering a truth.
 - Most of the time, a spiritual [conflict](people-conflicts.md) is based in [emotions](mind-feelings.md), *not* [logic](logic.md).
-  - Your purpose should be to [understand and learn](understanding.md) about them and their views, *not* to dismantle their perspective.
+  - Your purpose should be to [understand and learn](mind-understanding.md) about them and their views, *not* to dismantle their perspective.
 
 Eventually, you *will* get a question you don't know the answer to.
 

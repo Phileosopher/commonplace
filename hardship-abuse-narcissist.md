@@ -22,9 +22,18 @@ If you've *ever* been close to a narcissist, they will cause trouble for you:
   - They will, however, expect others to acknowledge their [pain and hardship](hardship.md).
   - While they won't give much sincere praise, they'll expect others to praise them in some capacity.
 
-## Healing afterward
+Staying around the abuse can be exhausting.
 
-At some point, a narcissist will make a severe [break](hardship-abuse-narcissist-stages.md) from you when you likely don't expect it.
+- From the outside, most people don't understand that narcissistic abuse preys on people who have a combination of [high empathy](mind-feelings.md) mixed with [bad boundaries](people-boundaries.md).
+  - Most people don't put up with [their awful behavior](people-conflicts-narcissist.md), but these people, for whatever reason, do.
+- Being a victim, therefore, requires trying to stay attentive to their vacillating [identity](people-identity.md).
+  - To the victim, they think they're helping them, but they're simply useful to the abuser's [purposes](purpose.md).
+- This entire experience of following their constantly shifting [image](people-image-why.md) is exhausting to maintain ("duplicity fatigue")
+  - That exhaustion, sadly, is part of the manipulation mechanism for the abuser.
+
+## When it all falls apart
+
+At some point, a narcissist will make a severe [break from you](hardship-abuse-narcissist-stages.md) when you likely don't expect it.
 
 - This happens when something in you has decided to set [clear boundaries](people-boundaries.md), and those boundaries make them realize they can't graft themselves with you or use you anymore.
 
@@ -40,22 +49,66 @@ The immediate feeling from their break will be severe [guilt](mind-feelings-sham
 
 Expect the abuser to smear you for as long as possible.
 
+- They will try to defame you, maybe even publicly, and may even perjure you in court with false allegations.
 - This is common, and happens due to the attitudes following [their discard](hardship-abuse-narcissist-stages.md).
   - You are damaged, hurt, and see how utterly empty that person is, meaning you don't see their behavior as worthy of their total annihilation.
   - They are throwing an adult tantrum and trying to destroy you as an act of revenge that they've lost control of you.
   - Therefore, you'll be quieter, and they'll be telling the whole world about how awful you are.
 - You will almost certainly [lose friends](people-friends-bad.md) you trusted were more reasonable.
-- They will try to defame you, maybe even publicly, and may even perjure you in court with false allegations.
 
-The only healing from narcissistic comes through learning to [love others](people-love.md) more than ourselves.
+## Healing afterward
+
+Recovering from the abuse is complex, and it takes time.
+
+- Most narcissistic abuse survivors develop strange [boundaries](people-boundaries.md) that don't quite reflect healthy behavior.
+- Most people will "shrink" themselves from whatever they had rights to.
+  - This often shows in their conduct with others (e.g., not wanting to greet someone because the other person didn't give eye contact first).
+  - This can also represent in finding comfort in escapism and [addiction](addiction.md) (e.g., hobbies where nobody will notice).
+- However, sometimes victims can exhibit narcissistic traits, especially if they were exposed to it for many years.
+
+The only healing from narcissistic abuse comes through both finding our worth, and in [loving others](people-love.md) more than ourselves.
 
 - Narcissists build their fantasy around victimization, so absolutely *anyone* who victimizes, even as a response to a narcissist, runs the risk of becoming one themselves.
   - The vampire [mythology](stories-myths.md) comes directly from this imagery: you become the monster yourself if you don't take the time to heal from it.
-- Victimization from narcissistic abuse directly affects brain structure and function, dominantly in the hippocampus, amygdala, and prefrontal cortex.
+  - Victimization from narcissistic abuse directly affects brain structure and function, dominantly in the hippocampus, amygdala, and prefrontal cortex.
 - The start of this is in directly owning the mistakes you made:
   - The mistake of consenting to that person entering your life so intimately.
   - The mistake of responding with [bad boundaries](people-boundaries.md).
   - The [sins](theology-sins-list.md) you committed against them, even if you feel it was justified.
+- It then requires realizing [you have inherent value](humanity.md).
+  - Your value is non-negotiable, simply because you were a lovingly created being.
+- That value extends outward to understanding everyone else has value as well.
+  - Each person is a broken, damaged soul who is worthy of being loved.
+
+The complex issue, however, is that every step you take without the narcissistic abuser will inevitably represent breaking free of a type of [addiction](addiction.md) to that familiar abuse.
+
+- Attachment to narcissistic abusers is a deep attachment that represents absolutely everything that person gave ("trauma bond").
+  - This isn't simply the attachment of that person, but also an attachment to every positive experience.
+- Specifically, trauma bonds represent just about everything:
+  - The relief after the pain
+  - The reconnection after the silence
+  - Hope renewed for the same grandiose plans discussed at the beginning
+  - A chance to not be alone again
+- For that reason, breaking from a trauma bond is withdrawal from an addiction.
+
+At any time, the abuser may try to reconnect to gain control ("hoovering").
+
+- This usually represents when the victim starts showing public signs of healing.
+  - They look healthier and [happier](mind-feelings-happiness.md).
+  - They're finding new [meaning](meaning.md) with someone or something else.
+- However, going back to them will only re-establish [their abuse cycle](hardship-abuse-narcissist-stages.md).
+- Frequently, the abuser will try to "flex" to draw attention from their former victim.
+  - They'll intentionally do as many public-facing things that show self-improvement, then demonstrate how they've changed.
+  - However, this will fall apart as soon as the victim investigates further.
+  - Further, if the victim holds the abuser accountable, the abuser's fragile ego will demonstrate hostility at them again with [more of their familiar abuse](people-conflicts-narcissist.md).
+
+To avoid future [abuse from other narcissists](hardship-abuse-narcissist-stages.md), learn to adopt confident and strong [body language](language-speaking-bodylanguage.md).
+
+- Make slow, deliberate gestures.
+- Place your weight on both feet.
+- Keep your hands visible and unmoving.
+- Speak from your chest, and keep your voice anchored downward at the end of a sentence.
+- Do not start sentences with apologies.
 
 ## Family narcissism
 

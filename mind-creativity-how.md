@@ -23,7 +23,7 @@ The great misconception about creativity is that it comes effortlessly:
 
 ## Attitudes of creative people
 
-To find unconventional solutions, you must let yourself think outside the conventions of your [culture](people-culture.md) and [understanding](understanding.md).
+To find unconventional solutions, you must let yourself think outside the conventions of your [culture](people-culture.md) and [understanding](mind-understanding.md).
 
 Reacting to impulses or survival instincts always produces conventional results:
 
@@ -224,7 +224,7 @@ Use [analysis](logic.md) to find more viewpoints:
   2. Describe the factors that feed into that problem.
   3. Describe the factors that feed into each of those factors.
   4. Repeat until you have every little part of the problem entirely clarified.
-- Consider the [values](values.md), [assumptions](mind-trust.md), and [beliefs](understanding-certainty.md) that shape the system.
+- Consider the [values](values.md), [assumptions](mind-trust.md), and [beliefs](mind-understanding-certainty.md) that shape the system.
 - The Five "Why's" - ask "why" at least five times to get to the first cause of everything.
 - Use the Iceberg Model:
   - Look at all the relevant events in the past, present, and future.

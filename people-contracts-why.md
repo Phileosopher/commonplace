@@ -25,9 +25,9 @@ The negotiation often involves making promises based on boundaries set in the fu
 The value we give to others in exchange for doing something (often represented as money) comes from a few variables:
 
 1. How much we don't [enjoy](mind-feelings-happiness.md) the task.
-2. How difficult it would be for us to [learn or do it ourselves](understanding.md).
-3. How little we'd [trust](understanding-certainty.md) complete strangers to do the work.
-4. The likelihood we [believe](understanding-certainty.md) that person would succeed at the task.
+2. How difficult it would be for us to [learn or do it ourselves](mind-understanding.md).
+3. How little we'd [trust](mind-understanding-certainty.md) complete strangers to do the work.
+4. The likelihood we [believe](mind-understanding-certainty.md) that person would succeed at the task.
 5. The consistency or inconsistency of finding *other* people to do that job.
 6. How [dishonorable](people-image-why.md) or [disreputable](morality-taboo.md) the job is.
 
@@ -52,7 +52,7 @@ When a person acts, they are only performing any form of sacrifice from 3 possib
 
 1. Generosity, which is typically driven by [love](people-love.md) or [moral duty](morality.md).
 2. [Habit](habits.md), typically without thinking about it.
-3. Some form of [belief](understanding-certainty.md) or [expectation](mind-imagination.md) about a return on that sacrifice, which is a "contract".
+3. Some form of [belief](mind-understanding-certainty.md) or [expectation](mind-imagination.md) about a return on that sacrifice, which is a "contract".
 
 Every time there's some sort of exchange, that exchange is a contract ("quid pro quo") based on our belief that a person can perform an action, or that someone can act with "implied authority" on behalf of someone else. Even [marriage](relationships-marriage-secularcontract.md) and [religious arrangements](god-contracts.md) are a type of contract.
 

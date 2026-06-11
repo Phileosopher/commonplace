@@ -84,9 +84,9 @@ Both sides have merits, and many believers will go to heaven who believe or don'
 "Faith" is a unique word to Christianity, and takes on two uniquely separate meanings:
 
 1. Our belief in [God](theology-god.md), who God is, God's nature, et al.
-2. Our specific [trust](understanding-certainty.md) that God will [do something](results.md).
+2. Our specific [trust](mind-understanding-certainty.md) that God will [do something](results.md).
 
-Trusting God takes *far* more work than simply believing in Him, and requires [taking action](mind-decisions.md) more than simply [understanding](understanding.md), and in whatever form the situation calls for.
+Trusting God takes *far* more work than simply believing in Him, and requires [taking action](mind-decisions.md) more than simply [understanding](mind-understanding.md), and in whatever form the situation calls for.
 
 The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](https://theologos.site/gospel/) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/matthew/21.htm)).
 
@@ -110,7 +110,7 @@ Instead, we should ask better questions in light of this Sola:
 
 - Does our individual faith directly reflect with our works?
 - Are any of our works associated with [sins](theology-sins.md), even if we have good motivations?
-- Are we spending more time trying to [gain understanding](understanding.md) than [doing things](results.md) with that understanding?
+- Are we spending more time trying to [gain understanding](mind-understanding.md) than [doing things](results.md) with that understanding?
 
 ## D. Sola Christus
 

@@ -1,7 +1,7 @@
 
 # What philosophy is and how it's useful
 
-Philosophy is, by its etymology, the love of wisdom. However, that isn't necessarily what it's used for, and can more accurately be defined in practice as "generalized [understanding](understanding.md)".
+Philosophy is, by its etymology, the love of wisdom. However, that isn't necessarily what it's used for, and can more accurately be defined in practice as "generalized [understanding](mind-understanding.md)".
 
 ## What it is
 
@@ -17,14 +17,14 @@ Every discipline is configured to address a specific portion of living:
 
 Though those roles seem dramatically different, they have *many* abstract components in common with one another. As someone [develops a craft](mind-creativity.md), they start straddling into neighboring [specializations](jobs-specialization.md), and masters of a craft often become highly skilled at *multiple* disciplines to accomplish their [purposes](purpose.md).
 
-As we keep [creating](creations.md), we naturally form [abstract values](values.md). These values compile into broad-scoping things that run farther than what we presently [understand](understanding.md).
+As we keep [creating](creations.md), we naturally form [abstract values](values.md). These values compile into broad-scoping things that run farther than what we presently [understand](mind-understanding.md).
 
 We subconsciously, automatically abstract things because it's [easier](mind-decisions.md) in the long term. Keeping [triggers](habits.md) and [symbols](symbols.md) in our conscious instead of step-by-step procedures or mental frameworks is quicker and more efficient to find in our minds. Professionals in *any* career do it naturally, and this most visibly represents as their ideas will naturally gravitate around trade-specific [language](language.md).
 
 These abstractions are *far* more [useful](purpose.md) than just that line of work. Those values can apply to many, many elements across many disciplines. That is, in effect, what philosophy is:
 
 - [Science](science.md) is [dividing](logic.md) the [true](reality.md) and the knowable.
-- [Theology](religion.md) is [understanding](understanding.md) the [good](morality.md) and [the unknowable](unknown.md).
+- [Theology](religion.md) is [understanding](mind-understanding.md) the [good](morality.md) and [the unknowable](unknown.md).
 - [Art and criticism](values-quality.md) are dividing and reproducing [beauty](mind-creativity.md).
 - Physical labor is manipulating [metaphysics](reality.md).
 - Engineering is making knowable [metaphysics](reality.md) observable and reproducible.
@@ -57,7 +57,7 @@ To consider the scope of philosophers' writings, most Western philosophy can bro
 
 Most of the philosophers of antiquity (e.g., Socrates, Plato, Aristotle) were Greek. They [logically](logic.md) broke apart the components of [reality](reality.md) to ask what things are.
 
-At the time, this was a relatively new idea, at least in its scope. They were asking [meaningful](meaning.md) questions that forced anyone from any discipline to stop and more wholly consider who they were and what they were doing. They also tried expressing the experience as a [lifestyle](people-goodlife.md) that extended out of their [thinking and understanding](understanding.md).
+At the time, this was a relatively new idea, at least in its scope. They were asking [meaningful](meaning.md) questions that forced anyone from any discipline to stop and more wholly consider who they were and what they were doing. They also tried expressing the experience as a [lifestyle](people-goodlife.md) that extended out of their [thinking and understanding](mind-understanding.md).
 
 The lifestyle of a philosopher was often treated as an important basis for their understanding, and some philosophy students were never taught philosophy until age 30. This value has a bit of [upper-class privilege](people-classes.md), but has merit by avoiding [youthful arguing](maturity.md).
 
@@ -83,7 +83,7 @@ The major downside of their approach, though is that they were obsessed with usi
 
 ### IV. Deconstruction (Post-Modern ~1800-1950)
 
-At some point, philosophers had broadly explored almost everything about how to live and be, but many of them weren't finding the [purpose](purpose.md) they were seeking without the support of a [religious framework](religion.md). Most of the modern philosophers like Hume, Kant, and Kierkegaard were seeking absolute [understanding](understanding.md) without any foundation based on [things we're unable to know](unknown.md).
+At some point, philosophers had broadly explored almost everything about how to live and be, but many of them weren't finding the [purpose](purpose.md) they were seeking without the support of a [religious framework](religion.md). Most of the modern philosophers like Hume, Kant, and Kierkegaard were seeking absolute [understanding](mind-understanding.md) without any foundation based on [things we're unable to know](unknown.md).
 
 For most of written history, we have assumed people have an inherent glory or beauty. This was a starting point. In the process of trying to find something that requires zero [uncertainty](mind-trust.md) to know, post-modern philosophers dismantled that beauty and focused instead of what could be proven.
 
@@ -104,7 +104,7 @@ The trouble with this thinking, though, is that it only deconstructs. In postmod
 
 APPLICATION: To find out if a philosophy *actually* works to live a [good life](people-goodlife.md), observe that philosopher's personal life, which is relatively easy to do across the [lens of history](stories-storytellers.md).
 
-Whether it was through finding [happiness](mind-feelings-happiness.md) irrespective of anything in our environment, or valuing [self-power](power.md) over anything else, anyone reading it with an intuition for the rest of [reality](reality.md) will wonder why it's even worth [understanding](understanding.md) in the first place.
+Whether it was through finding [happiness](mind-feelings-happiness.md) irrespective of anything in our environment, or valuing [self-power](power.md) over anything else, anyone reading it with an intuition for the rest of [reality](reality.md) will wonder why it's even worth [understanding](mind-understanding.md) in the first place.
 
 Ironically, the modern philosophers were utterly dismayed at their discovery of the meaningless. They were seeking truth, but without considering whether something was good or beautiful, and in the utter absence of any [religion](religion.md) to frame it.
 
@@ -131,7 +131,7 @@ Most average readers can't really tell *why* they don't understand or find an in
 2. The philosopher failed to put their idea into [meaningful](meaning.md) words, and the reader must decipher its mystery.
 3. The philosopher was just making stuff up but used elaborate [language](language.md) to hide it.
 
-When anyone can more easily understand 2,000-year-old Greek philosophers translated to English than most modern philosophical works, the modern philosophers didn't [understand](understanding.md) their ideas as much as the Greek philosophers.
+When anyone can more easily understand 2,000-year-old Greek philosophers translated to English than most modern philosophical works, the modern philosophers didn't [understand](mind-understanding.md) their ideas as much as the Greek philosophers.
 
 One of the reasons for this change is the lack of any "philosophical common sense". This type of common sense can best be defined as "the sense one acquires over the course of [living well](people-goodlife.md) through the pursuit of [goodness](morality.md)". Modern philosophy doesn't concern itself with adding [value](values-quality.md) to any presumption of "well", and instead deconstructs every component of every aspect of living, and the reader is left worse off than when they started.
 
@@ -146,9 +146,9 @@ APPLICATION: Most philosophy (as well as [theology](theology.md)) [educators](ed
 
 ## Power
 
-Philosophy is raw [power](power.md), like money or [understanding](understanding.md) about the [stock market](money-investing.md). Like any other power, it's only useful if it builds toward something that ultimately *isn't* another version of more power.
+Philosophy is raw [power](power.md), like money or [understanding](mind-understanding.md) about the [stock market](money-investing.md). Like any other power, it's only useful if it builds toward something that ultimately *isn't* another version of more power.
 
-APPLICATION: Everyone should read a little philosophy, maybe some Socrates or Plato. But, the average person should have a broader [purpose](purpose.md) for that philosophy, such as [enjoyment](fun.md) or [understanding](understanding.md), or they're wasting their time.
+APPLICATION: Everyone should read a little philosophy, maybe some Socrates or Plato. But, the average person should have a broader [purpose](purpose.md) for that philosophy, such as [enjoyment](fun.md) or [understanding](mind-understanding.md), or they're wasting their time.
 
 Most non-philosophers have an [intuition](mind-feelings.md) to see the power of philosophy, and it [scares](mind-feelings-fear.md) them. Many [cultures](people-culture.md) sidestep gigantic questions like "what is a [relationship](people-gender.md)?" and "why do we want [money](money-economics.md)?" because it could create enormous and [unexpected](unknown.md) [changes](people-changes.md) if anyone stopped to ask.
 
@@ -158,21 +158,21 @@ On the other hand, philosophical understanding makes *many* other aspects of lif
 
 - More ability to distinguish between [facts](reality.md) and [opinions](stories-why.md).
 - Easier to detect [patterns](symbols.md) across unrelated elements.
-- After some practice, broadly applied ideas are *much* easier to [learn](understanding.md) and (more importantly) unlearn.
+- After some practice, broadly applied ideas are *much* easier to [learn](mind-understanding.md) and (more importantly) unlearn.
 - To stay precise to the truth, learning things requires *far* less mental rework later.
-- [Decisions](mind-decisions.md) are easier to make with absolute [conviction](understanding-certainty.md), even with limited information.
+- [Decisions](mind-decisions.md) are easier to make with absolute [conviction](mind-understanding-certainty.md), even with limited information.
 
 APPLICATION: Philosophy has gotten a bad reputation because of [educators](education.md) who fail to see how the average person is *not* seeing its use. However, average people will naturally build philosophies through living their lives.
 
 Some philosophy is *absolutely* necessary for [the good life](people-goodlife.md), but only as needed. Very often, people call philosophy by other names like "common sense", "critical thinking", and "sensibility".
 
-APPLICATION: The time and place for philosophy is when it builds into [the good life](people-goodlife.md). It's often a response to a real [problem](purpose.md), not merely for the sole purpose of [understanding](understanding.md).
+APPLICATION: The time and place for philosophy is when it builds into [the good life](people-goodlife.md). It's often a response to a real [problem](purpose.md), not merely for the sole purpose of [understanding](mind-understanding.md).
 
 Be careful who you read, though. The [culture](people-culture.md) a philosopher surrounds themselves with can potentially generate three possible motivational axioms:
 
-1. If perfect living could be [understood](understanding.md) and communicated precisely enough, [society can be made perfect](politics-perfectsociety.md).
-2. Transforming society is an [uphill battle](people-conflicts-why.md), begun by [understanding](understanding.md) and applying [perfect living](people-goodlife.md).
-3. The [ideal is unattainable](unknown.md), so [understanding](understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
+1. If perfect living could be [understood](mind-understanding.md) and communicated precisely enough, [society can be made perfect](politics-perfectsociety.md).
+2. Transforming society is an [uphill battle](people-conflicts-why.md), begun by [understanding](mind-understanding.md) and applying [perfect living](people-goodlife.md).
+3. The [ideal is unattainable](unknown.md), so [understanding](mind-understanding.md) helps us [survive this life](habits.md) or [live perfectly in the next](religion.md).
 
 APPLICATION: Philosophy is very [useful](purpose.md), in its time and place. But, it's like any other form of [power](power.md), and can corrupt or destroy when misused. People can lose their minds upon discovering a particularly dense piece of information, so it's best when diluted by a [good story](stories-why.md) or a few years of life experience.
 

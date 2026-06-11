@@ -1,7 +1,7 @@
 
 # Addiction
 
-Addiction is when a person has [purposed](purpose.md) themselves to pursue any [habit](habits.md) to the point of excess, and its clearest indicator shows through someone [trusting](understanding-certainty.md) that substance to fulfill a [purpose](purpose.md) that it can't adequately fulfill.
+Addiction is when a person has [purposed](purpose.md) themselves to pursue any [habit](habits.md) to the point of excess, and its clearest indicator shows through someone [trusting](mind-understanding-certainty.md) that substance to fulfill a [purpose](purpose.md) that it can't adequately fulfill.
 
 Addicts' actions with drugs or alcohol are often [vilified](morality-taboo.md), but there are [many, *many* more](addiction-substances.md), and most people don't realize addiction's ubiquity.
 
@@ -46,7 +46,7 @@ The earlier an addict accepts they have a problem, the less they will lose from 
 However, we tend not to notice an advancing addiction because it takes over slowly:
 
 1. The substance consistently gives us the [results](results.md) we want.
-2. We [trust](understanding-certainty.md) the experience enough that we stop searching for anything else.
+2. We [trust](mind-understanding-certainty.md) the experience enough that we stop searching for anything else.
 3. As [diminishing return](results.md) begins, we naturally develop a tolerance that normalizes the experience.
 4. To maintain our sensation, we increase our efforts to maintain that original experience. Very often, we're fighting [past trauma](hardship-ptsd.md) and working to feel "normal", and the substance helps us with that feeling.
 5. At some point, we must make a sacrifice to keep using the substance. This is the demarcation between an extreme interest and an addiction. Whatever [form of power](power-types.md) it takes, we've now [sworn](mind-decisions.md) our allegiance to that thing.
@@ -122,7 +122,7 @@ When an addict can't gain a short-term pleasurable experience anywhere, they wil
    - Passive: self (suicide)
    - Aggressive others (murder)
 
-People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](understanding-certainty.md) that any [free market](money-economics.md) will create more addicting things:
+People frequently use [technology](technology.md) to enhance their addiction and create new ones. It's almost a [foregone reality](mind-understanding-certainty.md) that any [free market](money-economics.md) will create more addicting things:
 
 - Many new food products are [delicious](cooking.md) from [unhealthy additions](body-health.md).
 - Many gamers are modern book addicts who no longer need a vivid [imagination](mind-imagination.md).

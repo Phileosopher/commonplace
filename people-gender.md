@@ -13,7 +13,7 @@ Some people contest the distinction between gender, sex, and identity. However, 
 
 Like everything else we perceive, we tend to observe gender differences as complete demarcations. However, only a few key facts differentiate the genders:
 
-- Women express far more [emotion](mind-feelings.md) than men (though they have mostly the same emotions), and it comes from [understanding and sensing](understanding.md) more.
+- Women express far more [emotion](mind-feelings.md) than men (though they have mostly the same emotions), and it comes from [understanding and sensing](mind-understanding.md) more.
 - Men don't value [friendships](people-friends-why.md) the same way as women because they connect fewer [feelings](mind-feelings.md) and more [purposes](purpose.md) to their relationships.
 - Women don't persevere with [decisions](mind-decisions.md) as much as men because their nature is to revisit them for verification.
 - In [sexuality](relationships-sex.md), men are typically far more visually stimulated, while women are far more emotionally stimulated.
@@ -31,18 +31,20 @@ The differences arise from birth, specifically in whether the wiring for reprodu
   - This makes them far more hesitant to frame their purposes toward anything, as well as more willing to die for a legitimate cause.
   - Their greatest risk comes through their comparatively distant behavior in comparison to women.
 
-Those facts create a framing of [understanding](understanding.md) that build the [logic](logic.md) into dramatically different results:
+Those facts create a framing of [understanding](mind-understanding.md) that build the [logic](logic.md) into dramatically different results:
 
+- Men tend to [create](creations.md) and subdue, women tend to receive and curate.
 - Men tend to approach life as a set of [challenges](purpose.md), while women orient toward maintaining [safety](safety.md).
 - Men are generally better at [managing time](success-4_routine.md) whereas women at [managing space](organization.md).
 - Women are usually more [sensible](mind-feelings.md), while men are typically more [rational](logic.md).
 - Men are more [focused](success-3_goals.md), women are more [aware](mind-awareness.md).
 - Males are capable of casual and disengaged sex, but females experience sex as a more interconnected portion of the rest of their life.
+- Men use [conversation](people-conversation.md) as a type of "report", while women see it as building "[rapport](people-image.md)" and connection.
 
 Those differences in understanding make the [power dynamics](power.md) different:
 
-- Males are often more [confident](understanding-certainty.md), focused, and stronger than females.
-- Females are usually [smarter](understanding.md), [sophisticated](people-culture.md), thorough, and [well-connected](groups-member.md) than males.
+- Males are often more [confident](mind-understanding-certainty.md), focused, and stronger than females.
+- Females are usually [smarter](mind-understanding.md), [sophisticated](people-culture.md), thorough, and [well-connected](groups-member.md) than males.
 - Males want females who show power from their [essence](humanity.md).
 - Females want males who exhibit power among their [groups](groups-member.md).
 
@@ -54,9 +56,9 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men have more upper-body strength while women have more lower-body strength.
 - Men tend to not reconsider a thought after it was [decided](mind-decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
 - Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](mind-decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends-why.md).
-- Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories-why.md) across many components.
+- Men will [understand](mind-understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories-why.md) across many components.
 
-The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries-why.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
+The added [confidence](mind-understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-specialization.md) and [social integration](people-boundaries-why.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
 
 Further, men and women have neurological and biological distinctions:
 
@@ -102,8 +104,12 @@ Even in a completely free society, males have more roles with heavy lifting and 
 
 With very few social exceptions, [society](jobs-specialization.md) views men and women through [conventional roles](people-culture.md):
 
-- Men are usually seen as laborers, hunters, providers, and [establishers](entrepreneur-why.md). They're usually more likely to steal from and [overpower](power.md) others, and will often [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
-- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries-why.md) well with others and find a harmonious [solution](results.md). However, their diminished willpower that creates social cohesion means they're also more likely to [deceive and distort the truth](people-lying.md).
+- Men are usually seen as laborers, hunters, providers, and [establishers](entrepreneur-why.md).
+  - They're usually more likely to steal from and [overpower](power.md) others.
+  - They will often [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
+- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers.
+  - They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries-why.md) well with others and find a harmonious [solution](results.md).
+  - However, their diminished willpower that creates social cohesion means they're also more likely to [deceive and distort the truth](people-lying.md).
 
 This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have a harder time curbing their [feelings](mind-feelings.md).
 
@@ -111,11 +117,15 @@ Biology dictates itself to the degree we [identify](people-identity.md) with the
 
 In ancient societies, nobody had the luxury to explore these identities because of the public [shame](mind-feelings-shame.md) they'd incur, largely from the [fear](mind-feelings-fear.md) that came from survival necessities (e.g., if a man doesn't hunt and a woman doesn't cook, they both die).
 
+Even in medieval societies, the institution of marriage acted as a favor to women. The modern approach to women is "feme sole", where women have all the legal freedoms and entitlements to men. Traditionally, "feme covert" gave men those rights along with all responsibilities (e.g., [debts](money-2_debt.md), [prison sentences](legal-crimes.md)).
+
 APPLICATION: The philosophy of "complementarianism" is valid, in many respects:
 
 - There is an inherent double standard that people [universally](humanity-universals.md) miantain between men and women.
 - Women [economically](money-economics.md) take far more in taxes than they ever pay into it, but this is an acceptable circumstance.
 - If we were to completely disregard gender, then nobody would be able to [specialize](jobs-specialization.md) into what they liked.
+
+APPLICATION: A society that has fewer men proposing to women is a sign that the women have become far too [ungrateful](mind-feelings-happiness-connect.md) to justify marriage.
 
 ## Mating
 
@@ -154,7 +164,7 @@ A huge component of gender conflicts comes from our specific needs:
 - Men need respect, which revolves around what men [do](results.md) and others [honoring](people-image-why.md) those actions.
 - Women need affection, which is about [communicating](language.md) [sentiment](mind-feelings.md) to them.
 
-Men often give respect to women who don't want it, and women often give affection to men who don't care for it. Each gender doesn't naturally communicate in the other's [language](language.md) and must learn it from them, which requires patience to [teach](understanding.md).
+Men often give respect to women who don't want it, and women often give affection to men who don't care for it. Each gender doesn't naturally communicate in the other's [language](language.md) and must learn it from them, which requires patience to [teach](mind-understanding.md).
 
 APPLICATION: If men gave women affection and women gave men respect, most [intergender conflicts](relationships-marriage-conflicts.md) would disappear. But, that requires more [love](people-love.md) than most people are willing to give.
 
@@ -186,21 +196,34 @@ The above-stated purpose-built mechanism of a female contrasted to men's implici
 - The differences in [personality](people-personality.md) across populations means that men and women will score near-equally on most metrics, but the men will always sit on farther domains of the statistical curve (e.g., the smartest people in the world and the dumbest people in the world are men).
   - This means that men will always out-succeed *and* under-succeed women, if we factor all aspects together.
 - The aspect of [career paths](jobs-1_why.md) will always skew toward men because they don't stop their career to [raise children](parenting-babies.md).
+  - Further, the "nurturing" careers they're most designed to handle are typically inferior pay to the careers men will do (e.g., secretary, [HR](business.md), nursing).
   - Feminist dialogue has tracked the earnings potential for this situation to about 70% the earnings potential of men.
 - Finally, it means that [evil](morality-evil.md) men tend to be more domineering and overtly abusive, while evil women tend to be more controlling and subversive.
+  - In particular, evil women tend to [discriminate](hardship-discrimination.md) far more heavily, and garner more support from other women, than men do. It's very typical for developed societies to accept females [abusing](hardship-abuse.md) males than the other way around.
+  - The historical origins of feminism show this, with feminists showing they utterly [dehumanize men as an inferior class of person](hardship-discrimination.md).
+
+APPLICATION: As long as men are doing the dirty jobs (e.g., quarrying, construction, sewage treatment) and [society is free to choose](money-economics.md), men will always outperform women's wages.
 
 Further, advancements in abortion technology have created a very real problem.
 
 - If we define abortion as the ending of a baby's life, then more people have died in the 20th century from abortion than almost all the wars and genocides combined.
-- However, birth control is absolutely necessary for women to stay competitive alongside men.
+- However, birth control is absolutely necessary for women to stay competitive alongside men, since women can only stay in the work force maintain casual [sex culture](relationships-sex.md) without abortion.
+
+APPLICATION: Women who fight for abortion are fighting for women to be like men, and they become the "devouring mother" archetype before the child was even born.
 
 ## Men and feelings
 
-Due to the above-stated controversy, men tend to suffer a particular [emotional](mind-feelings.md) crisis in society because they are trained to disregard their feelings.
+Due to the above-stated feminism, men tend to suffer a particular [emotional](mind-feelings.md) crisis in society because they are trained to disregard their feelings.
 
 - Men often become trained to [fear](mind-feelings-fear.md) expressing themselves, being vulnerable with how they feel, or [identify](people-identity.md) with their feelings.
   - This assertion on the outside is that those behaviors are "weak", "feminine", or "inferior".
   - Taken far enough, the ideal can represent as the [philosophies](philosophy.md) of Stoicism or post-modern thinking.
+
+Sadly, modern society indicates men are universally permitted to express only three specific feelings:
+
+- [Anger](mind-feelings-anger.md), but only in appropriate contexts
+- Pride over something
+- Disdain
 
 Most of the time, this is a false perception of an ideal for adult male behavior.
 
@@ -208,7 +231,7 @@ Most of the time, this is a false perception of an ideal for adult male behavior
 - Authentic manhood is driven by [self-awareness](mind-awareness.md) and courage to confront [feelings](mind-feelings.md), but it doesn't create tangible results.
 - Due to the unique existential emptiness of men compared to women, they will find more [meaning](meaning.md) in domains they're familiar with (e.g., [fixing things](https://adequate.life/fix)) than in unfamiliar things (i.e., their feelings).
 
-Society's expectations, [cultural standards](people-culture.md), and [trauma](hardship-ptsd.md) all contribute to this issue.
+Society's expectations, [cultural standards](people-culture.md), and [trauma](hardship-ptsd.md) all magnify this issue.
 
 - Traditional society often portrays men as strong, stoic, and emotionally reserved, with very little display of vulnerability or [sadness](mind-feelings-sadness.md).
   - Boys often don't find much emotional expression in their male role models, which will lead them to believe that showing feelings isn't "manly".
@@ -218,9 +241,11 @@ Society's expectations, [cultural standards](people-culture.md), and [trauma](ha
 - Many times, a male will fear that expressing their feelings will lead to an outburst or loss of control.
   - In their question for [meaning](meaning.md), males will often develop a fear that expressing feelings will burden others or create [conflict](people-conflicts.md).
   - Often, men will express their feelings through actions instead of words.
+- In modern societies, where everything becomes [measured by immeasurable things](people-image-modern.md), men learn their [expression of feelings](mind-feelings.md) doesn't matter at best, and is a risk at worst.
 
-Sadly, society indicates men are universally permitted to express only three specific feelings:
+Men have a proven record of persisting in these conditions. This is because they simply need a [purpose](purpose.md) that creates [meaning](meaning.md), even when the whole world is against them.
 
-- [Anger](mind-feelings-anger.md)
-- Pride
-- Disdain
+- This isn't a matter of rational action, and draws more from healthy directed [anger](mind-feelings-anger.md) and a a spirituality about [the unknown](unknown.md)
+- When men don't have that, they become weak in society and develop a type of learned helplessness.
+- Due to the above-stated conditions of being built to [nurture something](parenting-babies.md), women are incapable of persevering in the void like men can.
+  - Anecdotally, a female journalist named Nora Vincent attempted an 18-month lifestyle as a man. She had assumed she'd unveil the patriarchical nature of men, but was so psychologically shattered after the experience that she committed assisted suicide a few decades later.

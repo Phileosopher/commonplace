@@ -180,7 +180,7 @@ While it may be useful to catch most glaring issues, A/B testing can absolutely 
 Computers have a unique paradox:
 
 1. We must abide by [existing convention](habits.md) to learn how to operate something new.
-2. Simplicity is critical for people to easily, quickly [understand](understanding.md) information that helps them make [decisions](mind-decisions.md).
+2. Simplicity is critical for people to easily, quickly [understand](mind-understanding.md) information that helps them make [decisions](mind-decisions.md).
 3. For the convenience of the hardware and software engineer, *all* the complexities are laid out when they first design the object.
 
 Those 3 elements combine to mean that computers *can't* please all the users unless there are *many* dropdown menus and extra hidden elements for more complex features.

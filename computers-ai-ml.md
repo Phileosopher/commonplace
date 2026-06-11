@@ -58,7 +58,7 @@ Historically, whenever a computer doesn't know or can't access something, it has
 
 In the case of machine learning, most of the advancements have come through what is called "hallucination", which is jargon for "make something up".
 
-Since it shares information as if it were legitimate, people aren't able to tell the difference unless they check the information themselves. That [certainty](understanding-certainty.md) provokes the user to [bias](mind-bias.md) toward thinking the computer is providing legitimate information.
+Since it shares information as if it were legitimate, people aren't able to tell the difference unless they check the information themselves. That [certainty](mind-understanding-certainty.md) provokes the user to [bias](mind-bias.md) toward thinking the computer is providing legitimate information.
 
 Further than that, the associations toward anthropomorphic bias (i.e., imagining the computer is "thinking") make people imagine the computer had actual thoughts to come to that answer.
 

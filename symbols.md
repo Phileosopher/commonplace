@@ -9,7 +9,7 @@ Symbols are inherently [emotional](mind-feelings.md), and they resonate *much* m
 
 We send and store ideas with symbols. The more elaborate and complicated the idea, the more symbols we need.
 
-We don't have enough words to 100% describe what we wish to convey, so we [try our best](results.md) to grab the best possible arrangement of symbols. We then [trust](mind-trust.md) the other person or our future self will [understand](understanding.md) by filling in the parts we *didn't* say. Naturally, with deeply sophisticated things like [physics and engines](engineering.md), technical writers don't trust much to others' understanding.
+We don't have enough words to 100% describe what we wish to convey, so we [try our best](results.md) to grab the best possible arrangement of symbols. We then [trust](mind-trust.md) the other person or our future self will [understand](mind-understanding.md) by filling in the parts we *didn't* say. Naturally, with deeply sophisticated things like [physics and engines](engineering.md), technical writers don't trust much to others' understanding.
 
 Because of its emotional nature, a symbol represents many elements a person will associate with an object. Some of the most commonplace symbols in society include [language](language.md), [branded logos](marketing.md), and many [design concepts](engineering-design.md).
 
@@ -100,6 +100,6 @@ APPLICATION: Using symbols to gain [power](power.md) isn't morally good or bad, 
 
 FURTHER APPLICATION: Don't waste too much time trying to [influence](influence.md) others' ideas without approaching the symbols. Typically, you'll need symbols of your own to make a difference.
 
-Either way, a firm [understanding](understanding.md) of [reality](reality.md) will deter most false [stories](stories-why.md). But, to the people who want to [believe](understanding-certainty.md) those stories, it'll *always* seem perfectly [reasonable](logic.md).
+Either way, a firm [understanding](mind-understanding.md) of [reality](reality.md) will deter most false [stories](stories-why.md). But, to the people who want to [believe](mind-understanding-certainty.md) those stories, it'll *always* seem perfectly [reasonable](logic.md).
 
 APPLICATION: Watch for patterns you may trigger in a [culture](people-culture.md) that's not your own. For example, the implication of breaking [rules](people-rules.md) is [taboo](morality-taboo.md) for lawyers, but honoring rules is taboo for most [lower-income urban dwellers](people-classes.md).

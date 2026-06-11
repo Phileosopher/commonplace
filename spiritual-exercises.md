@@ -62,7 +62,7 @@ In general, track wherever you may be missing parts of your spiritual journey:
 4. Are you connecting with God and others in a caring community ([Hebrews 10:25](https://biblehub.com/hebrews/10-25.htm))?
 5. Are you avoiding unhealthy connections with others ([1 Corinthians 15:33](https://biblehub.com/1_corinthians/15-33.htm))?
 6. Are you contributing yourself and [God-given gifts](spiritual-gifts.md) for growing the Kingdom of Heaven ([Colossians 3:23](https://biblehub.com/colossians/3-23.htm))?
-7. Are you prepared for the [uncertainty](understanding-certainty.md) God is almost guaranteed to give you soon ([James 4:13-15](https://biblehub.com/james/4.htm))?
+7. Are you prepared for the [uncertainty](mind-understanding-certainty.md) God is almost guaranteed to give you soon ([James 4:13-15](https://biblehub.com/james/4.htm))?
 8. Have you been practicing patience in whatever God is doing (even when you don't see it) ([James 1:9](https://biblehub.com/james/1-9.htm))?
 9. Have you been avoiding even the *appearance* of [evil](morality-evil.md) ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm))?
 
@@ -157,7 +157,7 @@ Set a reminder, like an alarm, to focus on Him hour-by-hour.
 
 When you get bored reading the Bible, try [a new method you haven't tried yet](bible-study.md) of studying the Bible.
 
-[Memorize](mind-memory.md) a new passage of Scripture, then seek to [understand](understanding.md) absolutely *everything* it implies.
+[Memorize](mind-memory.md) a new passage of Scripture, then seek to [understand](mind-understanding.md) absolutely *everything* it implies.
 
 Every time you run across a Bible verse somewhere, read the entire chapter where that passage came from.
 

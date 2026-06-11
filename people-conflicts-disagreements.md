@@ -80,7 +80,7 @@ Everyone [disagrees on a hierarchy](http://paulgraham.com/disagree.html):
 6. Attacking the person's characteristics or authority without addressing their points ("You have no right to say that").
 7. Calling the person names or using insults without presenting a counterargument ("You're an idiot.").
 
-To gain more information and [understanding](understanding.md), behave like you're stupid.
+To gain more information and [understanding](mind-understanding.md), behave like you're stupid.
 
 - Only do this if you don't desire a further [friendship](people-friends.md) with this person.
   - This tactic sabotages their direct trust with you, even if it creates a more advantageous long-term solution.
@@ -95,7 +95,7 @@ To gain more information and [understanding](understanding.md), behave like you'
 
 Influential people confirm what people agree with, then add new information to adapt their views:
 
-1. Think deeply about what you believe until you fully [understand](understanding.md) it.
+1. Think deeply about what you believe until you fully [understand](mind-understanding.md) it.
 2. Share what causes your beliefs, but not what you believe.
 3. Give the listener plenty of time to think it over.
 4. Share, as your perspective, what you think ("My belief is that...")
@@ -289,6 +289,19 @@ Both of them must commit to avoiding "you" statements as much as possible, as we
 Avoid either side comparing who was hurt worse.
 
 - Both sides were hurt, and there's literally no way to measure by any reasonable comparison.
+
+Do *not* explain your motivations unless the other person asks.
+
+- Stating that it wasn't your intention to hurt someone doesn't change that you've hurt them.
+- When you think your intention matters more than their offense, you're effectively telling them that their [feelings](mind-feelings.md) aren't valid.
+  - While their *experiences* may not be valid compared to [reality](reality.md), their feelings are always valid in light of what they're experiencing.
+- To make any healing, you must accept their feelings, which only requires acknowledging [they saw something](people-image.md) a certain way and not that anything actually happened that way.
+  - While there *might* be [narcissistic abuse](hardship-abuse-narcissist-stages.md), most people will be willing to accept an alternative view when they sense you legitimately [care about them](people-love.md).
+- Simply apologize and [ask for forgiveness](hardship-forgiveness.md) about extremely specific things you can own that you've failed at.
+  1. "I hurt you deeply."
+  2. "I can see how in your experience it would be very hurtful for me to say and do these specific things."
+  3. "Can you please forgive me?"
+  4. "I don't expect you to trust me as much going forward. I will try to do better and hope I can earn your trust again."
 
 Many times, each side must promise to change.
 

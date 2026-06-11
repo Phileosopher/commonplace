@@ -30,7 +30,7 @@ Multiple information technologies across history have gotten us here, but the [I
 
 1. Writing gave people the means to share and send information. Philosophers bemoaned what it did to everyone's memory, but it allowed anyone to be [educated](education.md) by long-deceased people if they knew how to read and had access to a library.
 2. The printing press magnified writing, and the only constraint to permitting *many* people to read was money.
-3. Photographs allowed us to send slices of time across the world, meaning we could see farther alongside [understanding](understanding.md).
+3. Photographs allowed us to send slices of time across the world, meaning we could see farther alongside [understanding](mind-understanding.md).
 4. The telegraph made the entire exchange *instant* with small bits of that information, allowing us to act faster.
 5. Radio permitted us to deliver entire *lectures* to anyone in a region, irrespective of price, and the telephone let us hold conversations irrespective of distance.
 6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
@@ -77,7 +77,7 @@ In this era, there's a *lot* of information available, on pretty much everything
 
 For various reasons, most information doesn't have much value:
 
-- People don't apply much [common sense](understanding.md) to the subject, or are repeating what everyone else says (which can get *much* worse when [AI](computers-ai.md) assists with the [creative](mind-creativity.md) process).
+- People don't apply much [common sense](mind-understanding.md) to the subject, or are repeating what everyone else says (which can get *much* worse when [AI](computers-ai.md) assists with the [creative](mind-creativity.md) process).
 - The creator has intentionally made the information inadequate to provoke people to pay more [money](money-1_why.md) to get the complete information.
 - The creator's [bias](mind-bias.md) overshadows the truth.
 - The goal of the content is to [influence](power-influence.md) people by [distorting the truth](people-image-distortion.md).

@@ -1,7 +1,7 @@
 
 # What culture is
 
-Culture is a vague word, but can best define the broad things that [identify](people-identity.md) a [group](groups-large.md). These can include [arts](art.md), [beliefs](understanding-certainty.md), customs (group [habits](habits.md)), [subgroups](groups-small.md), and [thoughts](understanding.md).
+Culture is a vague word, but can best define the broad things that [identify](people-identity.md) a [group](groups-large.md). These can include [arts](art.md), [beliefs](mind-understanding-certainty.md), customs (group [habits](habits.md)), [subgroups](groups-small.md), and [thoughts](mind-understanding.md).
 
 There are some clear indicators of [the present generational cultures](people-culture-present.md), defined largely by their relationship with [technology](technology.md).
 
@@ -51,19 +51,19 @@ Cultures aren't that different on an individual basis, and their differences are
 
 APPLICATION: Depending on your [personality](people-personality.md), it may make a great deal of sense to move to another culture that fits you in another [career industry](jobs-specialization.md) or geographical region.
 
-APPLICATION: Cultures are critical to give us the framing for [meaning](meaning.md) among our social groups. Even when they're [defective](mgmt-badsystems.md), the [familiarity](habits.md) gives us [certainty](understanding-certainty.md) against the [chaos of the unknown](unknown.md).
+APPLICATION: Cultures are critical to give us the framing for [meaning](meaning.md) among our social groups. Even when they're [defective](mgmt-badsystems.md), the [familiarity](habits.md) gives us [certainty](mind-understanding-certainty.md) against the [chaos of the unknown](unknown.md).
 
-APPLICATION: When you encounter a different culture, you're engaging with someone who has a radically different view of the world. Some of their actions *will* be ineffective for certain situations, but your [friendship](people-friends-why.md) with them will help you [understand](understanding.md) enough to see its benefits. From there, you can judge which behavior between yours and theirs is ideal for which circumstance.
+APPLICATION: When you encounter a different culture, you're engaging with someone who has a radically different view of the world. Some of their actions *will* be ineffective for certain situations, but your [friendship](people-friends-why.md) with them will help you [understand](mind-understanding.md) enough to see its benefits. From there, you can judge which behavior between yours and theirs is ideal for which circumstance.
 
 These divisions can be easily parsed into multiple [dimensions](people-culture-dimensions.md)
 
 ## Inheritance
 
-Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](understanding.md), [say](language.md), and [believe](understanding-certainty.md). Later, we make clear [decisions](mind-decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
+Our first culture is our [family](people-family.md). They told us what we should [do](results.md), [think](mind-understanding.md), [say](language.md), and [believe](mind-understanding-certainty.md). Later, we make clear [decisions](mind-decisions.md) about our groups (usually during [puberty](maturity.md)) where we choose to engage with *other* cultures.
 
 After we've been in any group long enough, our [identity](people-identity.md) has formed into a remix of that culture and what we [prefer](humanity.md). Because of this, it's difficult to pin down the *exact* marks of a specific culture, since each element is subject to [change](people-changes.md) or have individual [adaptations](creations.md).
 
-We tend to adopt cultural values without consciously observing what we've conformed to. We're so busy trying to please [higher authorities](groups-small.md) in our group that we ignore how our choice of [language](language.md), specific [knowledge](understanding.md), and [stories](stories-why.md) we [believe](understanding-certainty.md) are shifting around.
+We tend to adopt cultural values without consciously observing what we've conformed to. We're so busy trying to please [higher authorities](groups-small.md) in our group that we ignore how our choice of [language](language.md), specific [knowledge](mind-understanding.md), and [stories](stories-why.md) we [believe](mind-understanding-certainty.md) are shifting around.
 
 Our choice and flow of [language](language.md) show our cultural background:
 
@@ -85,9 +85,9 @@ Most cultures adopt mindless traditions over time:
 
 APPLICATION: Nobody really knows why some traditions exist. This doesn't stop them from honoring it, and it often gives [meaning](meaning.md) to that person irrespective of the tradition itself. Except for [immoral](morality.md) traditions, be careful how you condemn them, since some members need those traditions to find [peace](safety.md), and they may honor them for a [reason](purpose.md) you don't know.
 
-As traditions become [stories](stories-why.md), they often develop [superstition and folklore](stories-myths.md) around them. Those stories often have [wisdom](understanding.md) inside them, at least with their messages (e.g., don't go into the woods at night), but are far divorced from [reality](reality.md) and can often spin off into new [religious sects](religion.md).
+As traditions become [stories](stories-why.md), they often develop [superstition and folklore](stories-myths.md) around them. Those stories often have [wisdom](mind-understanding.md) inside them, at least with their messages (e.g., don't go into the woods at night), but are far divorced from [reality](reality.md) and can often spin off into new [religious sects](religion.md).
 
-APPLICATION: Every new member of a group must learn the value of their culture's traditions for themselves. The best way to destroy a culture is for the older order to be bad at [teaching](education.md). The easiest way to teach is through a [rite of passage](maturity.md) because the next generation can maintain the older generation's [beliefs](understanding-certainty.md) through [feeling](mind-feelings.md) the experience for themselves.
+APPLICATION: Every new member of a group must learn the value of their culture's traditions for themselves. The best way to destroy a culture is for the older order to be bad at [teaching](education.md). The easiest way to teach is through a [rite of passage](maturity.md) because the next generation can maintain the older generation's [beliefs](mind-understanding-certainty.md) through [feeling](mind-feelings.md) the experience for themselves.
 
 Often, we will [feel](mind-feelings.md) strong affections about our cultural background. We frequently will make the mistake of assuming others will experience a similar [meaning](meaning.md) if they adopt a similar culture.
 
@@ -115,7 +115,7 @@ Some well-established people in a formerly [powerful](power.md) culture will som
 
 Most people, especially [younger people](maturity.md), will naturally adapt to other cultures they come across. As they pick-and-choose the elements they like the most, they'll become less like their old culture and will eventually become a "third culture" that synthesizes their two backgrounds. We can't really help this, since we're always at least somewhat [influenced](influence.md) by the world around us.
 
-Across cultures, some cultures are regarded as "lesser" by other cultures, often because they're more informal or have more of a sense of [humor](humor.md) (e.g., Mexicans, Filipinos). Frequently, their [view of reality](people-image-why.md) contains many profound [truths](understanding.md) that other cultures' hubris will overlook.
+Across cultures, some cultures are regarded as "lesser" by other cultures, often because they're more informal or have more of a sense of [humor](humor.md) (e.g., Mexicans, Filipinos). Frequently, their [view of reality](people-image-why.md) contains many profound [truths](mind-understanding.md) that other cultures' hubris will overlook.
 
 Third-culture people are in key positions to frame [brand-new cultures of their own](entrepreneur-why.md). They can only [influence](influence.md) their culture of origin (e.g., their [family](people-family.md)) if they can provoke the members to [change](people-changes.md). More often, the members will cast them out from that group, and they'll *have* to [establish a new one](groups-small.md), often by merely having [children](people-family.md).
 

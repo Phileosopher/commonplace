@@ -6,14 +6,14 @@ A habit is anything that psychology broadly classifies as "conditioned response"
 Habits are a type of neurological [story](stories-why.md) with a relatively simple mechanism:
 
 1. A **trigger** or craving is an [emotional](mind-feelings.md) burst of dopamine based on a subconscious [imagination](mind-imagination.md) of a [result](results.md).
-   - We regard it as enough of a [perceived fact](reality.md) that we [believe it](understanding-certainty.md).
+   - We regard it as enough of a [perceived fact](reality.md) that we [believe it](mind-understanding-certainty.md).
    - Triggers can be either environmental (e.g., sight, sound, or sentence) or in our perceptions (e.g., memory, [feeling](mind-feelings.md), a simple thought).
-2. A **method** of [thinking](understanding.md) or [doing](results.md).
+2. A **method** of [thinking](mind-understanding.md) or [doing](results.md).
    - Methods always represent as a series of smaller, programmed steps.
    - Recursively, most of the programmed steps are additional habits.
 3. A **reward** as another dopamine flow that sits at the end of a method.
    - The reward could be *anything* real or imagined, including a feeling or sense of duty.
-   - That reward comes through a [belief](understanding-certainty.md) that the current incident will play out the same way we encoded a prior experience in our [memory](mind-memory.md).
+   - That reward comes through a [belief](mind-understanding-certainty.md) that the current incident will play out the same way we encoded a prior experience in our [memory](mind-memory.md).
 
 Another way to see habits is as the transition our conscious [decisions](mind-decisions.md) to the subconscious.
 
@@ -30,7 +30,7 @@ Starting with [infancy](maturity.md), we build habits into ever-increasing struc
 1. Before people can talk, they attempt to imitate their guardians. They build associations between sounds and ideas ("baby talk") and try basic activities ("grab").
 2. With routine use, those sounds become clearer and compound into elaborate expressions ("toddler speak") and complex maneuvers ("using a fork").
 3. Through rote memorization, they learn and can reproduce representations of familiar sounds and ideas ("[language](language.md)") and develop fine motor skills ("writing").
-4. After enough [experience](understanding.md), they chunk their habits together to understand and communicate complex ideas ("words/sentences/paragraphs") and increase their motor skills even further ("cursive writing").
+4. After enough [experience](mind-understanding.md), they chunk their habits together to understand and communicate complex ideas ("words/sentences/paragraphs") and increase their motor skills even further ("cursive writing").
 5. If you're reading this, you've done it without paying attention. You're so reliable at it that you'll fix the typos as you red automatically (as you may have just noticed).
 
 ## Automation
@@ -112,7 +112,7 @@ APPLICATION: Bad habits are wildly destructive, but they're not irredeemable. Pe
 
 If anyone finds [meaning](meaning.md) in some aspect of performing a habit, it's a tradition.
 
-Traditions [maintain society](people-culture.md) and [bind groups together](groups-small.md), mostly in how practicing them reinforces what everyone already [knows](understanding.md).
+Traditions [maintain society](people-culture.md) and [bind groups together](groups-small.md), mostly in how practicing them reinforces what everyone already [knows](mind-understanding.md).
 
 APPLICATION: The value of tradition comes through how much we find meaning in it, so getting a *[group](groups-small.md)* to find meaning requires several simultaneous approaches:
 

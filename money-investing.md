@@ -66,7 +66,7 @@ Watch for idle cash in your accounts:
 
 ## Keep your portfolio organized
 
-Good investors have a common-sense [understanding](understanding.md) of [how we exchange goods and services](money-economics.md).
+Good investors have a common-sense [understanding](mind-understanding.md) of [how we exchange goods and services](money-economics.md).
 
 - Everyone else investing is just as self-interested, and it helps to have a basic understanding of [game theory](math-gametheory.md) and the [types of investments that exist](money-investing-types.md).
 
@@ -92,7 +92,7 @@ The concept of value, however, is [a philosophically complicated one](values.md)
 
 1. Momentum investing - looking at the current price of something and [creating expectations](mind-imagination.md) about future price, then purchasing the things that will go up in price and selling things that will go down.
    - The idea is that the right mode of [intuitive](mind-feelings.md) analysis and understanding alone can predict future performance.
-   - This is patently ridiculous, since we can't [predict the future](mind-imagination.md), but it's our default behavior when we're [inexperienced](understanding.md).
+   - This is patently ridiculous, since we can't [predict the future](mind-imagination.md), but it's our default behavior when we're [inexperienced](mind-understanding.md).
 2. Value investing - find the investment's intrinsic underlying value, [without distortion](people-image-distortion.md), then buying or selling based on the divergence from that value.
    - It tends to emphasize tangible factors like [assets and cash flows](money-accounting.md) and discount factors like [talent](mind-creativity.md), [fashions](people-trends.md), and long-term growth potential.
    - Its primary focus emphasizes cheapness and concrete facts, but it can become myopic to bad decisions.
@@ -185,7 +185,7 @@ Don't invest, or do *anything*, you don't understand.
 - To comfortably learn more about an asset class, only invest in things you *would like* to know more about.
 - Only withdraw if you're perfectly aware of the [tax](money-accounting.md) implications.
 
-High-quality [analysis](logic.md) and [experience](understanding.md) can give a competitive edge if you can apply it to the psychology of [large groups](groups-large.md).
+High-quality [analysis](logic.md) and [experience](mind-understanding.md) can give a competitive edge if you can apply it to the psychology of [large groups](groups-large.md).
 
 - Understand how investing and banking works, as well as how to read [accounting reports](money-accounting.md) and applicable [laws](lawsaxioms-legal.md).
 - Stay at least somewhat familiar with that investment's industry and related industries.

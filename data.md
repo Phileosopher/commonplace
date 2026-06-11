@@ -5,7 +5,7 @@ Data is information. It's the plural of datum, which can easily be defined as a 
 
 While computers are always too dumb to understand the essence of truth, all computer data is some form of absolute. Even when it's vaguely expressed or is intended to have an intuitive component (e.g., [AI](computers-ai.md)), it *must* have a concrete aspect to it for the information to be encoded.
 
-This is a bit foreign to our minds, since we're able to *not* [understand](understanding.md) something while at the same time [believe it](understanding-certainty.md), which is a *massive* component of what drives our [creativity](mind-creativity.md).
+This is a bit foreign to our minds, since we're able to *not* [understand](mind-understanding.md) something while at the same time [believe it](mind-understanding-certainty.md), which is a *massive* component of what drives our [creativity](mind-creativity.md).
 
 Human sensory experiences process first with [emotions](mind-feelings.md) that branch outward into reasoning and [logic](logic.md) that then form into [decisions](mind-decisions.md), but computers work through information differently:
 

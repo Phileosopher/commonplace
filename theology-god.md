@@ -11,11 +11,11 @@ Even without [the Bible](theology-bible.md), we can still [logically conclude Go
 
 God is unlike any other being in our experience (Psalm 113:5-6, Isaiah 55:8-9, Isaiah 57:15, John 8:23).
 
-We [understand](understanding.md) God through theology (i.e., "knowledge of God").
+We [understand](mind-understanding.md) God through theology (i.e., "knowledge of God").
 
 - God has an eternal and infinite nature, so we need a decent capacity for [philosophy](philosophy.md) to [understand His viewpoint](https://theologos.site/god-sight/).
   - To be clear, though, we do *not* need to understand his view to [have a relationship with Him](https://theologos.site/gospel/) (Matthew 11:25)
-- We can partially [understand](understanding.md) God, but won't be able to fully understand Him in this life (1 Corinthians 13:9-12).
+- We can partially [understand](mind-understanding.md) God, but won't be able to fully understand Him in this life (1 Corinthians 13:9-12).
 - Thankfully, there are no intellectual barriers to [loving people](church-serve.md), meaning everyone can act in awareness of God.
 
 We can't know everything about God
@@ -79,7 +79,7 @@ God isn't [conventional](habits.md) or [predictable](mind-imagination.md).
 
 - This means God isn't "tame" or weak.
 
-God [knows](understanding.md) everything (Ezekiel 11:5, Psalm 147:5, Acts 15:18, Romans 2:6, Romans 11:33, Hebrews 4:13, 1 John 3:20).
+God [knows](mind-understanding.md) everything (Ezekiel 11:5, Psalm 147:5, Acts 15:18, Romans 2:6, Romans 11:33, Hebrews 4:13, 1 John 3:20).
 
 God is all-present (1 Kings 8:27, Job 11:7-9, Psalm 90:1-2, Psalm 139:7-10, Jeremiah 23:23-24).
 

@@ -409,7 +409,7 @@ Engineer - to design something technical, often for a specific purpose
 
 Enterprise server - large-scale computer meant for massive operations
 
-Entropy - a physics term referring to randomness, but refers to [uncertain](understanding-certainty.md) aspects of a computer's input, especially regarding machine learning
+Entropy - a physics term referring to randomness, but refers to [uncertain](mind-understanding-certainty.md) aspects of a computer's input, especially regarding machine learning
 
 Enumerated type - a data type consisting of set values that operate as constants (e.g., SHIRT may have hat, coat, pants, and glove)
 

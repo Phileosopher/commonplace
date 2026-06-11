@@ -62,13 +62,13 @@ A manager delivers the greatest direct motivation through 2 things:
 Managers will go *very* far if they can master the [skills for being a decent human being](https://adequate.life/):
 
 - [Respect](people-boundaries.md) your workers.
-- Encourage them to [think independently](understanding.md).
+- Encourage them to [think independently](mind-understanding.md).
 - Allow them to make [decisions](mind-decisions.md) on their own.
 - Connect their work to a legitimately important [collective effort](groups-small.md).
 
 Workers are highly motivated by competence.
 
-- Having genuine [understanding](understanding.md) of a subject will earn their respect more than any management system or incentive structure.
+- Having genuine [understanding](mind-understanding.md) of a subject will earn their respect more than any management system or incentive structure.
 - Often, [knowing your own limits and capabilities](mind-awareness.md) compared to them will earn a tremendous amount of respect with them.
 
 It's impossible to fake it with anyone you'd *want* to manage.
@@ -131,7 +131,7 @@ However, some things *always* discourage people from working:
 
 Over time, *every* new member will slowly become less motivated toward the team's interests.
 
-- When they start, their [imagination](mind-imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](understanding.md) about their team and their limits.
+- When they start, their [imagination](mind-imagination.md) about the opportunities within the team are endless, but that fades as they gain more [understanding](mind-understanding.md) about their team and their limits.
 
 Everyone loses their dedication to the group along a relatively straightforward pattern:
 

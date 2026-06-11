@@ -68,7 +68,7 @@ There are a wide variety of standardized techniques to craft objects, especially
 
 ## Complicated
 
-Engineering ideas are conceptually simple. However, this overview is for the sake of [understanding](understanding.md) for *non*-engineers.
+Engineering ideas are conceptually simple. However, this overview is for the sake of [understanding](mind-understanding.md) for *non*-engineers.
 
 However, they are *not* simple in practice. To quote and abstract the late [Hyman G. Rickover](https://en.wikipedia.org/wiki/Hyman_G._Rickover):
 

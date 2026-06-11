@@ -19,7 +19,7 @@ Children must be [educated](education.md) on several major domains:
 
 Children need everything an adult needs, but in dramatically different proportions:
 
-- Children are [growing](maturity.md) and have a limited [understanding](understanding.md) of reality.
+- Children are [growing](maturity.md) and have a limited [understanding](mind-understanding.md) of reality.
 - They need love, nurture, compassion, and [understanding about how to live](parenting-children-education.md).
 - As they grow older, the scope of their needs slowly adapts until it's the same as any full-grown adult.
 
@@ -98,7 +98,7 @@ Every child must learn a few basic [habits](habits.md):
 - Don't torture and bully other children (or you'll end up in jail).
 - Eat in a civilized style that thanks the host (so that people are happy to have you over and feed you).
 - Share with others (so other kids will play with you).
-- Pay attention when adults speak (so they don't hate you and might [teach you something](understanding.md)).
+- Pay attention when adults speak (so they don't hate you and might [teach you something](mind-understanding.md)).
 - [Go to sleep](sleep.md) properly and peacefully (so your parents can have privacy and won't resent your existence).
 - Take care of your possessions (you must learn how and are fortunate to have them).
 - Be pleasant or entertaining when something [fun](fun.md) is happening (so you're invited to fun things).

@@ -38,7 +38,7 @@ Teleologism - There's an inherent design/purpose/principle/clarity in [reality's
 
 Coherentism (coherence theory of truth) - Someone's beliefs are only true if they're consistent with at least most of their other beliefs.
 
-Coherentism (coherence theory of justification) - We can be [certain](understanding-certainty.md) of beliefs when they're consistent with at least most other beliefs that person has. Opposite of foundationalism.
+Coherentism (coherence theory of justification) - We can be [certain](mind-understanding-certainty.md) of beliefs when they're consistent with at least most other beliefs that person has. Opposite of foundationalism.
 
 Critical rationalism - To keep their value, all elements of [science](science.md) should be constantly criticized and questioned.
 
@@ -48,9 +48,9 @@ Deism - Reasoning is the only basis for knowledge. Thus, someone should only bel
 
 Experientialism - Knowledge should be measured by experiences and first-hand accounts.
 
-Foundationalism - We can be [certain](understanding-certainty.md) of beliefs when they're based on self-evident basic beliefs that are based on non-belief things like experiences. Opposite of coherence theory of justification.
+Foundationalism - We can be [certain](mind-understanding-certainty.md) of beliefs when they're based on self-evident basic beliefs that are based on non-belief things like experiences. Opposite of coherence theory of justification.
 
-Functionalism - Since reductive materialism (see above) and logical behaviorism (see above) are wrong, we must consult [beliefs](understanding-certainty.md), [desires](purpose.md), and [emotions](mind-feelings.md) to [understand](understanding.md) people. The opposite of coherence theory of justification.
+Functionalism - Since reductive materialism (see above) and logical behaviorism (see above) are wrong, we must consult [beliefs](mind-understanding-certainty.md), [desires](purpose.md), and [emotions](mind-feelings.md) to [understand](mind-understanding.md) people. The opposite of coherence theory of justification.
 
 Falsificationism/Deductivism - Things are only [scientific](science.md) if there's a possibility they could be wrong.
 

@@ -4,7 +4,7 @@
 It is called the "book of vision" because it is a prophetic work.
 
 - More commentary has been written about Revelation than any other book of the Bible.
-  - This makes sense, since it explicitly describes what will happen next, and people hate [uncertainty](understanding-certainty.md).
+  - This makes sense, since it explicitly describes what will happen next, and people hate [uncertainty](mind-understanding-certainty.md).
 - However, it is a bit foolish to pursue interpreting Revelation right away.
   - To start with, a solid foundation in John's prophecies requires closely examining the prophecies in Isaiah, Daniel, and the other prophets.
   - It also requires unthethering ourselves from the present-day circumstances. Donald Trump, for example, might have nothing to do with anything written in Revelation.

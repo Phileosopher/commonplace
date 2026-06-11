@@ -89,7 +89,7 @@ Many pre-made approaches will deviate differently from Jesus' core message.
 3. The only [justice](morality-justice.md) we deserve is death, and that's the eventual state of this world.
 4. God loves us so much that He sent Jesus ([who is God](theology-god.md)) to die for us.
 5. Jesus died for our sins, rose again, and is ruler and savior.
-6. Anyone who [believes](understanding-certainty.md) in Jesus as Lord will have their sins forgiven and eternal life.
+6. Anyone who [believes](mind-understanding-certainty.md) in Jesus as Lord will have their sins forgiven and eternal life.
 
 Many Christians will focus on Jesus' death, but His resurrection is the only part that gives hope ([1 Corinthians 15:12-19](https://biblehub.com/1_corinthians/15.htm)).
 
@@ -147,7 +147,7 @@ Sharing Christ with people is always [scary](mind-feelings-fear.md).
 Behave as [politely and respectfully](people-boundaries.md) as possible with everyone.
 
 - Even if others start [behaving inappropriately](people-conflicts.md), stay peaceable.
-- If they would rather not hear it, don't even *try* to convince or convert them from what they [believe](understanding-certainty.md).
+- If they would rather not hear it, don't even *try* to convince or convert them from what they [believe](mind-understanding-certainty.md).
 - If you're speaking with multiple people present, only share toward the most open-minded people there.
 - Never control the conversation or over-assert yourself.
 - Listen, respect their views, and make healthy conversations.

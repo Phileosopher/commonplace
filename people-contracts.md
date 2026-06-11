@@ -57,7 +57,7 @@ Pay close attention to opt-in or opt-out status, since its default state can be 
 
 In all engagements, either include or request a mediation/arbitration clause or limitation of liability clause.
 
-*Always* read the contracts you sign ("caveat emptor"), and never sign an agreement you don't fully [understand](understanding.md).
+*Always* read the contracts you sign ("caveat emptor"), and never sign an agreement you don't fully [understand](mind-understanding.md).
 
 - The large print hides what the small print can take away.
 - Pay close attention to the definitions at the beginning of the contract, since it typically frames the scope of words and their usage in the document.

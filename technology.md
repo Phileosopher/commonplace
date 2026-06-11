@@ -1,7 +1,7 @@
 
 # How technology works
 
-Technology (techno-logos, or "technique knowledge") is applying [shared](groups-small.md) [understanding](understanding.md) into [creating](creations.md) tools, and technological progress involves magnifying [purposes](purpose.md) and removing increasingly more portions of the [unknown](unknown.md) from our [daily activities](habits.md).
+Technology (techno-logos, or "technique knowledge") is applying [shared](groups-small.md) [understanding](mind-understanding.md) into [creating](creations.md) tools, and technological progress involves magnifying [purposes](purpose.md) and removing increasingly more portions of the [unknown](unknown.md) from our [daily activities](habits.md).
 
 Most modern use of the word is referring to "high-tech" things or, more specifically, [computers](computers.md). But, "technology" can apply to *many* tools. Most of these tools can layer onto other tools:
 
@@ -29,7 +29,7 @@ By using technology, we can do less work to achieve more [results](results.md):
 - Writing words requires tapping a finger instead of chiseling a rock or mixing paint by hand and rubbing it on a wall.
 - Moving boulders requires operating controls with our hands instead of lifting with our whole body.
 - Transporting ourselves requires operating controls with our hands and feet instead of running or using a trained animal.
-- We can gain *much* quicker [understanding](understanding.md) by using [media](creations.md) to [create](mind-creativity.md) and [share](people-conversation.md) things.
+- We can gain *much* quicker [understanding](mind-understanding.md) by using [media](creations.md) to [create](mind-creativity.md) and [share](people-conversation.md) things.
 - By storing [media](information.md), we can use technology instead of having to remember things. Or, more often, send a [good story](stories-why.md) to others.
 
 From one development to the next, these magnifications give an [exponential](math.md) yield. One person with today's technology has more [power](power.md) for some [purposes](purpose.md) than an entire village 500 years ago, and someone 500 years from now will appear to us as if they were magicians.
@@ -54,7 +54,7 @@ Contrary to the mindsets of [leftism](politics-leftism.md) or [libertarian pater
 
 Frequently, when we operate technology, we do things we normally wouldn't for that specific purpose. We may use a specific computer [language](language.md) to process [logic](logic.md) instead of pondering, swap out components on a compressor to preserve our food, or attach cables together to cut holes in a wall.
 
-Most people become so [habituated](habits.md) to those odd behaviors that they lose track of what the original task required. In that sense, [cultures](people-culture.md) with more technology often have *less* [understanding](understanding.md) of how to directly do things.
+Most people become so [habituated](habits.md) to those odd behaviors that they lose track of what the original task required. In that sense, [cultures](people-culture.md) with more technology often have *less* [understanding](mind-understanding.md) of how to directly do things.
 
 People born into a technologically advanced culture will naturally pick up skills tied to it from early [childhood](maturity.md) onward, and advanced technological leaps can *will* create generational [culture](people-culture.md) differences.
 
@@ -68,7 +68,7 @@ Typically, people treat a technological thing as a separate entity with a separa
 
 We also tend to separate technology from the rest of nature. Even though we're using natural resources, steel and plastic often [feel](mind-feelings.md) "fake" by comparison from how [well-crafted](values-quality.md) they are. This is only an illusion based on our interpretation of [order](unknown.md).
 
-Very frequently, if we grew up our entire lives around a specific technology, we have a difficult time [imagining](mind-imagination.md) life without it. Someone with enough [experience](maturity.md) without a technology can understand what it's like, but everyone else in that [culture](people-culture.md) will [presume](understanding-certainty.md) the technology is always available and feel [safer](safety.md) not thinking about its absence (since it's effectively a different [culture](people-culture.md)).
+Very frequently, if we grew up our entire lives around a specific technology, we have a difficult time [imagining](mind-imagination.md) life without it. Someone with enough [experience](maturity.md) without a technology can understand what it's like, but everyone else in that [culture](people-culture.md) will [presume](mind-understanding-certainty.md) the technology is always available and feel [safer](safety.md) not thinking about its absence (since it's effectively a different [culture](people-culture.md)).
 
 ## Usage
 
@@ -88,7 +88,7 @@ Advanced tools usually function as a more refined [purpose](purpose.md) of somet
 - Cameras are elaborate recreations of eyes.
 - Computers are distilled recreations of the [logic](logic.md) part of our brains.
 
-Once a technology has entered the public [consciousness](understanding.md) and been [proven](understanding-certainty.md) to [work](results.md), it becomes an established "[fact](reality.md)". Even when that technology is phased out from a better one, it'll always have specific [uses](purpose.md).
+Once a technology has entered the public [consciousness](mind-understanding.md) and been [proven](mind-understanding-certainty.md) to [work](results.md), it becomes an established "[fact](reality.md)". Even when that technology is phased out from a better one, it'll always have specific [uses](purpose.md).
 
 ## Culture
 
@@ -102,7 +102,7 @@ We [change](people-changes.md) to conform to our environment. If we expose ourse
 
 APPLICATION: Everything in the computer industry moves so rapidly that technologies never stay around long enough to be stable. Instead, by the time they're stable, they're old and outdated. Thus, computer specialists are always working with low-[quality](values-quality.md), [useful](purpose.md) tools that will be obsolete in a few years.
 
-People tend to take technology for granted, especially when they're [young](maturity.md). By comparing how lifestyles exist with various degrees of [technology](technology.md), we can often [understand](understanding.md) [the easiest way to live](people-goodlife.md) for various circumstances.
+People tend to take technology for granted, especially when they're [young](maturity.md). By comparing how lifestyles exist with various degrees of [technology](technology.md), we can often [understand](mind-understanding.md) [the easiest way to live](people-goodlife.md) for various circumstances.
 
 APPLICATION: At one time in the 1800s, people perceived the mind as a [mechanical object](engineering-mechanical.md), and has lately been perceived as a computer. The [fashion](people-trends.md) will change once something is more advanced than a computer.
 
@@ -130,7 +130,7 @@ Typically, because of the way technologies develop, they create waste, though th
 
 Further, technologies make us weak. We sacrifice the opportunity cost of [lifting weights](body-exercise.md), [working hard](success-4_routine.md), and finding [creative solutions](mind-creativity.md) to mechanical limits when our lives are easier.
 
-Technology itself, since it's a form of [understanding](understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](education.md) that information, or it will be lost until someone else re-invents it someday.
+Technology itself, since it's a form of [understanding](mind-understanding.md), is *also* fragile. Every great inventor's [death](legacy.md) robs the rest of the world of a small portion of that collective body of knowledge. While we can encode that information into a media for others to consume, people must [re-learn](education.md) that information, or it will be lost until someone else re-invents it someday.
 
 When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war-why.md), the only reliable way to prevent that technology from harming or killing many people is with other technology, either through the same weapon (e.g., nuclear missiles against nuclear missiles) or through a defense technology (e.g., body armor against guns).
 
@@ -142,7 +142,7 @@ People also often [fear](mind-feelings-fear.md) that technology could create its
 
 Technology can never fully replace human [creativity](mind-creativity.md) unless it were able to synthesize [feelings](mind-feelings.md)-based [logic](logic.md) like we do. Without it, the fastest computer can only stay confined to [conventional](habits.md) methods.
 
-Some people inclined toward technology find comfort in technology fully replacing in-person [interaction](people-conversation.md), but it's impossible without absurdly more powerful computers. We send a *lot* of information back-and-forth, with tons of context that draws from the entire interaction. This context includes a prioritized matrix of *forgetting* information proportionally to how far back it is and when it's no longer [useful](purpose.md). Even with something like a "hard" hologram, we'd always [intuitively](mind-feelings.md) [know](understanding.md) a person isn't there.
+Some people inclined toward technology find comfort in technology fully replacing in-person [interaction](people-conversation.md), but it's impossible without absurdly more powerful computers. We send a *lot* of information back-and-forth, with tons of context that draws from the entire interaction. This context includes a prioritized matrix of *forgetting* information proportionally to how far back it is and when it's no longer [useful](purpose.md). Even with something like a "hard" hologram, we'd always [intuitively](mind-feelings.md) [know](mind-understanding.md) a person isn't there.
 
 APPLICATION: Without [changing human nature](politics-perfectsociety.md), the most technologically advanced society would be *very* [capitalistic](money-economics.md) and lean *very* heavily into [scientific values](science.md).
 
@@ -150,13 +150,13 @@ APPLICATION: Without [changing human nature](politics-perfectsociety.md), the mo
 
 All [social class divides](people-classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
 
-Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](mind-awareness.md) outside that technology again.
+Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](mind-understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](mind-awareness.md) outside that technology again.
 
-Technology is also tremendous [power](power.md), often more than we can [safely](safety.md) handle. A public means to [communicate](people-conversation.md) across vast distances with many people immediately, for example, means some [immature](maturity.md) people should more thoroughly [consider](understanding.md) what they're saying before using it, and people can inadvertently destroy their lives by one careless gesture.
+Technology is also tremendous [power](power.md), often more than we can [safely](safety.md) handle. A public means to [communicate](people-conversation.md) across vast distances with many people immediately, for example, means some [immature](maturity.md) people should more thoroughly [consider](mind-understanding.md) what they're saying before using it, and people can inadvertently destroy their lives by one careless gesture.
 
-APPLICATION: Technology has allowed the average college student today to have more knowledge than Socrates or Josephus. This doesn't reflect as wisdom because [understanding](understanding.md) requires things influencing our [intuition](mind-feelings.md) for our [souls](humanity.md) to recognize it.
+APPLICATION: Technology has allowed the average college student today to have more knowledge than Socrates or Josephus. This doesn't reflect as wisdom because [understanding](mind-understanding.md) requires things influencing our [intuition](mind-feelings.md) for our [souls](humanity.md) to recognize it.
 
-Technology requires information to [understand](understanding.md) and invent. People frequently confine information to [compete](people-conflicts-why.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](mind-imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
+Technology requires information to [understand](mind-understanding.md) and invent. People frequently confine information to [compete](people-conflicts-why.md) with others, so the capacity for innovation is always [severely limited](https://www.meltingasphalt.com/interactive/going-critical/) compared to [what it could be](mind-imagination.md). Frequently, people will invent the same thing at the same time when they didn't have to!
 
 APPLICATION: [Large systems](groups-large.md) will often [try](purpose.md) to stall or steal technology from other groups. If they don't succeed, their [influence](power-influence.md) and [importance](people-trends.md) dies. If they do, they can slow the trend indefinitely.
 
@@ -166,6 +166,6 @@ As technology develops, it makes some roles obsolete, especially through automat
 
 APPLICATION: At one point, surveying land and trigonometry were the critical skills for most disciplines in the age of Rockefeller. As of right now, in the information age, it's [statistics](math-stat.md). In 100 years, it may be [game theory](math-gametheory.md) for [AI](computers-ai.md).
 
-People tend to use technology to define their [understanding](understanding.md) of the world. For this reason, the in-depth masters of a technology are subjected and relegated to the [fashions](people-trends.md) of their time (e.g., computer enthusiasts honor [their machine gods](https://gainedin.site/machines/)).
+People tend to use technology to define their [understanding](mind-understanding.md) of the world. For this reason, the in-depth masters of a technology are subjected and relegated to the [fashions](people-trends.md) of their time (e.g., computer enthusiasts honor [their machine gods](https://gainedin.site/machines/)).
 
-APPLICATION: If we're not [careful](safety.md) or [wise](understanding.md), technology can rapidly break things. Be very cautious when you use its [power](power.md), *especially* when it can affect [an entire group](groups-small.md)!
+APPLICATION: If we're not [careful](safety.md) or [wise](mind-understanding.md), technology can rapidly break things. Be very cautious when you use its [power](power.md), *especially* when it can affect [an entire group](groups-small.md)!

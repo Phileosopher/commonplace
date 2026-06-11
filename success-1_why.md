@@ -23,7 +23,7 @@ However, each culture values different things:
 
 - The USA values a fulfilling [career](jobs-1_why.md) and [family](people-family.md).
 - Europe values health and [satisfaction with life](mind-feelings-happiness.md).
-- Latin America values [education](understanding.md).
+- Latin America values [education](mind-understanding.md).
 - Saudi Arabia, Nepal, Ukraine, and some African countries measure success with [money](money-1_why.md).
 - Wealthy nations often find it in safety and [housing](home-buy.md).
 - A handful of countries, like Australia, value work-life balance.
@@ -70,7 +70,7 @@ Your intelligence and knowledge aren't that important:
 
 - Stupid mistakes come more from conceit than being uneducated or stupid.
 - Possessing knowledge isn't as useful as having wisdom or skill.
-- [Understanding](understanding.md) comes through so many ranges that you're not guaranteed to easily articulate it to others.
+- [Understanding](mind-understanding.md) comes through so many ranges that you're not guaranteed to easily articulate it to others.
 
 You have no clear picture of "balance":
 
@@ -145,10 +145,10 @@ For most of us, our success will start with smaller goals:
   - Keep everything [organized](organization.md)
   - View others' perspectives and understand alternate points of view
   - Make [creative](mind-creativity.md) connections between related and seemingly unrelated things
-  - Think [critically](logic.md) and neutrally before holding a [belief](understanding-certainty.md) or making [decisions](mind-decisions.md)
-  - Create self-directed, engaged [learning](understanding.md)
+  - Think [critically](logic.md) and neutrally before holding a [belief](mind-understanding-certainty.md) or making [decisions](mind-decisions.md)
+  - Create self-directed, engaged [learning](mind-understanding.md)
 - Character
-  - [Understand](understanding.md) without passing judgment
+  - [Understand](mind-understanding.md) without passing judgment
   - Do the right thing without looking for praise
   - [Forgive and release](hardship-forgiveness.md) everything
   - Find what causes facts and experiences, without excuses

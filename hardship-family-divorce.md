@@ -138,7 +138,7 @@ Even if you're in your 40s, you'll feel like your world is falling apart:
 
 It's natural to feel very unsafe, as well as the urge to fix your parents' issues:
 
-- Your parents were the first representation of [love](people-love.md) and [order](understanding-certainty.md) in your life, and you must discover another source for your comfort and safety.
+- Your parents were the first representation of [love](people-love.md) and [order](mind-understanding-certainty.md) in your life, and you must discover another source for your comfort and safety.
 - Their problems run deeper than you could ever know (likely before you were born), and you will *not* be able to fix the situation.
 
 Hang on and don't think much about what will happen:

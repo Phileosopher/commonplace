@@ -1,7 +1,7 @@
 
 # How design (UX/UI) works
 
-Visual design creates a user experience (UX) that designates how people [understand](understanding.md) the nature and implications of [created works](creations.md), and in most [capitalistic](money-economics.md) societies closely connected to [advertising](marketing.md).
+Visual design creates a user experience (UX) that designates how people [understand](mind-understanding.md) the nature and implications of [created works](creations.md), and in most [capitalistic](money-economics.md) societies closely connected to [advertising](marketing.md).
 
 Good design contains a *lot* of psychology because users create models in their mind of how something is supposed to work, so it dovetails with most of our [cognitive biases](mind-bias.md).
 
@@ -14,7 +14,7 @@ Throughout all good design, a few traits perpetually resonate:
 5. Both natural and artificial constraints are intentionally exploited as a [type of power](power-types.md) (rather than as a hindrance or challenge).
 6. When all else fails, creates [standards](standards-computers.md) to nail things down.
 
-We tend to need both order and variety. Too much [order](understanding-certainty.md) feels boring and oppressive, while too much [variety](people-changes.md) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all design.
+We tend to need both order and variety. Too much [order](mind-understanding-certainty.md) feels boring and oppressive, while too much [variety](people-changes.md) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all design.
 
 ## User-based
 
@@ -25,7 +25,7 @@ Users travel through a predictable flow of thought as they use something (known 
 3. The [physical action itself](results.md).
 4. Their observation of the action.
 5. Their [interpretation](people-image-why.md) of the state of the thing they're interacting with.
-6. An [evaluation](understanding.md) of that state.
+6. An [evaluation](mind-understanding.md) of that state.
 
 As they attempt to perform an action, they perform a complex [decisions-based calculus](mind-decisions.md) to determine whether they still want to keep doing it.
 

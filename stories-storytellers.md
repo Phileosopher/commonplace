@@ -3,9 +3,9 @@
 
 Since we think with [stories](stories-why.md), everyone [communicates](people-conversation.md) with them. They're necessary for [influencing](influence.md) others, the basis for how we [feel](mind-feelings.md) about things, and why we ever start [changing](people-changes.md).
 
-Stories that are grounded in [reality](reality.md) (or, at least, when we [believe them](understanding-certainty.md) to be reality) have *far* more influence over us than fiction. A fictional story is strictly the domain of [imagination](mind-imagination.md), but a real story implies that [consequences](results.md) will likely repeat themselves.
+Stories that are grounded in [reality](reality.md) (or, at least, when we [believe them](mind-understanding-certainty.md) to be reality) have *far* more influence over us than fiction. A fictional story is strictly the domain of [imagination](mind-imagination.md), but a real story implies that [consequences](results.md) will likely repeat themselves.
 
-To effectively convey a story, a storyteller *must* have a [value](values.md) they're trying to [prove](influence.md), and their effectiveness is in how much they can get their audience to [believe](understanding-certainty.md) them.
+To effectively convey a story, a storyteller *must* have a [value](values.md) they're trying to [prove](influence.md), and their effectiveness is in how much they can get their audience to [believe](mind-understanding-certainty.md) them.
 
 APPLICATION: It's safe to say that every single storyteller is the propaganda arm of some other [large group](groups-large.md). As the writer of this essay, For example, while this is informational, I'm aiming for [brevity](information.md) that maximizes [meaning](meaning.md), driven by my [personal spirituality](https://theologos.site/testimony/).
 
@@ -23,13 +23,13 @@ Since people can't know precisely what the subject of their gossip is doing at t
 
 We gossip for various reasons:
 
-- We can gain [power](power.md) through additional [knowledge](understanding.md) of someone.
+- We can gain [power](power.md) through additional [knowledge](mind-understanding.md) of someone.
 - We're [afraid](mind-feelings-fear.md) of someone's reaction if we told them something or did something.
 - We want to [do things](results.md) without someone knowing.
 - We have more interest in the people we're referring to than the people we're with.
 - We specifically care more about our [*connection*](people-friends-why.md) with the people we're with than the people we discuss.
 
-APPLICATION: The means to communicate 1 idea powerfully is critical to conveying ideas and influencing others. If someone isn't [certain](understanding-certainty.md) about their ideas, they'll speak [vaguely](unknown.md). Adding more ideas complicates others' [understanding](understanding.md).
+APPLICATION: The means to communicate 1 idea powerfully is critical to conveying ideas and influencing others. If someone isn't [certain](mind-understanding-certainty.md) about their ideas, they'll speak [vaguely](unknown.md). Adding more ideas complicates others' [understanding](mind-understanding.md).
 
 ## Tales
 
@@ -37,13 +37,13 @@ Each person is sharing a [story](stories-why.md) through the [medium](creations.
 
 APPLICATION: Since the news of information isn't the information itself, a story and its [implications](people-image-why.md) can change *very* rapidly, and without notice. In retrospect, it's clearly evident what caused it (typically through what people [felt](mind-feelings.md) strongly about but didn't have [words](mind-awareness.md) to say), but it's impossible to [predict it](mind-imagination.md).
 
-People typically [understand](understanding.md) any kind of story, but they need to be legitimately *[interested](purpose.md)* in a story to be affected by it. This is determined by a few factors:
+People typically [understand](mind-understanding.md) any kind of story, but they need to be legitimately *[interested](purpose.md)* in a story to be affected by it. This is determined by a few factors:
 
 1. Stories must be relatable, which most easily comes through directly connecting someone to a physical representation of [feelings](mind-feelings.md) (i.e., an object that reminds someone of an experience).
 2. Simpler stories are typically [more interesting](https://stucky.tech/stories/), though simpler stories are typically less true.
 3. Unlikely stories are more fun, though they create reinforced [bias](mind-bias.md) as a side effect.
 
-Storytellers of all forms want their listeners to suspend our natural [disbelief](understanding-certainty.md). They use [feelings](mind-feelings.md) to evoke a realistic experience, and would prefer if we don't ask questions that sabotage that experience.
+Storytellers of all forms want their listeners to suspend our natural [disbelief](mind-understanding-certainty.md). They use [feelings](mind-feelings.md) to evoke a realistic experience, and would prefer if we don't ask questions that sabotage that experience.
 
 APPLICATION: The top things that [kill people](hardship-death.md) are diseases, cancer, and accidents. The stories that make the news will always be homicide, suicide, [terrorism](people-conflicts-war-why.md), and dramatic accidents.
 
@@ -204,7 +204,7 @@ There is a [political reason](politics-conservativeliberal.md) to add specific t
 
 APPLICATION: News coverage and [history](history.md) are *never* exempt from [political manipulation](people-image-distortion.md), since the ability to craft [convincing](power-influence.md) [stories](stories-why.md) is a *tremendous* [form of power](power-types.md).
 
-If someone gains enough [power](power.md) telling the news, they will actually *make* future news events. By claiming things about [public opinion](people-image-why.md) or [informing](understanding.md) people about details, a news outlet has the [power](power.md) to bend the [opinions](understanding-certainty.md) of sometimes millions with a few choice [words](mind-awareness.md).
+If someone gains enough [power](power.md) telling the news, they will actually *make* future news events. By claiming things about [public opinion](people-image-why.md) or [informing](mind-understanding.md) people about details, a news outlet has the [power](power.md) to bend the [opinions](mind-understanding-certainty.md) of sometimes millions with a few choice [words](mind-awareness.md).
 
 APPLICATION: While we can gain a tiny bit of power via publicly protesting, boycotting, and writing letters, it's *rarely* as much [power](power.md) as communicating to the public with a form of large-scale media (e.g., social media).
 
@@ -232,7 +232,7 @@ APPLICATION: Given [human universals](humanity-universals.md), if you're angry a
 
 ## The prediction industry
 
-Since we can't even know what we *don't* know about the future, we hire people to deliver [certain](understanding-certainty.md) statements about [the unknown](unknown.md). At one time they were part of a [religious order](religion.md) as prophets, soothsayers, or seers. With the move toward secularization and [post-modern thinking](philosophy.md), they are now game theorists, quantitative analysts, actuaries, statisticians, and poll analysts under a type of [scientific order](science.md). Irrespective, they are effectively [imagining](mind-imagination.md) everything they do to create compelling [stories](stories-why.md).
+Since we can't even know what we *don't* know about the future, we hire people to deliver [certain](mind-understanding-certainty.md) statements about [the unknown](unknown.md). At one time they were part of a [religious order](religion.md) as prophets, soothsayers, or seers. With the move toward secularization and [post-modern thinking](philosophy.md), they are now game theorists, quantitative analysts, actuaries, statisticians, and poll analysts under a type of [scientific order](science.md). Irrespective, they are effectively [imagining](mind-imagination.md) everything they do to create compelling [stories](stories-why.md).
 
 APPLICATION: Statistics and statisticians [feel](mind-feelings.md) more accurate because they're a [group](groups-member.md) instead of an individual, but look very closely at how they receive and manipulate their data, and don't [trust](mind-trust.md) their predictions if it doesn't match your [instincts](mind-feelings.md). They might be trying to [distort the truth](people-image-distortion.md), especially when they have something to gain or have [competitors](people-conflicts-war-why.md).
 
@@ -240,6 +240,6 @@ They can only work on the [logic](logic.md) of known things, but they continue h
 
 APPLICATION: Statistical analysis is useful for finding correlations, not causation, so it's reliable to see whether your expectations have become [reality](reality.md). If you must [decide](mind-decisions.md) instead of tracking [results](results.md), ask for advice from [industry](jobs-specialization.md) veterans instead.
 
-For the sake of their livelihood, most of them will justify their [beliefs](understanding-certainty.md) with many [reports](math.md). If it confuses [leaders](groups-large.md) enough, those leaders will often [agree](people-conflicts-why.md) and trust them even more. However, the opinions of a veteran professional in a [specialty](jobs-specialization.md) still have more validity.
+For the sake of their livelihood, most of them will justify their [beliefs](mind-understanding-certainty.md) with many [reports](math.md). If it confuses [leaders](groups-large.md) enough, those leaders will often [agree](people-conflicts-why.md) and trust them even more. However, the opinions of a veteran professional in a [specialty](jobs-specialization.md) still have more validity.
 
 APPLICATION: We can't predict the future, so we must stay open-minded for all imagined circumstances to be [logically](logic.md) possible, then stop thinking about it. Unless we're having [fun](purpose.md) with it or minimizing [presently fixable risks](safety.md), dwelling on the future serves little benefit to our [souls](humanity.md).

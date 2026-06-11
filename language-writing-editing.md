@@ -3,14 +3,14 @@
 
 Always edit for simplicity.
 
-We [understand](understanding.md) things proportional to how few words we need to say them:
+We [understand](mind-understanding.md) things proportional to how few words we need to say them:
 
 - Aim for brief, simple sentences.
   - Strong, long sentences are simply many short sentences strung together.
   - Use commas sparingly, and split up sentences frequently.
 - Write like you talk.
   - If your writing is particularly awful, try to explain what you wrote to a friend, then throw out what you wrote and write what you said to them.
-  - Some [academic circles](understanding.md) find it offensive, but simple writing with a clear point demonstrates expertise.
+  - Some [academic circles](mind-understanding.md) find it offensive, but simple writing with a clear point demonstrates expertise.
 
 Edit to simplify, not add:
 

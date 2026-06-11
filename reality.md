@@ -3,7 +3,7 @@
 
 Reality is the part of existence that, except for delusion or deception, we are all in complete [agreement](people-conflicts-inner.md) exists.
 
-Most of what we [will](purpose.md) ourselves to do is a response to reality (or at least what we *[understand](understanding.md)* as reality).
+Most of what we [will](purpose.md) ourselves to do is a response to reality (or at least what we *[understand](mind-understanding.md)* as reality).
 
 Compared to what we [imagine](mind-imagination.md), we can't easily change reality. We can [change some things within reality](results.md), but they operate on immutable, universal rules. For example, we can remove the color black from a surface, but can't remove the essence of blackness as a color from existence.
 
@@ -24,7 +24,7 @@ The mechanism of cause-and-effect exists in various forms beyond human perceptio
 
 The trouble with reality is that it's *never* 100% certain. Instead, most things in reality are [likelihoods](math.md), which we then [trust](mind-trust.md) are high enough that the gaps aren't worth focusing on.
 
-Some intelligent, thoughtful people will fall into an existential froth over how we can't 100% [prove anything](understanding-certainty.md).
+Some intelligent, thoughtful people will fall into an existential froth over how we can't 100% [prove anything](mind-understanding-certainty.md).
 
 In light of that uncertainty, there are [deductively](logic.md) only a few possibilities for ghow to act:
 
@@ -40,10 +40,10 @@ One of the benefits of [religon](religion.md) is that it gives us a perceiver be
 
 One thing we can't attribute to our minds is legitimate [pain](mind-feelings-fear.md), since *something* must cause that, and it's not reasonable to assume we fabricated it for our [purposes](purpose.md).
 
-Since we don't like pain, and it's so [certain](understanding-certainty.md) within reality, we're forced to believe one of a few possible [value structures](values.md):
+Since we don't like pain, and it's so [certain](mind-understanding-certainty.md) within reality, we're forced to believe one of a few possible [value structures](values.md):
 
 1. From our [perspective](people-image-why.md), reality is nothing but pain. This is the most accurate if we don't believe anything beyond it, but it's absolutely [useless](purpose.md) because it strips any [meaning](meaning.md) or capacity for [living well](people-goodlife.md).
-2. There are presently unknown good things. This requires [belief](understanding-certainty.md) in the [unknown](unknown.md), but it allows us to [accomplish](purpose.md) and [inspire](power-influence.md) others toward [meaningful](meaning.md) actions.
+2. There are presently unknown good things. This requires [belief](mind-understanding-certainty.md) in the [unknown](unknown.md), but it allows us to [accomplish](purpose.md) and [inspire](power-influence.md) others toward [meaningful](meaning.md) actions.
 
 ## Experience
 
@@ -53,25 +53,25 @@ We have sensations and experiences, but those aren't technically what we call "r
 - Scent is a cluster of molecules picked up by the nose, but we interpret the scent itself using [feelings](mind-feelings.md) and language.
 - Our nerve endings detect things we touch, but then we assign groupings to them, like "flat" or "sticky".
 
-[Time](standards-datetime.md) is particularly difficult to [understand](understanding.md). The past only exists in our [memories](mind-memory.md), and the future only exists in our [imagination](mind-imagination.md), so the only thing we actually experience is a consecutive string of "now" instances that we treat as a passage of time. We believe it to be constant because we're [relatively accurate](mind-bias.md) at tracking it, but those instances of "now" transition more quickly to our perception when we're not paying attention (such as being engaged in [habitual](habits.md) work or [daydreaming](mind-imagination.md)).
+[Time](standards-datetime.md) is particularly difficult to [understand](mind-understanding.md). The past only exists in our [memories](mind-memory.md), and the future only exists in our [imagination](mind-imagination.md), so the only thing we actually experience is a consecutive string of "now" instances that we treat as a passage of time. We believe it to be constant because we're [relatively accurate](mind-bias.md) at tracking it, but those instances of "now" transition more quickly to our perception when we're not paying attention (such as being engaged in [habitual](habits.md) work or [daydreaming](mind-imagination.md)).
 
 Even without outward [evidence](science.md), some things exist because of the pure principle that our minds create them. A relationship between two people, for example, is simply a person's collection of memories, beliefs, and ideas about another person, with the other person having something resembling the same. If there were no minds, there'd be no relationships.
 
 ## Facts
 
-Facts are aspects of [understanding](understanding.md) that *do* exist, to the best we can define them. They are [values](values.md) based on what is true. [We often believe incorrect things](people-image-distortion.md), but share a remarkable number of conclusions about reality with most other people.
+Facts are aspects of [understanding](mind-understanding.md) that *do* exist, to the best we can define them. They are [values](values.md) based on what is true. [We often believe incorrect things](people-image-distortion.md), but share a remarkable number of conclusions about reality with most other people.
 
 Multiple facts can't contradict each other, though different [points of view](people-image-why.md) can imply that two true statements are contradictions. We tend to grab more facts that prioritize and confirm our preconceived [bias](mind-bias.md) unless we've disciplined ourselves otherwise. It takes tremendous patience to look beyond [initial impressions](people-image-why.md).
 
-We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories-why.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](people-culture.md) or [repelling](people-conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](understanding-certainty.md) what we see.
+We can't precisely grasp facts as they are in nature, but we can assemble them into [stories](stories-why.md) we *do* understand. Other people tend to interpret [the same stories](humanity-universals.md), and we will then "agree" on seeing the same stuff if we [communicate](language.md) back-and-forth. For the [sake](purpose.md) of [conforming to](people-culture.md) or [repelling](people-conflicts.md) others' beliefs, we tend to rewire many parts of our understanding, and that feedback is necessary to [validate](mind-understanding-certainty.md) what we see.
 
 Good facts are often difficult to find. Usually, we must [purpose](purpose.md) ourselves to seek diligently for them, and they're typically not that useful by themselves.
 
-To find good facts, we require hefty amounts of [analysis](logic.md) to process our [understanding](understanding.md), as well as [reaffirming truths we already know](understanding-certainty.md). Facts are easier to internalize if we use [education](education.md) and proper use of [technology](technology.md) to increase our [understanding](understanding.md), but who we listen to will *profoundly* [influence](power-influence.md) us.
+To find good facts, we require hefty amounts of [analysis](logic.md) to process our [understanding](mind-understanding.md), as well as [reaffirming truths we already know](mind-understanding-certainty.md). Facts are easier to internalize if we use [education](education.md) and proper use of [technology](technology.md) to increase our [understanding](mind-understanding.md), but who we listen to will *profoundly* [influence](power-influence.md) us.
 
-APPLICATION: No amount of [education](education.md) or [technology](technology.md) can offset the destruction of [understanding](understanding.md) from learning from the wrong sources.
+APPLICATION: No amount of [education](education.md) or [technology](technology.md) can offset the destruction of [understanding](mind-understanding.md) from learning from the wrong sources.
 
-Our [story](stories-why.md)-based method of [understanding](understanding.md) interferes with finding immaculate truth. As we gain [awareness](mind-awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
+Our [story](stories-why.md)-based method of [understanding](mind-understanding.md) interferes with finding immaculate truth. As we gain [awareness](mind-awareness.md), we can prevent our [feelings](mind-feelings.md) and [beliefs](mind-understanding-certainty.md) from interfering, but it's never perfect, even with training. Beyond any practical point, removing bias isn't [useful](purpose.md), and all that [logical analysis](logic.md) can actually be devastating through the removal of the wealth of holistic information that comes through our [intuitions](mind-feelings.md).
 
 APPLICATION: Believing things are [changing](people-trends.md) is usually more [useful](purpose.md) and [safe](safety.md) than believing in things staying the same.
 
@@ -87,7 +87,7 @@ The small components form parts of a whole. The entire collection, whatever it i
 
 Barring mental disorders like [autism](mind-neurodivergence-autism.md), we typically see the entire thing first, then must observe closely to find the parts. We will then discover [patterns](symbols.md) within the parts that permeate the collective thing. When *that* collective becomes a part of a larger collective, the larger collective will either reflect the pattern as well or appear to be disordered.
 
-[Wisdom and understanding](understanding.md) come through seeing the parts that fit into most things, with one exception: [cultural sensibilities](people-culture.md) will define some patterns across seemingly unrelated domains as [taboo](morality-taboo.md) to address.
+[Wisdom and understanding](mind-understanding.md) come through seeing the parts that fit into most things, with one exception: [cultural sensibilities](people-culture.md) will define some patterns across seemingly unrelated domains as [taboo](morality-taboo.md) to address.
 
 APPLICATION: Each of us must find our journey to truth in our own way, and there's no clear answer or [pattern](symbols.md) that applies to everyone.
 

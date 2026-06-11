@@ -14,6 +14,32 @@ There are [a *lot* of standard-setting organizations](https://en.wikipedia.org/w
 
 These standard-setting groups move around as technology changes, scandals happen, new technologies replace old, and another group makes a new set of standards.
 
+However, there *are* some standards that have stood the test of time:
+
+- Giga (G): 1,000,000,000 or 10^9
+- Mega (M): 1,000,000 or 10^6
+- Kilo (k): 1,000 or 10^3
+- Milli (m): 0.001 or 10^-3
+- Micro (µ): 0.000001 or 10^-6
+- Nano (n): 0.000000001 or 10^-9
+- Pico (p): 0.000000000001 or 10^-12
+- Even then, [computer memory](computers-memory.md) is a bit fiddly, since it may be 2^10 increments (i.e., 1,024 per step instead of 1,000).
+
+## They're for sanity
+
+Most of the standards are made with the intent to protect people from [accidents](safety-accidents.md).
+
+- However, at the same time, there are quite a few battles over the specifics of what is safest versus what makes sense for the context.
+- Further, various [cultures](people-culture.md) have varying risk tolerance for various practices, meaning that standards may vary by nation.
+
+And, on top of that, there are [political](politics-conservativeliberal.md) factors as well:
+
+- Manufacturers and government officials want more codes and standards.
+- The workers do *not* want things that make their job more difficult.
+- By and large, the [working class](people-classes.md) has less power than the management class, so more and dumber standards are always getting made.
+
+Plus, the management class wants to be free of legal liability, so the organizations adopt that everyone take personal liability to know all the standards.
+
 ## Issues with standards
 
 Sometimes, standards don't always make sense, but they did at one point.

@@ -82,7 +82,7 @@ In practice, most people want moral relativism to justify their views as a type 
 
 ## Virtue
 
-We must [learn](understanding.md) virtue because [thinking about others](people-friends-why.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
+We must [learn](mind-understanding.md) virtue because [thinking about others](people-friends-why.md) doesn't come naturally. On the other end, we don't need to learn [evil](morality-evil.md) because self-interest is an unavoidable part of [who we are](humanity.md).
 
 [A virtue](morality-virtues.md) is a trained [habit](habits.md) of making [decisions](mind-decisions.md) grounded in [love](people-love.md) for others, *not* merely as a single decision. This habit naturally expresses itself through our [intuitions](mind-feelings.md).
 
@@ -94,12 +94,12 @@ Living a virtuous life is [meaningful](meaning.md) in itself, but its [evidence]
 
 ## Intuition
 
-We already naturally [understand](understanding.md) these principles, at least in part. Acting on our principles is far more [relevant](meaning.md) than simply knowing them. Finding and acting on virtue is the one true [usefulness](purpose.md) of [religion](religion.md). However, irrespective of religion, we can still discover goodness simply by severe and chronic exposure to [evil](morality-evil.md), similar to seeing a dim light in a very dark room.
+We already naturally [understand](mind-understanding.md) these principles, at least in part. Acting on our principles is far more [relevant](meaning.md) than simply knowing them. Finding and acting on virtue is the one true [usefulness](purpose.md) of [religion](religion.md). However, irrespective of religion, we can still discover goodness simply by severe and chronic exposure to [evil](morality-evil.md), similar to seeing a dim light in a very dark room.
 
 APPLICATION: Loving behavior toward others begins with patience:
 
 - Patience to suspend [judgment](mind-decisions.md)
-- Patience to [understand](understanding.md) others and the situations involved
+- Patience to [understand](mind-understanding.md) others and the situations involved
 - Patience to find [creative solutions](mind-creativity.md) that benefit everyone
 - Patience to [work toward](results.md) an ideal
 
@@ -107,7 +107,7 @@ Even when we don't understand virtue directly, we form a selfishly driven altern
 
 Some of the most powerful [evil](morality-evil.md) channels virtues and healthy principles toward destructive ends. This is easier than it sounds because many principles are *very* similar, but convey *entirely* different [implications](mind-feelings.md) (e.g., equality versus fairness, wisdom versus knowledge).
 
-The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](mind-decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), which comes from the experience of [loving](love.md) others.
+The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](mind-decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](mind-understanding.md), especially of [the domain beyond this life](religion.md), which comes from the experience of [loving](love.md) others.
 
 APPLICATION: Good moral education requires people to develop an [intuition](mind-feelings.md) for it, *not* [rote memorization](mind-memory.md). However, it's possible that the people who pay the educators [don't want a moral person](mgmt-badsystems.md) to change how they do things.
 
@@ -127,7 +127,7 @@ APPLICATION: Most conceited people are severely blind to themselves and don't re
 
 There are *many* places we can try to be "best" at:
 
-- Possessing more [power](power.md), [reputation](people-image-why.md), strength, intelligence, possessions, or [education](understanding.md) than someone else.
+- Possessing more [power](power.md), [reputation](people-image-why.md), strength, intelligence, possessions, or [education](mind-understanding.md) than someone else.
 - Having *less* of anyone else of the above.
 - Being more religious or humble than others.
 
@@ -161,6 +161,6 @@ Humility is critical for the [good life](people-goodlife.md) and a [healthy soci
 
 APPLICATION: We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](mind-imagination.md) that we're moral, but it doesn't do anything for our inner wellness.
 
-Finally, morality creates "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](understanding-certainty.md).
+Finally, morality creates "mores", which is at least partly a [social construct](groups-small.md) built around establishing [order](mind-understanding-certainty.md).
 
 - When implemented with more clear [logic](logic.md), mores becomes [laws](people-rules.md).

@@ -34,7 +34,7 @@ God judges leaders more harshly than non-leaders ([Matthew 18:6](https://biblehu
 
 Even by [secular standards](mgmt-1_why.md), spiritual mentors are [leaders](mgmt-1_why.md).
 
-- Leaders must be an example of [what they're teaching](understanding.md) ([Matthew 7:15-20](https://biblehub.com/matthew/7.htm)).
+- Leaders must be an example of [what they're teaching](mind-understanding.md) ([Matthew 7:15-20](https://biblehub.com/matthew/7.htm)).
 - Since they *should* be at least somewhat loving, they'll have a natural ability to [make friends](people-friends.md).
 
 A leader guides others' issues beyond themselves, so they must have a few desires before they even consider the role:
@@ -73,7 +73,7 @@ Avoid mentoring a few demographics relative to yourself:
 
 You must use the simple truths of God to encourage, comfort, and instruct ([1 Thessalonians 2:11](https://biblehub.com/2_thessalonians/2-11.htm), [2 Corinthians 1:3-4](https://biblehub.com/2_corinthians/1.htm)).
 
-Nurture them in their comparatively newer [faith](understanding-certainty.md) ([1 Timothy 1:2](https://biblehub.com/1_timothy/1-2.htm)).
+Nurture them in their comparatively newer [faith](mind-understanding-certainty.md) ([1 Timothy 1:2](https://biblehub.com/1_timothy/1-2.htm)).
 
 - Invest into them like a son or daughter ([1 Timothy 1:18](https://biblehub.com/1_timothy/1-18.htm), [4:14-15](https://biblehub.com/1_timothy/4.htm), [2 Timothy 1:3-6](https://biblehub.com/2_timothy/1.htm)).
 - Don't invest in their lives for any personal benefit ([Proverbs 13:22](https://biblehub.com/proverbs/13-22.htm), [2 Corinthians 12:14-15](https://biblehub.com/2_corinthians/12.htm), [2 Peter 2:3](https://biblehub.com/2_peter/2-3.htm)).
@@ -84,7 +84,7 @@ Nurture them in their comparatively newer [faith](understanding-certainty.md) ([
 Set the pace by showing them your example ([2 Timothy 3:10-11](https://biblehub.com/2_timothy/3.htm)).
 
 - Reproduce yourself into them ([2 Corinthians 12:14-19](https://biblehub.com/2_corinthians/12.htm), [Philippians 2:19-22](https://biblehub.com/philippians/2.htm), [2 Timothy 3:10-11](https://biblehub.com/2_timothy/3.htm)).
-- Avoid dictating to them, *especially* as they become more [knowledgeable](understanding.md) ([1 Peter 5:1-3](https://biblehub.com/1_peter/5.htm)).
+- Avoid dictating to them, *especially* as they become more [knowledgeable](mind-understanding.md) ([1 Peter 5:1-3](https://biblehub.com/1_peter/5.htm)).
 
 Do *not* [micromanage](mgmt-1_why.md), since they will have a different generational [culture](people-culture.md) and their approach on some things *will* be different.
 
@@ -109,7 +109,7 @@ Disciples are responsible to act on truths they've learned ([2 John 4](https://b
 
 Successful discipleship makes them partners in ministry, not subordinates ([Romans 16:21](https://biblehub.com/romans/16-21.htm)).
 
-- They should [know](understanding.md) everything you know.
+- They should [know](mind-understanding.md) everything you know.
 - Delegate and release them to their projects ([Colossians 4:7-9](https://biblehub.com/colossians/4.htm), [Titus 1:4-13](https://biblehub.com/titus/1.htm), [1 Thessalonians 3:1-7](https://biblehub.com/1_thessalonians/3.htm)).
 - [Expect](mind-imagination.md) them to disciple others in turn after you ([1 Timothy 4:12](https://biblehub.com/1_timothy/4-12.htm), [16](https://biblehub.com/1_timothy/4-16.htm), [2 Timothy 2:1-2](https://biblehub.com/2_timothy/2.htm)).
 - They should eventually out-[succeed](success-1_why.md) you ([Genesis 37:9-11](https://biblehub.com/genesis/37.htm), [Deuteronomy 30:5](https://biblehub.com/deuteronomy/30-5.htm), [2 Corinthians 10:13](https://biblehub.com/2_corinthians/10-13.htm)).

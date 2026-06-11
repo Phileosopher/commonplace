@@ -3,7 +3,7 @@
 
 Upon birth, everything was new to us, since we hadn't seen it before. Eventually, we [saw](people-image-why.md) some things as more familiar, and we fixated exclusively on the unfamiliar things.
 
-Maturity is the set of [prejudices](mind-bias.md) we gain that give us an [approximate representation](people-image-why.md) of [reality](reality.md) without needing to re-examine ourselves. This comes through experience and [wisdom](understanding.md) combined, and it doesn't stop expanding if we wish to [live well](people-goodlife.md).
+Maturity is the set of [prejudices](mind-bias.md) we gain that give us an [approximate representation](people-image-why.md) of [reality](reality.md) without needing to re-examine ourselves. This comes through experience and [wisdom](mind-understanding.md) combined, and it doesn't stop expanding if we wish to [live well](people-goodlife.md).
 
 Those prejudices are common sense, but only "common" to someone who has come to understand those things for a long time. Nobody is born with common sense, but most people develop something like common sense if they've had common experiences and created common [conclusions](logic.md).
 
@@ -11,19 +11,19 @@ Those prejudices are common sense, but only "common" to someone who has come to 
 
 Immature people, as a general rule, are aware of [injustice](morality-justice.md), but they tend to attribute it to odd causes like bystanders or claim their [decisions](mind-decisions.md) are a product of [victimhood](politics-leftism.md). They will also tend to treat their [bias](mind-bias.md) as [fact](reality.md).
 
-We gain experiences as we grow older. These experiences shape us to create accurate [prejudices](people-image-why.md) about life if we [understand](understanding.md) how they work and what they imply.
+We gain experiences as we grow older. These experiences shape us to create accurate [prejudices](people-image-why.md) about life if we [understand](mind-understanding.md) how they work and what they imply.
 
-Maturity is mostly [intuition](mind-feelings.md). Like with all other intuition, maturity has multiple aspects that tend to scale with age. But, it scales more directly with [wisdom](understanding.md).
+Maturity is mostly [intuition](mind-feelings.md). Like with all other intuition, maturity has multiple aspects that tend to scale with age. But, it scales more directly with [wisdom](mind-understanding.md).
 
 APPLICATION: Younger people are more often exploited by [influential](influence.md) people who can [distort their image](people-image-distortion.md) to imply their [virtuousness](morality.md).
 
 One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](mind-awareness.md) of the [consequences](results.md) they bring on themselves and claim title to all [decisions](mind-decisions.md) they have made.
 
-As people mature, they become increasingly unaffected by their environment because they experience less [novelty](people-image-why.md) from their experiences. If they've gained enough wisdom, they won't react to how they [feel](mind-feelings.md) as much as to what they [know](understanding.md). Their increased [understanding](understanding.md) will mean most of their "soft skills" are usually better. They'll be more decisive with words, speak more intentionally, walk more elegantly, and manipulate objects more precisely.
+As people mature, they become increasingly unaffected by their environment because they experience less [novelty](people-image-why.md) from their experiences. If they've gained enough wisdom, they won't react to how they [feel](mind-feelings.md) as much as to what they [know](mind-understanding.md). Their increased [understanding](mind-understanding.md) will mean most of their "soft skills" are usually better. They'll be more decisive with words, speak more intentionally, walk more elegantly, and manipulate objects more precisely.
 
 While we may still control our decisions, we *don't* control 99.999% of our [environment](results.md), and there's a type of [humility](morality.md) that always comes with the understanding of how little we really know or have control over.
 
-A product of that humility is a form of gratitude. With enough [understanding](understanding.md), people slowly come to realize how much other people established [order](unknown.md) in the past to permit people to currently confront chaotic things. Young people haven't experienced life before [technology](technology.md) or certain [liberties](morality-justice.md), so the simple fact that their inexperience impedes their ability to fully [understand](understanding.md) the effort it takes to simply maintain everything.
+A product of that humility is a form of gratitude. With enough [understanding](mind-understanding.md), people slowly come to realize how much other people established [order](unknown.md) in the past to permit people to currently confront chaotic things. Young people haven't experienced life before [technology](technology.md) or certain [liberties](morality-justice.md), so the simple fact that their inexperience impedes their ability to fully [understand](mind-understanding.md) the effort it takes to simply maintain everything.
 
 Another quality of age is that we learn to be satisfied with less. This means we take less [social risk](entrepreneur-why.md) as we age (since we're fine with less grandiose returns) and tend to be [happier](mind-feelings-happiness.md).
 
@@ -91,7 +91,7 @@ Not quite skilled to be an adult, but has all the psychological desires of adult
 
 Concerned with [peers](people-friends-why.md), [social groups](groups-member.md), and any [influencers](influence.md) with the need to clarify [identity](people-identity.md), find [direction](purpose.md), and become an adult.
 
-If loved, we become [faithful, loyal, and devoted](understanding-certainty.md) to the groups we're in.
+If loved, we become [faithful, loyal, and devoted](mind-understanding-certainty.md) to the groups we're in.
 
 When neglected, we either become fanatical about our groups or become [outcasts](morality-taboo.md) from everyone.
 
@@ -133,7 +133,7 @@ Most of our legitimate [ability to influence](influence.md) comes from this stag
 
 Concerned with society, the entire world, and life itself to find [life achievements](success-1_why.md) and create [meaning and purpose](purpose.md) from the [past](stories-why.md).
 
-If we're successful, we develop unbelievable [wisdom](understanding.md) and learn to renounce our connection with [physical things](humanity.md).
+If we're successful, we develop unbelievable [wisdom](mind-understanding.md) and learn to renounce our connection with [physical things](humanity.md).
 
 If we fail, we either become presumptuous about everyone or bitter at everything.
 
@@ -147,7 +147,7 @@ When we look at someone younger, we track their maturity by how we [imagine](min
 
 APPLICATION: Older people always bemoan the youth because they imagined they weren't as inexperienced as the youth are today. Every generation has its own [cultural](people-culture.md) variation of the "kids these days are entitled and don't know how good they have it" speech, barring a [group-affecting](groups-member.md) situation where the older generation [*worsened* the situation](people-conflicts-war-why.md) for the younger generation. At that point, the older generation will either feel [shame](mind-feelings-shame.md) or arrogance, depending on how they [internalized the story](stories-why.md).
 
-APPLICATION: As people age, their [decisions](mind-decisions.md) are *always* more well-considered, but not always wiser. Wisdom requires adding [morality](morality.md) to [understanding](understanding.md).
+APPLICATION: As people age, their [decisions](mind-decisions.md) are *always* more well-considered, but not always wiser. Wisdom requires adding [morality](morality.md) to [understanding](mind-understanding.md).
 
 We don't think about maturity in others until it's unusual by the standards of our [cultural intuition](people-culture.md). People don't usually identify maturity in their peers unless the person is behaving *very* differently than them.
 
@@ -155,7 +155,7 @@ APPLICATION: [Technology](technology.md) and [culture](people-culture.md) that w
 
 Frequently, under severe [conflicts](people-conflicts-why.md) or [hardship](hardship.md), we can regress back in age to *any* of our past life stages. But, that hardship can also grow us *very* rapidly through multiple life stages when channeled correctly.
 
-[Young people](maturity.md) value novelty far more than older people because they believe a brand-new thing will give more [amusement](purpose.md) and answer their [questions](understanding.md). Older people don't only because they've found out that everything carries similar [patterns](symbols.md).
+[Young people](maturity.md) value novelty far more than older people because they believe a brand-new thing will give more [amusement](purpose.md) and answer their [questions](mind-understanding.md). Older people don't only because they've found out that everything carries similar [patterns](symbols.md).
 
 We also tend to judge [time](standards-datetime.md) differently as we age.
 
@@ -174,14 +174,14 @@ While it varies by [culture](people-culture.md), a rite of passage is a transiti
 - That person has come to understand what they *can't* do and the right things to [trust](mind-trust.md) for handling the situation.
 - Their [group](groups-member.md) believes from that person's experience that they've [changed](people-changes.md) enough that they're now a junior member of society instead of a dependent child.
 
-Children are often destructive, needy, and have a poor [understanding](understanding.md) of [how to thrive](people-goodlife.md). They hit critical learning periods where they absorb specific information, and their "child" place in society must be preserved [for their benefit](people-family.md). A distinctive rite of passage empowers a child to find [meaning](meaning.md) in [creating](mind-creativity.md) their [self-identity](people-identity.md) through contrasting their [decisions](mind-decisions.md) against how they were raised.
+Children are often destructive, needy, and have a poor [understanding](mind-understanding.md) of [how to thrive](people-goodlife.md). They hit critical learning periods where they absorb specific information, and their "child" place in society must be preserved [for their benefit](people-family.md). A distinctive rite of passage empowers a child to find [meaning](meaning.md) in [creating](mind-creativity.md) their [self-identity](people-identity.md) through contrasting their [decisions](mind-decisions.md) against how they were raised.
 
 During the transition, and irrespective of the culture, a child will do a few things in an approximate order:
 
-1. Try to question *everything* their [family](people-family.md) has [trained into them](understanding.md).
+1. Try to question *everything* their [family](people-family.md) has [trained into them](mind-understanding.md).
 2. Turn to [friends](people-friends-why.md) to find alternatives to what they were raised in.
 3. Resolve their [conflicts](people-conflicts-inner.md) between the two or more competing views. This can frequently include vocally standing against [authority figures](groups-small.md).
-4. Make permanent [decisions](mind-decisions.md) about what [values](values.md) they wish to honor. Others' [evil](morality-evil.md) actions can stall their development, but they can expedite the decision-making process with [wisdom](understanding.md).
+4. Make permanent [decisions](mind-decisions.md) about what [values](values.md) they wish to honor. Others' [evil](morality-evil.md) actions can stall their development, but they can expedite the decision-making process with [wisdom](mind-understanding.md).
 
 This rite of passage is necessary for social harmony because it demarcates between "adult" leaders and "child" followers, as well as carving out a person's [identity](people-identity.md) in light of that distinction. Because of the risks of choosing wrongly, every single rite of passage will exclude at least some people who don't fulfill it, from both aspects of laziness and incompetence.
 
@@ -213,7 +213,7 @@ APPLICATION: Older people are considered an "institution", so everyone expects d
 
 As a person gains experience, they will typically start fading in strength. By the time someone is middle-aged, they're still growing in wisdom but are fading from their peak ability to perform, and growing old means *all* aptitude will start to fade.
 
-APPLICATION: Generally, people who run the world are aged 48-55 because they've acquired the most [understanding](understanding.md) about avoiding exploitation by [storytellers'](stories-storytellers.md) [influence](influence.md), but also haven't started declining from [aging](legacy.md) yet. For this reason, society has a tendency to adhere to [conservative](politics-conservativeliberal.md) [trends](people-trends.md) that are usually 30-40 years old (because they're nostalgically [familiar](habits.md) with them), and "new" large-scale trends tend to be 10-20 years old.
+APPLICATION: Generally, people who run the world are aged 48-55 because they've acquired the most [understanding](mind-understanding.md) about avoiding exploitation by [storytellers'](stories-storytellers.md) [influence](influence.md), but also haven't started declining from [aging](legacy.md) yet. For this reason, society has a tendency to adhere to [conservative](politics-conservativeliberal.md) [trends](people-trends.md) that are usually 30-40 years old (because they're nostalgically [familiar](habits.md) with them), and "new" large-scale trends tend to be 10-20 years old.
 
 As we get closer to the end of our lives, our time becomes more scarce, and we start pursuing ever-increasing [meaning](meaning.md) with our existence. This goes all the way to the end, where our health and time are waning, and we're trying to build our [legacy](legacy.md).
 

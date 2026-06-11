@@ -5,7 +5,7 @@ When we [create](mind-creativity.md), we're aiming for a result that conforms to
 
 While our results typically aren't *precisely* what we wanted, they're usually close when we experience them frequently. Frequently performed actions become [habits](habits.md) when we [imagine](mind-imagination.md) they'll likely happen so similarly that we don't have to think about them.
 
-Our results aren't necessarily physical. They can often be mental things like [self-discipline](maturity.md), [understanding](understanding.md), or [influence](influence.md) among others. However, we can only [observe](people-image-why.md) the physical among others, so we tend to preoccupy ourselves with others' external behaviors.
+Our results aren't necessarily physical. They can often be mental things like [self-discipline](maturity.md), [understanding](mind-understanding.md), or [influence](influence.md) among others. However, we can only [observe](people-image-why.md) the physical among others, so we tend to preoccupy ourselves with others' external behaviors.
 
 Results come largely from how well we've used what we have. Throughout [history](people-trends.md), there is a *very* limited link between opportunities people have available to them and how well they've taken advantage of them.
 
@@ -17,19 +17,19 @@ If we define "past" as "any point in time that is not the present moment", all c
 
 We discover we're wrong *all the time*, but if we've acted on that information, we'll reap the consequences irrespective of what we've learned:
 
-- The choices we make are sometimes poorly [researched](understanding.md).
+- The choices we make are sometimes poorly [researched](mind-understanding.md).
 - Our [methods](habits.md) are sometimes not ideal or don't give us what we [want](purpose.md).
-- We have old [understanding](understanding.md) or [past trauma](hardship-ptsd.md) that needs updating.
+- We have old [understanding](mind-understanding.md) or [past trauma](hardship-ptsd.md) that needs updating.
 - We [trust](mind-trust.md) some people or [groups](groups-member.md) too much or too little.
 - We'll often [conclude](logic.md) the wrong cause and repeat the same problem.
 
-APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](understanding.md) better from it.
+APPLICATION: Everyone is only as responsible for their results to the degree they haven't [learned](mind-understanding.md) better from it.
 
-Since we must suffer the consequences sometimes years or a decade later than a [decision](mind-decisions.md) we made when we hadn't [understood](understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
+Since we must suffer the consequences sometimes years or a decade later than a [decision](mind-decisions.md) we made when we hadn't [understood](mind-understanding.md) what we learn later, the consequences of our actions aren't always [fair](morality-justice.md).
 
 APPLICATION: Give people at least some grace. If they know they've screwed up, and are reaping consequences for it, there's no need to keep reminding them, since they have to live with those consequences even after they've learned their lesson.
 
-Further, that period of unknown consequences frequently means we create bad [habits](habits.md) that are *much* harder to [change](people-changes.md) than if we had been [educated](understanding.md) outright by our environment at the moment we made the decision.
+Further, that period of unknown consequences frequently means we create bad [habits](habits.md) that are *much* harder to [change](people-changes.md) than if we had been [educated](mind-understanding.md) outright by our environment at the moment we made the decision.
 
 There are only a few ways the unfair reality of delayed consequences can be avoided:
 
@@ -37,13 +37,13 @@ There are only a few ways the unfair reality of delayed consequences can be avoi
 - Observe *others'* bad decisions instead of making them ourselves.
 - Have [good friends](people-friends.md) who will call us out on our bad decisions.
 
-Once we desire to gain the [wisdom](understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](mind-imagination.md) future self, and will slowly gravitate toward a more [pleasant life](people-goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
+Once we desire to gain the [wisdom](mind-understanding.md) to look ahead, we will sacrifice the gain of our present self for the advantages of our [predicted](mind-imagination.md) future self, and will slowly gravitate toward a more [pleasant life](people-goodlife.md) from it. On the other hand, if we grow to distrust *any* long-term effects, we'll only [do](purpose.md) presently pleasurable things, which often sabotage long-term benefits. There's zero short-term [risk](safety.md) in activities like complaining and perpetually [pursuing fun](fun.md), after all.
 
 ## Types of consequences
 
 There are two broad types of consequences:
 
-- Relational consequences affect our [relationships](people-friends-why.md) and aspects of [understanding](understanding.md) with others and [status](people-image-why.md) in a [group](groups-member.md).
+- Relational consequences affect our [relationships](people-friends-why.md) and aspects of [understanding](mind-understanding.md) with others and [status](people-image-why.md) in a [group](groups-member.md).
 - Reality consequences influence [fact-based](reality.md) circumstances.
 
 We can usually do [many things](people-image-distortion.md) to shift around our relational consequences when we fail, but reality consequences are much harder to hide.
@@ -56,7 +56,7 @@ Consequences are not always directly connected. They can link as a chain of even
    - We can only reap from [the unknown](unknown.md) with this type of work.
    - However, it requires [trusting](mind-trust.md) that things will work out.
 
-We like to see the consequences of our actions because we can [feel](mind-feelings.md) them. This need for [certainty](understanding-certainty.md) often dictates whether we [specialize](jobs-specialization.md) in people (relational) or things (reality) as [children](maturity.md).
+We like to see the consequences of our actions because we can [feel](mind-feelings.md) them. This need for [certainty](mind-understanding-certainty.md) often dictates whether we [specialize](jobs-specialization.md) in people (relational) or things (reality) as [children](maturity.md).
 
 Relational consequences are the highest-risk. The audience of what we create have their preferences and values, and they may not even care how much we devoted ourselves to the task relative to how much they gain from it.
 
@@ -95,7 +95,7 @@ APPLICATION: While adequacy is statistically normal, unusually successful people
 
 FURTHER APPLICATION: To succeed at anything, seek places you can apply an incrementally stronger compounding effect, whether it's in [wealth](power.md), [relationships](people-friends-why.md), [career](jobs-1_why.md), or whatever.
 
-Even when we fully [know](understanding.md) simple things, they have a chance of failure. The line between success and failure is painfully thin (as little as 1% sometimes), so success is *rarely* [certain](understanding-certainty.md). We are always susceptible to fumbling, [miscommunication](language.md), interference, obstructions, fatigue, and distractions.
+Even when we fully [know](mind-understanding.md) simple things, they have a chance of failure. The line between success and failure is painfully thin (as little as 1% sometimes), so success is *rarely* [certain](mind-understanding-certainty.md). We are always susceptible to fumbling, [miscommunication](language.md), interference, obstructions, fatigue, and distractions.
 
 We often can't know many other things, many of which can further decrease our chances of success. It may be called chances, luck, fate, improbability, or God, but it's [the unknown](unknown.md) as it affects our [purposes](purpose.md).
 
@@ -105,7 +105,7 @@ The result of a successful creation will *always* create more, similar creations
 
 APPLICATION: Usually, throughout history, the [strongest](power.md) ruled, either through keeping their strength or taking it from others. In a [free](morality-justice.md) society, though, the most popular rule, often by [taking advantage](purpose.md) of what they have to have the best-looking appearance of [efficiency](purpose.md), [morality](morality.md), or [quality](values-quality.md). In that sense, equality is always impossible without removing consequences. [Leftism](politics-leftism.md) claims that it can remove consequences and retain [purpose](purpose.md).
 
-We frequently [imagine](mind-imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
+We frequently [imagine](mind-imagination.md) our greatest results happen when we're relatively young, but that's not necessarily true. As we mature, our [understanding](mind-understanding.md) scales exponentially, so our greatest mental accomplishments typically happen when we're old, but [before our mind has declined](maturity.md).
 
 ## Failure
 
@@ -141,10 +141,10 @@ Everything, as it increases toward our [purpose](purpose.md), gives incrementall
 - Each can of food will be more valuable to a household with 10 of them versus 100.
 - Two objects exert dramatically less gravity on each other the farther away they are (inverse square law)
 - In a corporation of 10,000 people, each individual person is rarely as efficient as each individual in 100 corporations of 100 people.
-- The amount of [understanding](understanding.md) we gain from learning decreases incrementally as we develop more expertise with it.
+- The amount of [understanding](mind-understanding.md) we gain from learning decreases incrementally as we develop more expertise with it.
 - Over time, the results from a [creative work](mind-creativity.md) will evoke less [feeling](mind-feelings.md) as [its trend cycle develops](people-trends.md).
 
-APPLICATION: One fascinating element of diminishing return arises in how we [understand](understanding.md). We can frequently become *profoundly* good at performing or growing in understanding, even when a core component of how we understand is entirely wrong. By shifting our ideas (which can be as simple as merely changing [beliefs](understanding-certainty.md) about *one sentence*) we can remove many limits by *non*-understanding something that was wrong.
+APPLICATION: One fascinating element of diminishing return arises in how we [understand](mind-understanding.md). We can frequently become *profoundly* good at performing or growing in understanding, even when a core component of how we understand is entirely wrong. By shifting our ideas (which can be as simple as merely changing [beliefs](mind-understanding-certainty.md) about *one sentence*) we can remove many limits by *non*-understanding something that was wrong.
 
 This diminishing return creates upper limits on almost everything we do. Leading up to those limits, everything tapers off until it becomes prohibitively resource-intensive.
 
@@ -155,7 +155,7 @@ There are various reasons diminishing return exists:
 - We want more [power](power.md) after we've gained it in proportional comparison to what we have, *not* incrementally to what we first had.
 - Once things get too large for us to [feel](mind-feelings.md) each additional increment, we tend to take more [risks](safety.md).
 - In individual experiences, each additional iteration is another miniature [story](stories-why.md) of something similar.
-- In [measurements](math.md), more distance or objects are harder to [understand](understanding.md) and account for.
+- In [measurements](math.md), more distance or objects are harder to [understand](mind-understanding.md) and account for.
 - Organic tissues wear down and require energy to maintain, which become exponentially more when mass increases.
 
 Most people, upon noting diminishing return, will change their tactic:
@@ -165,7 +165,7 @@ Most people, upon noting diminishing return, will change their tactic:
 - Barring [addictions](addiction.md), they'll shift to another [purpose](purpose.md).
 - They'll give up on the endeavor entirely and learn to live without something.
 
-A diminishing return isn't necessarily bad. It's usually a sign that our [purpose](purpose.md) isn't working and inspires us to lose [confidence](mind-trust.md) in it. However, that requires having a temporary [non-knowing](understanding-certainty.md) ("agnosis"), so most people tend to shift to [addiction](addiction.md) instead.
+A diminishing return isn't necessarily bad. It's usually a sign that our [purpose](purpose.md) isn't working and inspires us to lose [confidence](mind-trust.md) in it. However, that requires having a temporary [non-knowing](mind-understanding-certainty.md) ("agnosis"), so most people tend to shift to [addiction](addiction.md) instead.
 
 ## Re-trending
 
@@ -179,7 +179,7 @@ APPLICATION: Unless a content creator has an alternative form of income, they'll
 
 ## Ripples
 
-Most people intuitively think on the level of simple cause-and-effect. However, with enough [experience and understanding](understanding.md), people can often make a relatively accurate [prediction](mind-imagination.md) of deeper truths.
+Most people intuitively think on the level of simple cause-and-effect. However, with enough [experience and understanding](mind-understanding.md), people can often make a relatively accurate [prediction](mind-imagination.md) of deeper truths.
 
 By observing and exploring, through repeated exposure and rumination, various memories of cause-and-effect, someone can frequently develop an imagination that is accurate enough to reliably predict large-scale effects of smaller actions.
 

@@ -117,7 +117,7 @@ These attempts are trying to approach the truth, but without the emotional capac
 - The actions are also [driven by anxiety](mind-bias-fear.md), but are more complex because the person is unaware of their anxieties while they are also trying to navigate thoughts.
 - Partial redirection is highly common among intelligent people.
 
-Isolation of Affect: separating [feelings](mind-feelings.md) from [thoughts](understanding.md) and [memories](mind-memory.md).
+Isolation of Affect: separating [feelings](mind-feelings.md) from [thoughts](mind-understanding.md) and [memories](mind-memory.md).
 
 - This permits us to accept reality, but not have to experience an emotional response about it.
   - This can become the beginnings of the Stoic philosophy if [moralized](morality.md).

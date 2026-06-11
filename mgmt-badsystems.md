@@ -20,7 +20,7 @@ A bad system has clear indicators:
 - Leaders have no motivation to value merit, so they promote people who fit their [preferences](humanity.md). Over time, all the leadership will look eerily similar because they've all been [close friends](people-friends-why.md) for a long time.
 - People are [unsafe](safety.md) or [dying](mind-feelings-fear.md), but the leaders either don't acknowledge it or [shift blame](people-image-distortion.md).
 - The [image](people-image-why.md) of the [organization](groups-large.md) as seen from outside is vastly different from [the reality](reality.md) inside it.
-- The [documentation and communication](language.md) is vague or difficult to [understand](understanding.md), and often obsolete.
+- The [documentation and communication](language.md) is vague or difficult to [understand](mind-understanding.md), and often obsolete.
 - Any processes or systems have a slow response time or are utterly insufficient for what they're supposed to do.
 - The leadership is unusually [young](maturity.md), unusually [related](people-family.md) to the rest of the leadership, or all share membership of a smaller and unrelated special interest group.
 

@@ -100,7 +100,7 @@ Many high-paying jobs don't even *need* college:
 Education is often free in an internet-empowered society, but college isn't:
 
 - Working in a low-wage industry (e.g., restaurants, couriers) often teaches [productive](success-4_routine.md) [habits](habits.md), [people skills](people-3_respect.md), and the [virtues](morality.md) of patience and perseverance that help support better-paying jobs later.
-- With the internet and a desire to learn, you have a near-limitless source of free videos, courses, articles, databases, research papers, and tools to sharpen your skills and [understanding](understanding.md).
+- With the internet and a desire to learn, you have a near-limitless source of free videos, courses, articles, databases, research papers, and tools to sharpen your skills and [understanding](mind-understanding.md).
 - A college's pedigree and prestige are nowhere *near* as important to [employers](jobs-3_image.md) as work ethic and attitude.
 
 ## Your higher education is an investment

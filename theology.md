@@ -12,7 +12,7 @@ We all need *some* form of theology.
 - Without the [logical reasoning](logic.md) of philosophy, we'd have nothing but [sentiment](mind-feelings.md).
   - [Personality](people-personality.md) and [culture](people-culture.md) will make each theology a little different, but God takes care of His people ([Matthew 18:12-14](https://biblehub.com/matthew/18.htm)).
 - "Theology", as a word, has two possible perspectives, which profoundly affects *how* far we'll need it:
-    1. Self-defined [understanding](understanding.md) of God, as we perceive and conclude it in our minds.
+    1. Self-defined [understanding](mind-understanding.md) of God, as we perceive and conclude it in our minds.
     2. God-given understanding, since we have at least a limited ability to come to understanding of God's wisdom ourselves ([2 Timothy 2:7](https://biblehub.com/2_timothy/2-7.htm)).
 - Often, without extra thought, we often neglect any deeper thought and permit theological ideals that sit within worship music:
   - [Time and chronological sequence](standards-datetime.md) doesn't exist in eternity.
@@ -22,7 +22,7 @@ We all need *some* form of theology.
 Most Christians who go to [college](education.md) must read very dense books called "systematic theology" by intelligent people.
 
 - These books are in the spirit of the ancient Greek tradition and imitations of books such as Aristotle's "Metaphysics".
-- A writer's systematic theology will unpack absolutely *every* domain of Christian [understanding](understanding.md) possible on a subject.
+- A writer's systematic theology will unpack absolutely *every* domain of Christian [understanding](mind-understanding.md) possible on a subject.
 
 Unless someone [legitimately enjoys](philosophy.md) the deep exploration of thought, a systematic theology is an utter waste of time.
 
@@ -32,7 +32,7 @@ Unless someone [legitimately enjoys](philosophy.md) the deep exploration of thou
 
 There is a subtle risk to philosophical inquiry. [Philosophy does have its uses](philosophy.md), but philosophy is the exercise of the mind.
 
-Within the [mind](understanding.md), [logic](logic.md) is inherently exclusive (i.e., divides things out, separates for a purpose), while our [emotions](mind-feelings.md) tend to unite unrelated elements.
+Within the [mind](mind-understanding.md), [logic](logic.md) is inherently exclusive (i.e., divides things out, separates for a purpose), while our [emotions](mind-feelings.md) tend to unite unrelated elements.
 
 - Emotions can definitely be exclusive, but they are the primary thing that makes connections across seemingly unrelated elements.
   - For example, we use the language "cold-hearted" as an association with the temperature of cold, but that is a strictly [patterned](symbols.md) association across feelings.
@@ -43,18 +43,18 @@ Excessive use of a rational discipline like philosophy risks dividing something 
 
 - Beyond falsehood, there is a *much* greater risk for the Christian of their analysis and reasoning coming at the cost of [unloving](people-love.md) behavior.
 
-Typically, philosophers have to use many words to get their extremely in-depth thoughts across, and many of them don't demarcate (or don't communicate) whether their conclusions are clear facts or experimentation they're only partly [certain](understanding-certainty.md) about. This risk becomes proportionally more likely as the words increase.
+Typically, philosophers have to use many words to get their extremely in-depth thoughts across, and many of them don't demarcate (or don't communicate) whether their conclusions are clear facts or experimentation they're only partly [certain](mind-understanding-certainty.md) about. This risk becomes proportionally more likely as the words increase.
 
 Philosophers and theologians are seeking mysteries (and often finding them), but can't prove whether those mysteries are precisely true, since there's no real way to [scientifically](science.md) test spiritual beings or God Himself.
 
 Intellectual understanding doesn't define the fullness of what we can understand, and finding wisdom in all the talk requires combining both logic (which separates) and feelings (which unite).
 
 - This needs someone to possess a [well-lived life](people-goodlife.md), then trusting their "gut".
-- Experiencing a fulfilling life takes decades, involves living a lifestyle that *doesn't* involve sitting quietly for long periods, and will frequently *not* guarantee full [certainty](understanding-certainty.md) on anything.
+- Experiencing a fulfilling life takes decades, involves living a lifestyle that *doesn't* involve sitting quietly for long periods, and will frequently *not* guarantee full [certainty](mind-understanding-certainty.md) on anything.
 
 Therefore, the smartest people in the world have difficulties with holistically knowing things.
 
-- Their quest for truth is often the quest for [meaning](meaning.md) through [thorough understanding](understanding.md) until they find certainty.
+- Their quest for truth is often the quest for [meaning](meaning.md) through [thorough understanding](mind-understanding.md) until they find certainty.
 
 ## Conventional (secular) branches
 
@@ -97,7 +97,7 @@ This entire design was made by God, and is an implementation of how He Himself c
 All aspects of order can be defined by [logic](logic.md) (and [math](math.md), when more articulately constructed), but there are always components that God designed that surpass the constraints of [language](language.md).
 
 - Even seemingly "fixed" domains like [justice](morality-justice.md) and [scientific inquiry](science.md) are bound to presumptions of God's order and predefined [rules](people-rules.md).
-- Often, we can only use [our feelings](mind-feelings.md) to even remotely examine the periphery of our [understanding](understanding.md).
+- Often, we can only use [our feelings](mind-feelings.md) to even remotely examine the periphery of our [understanding](mind-understanding.md).
 
 The above-stated values, including [feelings](mind-feelings.md), exist only in our minds, but that in no way diminishes its significance when a relationship with God is the ultimate purpose for our existence.
 

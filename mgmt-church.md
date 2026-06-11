@@ -22,7 +22,7 @@ The qualifications of elders are *more* severe than general [spiritual mentors](
 - Slow to anger.
 - Free of any [substance abuse](addiction-substances.md).
 - Doesn't love power for its own sake, especially [money](power-types.md).
-- Soundly [understands](understanding.md) the Bible as he was taught.
+- Soundly [understands](mind-understanding.md) the Bible as he was taught.
 
 No matter *what* you do, prioritize your [family](people-family.md), especially your [wife](relationships-marriage.md) and [children](parenting-children.md).
 
@@ -38,7 +38,7 @@ Carefully evaluate why you want to engage in public ministry.
 
 - The ministry will arise out of a perceived need within the Church (Acts 6:1-6).
 - Every inspiration comes from several possible sources:
-  - [Your mind](understanding.md)
+  - [Your mind](mind-understanding.md)
   - [Others' thoughts](power-influence.md)
   - [God's guidance](god-will.md)
   - [The devil's deceptions](spiritual-warfare-tricks.md)
@@ -90,7 +90,7 @@ Never live far above *or* below the lifestyles of the people you serve and lead
 At its core, a [church](church.md) is simply a gathering of believers (Matthew 18:20).
 
 - The only major differences between churches are either [cultural](people-culture.md) or [legal](legal-safety.md).
-- This definition is broad enough to include things people often do *not* [understand](understanding.md) to be churches:
+- This definition is broad enough to include things people often do *not* [understand](mind-understanding.md) to be churches:
   - House gatherings, including group [Bible studies](bible-study.md)
   - Charitable organizations
   - [Media networks](stories-storytellers.md) run by Christians

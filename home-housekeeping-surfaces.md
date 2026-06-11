@@ -43,6 +43,20 @@ Burnt pots and pans:
   - Sprinkle baking soda on the bottom of the pan, add enough water to moisten the soda, let sit overnight, and scrub clean.
 - For copper pots, rub with ketchup.
 
+Cast iron pan rust:
+
+- Always clean cast iron and keep it dry after cooking to prevent rust in the first place.
+  - After each use, apply a light layer of cooking oil to the pan.
+  - Avoid using soap with the pan if possible to prevent seasoning soap into the food's flavor.
+- Scrub with steel wool after preparing it, then dry:
+  - Rinse in warm, soapy water first.
+  - Soak it in a 50% vinegar/water solution for 30-60 minutes or until the rust starts to flake off.
+  - Mix baking soda with water into a paste, then apply to the rusted areas.
+  - Rub with 2-3 tablespoons of coarse kosher salt.
+- Afterward, re-season it:
+  1. Cover the cast iron in a thin layer of cooking oil with a paper towel.
+  2. Bake the pan upside down in an oven at 350 degrees for 1 hour.
+
 Glass pans and coffee pots:
 
 - Wash with 3 tablespoons of baking soda for every quart of water.

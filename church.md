@@ -8,7 +8,7 @@ Being a Christian means you have a [relationship with Jesus](people-identity.md)
 God calls believers to connect with each other, so Christians shouldn't neglect fellowship ([Hebrews 10:23-25](https://biblehub.com/hebrews/10.htm)).
 
 - Fellowship is effectively sharing a lifestyle in a loving community with other believers ([Acts 2:42](https://biblehub.com/acts/2-42.htm)).
-- We have fellowship by worshiping God with others through [loving each other](people-love.md) and sharing [beliefs](understanding-certainty.md) sound doctrine ([John 4:19-24](https://biblehub.com/john/4.htm)).
+- We have fellowship by worshiping God with others through [loving each other](people-love.md) and sharing [beliefs](mind-understanding-certainty.md) sound doctrine ([John 4:19-24](https://biblehub.com/john/4.htm)).
 - We don't need a routine congregation, but we *do* need routine fellowship, which is most conveniently fulfilled with a congregation in [a free society](hardship-persecution-church.md).
 - Without this fellowship, we start developing strange beliefs, which adversely affects our ability to [walk patiently and faithfully with God](https://theologos.site/devotion-chaos/).
 
@@ -38,7 +38,7 @@ Without [persecution](hardship-persecution-church.md), church members usually fo
 
 Some churches become [cults](people-culture-cults.md) when they take away from Jesus' simple statements, His deity, or invalidate His sacrifice.
 
-- If you're a new Christian, openly voice concerns if you don't [understand](understanding.md) that church's interpretation of the Bible.
+- If you're a new Christian, openly voice concerns if you don't [understand](mind-understanding.md) that church's interpretation of the Bible.
 
 Church locations can be *anywhere*.
 

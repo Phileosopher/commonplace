@@ -3,12 +3,12 @@
 
 A group is a combination of individuals sharing a common [purpose](purpose.md). We often see them with [structured organizations](groups-large.md), but that common purpose can extend to just about anything and be *extremely* informal and decentralized.
 
-We connect ourselves with a group because we [believe](understanding-certainty.md) it'll serve our [purposes](purpose.md):
+We connect ourselves with a group because we [believe](mind-understanding-certainty.md) it'll serve our [purposes](purpose.md):
 
 - We can [specialize](jobs-specialization.md) in what we want to do.
 - The other people in the group will keep us [safe](safety.md) from various things.
 - Multiple people in the community can sufficiently meet *all* our needs.
-- We can experiment with actions and [understand](understanding.md) how to behave in response.
+- We can experiment with actions and [understand](mind-understanding.md) how to behave in response.
 - We'll feel [important](meaning.md) as we contribute to the group's maintenance.
 
 APPLICATION: Associating with a group that doesn't reflect any of your [values](purpose.md) is a waste of time because you're investing in something you don't stand for. If you don't [expect](mind-imagination.md) you *will* [change](people-changes.md) to match the group's [culture](people-culture.md), you're better off finding a group somewhere else or [making your own](groups-small.md). The worst-case (and likely) possibility if you don't leave is that the group will mold you into a jaded shell of what you were.
@@ -24,7 +24,7 @@ In exchange, the requirements are perfectly reasonable to us:
 We're automatically associated with a few groups from our upbringing:
 
 - Our [family](people-family.md) and family name's [reputation](people-image-why.md).
-- Our family's [trades](jobs-specialization.md) and [skills](understanding.md).
+- Our family's [trades](jobs-specialization.md) and [skills](mind-understanding.md).
 - Formalized education and clubs we've attended or been forced to attend.
 
 While we all naturally identify with at least some of our [culturally](people-culture.md) established groups, we make [decisions](mind-decisions.md) later that identify with *other* scopes of living:
@@ -33,8 +33,8 @@ While we all naturally identify with at least some of our [culturally](people-cu
 - Social people identify with salespeople and [marketers](marketing.md).
 - People who value [fun](fun.md) will identify with electronic gamers.
 - Physically active people identify with athletes or [sports](fun-sports.md).
-- People who share a common [faith](understanding-certainty.md) identify with specific [religions](religion.md).
-- People can share a common [belief](understanding-certainty.md) in a method or approach (e.g., [scientists](science.md), [self-improvement](https://adequate.life/habits/) clubs, [philosophers](philosophy.md)).
+- People who share a common [faith](mind-understanding-certainty.md) identify with specific [religions](religion.md).
+- People can share a common [belief](mind-understanding-certainty.md) in a method or approach (e.g., [scientists](science.md), [self-improvement](https://adequate.life/habits/) clubs, [philosophers](philosophy.md)).
 
 As followers of various groups, the [leaders](groups-large.md) of that group (along with all the [sub-leaders](groups-small.md)) define the values the group follows. Very often, if that group has been around longer than the present leaders, the entire group has created its own [culture](people-culture.md) and [reputation](people-image-why.md).
 
@@ -43,11 +43,11 @@ To join a group, a member must demonstrate a sacrifice of [power](power.md) (and
 APPLICATION: Each group we [choose](mind-decisions.md) has an opportunity cost:
 
 - If we're not associated with a group we're unsupported but have unlimited freedom to choose a group, but associating with a group gives us [power](power.md) and frequently comes with implications to outsiders.
-- We must sacrifice some [personal values](understanding-certainty.md) to join a group.
+- We must sacrifice some [personal values](mind-understanding-certainty.md) to join a group.
 - Whatever [habits](habits.md) we had *before* we entered the group play a significant role in how much [favor](people-friends-why.md) we can draw from the [leadership](groups-small.md).
 - The [leaders](groups-small.md) *will* [expect](mind-imagination.md) you to conform to their [values](purpose.md), whatever those values are. The higher your [influence](influence.md) in the group, the more expectations.
 
-Typically, most group members [trust](mind-trust.md) their [leaders](groups-small.md). Instead of [understanding](understanding.md) things for themselves, it's less work to let the leaders understand things and tell them what to [do](results.md).
+Typically, most group members [trust](mind-trust.md) their [leaders](groups-small.md). Instead of [understanding](mind-understanding.md) things for themselves, it's less work to let the leaders understand things and tell them what to [do](results.md).
 
 Very frequently, we'll start seeing the outside of that group as a non-thing. It may or may not exist, but we'll be so engaged *inside* our group that we'll completely forget the group is linked to many, many other groups through the associations of the people in it.
 
@@ -55,9 +55,9 @@ As we gain [influence](influence.md) in the group and [start leading it](groups-
 
 ## Future purpose
 
-A group defines much of our [environment](reality.md) for us. Thus, social groups establish most of our memory, and therefore most of our [understanding](understanding.md) of the world.
+A group defines much of our [environment](reality.md) for us. Thus, social groups establish most of our memory, and therefore most of our [understanding](mind-understanding.md) of the world.
 
-APPLICATION: Join large groups to [learn](understanding.md), especially from the [elderly](understanding.md) in that group, or join as a high-rank member to [influence](influence.md). But, never join a [large group](groups-large.md) to influence anyone, since [small groups](groups-small.md) yield better [results](results.md), and they'll eventually become a large group if you're [succeeding correctly](groups-small.md).
+APPLICATION: Join large groups to [learn](mind-understanding.md), especially from the [elderly](mind-understanding.md) in that group, or join as a high-rank member to [influence](influence.md). But, never join a [large group](groups-large.md) to influence anyone, since [small groups](groups-small.md) yield better [results](results.md), and they'll eventually become a large group if you're [succeeding correctly](groups-small.md).
 
 By existing in a group long enough, our [purposes](purpose.md) [change](people-changes.md). As we grow to [trust](mind-trust.md) the group, we associate more [future purposes](mind-imagination.md) to it.
 

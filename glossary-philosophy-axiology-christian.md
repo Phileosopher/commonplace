@@ -67,7 +67,7 @@ Possible (or partial)
 
 ## How should we gain knowledge?
 
-Since our [certainty](understanding-certainty.md) can never be complete (given our fallen state and God's commands to trust Him), the approach in Scripture to gaining knowledge is somewhat unimportant by comparison:
+Since our [certainty](mind-understanding-certainty.md) can never be complete (given our fallen state and God's commands to trust Him), the approach in Scripture to gaining knowledge is somewhat unimportant by comparison:
 
 - **Coherentism** and **foundationalism** are both fine, though good theology leans toward foundationalism.
   - However, in some ways, **functionalism** may have more merit, simply because it leans against reductive materialism and logical behaviorism.

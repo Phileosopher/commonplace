@@ -92,7 +92,7 @@ The most evil and cruel leaders never last more than a few years, but the persec
 - The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](lawsaxioms-legal.md).
 - Most of the time, the [trends](people-trends.md) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
 - Occasionally, the trends will *rapidly* pivot, especially during a [regime](groups-large.md) change.
-- Often, in [high-information](understanding.md) societies, the trends will pivot very rapidly across months or weeks.
+- Often, in [high-information](mind-understanding.md) societies, the trends will pivot very rapidly across months or weeks.
 
 Despite the hardship, the Church will persist:
 
@@ -107,7 +107,7 @@ Suffering is guaranteed, but we should work to reduce it when reasonably possibl
 
 - Our relationship with God should be *irrespective* of this world, not as a reaction to it.
 - It's the same [disciplines](spiritual-exercises.md) of [prayer](spiritual-exercises-prayer.md) and [Bible study](bible-study.md) as Christianity in the free world but has a *much* deeper significance, and with a more scattered [church experience](church.md).
-- Believers must be *fully* [certain](understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](people-conflicts-christian-why.md).
+- Believers must be *fully* [certain](mind-understanding-certainty.md) of the realities of God, not simply familiar with it, since it must persist irrespective of the [Church's leadership](mgmt-church.md) or the people who [betray the faith](people-conflicts-christian-why.md).
 
 "Liberal" Christianity can never survive persecution:
 
@@ -126,7 +126,7 @@ Irrespective of persecution, we must discover God for ourselves:
 
 We need to let God's [Scripture](theology-bible.md) define how we see the world.
 
-- Simply repeating a [Bible verse](theology-bible.md) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](understanding.md) what it means.
+- Simply repeating a [Bible verse](theology-bible.md) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](mind-understanding.md) what it means.
 - We must sort out our individual salvations, fearfully and shaking, *before* we encounter outward persecution ([Philippians 2:14](https://biblehub.com/philippians/2-12.htm)).
 
 ## The authorities aren't as powerful as they seem
@@ -208,13 +208,13 @@ Respond to the world's attacks with Christ-like behavior:
 9. Expect the Satan to [work tirelessly](spiritual-warfare-tricks.md) to destabilize you.
    - Trust the Holy Spirit for patience, wisdom, and willpower to [confront](people-conflicts.md) the world's representatives.
 10. You're a representative of Christ, so act like it.
-    - Worldly people often [know](understanding.md) that antagonizing you will provoke you to violence, which they can then justify action against.
+    - Worldly people often [know](mind-understanding.md) that antagonizing you will provoke you to violence, which they can then justify action against.
     - Endure the suffering to show your new nature.
 11. Ignore the world's strategies against you.
     - Be prepared to confront [sin](theology-sins.md) when the time comes.
     - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
     - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/james/1.htm)).
-12. Anticipate that the world will hate, [misrepresent](people-image-why.md), [misunderstand](understanding.md), misquote, and alienate you.
+12. Anticipate that the world will hate, [misrepresent](people-image-why.md), [misunderstand](mind-understanding.md), misquote, and alienate you.
     - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
     - You can't [change their minds](people-changes.md) any more than they want.

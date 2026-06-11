@@ -49,7 +49,7 @@ Cessationism vs. Continuationism - The modern-day usage/validity of spiritual gi
   - God can give personal messages for specific Christians, even if it's not overtly Scripture ([James 3:17](https://biblehub.com/james/3-17.htm)).
 - Cessationism is fine, within reason:
   - We can empirically observe that the miraculous gifts we see today do *not* express in the same way as what the early Church received.
-  - God can (and does) work miraculously and outside our expectations, so we should be open to the Holy Spirit giving [understanding](understanding.md) or [power](power.md) to fulfill His purposes.
+  - God can (and does) work miraculously and outside our expectations, so we should be open to the Holy Spirit giving [understanding](mind-understanding.md) or [power](power.md) to fulfill His purposes.
 - Continuationism is also fine, within reason:
   - Every revelation and spiritual gift must be tested against conforming to Jesus being Lord ([1 Corinthians 12:3](https://biblehub.com/1_corinthians/12-3.htm)).
   - If speaking in tongues is still active, then prophecies and words of knowledge must also be equally active today ([1 Corinthians 13:8](https://biblehub.com/1_corinthians/13-8.htm)).

@@ -9,7 +9,7 @@ APPLICATION: Language isn't for thought, but for communication. When we self-tal
 
 ## Ideas presented
 
-Language itself represents the pinnacle of [understanding](understanding.md) within our perspective. If we can frame ideas in words, we have a fuller capacity to [logically](logic.md) work with them, and it means we can work with an idea, including [building something](results.md) or [communicating it](people-conversation.md).
+Language itself represents the pinnacle of [understanding](mind-understanding.md) within our perspective. If we can frame ideas in words, we have a fuller capacity to [logically](logic.md) work with them, and it means we can work with an idea, including [building something](results.md) or [communicating it](people-conversation.md).
 
 APPLICATION: To take understanding even farther, we must use simpler words. This proves we can simplify what is really happening.
 
@@ -17,7 +17,7 @@ At the same time, language *isn't* understanding, and is only the reference poin
 
 Words have implicit feelings that associate to [human universal interpretations](humanity-universals.md) (e.g., the nonsense word "ah-no-ma-ha" feels *far* less threatening than "ch-ak'tchnapth"). This can have a cultural impact depending on which words apply to which [physical things](reality.md).
 
-APPLICATION: [Communication](people-conversation.md) is a massive part of the [human experience](humanity-universals.md) and how we [understand](understanding.md), so our word choice directly defines many aspects of our existence. Because of this, people can [easily abuse](people-image-distortion.md) words, and the beginning of [living well](people-goodlife.md) comes in speaking its existence correctly.
+APPLICATION: [Communication](people-conversation.md) is a massive part of the [human experience](humanity-universals.md) and how we [understand](mind-understanding.md), so our word choice directly defines many aspects of our existence. Because of this, people can [easily abuse](people-image-distortion.md) words, and the beginning of [living well](people-goodlife.md) comes in speaking its existence correctly.
 
 APPLICATION: All good language uses poetry to make it more aesthetically pleasing and easier to digest.
 
@@ -43,7 +43,7 @@ Further, punctuation (e.g., exclamation point, question mark) can be used to alt
 
 The ideas of a word are *not* simple. Each word often contains *dozens* of associations that form into a [story](stories-why.md). These stories include [ideas](values.md), [feelings](mind-feelings.md), many [implications](people-image-why.md), and even *more* of the same from other words' relationship to those ideas.
 
-Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
+Until we reach [adulthood](maturity.md), every letter and word is passed on to us from our [culture](people-culture.md) and imbued with [implications](mind-feelings.md). When we get older, we predominantly use [logic](logic.md) to [understand](mind-understanding.md) secondary languages (including [writing](language-writing.md)) instead of [intuition](mind-feelings.md).
 
 ## Complexities
 
@@ -68,7 +68,7 @@ The choice of word we use has a degree of abstracting away from the source objec
 8. Full abstraction - we have removed so much information that the word describing the object can be used to describe almost everything else
    - e.g., wealth
 
-We must delicately balance between precision and brevity, and our [choice](mind-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](understanding.md) the [purposes](purpose.md) of their audience.
+We must delicately balance between precision and brevity, and our [choice](mind-decisions.md), and we tend to intuitively figure it out based on [our listener](people-conversation.md). If too precise, the listener will become [bored](mind-feelings.md). If too brief, the listener will be confused. In that sense, the communicator only meets that balance by [understanding](mind-understanding.md) the [purposes](purpose.md) of their audience.
 
 The complexity of expressing ideas either succintly or elaborately, as well as the [image](people-image-why.md) we wish to convey, means we will create similar words for nearly the same idea to convey different [feelings](mind-feelings.md) and [values](values.md). We will also employ body language, timing, visual cues, and context to [emphasize or diminish parts of those ideas](language-speaking.md).
 
@@ -82,13 +82,13 @@ While nouns are relatively static, verbs come in *many* forms, including time (e
 
 APPLICATION: Time travel [stories](stories-why.md) are exceedingly difficult because they mess with our fixed perspective of time. In a time travel story, "What I'm doing right now will be before what I had done, which comes after what I will do next" can be a syntactically correct statement in the story's world.
 
-Nouns and verbs are the basis of all things. Without the noun, there is nothing to [identify or understand](understanding.md), but a noun without a verb is meaningless because it simply states a thing without a [purpose](purpose.md). We often "verb-ize" nouns for the sake of creating meaning, and almost any noun can be colloquially converted into a verb.
+Nouns and verbs are the basis of all things. Without the noun, there is nothing to [identify or understand](mind-understanding.md), but a noun without a verb is meaningless because it simply states a thing without a [purpose](purpose.md). We often "verb-ize" nouns for the sake of creating meaning, and almost any noun can be colloquially converted into a verb.
 
 Adjectives and adverbs expand on nouns and verbs. By using many descriptors, we can modify ideas as far as we want. In particular, they both increase specificity through adapting the [feelings](mind-feelings.md) their parent nouns and verbs had incited and mixing with other associated feelings tied to the word itself.
 
 APPLICATION: The breadth and range of descriptors like adjectives and adverbs gives us the unlimited ability to express ideas. But, words can weigh down a sentence. Descriptors can be poetry applied to writing, but often sabotages everyday language.
 
-We connect words to similar and opposing ideas to create synonyms and antonyms. Their power comes through association: mere awareness of related words can create [understanding](understanding.md), but can also [distort perceptions](people-image-distortion.md).
+We connect words to similar and opposing ideas to create synonyms and antonyms. Their power comes through association: mere awareness of related words can create [understanding](mind-understanding.md), but can also [distort perceptions](people-image-distortion.md).
 
 APPLICATION: Synonyms and antonyms are useful, but they're also risky if we over-simplify the concepts. "Part" is the antonym of "whole", but also of "non-part", and "whole" and "non-part" are completely unrelated ideas.
 
@@ -155,7 +155,7 @@ We use modifier words to streamline everything, and most of them are simple impr
 
 APPLICATION: Most language starts simple, but we tend to complicate words as we add to them. There's value in contractions and pronouns, but elegant language keeps prefixes and suffixes to a relative minimum and avoids turning nouns into verbs whenever possible. Awful writers, on the other hand, destroy any [meaning](meaning.md) they were attempting to convey.
 
-kThe [purposes](purpose.md) we aim for determines which parts of our [understanding](understanding.md) we'll [choose](mind-decisions.md) to omit when communicating, which reflects itself broadly in the DISC communication style:
+kThe [purposes](purpose.md) we aim for determines which parts of our [understanding](mind-understanding.md) we'll [choose](mind-decisions.md) to omit when communicating, which reflects itself broadly in the DISC communication style:
 
 - [Dominance](power.md) will strip away *everything* for the sake of simplicity.
 - [Influence](power-influence.md) removes details about things.
@@ -171,7 +171,7 @@ Language is constantly moving. While there's a "codified" standard in things lik
 
 APPLICATION: Words are constantly mutating and shifting, so we must mind which words we use with which [groups](groups-member.md).
 
-APPLICATION: When we use slang or add many prefixes and suffixes to something, we don't really [understand](understanding.md) it very thoroughly.
+APPLICATION: When we use slang or add many prefixes and suffixes to something, we don't really [understand](mind-understanding.md) it very thoroughly.
 
 Within only five years, a new dialect can emerge, and fifty years is enough time to create a distinctive dialect that could pass as another language entirely.
 
@@ -222,7 +222,7 @@ Most people [automatically](habits.md) sift through this with other people, so n
 
 We tend to link words without meaning to similar words with meaning. People named Dennis or Denise are more likely to become dentists, people named Mary are more likely to get married, societies that have many words for "[love](people-love.md)" have many more ways to express it.
 
-APPLICATION: Words change how we think, so we must be careful about what we [believe](understanding-certainty.md) from others and *constantly* reconsider how we once saw things when we first used a specific word.
+APPLICATION: Words change how we think, so we must be careful about what we [believe](mind-understanding-certainty.md) from others and *constantly* reconsider how we once saw things when we first used a specific word.
 
 Ideas also tend to persist even when [authority figures](groups-large.md) switch out words. Revising language (e.g., [leftism](politics-leftism.md)) only stalls everyone's [identification](people-identity.md) of the idea until the word associates with the old emphasis of that word:
 
@@ -248,23 +248,23 @@ Further, we tend to use language to convey concepts on "levels" of depth:
 4. Feelings - the basis for how we approach what we know, and subsequently the methodology for our ideas/judgments.
 5. Authenticity - complete emotional openness and honesty with others and ourselves, which requires an absence of [fear](mind-feelings-fear.md).
 
-APPLICATION: If a specific idea doesn't have a word, we tend not to think about it. If we run across one, we should [make](creations.md) a new word to more thoroughly [understand](understanding.md) it, and the easiest way is to convert a noun into a verb or use the same idea from a different domain.
+APPLICATION: If a specific idea doesn't have a word, we tend not to think about it. If we run across one, we should [make](creations.md) a new word to more thoroughly [understand](mind-understanding.md) it, and the easiest way is to convert a noun into a verb or use the same idea from a different domain.
 
 The [power](power.md) of language doesn't stop there. Language becomes the means on how we clarify [the unknown](unknown.md), so spoken/written statements dramatically increase the chances of us making more well-informed [decisions](mind-decisions.md).
 
-APPLICATION: Words contain many ideas, so our choice of words has a *profound* impact on how we see [our environment](reality.md). For that reason, it's better to choose carefully, and aim for a simpler word that evokes more accurate [feelings](mind-feelings.md) (and therefore easier to [fix errors](https://adequate.life/fix/)) whenever [uncertain](understanding-certainty.md).
+APPLICATION: Words contain many ideas, so our choice of words has a *profound* impact on how we see [our environment](reality.md). For that reason, it's better to choose carefully, and aim for a simpler word that evokes more accurate [feelings](mind-feelings.md) (and therefore easier to [fix errors](https://adequate.life/fix/)) whenever [uncertain](mind-understanding-certainty.md).
 
-Language generally states [reality](reality.md) itself ("constantive"), which means it can be [proven or disproven](understanding-certainty.md). However, in some situations, our language can be the results that *define* the [consequences](results.md) in reality ("performative"). For example, a minister saying "I now pronounce you husband and wife" is performative, while the statement "You are husband and wife" in almost any context is simply constantive. This has tremendous legal implications with [contracts](people-contracts.md).
+Language generally states [reality](reality.md) itself ("constantive"), which means it can be [proven or disproven](mind-understanding-certainty.md). However, in some situations, our language can be the results that *define* the [consequences](results.md) in reality ("performative"). For example, a minister saying "I now pronounce you husband and wife" is performative, while the statement "You are husband and wife" in almost any context is simply constantive. This has tremendous legal implications with [contracts](people-contracts.md).
 
 ## Language misuse
 
 Most people misuse language, either from [inexperience](maturity.md) or with [purposes](purpose.md) to gain [power](power.md).
 
-The most frequent misuse of language comes through barriers to shared [understanding](understanding.md). Various reasons will mean we don't [get the message across correctly](people-conversation.md), and the other person [concludes](logic.md) the wrong thing. Miscommunication is a major cause of [human conflict](people-conflicts-why.md), and differing languages are the strongest aspect of it.
+The most frequent misuse of language comes through barriers to shared [understanding](mind-understanding.md). Various reasons will mean we don't [get the message across correctly](people-conversation.md), and the other person [concludes](logic.md) the wrong thing. Miscommunication is a major cause of [human conflict](people-conflicts-why.md), and differing languages are the strongest aspect of it.
 
 APPLICATION: Florid language is as dangerous to clearly getting a point across as technical jargon. Saying, "the world in which the great man inhabited, of which we all wish to aspire to, was one of remarkable prudence and authority in contrast to the drudgery of today's benign challenges" is as bad as "the neoliberal fashions of the time presented remarkable stigmas that generated a retrospective inverse correlation to today's fashions", and not as good as "in his time, things were different, so the decisions were more severe".
 
-When people abuse language, they are often either using a word with a stronger feeling than they have as an [emotional](mind-feelings.md) bludgeon, or mincing specific words to [imply](symbols.md) a more subdued [belief](understanding-certainty.md) than they really have.
+When people abuse language, they are often either using a word with a stronger feeling than they have as an [emotional](mind-feelings.md) bludgeon, or mincing specific words to [imply](symbols.md) a more subdued [belief](mind-understanding-certainty.md) than they really have.
 
 By changing words, leaders can [conceal the truth](people-image-distortion.md), at least for a time. They typically remove the emphasis of that word over time, rather than legitimately change anything with the redefinition.
 
@@ -272,6 +272,6 @@ When we use our language to make excuses (e.g, "I can't do X because Y", "X caus
 
 ## Language is persistent
 
-Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](understanding.md) in others' [imagination](mind-imagination.md) will *always* be a key component of how we interact.
+Communicating [images and videos](creations.md) is useful, but words we can quickly write and [unpack](mind-understanding.md) in others' [imagination](mind-imagination.md) will *always* be a key component of how we interact.
 
 APPLICATION: We will always have a text-based messaging component built into all [technology](technology.md) ([Zawinski's Law](lawsaxioms-tech.md)).

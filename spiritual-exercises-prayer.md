@@ -1,7 +1,7 @@
 
 # How to pray
 
-We must [sincerely](understanding-certainty.md) and wholly pray to God, never mindlessly ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
+We must [sincerely](mind-understanding-certainty.md) and wholly pray to God, never mindlessly ([Matthew 6:7](https://biblehub.com/matthew/6-7.htm)).
 
 For most people, prayer is our most neglected [spiritual discipline](spiritual-exercises.md), and requires us to [recondition](habits.md) every time we are [afraid](mind-feelings-fear.md) or [angry](mind-feelings-anger.md).
 
@@ -21,7 +21,7 @@ God doesn't "need" you to pray, and He can fix everything *without* our prayer.
 
 God also doesn't cross our boundaries, including things we want to take control of ourselves.
 
-- When we give over control and [trust Him](understanding-certainty.md), He'll act, but is also loving enough to permit us to experience our consequences.
+- When we give over control and [trust Him](mind-understanding-certainty.md), He'll act, but is also loving enough to permit us to experience our consequences.
 
 Even *extremely* busy people have room for prayer:
 

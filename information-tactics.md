@@ -1,7 +1,7 @@
 
 # Tactics to avoid information overload
 
-These are all tactics for slowing the information flow for the purpose of increased [understanding](understanding.md) and higher [quality](values-quality.md).
+These are all tactics for slowing the information flow for the purpose of increased [understanding](mind-understanding.md) and higher [quality](values-quality.md).
 
 ## 1: Use slower inputs
 
@@ -298,7 +298,7 @@ Maintaining information requires sacrificing your attention.
 
 Very frequently, it's much easier to *save* the information than actually *do* something with it.
 
-- We can often find a greater sense of [meaning](meaning.md) by immersing ourselves in many domains of quasi-[understanding](understanding.md) across many domains.
+- We can often find a greater sense of [meaning](meaning.md) by immersing ourselves in many domains of quasi-[understanding](mind-understanding.md) across many domains.
 - If you can't cross the threshold to make more from that information, it's not necessary to save.
 - We often maintain non-practical things because we still find them [beautiful](values-quality.md), which is fine if we know *why* we're keeping it and don't expect anything more from it.
 
@@ -323,7 +323,7 @@ However, these tools have built-in limitations:
 
 We typically trust the social media algorithms to sift through them, but we need more well-managed information, not just a better way to sift it.
 
-Information is, [by its very essence](values.md), linked to many other pieces of information. [The only way we are even capable of understanding anything](understanding.md) is by "tagging" all the information in our minds with other information.
+Information is, [by its very essence](values.md), linked to many other pieces of information. [The only way we are even capable of understanding anything](mind-understanding.md) is by "tagging" all the information in our minds with other information.
 
 To that end, all the decent organization systems have a few built-in features:
 
@@ -340,7 +340,7 @@ Clearly demarcating exclusive categories (where it can *only* be one or the othe
 - Any "sporks" or "miscellaneous" elements must become new categories or sub-categories, even if not explicitly stated.
 - If the "truth" perspective starts becoming unreasonable, the entire system requires re-analysis, with the possibility of rebuilding all or part of the entire system.
 
-[Language](language.md) codifies how we [understand](understanding.md), and high-quality language builds information into as few words as reasonably possible, where the [meaning](results.md) we've built directly corresponds with our [intuition](mind-feelings.md).
+[Language](language.md) codifies how we [understand](mind-understanding.md), and high-quality language builds information into as few words as reasonably possible, where the [meaning](results.md) we've built directly corresponds with our [intuition](mind-feelings.md).
 
 Once something seeps into our subconscious, we start developing [principles](people-rules.md), which slowly form rules for how we should live. Over time, a type of "[mental automation](habits.md)" frees us up to better work with information.
 
@@ -398,7 +398,7 @@ Most information is a waste of time, but don't sift out *valuable* information:
 The entire end of this, after all, is to add [meaning](meaning.md) to life:
 
 - The absence of information allows us to manufacture high-quality [stories](stories-why.md).
-- Taking life every day often means ignoring [what came yesterday](understanding.md) and [what will come tomorrow](mind-imagination.md).
+- Taking life every day often means ignoring [what came yesterday](mind-understanding.md) and [what will come tomorrow](mind-imagination.md).
 - We need boredom to find [creativity](mind-creativity.md).
 
 Occasionally, it simply makes sense to release *all* of it and [have fun doing something else](fun.md) or [take a vacation](fun-vacations.md).

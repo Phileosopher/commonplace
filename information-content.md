@@ -5,7 +5,7 @@
 
 Curate the information into classifications to process it more quickly.
 
-- Consuming the same content of one subject will more quickly [educate](understanding.md) from the [patterns](symbols.md) you'll detect across the articles.
+- Consuming the same content of one subject will more quickly [educate](mind-understanding.md) from the [patterns](symbols.md) you'll detect across the articles.
 - If you have more than 100 media items and more than 2 broad categories as you observe it, taking the time to [organize](organization.md) the information will save you time in the long term.
 - If you need, sub-categorize as needed.
 

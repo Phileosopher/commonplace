@@ -16,7 +16,7 @@ People tend to develop their skills over time through a predictable pattern, wit
 
 1. They start a role as a Producer, doing what they're told and not much else.
 2. After some experience, they become a natural Improver for their work environment.
-3. If they thoroughly [understand](understanding.md) what they're doing, they can become a Builder.
+3. If they thoroughly [understand](mind-understanding.md) what they're doing, they can become a Builder.
 4. If they're intelligent enough, they'll resign themselves to becoming a Thinker.
 
 At any given time, the questions you're asking determine the kind of person you need:
@@ -176,7 +176,7 @@ There are 5 phases to the methodology:
 
 1. Late Status Quo - members understand what they're responsible to do.
 2. Resistance - members don't like what they're responsible to do.
-3. Chaos - members are less productive as they start applying the change and [understand](understanding.md) the new approach.
+3. Chaos - members are less productive as they start applying the change and [understand](mind-understanding.md) the new approach.
 4. Integration - member morale improves once they see positive results.
 5. New Status Quo - members are productive again.
 

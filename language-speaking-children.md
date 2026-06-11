@@ -11,7 +11,7 @@ This requires running anything you would like to say through 9 specific filters:
    - They have a hard time with context, so simpler is better.
    - e.g., "It is dangerous to play in the street."
 2. Phrase everything positively.
-   - They need to [understand](understanding.md) the good things that are best, not just what shouldn't be done.
+   - They need to [understand](mind-understanding.md) the good things that are best, not just what shouldn't be done.
    - e.g., "It is good to play where it is safe."
 3. Rephrase the idea with the context that they can't make subtle distinctions and need directing toward trustworthy authorities.
    - They simply don't know who to [trust](mind-trust.md) for just about everything.
@@ -20,7 +20,7 @@ This requires running anything you would like to say through 9 specific filters:
    - They have to come to their own [decisions](mind-decisions.md), so don't tell them "do this" or "it's best to do that".
    - e.g., "Your parents will tell you where it is safe to play."
 5. Remove anything that suggests certainty.
-   - We can't always be [certain](understanding-certainty.md) about what other people know or if things will be a certain way.
+   - We can't always be [certain](mind-understanding-certainty.md) about what other people know or if things will be a certain way.
    - e.g., "Your parents can tell you where it is safe to play."
 6. Rephrase the idea to eliminate things that may not apply to them.
    - We often don't [imagine](mind-imagination.md) how children could have a different context than what we're presently familiar with.

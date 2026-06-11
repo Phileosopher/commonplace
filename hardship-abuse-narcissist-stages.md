@@ -9,7 +9,7 @@ The victims most harmed by narcissist abuse are, in some way, [unaware](mind-awa
 
 - Sometimes they've normalized narcissistic abuse from their [childhood](hardship-family.md).
 - Other times, they weren't sufficiently socialized as a child to understand appropriate human behavior (e.g., [autism](mind-neurodivergence-autism.md)).
-- Many times, they're aware of the behavior, but they dismiss the boundary violations because they dismiss the abuser's boundary violations as a [failed understanding](understanding.md) or lack of [education](education.md).
+- Many times, they're aware of the behavior, but they dismiss the boundary violations because they dismiss the abuser's boundary violations as a [failed understanding](mind-understanding.md) or lack of [education](education.md).
 
 It's worth noting that most people, at some point in their life, have conducted some form of [narcissistic abuse](hardship-abuse.md).
 
@@ -23,7 +23,18 @@ Most Cluster B personalities are *not* actively aware of these stages, though th
 
 ## 1. Indoctrination ("Idealization phase" or "intrusive friendship")
 
-They construct a false persona designed to reflect the victim's preferences ("love-bombing").
+First, they hunt for a victim by reading [nonverbal cues](language-speaking-bodylanguage.md).
+
+- A general defeated posture (dropped chin, head tilted slightly downward, eyes lift to meet someone's gaze).
+  - They clearly don't feel entitled the space they occupy.
+- Signs of low comfort with themselves (shoulders rolled forward, collapsed chest).
+- Rising sentence endings, which imply questions more than statements.
+  - This can also be accompanied by stammering or hesitating over simple requests.
+- Hyper-apologetic sentence openings (e.g., "sorry to bother you", "I know you're busy", "this is probably a stupid question")
+- Self-soothing behaviors (e.g., nervous tics, hand-to-face)
+- To the best they can, previous victims must [change their behaviors](hardship-abuse-narcissist.md) to self-protect (i.e., do the opposite).
+
+Then, they construct a false persona designed to reflect the victim's preferences ("love-bombing").
 
 - They make elaborate promises about the future.
 - They initiate premature intimacy ("sex-bombing").
@@ -64,7 +75,7 @@ Key indicators of possible narcissism in a casual setting:
 - Discrepancy between the appearance and actions of kindness (e.g., friendly at a party, but takes the last piece of something)
 - Humble-bragging (i.e., [stories](stories-why.md) that sound self-deprecating but promote them in some way)
 
-## 2. Psychological breakdown
+## 2. Psychological breakdown ("devaluation")
 
 They become emotionally unavailable.
 
@@ -160,6 +171,7 @@ Many times, this expresses through the victim doing things for the abuser.
 
 While the victim feels used and abused (even if they're not aware), this is the high point for the abuser, and they will often try to maintain this state or reproduce it in others.
 
+- This manipulation, having succeeded, gives the abuser a type of pleasure that [reinforces the habit to keep doing it](habits.md) ("duping delight").
 - Due to social skills and attitude, the covert narcissist will have more trouble with this stage than the overt narcissist, and this can contribute heavily to their mood swings.
 
 ## 5. Psychological punishment
@@ -254,10 +266,18 @@ The abuser is trying to form a bond where they are the hurt child and the victim
 
 The abuser will systematically destroy and discard their victim when they're done with them.
 
-- They will retell the events of an experience, but will rearrange or omit a few details to make them the hero or victim.
+- They will retell the events of an experience, but will rearrange or omit a few details to make the abuser as the hero or victim.
+  - While they're portraying the [image](people-image-why.md) of [fear](mind-feelings-fear.md), they're actually [furious](mind-feelings-anger.md) that they've lost control, which provokes them to [lie](people-lying.md) in the effort to utterly destroy their victim ("character assassination")
 - Their [stories](stories-why.md) will be compelling, especially since they are often self-deluded into believing their version of the story.
 - When adverse events *do* factually occur, they are very good at [advertising](marketing.md) their victimhood by embellishing the truth.
 - This is very effective because of the skills to [appear](people-image.md) charming and attractive mentioned in Stage 1.
+
+This mechanism exists because the abuser has deemed their victim "bad", and now must do away with them ("splitting").
+
+- They will do this instantly, rapidly, and often without warning.
+- The basis and justification is the underlying philosophy that they themselves are non-negotiably [good](morality.md), so the other person is [evil](morality-evil.md) by not giving them what they want.
+- At this point, they will go as far as [outright lying](people-lying.md) and [breaking the law](legal-crimes.md) to maintain their fantasy.
+  - Many [civil cases](legal-safety.md), especially [divorce](hardship-family-divorce.md), are directly involved with this abuse cycle.
 
 The abuser cannot understand "external objects", so they will try to "erase" anyone they can't integrate.
 

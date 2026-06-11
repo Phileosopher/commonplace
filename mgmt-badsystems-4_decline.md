@@ -18,7 +18,7 @@ Several situations can, however, prolong or enhance a monopoly's presence:
 The only solution to fixing a bad system from the inside is revolutionary [change](people-changes.md) on every level:
 
 - Against [human nature](humanity-universals.md), the system dramatically sheds a huge chunk of its [power](power.md), giving it more control over its smaller remaining base.
-- New management that throws out [convention](habits.md) and large portions of the organization's established [culture](people-culture.md). They'll introduce a new culture by promoting a few [easily distinguishable](understanding.md) and [influential](influence.md) [values](values.md).
+- New management that throws out [convention](habits.md) and large portions of the organization's established [culture](people-culture.md). They'll introduce a new culture by promoting a few [easily distinguishable](mind-understanding.md) and [influential](influence.md) [values](values.md).
 - Massive reorganization of members and roles, with a significant portion of the group getting promoted or removed from the group.
 - Adoption of a key [trend](people-trends.md) or [idea](values.md) that gives everyone more [reason](purpose.md) to be legitimately [virtuous](morality.md). This, however, can backfire if it's only [feigned](people-image-distortion.md) virtue (e.g., [leftism](politics-leftism.md)).
 - Complete destruction of the group, often by removing the massive central authority and dividing the group into smaller components.
@@ -26,9 +26,9 @@ The only solution to fixing a bad system from the inside is revolutionary [chang
 APPLICATION: All systems become bad eventually, at some point. They must then be rebuilt through a change in leadership or will be replaced by another system. Thus, all systems run through a relatively predictable [cycle](people-trends.md):
 
 1. Establish themselves as a new [trend](people-trends.md).
-2. Members question their leaders' [wisdom](understanding.md).
+2. Members question their leaders' [wisdom](mind-understanding.md).
 3. The leaders start abusing the group's [power](power.md) to maintain control.
-4. [Strong](power.md) leaders are appointed more than [wise](understanding.md) or [good](morality.md) leaders.
+4. [Strong](power.md) leaders are appointed more than [wise](mind-understanding.md) or [good](morality.md) leaders.
 5. The group becomes a bad system, ready for restructuring or another system to take its [power](power.md) away.
 
 People don't typically like [change](people-changes.md), so the only way to make *all* the necessary changes is when the system is already disrupting everyone's [habits](habits.md). A crisis is the best trigger for this, but a [manufactured crisis](people-image-distortion.md) can [work just as well](results.md) if [people will buy it](influence.md).
@@ -69,7 +69,7 @@ There's no easy way to replace a bad system, either:
 
 A bad system will often be replaced by a much more efficient, newer system that doesn't have quite as much [bureaucracy](bureaucracy.md) or [corruption](morality-evil.md). However, the [personalities](people-personality.md) of *that* system's leaders may be more ruthless or extreme.
 
-One of the most significant ways a bad system loses public favor is when they *completely* fail the [trust](understanding-certainty.md) of the public who had placed faith in them:
+One of the most significant ways a bad system loses public favor is when they *completely* fail the [trust](mind-understanding-certainty.md) of the public who had placed faith in them:
 
 - Violate private individuals' [rights](people-boundaries-why.md), usually in a way that people die. This gets worse if they try to bury or destroy the evidence of their actions, and can be *much* worse if it's a new [technology](technology.md) (since it'll magnify everyone's [fears](mind-feelings-fear.md) of the [unknown](unknown.md)).
 - Suffer a [logistical](logistics.md) failure that creates a supply chain disruption, often in a way that people are permanently injured or die.

@@ -9,7 +9,7 @@ The Bible *constantly* addresses sin, which is any action or thought that goes a
 Small sins [habitually](habits.md) prepare us for larger sins on the same spectrum, eventually leading to pure evil (i.e., "logismoi").
 
 1. Assault: we encounter an impure thought, often planted [by the devil](spiritual-warfare-tricks.md).
-2. Interaction: we open up a [dialogue](people-conversation.md) that lets that thought take more precedence in our [minds](understanding.md).
+2. Interaction: we open up a [dialogue](people-conversation.md) that lets that thought take more precedence in our [minds](mind-understanding.md).
 3. Consent: after the dialogue becomes [familiar](habits.md), we [consent](people-contracts.md) to our urges.
 4. Defeat: we become hostages to that urge, and find it more difficult to resist.
 5. Passion or Obsession: that sin becomes an [addictive](addiction.md) [substance](addiction-substances.md) and grafts into our [soul](humanity.md).
@@ -23,7 +23,7 @@ Our first sin was to not trust God at His word ([Genesis 3:2-6](https://biblehub
 
 1. He told us to not eat of the Tree of Knowing Morality.
 2. If we had trusted God's nature, we would have waited, and He would have given it to us when we were ready for it.
-3. Instead of building [meaning](meaning.md) through waiting, we decided to consume the [knowledge](understanding.md) early.
+3. Instead of building [meaning](meaning.md) through waiting, we decided to consume the [knowledge](mind-understanding.md) early.
 4. Since then, we make irreversible snap judgments of moral injustice that generate [feelings of anger](mind-feelings-anger.md).
 5. That anger is the basis for a multitude of sins including desiring revenge, conceit, and bitterness.
 6. The only pathway out for us now, irrespective of our eternal state, is through replacing our wisdom with God's.
@@ -33,7 +33,7 @@ From the beginning ([Genesis 3-4](https://biblehub.com/genesis/3.htm)), the firs
 
 1. Eve permitted the temptation to eat the fruit, and Adam didn't stand up to oppose it.
 2. Eve, and then Adam, violated the boundary God placed by eating the fruit.
-   - The consequence of this was that we [understood](understanding.md) [morality](morality.md) before we were ready for it (e.g., our [anger](mind-feelings-anger.md) is usually in the wrong place).
+   - The consequence of this was that we [understood](mind-understanding.md) [morality](morality.md) before we were ready for it (e.g., our [anger](mind-feelings-anger.md) is usually in the wrong place).
 3. Adam blames Eve, who then blames the serpent.
    - God cursed Adam's work, Eve's sense of safety, and the serpent.
 4. Cain envied the favor God gave his brother Abel.
@@ -157,7 +157,7 @@ Pride is a feeling of superiority and is the philosophical root of most sins.
 Pride can apply to absolutely *anything*:
 
 - More [wealth](money-investing.md), more possessions, or better [financial status](money-3_budget.md)
-- More [creative](mind-creativity.md), [intelligent](understanding.md), talented, [competent](success-4_routine.md), or physically strong
+- More [creative](mind-creativity.md), [intelligent](mind-understanding.md), talented, [competent](success-4_routine.md), or physically strong
 - More [entertaining](fun.md), [funny](humor.md), or [popular](power-influence.md)
 - More sophisticated, cleaner, wiser, or better
 - More spiritual, humble, or religious

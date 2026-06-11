@@ -1,7 +1,7 @@
 
 # The state of the unknown
 
-We don't [know](understanding.md) most things. We start [from before birth](maturity.md) by knowing practically nothing, but are curious to find out and quickly make [purposes](purpose.md) to discover things.
+We don't [know](mind-understanding.md) most things. We start [from before birth](maturity.md) by knowing practically nothing, but are curious to find out and quickly make [purposes](purpose.md) to discover things.
 
 Very soon (often within a few months), something we didn't know will have hurt us. From that point, we live [fearing](mind-feelings-fear.md) "the Unknown". As we gain experiences, this compounds as we discover new forms of the Unknown that may hurt us. If we don't, our recklessness will tend to get us killed while we're still [young](maturity.md).
 
@@ -17,9 +17,9 @@ APPLICATION: We're stuck with incessant chaos in our most mundane experiences:
 - Nothing you [trust](mind-trust.md) is entirely [safe](safety.md).
 - No two of your thoughts are technically the same, since they travel down different neural pathways each time, and [habits](habits.md) reinforce any thought that *does* repeat.
 
-Even complete [understanding](understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](mind-decisions.md) that drove them, but we [deceive](people-image-why.md) ourselves to be [certain](understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](people-identity.md).
+Even complete [understanding](mind-understanding.md) isn't exempt from the Unknown. As time deteriorates memory, all we understand becomes more of that Unknown. [Habits](habits.md) become the Unknown across time as we forget the [decisions](mind-decisions.md) that drove them, but we [deceive](people-image-why.md) ourselves to be [certain](mind-understanding-certainty.md) of it because the [consequences](results.md) feel [familiar](people-identity.md).
 
-APPLICATION: We often [believe](understanding-certainty.md) our memories are pristine. However, they're open to failure and not very reliable as time passes. Thus, we should only partly trust ourselves about our perspective as a [scientific](science.md) reality, consistently [cross-reference it](people-conversation.md) with others' to be as certain as possible, and quickly change our [value system](values.md) if we find we're wrong.
+APPLICATION: We often [believe](mind-understanding-certainty.md) our memories are pristine. However, they're open to failure and not very reliable as time passes. Thus, we should only partly trust ourselves about our perspective as a [scientific](science.md) reality, consistently [cross-reference it](people-conversation.md) with others' to be as certain as possible, and quickly change our [value system](values.md) if we find we're wrong.
 
 We are stubborn, though, and we *constantly* try to conquer the Unknown. Most of our [stories](stories-why.md) are the [conflict](people-conflicts-why.md) between the Known and Unknown, with "good" stories being the ones that expanded the Known or defeated the Unknown. We also embody the Unknown as a [symbol](symbols.md) of a [monster](stories-myths.md), with the hero as the one who defeats the Unknown.
 
@@ -33,9 +33,9 @@ APPLICATION: Never disrespect [creations](creations.md) that ever add [value](va
 
 ## Chaos
 
-We [believe](understanding-certainty.md) something to have order when we've distinctly separated [values](values.md) in our mind, especially as we perceive our [environment](reality.md).
+We [believe](mind-understanding-certainty.md) something to have order when we've distinctly separated [values](values.md) in our mind, especially as we perceive our [environment](reality.md).
 
-We interpret *anything* we don't directly [understand](understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories-why.md) we [perceive](people-image-why.md) conflicts with our [expectations](mind-imagination.md) (e.g., a messy room or a cluttered sentence).
+We interpret *anything* we don't directly [understand](mind-understanding.md) as chaos. It may be from a lack of information connected to a purpose that affects us, or the [story](stories-why.md) we [perceive](people-image-why.md) conflicts with our [expectations](mind-imagination.md) (e.g., a messy room or a cluttered sentence).
 
 We treat completely unordered chaos as bad, but it's nothing more than pure randomness that sometimes works [against what we want](purpose.md), and it can work in our favor just as much.
 
@@ -58,7 +58,7 @@ Contrary to what many people [imagine](mind-imagination.md), chaos isn't *comple
 2. Natural Chaos - the natural state of [reality](reality.md), which has large-scale general rules but is completely disordered on the small-scale. For example, sand and sticks on a beach will be in disarray, but a desert won't show piles of blood, stones, fish, and snow.
 3. "Cthulhu" Chaos - complete disorder, with no rules to define things.
 
-Partial chaos doesn't work well with us, and we tend to treat *any* chaos with distrust, even when we *know* of the Unknown, and that [uncertainty](understanding-certainty.md) frequently interferes with rational [decision-making](mind-decisions.md). The nature of [mnemonics](mind-memory.md) and [symbols](symbols.md) is our mind's attempt to impose patterns onto things without patterns, and [language](language.md) is how we harness the unknown.
+Partial chaos doesn't work well with us, and we tend to treat *any* chaos with distrust, even when we *know* of the Unknown, and that [uncertainty](mind-understanding-certainty.md) frequently interferes with rational [decision-making](mind-decisions.md). The nature of [mnemonics](mind-memory.md) and [symbols](symbols.md) is our mind's attempt to impose patterns onto things without patterns, and [language](language.md) is how we harness the unknown.
 
 Interestingly, as we perceive chaos, Cthulhu Chaos doesn't actually "exist", but our [perceptions](people-image-why.md) tend to deceive us to where our [feelings](mind-feelings.md) define Natural Chaos as Cthulhu Chaos.
 
@@ -108,7 +108,7 @@ Past ("what was")
 - [Traditional](people-culture.md), [religious](religion.md), and [conservative](politics-conservativeliberal.md)
 - Stable sense of [self](people-identity.md)
 - Oriented toward [family](people-family.md) and [groups](groups-member.md), distrusts strangers
-- Tend to be more [prejudiced](understanding-certainty.md)
+- Tend to be more [prejudiced](mind-understanding-certainty.md)
 - Focus on [obligations and commitments](people-contracts.md)
 - [Rituals](people-culture.md) and [myths](stories-myths.md) have [meaning](meaning.md)
 - Dominant feeling of [guilt](mind-feelings-shame.md)
@@ -121,7 +121,7 @@ Present ("what is")
 - Harder to [resist temptations](addiction.md) or wait, easier to procrastinate
 - Focus on bringing pleasure and avoiding pain
 - Often poorer [health management](body-health.md) and [substance abuse](addiction.md)
-- [Understanding](understanding.md) might not deter actions
+- [Understanding](mind-understanding.md) might not deter actions
 - Seeks more sensation and novelty, less [emotionally stable](mind-feelings.md) and more [risk-taking](entrepreneur-why.md), more likely to [lie](people-lying.md)
 - Tend to be [poor](people-classes.md) or [uneducated](education.md)
 - Seeks instant gratification, lower grades in [school](education.md)
@@ -155,9 +155,9 @@ APPLICATION: [Fear](mind-feelings-fear.md) of the Unknown is good to a point. Ho
 
 Because order is a value, it can compound on itself to establish an elaborate system. However, we only interpret order when it accomplishes a [purpose](purpose.md) we [expect](mind-imagination.md). If that thing fails the expectation (such as a broken-down car) we tend to believe it's "out of order", even though it's often still 99.999% *in* order.
 
-APPLICATION: Excluding [Cluster B personalities](mind-neurodivergence.md), the preservation of order is a natural impulse, and worth knowing to [understand](understanding.md) how others think. We must be mindful of what we destroy and what we're using to replace it, but the Unknown is where we draw our [creativity](mind-creativity.md) and where the [social risks](entrepreneur-why.md) become highly [influential](power-influence.md) [trends](people-trends.md).
+APPLICATION: Excluding [Cluster B personalities](mind-neurodivergence.md), the preservation of order is a natural impulse, and worth knowing to [understand](mind-understanding.md) how others think. We must be mindful of what we destroy and what we're using to replace it, but the Unknown is where we draw our [creativity](mind-creativity.md) and where the [social risks](entrepreneur-why.md) become highly [influential](power-influence.md) [trends](people-trends.md).
 
-[Civilization](people-culture.md) is a type of social order, with [inspiration](creations.md), [groups](groups-member.md), and [technology](technology.md) that all form from baser components. We can spend so much time [engaging](understanding.md) with it, though, that we forget the entire thing is built on nature. [On the political spectrum](politics-conservativeliberal.md), conservatives try to preserve order that has already been created while liberals try to create new order.
+[Civilization](people-culture.md) is a type of social order, with [inspiration](creations.md), [groups](groups-member.md), and [technology](technology.md) that all form from baser components. We can spend so much time [engaging](mind-understanding.md) with it, though, that we forget the entire thing is built on nature. [On the political spectrum](politics-conservativeliberal.md), conservatives try to preserve order that has already been created while liberals try to create new order.
 
 APPLICATION: Over time, as the Unknown becomes [known](science.md), a society will prioritize the domain of [predictable](mind-imagination.md) and [controllable](results.md) things over sending [efforts](purpose.md) into unknowable things. This means secular societies who abandon their [religious](religion.md) background tend to lean farther into [environmentalism](politics-leftism-sustainability.md) and prioritize [mathematical](math.md) [estimation](mind-imagination.md) over [intuition](mind-feelings.md).
 
@@ -168,7 +168,7 @@ APPLICATION: We wish to find [meaning](meaning.md) in the Unknown so heavily tha
 - People buy lottery tickets because they hope that the improbable could happen to them.
 - Even if a [religion](religion.md) only has a few of its adherents achieving immortality, people still follow it out of hope that they could attain it.
 
-Destroying order oriented toward good things without another type of proven order to replace it is often [evil](morality-evil.md), and usually [risky](safety.md). We are prone to mistaking others destroying as mindless when they're attempting to [recreate reality](creations.md) differently. It takes [humility and patience](morality.md) to [understand](understanding.md) others' motivations, which is venturing into an unknowable domain because people [lie](people-lying.md).
+Destroying order oriented toward good things without another type of proven order to replace it is often [evil](morality-evil.md), and usually [risky](safety.md). We are prone to mistaking others destroying as mindless when they're attempting to [recreate reality](creations.md) differently. It takes [humility and patience](morality.md) to [understand](mind-understanding.md) others' motivations, which is venturing into an unknowable domain because people [lie](people-lying.md).
 
 If we feel dissatisfied with too much order, we might break something just to watch what happens. This is good for discovering [reality](reality.md) [scientifically](science.md), but it has [risks](safety.md) if we break the wrong thing.
 

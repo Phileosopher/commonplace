@@ -71,7 +71,7 @@ C. Write a clear, concise public message that communicates the following:
 4. What you've learned from making that mistake.
 5. The steps you've taken to fix what you failed at.
 6. The steps you plan to take to fix the damage or prevent it from happening again.
-7. Invite comments that give any additional [understanding](understanding.md) you may have missed, especially if you've somehow missed the point or haven't addressed the problem.
+7. Invite comments that give any additional [understanding](mind-understanding.md) you may have missed, especially if you've somehow missed the point or haven't addressed the problem.
 8. Proofread it to [express the precise tone or style](language-writing.md) you want to convey.
 
 D. Fix the problem so that it never happens again:
@@ -84,7 +84,7 @@ D. Fix the problem so that it never happens again:
 Success is a lifelong journey across every conceivable subject:
 
 - Prolonged success comes through developing yourself physically, mentally, [spiritually](religion-answers.md), and socially.
-- Keep refreshing your [understanding](understanding.md) and [awareness](mind-awareness.md).
+- Keep refreshing your [understanding](mind-understanding.md) and [awareness](mind-awareness.md).
 - Self-management and learning never takes a day off.
 
 It's not uncommon to feel an existential crisis after succeeding:

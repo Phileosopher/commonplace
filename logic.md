@@ -3,7 +3,7 @@
 
 Logic is structured thinking. Like all thoughts, logic is a [story](stories-why.md), but very specific and highly well-organized.
 
-Logic is an abstraction. Unlike [understanding](understanding.md), logic doesn't have to connect to [reality](reality.md).
+Logic is an abstraction. Unlike [understanding](mind-understanding.md), logic doesn't have to connect to [reality](reality.md).
 
 APPLICATION: Logic has no bearing on reality, meaning it might be [useless](purpose.md).
 
@@ -45,7 +45,7 @@ First, a person gathers data from [perceptions](people-image-why.md), both their
 
 The data can be inferred or perceived, but finding a 100% true datum is always difficult. We're stuck with mostly secondhand perceptions, and frequently [trust](mind-trust.md) the secondhand perceptions of other people, and it could all be based on a networked set of beliefs that go back to one person who was actually [lying](people-lying.md) or [delusional](people-image-why.md).
 
-APPLICATION: Deductive logic makes us more [certain](understanding-certainty.md) about everything related to it, so we must seek it out whenever possible. For example, you may not know if someone will say "yes", but you *do* know that people *never* refuse certain things without other reasons.
+APPLICATION: Deductive logic makes us more [certain](mind-understanding-certainty.md) about everything related to it, so we must seek it out whenever possible. For example, you may not know if someone will say "yes", but you *do* know that people *never* refuse certain things without other reasons.
 
 Since our [feelings](mind-feelings.md) are the dominant force for discerning relatively [unknown](unknown.md) information, logic and feelings are complementary to each other.
 
@@ -152,7 +152,7 @@ This built-up logic system is immensely helpful because we don't have to think a
 
 Contrary to how we may [intuitively](mind-feelings.md) [imagine](mind-imagination.md), we often receive the *conclusions* first from our [environment](reality.md) and [perceptions](people-image-why.md). We first perceive what exists, *then* try to [estimate](mind-imagination.md) what caused that thing.
 
-[Mythology](stories-myths.md), origin stories, [cosmology](religion.md), and [history](stories-storytellers.md) are all calculated [stories](stories-why.md) of how we got here and where we're going. They're relatively unreliable because there aren't enough premises for us to understand fully, though individuals' logical discoveries usually drive people to [believe](understanding-certainty.md) certain things over others.
+[Mythology](stories-myths.md), origin stories, [cosmology](religion.md), and [history](stories-storytellers.md) are all calculated [stories](stories-why.md) of how we got here and where we're going. They're relatively unreliable because there aren't enough premises for us to understand fully, though individuals' logical discoveries usually drive people to [believe](mind-understanding-certainty.md) certain things over others.
 
 ## Failing
 
@@ -187,7 +187,7 @@ Further, the basis of logic must, by its nature, be inductive. All logic can com
 - if W, then X
 - If Z, then W?
 
-At its core, we're forced to [believe](understanding-certainty.md) at least one thing is the original source to avoid the ultimate flow of logic from becoming circular:
+At its core, we're forced to [believe](mind-understanding-certainty.md) at least one thing is the original source to avoid the ultimate flow of logic from becoming circular:
 
 - [Self-perception](people-image-why.md)
 - A trustworthy [group](groups-member.md) of others' self-perceptions
@@ -195,7 +195,7 @@ At its core, we're forced to [believe](understanding-certainty.md) at least one 
 
 Within reality, negations are largely easier to prove than assertions because it requires less effort. Saying "NOT all of X is Y" only requires finding 1 X that isn't Y, but saying "all of X is Y" requires proving a complete and absolute link between the two.
 
-While we *can* use logic to discover truths, it's not always the best solution. Emphasizing logic strictly will make a person perpetually critical of everything and create many false-negatives. Logic has its place in [the good life](people-goodlife.md), but isn't the only tool necessary for healthy [understanding](understanding.md).
+While we *can* use logic to discover truths, it's not always the best solution. Emphasizing logic strictly will make a person perpetually critical of everything and create many false-negatives. Logic has its place in [the good life](people-goodlife.md), but isn't the only tool necessary for healthy [understanding](mind-understanding.md).
 
 When anyone makes a statement of truth, those assertions end up falling into 3 categories:
 
@@ -214,21 +214,21 @@ To make sense of the world, we slice up [reality](reality.md) into various group
 
 We form those groupings as separate [values](values.md). In a sense, we're [creating](creations.md) and imposing a model of reality onto our raw [perceptions](people-image-why.md). [Math](math.md) is the most popular form of this analysis, and is a broader derivation of logic with [symbolic](symbols.md) numbers instead of simply true/false.
 
-Great analysis of anything in particular will always include questioning [preconceived](habits.md) [beliefs](understanding-certainty.md) and [ideas](values.md), meaning that true critical thinking includes self-criticism. While anyone *can* think critically with patience, intelligent people don't need as much patience to do it, which is why smart people have an easier time thinking critically (even if they don't).
+Great analysis of anything in particular will always include questioning [preconceived](habits.md) [beliefs](mind-understanding-certainty.md) and [ideas](values.md), meaning that true critical thinking includes self-criticism. While anyone *can* think critically with patience, intelligent people don't need as much patience to do it, which is why smart people have an easier time thinking critically (even if they don't).
 
-APPLICATION: To be more logical, think more slowly. Consider all the premises that make the idea 100% true for anyone observing. While an [intuition](mind-feelings.md) grounded on what you're [certain](understanding-certainty.md) of is possible, it requires *lots* of reasoning to [build](creations.md).
+APPLICATION: To be more logical, think more slowly. Consider all the premises that make the idea 100% true for anyone observing. While an [intuition](mind-feelings.md) grounded on what you're [certain](mind-understanding-certainty.md) of is possible, it requires *lots* of reasoning to [build](creations.md).
 
 With enough good inputs, analysis can be amazingly effective at [predicting reality](mind-imagination.md). By magnifying it with logic [technology](technology.md) (i.e., a [computer](computers.md)), great analysis can be terrifyingly reliable about the approximate likelihood of large-scale [trends](people-trends.md) (though [not *precisely* accurate](mind-imagination.md)).
 
-Since we can't gather *all* the inputs, we can never fully [predict the future](mind-imagination.md). There's no way to anticipate things we couldn't have known, so we should only try anticipating if we are [fully certain](understanding-certainty.md) we can do something with it.
+Since we can't gather *all* the inputs, we can never fully [predict the future](mind-imagination.md). There's no way to anticipate things we couldn't have known, so we should only try anticipating if we are [fully certain](mind-understanding-certainty.md) we can do something with it.
 
 APPLICATION: Even if you have many qualifiers, you can still find complete certainty in [reality](reality.md) (e.g., "I am completely certain that, assuming the world is not an illusion and that I'm not crazy, I am presently sitting in a chair"). The easiest of these are negations (e.g., "I know I am not a fish").
 
-One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](philosophy-paradoxes.md). By creating [imagined](mind-imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
+One useful way to track our [values](values.md) and [understanding](mind-understanding.md) is to perform [thought experiments](philosophy-paradoxes.md). By creating [imagined](mind-imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
 
-APPLICATION: Analysis can be fun! If you can [understand](understanding.md) others' logic, you can often [discern](mind-imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories-why.md), of every type of media, are [created](creations.md) this way.
+APPLICATION: Analysis can be fun! If you can [understand](mind-understanding.md) others' logic, you can often [discern](mind-imagination.md) almost *exactly* what someone is thinking when they receive a [cue](habits.md). Most [comedians](humor.md) use this to amuse and entertain by adding bad premises that [feel](mind-feelings.md) right, removing premises, or making perfectly logical nonsense. [Stories](stories-why.md), of every type of media, are [created](creations.md) this way.
 
-Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](understanding-certainty.md) their analysis on the principle that they [worked very hard](results.md) and spent lots of time on their thoughts.
+Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](mind-understanding-certainty.md) their analysis on the principle that they [worked very hard](results.md) and spent lots of time on their thoughts.
 
 ## Hegelian dialectic
 
@@ -258,9 +258,9 @@ While everyone is logical, everyone is *not* sensible. To have "sense" is to und
 
 - All Icelanders are professional dancers, and all professional dancers are women, so all Icelanders are women.
 
-APPLICATION: If you disagree with someone, they [understand](understanding.md) the world differently from you. That doesn't mean anyone is wrong or right. You can only discover *that* by consulting [reality](reality.md), irrespective of anyone's [conduct](people-boundaries.md), [reputation](people-image-why.md), or [popular opinion](people-trends.md).
+APPLICATION: If you disagree with someone, they [understand](mind-understanding.md) the world differently from you. That doesn't mean anyone is wrong or right. You can only discover *that* by consulting [reality](reality.md), irrespective of anyone's [conduct](people-boundaries.md), [reputation](people-image-why.md), or [popular opinion](people-trends.md).
 
-Most people [understand](understanding.md) at least some nonsense as being truth, though. They either miss some key premises (especially when they're [young](maturity.md)) or believe a few bad premises (because they were [educated poorly](education.md) or are mentally unwell).
+Most people [understand](mind-understanding.md) at least some nonsense as being truth, though. They either miss some key premises (especially when they're [young](maturity.md)) or believe a few bad premises (because they were [educated poorly](education.md) or are mentally unwell).
 
 But, everyone *thinks* they're rational and sensible, which is a product of [natural conceit](morality-evil.md). This becomes especially dangerous when people reinforce their logic with [statistics](math.md).
 
@@ -268,7 +268,7 @@ APPLICATION: Just because you can't prove that a set of logic isn't sound doesn'
 
 While analysis divides, sense combines. But, most intelligent people look down on sensible thinking and often fail to conflate information to make it more [useful](purpose.md).
 
-APPLICATION: Over-analysis is the easiest way to lose track of the [truth](reality.md). It also sabotages [common sense](understanding.md), deadens [intuition](mind-feelings.md), and makes the person generally [insufferable](people-boundaries.md).
+APPLICATION: Over-analysis is the easiest way to lose track of the [truth](reality.md). It also sabotages [common sense](mind-understanding.md), deadens [intuition](mind-feelings.md), and makes the person generally [insufferable](people-boundaries.md).
 
 We can all become sensible by doing the following, but they all require a great deal of [humility](morality.md):
 

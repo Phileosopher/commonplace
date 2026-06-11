@@ -54,7 +54,7 @@ Learn self-acceptance:
 Avoid cynical thinking that seems positive:
 
 - Gossiping may feel like [close friendship](people-friends.md), but it's a veiled form of complaining, which reinforces negative thinking.
-- Black-and-white thinking may create [certainty](understanding-certainty.md), but stifles [creativity](mind-creativity.md) and gives us a false understanding of the world.
+- Black-and-white thinking may create [certainty](mind-understanding-certainty.md), but stifles [creativity](mind-creativity.md) and gives us a false understanding of the world.
 - Sad music and sad thinking in general can provoke more miserable thoughts.
 
 Contrary to popular belief, happy people do *not* ignore bad things:

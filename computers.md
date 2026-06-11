@@ -18,7 +18,7 @@ If you don't understand how to use a computer, you'll feel trapped by modern lif
 
 ## Computers are logic machines
 
-While people use [intuition](mind-feelings.md) to [understand](understanding.md) things, computers only use [logic](logic.md) and hold information in memory storage.
+While people use [intuition](mind-feelings.md) to [understand](mind-understanding.md) things, computers only use [logic](logic.md) and hold information in memory storage.
 
 All computers have three main parts:
 

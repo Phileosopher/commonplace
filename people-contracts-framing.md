@@ -65,7 +65,7 @@ Always ask 2 questions, *constantly*:
 
 From the beginning, manage expectations with others.
 
-- Articulate what you will and will *not* do, and make sure they thoroughly [understand](understanding.md) it.
+- Articulate what you will and will *not* do, and make sure they thoroughly [understand](mind-understanding.md) it.
   - Avoid using *any* jargon that may confuse them or make the situation vague.
   - Don't use vague statements (e.g., "we always give good service").
   - If possible, communicate *anything* that uses [numbers](math.md) (e.g., effective dates, dollar amounts, limits).

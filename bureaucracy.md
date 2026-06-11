@@ -63,7 +63,7 @@ Every bit of information must be all the following:
 
 1. They need the information to make an informed [decision](mind-decisions.md).
 2. Your submitted information doesn't [imply](people-image-why.md) something worse than reality.
-3. You're absolutely [certain](understanding-certainty.md) that the information is correct.
+3. You're absolutely [certain](mind-understanding-certainty.md) that the information is correct.
 
 ### Don't provide wrong information
 
@@ -132,7 +132,7 @@ Our [human nature](humanity-universals.md) is to magnify our effort when we don'
 
 For someone to fully empathize with your situation, they might need information you didn't indicate on the form.
 
-- They're frequently more focused on [following rules](people-rules.md) than [understanding](understanding.md) your situation, so choose your words and context carefully.
+- They're frequently more focused on [following rules](people-rules.md) than [understanding](mind-understanding.md) your situation, so choose your words and context carefully.
 
 Providing some key information, even if it was accidentally misstated, may invalidate your efforts or transfer you to a department that can't help you.
 

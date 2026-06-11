@@ -28,7 +28,7 @@ They also must be stubborn enough to indefinitely face [criticism](people-confli
 
 Most of them are inherently curious.
 
-- They tend to ask probing and profound [questions](understanding.md), even seemingly stupid ones, about absolutely everything.
+- They tend to ask probing and profound [questions](mind-understanding.md), even seemingly stupid ones, about absolutely everything.
 - Typically, they're trying to find [creative](mind-creativity.md) ways to [break existing norms](morality-taboo.md).
 
 However, unlike [philosophers](philosophy.md) or [educators](education.md), they're also extremely practical.
@@ -47,7 +47,7 @@ Finally, they generally must be humble enough to accept what they don't know.
 
 They'll have to learn a wide variety of disciplines where they had had zero experience.
 
-- While they can delegate some things (e.g., [lawyer](glossary-legal-ac.md) or [accountant](money-accounting.md)), the beginning stages of their business will require them to [understand](understanding.md) at least a general working concept of most parts of their organization.
+- While they can delegate some things (e.g., [lawyer](glossary-legal-ac.md) or [accountant](money-accounting.md)), the beginning stages of their business will require them to [understand](mind-understanding.md) at least a general working concept of most parts of their organization.
 
 Determination - more than anything else, they must be focused.
 
@@ -108,9 +108,9 @@ The disposition of an entrepreneur means they tend to have a few lifestyle eleme
 
 - Loves [sports](fun-sports.md), especially team or extreme sports.
 - Loves [traveling](fun-vacations.md) to original, exotic places.
-- Typically [self-taught](understanding.md), but often not much [college education](jobs-college.md).
+- Typically [self-taught](mind-understanding.md), but often not much [college education](jobs-college.md).
 - Often obsessively focused on whatever task they're performing.
-- Spends their free time [learning](education.md), [absorbing information](understanding.md), or [mastering a fun skill](fun.md).
+- Spends their free time [learning](education.md), [absorbing information](mind-understanding.md), or [mastering a fun skill](fun.md).
 
 For several reasons, entrepreneurs are typically [young](maturity.md).
 

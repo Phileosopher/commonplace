@@ -3,7 +3,7 @@
 
 Conflict is an inevitable part of being human:
 
-- We all have *constant* [inner conflict](people-conflicts-inner.md) about various [beliefs](understanding-certainty.md), [feelings](mind-feelings.md), and [thoughts](understanding.md).
+- We all have *constant* [inner conflict](people-conflicts-inner.md) about various [beliefs](mind-understanding-certainty.md), [feelings](mind-feelings.md), and [thoughts](mind-understanding.md).
 - However, people *usually* see conflict as a difference of [views, interests, or goals](purpose.md) between two people.
 
 ## Why we engage in conflicts
@@ -17,14 +17,14 @@ We *always* start conflicts from a [perceived](people-image-why.md) need:
 
 This perceived need someone has to confront a situation has several degrees of intensity:
 
-1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](understanding.md) and make or thoroughly consider [decisions](mind-decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
-2. Defend: We have a [conviction](understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](people-image-why.md) about their opinion. Every healthy person has a handful of these.
+1. Discuss: We mention it because we want others to open up a discussion about the matter. We usually want people to increase their [understanding](mind-understanding.md) and make or thoroughly consider [decisions](mind-decisions.md), or we know *they* don't understand. Most things sit in this realm for mentally well people, especially regarding [religion](religion.md) and [politics](groups-large.md).
+2. Defend: We have a [conviction](mind-understanding-certainty.md) on the matter and don't feel it's appropriate to leave an idea uncontested. Usually, we people to [change their minds](people-image-why.md) about their opinion. Every healthy person has a handful of these.
 3. Die For: We have chosen to closely [identify](people-identity.md) with the matter. Often, we've integrated the concepts so closely that we require others to honor their standard on it. Every single person has at least a few of these.
 
 Conflicts aren't always fighting with others, but can be:
 
 - Fights and arguments arise when people see that it's the best way to accomplish their [purposes](purpose.md).
-- Sometimes, it's simply a disagreement or [misunderstanding](understanding.md).
+- Sometimes, it's simply a disagreement or [misunderstanding](mind-understanding.md).
 - While [respect for others](people-3_respect.md) is *always* appropriate, being "nice" and overly accommodating in a time of conflict will destroy you and those you care about.
 
 APPLICATION: When we use [technology](technology.md) to increase the amount of time we can [communicate](people-conversation.md), we often lose the [quality](values-quality.md) of each individual engagement compared to in-person. Since technology removes distance, it mixes us with various [cultures](people-culture.md) across the world, and our conflicts are guaranteed to become more frequent.
@@ -59,10 +59,10 @@ But, sometimes a peaceable resolution isn't possible. All we need is someone [pe
 Usually, we avoid conflicts from several base reasons:
 
 - We're [afraid](mind-feelings-fear.md) of the [power](power.md) others may wield against us.
-- We're honoring a [principle](values.md) we [believe](understanding-certainty.md) in
+- We're honoring a [principle](values.md) we [believe](mind-understanding-certainty.md) in
 - We legitimately [love](people-love.md) other people who may be affected in the situation.
 
-APPLICATION: [Our upbringing](people-family.md) often teaches us to avoid fights, but we must never back down from a fight over [principles](values.md) we [believe](understanding-certainty.md) in. Instead, we must learn to [negotiate](people-conflicts.md) instead.
+APPLICATION: [Our upbringing](people-family.md) often teaches us to avoid fights, but we must never back down from a fight over [principles](values.md) we [believe](mind-understanding-certainty.md) in. Instead, we must learn to [negotiate](people-conflicts.md) instead.
 
 ## Healthy conflicts
 
@@ -76,14 +76,14 @@ Healthy conflicts require both sides willing to change and compromise:
 
 Conflicts only become unhealthy when we don't properly [calculate](mind-decisions.md) the [risks](safety.md), make them needlessly, or don't manage them well.
 
-APPLICATION: Conflicts are healthy when managed correctly by everyone. Through them, we can [understand](understanding.md) others' [points of view](people-image-why.md), become more patient and [loving](people-love.md), and develop future [skills for good boundary-setting](people-conflicts.md).
+APPLICATION: Conflicts are healthy when managed correctly by everyone. Through them, we can [understand](mind-understanding.md) others' [points of view](people-image-why.md), become more patient and [loving](people-love.md), and develop future [skills for good boundary-setting](people-conflicts.md).
 
 ## Reactions to issues
 
 No matter how, our [disposition](people-personality.md) makes its own mix-and-match reaction to the conflict:
 
 - Opposition - animal fight reaction, often involving aggression or hostility against the disagreement.
-- Conformity/compliance - animal flight reaction, focusing on agreeing over [understanding](understanding.md) the disagreement.
+- Conformity/compliance - animal flight reaction, focusing on agreeing over [understanding](mind-understanding.md) the disagreement.
 - Sympathy - focusing on [feelings](mind-feelings.md) more than [reasoning](logic.md).
 - Questioning - focusing on [reasoning](logic.md) more than [feelings](mind-feelings.md).
 
@@ -96,17 +96,17 @@ Conflicts become severe when we run strictly off [feelings](mind-feelings.md):
 
 There are several reasons an argument will arise:
 
-1. One person is [unwilling](purpose.md) to [understand](understanding.md) the other's desires, at least as it pertains to them.
+1. One person is [unwilling](purpose.md) to [understand](mind-understanding.md) the other's desires, at least as it pertains to them.
 2. One person has run out of patience with the other, for any reason whatsoever.
 3. Someone is maliciously trying to [distort how things appear to others](people-image-distortion.md).
 
 ## The scope of a disagreement
 
-Not everyone disagrees on the same [values](values.md), even when they're in a [team](groups-small.md). There's a "depth" of disagreement based on how well someone [understands](understanding.md) the conflict:
+Not everyone disagrees on the same [values](values.md), even when they're in a [team](groups-small.md). There's a "depth" of disagreement based on how well someone [understands](mind-understanding.md) the conflict:
 
-1. Refuting the central idea: They can state their opponent's thoughts in their words and can give a [well-reasoned](understanding.md) explanation of what's wrong with the idea and why. This is the only way to win someone over and discover [the truth](reality.md), but requires tremendous patience.
+1. Refuting the central idea: They can state their opponent's thoughts in their words and can give a [well-reasoned](mind-understanding.md) explanation of what's wrong with the idea and why. This is the only way to win someone over and discover [the truth](reality.md), but requires tremendous patience.
 2. Refuting a non-central idea: They can quote their opponent's words and explain how that idea is wrong. They never address the *central* idea, and sometimes insert their ideas ("straw man"). This is often as far as most people get, especially on the internet.
-3. Counter-argument: They state the opposite of the argument, then defend it with [reasoning](understanding.md) and evidence. In this situation, they'll never [convince](understanding-certainty.md) the other person, but will allow observers to see an [alternate viewpoint](people-image-why.md).
+3. Counter-argument: They state the opposite of the argument, then defend it with [reasoning](mind-understanding.md) and evidence. In this situation, they'll never [convince](mind-understanding-certainty.md) the other person, but will allow observers to see an [alternate viewpoint](people-image-why.md).
 4. Contradiction: They state the opposite of the argument, but without any reasoning or evidence.
 5. Attacking tone: They redirect the focus to the speaker's choice of [language](language.md). At this point and beyond, they're focusing on [distorting image](people-image-distortion.md) more than [truth](reality.md) or [influencing](influence.md) anyone.
 6. Attacking the person: They redirect the focus to the speaker's [authority](people-image-why.md) ("ad hominem"). At this point, they're often [afraid](mind-feelings-fear.md) their opponent might be right.
@@ -120,7 +120,7 @@ The range of disagreement a person typically sits within will indicate plenty of
 2. Focusing on *any* ideas means they're concerned with [truth in general](reality.md) or like to [philosophize](philosophy.md).
 3. Making counter-arguments means they simply want to prove themselves right or prove their opponent wrong.
 4. Contradicting means they want to stop the other person from continuing in their dialogue.
-5. Attacking the tone means they [feel strongly](mind-feelings.md) against the information, but don't [understand](understanding.md) why.
+5. Attacking the tone means they [feel strongly](mind-feelings.md) against the information, but don't [understand](mind-understanding.md) why.
 6. Attacking a person means they are either [dysregulated](mind-awareness-dysregulation.md) or wish to [maintain an image](people-image-distortion.md).
 7. Blindly attacking means they feel they will lose something if they lose the argument.
 
@@ -137,20 +137,20 @@ There are only generally two constructive approaches to direct conflict manageme
 
 In failing both, you're likely to become [enslaved](people-slavery.md) in some form, since people won't believe you to be good or competent enough to have all your freedoms.
 
-Often, in most conflicts, there's a differing [understanding](understanding.md) of the [values](values.md) we express in [language](language.md), and the only solution is separating the values we [mean](purpose.md) versus the values we're [saying](results.md).
+Often, in most conflicts, there's a differing [understanding](mind-understanding.md) of the [values](values.md) we express in [language](language.md), and the only solution is separating the values we [mean](purpose.md) versus the values we're [saying](results.md).
 
-We tend to [express](language.md) our conflicts as if we're dogmatic about a subject, but more often than not we simply have a [popular belief](understanding-certainty.md) in one side of something (e.g., someone may only be 55% convinced of a subject they're screaming about).
+We tend to [express](language.md) our conflicts as if we're dogmatic about a subject, but more often than not we simply have a [popular belief](mind-understanding-certainty.md) in one side of something (e.g., someone may only be 55% convinced of a subject they're screaming about).
 
-When plenty of [power](power.md) is at stake or people are [breaking cultural norms](morality-taboo.md), most people are too [angry](mind-feelings-anger.md) to reliably separate the values other people intend versus what they're expressing, and direct their focus strictly toward *their* [understanding](understanding.md) of the problem.
+When plenty of [power](power.md) is at stake or people are [breaking cultural norms](morality-taboo.md), most people are too [angry](mind-feelings-anger.md) to reliably separate the values other people intend versus what they're expressing, and direct their focus strictly toward *their* [understanding](mind-understanding.md) of the problem.
 
 Thinking without making assumptions in a conflict *can* become [habitual](habits.md), but it requires tremendous restraint.
 
 Besides suspending judgment, defusing most conflicts require several additional skills:
 
-1. [Understand](understanding.md) exactly what that person [wants](purpose.md) more than they do.
+1. [Understand](mind-understanding.md) exactly what that person [wants](purpose.md) more than they do.
 2. [Logically](logic.md) dismantle every justification the opponent is using, including any [distortions](people-image-distortion.md) of the truth to appeal to feelings.
 3. [Creatively](mind-creativity.md) find a mutually acceptable [solution](https://adequate.life/fix/) beyond what everyone [sees](people-image-why.md) at the moment.
-4. Skillfully [influence](influence.md) them to see beyond their [convictions](understanding-certainty.md) to [understand](understanding.md) your perspective.
+4. Skillfully [influence](influence.md) them to see beyond their [convictions](mind-understanding-certainty.md) to [understand](mind-understanding.md) your perspective.
 5. Patiently avoid submitting to [anger](mind-feelings-anger.md) through all of it, which usually requires ignoring the need to be [important](influence.md).
 
 These skills are challenging to master, mostly because they *require* experience with difficult people to finesse them. Nobody likes pain, so the only qualified conflict-managers are either constantly seeking conflict, [grew up](people-family.md) around it, or have [worked professionally](jobs-specialization.md) around difficult people.
@@ -178,4 +178,4 @@ At the end of a conflict, there are only several legitimate things anyone can do
 
 Often, the last two ("third option" or mutual trade) can actually *intensify* a [friendship](people-friends-why.md) over time after a conflict.
 
-[Understanding](understanding.md) is the key to starting a healthy dialogue, but *everyone* involved must be willing to understand each other to permit a mutually [desirable](purpose.md) [result](results.md). In the absence of that, *someone* will leave unhappy with the arrangement.
+[Understanding](mind-understanding.md) is the key to starting a healthy dialogue, but *everyone* involved must be willing to understand each other to permit a mutually [desirable](purpose.md) [result](results.md). In the absence of that, *someone* will leave unhappy with the arrangement.

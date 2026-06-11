@@ -58,7 +58,10 @@ Never, ever reward bad behavior.
 - If you've relented and rewarded bad behavior, a child will learn they can get what they want if they persevere with enough bad behavior.
 - Most parents fail against the single-minded focus of a child's will, which is why [it needs a strong marriage](relationships-marriage.md), tons of love, and a community to consult for advice.
 
-Closely consider their motivations, and don't be afraid of a [direct conflict](people-conflicts.md) with them.
+Closely consider their motivations, and don't be afraid of a [direct conflict](people-conflicts.md) with them about those motivations.
+
+- Forcing them to say "I'm sorry" when they don't mean it is training them for [narcissistic abuse](hardship-abuse-narcissist-stages.md).
+- Making them do chores they don't want to do is training them for [passive-aggressive behavior](people-conflicts-bad.md).
 
 If you have a reward for them planned for the future, do *not* make it something you or other family members will enjoy as well (e.g., an amusement park).
 
@@ -73,7 +76,7 @@ No matter what, *always* give empathy:
 - Empathy also softens the blow for the uncomfortable rules and standards you'll be setting.
   - However, your empathy must come *before* the bad news or consequences, not after they're aware of it.
 - Very frequently, when they have to suffer the consequences of their actions, you should *only* show empathy.
-  - You'll often feel like a monster, but intervening with the consequences of their actions can frequently steal away a critical [life lesson](understanding.md) for them.
+  - You'll often feel like a monster, but intervening with the consequences of their actions can frequently steal away a critical [life lesson](mind-understanding.md) for them.
 
 Never, *ever* argue:
 

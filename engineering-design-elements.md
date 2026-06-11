@@ -49,7 +49,7 @@ Some colors in particular provide strange, counter-intuitive associations.
 
 ## The object's structure
 
-The structure should reinforce the way the user should [understand](understanding.md) what's important and what they should "do":
+The structure should reinforce the way the user should [understand](mind-understanding.md) what's important and what they should "do":
 
 - A visual hierarchy that makes people focus on the most important piece of content first, then move to the next most important, and so on. You should easily see that dominance if you squint or take your glasses off.
 - Make the "[call to action](marketing.md)" as clear and distinctive as possible compared to the rest of the product.

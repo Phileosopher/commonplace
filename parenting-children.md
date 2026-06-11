@@ -58,7 +58,7 @@ Each new child adds new dynamics to the family:
 - A [married couple](relationships-marriage.md) can easily divide out roles, but it's far more complicated with 1, 2, 3, etc. children as they grow and take on more roles.
 - With three or more children, parents' attention is often split so heavily that each child may not receive enough attention from their parents.
 
-Because young children have limits with their [understanding](understanding.md), adjust how you [speak](language-speaking-children.md) with them.
+Because young children have limits with their [understanding](mind-understanding.md), adjust how you [speak](language-speaking-children.md) with them.
 
 The best indicator of a healthy child is that they're playing:
 
@@ -96,7 +96,7 @@ Your child cares more about the approval and support of their guardians than *an
 
 - A child gains their sense of [identity](people-identity.md) strictly from how they imagine their parents see them.
 - They're constantly asking three questions throughout their entire upbringing and onward into adulthood:
-  1. "Dad, what do you [believe](understanding.md) about me?"
+  1. "Dad, what do you [believe](mind-understanding.md) about me?"
   2. "Dad, what do you [feel](mind-feelings.md) about me?"
   3. "Dad, what are your [hopes](mind-imagination.md) for me?"
 - A child is so hypersensitive to rejection that small amounts of inauthentic affection or neglect may scar them for life.

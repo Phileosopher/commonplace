@@ -1,11 +1,11 @@
 
 # What evil is
 
-We all easily [feel](mind-feelings.md) and [know](understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings-disgust.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
+We all easily [feel](mind-feelings.md) and [know](mind-understanding.md) evil when we see it, but it's [disgusting and uncomfortable](mind-feelings-disgust.md) to even [define](values.md) it. For that reason, we tend not to explore it further.
 
 Evil is discomforting to us, so we tend to [politicize](people-image-distortion.md) evil in others and abstract it to [groups](groups-large.md) we're not associated with, while at the same time dislike considering how our [decisions](mind-decisions.md) or groups may be evil.
 
-We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](understanding.md) if we spent a few seconds considering how someone could have [decided](mind-decisions.md) in a situation.
+We also like to behave as if others' evil were incomprehensible to us, even when we would *thoroughly* [understand](mind-understanding.md) if we spent a few seconds considering how someone could have [decided](mind-decisions.md) in a situation.
 
 Evil, however, does exist. Even to the most morally relativistic person, they'll still regard moral absolutes or things that encroach on their self-preservation as evil.
 
@@ -43,13 +43,13 @@ However, the absence of virtue *does* represent itself on a general spectrum by 
 
 ## Awareness and evil
 
-We [understand](understanding.md) many of our needs from birth and must be [taught](understanding.md) others', so everyone is born selfish. Selfishness merely requires *not* thinking about anyone else. This is technically evil, but [normative](people-culture.md) enough that we give plenty of grace for it.
+We [understand](mind-understanding.md) many of our needs from birth and must be [taught](mind-understanding.md) others', so everyone is born selfish. Selfishness merely requires *not* thinking about anyone else. This is technically evil, but [normative](people-culture.md) enough that we give plenty of grace for it.
 
-APPLICATION: Every child is born with the capacity to be evil, so society will *always* have a problem with evil as long as it keeps having children. The only way to change it is to reconstruct our entire [formation](humanity.md) from our conception before birth. All we can do is either [socially engineer](people-rules.md) [justice](morality-justice.md) to curb it, or inspire people through [faith](understanding-certainty.md) to [change](people-changes.md) for [something beyond themselves](morality.md).
+APPLICATION: Every child is born with the capacity to be evil, so society will *always* have a problem with evil as long as it keeps having children. The only way to change it is to reconstruct our entire [formation](humanity.md) from our conception before birth. All we can do is either [socially engineer](people-rules.md) [justice](morality-justice.md) to curb it, or inspire people through [faith](mind-understanding-certainty.md) to [change](people-changes.md) for [something beyond themselves](morality.md).
 
 As we [grow](maturity.md), continuing to care more about ourselves than others will develop that selfishness into evil. In that sense, everyone is born a little evil and must be trained against it by their [parents](people-family.md) by demonstrating how our [actions can affect others](results.md).
 
-Our adaptation toward evil starts *very* early on. Starting at about 6 months old, we start abusing others' [boundaries](people-boundaries-why.md). Some people may debate an infant's [understanding](understanding.md), but it's perfectly clear they don't [care about](people-love.md) anyone but themselves.
+Our adaptation toward evil starts *very* early on. Starting at about 6 months old, we start abusing others' [boundaries](people-boundaries-why.md). Some people may debate an infant's [understanding](mind-understanding.md), but it's perfectly clear they don't [care about](people-love.md) anyone but themselves.
 
 When we become [aware](mind-awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](people-image-distortion.md) further.
 
@@ -57,7 +57,7 @@ APPLICATION: People are sometimes [unaware](mind-awareness.md) of their evil, so
 
 APPLICATION: Evil people confronted about their evil often become more clever. It's not wise to address the nuances of evil unless you're aware how the information you give may help them become more dangerous if they don't [decide](mind-decisions.md) to [change](people-changes.md) for the better.
 
-Many people falsely believe evil decisions are products of stupidity. While evil is typically focused on short-term gain, self-interested and inconsiderate [decisions](mind-decisions.md) come through all possible scopes of [understanding](understanding.md) and breadth of time, and the most evil people in the world are also the most [intelligent](power.md).
+Many people falsely believe evil decisions are products of stupidity. While evil is typically focused on short-term gain, self-interested and inconsiderate [decisions](mind-decisions.md) come through all possible scopes of [understanding](mind-understanding.md) and breadth of time, and the most evil people in the world are also the most [intelligent](power.md).
 
 APPLICATION: Evil isn't wise, but intelligence can compensate for it, and some of the most evil people on the planet are so intelligent that they hide it well.
 
@@ -178,7 +178,7 @@ Every human is at least a little arrogant. The clearest sign is when we try to [
 
 Revenge is the desire for self-imposed equivalent [justice](morality-justice.md).
 
-However, since we have a limited [understanding](understanding.md) of others' [feelings](mind-feelings.md), especially while we feel wronged, we tend to overstate how bad we feel and understate how bad others feel.
+However, since we have a limited [understanding](mind-understanding.md) of others' [feelings](mind-feelings.md), especially while we feel wronged, we tend to overstate how bad we feel and understate how bad others feel.
 
 The product of vengeful thinking, therefore, is that we tend to hurt people *more* than they hurt us: "eye for an eye" becomes "face for an eye".
 
@@ -188,7 +188,7 @@ One variation of revenge is envy. However, instead of pure vengeance directed at
 
 Evil is a void and not an opposite, so there are *many* varieties of it, from an endless supply of distorted motivations.
 
-We often combine our evil with varieties of [virtue](morality.md) to create [powerful](power.md), [influential](influence.md) ideas. The most potent evils in the world were driven by people following what they interpreted as a [trend](people-trends.md) of goodness. We frequently justify it as "the greater good". Curiosity, for example, is a good thing that becomes bad when we're willing to violate others' [boundaries](people-boundaries-why.md) to [understand](understanding.md) what we want.
+We often combine our evil with varieties of [virtue](morality.md) to create [powerful](power.md), [influential](influence.md) ideas. The most potent evils in the world were driven by people following what they interpreted as a [trend](people-trends.md) of goodness. We frequently justify it as "the greater good". Curiosity, for example, is a good thing that becomes bad when we're willing to violate others' [boundaries](people-boundaries-why.md) to [understand](mind-understanding.md) what we want.
 
 One of the easiest ways we can mix in evil is by morally "balancing" ourselves. We'll frequently desire to do good things (and [feel](mind-feelings.md) good from it), but don't [do](results.md) anything to reflect our desires. Good [intentions](purpose.md) only make people good if we make efforts to perform it, and well-intended evil actions are still evil.
 

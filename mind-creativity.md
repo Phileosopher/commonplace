@@ -11,7 +11,7 @@ People often venerate creativity and imagine it requires talent, but [anyone can
 
 ## The essence of creativity
 
-[Our minds](understanding.md) are messy, so most creative endeavors (and the creative process) is messy:
+[Our minds](mind-understanding.md) are messy, so most creative endeavors (and the creative process) is messy:
 
 - Creative endeavors and our source of inspiration are [an inherent mystery](unknown.md).
 - Within the human mind, any sense of order is tailored and curated over numerous revisions.
@@ -39,7 +39,7 @@ We form new ideas in our mind with nearly the same neurological wiring as [build
 
 The very essence of an idea in our minds represents a new [value](values.md) for us. From the point we recognize it, we treat that value as a separate existence from everything else, even when it's a vague abstraction against an [unknown](unknown.md) setting.
 
-[Chaos](unknown.md) and constraint is crucial for creativity, so a perfectly [ordered](understanding-certainty.md) or wealthy society wouldn't permit it. However, a [perfect society](politics-perfectsociety.md) *would* have enough chaos to keep us [engaged](meaning.md), and the middle and upper-middle of most societies' [social classes](people-classes.md) are typically poor enough to have plenty of constraints to find [reasons](purpose.md) to be clever.
+[Chaos](unknown.md) and constraint is crucial for creativity, so a perfectly [ordered](mind-understanding-certainty.md) or wealthy society wouldn't permit it. However, a [perfect society](politics-perfectsociety.md) *would* have enough chaos to keep us [engaged](meaning.md), and the middle and upper-middle of most societies' [social classes](people-classes.md) are typically poor enough to have plenty of constraints to find [reasons](purpose.md) to be clever.
 
 The formation of most works regarded as "masterpieces" were simply cleverness mixed with constraints:
 
@@ -54,11 +54,11 @@ APPLICATION: If a work wasn't created from constraints, it was created from [new
 - Popular music in the 1970s has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980s experienced an explosion of new sounds and new styles.
 - In the early 2010s, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
-We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](understanding-certainty.md), even a little, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](mind-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](entrepreneur-why.md).
+We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](mind-understanding-certainty.md), even a little, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](mind-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](entrepreneur-why.md).
 
-Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
+Along with this inward mental experience, we can also [send](people-conversation.md) an inaccurate copy of that value to others. To do this well is the art of [influence](power-influence.md), and the experience has specifically [religious](religion.md) [patterns](symbols.md) incorporated into it. Since that second person has completely unrelated [specializations](jobs-specialization.md) and [understanding](mind-understanding.md), that person (or others beyond them) can often [create](creations.md) *more* than the person who had the idea in the first place.
 
-While the idea may [feel](mind-feelings.md) complete in our mind, it never really is due to the limits of [how we can understand things](understanding.md). Converting the idea into a [finished work](creations.md) is even more imcomplete due to the constraints of [physics](reality.md). Therefore, it's impossible to fully depict or express an abstracted form, and we must settle for "good enough".
+While the idea may [feel](mind-feelings.md) complete in our mind, it never really is due to the limits of [how we can understand things](mind-understanding.md). Converting the idea into a [finished work](creations.md) is even more imcomplete due to the constraints of [physics](reality.md). Therefore, it's impossible to fully depict or express an abstracted form, and we must settle for "good enough".
 
 APPLICATION: We can [foster creativity](mind-creativity-how.md) in ourselves by working to understand our problem alongside unexplored connections with that problem. The best way to form these connections is to possess as diverse a range of experience as humanly possible.
 
@@ -125,7 +125,7 @@ APPLICATION: The easiest way to create magnificent creations is to rapidly get a
 - Release version 1.0 or 0.8, depending on what you're making.
 - [Publish](language-writing.md) immediately.
 
-At this point, we're trying to honor all the [rules](people-rules.md) we [understand](understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
+At this point, we're trying to honor all the [rules](people-rules.md) we [understand](mind-understanding.md) about the thing. Often, what we make looks a *lot* like a bad imitation of someone else's work.
 
 Since we often feel confident enough about our ability, we'll usually [publish](creations.md) what we create and will feel familiar enough that we can continue building.
 
@@ -145,7 +145,7 @@ If the creator is [conceited](morality-evil.md) enough, they'll blame [society](
 
 Great creation takes a *lot* of rework to compensate for errors and flaws. Many people, however, delude themselves into thinking their original [results](results.md) were the product they were looking for.
 
-After [humbling](morality.md) ourselves to [understanding](understanding.md) how utterly unoriginal we all are, we'll also come to realize how little we've really mastered in our craft.
+After [humbling](morality.md) ourselves to [understanding](mind-understanding.md) how utterly unoriginal we all are, we'll also come to realize how little we've really mastered in our craft.
 
 From that point, we'll revisit the things we wrote off as "garbage" among other creators. We'll start seeing the purpose behind many of those things and transition from an obsession with building [original things](humanity.md) to building [beautiful things](values-quality.md).
 
@@ -188,7 +188,7 @@ APPLICATION: With enough patience and [desire](purpose.md), *anything* can be cr
 
 ## Why we act on ideas
 
-Everyone needs [power](power.md) to make something, so they usually calculate what it'll take to make it. The only exception to this are [immature people](maturity.md) (e.g., children) who have very little ability to [understand](understanding.md) how much [work](results.md) some [creations](creations.md) can take.
+Everyone needs [power](power.md) to make something, so they usually calculate what it'll take to make it. The only exception to this are [immature people](maturity.md) (e.g., children) who have very little ability to [understand](mind-understanding.md) how much [work](results.md) some [creations](creations.md) can take.
 
 Most of that work is unpleasant, so we try to find ways around it. We'll typically use [tools](technology.md) to speed up the unpleasant work. Sometimes, we're making tools to make *those* tools.
 

@@ -27,7 +27,9 @@ Dysregulation *does* have its time and place:
 - Extreme emotions, being in a rage, or a sense of urgency can frequently provoke others to act when they otherwise wouldn't.
 - While [radical focus](success-4_routine.md) is necessary at times, it's absolutely critical for us to re-regulate, *especially* when we must [make critical decisions](mind-decisions.md).
 
-Like any other [substance](addiction-substances.md), dysregulation has addictive properties, specifically in how our feelings can be [certain](understanding-certainty.md) while everything around us isn't.
+Like any other [substance](addiction-substances.md), dysregulation has addictive properties, specifically in how our feelings can be [certain](mind-understanding-certainty.md) while everything around us isn't.
+
+- [Men](people-gender.md), in particular, are susceptible to believing they are being perfectly [logical](logic.md) when, in fact, they have their mind set on a conviction they simply feel.
 
 While there are many ways to implement it, can only attain self-regulation through a specific procedure:
 
@@ -66,7 +68,7 @@ The process for cognitive restructuring is relatively straightforward:
 4. Reframe the distorted thought with a more balanced and realistic one.
    - This usually includes holding multiple perspectives at once without trying to merge them.
 
-We must train our minds to listen to principles, [values](values.md), and [morals](morality.md) more than [feelings](mind-feelings.md) or [intuition](understanding.md).
+We must train our minds to listen to principles, [values](values.md), and [morals](morality.md) more than [feelings](mind-feelings.md) or [intuition](mind-understanding.md).
 
 - The entire purpose is to act, not react, since reactions let other people control us.
 - We were designed to be [loving](people-love.md) toward others, and reactions always work against that design.

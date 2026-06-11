@@ -83,7 +83,7 @@ Consider the project's necessary inputs and outputs:
 - If it's a [creative](mind-creativity.md) project, the story points, outlines, and key ideas
 - If it's [marketing](marketing.md)-based, sales strategies and closed leads
 - If it's working with many people, required plans of action for specific events
-- If it uses technology, whether it needs [tech management](mgmt-2_projects-cs.md), [existing code](computers-software-versionctrl.md) or [documentation](language-writing-documentation.md)
+- If it uses technology, whether it needs tech management, [existing code](computers-software-versionctrl.md) or [documentation](language-writing-documentation.md)
 
 Make a thorough list of *all* the software, equipment, tools, and supplies everyone will possibly need for the work.
 
@@ -126,6 +126,12 @@ Start with the larger [goals](success-3_goals.md), then split them into smaller 
 6. Every year, estimate the next year.
    - The outline of next year's annual report are the previous year's objectives.
 
+One of the clearest distinctions between tech industry projects and most others comes through how technology magnifies labor:
+
+- Conceptually, an amateur can produce a certain amount per day, and an expert will produce a bit more.
+- On the other hand, a computer assigned to the task can often produce exponentially more than a human, but takes more time to prepare through [robotics design](computers-robotics.md) and [software development](computers-programming.md).
+- Therefore, a project will be difficult to track near the beginning (and likely won't produce *at all*), but will vastly outperform a human equivalent later on.
+
 ## F. Take extra time For human resources
 
 A team of people is more like a small community than any type of system.
@@ -137,6 +143,8 @@ The team's composition adapts further constraints and opportunities:
 
 - Look at everyone's roles and responsibilities, including what people believe about [who is *really* in charge](power-types.md).
 - There's usually a maximum [logistical](logistics.md) limit for how often each member is able to meet.
+
+While [Agile methodology](mgmt-2_projects-theories.md) was formed for the purpose of getting a team to synchronize plans as software was [versioned](computers-software-versionctrl.md), it can mean that weak leadership will make goalposts *constantly* move around on the project from absolutely *any* feedback on the team.
 
 If you've inherited a prior project and team, you're walking into a new culture and your presence will ripple through the entire team.
 

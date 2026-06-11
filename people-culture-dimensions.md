@@ -15,22 +15,22 @@ Context level - directly state vs. heavily imply:
 - High Context values implied, unstated [ideas](values.md), often in person and with fewer [words](language.md). Negative input is discouraged.
 - Low Context requires clear-mindedness, but High Context requires consideration.
 
-APPLICATION: A culture's [language](mind-awareness.md) and [beliefs](understanding-certainty.md) creates implicit meaning based on their collective [emotional](mind-feelings.md) associations:
+APPLICATION: A culture's [language](mind-awareness.md) and [beliefs](mind-understanding-certainty.md) creates implicit meaning based on their collective [emotional](mind-feelings.md) associations:
 
-- Self-referencing words heavily define a nation's [identity](people-identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](understanding-certainty.md)" to the Germans, "America" means "[dream](mind-imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
+- Self-referencing words heavily define a nation's [identity](people-identity.md): "French" means "[idea](values.md)" to the French, "German" means "[order](mind-understanding-certainty.md)" to the Germans, "America" means "[dream](mind-imagination.md)" to Americans, "Mexico" means "[family](people-family.md)" to Mexicans.
 - Europe
   - "Luxury" to the British translates as "detachment" because [sophistication](people-classes.md) implies rigidity and [emotional unavailability](mind-feelings.md).
   - "Money" becomes "unpleasant fact" in France because they see its scarcity as an impediment to their [purposes](purpose.md).
-  - "Shopping" is, to the French, "[learning](understanding.md) your culture" because they consider the experience to be [educational](education.md).
+  - "Shopping" is, to the French, "[learning](mind-understanding.md) your culture" because they consider the experience to be [educational](education.md).
   - "Luxury" to the French means "freedom" because it demonstrates the [image](people-image-why.md) of wealth.
-  - "[Education](education.md)" in Germany means "social status" because they consider [understanding](understanding.md) to be highly important.
+  - "[Education](education.md)" in Germany means "social status" because they consider [understanding](mind-understanding.md) to be highly important.
   - "America" in Europe creates multiple meanings: France sees it as "space travelers", Germany sees it as "John Wayne", England sees it as "unashamedly abundant".
 - China
   - Chinese cook food in multiple locations in the home, and mealtime takes priority over [conversation](people-conversation.md), even at [business](business.md) dinners.
 - India
   - Life for Indians is considered as a set of stages transitioning from [childhood](people-family.md) into [adult responsibilities](meaning.md), phasing into a self-reflective [philosophical](philosophy.md) stage, and terminating in a [retreat](legacy.md) from the world at large.
 - Japan
-  - "Perfection" translates to "purity" because the Japanese highly value [order](understanding-certainty.md).
+  - "Perfection" translates to "purity" because the Japanese highly value [order](mind-understanding-certainty.md).
   - "Food" translates to "perfection".
 - USA
   - American culture is preoccupied with "[doers](results.md)" more than [thinkers](philosophy.md).
@@ -50,9 +50,9 @@ Individualism/Collectivism - creating [the good life](people-goodlife.md) for on
 
 Masculinity/Femininity - [gender](people-gender.md)-irrespective focus on [results](results.md) or harmony:
 
-- Masculine/Task-Based/Data-Oriented focuses on results, [information](understanding.md), and achievement.
+- Masculine/Task-Based/Data-Oriented focuses on results, [information](mind-understanding.md), and achievement.
 - Feminine/Relationship-Based/[Dialogue](people-conversation.md)-Oriented focuses on harmony, context, and coexistence.
-- Masculine requires [ambition](purpose.md), but Feminine requires [understanding](understanding.md).
+- Masculine requires [ambition](purpose.md), but Feminine requires [understanding](mind-understanding.md).
 
 Power Distance - how much [power](power.md) comes from [status](people-image-why.md):
 
@@ -74,11 +74,11 @@ Time Orientation - how far into the past and future to [predict](mind-imaginatio
 
 Thought Mode - consider things with principles or applications:
 
-- Principles-First considers [philosophical ideas](philosophy.md) as the basis of [understanding](understanding.md).
-- Applications-First considers proven [examples](results.md) and techniques as the basis of [understanding](understanding.md).
-- Principles-First requires intelligence, but Applications-First requires [experience](understanding.md).
+- Principles-First considers [philosophical ideas](philosophy.md) as the basis of [understanding](mind-understanding.md).
+- Applications-First considers proven [examples](results.md) and techniques as the basis of [understanding](mind-understanding.md).
+- Principles-First requires intelligence, but Applications-First requires [experience](mind-understanding.md).
 
-Uncertainty Avoidance - the value of finding [certainty](understanding-certainty.md) in things:
+Uncertainty Avoidance - the value of finding [certainty](mind-understanding-certainty.md) in things:
 
 - Low Uncertainty Avoidance is fine with vagueness.
 - High Uncertainty Avoidance will tenaciously [seek](purpose.md) answers.
@@ -98,11 +98,11 @@ APPLICATION: Each cultural value builds specific life skills:
 - Low Context people keep things simple and High Context people learn to include kind language that hide ugly [realities](reality.md).
 - Individualistic people become highly effective at calculating a [decision's](mind-decisions.md) benefit for themselves, while Collectivist people can closely consider their effect on their [groups](groups-member.md).
 - Masculine people learn [strength](power.md), while Feminine people learn [grace](morality.md).
-- Low Power Distance people [understand](understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](understanding-certainty.md).
+- Low Power Distance people [understand](mind-understanding.md) [justice](morality-justice.md), while High Power Distance people understand [loyalty](mind-understanding-certainty.md).
 - Linear-Time people are [productive](success-3_goals.md), while Flexible-Time people [win friends](people-friends.md).
 - Indulgent people understand [happiness](mind-feelings-happiness.md), while Restrained people understand [sacrifice](purpose.md).
-- Principles-First people [get more things done](results.md), but Applications-First people [understand things better](understanding.md).
-- Low Uncertainty Avoidance people are [at peace](mind-trust.md) with life, and High Uncertainty Avoidance people [understand](understanding.md) more.
+- Principles-First people [get more things done](results.md), but Applications-First people [understand things better](mind-understanding.md).
+- Low Uncertainty Avoidance people are [at peace](mind-trust.md) with life, and High Uncertainty Avoidance people [understand](mind-understanding.md) more.
 - Low Risk Tolerance people maintain a [strong community](groups-small.md), and High Risk Tolerance people withstand [changes](people-changes.md) better.
 
 APPLICATION: Cultural differences arise as distinct, obvious [conflicts](people-boundaries-why.md):

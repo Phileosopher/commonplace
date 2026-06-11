@@ -7,7 +7,7 @@ All things in the universe, barring a [Creator](religion.md), has no inherent pu
 
 The existence of a self-determined purpose, usually involving survival, is a major indicator that something is a living being, though it can be [programmed](computers-ai-ml.md).
 
-One of the key differences between humans and any other animal is the sophistication of our purposes. We can make elaborate purposes based on [trust](understanding-certainty.md) in *very* long-term estimations of the future.
+One of the key differences between humans and any other animal is the sophistication of our purposes. We can make elaborate purposes based on [trust](mind-understanding-certainty.md) in *very* long-term estimations of the future.
 
 Our purposes make endless [decisions](mind-decisions.md) that slowly form into [habits](habits.md) we want, and those purposes are the clearest observable indicator of what a [human soul](humanity.md) is driven toward.
 
@@ -43,7 +43,7 @@ Every purpose can be composed of three non-exclusive activities:
 
 Our [personality](people-personality.md) heavily defines which of the three we prefer.
 
-As we [learn](understanding.md) and [mature](maturity.md), our purposes shift around. They start simple when we're babies, but by the time we can talk, we've outpaced the complexity of any other living being we've encountered.
+As we [learn](mind-understanding.md) and [mature](maturity.md), our purposes shift around. They start simple when we're babies, but by the time we can talk, we've outpaced the complexity of any other living being we've encountered.
 
 At our very beginning (i.e., infancy), we start with nothing but raw curiosity, which is itself a combination of several elements:
 
@@ -51,7 +51,7 @@ At our very beginning (i.e., infancy), we start with nothing but raw curiosity, 
 2. Desiring to know, which likely comes straight from our [soul](humanity.md)
 3. Finding things we can use so we *can* know
 
-Quickly, within moments, we start forming [habits](habits.md) of thought and action which create [certainty](understanding-certainty.md) (and, therefore, removing our curiosity). Those habits are the creative output of many elements including [raw feelings](mind-feelings.md), [reasoning](logic.md), and [environmental trauma](hardship-ptsd.md), which means they're a mess to untangle later. Pain, for example, can mix with pleasure in strange ways.
+Quickly, within moments, we start forming [habits](habits.md) of thought and action which create [certainty](mind-understanding-certainty.md) (and, therefore, removing our curiosity). Those habits are the creative output of many elements including [raw feelings](mind-feelings.md), [reasoning](logic.md), and [environmental trauma](hardship-ptsd.md), which means they're a mess to untangle later. Pain, for example, can mix with pleasure in strange ways.
 
 We tend to pursue our physical needs, then move to psychological ones. Often before we can talk, *all* the physiological needs are subsets of psychological needs, even though we're not [aware](mind-awareness.md) of the transition:
 
@@ -77,7 +77,7 @@ As we grow, our purposes accommodate others' purposes as well. The [power](power
 - [Professionals](jobs-specialization.md) may circumvent sharing laws, which may help their client to their detriment.
 - [Parenting](church-family.md) requires selflessness, and can persist even when parents are utterly selfless.
 
-When we're young, our lack of knowledge means we don't [understand](understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](mind-imagination.md) what we wish to [build](results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
+When we're young, our lack of knowledge means we don't [understand](mind-understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](mind-imagination.md) what we wish to [build](results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
 
 APPLICATION: [Young people](maturity.md) tend to explore, while older people tend to exploit.
 
@@ -89,7 +89,7 @@ One recursive form of purpose is to [self-motivate](success-5_persevering.md): s
 
 APPLICATION: To maintain and grow willpower, we must rest regularly, set small goals, and never give up.
 
-Revisiting our purposes is healthy self-maintenance, but people often avoid it because it's so [destabilizing](understanding-certainty.md) to our view of reality. If we wait too long, we end up facing it in huge destabilizing chunks instead of small increments (e.g., midlife crisis). We can practice it with [self-awareness techniques](mind-awareness.md), but mentally well people tend to naturally perform re-purposing without provocation.
+Revisiting our purposes is healthy self-maintenance, but people often avoid it because it's so [destabilizing](mind-understanding-certainty.md) to our view of reality. If we wait too long, we end up facing it in huge destabilizing chunks instead of small increments (e.g., midlife crisis). We can practice it with [self-awareness techniques](mind-awareness.md), but mentally well people tend to naturally perform re-purposing without provocation.
 
 APPLICATION: If you're not sure what you want, that's okay. Most people don't know what they want most of the time, even when [they look like they do](people-image-why.md).
 
@@ -97,7 +97,7 @@ APPLICATION: If you're not sure what you want, that's okay. Most people don't kn
 
 Anything we've deemed needs changing is a "problem". All problems are [values](values.md) in our [imagination](mind-imagination.md) driven by how we [feel](mind-feelings.md) regarding a comparison between what we [perceive](people-image-why.md) and what we [imagine](mind-imagination.md). All purposes in life string themselves into a never-ending sequence of problem-fixing.
 
-The severity of our desire to address problems comes from two factors: how much it affects us, and how much we [believe](understanding-certainty.md) we can [do something about it](results.md). Broadly, they fall into 4 classifications based on complexity:
+The severity of our desire to address problems comes from two factors: how much it affects us, and how much we [believe](mind-understanding-certainty.md) we can [do something about it](results.md). Broadly, they fall into 4 classifications based on complexity:
 
 1. Needs are things we *must* have, and correspond to [reality](reality.md).
 2. Interests are how we meet needs. If we [feel](mind-feelings.md) like having it, they're often what we "want" as well. Interests often combine multiple needs, and typically require [predicting](mind-imagination.md) what will happen.
@@ -122,7 +122,7 @@ Without a problem, we face utter, crippling existential crisis. No matter what, 
 
 APPLICATION: We're never entirely free of stress. Stress itself creates purpose, and [cycling](people-trends.md) between peace and [worthy](meaning.md) endeavors (caused by stress) is necessary for living a [good life](people-goodlife.md).
 
-Far too frequently, we fall into dysfunction when we don't [understand](understanding.md) the [consequences](results.md) of the solutions we use for our problems. We attempt to fix things, then notice they've changed but not improved, and keep using that approach because it's [familiar](habits.md).
+Far too frequently, we fall into dysfunction when we don't [understand](mind-understanding.md) the [consequences](results.md) of the solutions we use for our problems. We attempt to fix things, then notice they've changed but not improved, and keep using that approach because it's [familiar](habits.md).
 
 APPLICATION: Stubborn people are going to do what they're going to do. You can either be their antagonist and break them, or save the resources and let them do it. Occasionally, you can outsmart them, but there is no other option, not even for stubborn [children](maturity.md).
 
@@ -167,7 +167,7 @@ Sometimes, problems merge with other problems to become unbreakable through any 
 3. Nobody can agree on a decent set of [solutions](https://adequate.life/fix/) to address the problem.
 4. Nobody can agree on a clear, [measurable](math.md) "finish line" to track if the problem changed.
 
-APPLICATION: The "5 Why's" is a series of asking questions to get to a root cause, and it works because it links back through [certainties](understanding-certainty.md) to find an original cause. We must understand where we desire things to know how to best meet those desires.
+APPLICATION: The "5 Why's" is a series of asking questions to get to a root cause, and it works because it links back through [certainties](mind-understanding-certainty.md) to find an original cause. We must understand where we desire things to know how to best meet those desires.
 
 One of the most prevalent interpersonal human problems pertains to [freedom](morality-justice.md). We're all born with the near-unlimited ability to think and a broad ability to do, but must honor [social standards](people-boundaries-why.md) that create *many* [interpersonal conflicts](people-conflicts-why.md). Its [morality](morality.md) is determined by how and why we resolve it.
 

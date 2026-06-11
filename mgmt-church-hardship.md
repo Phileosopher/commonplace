@@ -107,7 +107,7 @@ Make God more important than things.
 Live by faith, not presumption.
 
 - Stay in touch with God's presence and power.
-- Observe how you're [faithful](understanding-certainty.md) with small things.
+- Observe how you're [faithful](mind-understanding-certainty.md) with small things.
   - God gives us the responsibility for small things before big things.
 - Give any [fears](mind-feelings-fear.md) about the [future](mind-imagination.md) to Him.
 - Ask God to supply your needs, even the smallest ones.
@@ -136,7 +136,7 @@ Little or no teaching makes the ministry theologically vague:
 Little or no prophecy/declaration shifts the focus to good feelings and happiness:
 
 - [Love](people-love.md) will only communicate as sentimental affection without considering others' long-term best interests.
-- The ministry will often [look](people-image-why.md) loving, but none of the members will [change](people-changes.md) much, even while they're increasing [understanding](understanding.md).
+- The ministry will often [look](people-image-why.md) loving, but none of the members will [change](people-changes.md) much, even while they're increasing [understanding](mind-understanding.md).
 - While the Church will do good works, the community won't notice because it lacks Christ's boldness and audacity.
 - Invite more bold speakers to teach the congregation and discuss controversial issues.
 

@@ -16,7 +16,7 @@ When sadness moves beyond the initial experience and becomes chronic, it becomes
 
 When a loss is significant enough, we *always* cycle through five stages of grief:
 
-1. Denial - [uncertainty](understanding-certainty.md) the thing happened.
+1. Denial - [uncertainty](mind-understanding-certainty.md) the thing happened.
    - It's a short-lived response that buffers us against the first wave of pain.
    - When severe enough, even the feelings tied to the pain can have separate waves of denial.
 2. [Anger](mind-feelings-anger.md) - certainty the thing happened but a feeling of [injustice](morality-justice.md) about it.
@@ -42,7 +42,7 @@ When a loss is very significant (e.g., a spouse dying), each stage can last for 
 
 Sometimes grief can transition from a state of sorrow to a comfortable mental state. When this happens, it has become an [addiction](addiction.md).
 
-The primary cure for grief, however, is to develop a full [understanding](understanding.md) that the suffering isn't permanent, and that the loss isn't as materially bad as the feelings make it appear.
+The primary cure for grief, however, is to develop a full [understanding](mind-understanding.md) that the suffering isn't permanent, and that the loss isn't as materially bad as the feelings make it appear.
 
 ## Sadness + injustice
 

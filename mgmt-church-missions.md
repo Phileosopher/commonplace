@@ -5,7 +5,7 @@ While *every* Christian is technically a missionary in their community, cross-cu
 
 Send cross-cultural missionaries as soon as you have the resources for it.
 
-- Equip that missionary with as much moral support, [information](understanding.md), [prayer support](spiritual-exercises-prayer.md), and [finances](money-1_why.md) as they need.
+- Equip that missionary with as much moral support, [information](mind-understanding.md), [prayer support](spiritual-exercises-prayer.md), and [finances](money-1_why.md) as they need.
 - Missionaries receive support proportionally to how much you share that ministry with the congregation.
 
 Focus on the most unreached portions of the world, not the most logistically convenient or affordable.
@@ -71,7 +71,7 @@ Healthy boundaries *require* outsiders never move beyond Co-Leading.
 
 Deeply involve the people group you're helping in every stage of assessing, designing, applying, tracking and evaluating systems:
 
-1. Fully [understand](understanding.md) their situation, capabilities, skills, and resources.
+1. Fully [understand](mind-understanding.md) their situation, capabilities, skills, and resources.
    - As much as possible, look for resources and solutions inside the individual or community.
    - God has given poor people and communities many possibilities, so don't treat them as [victims](hardship-ptsd.md) merely because [they have less](power.md) than you.
 2. After assessing everything available, make the appropriate response.

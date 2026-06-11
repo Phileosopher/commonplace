@@ -52,7 +52,7 @@ The Trinity involves three highly interconnected relationships that closely rese
 
 - [Love](people-love.md) always requires a giver and receiver, and the Trinity makes Him the only being that can love as both essence *and* action.
 
-With God being a Trinity, by [deduction](logic.md) each Person will have a different [perspective](people-image-why.md), each with at least a slightly different [understanding](understanding.md) of something (Matthew 24:36, John 6:38).
+With God being a Trinity, by [deduction](logic.md) each Person will have a different [perspective](people-image-why.md), each with at least a slightly different [understanding](mind-understanding.md) of something (Matthew 24:36, John 6:38).
 
 ## It does matter, however
 

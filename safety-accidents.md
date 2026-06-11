@@ -1,6 +1,15 @@
 
 # How to be prepared for various accidents
 
+As a general rule, all accidents come from four places:
+
+- Falling off something
+- Struck by something
+- Something caught in between two things
+- Electrical shock
+
+## Oncoming vehicle
+
 If you can't jump out of the way of a car about to hit you, jump upwards.
 
 ## Jumping from a fast-moving vehicle

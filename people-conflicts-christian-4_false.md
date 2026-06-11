@@ -40,7 +40,7 @@ Some heresies about Christian [rituals and practices](mgmt-church.md) create an 
   - Many females in so-called "[pastor](mgmt-church.md)" roles are actually preachers, or they straddle that line very closely.
 - Novationism - Christians who sacrifice to pagan gods or deny their faith, even under extreme pressure, are no longer Christians.
 
-One of the most prominent heresies stems from [magical thinking](understanding-certainty.md) about God's interactions with humanity:
+One of the most prominent heresies stems from [magical thinking](mind-understanding-certainty.md) about God's interactions with humanity:
 
 - Positive Thinking - Thoughts can form reality (either by willpower alone, or with God's unconditional endorsement).
   - We can't add to faith because it's a refined force given at God's discretion ([Romans 12:3](https://biblehub.com/romans/12-3.htm), [1 Peter 1:7](https://biblehub.com/1_peter/1-7.htm), [Ephesians 2:4-9](https://biblehub.com/ephesians/2.htm)).
@@ -85,7 +85,7 @@ One of the most prominent heresies stems from [magical thinking](understanding-c
   - At the farthest end, we don't need to maintain any [correct conduct](spiritual-exercises.md), to the point that *any* disliking of [sins](theology-sins.md) (e.g., LGBetc.) is unloving.
   - Popularity Gospel churches tend to focus on growing church numbers more than strong doctrine.
     - There's typically more [cultural shaming](morality-taboo.md) than [theological](theology.md) strength to most of their arguments.
-    - To that end, it's impossible to indicate *precisely* what they believe, except that [they're not very rigorous about it](understanding.md).
+    - To that end, it's impossible to indicate *precisely* what they believe, except that [they're not very rigorous about it](mind-understanding.md).
   - While they insist on having compassion and kindness (which *is* a product of love), they tend to disregard God's justice against sinners ([Romans 2:1-9](https://biblehub.com/romans/2.htm)).
 - Word of Faith - Spoken words can form reality (either by the words alone, or with God's empowerment).
   - This is also known as "magical thinking".
@@ -110,7 +110,7 @@ Heresies that take away part of the Bible:
 - Anti-Paulism - the Apostle Paul was a heretic and that the books he wrote are not a part of the Bible.
 - Liberalism - Scripture is not inerrant or infallible.
 - Neo-Orthodoxy - The Bible is God's revealed word as people read it, *not* through its original penmanship.
-- Standpoint Epistomology - A person's [understanding](understanding.md) of the Bible is directly proportional to how far down the [proletariat ladder](politics-leftism.md) they are.
+- Standpoint Epistomology - A person's [understanding](mind-understanding.md) of the Bible is directly proportional to how far down the [proletariat ladder](politics-leftism.md) they are.
 - When speaking in tongues is a direct measure of spirituality, [1 Corinthians](https://biblehub.com/1_corinthians/1.htm) doesn't apply anymore.
 - When the Bible only has explainable components, Revelation shouldn't be part of the Bible because we can't verify its author, or that it was already completely fulfilled with the Roman Empire.
 - When evidence is the only way to believe, Hebrews and Job aren't part of the Bible because they can't verify who wrote it (though the ideas echo completely in other Scriptures).

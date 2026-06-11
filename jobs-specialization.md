@@ -11,7 +11,7 @@ To make life more convenient for everyone, we [decide](mind-decisions.md) to do 
 
 - [Realistic](reality.md) people are excellent at performing tasks that create [results](results.md).
 - [Conventional](people-culture.md) people don't mind doing [repetitive](habits.md) tasks that must get done.
-- [Curious](purpose.md) people do things that give everyone a clearer [understanding](understanding.md).
+- [Curious](purpose.md) people do things that give everyone a clearer [understanding](mind-understanding.md).
 - [Creative](mind-creativity.md) people build things that draw more [quality](values-quality.md) into [creations](creations.md).
 - [Risk-prone](entrepreneur-why.md) people are willing to explore as-of-yet [unknown](unknown.md) things.
 - [Social](groups-small.md) people bring other people together as a "[connection point](https://gainedin.site/networks/)" with each other.
@@ -32,7 +32,7 @@ As we find [common interests](people-friends-why.md) with others with what we [d
 
 Since our [purposes](purpose.md) overlap, we converge them together and our roles naturally converge into a hierarchy, with everyone submitting to more [powerful](power.md) members.
 
-APPLICATION: Most [success](success-1_why.md) is defined by expertise in a specialization, which means that more success comes from knowing the right specialists than in [knowledge](understanding.md) or [performance](results.md).
+APPLICATION: Most [success](success-1_why.md) is defined by expertise in a specialization, which means that more success comes from knowing the right specialists than in [knowledge](mind-understanding.md) or [performance](results.md).
 
 APPLICATION: The fastest way to [appear](people-image-why.md) to be an expert is to get a few very specific people to [imagine](mind-imagination.md) you as an expert.
 
@@ -65,7 +65,7 @@ These specializations can apply to *any* [task](results.md) or [purpose](purpose
 - [Representative democracy](politics-systems.md) permits politicians to focus on managing [political power](power.md) to let everyone else do what they prefer.
 - Banks hold [money](power-types.md) to [lower risk](safety.md) for other people, though they technically pay rent for it (i.e., interest).
 - Labor unions are a [separate group entirely](groups-small.md) who speak to [corporate leadership](groups-large.md) as worker representatives.
-- Underwriters and notaries are third-party people who [verify](understanding-certainty.md) someone's [trustworthiness](mind-trust.md).
+- Underwriters and notaries are third-party people who [verify](mind-understanding-certainty.md) someone's [trustworthiness](mind-trust.md).
 - [Insurance](money-insurance.md) is the specialization of a [large group](groups-large.md) taking on [risks](safety.md) that individuals wouldn't be able to afford.
 
 Generally, the work becomes more [fun](fun.md), but also can become more tedious.
@@ -78,7 +78,7 @@ The [power](power.md) to accomplish for each of these niches grows proportionall
 
 APPLICATION: If someone is excellent at one thing (e.g., doctor), they're often awful at another (e.g., psychotherapy). Since people frequently [desire](purpose.md) to wield [power](power.md) beyond their niche, closely consider where they *do* have [power](power-types.md) before trusting them outright.
 
-APPLICATION: When we look back in [history](stories-storytellers.md), everyone was more broadly capable. They were *far* less educated on [specific knowledge](jobs-specialization.md), since they had to endure *way* more hardship with their lesser [technology](technology.md) and [education](understanding.md) opportunities.
+APPLICATION: When we look back in [history](stories-storytellers.md), everyone was more broadly capable. They were *far* less educated on [specific knowledge](jobs-specialization.md), since they had to endure *way* more hardship with their lesser [technology](technology.md) and [education](mind-understanding.md) opportunities.
 
 As specializations grow, they eventually create a separate [social class](people-classes.md) of individuals who essentially do nothing to actually [create](creations.md), but instead direct and communicate with others who actually create things. Irrespective of the [political environment](politics-systems.md), this [management](mgmt-1_why.md) class is always present in the hierarchy as a bureaucratic "ruling class".
 
@@ -90,7 +90,7 @@ APPLICATION: There will always be a less competent group of managers above every
 
 For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](people-culture.md) through everyone generally [identifying](people-identity.md) with their [tasks](results.md):
 
-- Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](understanding.md) its full meaning, and will recognize each other by that jargon.
+- Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](mind-understanding.md) its full meaning, and will recognize each other by that jargon.
 - [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
 - Lawyers are surrounded by [rules](people-rules.md) and [boundaries](people-boundaries-why.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
 - [Accountants](money-accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
@@ -109,7 +109,7 @@ The geography and climate has a *profound* impact on the [culture](people-cultur
 
 As those [groups](groups-small.md) became more aware of other regions' [trends](people-trends.md), people will choose to move farther away to attain their purposes. Thus, various cities and regions can become increasingly specialized as information and transportation [technology](technology.md) improves.
 
-APPLICATION: Population density profoundly changes how we behave and [see](understanding.md) the world. Often, this brings people to severe [culture](people-culture.md) shock when they move to a larger city or smaller town.
+APPLICATION: Population density profoundly changes how we behave and [see](mind-understanding.md) the world. Often, this brings people to severe [culture](people-culture.md) shock when they move to a larger city or smaller town.
 
 FURTHER APPLICATION: People cluster toward what they like, so some cities' majority specializations are profoundly different from others. Thus, opportunities in Dubai are far different from those in London, and the thriving industries of a city dictate more about them than their size or [popularity](power-influence.md).
 
@@ -122,7 +122,7 @@ Individuals who transition *inside* their specialized [groups](groups-large.md) 
 
 Some of the most [influential](power-influence.md) people to change a city have either had a [poor background](people-classes.md) or are [foreign](people-culture.md) to the region, though they'll often connect more with the people who they're [similar with](people-friends-why.md) than their immediate neighbors.
 
-APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](understanding-certainty.md) they don't [understand](understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](mind-imagination.md) they *do* understand.
+APPLICATION: People in ancient (and small) societies are the equivalent of a spoke in a wheel they [believe](mind-understanding-certainty.md) they don't [understand](mind-understanding.md), but people in modern (and large) societies are the equivalent of a cog in a vast automobile they [imagine](mind-imagination.md) they *do* understand.
 
 FURTHER APPLICATION: People who lead societies statistically come from smaller towns because they have to learn a wider range of skills to survive and have a stronger sense of [responsibility](meaning.md).
 
@@ -138,7 +138,7 @@ Every time society suffers a *massive* decline in population, [technology](techn
 
 A "developed" society is simply a society that has *extremely* high specializations compared to its neighbors. This is mostly a product of [technology](technology.md) and population, though the [political system](politics-systems.md) plays a massive role in how much [innovation](mind-creativity.md) continues that development. "Developed" societies tend to view other societies with either disdain or disregard, but they can always stand to [learn](education.md) from them.
 
-APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](people-trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](people-rules.md) and [building](results.md) civilization.
+APPLICATION: Institutions do not create civilization. They are a product of it. Highly [influential](power-influence.md) individuals [create](mind-creativity.md) [order](mind-understanding-certainty.md), which develops *into* institutions and enforced via [tradition](habits.md). Over time, the [trends](people-trends.md) across many years makes it [less effective](mgmt-badsystems.md), which opens the way for *another* individual to form an institution to do a better job at [enforcing](people-rules.md) and [building](results.md) civilization.
 
 ## Downsides
 
@@ -148,7 +148,7 @@ At a specific critical ratio, a majority group of technical idiots will cause an
 
 - The entire group will populate with individuals who are so specialized into each domain that they're effectively incapable of understanding the collective whole.
 - The number isn't precise, since the ratio becomes lower as the technological requirements of the group grow (which naturally always scales with better and faster [technologies](technology.md)).
-- The only way to postpone this inevitable collapse is to ensure everyone [understands](understanding.md) many unrelated things from their specified role.
+- The only way to postpone this inevitable collapse is to ensure everyone [understands](mind-understanding.md) many unrelated things from their specified role.
 
 In practice, however, the [purpose](purpose.md) of most specialized groups will be transplanted to others who learn all aspects of that domain out of antagonism against the group becoming a [bad system](mgmt-badsystems.md) (e.g., when it becomes a long-standing anticompetitive [monopoly](politics-monopolies.md)).
 

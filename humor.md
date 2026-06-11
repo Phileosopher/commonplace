@@ -25,18 +25,18 @@ It can come through various forms:
 - Self-deprecation: humor at the expense of the creator of it
 - Dark humor: includes [death](hardship-death.md) in some form
 
-Humor is *highly* contextual for the simple reason that it requires an [emotional](mind-feelings.md) connection to something [familiar](understanding.md).
+Humor is *highly* contextual for the simple reason that it requires an [emotional](mind-feelings.md) connection to something [familiar](mind-understanding.md).
 
 Humor is similar to [horror](mind-feelings-fear.md) in that it defies [reality](reality.md). However, while horror directs us further into the [unknown](unknown.md) or toward [severe hardship](hardship-ptsd.md), humor simply defies our [expectations](mind-imagination.md) in every direction, *including* our expectations of the unknown or severe hardship.
 
-APPLICATION: Humor is all about breaking the [rules](people-rules.md). To that end, every funny person has an intimate [understanding](understanding.md) of the rules enough to [feel](mind-feelings.md) the limits of what is [taboo](morality-taboo.md) and [unethical](morality.md).
+APPLICATION: Humor is all about breaking the [rules](people-rules.md). To that end, every funny person has an intimate [understanding](mind-understanding.md) of the rules enough to [feel](mind-feelings.md) the limits of what is [taboo](morality-taboo.md) and [unethical](morality.md).
 
 APPLICATION: Any effort by leadership to impose [rules](people-rules.md) against humor is guaranteed to backfire, simply because all forms of order generate more of the [unknown](unknown.md).
 
 The mechanism to create humor requires a very specific skill of performing several tasks in sequence:
 
 1. Mentally assemble an [imaginary model](people-image-why.md) of the experience.
-2. Detect any discrepancies in all the [possible interpretations](understanding.md) of the experience. This particular step requires *severe* [awareness](mind-awareness.md) that only comes through pushing past any [trauma](hardship-ptsd.md) or [fear](mind-feelings-fear.md).
+2. Detect any discrepancies in all the [possible interpretations](mind-understanding.md) of the experience. This particular step requires *severe* [awareness](mind-awareness.md) that only comes through pushing past any [trauma](hardship-ptsd.md) or [fear](mind-feelings-fear.md).
 3. Remove any uninteresting perspectives from that set of experiences to only leave the discrepancies and their relationships.
 4. Add [artistic flair](mind-creativity.md) to those discrepancies to distort those relationships even further.
 
@@ -56,7 +56,7 @@ Most humor involves playing with details within [language](language.md):
 - Removing details also adds a type of context that draws in from its environment (e.g., a response to "where did you go" being "I went to that place we went to one time.")
 - In professional comedy, these details are *both* added and removed at the same time (e.g., "My job involves doing labor at a perfectly legitimate business.")
 
-Often, when a [trope](https://tvtropes.org/) is used frequently enough, people become savvy enough to [predict](mind-imagination.md) it. At that point, a humorist *must* invert the trope and do something else unexpected. Naturally, as [understanding](understanding.md) scales, most funny things become less funny.
+Often, when a [trope](https://tvtropes.org/) is used frequently enough, people become savvy enough to [predict](mind-imagination.md) it. At that point, a humorist *must* invert the trope and do something else unexpected. Naturally, as [understanding](mind-understanding.md) scales, most funny things become less funny.
 
 Humor always has the same components that form into a [story](stories-why.md):
 
@@ -66,7 +66,7 @@ Humor always has the same components that form into a [story](stories-why.md):
 
 Every funny idea has at least two of six dimensions:
 
-1. Familiar - something someone has previously [experienced](understanding.md)
+1. Familiar - something someone has previously [experienced](mind-understanding.md)
    - This varies wildly across people.
    - The more familiar, the less you need other dimensions.
 2. Cute - someone weak and lovable
@@ -130,4 +130,4 @@ APPLICATION: Humor is necessary for [the good life](people-goodlife.md) because 
 
 APPLICATION: To dismantle a [centralized power structure](groups-large.md), learn to be funny. Many [wars](people-conflicts-war-why.md) have been fought over, in part, giving people [the right to laugh](people-boundaries-why.md) at their leadership.
 
-By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](people-image-why.md) of [reality](reality.md).
+By understanding humor, we can understand the social commentary that hides behind it, which is a key part of gaining [wisdom](mind-understanding.md). Taking comedians seriously is living in a profoundly simple and audacious [image](people-image-why.md) of [reality](reality.md).

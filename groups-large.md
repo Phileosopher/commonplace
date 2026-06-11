@@ -39,16 +39,16 @@ APPLICATION: An executive needs *many* specific background elements that allow t
 - Avoid living in culturally homogenous metro areas (e.g., Houston, Washington DC, Madrid).
 - Gain a slight advantage by being [male](people-gender.md).
 
-APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
+APPLICATION: Each person has unique [feelings](mind-feelings.md) and [opinions](mind-understanding.md), so a group's purpose doesn't necessarily resonate with each person. However, each group promotes a set of [values](values.md), and every member has at least some association with at least some of those values.
 
 As groups become progressively larger, top-ranking people will become dramatically more [powerful](power.md) than low-ranking ones to create a [class divide](people-classes.md). To prevent too much [in-fighting](people-conflicts-war-why.md), the people at the top will naturally convey an [image](people-image-why.md) that dilutes how much power they legitimately have:
 
 - Leaders will have others introduce them before they speak.
-- [Knowledge](understanding.md) experts will use [language](language.md) to imply they're [uncertain](understanding-certainty.md).
+- [Knowledge](mind-understanding.md) experts will use [language](language.md) to imply they're [uncertain](mind-understanding-certainty.md).
 - Multimillionaires will wear working-class clothing or avoid showing their wealth.
 - [Religious leaders](religion.md) will feign humility (e.g., "I'm the worst of sinners").
 
-APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](mind-decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](people-image-why.md), often with nearby assistants performing [research](understanding.md) for them.
+APPLICATION: The CEO of McDonald's has more in common with the CEO of Ford than the service workers of McDonald's. A CEO's job is the same in both: [decide](mind-decisions.md) with several layers of abstraction from any [work](results.md) done the public can [see](people-image-why.md), often with nearby assistants performing [research](mind-understanding.md) for them.
 
 APPLICATION: Most large organizations create homogenous experiences to promote a shared [image](people-image-why.md) and value system. This will usually knock off some personality from the [formerly small group](groups-small.md), but will also permit it to grow indefinitely.
 
@@ -92,7 +92,7 @@ When the scale becomes enormous (i.e., surpassing thousands), every large group 
 
 Large groups are far more risk-averse than [small groups](groups-small.md), since they have so much more [power](power.md) to lose and so much more easily. They're also susceptible to [trust](mind-trust.md) *other* large groups more, since they often depend so heavily on them for their large-scale resource needs.
 
-To gather more [understanding](understanding.md) or [certainty](understanding-certainty.md), most large systems give [formalized tests](education.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](mind-trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
+To gather more [understanding](mind-understanding.md) or [certainty](mind-understanding-certainty.md), most large systems give [formalized tests](education.md). While these tests *can* clarify, they represent tremendous [power](power.md) to the members, who will immediately find ways to cheat on the test. Thus, while leaders often [trust](mind-trust.md) the tests, they're one of the quickest ways to make a [dysfunctional organization](mgmt-badsystems.md) if everyone knows what they're used for.
 
 ## Hierarchy
 
@@ -161,7 +161,7 @@ The [traditions](habits.md) that the subcultures make pile together over time. I
 
 APPLICATION: There are only two ways to make large-scale changes in a large group:
 
-1. Sacrifice your [reputation](people-image-why.md) and [influence](power-influence.md) in a spectacular public display in the hopes of influencing others toward your [beliefs](understanding-certainty.md) after you're gone.
+1. Sacrifice your [reputation](people-image-why.md) and [influence](power-influence.md) in a spectacular public display in the hopes of influencing others toward your [beliefs](mind-understanding-certainty.md) after you're gone.
 2. Find like-minded people and break off with them as an [entirely separate group](groups-small.md), which is only possible if you have the [power](power.md) to do it (or the [creativity](mind-creativity.md) to find a way).
 
 ## Social Engineering
@@ -215,9 +215,9 @@ Every single [result](results.md) of an organization is [created](creations.md) 
 Like individual [human purposes](purpose.md), large groups are always concerned with growing when they're not facing a [challenge](people-conflicts-why.md) to their existing [power](power.md). They tend to grow their power both outward and upward:
 
 - Outward growth comes through absorbing other groups and people, often with [large-scale conflicts](people-conflicts-war-why.md). If uncontested by other groups, it becomes an [empire or monopoly](politics-monopolies.md).
-- Upward growth comes through increasing the organization's [knowledge](understanding.md) and [technologies](technology.md). This often comes through [formalized training](education.md) and expanding individuals' roles into broader group responsibilities.
+- Upward growth comes through increasing the organization's [knowledge](mind-understanding.md) and [technologies](technology.md). This often comes through [formalized training](education.md) and expanding individuals' roles into broader group responsibilities.
 
-The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](understanding.md) everything that happens or [might happen](mind-imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](mind-decisions.md) they make.
+The best [analysis](logic.md) in the world can't calculate all the variables of a large group, since it's impossible to [grasp](mind-understanding.md) everything that happens or [might happen](mind-imagination.md) at any slice of time. Thus, the group will always create [statistical outliers](math.md) that don't match the group's [purpose](purpose.md), regardless of *what* [decision](mind-decisions.md) they make.
 
 While it's impossible to track how a group will respond, there are a few conditions to more easily track changes:
 
@@ -234,7 +234,7 @@ APPLICATION: [Gossip travels quickly](stories-storytellers.md), so an organizati
 
 However, with very few exceptions, the members who engage in most intergroup conflicts float through a unique sequence:
 
-1. They sincerely [believe](understanding-certainty.md) they can dramatically [resolve some issues](https://adequate.life/fix/) within the group.
+1. They sincerely [believe](mind-understanding-certainty.md) they can dramatically [resolve some issues](https://adequate.life/fix/) within the group.
 2. They'll make bold actions (e.g., [communicating](people-conversation.md), [building](creations.md)) to transform that group for the better.
 3. To survive in the group, they'll eventually need to compete with other members of the group, so they'll compromise their message.
 4. If they don't become one of the leadership or give up, the group's leadership will eventually eject them as a [pariah/heretic](morality-taboo.md) or will outright kill them.
@@ -251,4 +251,4 @@ Some of them will perform noble achievements in response to the challenge, but m
 
 However, if a large group *doesn't* have a purpose outside itself via competition, it'll start getting restless and destroy things.
 
-In short, large groups must always be [acting](results.md) toward a fixed [purpose](purpose.md) they [believe](understanding-certainty.md) they can perform without outside help, or they will descend into [chaos](unknown.md) and destroy or disband.
+In short, large groups must always be [acting](results.md) toward a fixed [purpose](purpose.md) they [believe](mind-understanding-certainty.md) they can perform without outside help, or they will descend into [chaos](unknown.md) and destroy or disband.

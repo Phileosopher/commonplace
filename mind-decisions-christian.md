@@ -24,7 +24,7 @@ B. Let God sanctify us:
 
 C. Let God fill us with the Holy Spirit:
 
-- Live by the power of the Holy Spirit, not [feelings](mind-feelings.md) or [knowledge](understanding.md)
+- Live by the power of the Holy Spirit, not [feelings](mind-feelings.md) or [knowledge](mind-understanding.md)
   - [Galatians 5:16-25](https://biblehub.com/galatians/5.htm)
   - [1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)
   - [Ephesians 5:17](https://biblehub.com/ephesians/5-17.htm)

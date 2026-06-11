@@ -231,7 +231,7 @@ Finally, expose yourself (or them) to pain that draws out the situation:
 
 Self-hatred is when we take life's natural stressors *very* personally:
 
-- If you've [learned](understanding.md) from it and legitimately changed, it's not part of you anymore.
+- If you've [learned](mind-understanding.md) from it and legitimately changed, it's not part of you anymore.
 - Most people may have trouble forgiving you and moving on, but you *can't* let that affect you.
 - If you want to commit suicide, you simply want to stop suffering and would be happy to take [*any* other option](mind-feelings-happiness-stress.md).
 

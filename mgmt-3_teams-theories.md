@@ -8,7 +8,7 @@ The model breaks apart and independently analyzes aspects of an organization:
 - Strategy - [purposes](purpose.md) and how the organization gets to them.
 - Structure - agreed-upon organizational order.
 - Systems - informal [habits](habits.md) the group has adopted.
-- Shared Values - shared group [beliefs](understanding-certainty.md).
+- Shared Values - shared group [beliefs](mind-understanding-certainty.md).
 - Style - the [culture](people-culture.md) behind everyone acting.
 - Staff - the specific members themselves and their roles.
 - Skills - qualified [specializations](jobs-specialization.md) of the members.

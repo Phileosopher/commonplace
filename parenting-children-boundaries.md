@@ -1,6 +1,18 @@
 
 # The boundaries that need setting with children
 
+Many times, they are hyperactive because they need an outlet for their energy.
+
+- If they can get the energy out in about 3 minutes, they can usually stay well-behaved for at least 20.
+- Use [Freddish](language-speaking-children.md) to tell them it's time to get ready for something.
+- Have them practice 3-minute activators:
+  - Bear crawls all over the room (going under tables, over cushions, etc.)
+  - Spinning like washing machines (fast and slow, left and right)
+  - Pushing the wall to make it stronger
+  - Marching like robots with big arm swings (left and right, high and low)
+  - Animal walks to their seat (slow and fast, finishing with a slow animal)
+- After 2-3 days of consistent movement, there will be far less fidgeting, calling out, and restlessness.
+
 ## As much as possible, always give them choices
 
 Even when making [rules](parenting-children-boundaries-rules.md), only give them choices that fit your value system.

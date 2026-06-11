@@ -327,7 +327,7 @@ Discover how to improve your marketability:
 - Make a website or put your portfolio online.
 - Find volunteering and internship opportunities.
 - Do whatever an employer could find attractive, but stay focused on your career.
-- A new job needs change, so you must be [teachable](understanding.md).
+- A new job needs change, so you must be [teachable](mind-understanding.md).
 
 Calculate the [minimum income you need](money-3_budget.md) to maintain your lifestyle.
 

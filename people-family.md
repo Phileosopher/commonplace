@@ -3,7 +3,7 @@
 
 There are very few things we have absolutely *zero* indirect control over about [ourselves](people-identity.md). But, beyond most of our physical attributes and where we were born, our family ties are one of the few we're stuck with.
 
-All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](mind-decisions.md) based on [expectations](mind-imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](understanding.md) the world, as well as most of our [social skills](people-boundaries.md).
+All aspects of [group](groups-small.md) dynamics are adaptations off our first [responses](mind-decisions.md) based on [expectations](mind-imagination.md) from the people who originally [raised us](parenting-children.md). They gave us the first context for [understanding](mind-understanding.md) the world, as well as most of our [social skills](people-boundaries.md).
 
 Since we spend more time with them, we're more closely familiar with our family's [habits](habits.md) and [customs](people-culture.md) than anyone else's. Unless the dynamics are particularly [dysfunctional](parenting-children-bad.md), we tend to [favor](people-friends-why.md) those relationships more than non-family.
 
@@ -41,12 +41,12 @@ However, the man's role is far more nuanced and critical.
 The role of a parent is to give [everything a child needs to succeed](parenting-children-needs.md):
 
 - A [tradition](people-culture.md) and [legacy](legacy.md) worth [aspiring](purpose.md) toward.
-- [Understanding](understanding.md) of [reality](reality.md), to the best of our knowledge.
+- [Understanding](mind-understanding.md) of [reality](reality.md), to the best of our knowledge.
 - [Trends](people-trends.md) and [values](values.md) the parents [identify](people-identity.md) with.
 
 In everyone's brain stem, they have a unique switch that *should* activate when they first become a father or mother. At that point, their role shifts from simply focusing on themselves to a [desire](purpose.md) to preserve the well-being of a helpless new person.
 
-This switch, when activated, can provoke a broader form of [love](people-love.md) for all of humanity if fostered correctly. The new [understanding](understanding.md) [empowers](power.md) and encourages people to associate more strongly in [other groups](groups-small.md) and helps them connect their role to [society at large](groups-large.md), and is a huge reason why [conscientiousness](people-personality.md) hikes upward as people [age](maturity.md).
+This switch, when activated, can provoke a broader form of [love](people-love.md) for all of humanity if fostered correctly. The new [understanding](mind-understanding.md) [empowers](power.md) and encourages people to associate more strongly in [other groups](groups-small.md) and helps them connect their role to [society at large](groups-large.md), and is a huge reason why [conscientiousness](people-personality.md) hikes upward as people [age](maturity.md).
 
 The "parent switch" isn't specific or guaranteed with biological parents. If someone is particularly [selfish](morality-evil.md), that switch won't engage. If, for whatever reason, someone else takes on a parental role (e.g., extended family, adoption) that switch can still activate.
 
@@ -62,7 +62,7 @@ We end up always representing two roles in our minds: a father and a mother. The
 Children have their own initial [culture](people-culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](mind-decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:
 
 - Conflict Style: They confront every issue directly and need [guidance](education.md) on how to be more subtle and [tactful](people-rules.md).
-- Context: Completely low-context and absolutely oblivious to any implications until they [learn](understanding.md).
+- Context: Completely low-context and absolutely oblivious to any implications until they [learn](mind-understanding.md).
 - Individualism/Collectivism: living entirely for themselves, since they're not even *[aware](mind-awareness.md)* of others.
 - Masculinity/Femininity: Focused strictly on their [purposes](purpose.md), which is implicitly *very* masculine.
 - Power Distance: Depending on their [willpower](purpose.md) and how they [feel](mind-feelings.md) about their parents, they can often be *more* powerful than their parents where the only way for parents to compensate is through a well-communicated and well-enforced [disciplinary standard](people-rules.md).
@@ -74,7 +74,7 @@ Children have their own initial [culture](people-culture.md), [preferences](huma
 With respect to [human universals](humanity-universals.md), children are the same as their parents with a few notable exceptions:
 
 1. Children are very preoccupied with their parents' approval, so they don't need [friends](people-friends-why.md) *nearly* as much as they need reliable and [loving](people-love.md) authority figures.
-2. Children have very little context to [self-learn](education.md), so they need more clarification than any adult would to [understand](understanding.md) anything. But, they also have an *insane* rate of learning, so they don't need as much repetition as an adult.
+2. Children have very little context to [self-learn](education.md), so they need more clarification than any adult would to [understand](mind-understanding.md) anything. But, they also have an *insane* rate of learning, so they don't need as much repetition as an adult.
 3. Children have an "invisible authority" in their minds, which is a [reproduction](people-image-why.md) of how they [envision](mind-imagination.md) their parents will [respond](results.md). Later, they'll remix that role with other authority figures of various types to form their own self-discipline.
 
 APPLICATION: What a parent expects is often different from what a child *thinks* the parent expects. Having frequent [conversations](people-conversation.md) about it can alleviate that discrepancy, but it's [not perfect](people-image-why.md).
@@ -83,15 +83,15 @@ Most of the challenges regarding parenting aren't because the tasks are particul
 
 ## Growing children
 
-As children grow, they tend to find a middle-ground [culture](people-culture.md) between what their parents [teach](understanding.md) and what they [prefer](humanity.md), often transitioning toward their preference as they [become teenagers](maturity.md) and [understand](understanding.md) the world a little more clearly.
+As children grow, they tend to find a middle-ground [culture](people-culture.md) between what their parents [teach](mind-understanding.md) and what they [prefer](humanity.md), often transitioning toward their preference as they [become teenagers](maturity.md) and [understand](mind-understanding.md) the world a little more clearly.
 
 Once those children have [come of age](maturity.md), they are now co-members of their [groups](groups-small.md). Barring *major* dysfunction somewhere, they'll [identify](people-identity.md) with that group alongside other groups that fit their [purposes](purpose.md), and their personal style of [culture](people-culture.md) blurs together with the collective.
 
-[Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](mind-decisions.md) for themselves. Most parents don't [trust](mind-trust.md) their children will [believe](understanding-certainty.md) them when they should, and those children [know](understanding.md) they're distrusted and respond to it.
+[Success](success-1_why.md) is a self-determined matter, so a child still must make [choices](mind-decisions.md) for themselves. Most parents don't [trust](mind-trust.md) their children will [believe](mind-understanding-certainty.md) them when they should, and those children [know](mind-understanding.md) they're distrusted and respond to it.
 
 Maintaining a [baby](parenting-babies.md), then a [child](parenting-children.md), then a [teenager](parenting-3_teenagers.md), is difficult. Every child experiences at least some failures from their parents due to [human nature](humanity.md), and some of them will become [severely traumatized](hardship-ptsd.md) by it.
 
-Parents often inaccurately [communicate](people-conversation.md) expectations to their children. Often, a parent will merely [prefer](humanity.md) something from their child, but the child will [believe](understanding-certainty.md) the parent insists on it. Other times, the child won't even get the hint at all!
+Parents often inaccurately [communicate](people-conversation.md) expectations to their children. Often, a parent will merely [prefer](humanity.md) something from their child, but the child will [believe](mind-understanding-certainty.md) the parent insists on it. Other times, the child won't even get the hint at all!
 
 In the absence of a sufficient parent, children tend to find their parental roles in other places. In early childhood, it'll be other authority figures (e.g., [teachers](education.md), police). Starting in adolescence, they'll look for it in peers (e.g., gangs, clubs). On occasion, highly intelligent or antisocial children can find it in [principles](values.md).
 
@@ -145,7 +145,7 @@ A child's model from how they were parented determines how they process the rest
 Most parents don't want to admit failure, so they tend to blame other things for the way they failed:
 
 - Popular [media](creations.md)
-- School [educators](understanding.md)
+- School [educators](mind-understanding.md)
 - Police officers or [government officials](groups-large.md)
 - Their child's [friends](people-friends-why.md)
 
@@ -169,7 +169,7 @@ Due to the general increased burden of responsibility upon males, the destructio
 
 ### Education
 
-Most motivations to protect a child's [understanding](understanding.md) are through [fear](mind-feelings-fear.md). While those fears often move around, it's usually to maintain [peace](people-conflicts-why.md) or protect their [innocence](morality-justice.md).
+Most motivations to protect a child's [understanding](mind-understanding.md) are through [fear](mind-feelings-fear.md). While those fears often move around, it's usually to maintain [peace](people-conflicts-why.md) or protect their [innocence](morality-justice.md).
 
 APPLICATION: Every parent wishes for their child to succeed, but that parent should deeply consider *why* they want something for their child. It might not be for the child's benefit, and often comes more from [fear](mind-feelings-fear.md) than a legitimately good desire.
 

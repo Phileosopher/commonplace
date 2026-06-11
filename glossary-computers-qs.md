@@ -241,7 +241,7 @@ Social media - internet-based content designed for generally public consumption
 
 Socket - when an IP address is linked to a port
 
-Soft skill - a broad [understanding](understanding.md) of something, not particularly useful in itself but widely applicable
+Soft skill - a broad [understanding](mind-understanding.md) of something, not particularly useful in itself but widely applicable
 
 Software - computer code that programmers entered into a computer, completely written [intellectual property](legal-ip.md) compared to hardware
 
