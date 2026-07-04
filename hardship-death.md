@@ -101,6 +101,12 @@ Keep checking up on them and be available, especially during the depression stag
 
 ## A loved one dying or near death
 
+When choosing a nursing/hospice home, be careful who you choose.
+
+- Since the victim either has dementia or depends on the healthcare facility, only 1 in 24 cases are ever reported.
+- The number one indicator of an abusive location is that they give scheduled visitation times.
+  - If the facilities have nothing to hide, they'll have no problem with anyone visiting.
+
 Record and cherish your times with them:
 
 - Make video and audio recordings of them, and interview them about their life experiences.

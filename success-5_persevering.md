@@ -543,4 +543,9 @@ Your first "big break" will come when someone wants to take a risk on what you'v
 - Don't be afraid to both give help to others and ask for help.
 - Learn to hold people in high regard and build relationships wherever you go.
 
+It's often better to *not* succeed before age 25:
+
+- Historically, people who are young and attain success often think they're invincible or that many rules in life don't apply to them.
+- Failing as a younger person often gives insight over [what is most meaningful to pursue](meaning.md).
+
 Once you've succeeded, your greatest challenge is [staying successful](success-6_humility.md).

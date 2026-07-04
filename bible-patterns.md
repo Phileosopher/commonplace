@@ -7,12 +7,15 @@ This may or may not represent truth, but it *certainly* demonstrates consistency
 
 While many of them may simply connect to [human universals](humanity-universals.md), many others are absolutely alien to almost any other [mythological pattern](stories-myths.md).
 
-These patterns, very likely, were God's work in binding the entire [Bible](theology-bible.md) together as a canon. It's reasonable to assume that any debates about non-canon or pseudo-canon books (e.g., Tobit) are caused by whether the people who canonize the Bible are observing particular patterns or not.
+These patterns, very likely, were God's work in binding the entire [Bible](theology-bible.md) together as a canon. It's reasonable to assume that any debates about [non-canon or pseudo-canon books](bible-noncanon.md) (e.g., Tobit) involve whether the people who canonize the Bible are observing particular patterns or not.
+
+- Ancient Jewish tradition actually used "Soferim", which was the count of specific words, phrases, numbers, paragraphs, and letter instances. Those counters allowed the scribes to precisely replicate everything the exact same as the original.
 
 Absolutely *everything* in the Bible is centered on [God](theology-god.md) in some way:
 
 - In the Hebrew Scriptures, it's the God of Israel.
 - In the New Testament, it's Jesus, who is represented as [God coming to earth and dying](https://theologos.site/gospel/).
+- Therefore, the "hidden meanings" by some people (e.g., Kabbalists with Gematria) will often derive false numerical patterns to justify pre-existing beliefs.
 
 ## Physical Representations
 

@@ -30,6 +30,18 @@ Motor-homes are all-in-one, which has benefits and drawbacks.
 
 ## Preparing an RV
 
+.
+If it's a travel trailer, make sure you can tow it before you buy it.
+
+- Install a sway bar on your vehicle to prevent it from rocking when turning.
+- Install a brake controller to regulate the trailer's braking relative to your vehicle.
+- Check the specs for your vehicle's Gross Vehicle Weight Rating (GVWR).
+- Also pay attention to the Gross Axle Weight Rating (GAWR), Gross Trailer Weight (GTW), and Tongue Weight (TW).
+  - The tongue weight, in particular, should be about 10-15% of the gross trailer weight, for the vehicle to be easy to control.
+- In general, give extra room to allow extra weight, since you'll be hauling more than the RV when you first buy it.
+
+If it's a motorhome, have a mechanic inspect the vehicle to ensure there aren't any [issues](https://adequate.life/fix/) waiting to happen.
+
 Stay mindful of *all* the various systems included in an RV:
 
 - Appliances:
@@ -53,13 +65,7 @@ Stay mindful of *all* the various systems included in an RV:
 
 Even after you've purchased an RV, you'll need to get some things prepared before first using it.
 
-- If it's a travel trailer:
-  - Install a sway bar on your vehicle to prevent it from rocking when turning.
-  - Install a brake controller to regulate the trailer's braking relative to your vehicle.
-- If it's a motorhome:
-  - Have a mechanic inspect the vehicle to ensure there aren't any [issues](https://adequate.life/fix/) waiting to happen.
-
-If you're buying it new, you may want to add features that weren't in the RV.
+You may want to add features that weren't in the RV.
 
 - Often, the dealer will assist in installing, or will at least give guidance on how to do it.
 

@@ -62,6 +62,11 @@ Each [change](people-changes.md) management system either tends to prioritize ke
 
 ## Growth
 
+The only way a large organization can grow is by having large-minded systems around it.
+
+- If a large group tries to absorb the smaller one, the experience will be akin to [slavery](people-slavery.md) and morale will suffer.
+- Further, each effort to absorb another smaller group must have that smaller group above a specific threshold of usefulness, or the larger organization is wasting its time.
+
 As an organization grows, its competence scales proportionally but its failures scale exponentially.
 
 - As the group gets larger, it eventually becomes a [bad system](mgmt-badsystems.md) unless you completely decentralize management to separate, near-autonomous entities.

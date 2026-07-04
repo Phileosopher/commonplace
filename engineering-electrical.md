@@ -172,6 +172,7 @@ Cables are, therefore, composed of several components:
         - This is necessary especially for aluminum to increase conductivity
 - Insulation, which protects the conductor
 - Insulation shield, which protects the insulation
+  - There is also often a drain wire to ground the shielding
 - Further, higher-voltage like Medium Voltage (MV) and High Voltage (HV) have a few more protective elements:
   - Strand shield for each individual strand (in multi-cable)
   - Semi-conductor, which help dissipate high voltage that can build up across the line

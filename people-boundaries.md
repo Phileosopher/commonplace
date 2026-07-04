@@ -180,6 +180,13 @@ The Golden Rule is "treat others the way you want to be treated", but empathy is
 - Never say clichés like "everything happens for a reason" or "this will pass".
 - Only expect from others what they can legitimately do.
 
+Honoring others' feelings can be challenging sometimes because so many aspects of [culture](people-culture.md) can normalize unkind behavior.
+
+- Don't give people advice or "another perspective" when they're emotionally sharing with you, since they'll be ready to hear your advice *after* they've processed their feelings.
+  - If you're trying to give advice, a generalized platitude, or some spiritual teaching after someone is vulnerable, it's because *you* can't comfortably sit with your own feelings as you experience their [hardship](hardship.md).
+- Avoid giving sympathy unless you actually mean it, since other people can tell you're being inauthentic.
+- Don't share a [hardship](hardship.md) that's worse than someone else's since it draws attention away from their suffering.
+
 Giving empathy isn't difficult to understand, but is uncomfortably open:
 
 - We must use feelings to interpret what other people are thinking instead of merely our expectations, which becomes more difficult the more that we know.

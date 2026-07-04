@@ -6,7 +6,9 @@ Music resonates heavily in the [emotional](mind-feelings.md) parts of our brain.
 - Even across [cultures](people-culture.md), everyone ends up developing an approximate similarity with music's evoked experiences.
 - Most of the differences originate in specificity (e.g., a fast-paced culture may adopt a faster tempo, but it will be the same relative mood for slower versus faster tempo).
 
-And, these domains can be subdivided
+Music is repetitive, which makes it [appeal to our bias](mind-bias.md) and develop familiarity with it.
+
+- In particular, the mere exposure effect makes us like rhythms that are more uniform (e.g., drum machine vs. natural drums).
 
 ## Notation versus concept
 
@@ -71,3 +73,14 @@ It's worth noting that even a numerically precise measurement like BPM is still 
 - Many cultures likely shift this tempo upward as population density increases (e.g., Asian pop music can often be easily 140 BPM).
 - The common denominator is that there's a [mathematical pattern](math-important.md) present.
   - Many DJs naturally implement the tone shift by intentionally using fractional BPMs, and will augment a song to create that situation (e.g., coming off a 120 BPM song would feel odd with a 100 BPM song, so they'll down-tempo a 100 BPM song and then speed it up as the song starts).
+
+## Instruments
+
+The most "neutral" instrument is the piano-based arrangement, where each note is represented by only one key.
+
+- By contrast, most musical instruments either represent a smaller range (e.g., harmonica) or duplicate ranges (e.g., guitar).
+
+The human voice has [defined ranges](art-media-music-vocalranges.jpg).
+
+- This is more of an approximate, since each person's vocal range will vary depending on their training and specific mechanics of their throat and lungs.
+- However, people also naturally have two individual ranges to choose from.

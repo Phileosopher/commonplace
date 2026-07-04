@@ -243,7 +243,29 @@ However, do *not* pair thought-heavy tasks with anything else.
 - To [study or understand information](mind-memory.md), do *nothing* else at the same time, with the possible exception of listening to quiet instrumental music.
 - If the information is boring, but you still must work with it, feel free to doodle or something else mindless, but only to focus more easily on the boring information.
 
-## 5: Create intentionally
+## 5: Validate the information
+
+There's a lot of information accused of being "fake news".
+
+- Depending on [personality](people-personality.md), we will [bias](mind-bias.md) more toward or against an institution alleging something is false.
+- To combat this, we must counter our bias by acknowledging we don't have the full story.
+
+Focus on the information that works *against* the bulk of the information.
+
+- Many times, 80% of the given content on a subject will align the same way, and the minority goes a different direction.
+- Carefully focus on the outliers for a more reliable analysis.
+
+The contrasting views are a type of "mental triangulation".
+
+- [Triangulation](math-geotrig.md) is using multiple points and their relationships to find the other points and relationships.
+- Extreme views create natural [thought experiments](philosophy-paradoxes.md) that can do basically the same thing.
+
+Unfortunately, we are often given the conclusions and effects, but must dig deeper to find the premises and causes.
+
+- Everyone can agree an event happened, but it's more difficult to define its connections with other events.
+- Further, the more [political](politics-conservativeliberal.md) something is, the more likely there will be missing or bad information mixed in.
+
+## 6: Create intentionally
 
 There's tremendous wisdom in the slowness of speech, and the framing of society created an inherent slowness of speech (or writing) when someone was trying to present information to large groups of people. It usually took weeks or months to propagate a discovery:
 
@@ -281,7 +303,7 @@ If you're recommending media to others, your journey will *not* be theirs:
 
 *All* of this requires a specific type of humility: that [nothing is truly new](people-trends.md). You're not that important; nobody across the billions of people here has truly gone beyond what others ([or even God](religion.md)) have thought before.
 
-## 6: Carefully manage the information
+## 7: Carefully manage the information
 
 Now that we're not drowning in too much information or socially poisoning our environment with regurgitated information, we must manage the higher-quality remainder.
 
@@ -344,7 +366,7 @@ Clearly demarcating exclusive categories (where it can *only* be one or the othe
 
 Once something seeps into our subconscious, we start developing [principles](people-rules.md), which slowly form rules for how we should live. Over time, a type of "[mental automation](habits.md)" frees us up to better work with information.
 
-## 7: Focus on known-good trends
+## 8: Focus on known-good trends
 
 [New trends](people-trends.md) have a distinct pattern:
 
@@ -364,7 +386,7 @@ So, this opens up a new set of constraints:
 
 Some people may disagree with these ideas, but everything is a remix, and nothing is truly "new". If they would rather not admit that connection, they're probably a [technical idiot](https://gainedin.site/idiot/) and could stand to [integrate their shadow](people-personality.md) a bit.
 
-## 8: Stay practical
+## 9: Stay practical
 
 Naturally, even old things can become nearly useless. Horsemanship skills, for example, no longer apply as much as [automotive driving and maintenance skills](autos.md).
 
@@ -374,7 +396,7 @@ So, with any object, we must be able to sufficiently answer what hypothetical (y
 
 1. If you can't answer it, shove it out of your workspace and deal with it later.
 2. If you *can* answer it but can't act on it, shove it out of your workspace, but [organize](organization.md) it somehow.
-3. If you can both answer it and act on it, make sure it's [a reasonable goal](success-3_goals.md), then get to it.
+3. When you can both answer it and act on it, make sure it's [a reasonable goal](success-3_goals.md), then get to it.
 
 For myself, I also have a few dogmatic rules to avoid unproductive information:
 
@@ -415,13 +437,15 @@ The fixes can be distilled into a set of questions, which can be asked for every
    - If there is, get rid of portions of the inbox.
 4. Am I learning fast enough with the information?
    - If it's too slow, aim for better-quality consumption.
-5. Does my information add value to anyone else?
+5. What parts of this information are true?
+   - If it's not clear, carefully [analyze](logic.md) everything.
+6. Does my information add value to anyone else?
    - If not, stop providing information for a while until your subconscious reloads.
-6. Have I sufficiently [organized](organization.md) my information?
+7. Have I sufficiently [organized](organization.md) my information?
    - If not, turn off the valve, stop creating for a while, and get to organizing.
-7. Am I consuming cutting-edge stuff?
+8. Am I consuming cutting-edge stuff?
    - If so, stick it on a calendar and consume it later.
-8. How do I plan to use this information?
+9. How do I plan to use this information?
    - Use it, organize it, or shove it out of your workspace.
 
 This information blast [trend](people-trends.md) will only slow down when two conditions happen at once:

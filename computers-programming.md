@@ -170,7 +170,7 @@ Instead of working through conditional scripts, the language may perform a serie
 
 The functional language approach involves many tiny reproducible functions that have many types of uses, then stacking them together to build more complex programs.
 
-- This doesn't mean that *only* functional languages have [functions](math-functions-cs.md), but that the function is the primitive for how the language is designed.
+- This doesn't mean that *only* functional languages have [functions](math-formulas.md), but that the function is the primitive for how the language is designed.
 - Haskell and Scala are functional languages.
 
 ### Object-oriented languages

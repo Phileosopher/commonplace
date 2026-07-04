@@ -25,7 +25,7 @@ One noteworthy reality is that there's no hard "box" around any of the languages
 
 There are a *lot* of people who work with computers. The beauty of [specialization](jobs-specialization.md) is that someone can build something, then someone else can use it later. Unlike real-life tools, code doesn't really cost money to reproduce.
 
-Thus, many programmers have created "libraries" of [functions](math-functions-cs.md). By using a library, programmers can create vastly complex things with only a few lines of code. It's basically a big block of commands that you can add to your language that save the time of building the functions yourself.
+Thus, many programmers have created "libraries" of [functions](math-formulas.md). By using a library, programmers can create vastly complex things with only a few lines of code. It's basically a big block of commands that you can add to your language that save the time of building the functions yourself.
 
 For any popular language, most typical things have *many* libraries to choose from. Unless you have an edge case, there's probably a library for that.
 

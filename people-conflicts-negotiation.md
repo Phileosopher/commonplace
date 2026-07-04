@@ -45,17 +45,22 @@ Healthy negotiations cycle through the same stages:
 
 Contrary to popular opinion, great negotiation represents something closer to modern psychotherapy than a haggling session.
 
-Before you approach them, make a good guess of what everyone wants:
+- Many dealmakers use subtle tactics to get the other person to subconsciously respond:
+  - Getting them to request something (e.g., give a cigar, then hide all the ashtrays to require them to ask for one later).
+  - Getting them to give something (e.g., placing something within other person's reach, then asking them to grab it).
+  - Making them comfortable, which lowers their guard.
+  - Making them feel scarcity, which makes them more likely to concede.
+- You can get farther by staying aware of these tactics.
+  - However, there are legitimate [ethical](morality.md) risks of using them yourself.
 
-You must know what you desire and fear.
+Before you approach them, make a good guess of what everyone wants.
 
-- Rank each desire on a scale from 1 to 10.
-- Expect to sacrifice your lowest-priority desires to get what you want.
-
-You should somewhat reliably guess *their* desires.
-
-- People often begin conflicts with a clear purpose of what *they* want, but don't understand what the other person wants.
-- If you don't know, consider how they [feel](mind-feelings.md) and [what they want from life](humanity-universals.md).
+- You must know what you desire and fear.
+  - Rank each desire on a scale from 1 to 10.
+  - Expect to sacrifice your lowest-priority desires to get what you want.
+- You should somewhat reliably guess *their* desires.
+  - People often begin conflicts with a clear purpose of what *they* want, but don't understand what the other person wants.
+  - If you don't know, consider how they [feel](mind-feelings.md) and [what they want from life](humanity-universals.md).
 
 People tend to impose their background onto others.
 

@@ -44,6 +44,10 @@ To store the information, it should be in ciphertext, where the password is inac
 
 However, user decisions are the best solution for password integrity. Every user should routinely change all their passwords, *especially* admin accounts.
 
+Be careful with any 4-digit PIN.
+
+- It may seem like a 1 in 10,000 chance for a hacker, but [there are ways to deduce it down](computers-cysec-authentication-pin.jpg).
+
 ### Possession: Checksum
 
 The simplest version of verifying a downloaded file is to cross-reference its download with its [checksum](encryption.md), which is usually released on the website as a small separate download.

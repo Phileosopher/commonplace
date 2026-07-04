@@ -172,7 +172,7 @@ Try to improve your gut bacteria:
   - Sour pickles
   - Tempeh
   - Yogurt (e.g., kefir, coconut yogurt)
-- Prebiotic supplements give more opportunity for healthy microbes to thrive:
+- Further, prebiotic supplements give more opportunity for healthy microbes to thrive:
   - Asparagus
   - Bananas
   - Cabbage

@@ -49,4 +49,5 @@ One unique quality of psychopathy versus narcissism is in the effectiveness of t
 - Narcissistic charm is usually off-putting and creepy to most people.
   - Their behavior often fits into the uncanny valley (similar to [robotics](computers-robotics.md)) and people can feel it even if they don't consciously see it.
 - However, psychopathic charm is very engaging and captivates other people.
+  - One of the reasons is because the narcissist lives in denial that they're [lying](people-lying.md) or [manipulating](people-conflicts-narcissist.md), while the psychopath finds a type of pleasure in it.
 - Popular culture can sometimes capture this, but for the sake of [storytelling](stories-storytellers.md) will often add creepier behavior that steps away from psychopathy into malignant narcissism.

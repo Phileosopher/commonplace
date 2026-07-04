@@ -45,7 +45,9 @@ However, mismanaged stress will destroy our [emotions](mind-feelings.md):
 7. There is, however, latent stress within us, even after that redirection.
 8. We must [release](hardship-ptsd-release.md) that stress through some form of [meditation](mind-awareness-meditation.md), or it will sink into our subconscious as [dysregulation](mind-awareness-dysregulation.md).
 9. Enough dysregulation creates all negative chronic feelings (e.g., [anxiety](mind-feelings-fear.md), [depression](hardship-depression.md), [bitterness](mind-feelings-anger.md)).
+   - This is because the stress hormone cortisol is expanding neural connections within the amygdala and shrinking hippocampus activity.
 10. When left alone, these chronic feelings will create compulsive behaviors that eventually destroy us, often through [anger](mind-feelings-anger.md).
+   - The cortisol can actually shrink the brain's size over time.
 
 To find peace and rest, we must remove unnecessary stress.
 

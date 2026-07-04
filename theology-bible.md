@@ -21,9 +21,7 @@ However, we need Scripture or divine inspiration to understand God at all.
 - To even *start* observing God, we must observe the [philosophical realities](philosophy.md) behind those creations.
 - We're easily [deceived](people-lying.md) and distracted, so we require a guide for context, especially since [God isn't the only force at work](spiritual-warfare-tricks.md).
 
-The Bible was that compilation, and [there are multiple ways to prove that fact](bible-proof.md)
-
-The Bible is God's word.
+The Bible was that compilation, and [there are multiple ways to prove that it's God's word](bible-proof.md)
 
 - The *spirit* of Scripture transcends language barriers and travels across our [human universals](humanity-universals.md) to deliver a message.
 - While we can infer broad concepts through God, we need Scripture to see the truths He wants us to see.
@@ -36,6 +34,22 @@ God designed Scripture to be taken on *multiple* levels:
 4. Broadly: a depiction of God's design for mankind and the universe (see Teleology)
 
 We must not only trust Scripture, but also that God has been faithful in preserving it, and [there is hard evidence of that](https://theologos.site/freak/).
+
+As far as *interpreting* Scripture, there are multiple ways to understand where the knowledge itself is contained (i.e., "hermeneutics"):
+
+1. Author-centered: the information came from the reasoning of each book's original human creators.
+   - It constrains the meaning to how the author saw it and refer to actual events that happened.
+   - However, it can also mean the information is constrained as well to that context, with little or no modern application.
+2. Text-centered: the meaning is contained within the text itself and constructed independently of its context.
+   - It sees the book as artistry and meaning within the language itself.
+   - However, it can descend into an abstraction away from anything personally relevant if it's treated as an abstraction without implementation.
+3. Reader-centered: the information in the text is a mirror to the reader for self-reflection.
+   - It uses the contexts of the reader's [culture](people-culture.md) to find wisdom.
+   - It also can become pure subjectivity if the information is seen as relative to each reader.
+4. Hybrid: some sort of combination of all three.
+   - It is true that the original culture needs to be considered in interpreting the text.
+   - It is also true that the text itself contains truth and art that can't be found anywhere else.
+   - And, it's true that the Scripture is a mirror to each individual reader and their context.
 
 ## The Bible is a compilation
 

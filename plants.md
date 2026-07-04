@@ -25,6 +25,12 @@ Growing plants runs through a relatively predictable yearly pattern:
 6. Sow the winter seeds, mill and can the harvest.
 7. Reap the winter food, [repair](https://adequate.life/fix/) all the tools and equipment during winter.
 
+To take advantage of your space, don't use rows.
+
+- Packing the crops closely together means they will consume less resources like water while giving the same yield.
+  - You can often create much smaller patterns that allow walkways while also maximizing space.
+- Further, by combining differing plants together, you can ensure they won't compete over *precisely* the same mineral resources in the soil.
+
 ## Selecting
 
 Consider what's in the soil.

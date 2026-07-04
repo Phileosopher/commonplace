@@ -114,3 +114,16 @@ When consuming something particularly dense with information, you *must* try to 
 
 - The medium of text is limited, so a writer often has to use many words to describe a view that would be straightforward in a more visual or practical example.
 - Before making a judgment on the content (and adding new information from your views) skim through *all* the creator's works that could associate or contrast the idea you're consuming.
+
+## Data
+
+The graphs are often misleading.
+
+- Look for any indicators that don't start with zero.
+- Examine all percentages closely, since a percent is the representation of two numbers.
+- Watch for vague or misleading labels.
+
+Examine where the data is sourced.
+
+- There is often more favorable data captured by organizations than data that doesn't reflect what the organization wants.
+- Watch for clear [trends](people-trends.md) the data overlooks (e.g., population growth, [technology](technology.md) trends).

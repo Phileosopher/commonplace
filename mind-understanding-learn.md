@@ -65,3 +65,15 @@ APPLICATION: The quality of our learning comes through the forms of questions we
 When we face complex questions, we tend to answer a far more simple question in place of it. Unfortunately, we tend to also not notice that we made that switch, and we'll commit a simple answer to memory about an inherently complicated idea.
 
 Often, the best way to understand something is to [write it down](language-writing.md). It forces us to use the [logic-based](logic.md) portions of our minds to [order](mind-understanding-certainty.md) our thoughts.
+
+APPLICATION: Altogether, this means that there is a "learning pyramid" that defines how well we'll learn information:
+
+- Passive methods:
+  - Lecture (~5%)
+  - Reading (~10%)
+  - Audio/Visual (~20%)
+  - Demonstration (~30%)
+- Active methods:
+  - Group discussion (~50%)
+  - Practicing by doing (~75%)
+  - [Teaching others](education-how.md) (~90%)

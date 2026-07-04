@@ -139,6 +139,7 @@ Embezzlement: abusing someone's [trust](mind-trust.md) to take something
 
 Fraud: lying or unethical behavior to gain something (subversive)
 
+- Affinity fraud: pretending to be a legitimate institution
 - Credit card fraud: stealing someone's payment card and pretending to be that person
 - Insurance fraud: lying about [an insurance claim](money-insurance.md)
 - Government fraud: fraud against the government

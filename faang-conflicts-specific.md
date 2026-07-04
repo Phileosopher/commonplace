@@ -63,6 +63,10 @@ Twitter/X vs. Government
 
 - [2021-01 Twitter has shut down President Donald Trump](https://web.archive.org/web/20210108232715/https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588).
 
+Comcast vs. Government
+
+- [2023-02 Comcast gave false map data to the FCC, then only admitted it when the media outlet Ars Technica got involved](https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/).
+
 ## Antagonism vs. Facebook/Meta
 
 Government vs. Facebook/Meta

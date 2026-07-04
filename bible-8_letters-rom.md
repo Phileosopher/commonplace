@@ -21,7 +21,7 @@
     - this is because the design of our existence is composed of worshiping God more than anything else, and all other endeavors are worthless
 - they become fools while claiming wisdom (22)
   - instead of worshiping God in all things, they replace Him with something created *by* God (23)
-- God then gives them over to their heart's desires (24)
+- The consequence of this is that God gives them over to their heart's desires (24)
   - those desires are to impurity and to dishonor their bodies with each other
 - summary of the idea (25)
 - this is why God gave them over to dishonorable passions
@@ -32,6 +32,9 @@
   - envy, murder, strife, deceit, hostility
   gossips, slanderers, haters of God, insolent, arrogant, boastful, contrivers of all types of evil, disobedient to parents, senseless, covenant-breakers, heartless, ruthless
 - they know God's righteous command that they deserve death, but go farther than doing them by also approving everyone else who does them
+- This means that sexual depravity cannot be healed or helped by directly addressing it.
+  - Instead, everyone has to change their preference directly. It's not about behavior modification as much as actually desiring something different from their comfort.
+    - Femininity is discomforting to the masculine, and masculinity is discomforting to the feminine. It was meant this way to enhance the connection and closeness, but requires a certain [trust in the unknown](unknown.md) for it to work.
 
 ## 2
 

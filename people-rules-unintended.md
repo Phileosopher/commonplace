@@ -139,6 +139,13 @@ Toxin labeling (1986)
 3. People don't want to pay heavy fines if it's convenient to not do so.
 4. The list had 235 chemicals at first, but became over 900. Every type of company placed warning labels irrespective of the severity of risk or degree of exposure. This included bars, schools, golf clubs, toasters, lamps, children's toys, potato chips, pancakes, and trees. This meant Californians learned to ignore them.
 
+Natural gas education (1987)
+
+1. Natural gas is dangerous and people often aren't aware of its presence.
+2. Baltimore Gas and Electric decided to educate consumers about natural gas by adding scratch and sniff stickers to energy bills.
+3. Quality control is important, and is [why there are standards](standards.md).
+4. The scratch and sniff stickers weren't sealed, so hundreds of residents called the fire department before even opening their mail. The company apologized and stopped the program.
+
 Pollution problem (1989)
 
 1. There is a pollution problem in Mexico City.
@@ -168,6 +175,13 @@ Soccer ties (1994)
 3. People will take advantage of whatever [mathematical](math.md) advantage they can to win.
 4. The Barbados-Grenada qualifying round had a surreal experience. Barbados had to win the match by at least 2 more goals than Grenada, and was up 2-1 in the last few minutes. To get the 2-point lead, they scored a goal against themselves, and the context meant that Grenada was trying to score any goal whatsoever in the last minutes while Barbados was trying to prevent either score from happening. Barbados scored in overtime, and the rule was dropped.
 
+The Scunthorpe problem (1996)
+
+1. People on the internet were swearing a lot.
+2. AOL's administrators inserted content filters to block bad language.
+3. [Language](language.md) is complex, with varying meanings for similar words.
+4. Some perfectly benign words were also banned, such as the city of Scunthorpe. AOL responded by forcing the city to be renamed Sconthorpe. This has been an issue for all sorts of things like dog breeds, Pokèmon cards, and Super Bowl 30. The Scunthorpe problem is now the general term for this issue.
+
 Not enough biofuel (2000)
 
 1. There weren't enough people consuming alternative biofuels instead of oil.
@@ -188,6 +202,13 @@ Barbara Streisand (2003)
 2. Barbara Streisand sued the photographer for $50 million and demanded the photo be removed.
 3. People are interested when someone tries to hide something.
 4. Before Streisand did anything, there were only 6 views for the photo, which was for measuring coastal erosion. After her effort, over 400,000 people viewed the photo, she had to $177,000 in legal fees to her defendant, and has had [an embarrassing effect named after her](lawsaxioms.md).
+
+Too much traffic (2003)
+
+1. Jakarta has some of the worst traffic in the world.
+2. The government introduced the 3 in 1 rule that required a driver to carry 3 people to drive on main roads.
+3. Citizens will try to maintain their lifestyle if they can.
+4. A cottage industry of professional jockeys rose up, with people being paid to exist in cars. Even babies were contracted for the role. The law was thrown out in 2016.
 
 Greenhouse gases (2005)
 
@@ -285,6 +306,13 @@ Political ban (2016)
 4. Public projects rose by 20%. The ban also created about ~$550,000 in bureaucratic costs for hiring, as well as making it difficult to support like-minded organizations in banned states.
 5. The list of rejected states grew from 4 to 30, and they had to issue many waivers and exceptions. The city killed the ban in 2023.
 
+Cigarette ban (~2016)
+
+1. Cigarettes are bad for your health.
+2. Australia made cigarettes absurdly expensive.
+3. Citizens will try to maintain their lifestyle if they can, which includes doing illegal things.
+4. By 2025, 80% of all tobacco consumed in Australia was illegal, up from 12% in 2017.
+
 Noise pollution (2018)
 
 1. The noise was too loud in the city of Edmonton in Alberta, CA.
@@ -346,7 +374,7 @@ High rent (2021)
 
 1. The rent is too high in St. Paul, Minnesota.
 2. St. Paul's government required that rent increases could only move upward by 3% every year, even if there was a change in occupancy.
-3. Companies have to make a profit or they won't go into business.
+3. Companies have to stay profitable or they won't go into business.
 4. This law didn't acount for inflation, and applied to new apartment buildings. Multi-family building permits went down in St. Paul by 80% and almost doubled in the rest of the state. This also contributed to a growth in homeless encampments.
 
 Sesame allergy (2022)
@@ -355,6 +383,28 @@ Sesame allergy (2022)
 2. The FDA added a stricter requirement for product labels to indicate when food had or had possibly come into contact with sesame seeds, not just "may contain them".
 3. Sesame seeds are extremely tiny.
 4. To avoid legal liability, companies intentionally added sesame seeds to their products, thereby hurting the product selection for people with sesame seed allergies.
+
+Gun buyback (2022)
+
+1. Utica, NY has too many guns.
+2. The government created an anonymous buyback program with a premium for "ghost guns" that didn't have serial numbers.
+3. People will do things that make them more money if it doesn't give any adverse consequences to them.
+4. A man with a [3D printer](engineering-printers.md) from out-of-state made over 100 guns and parts, which were all eligible for the program. He drove a few states over and gained $21,000 under the program.
+
+Low wages (2022)
+
+1. The base pay for workers receiving tips in Washington, DC was a fraction of the minimum wage. Employers were already required to pay the difference of tips and minimum wage to give them minimum wage already, but the government didn't see it as sufficient.
+2. Initiative 82 introduced yearly pay increases for tipped workers until it reached minimum wage in 2027.
+3. Companies have to stay profitable or they'll go out of business.
+4. Many restaurants were forced to raise prices, cut hours, fire staff, or go out of business. Many establishments started directly charging Initiative 82 fees to the customer. The average tipped worker's wage dropped by an average of $1,800 per year.
+5. In response, the government made the base pay raise every two years and the pay increases would go up to 75% of minimum wage by 2034.
+
+Dirty jet fuel (2023)
+
+1. Jet fuel creates pollution.
+2. The Malaysian government gave incentives for aircraft to use used cooking oil instead of jet fuel.
+3. People will do things that make them more money if it doesn't give any adverse consequences to them.
+4. Since fresh palm oil was subsidized by the government, people realized they could make more money on used oil than fresh oil. Restaurant deep fryers were changed much more frequently, entrepreneurs were mixing fresh oil into used oil and calling it used, and at some point fresh oil was simply renamed used. This created an incentive that actually increased deforestation for palm oil farming.
 
 Search dominance (2024)
 

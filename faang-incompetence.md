@@ -35,6 +35,7 @@ Apple
 - [2022-05 Apple removed this developer's game from the App Store because it's more than two years old](https://web.archive.org/web/20220524045137/https://twitter.com/protopop/status/1517701619374338050).
 - [2023-09 Sometimes, iCloud Drive will silently delete content without notification](https://web.archive.org/web/20230930164015/https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/).
 - [2023-10 Not setting up the Find My software on a MacBook runs the risk of bricking it](https://web.archive.org/web/20231013024349/https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook).
+- [2023-11 This developer had to email Apple's CEO to unbrick his MacBook](https://web.archive.org/web/20231219024143/https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook).
 
 Google/Alphabet
 
@@ -63,6 +64,7 @@ Google/Alphabet
 - [2022-08 Google flagged a father as a criminal for taking medical photos of his naked toddler](https://archive.ph/tL6wk).
 - [2022-09 Google broke its Creative Commons filter for Image Search, but hasn't done anything about it](https://web.archive.org/web/20220927072701/https://cogdogblog.com/2022/09/google-broke-cc-image-search/).
 - [2022-09 Google Pixel 6 still freezes when calling Emergency Services](https://web.archive.org/web/20220904045335/https://old.reddit.com/r/GooglePixel/comments/x5ea32/life_and_death_down_to_a_software_glitch/).
+- [2022-09 Some Google Photos users have found corruption in old images that look similar to water damage](https://9to5google.com/2022/09/25/google-photos-corrupted/).
 - [2022-10 Pushbullet was steadily harassed by Google Play Store's software for arbitrary privacy policy violations](https://web.archive.org/web/20221027174837/https://blog.pushbullet.com/2022/10/27/how-we-became-the-worlds-foremost-expert-on-google-play-store-policy-violations).
 - [2022-10 To comply with Google's arbitrary policies, the Voys Telecom app on the Google Play Store was forced to perform worse regarding phone contacts](https://web.archive.org/web/20221020114538/https://www.voys.co.za/blog/how-google-is-forcing-us-to-make-our-open-source-app-worse/).
 - [2022-10 Google locks homeless people out of their Gmail account if they lose their phone](https://web.archive.org/web/20221006202746/https://twitter.com/chadloder/status/1577880638044020736), and [it affects anyone poor enough to not have more than one internet-connected device](https://news.ycombinator.com/item?id=33963269).
@@ -73,6 +75,7 @@ Google/Alphabet
 - [2023-03 Google Drive puts an undocumented hard limit on how many files you can have, even if you're paying for its service](https://web.archive.org/web/20230331183021/https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/).
 - [2023-06 YouTube is testing out permanently blocking users who use ad blockers](https://web.archive.org/web/20230628202558/https://www.androidpolice.com/youtube-ad-blockers-three-strikes/).
 - [2023-10 A Google-verified advertiser provides KeePass malvertising](https://web.archive.org/web/20231019045124/https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/).
+- [2023-11 For this individual, Google Drive's files suddenly disappeared, then went back to its state in May 2023](https://support.google.com/drive/thread/245055606/google-drive-files-suddenly-disappeared-the-drive-literally-went-back-to-condition-in-may-2023?hl=en)
 - [2023-12 Google promised unlimited cloud storage, then cancels the plan and makes it read-only, then gave a journalist 7 days to migrate their 237 TB before it was deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/).
 
 Microsoft
@@ -124,3 +127,4 @@ Other
 - [2023-01 Heroku may delete your database permanently with no warning](https://news.ycombinator.com/item?id=34598563).
 - [2023-06 An expensive tourist submarine that went missing near the Titanic was operated with a $30 Logitech game pad](https://web.archive.org/web/20230620165941/https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/).
 - [2023-09 Discord arbitrarily deleted a 7-year user for posting innocuous technical information](https://news.ycombinator.com/item?id=37364605).
+- [2023-11 The entire printer industry is awful, and Brother is the only one that stands out because they're *not* innovating with new features that make the experience worse](https://retro.social/@ifixcoinops/111480744130939877).

@@ -31,3 +31,12 @@ Ontological argument
 
 1. There's something that's the "greatest" to compare everything to.
 2. That comparison is God.
+
+Proof of the Truthful/First Cause
+
+1. Some things only exist because other things exist ("contingent" things).
+2. While almost everything is contingent, not *everything* can be contingent because it would loop back on itself.
+3. Therefore, there is a necessary non-contingent thing that must exist.
+4. That necessary thing is God.
+
+- This argument was first made by the Muslim philosopher Avicenna.

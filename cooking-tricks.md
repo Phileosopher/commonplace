@@ -29,6 +29,13 @@ If water starts boiling over, add some olive or salt oil to keep it from overflo
 
 When frying, sprinkle a little salt in the pan to keep the oil from splattering.
 
+For most food, you can reheat it without a microwave:
+
+1. Cover the bottom of a pan with water.
+2. Place a mason jar lid ring at the bottom.
+3. Set your plate on the lid and cover.
+4. Set to medium-low, and your food will heat evenly.
+
 ## Grains
 
 Add oil to boiling water to keep rice from sticking to the bottom of the pan.

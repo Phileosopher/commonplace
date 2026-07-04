@@ -3,6 +3,8 @@
 
 ## Managing climate control
 
+Use ceiling fans more than standing fans.
+
 Close the curtains at night to stop heat from escaping and use a draft excluder when necessary.
 
 Set the thermostat timer to maximize savings:

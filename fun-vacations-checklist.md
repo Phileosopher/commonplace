@@ -52,6 +52,7 @@ Optional clothing
 [ ] Swimming outfit
 [ ] Nylons
 [ ] Earmuffs or beanies
+[ ] Jackets and sweaters
 [ ] Scarves
 
 Laundry care
@@ -123,7 +124,6 @@ Electrical
 [ ] Extra batteries
 [ ] Power adapters
 [ ] Power strip
-
 [ ] Sandwich bags (for electronics)
 
 ## Entertainment
@@ -136,6 +136,7 @@ Electrical
 
 [ ] Fire-starting equipment
 [ ] Firewood
+[ ] Good-quality hiking boots
 
 [Cooking](cooking-utensils.md) supplies
 
@@ -169,8 +170,6 @@ General tools
 [ ] Dish towels, dish rags, and towels
 [ ] Twine, newspapers, and clothespins
 [ ] Shovel
-
-[ ] Good-quality hiking boots
 
 Hygiene
 

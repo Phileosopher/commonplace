@@ -25,7 +25,17 @@ However, there *are* some standards that have stood the test of time:
 - Pico (p): 0.000000000001 or 10^-12
 - Even then, [computer memory](computers-memory.md) is a bit fiddly, since it may be 2^10 increments (i.e., 1,024 per step instead of 1,000).
 
-## They're for sanity
+## Issues with standards
+
+Sometimes, standards don't always make sense, but they did at one point.
+
+- New technology has a tendency to render entire domains of older technology obsolete, but the jargon and configurations will stay as a convention.
+
+Other times, standards aren't always communicated.
+
+- The US had planned to adopt the metric system in 1793, but pirates hijacked the ship carrying the official meter and kilogram.
+
+## Not always sane
 
 Most of the standards are made with the intent to protect people from [accidents](safety-accidents.md).
 
@@ -40,12 +50,6 @@ And, on top of that, there are [political](politics-conservativeliberal.md) fact
 
 Plus, the management class wants to be free of legal liability, so the organizations adopt that everyone take personal liability to know all the standards.
 
-## Issues with standards
+Oddly enough, the United States seems to do everything differently than the rest of the world.
 
-Sometimes, standards don't always make sense, but they did at one point.
-
-- New technology has a tendency to render entire domains of older technology obsolete, but the jargon and configurations will stay as a convention.
-
-Other times, standards aren't always communicated.
-
-- The US had planned to adopt the metric system in 1793, but pirates hijacked the ship carrying the official meter and kilogram.
+- If there's a worldwide standard (especially if Europe has propagated it), the USA is different for some unexplained reason.

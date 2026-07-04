@@ -88,6 +88,8 @@ Coparenting during and after divorce is simply not possible with a high-conflict
 
 - Instead, it's better to pursue "parallel parenting" or "protective parenting", which is the mindset that the other person is either uninvolved or a threat to your children's well-being.
 - Be [very careful what you say](legal-safety.md) to your ex, since *anything* you say can and may be read publicly by a judge later.
+- Sharing a calendar will make more information they can use against you later in court.
+- Showing up at events together "for the children" will make a host of issues later for them.
 
 Men, more than women, are extremely vulnerable during divorces.
 
@@ -112,6 +114,8 @@ Carefully consider the [story](stories-why.md) they make against you with their 
   1. Admissions of their own behaviors, which you need to focus on finding facts that confirm it (interrogatories, request for public documents, subpoenas, etc.).
   2. Admissions of what they're going to attack you with, which prepares you for the [image](people-image.md) they present and how you can respond.
 - In whatever capacity possible, build evidence that counters their allegations.
+  - The discovery process will find the information they're presenting.
+  - Look carefully at your own behaviors to see how true some of those allegations may appear to be.
   - Over time, the truth will show itself, even if your ex has exposed almost everyone to [narcissistic abuse](hardship-abuse-narcissist-stages.md).
 
 Once you can counter their arguments with facts about them, and your present story repudiates their allegations, you have a better chance of winning your case.

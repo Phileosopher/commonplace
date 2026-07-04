@@ -152,6 +152,10 @@ Whenever you feel unsafe, record *everything*.
 - If you can't record the conversation, summarize the main thrust of the conversation in writing.
   - Write down relevant names, times, and places.
   - Do *not* use erasable gel pens, and use a pencil if you're not sure.
+- Most states are legal for you to record and submit your own recording (one party consent).
+  - However, about 11-12 states require everyone on the recording to consent for it to be used in court (two party or all-party consent).
+    - These states include California, Delaware, Florida, Illinois, Maryland, Massachusetts, Montana, Nevada, New Hampshire, Pennsylvania, and Washington.
+  - That doesn't disqualify someone's *testimony* of hearing the recording, but it becomes more difficult for lawyers to use.
 
 When asked to disclose by an authority, openly disclose unless you have a means to protect yourself such as a lawyer.
 
@@ -370,11 +374,39 @@ Treat most interactions as [contracts](people-contracts.md).
 - If they don't perform, you are entitled to sue.
 - Generally, the threat of a lawsuit is worse than the suit itself (since it'll cost a *lot* for everyone involved).
 
+If someone performs a breach of contract and doesn't pay, don't hunt them down.
+
+- The legal costs for suing about unpaid fees is only worth the cost if it's a *lot* of money, and is typically worth selling the bad debt to a collection agency instead.
+- If you've overpaid, the damages for seeking restitution aren't worth it, and you'll damage the organization far worse by publicly shaming them on social media.
+  - If you *do* make the experience a public event, make sure the information isn't protected by a privacy regulation (or that part is omitted) and that your issue is [fashionable](people-trends.md) enough for most people to feel angry about it.
+
+Generally, it's a better bet to leave a hostile work environment than sue.
+
+- By natural consequence of an [employer/employee](jobs-1_why.md) relationship, you have less power (and legal resources) than them, even if a jury would more likely side with you.
+- If your manager and manager's manager are working together, you will succeed *much* more by recording the experiences and publishing them on social media after quitting.
+
+If you *do* want to sue, then it pays more than anything else to be an insider with the legal system:
+
+1. Preferably, you should know the judge, or at least a close associate to the judge.
+2. You should also personally know a good lawyer with experience in what you're working with.
+3. Further, you should be at least somewhat familiar with the region's laws and requirements.
+
+A smear campaign isn't simply [abuse](hardship-abuse.md), and is in fact a [crime](legal-crimes.md).
+
+- You won't win by fighting back emotionally, defending yourself in court, or telling your story.
+- Instead, in a high-conflict situation, the smear campaign is a legal opportunity.
+  - It often involves conspiracy, defamation, perjury, harassment, stalking, and sometimes extortion.
+  - They're giving evidence against themselves through their behavior.
+- In the event of someone lying about you or your character (especially in front of a judge), you may have a claim against them for intentional infliction of mental distress and defamation.
+  - This is most common in [divorce](hardship-family-divorce.md) cases, where angry spouses will [lie](people-lying.md) to gain a financial or custody advantage.
+
+### Going to court
+
 Lawsuits are typically "pay to play", and you must stay aware of the lawyers' goals in each context:
 
 - A civil case operates on "balance of probabilities", which means you must prove the highest likelihood that you deserve the damages/settlement/money.
 - A criminal case operates "beyond reasonable doubt", meaning the defendant must prove there's reasonable doubt that they could have done what they were charged with.
-- A divorce case is effectively a civil case over multiple domains
+- A [divorce](hardship-family-divorce.md) case is effectively a civil case over multiple domains
   - Aim for a no-fault divorce for a clean break down the middle, or and at-fault divorce if you're seeking damages.
 
 The legal process is a *very* drawn-out mechanism that goes through a predictable set of stages, and almost all the stages can be expedited or drawn-out depending on lawyers' use of laws:
@@ -397,16 +429,18 @@ The legal process is a *very* drawn-out mechanism that goes through a predictabl
 Submitting evidence in court is often difficult for lawyers.
 
 - While you can often submit *exhibits*, they don't become evidence until there's a substantial link between the given information and how it affects the case.
-- You often can state that you need to cross-examine the information they provide with your own information, which can halt the process.
+- You often can state you need to cross-examine the information they provide with your own information, which can halt the process of submitting evidence.
 
 Learn to be *very* slow to speak when being questioned.
 
 - Always [state the truth](people-lying.md), since you can be sued for perjury later if you don't.
+  - Judges deal with [narcissists and psychopaths](mind-neurodivergence-clusterb.md) all day, so you gain a lot by speaking truthfully about the situation they're addressing.
 - When responding to questions, be careful with lawyer questions.
   - Sometimes they'll ask two different questions at the same time (e.g., "You saw the vehicle speeding and running a red light, correct?")
   - Other times they'll ask vague questions that can be used later (e.g., "Have you ever been at the scene of the crime?")
   - They may ask things that create an [emotional](mind-feelings.md) reaction (e.g., "As a criminal, have you ever stolen?")
   - They'll also often deliver rapid-fire questions in the hopes that you get into a flow of answering haphazardly.
+  - This is *very* common among cases involving domestic violence or orders of protection.
 - By taking it precisely, slowly, and deliberately, you have the ability to validate the truth and, subsequently, permit more [justice](morality-justice.md) in your favor.
 
 When investigating the opposition in a civil case, you usually can't prove that a thing *didn't* happen.
@@ -415,31 +449,20 @@ When investigating the opposition in a civil case, you usually can't prove that 
 - Therefore, the best approach is to focus intently on all the details of a lie to find factual evidence that contradicts it.
   - Through that approach, the liar will be shown, and their collective credibility of all their *other* claims will also be discredited as well.
 
-A smear campaign isn't simply [abuse](hardship-abuse.md), and is in fact a [crime](legal-crimes.md).
-
-- You won't win by fighting back emotionally, defending yourself in court, or telling your story.
-- Instead, in a high-conflict situation, the smear campaign is a legal opportunity.
-  - It often involves conspiracy, defamation, perjury, harassment, stalking, and sometimes extortion.
-  - They're giving evidence against themselves through their behavior.
-
 Often, in other unrelated domains (e.g., hairstylist licensing), this legal process will be the same thing, but with more [good faith](https://gainedin.site/good-faith/) involved.
 
-If someone performs a breach of contract and doesn't pay, don't hunt them down.
+You can often use [open investigation](computers-cysec-osint.md) to find if the judge is taking bribes:
 
-- The legal costs for suing about unpaid fees is only worth the cost if it's a *lot* of money, and is typically worth selling the bad debt to a collection agency instead.
-- If you've overpaid, the damages for seeking restitution aren't worth it, and you'll damage the organization far worse by publicly shaming them on social media.
-  - If you *do* make the experience a public event, make sure the information isn't protected by a privacy regulation (or that part is omitted) and that your issue is [fashionable](people-trends.md) enough for most people to feel angry about it.
-
-Generally, it's a better bet to leave a hostile work environment than sue.
-
-- By natural consequence of an [employer/employee](jobs-1_why.md) relationship, you have less power (and legal resources) than them, even if a jury would more likely side with you.
-- If your manager and manager's manager are working together, you will succeed *much* more by recording the experiences and publishing them on social media after quitting.
-
-If you *do* want to sue, then it pays more than anything else to be an insider with the legal system:
-
-1. Preferably, you should know the judge, or at least a close associate to the judge.
-2. You should also personally know a good lawyer with experience in what you're working with.
-3. Further, you should be at least somewhat familiar with the region's laws and requirements.
+- Examine how long the judge has been on the bench.
+- Request the judge's mandated financial disclosure forms from the state.
+- Look up the judge on the County Grantor Grantee index.
+- Show the judge's loans, amounts, and the time it took to pay them back.
+- Examine any business interests with the Secretary of State to find more information (business partners, status of business interest, etc.), then run *those* through the County Grantor Grantee index.
+- Look in the court records to see if the judge sat on any cases involving business partners.
+- Make a public records act request for phone records (checking for ex pare communications with the other side).
+- Check with the auditor's office to see if the judge is also receiving money from the county (i.e., a state employee with a conflict of interest).
+- Check the judge's spouse for everything as well.
+- Demand their SF 28 and their anti bribery statement.
 
 ## Legal safety is *not* part of the Good Life
 

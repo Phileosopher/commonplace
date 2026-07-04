@@ -193,7 +193,7 @@ A trend starts outliving its [usefulness](purpose.md) to the point that people b
 - People can grow tired of the [hype](mind-feelings.md) or [familiarity](habits.md) of the trend.
 - On occasion, the entire trend can become nothing more than evoked [feelings](mind-feelings.md) of nostalgia.
 
-As a trend starts dying, people will [create](creations.md) *away* from the trend. It's difficult to establish *when* a trend dies because everyone individually diverges their [purpose](purpose.md) to something else, and they often do it [instinctively](mind-feelings.md).
+As a trend starts dying, people will [create](creations.md) *away* from the trend. It's difficult to establish *when* a trend dies because everyone individually diverges their [purpose](purpose.md) to something else, and they often do it [instinctively](mind-feelings.md) or for self-gain.
 
 The majority of people who *still* use the trend are acting from [habit](habits.md). Innovators and early adopters either desperately seek new trends because they don't [trust](mind-understanding-certainty.md) the current trend, or have already moved on to another trend to fit their [purposes](purpose.md). Soon enough, nearly everyone else will follow.
 

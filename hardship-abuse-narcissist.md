@@ -1,5 +1,5 @@
 
-## How to work through narcissistic abuse
+# How to work through narcissistic abuse
 
 In particular, people with [Cluster B personality disorder](mind-neurodivergence-clusterb.md), non-negotiably, causes severe damage to others.
 
@@ -16,7 +16,7 @@ If you've *ever* been close to a narcissist, they will cause trouble for you:
 - They will often blame you for their faults ("projection").
   - Over time, they will eventually call others narcissists, which can cause tremendous [trauma](hardship-ptsd.md) to someone who is [self-unaware](mind-awareness.md).
 - They will often use other people against you ("triangulation").
-- They'll demand constant attention and obedience from people close to them.
+- Often, they'll demand constant attention and obedience from people close to them.
 - They have a double standard on empathy and praise:
   - They'll have zero empathy for anyone else's pain.
   - They will, however, expect others to acknowledge their [pain and hardship](hardship.md).
@@ -30,6 +30,15 @@ Staying around the abuse can be exhausting.
   - To the victim, they think they're helping them, but they're simply useful to the abuser's [purposes](purpose.md).
 - This entire experience of following their constantly shifting [image](people-image-why.md) is exhausting to maintain ("duplicity fatigue")
   - That exhaustion, sadly, is part of the manipulation mechanism for the abuser.
+
+Even with [good boundaries](people-boundaries.md), narcissistic behavior will erode it.
+
+- This is because boundaries tend to change slowly [as we change as people](people-changes.md), so it's hard to notice.
+
+At the same time, don't [distrust](mind-trust.md) everyone.
+
+- We still need people, and they provide [meaning](meaning.md) and [purpose](purpose.md) for our lives.
+- Cutting everyone out means we're setting ourselves up for [another encounter with a narcissist](hardship-abuse-narcissist-stages.md).
 
 ## When it all falls apart
 

@@ -93,3 +93,16 @@ The beauty of algebra is that it can be used to represent all sorts of lines in 
 ## Statistics
 
 When reality's complexities apply, it's far more important to work with likelihoods and probabilities, which is the [realm of statistics](math-stat-cs.md). Most practical computer applications in [large-scale systems](computers-distsys-enterprise.md) need to operate with statistics more than anything else.
+
+## Randomness
+
+One of the most unusual experiences between real-world math and computer math is the situation with randomness.
+
+- Within [all physical reality](reality.md), everything is built on a type of semi-ordered randomness.
+- By contrast, in computers, everything is a raw abstraction without anything actually random at all.
+
+Getting random things for computer applications, therefore, is *not* trivial.
+
+- This spans a vast range of problems, from [game design](computers-software-gamedev.md) to [encryption](encryption.md).
+
+One of the easiest ways to create this solution is with an [algorithm](computers-programming-algorithms.md) called a linear congruential generator (LCG), which is a simple-enough linear calculation that creates near-random numbers. It requires [the Hull-Dobell Theorem's 3 rules](https://en.wikipedia.org/wiki/Linear_congruential_generator) for the formula to work.

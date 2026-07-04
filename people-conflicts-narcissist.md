@@ -6,7 +6,7 @@ The most complex part of a narcissist comes through how they manage conflicts.
 - Most people won't realize they're engaged with a narcissist until *after* they've had a [standard conflict](people-conflicts.md) with one of them.
 - In many ways, every single narcissist is perfectly wonderful to get along with, until it's time to [negotiate](people-conflicts-negotiation.md).
 
-The largest risk to your conflicts is knowing when you're dealing with a narcissist.
+The largest risk to your conflicts is when you know when you're dealing with a narcissist.
 
 - Most people want a [resolution to a conflict](people-conflicts-why.md) and act [in good faith](people-contracts.md) to that end.
 - The narcissist, however, will only find peace when they've achieved the impossible task of [your complete conformity](people-culture-cults.md).
@@ -33,6 +33,32 @@ A narcissist has a predictable conflict style:
 Therefore, you stop them abruptly by not reacting to their chaos.
 
 - Further, your ability to openly communicate with others will also shield *others* from being drawn into the narcissist's chaos.
+
+Hold off on giving more information they could use.
+
+- Don't over-explain yourself.
+- Never argue about your motives.
+- Never argue about their accusations over who you are.
+  - If it's in a public place, you can often disagree, but make sure you have others' witnesses to corroborate you.
+- Never apologize for the purpose of de-escalation.
+- Do not agree to someone else's language without being precise over what you're agreeing.
+  - You can usually reframe the statement to match what you understand to be true.
+- Never answer yes/no questions that come with implications, and flip it on them:
+  - For condemning implications: "That's a great question, so let me reframe it with context others here may not have."
+  - For detail-focused questions: "I could give you a rough answer now, or a more precise one in an hour. Which would you prefer?"
+  - For statements framed as questions: "I'd love to hear your alternative. Would you care to share?"
+
+More than anything else, draw attention to their behavior, which stops them from moving forward.
+
+- "It seems you want me to feel (adverse feeling), was that your intent?"
+  - They'll correct you if it wasn't intentional, but will pause if you caught them.
+- "Help me understand what reaction you hope I would give here."
+  - This is focusing more on [outcomes](results.md) than simply words.
+- "Before I respond, what do you actually want from me right now?"
+  - They will either clearly indicate their desire, or the pressure on you will disappear.
+- "I'm not following something. I thought we were talking about (topic 1), but I get the impression we're talking about (topic 2)."
+- "That statement seems like it may have been an effort to shift control of the conversation."
+- "That's a clever reframe. It makes you appear reasonable and me as irrational. I wish we could keep this honest."
 
 Be prepared for the narcissist's triangulation or "flying monkeys" (a term referring to "the Wonderful Wizard of Oz").
 
@@ -112,6 +138,11 @@ While it isn't "nice", handling a narcissist requires a very specific approach:
 
 ## Ending things
 
+Counter-intuitively, insults don't work on narcissists.
+
+- They enjoy the drama and the attention.
+- Further, they will use your insults as a means to manipulate their current narcissistic supply.
+
 Whatever [boundaries](people-boundaries.md) you set, make sure they are entirely enforceable.
 
 - "If you call me names, I will leave the room immediately."
@@ -121,11 +152,6 @@ Whatever [boundaries](people-boundaries.md) you set, make sure they are entirely
 - "If you stonewall me with silence, I will stop trying to resolve this."
 - "If you twist my words, I will repeat myself once and then disengage."
 - "If you ignore what I said, I will remove myself from the situation."
-
-Counter-intuitively, insults don't work on narcissists.
-
-- They enjoy the drama and the attention.
-- Further, they will use your insults as a means to manipulate their current narcissistic supply.
 
 If you do *anything* that holds them accountable, they will absolutely seek to destroy you at some point in the future (you've basically moved to [Stage 8 of the abuse cycle](hardship-abuse-narcissist-stages.md)):
 

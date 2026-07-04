@@ -29,7 +29,7 @@ Construction
 
 - Architect
 - Concrete work
-- [Welding](weld.md)
+- Welding
 
 Utilities
 

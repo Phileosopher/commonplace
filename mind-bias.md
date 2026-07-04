@@ -156,6 +156,8 @@ Mandela effect - we remember things that never happened
 
 Memory inhibition effect - we partially don't remember things
 
+Mere exposure effect/familiarity principle - we don't like things when we're familiar with them and like them when they're familiar
+
 Perky effect - we mix up imagined and real images
 
 Persistence - we re-experience [painful memories](hardship-ptsd.md)

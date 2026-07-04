@@ -22,6 +22,7 @@ There are many [licensing options](people-contracts.md) specifically for publish
   - The LGPL is only better if the code will reach more vendors who were otherwise unwilling to release *their* code.
   - LGPL versions run parallel to GPL.
 - The GNU Affero General Public License (AGPL) is almost the same as the GPL, but clarifies that licensed software running over a network will share its source code.
+  - Since the AGPL also sends over identification information, the AGPL is *not* in the spirit of open-source because it doesn't respect privacy.
 - The GNU All-Permissive License is useful for small supporting files and [README files](language-writing-documentation.md) contained inside software.
 - The Perl Foundation's [Artistic License 2.0](https://www.perlfoundation.org/artistic-license-20.html) is completely GPL-compatible.
 - The [Apache License, version 2.0](https://www.apache.org/licenses/LICENSE-2.0) is almost the same as the GPL, but its relationship is complicated.

@@ -27,8 +27,6 @@ Familiarity bias/mere-exposure effect/status quo bias - we prefer familiar exper
 
 Functional fixedness - we limit an object's use to how it's been traditionally used
 
-Mere exposure effect/familiarity principle - we don't like things when we're familiar with them
-
 Negativity bias/negativity effect - we remember negative things more than neutral or positive things
 
 Omission bias - we believe doing nothing is better than doing the wrong thing

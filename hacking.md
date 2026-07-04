@@ -160,6 +160,7 @@ Adding design to otherwise overlooked experiences:
 - [Command & Conquer Red Alert installation program](https://www.youtube.com/watch?v=Ri-VlJVxc-g) - a stylistic way to install programs
 - [Willard Wigan](https://www.willardwiganmbe.com/) and [Jon Almeda](https://www.instagram.com/almedapottery/) - microscopic designs
 - [Trimble GPS receiver](https://mastodon.sdf.org/@keelan/111349948124943603) - a fun way to market 1993's revolutionary new [GPS technology](logistics-navigation.md)
+- [wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) - 16 bytes of code to create an audio/visual experience
 
 Changing what everyone expects to stay the same:
 

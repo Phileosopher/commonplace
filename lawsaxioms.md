@@ -242,6 +242,8 @@ Zeroeth Law of Thermodynamics - If two systems are synchronized with a third one
 
 ## Small Groups
 
+Bad Apple Effect - When any functioning group of people has one bad faith participant, the entire group will have 50% more conflicts and perform at 60% efficiency.
+
 Campbell's Law - As a social measurement influences more social decisions, it'll be more corrupted by the social system it's monitoring.
 
 Conway's Law - Any system made by another system copies its parent system's structure.

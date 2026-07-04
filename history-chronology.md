@@ -4780,7 +4780,7 @@ This is a chronological history spanning from Adam to now on the presumption tha
 4766/765
 4767/766
 4768/767
-4769/768
+4769/768: Charlemagne's reign begins
 4770/769
 4771/770
 4772/771
@@ -4826,7 +4826,7 @@ This is a chronological history spanning from Adam to now on the presumption tha
 4812/811
 4813/812
 4814/813
-4815/814
+4815/814: Charlemagne's reign ends
 4816/815
 4817/816
 4818/817
@@ -4949,7 +4949,7 @@ This is a chronological history spanning from Adam to now on the presumption tha
 4935/934
 4936/935
 4937/936
-4938/937
+4938/937: Battle of Brunanburh
 4939/938
 4940/939
 4941/940
@@ -5078,7 +5078,7 @@ This is a chronological history spanning from Adam to now on the presumption tha
 5064/1063
 5065/1064
 5066/1065
-5067/1066: Battle of Hastings
+5067/1066: Battle of Hastings and Norman Conquest
 5068/1067
 5069/1068
 5070/1069

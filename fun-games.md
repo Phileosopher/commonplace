@@ -39,3 +39,10 @@ With [technology](technology.md), we can [recreate](creations.md) the experience
 - The proxy character [learning](mind-understanding.md) from prior experiences (often simulated with "experience points" in [electronic games](computers-software-gamedev.md)).
 
 Like [humor](humor.md), games help us to cope. It's a small system designed to [symbolize](symbols.md) the greater reality we're in. It creates a type of [closure](stories-why.md) in the unfamiliar [reality](reality.md) that surrounds us. However, while humor is a deconstruction of [disorder](unknown.md), games are an extreme form of order.
+
+## Puzzles
+
+Puzzle design is essentially built around a participant working with arbitrary constraints.
+
+- Essentially, take a reasonable [purpose](purpose.md), then remove the obvious components that would make that purpose trivial to resolve.
+- Often, highly elaborate puzzles will provide *layers* of this removal process (i.e., the puzzle's not-so-obvious solution is actually the first step in discovering the answer).

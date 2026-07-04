@@ -1,7 +1,7 @@
 
 # How to handle abuse from others
 
-Every form of abuse is an unfair violation of boundaries that severely damages us.
+Every form of abuse is an unfair violation of boundaries that severely damages the victim.
 
 - Physical abuse: physically injuring someone else
 - Emotional abuse: harming someone else's well-being or peace
@@ -10,7 +10,7 @@ Every form of abuse is an unfair violation of boundaries that severely damages u
 - Digital abuse: using technology to cross boundaries
 - Stalking: excessively tracking someone else's activities
 
-The worst thing to do with our abusers is to ask "why":
+The worst thing to do with abusers is to ask "why":
 
 - It's often very difficult to even *know* why people do what they do.
   - Because it's so difficult to tell with some people, we may find a delusion that discovering motivations will give [meaning](meaning.md) to the situation.

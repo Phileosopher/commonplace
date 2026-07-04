@@ -26,6 +26,13 @@ Livestock have a general yearly cycle:
 4. Butcher, salt, and smoke their meat.
 5. [Repair](https://adequate.life/fix/) all the tools and equipment during winter, as well as working with more long-term materials (e.g., bone, leather).
 
+Make sure you have enough pasture land for them to roam.
+
+- Small breed cows, goats, and sheep need closer to 0.5 acres each.
+- Mature cows need about 1.5-2 acres of grazing land.
+- Large breed cows will need as much as 5 acres.
+- Horses will need at least an acre to comfortably run.
+
 ## Watching over them
 
 Stay perpetually vigilant over them.

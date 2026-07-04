@@ -418,7 +418,7 @@ At the most basic, you can create layers:
 2. Sleep inside a small tent.
 3. Have the small tent inside a larger tent.
 4. Have the large tent inside a house, which also serves as weather cover.
-5. Have a wood stove inside the house.
+5. Keep a wood stove inside the house.
 
 Make a candle-based clay heater:
 

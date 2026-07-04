@@ -38,3 +38,7 @@ People often aren't aware they have parasites:
 Take a combination of ivermectin and fenbendazole every single day.
 
 - Unlike most other anti-parasitics, it also strengthens the body to prevent a relapse.
+
+Once in a while, take a stack of white sugar cubes and a few drops of pure pine turpentine.
+
+- The sugar draws out the parasides, while the pine turpentine kills them.

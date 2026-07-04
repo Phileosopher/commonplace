@@ -5,6 +5,8 @@ We're constantly scanning our environment, so organization makes life simpler an
 
 When we organize, we often [understand](mind-understanding.md) what we have, which can create [meaning](meaning.md) in many small ways.
 
+- For this reason, [writing out things](language-writing.md) is almost always necessary when any system goes beyond about 10 elements.
+
 Organization helps with [productivity](success-4_routine.md):
 
 - An organized space removes distractions from what we're working on.

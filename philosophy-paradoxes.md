@@ -151,10 +151,6 @@ Epimenides' Paradox Remix:
 
 - "All liars are always liars", said the liar.
 
-## Omphalos/Five-Minute Hypothesis
-
-If the world had been formed five minutes ago, with everything fully grown and looking as if it were aged, as well as everyone created with memories and documents of historically recorded things, would there be any way to prove that the world was only five minutes old?
-
 ## Lottery Paradox
 
 There's a completely fair lottery with 1,000 tickets where 1 ticket will win.
@@ -164,6 +160,18 @@ It's completely rational to believe that something is very likely if it has over
 Thus, it's rational to believe Ticket 1 won't win, and Ticket 2, and so on through Ticket 1,000. Therefore, it's rational to believe that *none* of the tickets will win.
 
 That's obviously silly, but why?
+
+## Mary's Room/Knowledge Argument
+
+Imagine Mary has only experienced black-and-white her entire life without color, and had spent her entire life educated about color. However, she was highly educated about absolutely every single thing even remotely related to color and vision.
+
+If she were to suddenly see color, would she have learned anything new? While it may seem obvious, what information did she actually learn?
+
+If that experienced information is *not* new, does that mean a human experience can be fully reproduced?
+
+## Omphalos/Five-Minute Hypothesis
+
+If the world had been formed five minutes ago, with everything fully grown and looking as if it were aged, as well as everyone created with memories and documents of historically recorded things, would there be any way to prove that the world was only five minutes old?
 
 ## Molyneux's Problem
 
@@ -179,7 +187,9 @@ Box B is opaque, and will either have nothing or $1,000,000 in it.
 
 You must decide to take either Boxes B and A, or Box B by itself.
 
-To determine Box B, someone/something else was predicting whether you'd choose both boxes or Box B. If it expected you to choose both boxes, there's nothing in Box B, and if it expected you to only choose Box B, there's $1,000,000 in it.
+There is also a supercomputer in the room that has already predicted whether you'll take A, B, or both A and B. If you take A and B, box B has nothing. If you take B alone, box B has $1,000,000.
+
+What would be the best box to take? It's worth noting that this experiment doesn't indicate what you were thinking *before* you entered the room.
 
 ## Philosophical Zombie
 

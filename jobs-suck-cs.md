@@ -98,7 +98,7 @@ If you do find yourself in this situation, you have a few options:
 3. Start making [ideas for a startup](entrepreneur-2_idea-cs.md) or [freelancing](entrepreneur-4_freelancing.md) some of your work. Be careful how much you do it on company time or hardware/software, though. You can often learn most of what you need to know with that spare time (such as how to program Python) while not necessarily doing the work that could get you in [legal trouble later](legal-ip.md). Also note that anything "made" on a company device or on company time could technically become their [intellectual property](legal-ip.md) if the company's legal team wanted to abuse the situation.
 4. If you like living on the edge and have a remote job, you can technically work two jobs at once. It's stressful and requires [lying](people-lying.md), but some people find the two paychecks worth it.
 
-Their only hope is to [find a smaller company](jobs-2_goals.md) or [become their own boss](entrepreneur-1_what.md).
+Your only hope is to [find a smaller company](jobs-2_goals.md) or [become their own boss](entrepreneur-1_what.md).
 
 However, if you're [losing sleep](sleep.md), your [health is slipping](body-health.md), and you're [miserable](mind-feelings-happiness-stress.md), find a new job as fast as possible:
 
@@ -106,6 +106,8 @@ However, if you're [losing sleep](sleep.md), your [health is slipping](body-heal
 - Working tirelessly means you're not [building out your professional network](jobs-4_hunt.md) as much as you should, both inside *and* outside the company.
 - If anything changes, you won't be able to stop what you must do and adapt to it.
 - Further, an awful job taking over your entire life is far more destructive to your [happiness](mind-feelings-happiness.md) than the worst-case alternative: [unemployment](hardship-unemployment.md) and [homelessness](hardship-homeless.md).
+
+Be careful about staying in the industry, though, since quite a few people across the tech industry think their job is worthless.
 
 ## Be decisive
 

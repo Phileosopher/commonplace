@@ -64,3 +64,10 @@ However, whether we understand it or not, the cumulative education continues:
 2. Introducing the concept of ratios (e.g., 1:2).
 3. Adding to fractions with percentages.
 4. Dividing fractions and decimals, which effectively multiplies the numbers.
+
+## Absolute value
+
+The concept of absolute value is often poorly taught. It's basically the distance of a number from zero.
+
+- This is because later, when the numbers get more complicated, that can make a LOT of difference.
+- Unfortunately, it was usually taught as "just remove the negative number if it has it".

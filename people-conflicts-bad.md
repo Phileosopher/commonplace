@@ -7,6 +7,33 @@ We must be careful to avoid unhealthy conflict approaches in our daily lives.
 
 Some people are completely impossible to please, and should always be a low priority compared to everyone and everything else.
 
+Pay close attention to micro-expressions.
+
+- These are behaviors that happen subconsciously and are impossible to ignore if you train yourself to see them.
+- Some harder-to-detect ones are particularly revealing:
+  - Contempt smirk: a half-smile, usually on the left side, that indicates contempt and belief in superiority
+  - Eye roll or eye darting: an indication of boredom or irritation
+  - Lip raise: one side of the lip is raised, signals moral disgust at someone
+  - Hidden arousal: pupils dilated but no exterior indicator, indicates desire they're trying to hide
+  - Micro glare: a direct stare with head tilted back, often signals a desire to dominate
+  - Frozen smile: a smile that doesn't match the rest of the face
+
+Stay aware that there are several unchangeable value systems most people keep about the world:
+
+1. The Power Game
+   - Everything in this world is about [power](power.md), control, and dominance.
+   - There are no [friends](people-friends.md), only useful tools.
+   - Everyone has a secret agenda, and everyone seeks their own interests.
+   - These people are utterly dangerous to coexist with, and you should expect them to [abuse](hardship-abuse.md) you in the future if you do anything different.
+2. The Harmonious Ideal
+   - The world has truths, and everyone should conform to them.
+   - Everyone, if [educated](education.md) enough or given a particular set of inputs, will want to [change](people-changes.md).
+   - Even if there are [evil](morality-evil.md) people, enough effort will remove them from the system.
+3. The Survival Mindset
+   - While the world has truths, many people don't wish to honor them or conform to them.
+   - People will do whatever they [feel](mind-feelings.md) like, irrespective of what is true.
+   - There is no hope to rehabilitate anything long-term, since evil people will corrupt and destroy it later.
+
 ## Ego defense tactics
 
 Most toxic behaviors come through our need to satisfy our sense of ego and [safety](safety.md):
@@ -21,6 +48,59 @@ When people aren't [examining themselves](mind-awareness.md), they will exercise
 - Every single person does this in one form or another.
 - Since you have no control over their behavior, your only responsibility and resistance with those tactics is through [self-awareness](mind-awareness.md) and self-discipline of *your* impulses.
 - Then, only once you've conquered the domain of self-awareness, you can make healthy boundaries with others.
+
+Broadly, these are all [image distortion tactics](people-image-distortion.md).
+
+- None of them are necessarily "core" issues, since people often learn to do these behaviors from [early childhood](parenting-children.md).
+- However, these actions can often magnify or accompany other issues.
+
+Watch more for behavior than words.
+
+- The specific way someone says or does things indicates a *lot* about their motivations.
+- While it takes experience to catch the behaviors, take your time with almost every [decision](mind-decisions.md), since *very* few decisions are urgent.
+- Avoid spending time alone with someone, and ask others about what's appropriate.
+
+### Specific ego defense behaviors
+
+[Lying](people-lying.md)
+
+- This can include distorting someone's words
+- This can also represent in giving unclear answers
+- Saying one thing, but doing another, which often accompanies [poor listening skills](language-speaking-listening.md)
+
+Trying to gain others' favor
+
+- Giving superficial charm without depth or sensitivity
+- Uncharacteristically good behavior
+- Sharing something in common with someone
+
+Trying to gain information from others
+
+- Oversharing their lives for the purpose of learning about others in the reciprocation
+- They may be a *very* good listener, since they will use the information later
+
+Catching others in a compromising position
+
+- Expresses strong [feelings](mind-feelings.md) seemingly out of nowhere to catch people off-guard
+  - This can include appearing desperate
+- Creating pressure for people to [make decisions](mind-decisions.md)
+- Bypassing reasoning by appealing directly to feelings
+
+Discrediting others
+
+- Criticizing others' failings, especially relational weaknesses
+- Using past statements to make someone look inconsistent
+
+Wearing others down
+
+- Not responding to the other person's discomfort
+- Arguing after someone has given their answer
+- Applying pressure over hours, days, weeks, or months
+- Making physical contact, including when others are uncomfortable with it
+
+Getting what they want
+
+- Asking others to do things that isn't typical for the nature and duration of the relationship
 
 ## Immature defenses
 
@@ -132,7 +212,7 @@ Intellectualization: overusing logic and reasoning to avoid uncomfortable [feeli
 
 ### Narcissistic behavior
 
-The more the person conducts [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md), the more [habit-forming](habits.md) it becomees, and the higher chance of developing into a more mature form of NPD.
+The more the person conducts [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md), the more [habit-forming](habits.md) it becomes, and the higher chance of developing into a more mature form of NPD.
 
 Rationalization: making excuses to justify unacceptable behavior.
 

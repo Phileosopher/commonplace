@@ -34,3 +34,22 @@ Stay attentive to the contracts you sign.
 - Often, the fine print may require you to give up many of your [rights](people-boundaries-why.md).
 - The money and fame is *never* worth your dignity and self-respect.
   - Trust your [intuition](mind-feelings.md) on it, since your brain stem may be telling you what your conscious mind doesn't directly see.
+
+## Always keep attracting attention
+
+Whatever you're doing, including personal hobbies, serve to advance your [brand](marketing.md).
+
+While the actual attention-getting techniques move around *very* frequently with fashions, aim for "hooks" at the beginning of your content:
+
+- "I should not be saying this"
+- "I have a question"
+- "What would happen if..."
+- "I almost didn't post this"
+- "I bet you didn't know this"
+- "You weren't supposed to see this"
+- "This will cost you money"
+- "Most of you will skip this"
+- "Nobody tells you this"
+- "You won't believe what I discovered"
+
+However, be careful with attention-grabbing, since the sensationalism will *severely* make your content a dated relic.

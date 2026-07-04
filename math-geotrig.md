@@ -63,3 +63,14 @@ However, geometry starts becoming more complex once it incorporates [algebra](ma
 
 1. Graphing proportional relationships (e.g., x = 2y).
 2. Indicating how a circle has a radius, diameter, and circumference.
+
+## Area and diameter
+
+The calculations for area and diameter are somewhat common-sense:
+
+- Diameter:
+  - For any square, multiply one side by 4.
+  - For any quadrilateral, multiply one side by 2 and the one next to it by 2.
+- Area:
+  - For any square, multiply one side by itself (why it's called "squared").
+  - For any quadrilateral, multiply one side by the adjacent side.

@@ -217,94 +217,115 @@ For many reasons, people are [afraid](mind-feelings-fear.md) of a [dysfunctional
 
 To avoid any confusion, it's wisest to respond to the low-context variation of what they really mean.
 
-"Thanks in advance"
+"Get this done right now."
 
-- Meaning: "get this done right now."
-- Either communicate your present status, or ignore them.
+- "Thanks in advance"
+- Either communicate your present status, or ignore them until you must discuss things.
 
-" Thanks for your interest about (subject)"
+"Answer my email/phone"
 
-- Meaning: "Why did you have to bring (subject) up?"
-- No response necessary, but be prepared for them to react negatively.
+- "Sorry to chase"
+  - The escalations of this are "so sorry to chase" or "I am really sorry to bug you but..."
+- Respond to them with *something*, even if it's nothing legitimately meaningful.
 
-"Best"
+"I'm coming over right now"
 
-- Meaning: "I don't really know who you are"
+- "Mind if I swing by?"
+- Expect them to come in.
+
+"We are done talking about this"
+
+- This is the most common, and there are several variations:
+  - "Let's circle back to this"
+  - "All best" (or "all my best" when escalated)
+- Any further discussion is a risk, and it's [legally safest](legal-safety.md) to know how all your written correspondence would look in a court hearing.
+- If it's a legitimate problem, have documentation that you discussed it (preferably email them afterward).
+
+"I don't really know who you are"
+
+- "Best"
 - Don't take it personally, since they're likely a [narcissist](mind-neurodivergence-clusterb-narcissist.md)
 
-"All best"
+"Why did you have to bring (subject) up?"
 
-- Meaning: "This conversation is over"
-- Any further discussion is a risk, and it's [legally safest](legal-safety.md) to know how all your written correspondence would look in a court hearing.
-- "All my best" is the escalated version of this.
+- "Thanks for your interest about (subject)"
+- No response necessary, but be prepared for them to react negatively.
 
-"Happy to help"
+"I don't like your tone"
 
-- Meaning: "This is the easiest thing in my inbox"
+- "Can you soften that a bit?"
+- "We should be mindful of tone"
+- This was because you stated the information correctly, but without the vagueness they would prefer.
+
+"This is the easiest thing for me to do"
+
+- "Happy to help"
 - They will likely help, up until it becomes inconvenient for them.
 
-"I hope this helps"
+"I've done all I'm willing to do"
 
-- Meaning: "I've done all I'm willing to do"
+- "I hope this helps"
 - Don't expect anything else from them.
 
-"I did a bit of research"
+"Just a quick chat"
 
-- Meaning: "I did a websearch because you're too lazy to"
-- They don't want to help at all, so look to someone else to solve the issue.
+- "We need to have a meeting about your behavior"
+- This is usually because someone was upset, and this is how they hold everyone accountable (it looks like you've been harshly lectured)
+  - Very common in [customer service](people-customerservice.md), but can happen in any office environment.
+- Generally, you can nod along and [actively listen](language-speaking-listening.md).
 
-"Sorry to chase"
+"I might forget to get back to you"
 
-- Meaning: "Answer my email"
-- Respond to them with *something*, even if it's nothing legitimately meaningful.
-- The escalations of this are "so sorry to chase" or "I am really sorry to bug you but..."
-
-"Please contact my colleague..."
-
-- Meaning: "This isn't my problem"
-- They're handing it off to someone else.
-- The escalation of this is "I'm copying in my colleague on this message", which is because they're thrilled that it's not their problem.
-
-"I'll check and get back to you."
-
-- Meaning: "I might forget to get back to you"
+- "I'll check and get back to you."
+  - "Can you check back with me in a week" means they hope you'll forget.
+  - The escalation to this is "I'll let you know when I hear anything", which is a certainty they'll "forget" about it.
 - Set a date on your calendar and ask them sometime later about it.
-- The escalation to this is "I'll let you know when I hear anything", which is a certainty they'll forget about it.
-- "Can you check back with me in a week" means they hope you'll forget.
 
-"Per our earlier conversation..."
+"I did a websearch because you're too lazy to"
 
-- Meaning: "I hope you emotionally remember the violence I demonstrated over the phone call"
-- Disregard their behavior or make plans to get away from them, since they don't feel any [shame](mind-feelings-shame.md) about it.
-- The person on the receiving end will often say "great to chat just now."
+- "I did a bit of research"
+- They don't want to help at all but want to *look* helpful, so look to someone else to solve the issue.
 
-"Please advise."
+"I know you told me before, but I lost the information"
 
-- Meaning: "This might be your fault"
+- "Can you confirm for me...?"
+- Resend the information or ask for more detail on what to confirm.
+
+"This isn't my problem"
+
+- "Please contact my colleague..."
+  - The escalation of this is "I'm copying in my colleague on this message", which is because they're thrilled that it's not their problem.
+- They're handing it off to someone else.
+
+"Stop saying these things with witnesses"
+
+- "Let's take this offline"
+- They are trying to hide what they're doing.
+  - If at all possible, record the interaction to [stay legally safe](legal-safety.md).
+
+"This might be your fault"
+
+- "Please advise."
 - If it is your fault, own it. Otherwise, indicate the exact problem as you understand it.
 - The escalation to this is "kindly advise".
 
-"Mind if I swing by?"
+"I think you're an idiot"
 
-- Meaning: "I'm coming over right now"
-- Expect them to come in.
-
-"Can you confirm for me...?"
-
-- Meaning: "I know you told me before, but I deleted the email"
-- Resend the email or ask for more detail on what to confirm.
-
-"Sorry if that was unclear."
-
-- Meaning: "I think you're an idiot"
+- "Sorry if that was unclear."
 - Expect an eroded relationship in the future with them.
 
-"Let me know if you need anything else."
+"I hope you emotionally remember the violence I demonstrated over the phone call"
 
-- Meaning: "Please never contact me again"
+- "Per our earlier conversation..."
+- Disregard their behavior or make plans to get away from them, since they don't feel any [shame](mind-feelings-shame.md) about it.
+- The person on the receiving end will often say "great to chat just now."
+
+"Never contact me again"
+
+- "Let me know if you need anything else."
 - They want distance, so give it to them.
 
-In general, you can disrupt the facade quickly by doing a few things:
+In general, you can disrupt the façade quickly by doing a few things:
 
 - Aim for the lowest-context language possible in your reply.
   - This includes technical details and trivia that may not mean anything to them.
@@ -314,8 +335,8 @@ In general, you can disrupt the facade quickly by doing a few things:
   - If it's them saying "thanks" for something you haven't [agreed to](people-contracts.md) yet, say "I haven't agreed to it yet".
 - If they give information that makes them appear helpful, tell them how that information isn't useful.
   - You can also make them feel unimportant by asking who would be more qualified to help you.
-- Answer questions that imply you must say "yes" with "no".
-  - Alternately, answer the question they're asking, not the question they're implying.
+- For questions which imply you must say "yes", answer with "no".
+  - Alternately, answer the question they're asking with details, not the question they're implying.
 
 ## Say "no" politely
 

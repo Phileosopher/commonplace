@@ -3,7 +3,7 @@
 
 ## Animation
 
-Animation is an advancement of [visual art](art-media-visual.md) into motion.
+Animation is an advancement of [visual art](art-media-visual.md) by combining it with the optical illusion of motion.
 
 - The amount of effort it takes means that it usually requires a team of people.
 

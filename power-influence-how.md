@@ -132,3 +132,4 @@ However, charming people must be [ethical](morality.md).
   - If it serves only your self-interest, your charm may become [narcissistic behavior](mind-neurodivergence-clusterb-narcissist.md) over time.
 - The other side of charm is to hold yourself accountable.
   - When you fail or have limits, radically and openly own them.
+

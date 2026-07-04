@@ -57,6 +57,7 @@ Other
 - [2022-01 Dishwashers now sometimes require updating their firmware over their Wi-Fi before starting](https://web.archive.org/web/20220131003821/https://twitter.com/isislovecruft/status/1487947074901463040).
 - [2022-05 To prevent a downgrade, Nintendo permanently blows the fuses of its Switch gaming consoles](https://web.archive.org/web/20220504201800/https://blog.jonlu.ca/posts/nintendo-switch).
 - [2022-06 Brother printers are now locking out non-Brother-approved printer cartridges](https://news.ycombinator.com/item?id=31860131).
+- [2023-12 The Dragon Sector hacking group found that Newag, the train manufacturer, designed trains to break down after third-party repairs](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/).
 
 ## Political action taken
 

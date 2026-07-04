@@ -295,6 +295,11 @@ The more we know, the less we tend to do something, so push past your fears by s
 
 - We're more likely to suffer regret over opportunities we didn't take than over our failed attempts.
 
+This is especially important when your day doesn't start the right way.
+
+- Everyone has bad days, so take it in stride.
+- One of the most effective ways to take bad days is to do important things you absolutely hate doing on that day, since you're already miserable that day anyway.
+
 ### 13. Don't "visualize success"
 
 When you imagine the glory of success, you're ignoring ways you can fail.

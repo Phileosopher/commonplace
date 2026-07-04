@@ -9,10 +9,16 @@ You will *not* get out of your [addiction](addiction.md) by yourself:
   - If you choose another substance, you're simply swapping out one mental poison for another.
 - Thus, the only "substance" that's safe is a supportive community of [friends](people-friends.md) and the release and personal relationship with [God](theology-god.md).
 
+You must accept two specific, non-negotiable facts:
+
+1. Past [abuse](hardship-abuse.md) brought you here, so that makes you a victim.
+2. You'll never break free from your addiction until you accept radical responsibility for your actions.
+
 Find a healthy community that supports your new lifestyle:
 
 - If your friends abuse the same substance as you, your [habits](habits.md) won't change because they will sabotage any effective changes.
 - Besides recovery groups, you can also find healthy support through [friendships](people-friends.md) you find through [clubs](groups-member.md) and [church](church.md).
+- However, even many *recovery groups* are codependent addicts to their community, so it may require constantly seeking to find a healthy support network.
 
 One of the reasons addictions are so difficult to kill is because of the comparative dopamine rush.
 
