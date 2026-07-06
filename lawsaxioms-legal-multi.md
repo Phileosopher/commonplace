@@ -25,6 +25,8 @@ Law of the case - if an appellate court doesn't take a lower court's case, it wo
 
 Legal transplant - the best way to test out new governments is for laws to transplant and adapt into new government and court systems
 
+Lesser Magistrate - a smaller governing force has the moral right to defend against the tyranny of a larger governing force
+
 Margin of appreciations (human rights law) - in the European Convention of Human Rights, courts can reconcile practical differences in reconciling articles of the convention pertaining to human rights
 
 Mozambique rule - a court has no jurisdiction over foreign land disputes

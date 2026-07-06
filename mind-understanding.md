@@ -157,6 +157,8 @@ However, civilized society requires that people be [educated](education.md). For
 
 And, since we have *much* more information over how little we really know versus everyone else, we tend to believe others' image more than our own knowledge, even when we are *much* more knowledgeable than they are (impostor syndrome). This issue can scale with [self-awareness](mind-awareness.md) combined with [intelligence](people-personality.md).
 
+Generally, the longest-lasting understanding comes through [being able to synthesize high-quality axioms](mind-understanding-axioms.md), though having a long-term [intuition](mind-feelings.md) can also serve its place.
+
 ## Drawbacks of understanding
 
 Gaining understanding often rearranges our view of the world. There's no consequence for changed understanding when we don't have much power, but gaining [power](power.md) increases the [risk](safety.md) of losing that power if we [change](people-changes.md). In many [cultures](people-culture.md), [Large-scale leaders](groups-large.md) have so much [power contained in their understanding](power-types.md) that the slightest change in how they see the world could shift their power enough that they may entirely lose their authority.

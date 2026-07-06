@@ -12,7 +12,7 @@ In the tech industry, a successful job-search will *also* include building and c
 - Take classes and tutorials to build out measurable accomplishments.
 - Aim less for projects that solve conceptual software engineering problems and more for projects that can solve actual business problems.
 
-Many tech roles require what they call "commercial experience" (i.e., you've been working in a professional capacity in that role). It's not too hard to sidestep it: just [freelance](entrepreneur-4_freelancing-cs.md) in domains related to the role for 4-6 months.
+Many tech roles require what they call "commercial experience" (i.e., you've been working in a professional capacity in that role). It's not too hard to sidestep it: just [freelance](entrepreneur-4_freelancing.md) in domains related to the role for 4-6 months.
 
 ### Courses
 

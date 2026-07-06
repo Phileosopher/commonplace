@@ -39,6 +39,15 @@ Watch for warning signs of being "busy" more than productive:
 - Focusing too much attention on irrelevant numbers (e.g., how many people contacted, how many checklist items completed).
 - Frequently attending networking events with zero leads from the visit.
 
+Always keep [marketing](marketing.md) yourself, even when things are going well.
+
+- There's a lead time between getting a prospect and closing a deal, and you may be [cycling](people-trends.md) into a downward season without realizing it.
+
+Stay mindful of [what you don't know](unknown.md).
+
+- You should constantly be [learning](education.md), since you really don't know everything.
+- Your [prayer life](spiritual-exercises-prayer.md) should reflect how much you're trusting God.
+
 ## Stay mobile
 
 Avoid short-term thinking.

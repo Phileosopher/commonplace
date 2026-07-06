@@ -30,39 +30,9 @@ Like [success](success-1_why.md) and [investing](money-investing.md), there's a 
 - The formal [culture](people-culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
 - Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
-## The image of management
-
-Our [religious tendencies](religion.md) mean we tend to draw behind the [image](people-image-why.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
-
-- It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
-- Even [inventions](technology.md) and [social trends](people-trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
-
-Management reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-friends.md):
-
-- [Aptitude](success-1_why.md) (or at least competence) in the group's specialization.
-- Behavior that appears [decisive](mind-understanding-certainty.md).
-- Distant enough with subordinates to stay relatively [unbiased](mind-bias.md), but close enough to provide [emotional](mind-feelings.md)/[moral](morality.md) support.
-
-And generally, people tend to select their leaders from among the people who talk the most in a group.
-
-- This is because [language](language.md) is a form of [power](power.md), which implies someone has more control than everyone else.
-
-Actual management, however, includes a few extra details the image fails to portray:
-
-1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts-why.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](mind-decisions.md) leaders that give clear and practical examples of what to do.
-2. Most management includes lots of [organization](organization.md), along with lots of [communication](people-conversation.md) that [inspires](meaning.md) others to add to that organized state themselves.
-3. Managers are forced to take responsibility for difficult [decisions](mind-decisions.md). Most of them are choices between an awful thing and something worse.
-
-Management has also gotten a bad reputation for several reasons:
-
-1. Similarly to [entrepreneurship](entrepreneur-1_what.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
-2. The [power](power-types.md) that comes from managerial authority draws many people who desire nothing more than that power.
-3. We often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
-4. At least 20% of the management class are clinically diagnosable [psychopaths](mind-neurodivergence-clusterb-narcissist.md), with that number being much higher if we include other forms of narcissism, Cluster B personality, and the edge cases.
-
 ## Qualifications
 
-Anyone can be a manager if they're given the role, but *successful* management directs people toward a [purpose](purpose.md) and helps them accomplish it.
+Anyone can be a manager if they're given the role, but *leaders* direct people toward a [purpose](purpose.md) and help them accomplish it.
 
 - The [specialization](jobs-specialization.md) to manage is uniquely different from most other specializations.
   1. They must effectively communicate what an individual is supposed to do, and often far more frequently.
@@ -103,7 +73,7 @@ Almost everyone is *capable* of being a manager, but not everyone has the [perso
 - The specific and intense demands of higher-level managerial roles often mean [Cluster B and ASD](mind-neurodivergence.md) are unusually frequent compared to many other domains.
   - Both of them also tend to fail in the domain of social skills (ASD from [unawareness](mind-awareness.md), [Cluster B](mind-neurodivergence-clusterb.md) from apathy), which is part of why [management can develop stereotypes](mgmt-badsystems.md).
 
-Managers have to battle the conflicting interests between their subordinates and *their* managers, so there are several major ways to fail:
+Managers have to battle the conflicting interests between their subordinates and *their* leaders, so there are several major ways to fail:
 
 1. Prioritize subordinates over superiors.
    - Their leadership is an outstanding environment to work in and grow [as an employee](jobs-1_why.md).
@@ -129,17 +99,62 @@ Managers have to battle the conflicting interests between their subordinates and
      - They're more likely to identify the group with "I" instead of "we".
      - The people who work for them clearly have things they wish they could say, but don't feel [safe](safety.md) to say it.
 
-## Leading > managing
+## Management versus leadership
+
+Our [religious tendencies](religion.md) mean we tend to draw behind the [image](people-image-why.md) of a leader, and that leader tends to become a [symbolic depiction](symbols.md) of the [group's values](groups-small.md).
+
+- It takes an entire [group of people](groups-small.md) to do anything significant, but someone always ends up maintaining the group's [culture](people-culture.md), and they eventually become the "face" of the organization.
+- Even [inventions](technology.md) and [social trends](people-trends.md) advanced by 1 person create an informally managed group once a few dozen fans start engaging with it.
+
+Good management (and leadership) reproduces the role of high-quality [fatherhood](parenting-children.md) we inherit from our [upbringing](maturity.md), but tends to have a more limited scope of [love](people-love.md) and [human connection](people-friends.md):
+
+- [Aptitude](success-1_why.md) (or at least competence) in the group's specialization.
+- Behavior that appears [decisive](mind-understanding-certainty.md).
+- Distant enough with subordinates to stay relatively [unbiased](mind-bias.md), but close enough to provide [emotional](mind-feelings.md)/[moral](morality.md) support.
+
+And generally, people tend to select their leaders from among the people who talk the most in a group.
+
+- This is because [language](language.md) is a form of [power](power.md), which implies someone has more control than everyone else.
+
+Actual managers, however, have a few extra details the image fails to portray:
+
+1. Management is more about leadership than [negotiation](people-conflicts-negotiation.md). [Conflicts](people-conflicts-why.md) are a common-enough issue with people, but most [power struggles](power.md) can be avoided by [strong](power-types.md), [decisive](mind-decisions.md) leaders that give clear and practical examples of what to do.
+2. Most management includes lots of [organization](organization.md), along with lots of [communication](people-conversation.md) that [inspires](meaning.md) others to add to that organized state themselves.
+3. Managers are forced to take responsibility for difficult [decisions](mind-decisions.md). Most of them are choices between an awful thing and something worse.
+
+Management has also gotten a bad reputation for several reasons, all due to bad leaders:
+
+1. Similarly to [entrepreneurship](entrepreneur-1_what.md), most management books are written by lucky people whose techniques may or may not be worth reproducing.
+2. The [power](power-types.md) that comes from managerial authority draws many people who desire nothing more than that power.
+3. We often can learn from others' failures more than mistakes, but books about failed management are rarely top sellers.
+4. At least 20% of the management class are clinically diagnosable [psychopaths](mind-neurodivergence-clusterb-narcissist.md), with that number being much higher if we include other forms of narcissism, Cluster B personality, and the edge cases.
 
 All managers *should* have leadership qualities because managers must perform specific results:
 
-- Bring a sense of [mission or vision](purpose.md) to seemingly mundane tasks.
-- Can identify [potential candidates](mgmt-3_teams.md).
-- Nurtures late-bloomers who aren't rising to their presented challenges.
-- Fire or dismiss lazy, uncooperative, and complaining workers.
-- Adapt to the situation as it [changes](people-changes.md).
-- [Loyal](mind-trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
-- Capable of making clear [decisions](mind-decisions.md) confidently enough that others [trust](mind-trust.md) them.
+- They must be available to actually perform the role, since it will take time from other tasks they may also be doing.
+- They must have [moral character](morality-virtues.md).
+  - Without this, they won't bring a sense of [mission or vision](purpose.md) to seemingly mundane tasks.
+  - They must be capable of making clear [decisions](mind-decisions.md) confidently enough that others [trust](mind-trust.md) them.
+- They should have a healthy [intuition](mind-feelings.md).
+  - It allows them to identify [potential candidates](mgmt-3_teams.md).
+- They must be teachable and humble.
+  - This means they'll adapt to the situation as it [changes](people-changes.md).
+- They must be proactive to address issues *before* they grow bigger.
+  - They'll nurture late-bloomers who aren't rising to their presented challenges.
+  - They'll fire or dismiss lazy, uncooperative, and complaining workers.
+- They must be beleivers in a cause, *not* to an [organization](groups-large.md).
+  - This is the only way they'll be [loyal](mind-trust.md) when things grow difficult.
+
+In particular, focus on a leader's potential, *not* their problems.
+
+- Many of the strongest qualities of people often stem from the same place as their character defects.
+
+Every great manager will have a calling for the role.
+
+- The domain of "calling" is vague, but it essentially is that someone is destined to act in that capacity.
+- Most modern management theories don't capture someone's calling, since they're usually secularly inspired.
+- However, [Christian mangement](mgmt-church.md) does understand this role, and they often show how many otherwise-unknown people can maximize their potential.
+- The reason a calling is so important is because leading is difficult, so most people will give up and do something less stressful.
 
 While management itself is a role, leadership is a mindset and skillset:
 
@@ -260,6 +275,11 @@ This range of skills varies by [industry](jobs-specialization-industries.md) as 
 Most management roles clarify the contrast between prioritizing relationships versus tasks, but *every* manager must love their work.
 
 - Happy leaders make generally happier members, who will mirror their leaders' behavior and attitude with more enthusiasm, confidence, and productivity.
+
+It's worth noting that spiritual and and secular leadership are diametrically opposed in their philosophies.
+
+- Being a Christian means trusting God's guidance, so it means picking people who are often seemingly bad picks.
+- Christian leadership also emphasizes serving, *not* directing people.
 
 ## Management theories
 
