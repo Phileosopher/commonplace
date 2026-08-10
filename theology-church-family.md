@@ -1,34 +1,34 @@
 
 # How Christians should see family
 
-As a believer, you have a new [family](people-family.md) by relation through Jesus ([Matthew 12:48-50](https://biblehub.com/matthew/12.htm)).
+As a believer, you have a new [family](people-family.md) by relation through Jesus (Matthew 12:48-50).
 
 This family is a spiritual one that adds on top of (and sometimes supersedes) your biological family.
 
-- If you don't have a good family, God will bless you with other members to replace them ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).
+- If you don't have a good family, God will bless you with other members to replace them (Matthew 19:29).
 - Some groups bordering on [cult status](people-culture-cults.md) go to an extreme of disassociating with *all* family, but there's no directive in the Bible to disassociate from biological family.
   - In fact, there is more in Scripture toward [sharing Christ with them](spiritual-exercises-evangelism.md) than anything else.
-- Compared to your physical family, your spiritual family is *much* more important ([Ephesians 2:19](https://biblehub.com/ephesians/2-19.htm)).
+- Compared to your physical family, your spiritual family is *much* more important (Ephesians 2:19).
 
 Your relationship with God *must* extend beyond you and Him.
 
-- God has placed you in [the Body of Christ](church.md) to [love and be loved](people-love.md) ([John 13:34-35](https://biblehub.com/john/13.htm)).
-- Loving others is messy and challenging ([1 Corinthians 13](https://biblehub.com/1_corinthians/13.htm)).
+- God has placed you in [the Body of Christ](church.md) to [love and be loved](people-love.md) (John 13:34-35).
+- Loving others is messy and challenging (1 Corinthians 13).
 
 ## Don't over-prioritize biological family
 
 We tend to give *much* more grace to our biological family than anyone else.
 
-- However, Jesus wants to intentionally divide biological families ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
-- Jesus makes it abundantly clear that our desire for our family should never get in between us and Him ([Matthew 10:37](https://biblehub.com/matthew/10-37.htm)).
+- However, Jesus wants to intentionally divide biological families (Matthew 10:34-36).
+- Jesus makes it abundantly clear that our desire for our family should never get in between us and Him (Matthew 10:37).
 
 The New Testament *constantly* references other believers as brothers and sisters in Christ.
 
-- Love them ([1 Corinthians 13](https://biblehub.com/1_corinthians/13.htm)).
-- Inspire them to good works ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
-- Meet with them frequently ([Hebrews 10:26](https://biblehub.com/hebrews/10-26.htm)).
+- Love them (1 Corinthians 13).
+- Inspire them to good works (Hebrews 10:24-25).
+- Meet with them frequently (Hebrews 10:26).
 
-The guidelines for a healthy marriage are *explicitly* outlined in [1 Corinthians 7](https://biblehub.com/1_corinthians/7.htm):
+The guidelines for a healthy marriage are *explicitly* outlined in 1 Corinthians 7:
 
 1. Your body, upon marriage, is no longer yours, but is your spouse's.
 2. Therefore, don't turn down their offers for [sexual intimacy](relationships-sex.md)
@@ -39,41 +39,41 @@ The guidelines for a healthy marriage are *explicitly* outlined in [1 Corinthian
 
 While it never excuses [bad boundaries](people-boundaries-why.md), the Bible implies a specific triage of how we should prioritize our relationships, even when they're abusive:
 
-1. God above anyone else ([Luke 10:27](https://biblehub.com/luke/10-27.htm))
-2. [Spouse](people-gender.md), even when you can't stand them, they [sin](theology-sins.md) against you, or if they cheat on you ([Ephesians 5:22-33](https://biblehub.com/ephesians/5.htm))
+1. God above anyone else (Luke 10:27)
+2. [Spouse](people-gender.md), even when you can't stand them, they [sin](theology-sins.md) against you, or if they cheat on you (Ephesians 5:22-33)
 3. [Children](parenting-children.md), with no partiality, irrespective of genetics, until they are adults, along with extended family who are helpless
-4. All spiritual family, which are essentially [other believers](church.md) ([Matthew 12:46-50](https://biblehub.com/matthew/12.htm))
-5. Suffering people like the poor, orphans, and widows ([James 1:27](https://biblehub.com/james/1-27.htm))
-6. All official authority figures ([Romans 13:1-7](https://biblehub.com/romans/13.htm))
+4. All spiritual family, which are essentially [other believers](church.md) (Matthew 12:46-50)
+5. Suffering people like the poor, orphans, and widows (James 1:27)
+6. All official authority figures (Romans 13:1-7)
 7. All non-believing extended family members (e.g., adult children, grandparents, grandchildren, aunts and uncles, nieces and nephews)
 8. [Everyone and everything else](spiritual-exercises-evangelism.md)
 
 ## If single, take your time
 
-Single people can serve God with fewer distractions ([1 Corinthians 7:6-7](https://biblehub.com/1_corinthians/7.htm)).
+Single people can serve God with fewer distractions (1 Corinthians 7:6-7).
 
 Deeply consider all possible romantic relationships.
 
 - [Marriage](relationships-marriage.md) is exceedingly challenging and has many risks of its own.
-- Unwisely marrying guarantees a lifetime of misery ([Proverbs 21:9](https://biblehub.com/proverbs/21-9.htm)).
-- If you marry poorly and divorce, you've made things spiritually complicated ([Matthew 5:31-32](https://biblehub.com/matthew/5.htm)).
+- Unwisely marrying guarantees a lifetime of misery (Proverbs 21:9).
+- If you marry poorly and divorce, you've made things spiritually complicated (Matthew 5:31-32).
 - If you're in love, imagine a person never changing, then ask if you can live with that person for the rest of your time on earth, even when everything you love about them becomes annoying.
 
 Pick your [dates](relationships-dating.md) carefully.
 
-- Don't [steadily date with](relationships-dating.md) or get in [relationships](relationships-marriage.md) with non-believers ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
+- Don't [steadily date with](relationships-dating.md) or get in [relationships](relationships-marriage.md) with non-believers (2 Corinthians 6:14).
 - Even when someone is open-minded, they're more likely to frustrate you or steer you away from Christ than your efforts legitimately [changing](people-changes.md) them.
 - Non-believers are spiritually dead, so they'll usually find believers' spirituality attractive, for a season.
-- To discern a non-believer, observe their lifestyle more than what they say ([Matthew 7:15-20](https://biblehub.com/matthew/7.htm)).
-- More than anything else, flee sexual immorality ([1 Corinthians 6:18](https://biblehub.com/1_corinthians/6-18.htm)).
+- To discern a non-believer, observe their lifestyle more than what they say (Matthew 7:15-20).
+- More than anything else, flee sexual immorality (1 Corinthians 6:18).
 
 Don't [idolize](addiction-substances.md) romantic relationships.
 
 - The idea of a "soul mate" or "the one" is a non-biblical Hindu belief.
-- [Share the Gospel](https://theologos.site/gospel/) with unbelievers, but avoid "missionary dating" to prevent sexual immorality or an unequal marriage ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
+- [Share the Gospel](https://theologos.site/gospel/) with unbelievers, but avoid "missionary dating" to prevent sexual immorality or an unequal marriage (2 Corinthians 6:14).
 - Give everything to God, including *all* hopes of having a relationship with anyone.
 
-God *will* make it clear, whether by your observation, intuition, or others, about anyone who is a risk to your spiritual state ([1 Corinthians 14:33](https://biblehub.com/1_corinthians/14-33.htm)).
+God *will* make it clear, whether by your observation, intuition, or others, about anyone who is a risk to your spiritual state (1 Corinthians 14:33).
 
 - Their words or actions will contradict God's truth.
 - They'll be resistant to God's peace, and will instead be confused or anxious.
@@ -82,18 +82,18 @@ God *will* make it clear, whether by your observation, intuition, or others, abo
 
 The father, mother, and child symbolize a type of trinity.
 
-A marriage relationship symbolizes Christ and the Church ([Ephesians 5](https://biblehub.com/ephesians/5.htm)).
+A marriage relationship symbolizes Christ and the Church (Ephesians 5).
 
-- God created men and women for [specific roles](people-gender.md), and the man is the head of the household ([Ephesians 5:22-24](https://biblehub.com/ephesians/5.htm)).
-- His primary concern should be for his woman ([Ephesians 5:23-33](https://biblehub.com/ephesians/5.htm)), even [when she doesn't respect his role](people-gender.md).
+- God created men and women for [specific roles](people-gender.md), and the man is the head of the household (Ephesians 5:22-24).
+- His primary concern should be for his woman (Ephesians 5:23-33), even [when she doesn't respect his role](people-gender.md).
 - Everything about healthy [*secular* marriage](relationships-marriage.md) applies to a Christian marriage, but with even more love.
 
-Children are an inherent blessing from God ([Psalm 127:3-5](https://biblehub.com/psalms/127.htm)), and the chaos and wild experiences of children are always worth the sacrifice when we [follow God's will](god-will.md).
+Children are an inherent blessing from God (Psalm 127:3-5), and the chaos and wild experiences of children are always worth the sacrifice when we [follow God's will](god-will.md).
 
-Children should obey their parents, and fathers shouldn't provoke their children ([Ephesians 6:1-4](https://biblehub.com/ephesians/6.htm)).
+Children should obey their parents, and fathers shouldn't provoke their children (Ephesians 6:1-4).
 
-- Spoiled children bring shame to a family ([Proverbs 29:15](https://biblehub.com/proverbs/29-15.htm)).
-- Children learn to obey their parents through discipline ([Proverbs 29:17](https://biblehub.com/proverbs/29-17.htm)).
+- Spoiled children bring shame to a family (Proverbs 29:15).
+- Children learn to obey their parents through discipline (Proverbs 29:17).
 - All the [rules of good parenting](parenting-children.md) apply to Christian households, but with *much* more [love](people-love.md), and with a more profound awareness of [our sin condition](theology-sins.md).
 
 Until they are adults, a parent's most important ministry is their children.
@@ -101,7 +101,7 @@ Until they are adults, a parent's most important ministry is their children.
 - No matter who you are, your role as a parent is to [lead them](spiritual-discipleship.md) through example, because they see your *entire* life.
 - They will have many years to observe whether you have a genuine love for Christ.
 - When they're ready, you're responsible to [lead them to Christ](https://theologos.site/gospel/).
-- In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-children.md) ([1 Timothy 3:4-5](https://biblehub.com/1_timothy/3.htm)).
+- In fact, all good [spiritual leadership](mgmt-church.md) *starts* with good [parenting](parenting-children.md) (1 Timothy 3:4-5).
 
 Teach children about God.
 
@@ -111,12 +111,12 @@ Teach children about God.
 - Train them to fully love and serve the Lord.
 - Don't try to rush them, since they have to learn for themselves.
 
-Family households are never permanent, and God designed them to grow children into adults [who leave](parenting-3_teenagers.md) to create their *own* families ([Genesis 2:24](https://biblehub.com/genesis/2-24.htm)).
+Family households are never permanent, and God designed them to grow children into adults [who leave](parenting-3_teenagers.md) to create their *own* families (Genesis 2:24).
 
 - Once you've seen them off, accept the inherent risks from their journey of faith in God.
 - If you *are* an adult and still with your parents, get out there and [succeed](success-1_why.md) already!
 
-God redeems and forgives, so fully [forgive](hardship-forgiveness.md) any adult child who comes back after rebelling ([Luke 15:11-32](https://biblehub.com/luke/15.htm)).
+God redeems and forgives, so fully [forgive](hardship-forgiveness.md) any adult child who comes back after rebelling (Luke 15:11-32).
 
 - Jesus demonstrates how much love fathers should have for their lost sons.
 - However, your adult child should still reap the [consequences](results.md) of their decisions.

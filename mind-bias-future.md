@@ -105,7 +105,7 @@ Zero-sum bias - we assume there's a winner and a loser, even when everyone can w
 
 Choice-supportive bias/post-purchase rationalization - we justify decisions we've agreed to and discredit decisions we didn't take
 
-Confirmation bias/congruence bias/cherry-picking - we seek evidence that confirms what we already think
+Confirmation bias/congruence bias/cherry-picking - we seek evidence that confirms what we already think instead of coming to conclusions *after* we get the evidence
 
 Endowment effect/divestiture aversion/mere ownership effect - we value something more if we feel it's ours
 

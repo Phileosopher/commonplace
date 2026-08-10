@@ -3,12 +3,12 @@
 
 God has a two-step approach to salvation:
 
-1. We are given a thorough-enough [understanding of our sin](theology-sins.md) through the Hebrew Law ([Romans 3](https://biblehub.com/romans/3.htm)).
+1. We are given a thorough-enough [understanding of our sin](theology-sins.md) through the Hebrew Law (Romans 3).
     - The Law indicates we've all sinned more than we realize.
     - This Law also indicates that we are woefully incapable in any individual or political sense to fulfill it.
     - The conclusion, if we are willing to believe it, is that we are utterly condemned by God in one way or another.
     - This condemnation is only redeemable through a sacrifice that pays for our sins.
-2. Jesus, as God, chose to become the moral sacrifice for all our sins ([Romans 5:6-6:13](https://biblehub.com/romans/5.htm)).
+2. Jesus, as God, chose to become the moral sacrifice for all our sins (Romans 5:6-6:13).
 3. When we persevere to the end (meaning [death](hardship-death.md)), we will be saved (Matthew 24:13, Mark 13:13, Luke 21:19, Galatians 6:9, 2 Timothy 2:12, Revelation 2:10).
    - God will certainly assist in this perseverance (Hebrews 10:36)
    - There is more to this, such as giving us authority (Revelation 2:26) and a permanent relationship with Him, but [that's a different discussion](theology-godandman.md).
@@ -74,7 +74,7 @@ We have an interim [unknown](unknown.md) historical period in our flow towards s
 3. That person lives the rest of their life.
    - It can range from a righteous, fruit-bearing life to a pure selfishness.
 4. After that person dies, they will attain salvation if they persevere to the end.
-   - This *could* mean an individual who bears very few spiritual works may still scrape into heaven ([1 Corinthians 3:10-15](https://biblehub.com/1_corinthians/3.htm)).
+   - This *could* mean an individual who bears very few spiritual works may still scrape into heaven (1 Corinthians 3:10-15).
 
 In that historical void, the [predestination](theology-predestination.md) debate is a closely connected but separate discussion.
 

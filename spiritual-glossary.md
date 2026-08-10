@@ -1,7 +1,7 @@
 
 # Spiritual terms glossary
 
-This is a glossary of theology terms beyond the terms present outside [cults, heresies, and disagreements](people-conflicts-christian-why.md) or [Christian philosophy](glossary-philosophy-christian.md).
+This is a glossary of theology terms beyond the terms present outside [cults, heresies, and disagreements](people-conflicts-christian-why.md) or [Christian philosophy](philosophy-glossary-christian.md).
 
 Adoption - The state of God adopting a believer as His son, often discussed alongside justification, sanctification, and glorification
 
@@ -13,13 +13,13 @@ Apophatic theology - aka negative theology, finding truths by affirming what thi
 
 Apotheosis - aka divinization, the process of God's grace on man, contrasts with theosis, Western churches use the concept more
 
-Arminianism - The belief that humanity's free will is distinct from God's sovereignty, tends to exist as [compatibilism](glossary-philosophy.md), often emphasizes [spiritual gifts](spiritual-gifts.md)
+Arminianism - The belief that humanity's free will is distinct from God's sovereignty, tends to exist as [compatibilism](philosophy-glossary.md), often emphasizes [spiritual gifts](spiritual-gifts.md)
 
 Atonement - establishing a decent relationship between two parties through reparations and agreement
 
 Bibliology - The systematic theology branch that addresses the Bible
 
-Calvinism - The belief that God is sovereign, can veer into [fatalism](glossary-philosophy.md)
+Calvinism - The belief that God is sovereign, can veer into [fatalism](philosophy-glossary.md)
 
 Cataphatic theology - aka affirmative theology, finding truths by affirming what things are, contrasts with apophatic theology
 
@@ -51,11 +51,13 @@ Eschatology - The systematic theology branch that addresses the end times and Je
 
 Evangelism - Literally "good messenger", various forms of sharing [the Gospel](https://theologos.site/gospel/) to the world
 
-Elect - The people who God has predestined for eternal life, most prominently shown in [Ephesians 1:4-6](https://biblehub.com/ephesians/1.htm)
+Elect - The people who God has predestined for eternal life, most prominently shown in Ephesians 1:4-6
+
+Faith - Intellectual belief along with relational trust or commitment, a direct contrast with the rest of the world's definition (which is a synonym of "hope")
 
 Father - the Person of the Godhead who is omniscient and omnipotent
 
-Futurism - The eschatological view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), will happen in the future
+Futurism - The eschatological view that God's prophecies, especially in John's Revelation, will happen in the future
 
 Gap creationism - An Old Earth creationism view that there were distinct gaps between each "day" in Genesis
 
@@ -73,11 +75,11 @@ Heresiology - The study of heresy
 
 Hermeneutics - The theory and method of interpreting what the Bible says
 
-Historicism - The view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), are happening throughout history as clear eras and epochs
+Historicism - The view that God's prophecies, especially in John's Revelation, are happening throughout history as clear eras and epochs
 
 Holy Spirit - the Person of the Godhead who is omnipresent and serves the will of the Father
 
-Idealism - the view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), are allegorical and happen symbolically throughout history
+Idealism - the view that God's prophecies, especially in John's Revelation, are allegorical and happen symbolically throughout history
 
 Imputation - transferring the judgment of sin from one individual to another, part of Levitical law, as well as Christ's work
 
@@ -117,7 +119,7 @@ Predestination - God's knowledge ahead of time about where people will be in ete
 
 Premillennial - the futurist view that Jesus is coming back to set up [a millennium of rule](https://theologos.site/millennium/), contrasts to postmillennial and amillennial
 
-Preterism - the view that God's prophecies, especially in [John's Revelation](https://biblehub.com/revelation/1.htm), are referring to things that have already happened (e.g., the fall of Rome)
+Preterism - the view that God's prophecies, especially in John's Revelation, are referring to things that have already happened (e.g., the fall of Rome)
 
 Propitiation - turning away punishment through an offering that makes peace
 
@@ -144,6 +146,8 @@ Theophany - a direct and personal encounter with God
 Theosis - aka deification, the process of man becoming unified with God, contrasts with apotheosis, Eastern churches use the concept more
 
 Theological anthropology - the systematic theology branch that addresses who people are with respect to God creating us
+
+Trinity - The universally accepted Christian theology that God is three persons as Father, Son, and Holy Spirit
 
 Veneration/intercessory prayer - praying to saints or Mary, demarcated by Catholics but considered idolatry by Protestants
 

@@ -12,7 +12,7 @@ Since materialism can't be true, **behaviorism** and its subsets are false (with
 **Rationalism** is a logical consequence of believing a human soul exists, which also means **empiricism** (with **associationism** and **verificationism**) are effectively wrong.
 
 - As a side effect, **positivism** can't be correct either.
-- Further, **innatism** is necessary to believe God instills morality into us from the beginning ([Romans 1:20](https://biblehub.com/romans/1-20.htm)).
+- Further, **innatism** is necessary to believe God instills morality into us from the beginning (Romans 1:20).
 
 **Presuppositionalism** is necessary to believe God interacts with us through revelation and not simply logic.
 
@@ -29,7 +29,7 @@ Many domains of understanding can work well without any conflict:
 - **Logical atomism** can help us to [understand the primitives](https://trendless.tech/primitives/) that hold up what we believe.
 - **Phenomenalism** gives some relativistic view on how we perceive, which can work up to a point.
 
-Both **externism** and **solipsism** (as well as **transcendental idealism** and **Hegelianism**) are possible, but difficult because we're not supposed to lean on our own understanding ([Proverbs 3:5](https://biblehub.com/proverbs/3-5.htm)).
+Both **externism** and **solipsism** (as well as **transcendental idealism** and **Hegelianism**) are possible, but difficult because we're not supposed to lean on our own understanding (Proverbs 3:5).
 
 ### The verdict on the essence of knowledge
 

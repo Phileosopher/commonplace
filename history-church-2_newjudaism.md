@@ -15,7 +15,7 @@ The Service of Thanksgiving was a very private, Christians-only event:
 - Communion/Eucharist was performed at that time, and it may have even been a proper meal (rather the symbolic cup and small pieces of bread represented now).
 - Later, baptisms became part of that experience as well.
 
-Those Christians were known among society as a *very* tightly-knit community. This was absolutely unheard-of in the highly [stratified](jobs-specialization.md) slave/foreigner/Roman hierarchy. They greeted each other with a "holy kiss", which was a common, sincere, and non-sexual act of family affection. [The Book of Acts](https://www.bible.com/bible/206/ACT.4.WEB) shows how they shared everything together to fulfill everyone's needs.
+Those Christians were known among society as a *very* tightly-knit community. This was absolutely unheard-of in the highly [stratified](jobs-specialization.md) slave/foreigner/Roman hierarchy. They greeted each other with a "holy kiss", which was a common, sincere, and non-sexual act of family affection. The Book of Acts shows how they shared everything together to fulfill everyone's needs.
 
 Interestingly, their privacy actually created confusion for the Romans:
 
@@ -23,7 +23,7 @@ Interestingly, their privacy actually created confusion for the Romans:
 - On the 3rd, 9th, and 30/40th day after a believer passed, Christians would gather at the departed's tomb, read Scripture, pray together, give money to the poor, and eat a meal together.
 - Altogether, some Romans had misunderstood (to the point of justifying [persecution](hardship-persecution-church.md)) that the Christians were cannibals (Eucharist+graves), ate boys baked into bread (baptism+Eucharist), and performed lewd acts with each other (holy kiss+Thanksgiving Service).
 
-It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an expansion of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest ([Hebrews 4:14-16](https://biblehub.com/hebrews/4.htm)). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
+It's worth noting they didn't *have* a clergy-laity distinction, which came later. They saw Christianity as a "new priesthood" to the world as an expansion of the Levitical priesthood to the nation of Israel, with Jesus as the High Priest (Hebrews 4:14-16). They were responsible to curate and demonstrate [morality](morality.md) for the rest of the world.
 
 The logical outflow of the "new priesthood" thought was that [Jesus returning](theology-end.md), and [His eventual reign](https://theologos.site/millennium/), was a coming reality more than merely something to hope for. Death wasn't as much "permanent departure" as much as "will return soon", and they didn't believe in a Rapture.
 
@@ -61,7 +61,7 @@ The original, casual, personal Christian experience had absorbed some teachings 
 
 Over time, the church buildings themselves started representing a similar vein of symbolism to the Jewish Temple:
 
-1. The building became the "holy place" (instead of the Bible's clarification that [our *bodies* are temples of the Most High](https://www.bible.com/bible/206/1co.6.19)).
+1. The building became the "holy place" (instead of the Bible's clarification that our *bodies* are temples of the Most High (1 Corinthians 6:19)).
 2. There's a sanctuary for the clergy (like the Holy Place).
 3. A nave is for the laity and nonbelievers (like the Court of Women).
 4. There's a narthex for anyone (like the Court of the Gentiles).

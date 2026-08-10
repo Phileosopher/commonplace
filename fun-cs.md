@@ -79,6 +79,10 @@ A compilation of silly, nerdy stuff worth memorializing: [EntertainingSpace](htt
 
 [Obsolete "see-through glass"](https://web.archive.org/web/20210625194633/https://twitter.com/RunDaltonRun/status/1408507323031592964) - Because technology needs updating.
 
+[STAR WARS ASCIIMATION](https://asciimation.co.nz/#) - Star Wars Episode IV, demastered to ASCII.
+
+- Telnet Star Wars: use `telnet towel.blinkenlights.nl` to watch STAR WARS ASCIIMATION in your terminal.
+
 [Stupid Shit No One Needs & Terrible Ideas Hackathon](https://stupidhackathon.com/) - Post-modern coding art.
 
 [The UX on this Small Child Is Terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) - Going where UX hasn't gone much.
@@ -122,6 +126,8 @@ Run "tracert bad.horse" in a CLI (reference to [Doctor Horrible's Sing-Along Blo
 ## Games done wrong
 
 [Bennett Foddy](https://www.foddy.net/) - A sadist who hates gamers.
+
+[sshtron](https://github.com/zachlatta/sshtron) - Play a tron game in your terminal with `ssh sshtron.zachlatta.com`.
 
 [The Python Challenge](http://www.pythonchallenge.com/) - A game for programmers.
 

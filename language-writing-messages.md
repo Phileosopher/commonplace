@@ -1,8 +1,30 @@
 
 # How to draft emails and text messages
 
+Always remember that you're sending a message to another person.
+
+- Avoid stating things in any way that can be deemed more offensive than you're actually intending them to be.
+- Honor the same standards of behavior that you would perform in-person.
+- Avoid confrontation for the sake of confronting people.
+
+However, good conduct varies by each domain.
+
+- Generally, the more public and broader the demographic consuming the information, the more careful you need to be.
+- While ribbing people, or "flaming", is often acceptable, avoid "flame wars", which are endless arguments for the sake of name-calling and public defamation.
+- At the same time, forgive others' mistakes, since many people are often unaware of how to behave.
+
+Respect others' time.
+
+- Long messages are disrespecting their attention, and audio requires them to listen.
+- Giving expert advice usually respects others' time.
+
+Respect others' privacy.
+
+- If you have privileged information that isn't [a crime](legal-crimes.md), do *not* share it with anyone except that other person.
+
 Never send or post anything while [angry](mind-feelings-anger.md).
 
+- Unless it's urgent or unimportant, *always* sit on it for a while.
 - You can tell you're angry or [afraid](mind-feelings-fear.md) if you believe you *must* immediately say something to a complete stranger on a public forum.
 - Take at least a few minutes after drafting a message before sending it, and at least a few hours for a public post.
 
@@ -22,7 +44,7 @@ Avoid crucial mistakes:
 
 Closely consider who should be on the "To", "Cc", and "Bcc" lines when selecting "Reply All":
 
-- "To" recipients should respond in some way.
+- "To" recipients are *always* expected to respond in some way.
 - "Carbon copy" recipients don't need to do anything, but they should be informed of your message.
 - "Blind carbon copy" is only useful to privately send a copy of a message to someone without anyone else knowing.
 
@@ -51,6 +73,8 @@ Break out ideas with spacing and bullets.
 If the conversation grows too long, start a new email with a new subject line.
 
 Since it's a summary of your email, take extra time to craft the subject line.
+
+If you have any supporting information, provide links directly in the email to save them the trouble.
 
 Conclude with a clear "[call to action](marketing.md)" about what they should do with your information.
 

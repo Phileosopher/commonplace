@@ -103,6 +103,16 @@ As a general rule, aim for less heat for longer.
 
 - When using an oven, always preheat it to prevent odd aberrations from heat variance.
 
+Even when your cooking fails, you can add other elements to offset or alter the flavor:
+
+- Seasoning is anything that enhances flavor (e.g., salt, pepper, spice blends, herbs, acids, sweeteners).
+- Spices are a dried plant-derived substance that change flavor, scent, or color (e.g., cinnamon, cumin, cloves).
+- Herbs are leafy plants used for flavor and aroma (e.g., basil, cilantro).
+- Sauces are liquids or semi-liquids added during cooking (e.g., tomato sauce, salsa when added beforehand).
+- Condiments will complement flavor and texture after the food has been prepared (e.g., ketchup, mustard, ranch dressing).
+- Relishes adds texture, acidity, and concentrated flavor (e.g., corn relish, chutney, pickle relish).
+- Dips are semi-solid or viscous and meant for coating food when dunked (e.g., salsa for chips, ketchup for fries).
+
 ## Note time and space limits
 
 Save time by breaking apart cooking into batches:
@@ -365,6 +375,10 @@ Find new ways to improve your cooking experience:
 - Reach out to [friends and family](people-friends.md) for ideas.
 - Read recipe books to explore new cooking challenges.
 - Try to limit yourself to specific ingredients for an added challenge.
+
+Once you're familiar with it, you can often save trouble by planning out a month ahead:
+
+- Set up everything beforehand by [making a plan](success-3_goals.md), buying everything you need, and setting everything out on the counter you'll use.
 
 ## More information
 

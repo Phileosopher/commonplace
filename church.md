@@ -5,10 +5,10 @@ Being a Christian means you have a [relationship with Jesus](people-identity.md)
 
 - This does *not* mean you go to any particular church, but it *does* mean you'll naturally become part *of* the Church at large.
 
-God calls believers to connect with each other, so Christians shouldn't neglect fellowship ([Hebrews 10:23-25](https://biblehub.com/hebrews/10.htm)).
+God calls believers to connect with each other, so Christians shouldn't neglect fellowship (Hebrews 10:23-25).
 
-- Fellowship is effectively sharing a lifestyle in a loving community with other believers ([Acts 2:42](https://biblehub.com/acts/2-42.htm)).
-- We have fellowship by worshiping God with others through [loving each other](people-love.md) and sharing [beliefs](mind-understanding-certainty.md) sound doctrine ([John 4:19-24](https://biblehub.com/john/4.htm)).
+- Fellowship is effectively sharing a lifestyle in a loving community with other believers (Acts 2:42).
+- We have fellowship by worshiping God with others through [loving each other](people-love.md) and sharing [beliefs](mind-understanding-certainty.md) sound doctrine (John 4:19-24).
 - We don't need a routine congregation, but we *do* need routine fellowship, which is most conveniently fulfilled with a congregation in [a free society](hardship-persecution-church.md).
 - Without this fellowship, we start developing strange beliefs, which adversely affects our ability to [walk patiently and faithfully with God](https://theologos.site/devotion-chaos/).
 
@@ -19,20 +19,20 @@ The church network is connected through the Catholic Church.
 
 A church is a Christian [community](groups-small.md), not a building or location.
 
-- A church spiritually grounds itself on God's Word ([Ephesians 2:19-22](https://biblehub.com/ephesians/2.htm)), and any believers gathering to worship together are a church.
+- A church spiritually grounds itself on God's Word (Ephesians 2:19-22), and any believers gathering to worship together are a church.
 - God shows Himself in church services when that church focuses on giving God praise.
 - Barring [specific false denominations](people-conflicts-christian-4_false.md), even [the denomination](history-church.md) doesn't matter too much!
 
 Without [persecution](hardship-persecution-church.md), church members usually form into demographically similar groups based on [personality](people-personality.md), with the [leadership](mgmt-church.md) made of the most extreme personalities:
 
-- High openness to experience - spirituality is represented as perpetual transience or change ([John 3:8](https://biblehub.com/john/3-8.htm))
-- Low openness to experience - spirituality is represented as tradition ([2 Thessalonians 2:15](https://biblehub.com/2_thessalonians/2-15.htm))
-- High conscientiousness - following God requires following His commands ([Deuteronomy 8:1](https://biblehub.com/deuteronomy/8-1.htm))
-- Low conscientiousness - following God is a matter of love ([1 Corinthians 10:33](https://biblehub.com/1_corinthians/10-33.htm))
-- High extraversion - we must be heavily engaged in fellowship and [service](church-serve.md) ([Galatians 5:13](https://biblehub.com/galatians/5-13.htm))
-- Low extraversion - we must be heavily concerned with self-reflection and [prayer](spiritual-exercises-prayer.md) ([1 John 5:15](https://biblehub.com/1_john/5-15.htm))
-- High agreeableness - God is highly gracious and merciful ([Titus 2:11](https://biblehub.com/titus/2-11.htm))
-- Low agreeableness - God delivers His authority with a fierce severity ([Romans 1:18](https://biblehub.com/romans/1-18.htm))
+- High openness to experience - spirituality is represented as perpetual transience or change (John 3:8)
+- Low openness to experience - spirituality is represented as tradition (2 Thessalonians 2:15)
+- High conscientiousness - following God requires following His commands (Deuteronomy 8:1)
+- Low conscientiousness - following God is a matter of love (1 Corinthians 10:33)
+- High extraversion - we must be heavily engaged in fellowship and [service](church-serve.md) (Galatians 5:13)
+- Low extraversion - we must be heavily concerned with self-reflection and [prayer](spiritual-exercises-prayer.md) (1 John 5:15)
+- High agreeableness - God is highly gracious and merciful (Titus 2:11)
+- Low agreeableness - God delivers His authority with a fierce severity (Romans 1:18)
 - High neuroticism - there is tremendous value in miracles and [spiritual signs](spiritual-gifts.md)
 - Low neuroticism - there is tremendous value in [quiet, daily devotion](spiritual-exercises.md) to God
 
@@ -48,7 +48,7 @@ Church locations can be *anywhere*.
 
 Some believers insist on meeting in specific buildings or avoiding a routine venue.
 
-- While their meetings are good, they sin if they hate other parts of the church ([Acts 9:1-5](https://biblehub.com/acts/9.htm)).
+- While their meetings are good, they sin if they hate other parts of the church (Acts 9:1-5).
 
 While you certainly can share in many corporate [spiritual practices](spiritual-exercises.md) in church, it really isn't about *you*.
 
@@ -59,9 +59,9 @@ While you certainly can share in many corporate [spiritual practices](spiritual-
 
 ## Wisely choose your leaders
 
-Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https://biblehub.com/1_timothy/2.htm), [Titus 1:5-9](https://biblehub.com/titus/1.htm)).
+Scripture gives clear standards for church leaders (1 Timothy 2:12-3:13, Titus 1:5-9).
 
-- Church leaders must adequately [succeed](success-1_why.md) and be leaders by [the world's standards](mgmt-1_why.md) ([1 Timothy 3](https://biblehub.com/1_timothy/3.htm)).
+- Church leaders must adequately [succeed](success-1_why.md) and be leaders by [the world's standards](mgmt-1_why.md) (1 Timothy 3).
 - If you're not a leader yourself and don't have a specific secondary [purpose](purpose.md) for attending a church, your presence is voting to endorse that church's leadership.
 - There are *many* healthy churches out there, and it's often an act of faith to migrate to another church.
 
@@ -72,10 +72,10 @@ Scripture gives clear standards for church leaders ([1 Timothy 2:12-3:13](https:
 - They believe strongly in the [mystery](https://theologos.site/gospel/) of the Christian faith with a clear [conscience](theology-godandman-humanity.md).
 - If they're [married](relationships-marriage.md), their spouse is honorable, self-disciplined, and only speaks well of others.
 
-Women can't exercise authority over a man ([1 Timothy 3:12-15](https://biblehub.com/1_timothy/3.htm)).
+Women can't exercise authority over a man (1 Timothy 3:12-15).
 
 - While it's controversial, the Bible *clearly* states that [only men should fill leadership roles](people-gender.md).
-- However, this is *not* applicable to simply preaching, and is much more regarding [discipleship](spiritual-discipleship).
+- However, this is *not* applicable to simply preaching, and is much more regarding [discipleship and leadership](spiritual-discipleship.md).
 
 Beyond deacons, church elders have a few additional qualifications:
 
@@ -94,7 +94,19 @@ Finally, the church pastors/overseer have even *more* criteria:
 
 God won't work much with leaders who are unrepentant about their [sins](theology-sins.md), but those people can still [draw a crowd](power-influence.md).
 
-- The only way to discern a leader's qualities is to see their personal life, which is *very* difficult to do in a large church.
+- The only way to truly observe a leader's qualities is to see their personal life, which is *very* difficult to do in a large church.
+- However, most of the time, your only way to find out is by asking your pastor some *very* probing questions:
+  - Are you naturally disposed toward [evangelism](spiritual-exercises-evangelism.md), or do you have to force yourself to do it?
+  - Without getting into specifics, would you hire all the current staff you have again?
+  - How much do you [pray](spiritual-exercises-prayer.md) each week? (studies have shown it's not as frequent as most members think)
+  - What would you say to your younger self if you were starting all over again?
+  - What’s your least favorite part of pastoral ministry?
+  - How important is [physical exercise](body-exercise.md) to you?
+  - How many times have you thought about quitting ministry?
+  - In what area does your preaching need to improve?
+  - Would your wife and children all want to do ministry again?
+  - Do you look forward to going to work every day?
+  - What steps have you taken to guard against moral failure? How about institutional failure?
 
 ## Community worship with God is diverse
 
@@ -105,14 +117,14 @@ A healthy church should see a wide variety of believers, relative to the geograp
 - Given Jesus' tendency to have compassion on the social outcasts, there should be a *higher* ratio of unusual people than a typical social group in the area.
 - If they're sufficiently [sharing the Gospel](spiritual-exercises-evangelism.md), they will have new believers, meaning there should be a wide spread of new versus veteran Christians.
 
-Most churches give joy to the Lord by singing and dancing ([Psalm 98:4](https://biblehub.com/psalms/98-4.htm)).
+Most churches give joy to the Lord by singing and dancing (Psalm 98:4).
 
 - The Bible has very little basis for whether you can or should laugh, move strangely, roll in the aisles, sit, stand, the style of music.
-- The only important detail is to maintain some sense of [order](unknown.md) in all of it ([1 Corinthians 14](https://biblehub.com/1_corinthians/14.htm)).
+- The only important detail is to maintain some sense of [order](unknown.md) in all of it (1 Corinthians 14).
 
 Churches often [pray and fast](spiritual-exercises-prayer.md) for God's kingdom to grow and His will done.
 
-- The best prayers are in privacy, so public praying isn't necessarily a biblical command ([Matthew 6:5](https://biblehub.com/matthew/6-5.htm)).
+- The best prayers are in privacy, so public praying isn't necessarily a biblical command (Matthew 6:5).
 
 The Bible doesn't specifically reference pastors' preaching *nearly* as much as meeting, but churches can spend plenty of time either [preaching the simple Gospel](spiritual-exercises-evangelism.md) or [discipleship](spiritual-discipleship.md).
 
@@ -122,7 +134,7 @@ The Bible doesn't specifically reference pastors' preaching *nearly* as much as 
 
 One of the best forms of worship comes through giving.
 
-- The Lord loves people who give cheerfully ([2 Corinthians 9:7](https://biblehub.com/2_corinthians/9-7.htm)).
+- The Lord loves people who give cheerfully (2 Corinthians 9:7).
 - A 10% tithe is more a minimum than a standard, so give generously as you see the need and [God calls you to it](god-will.md).
 
 Large churches are often easier to attend, but tend to be impersonal.
@@ -141,7 +153,7 @@ Joining a new church is sometimes difficult when we don't have [connections](peo
 
 No specific [church denomination](people-conflicts-christian-why.md) is "better" than the rest, though some [cultures](people-culture.md) are *definitely* more loving.
 
-- Every legitimate church is a healthy gathering when the members are [loving](people-love.md) in Jesus' name ([1 Corinthians 3:3-7](https://biblehub.com/1_corinthians/3.htm)).
+- Every legitimate church is a healthy gathering when the members are [loving](people-love.md) in Jesus' name (1 Corinthians 3:3-7).
 
 Every church is the sum of the Holy Spirit's presence working within each of its members, so each church has sins that prevent its perfect operation.
 
@@ -168,7 +180,7 @@ Worship God at whatever church you go to.
 
 - Sometimes you may have to cycle between churches to find a healthy church body.
 - Don't let that church's flaws interfere with your [devotion to God](people-identity.md).
-- God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-friends.md) ([Matthew 13:24-30](https://biblehub.com/matthew/13.htm)).
+- God wants Christians intermingled with non-believers right now, so concern yourself with building [individual relationships with other believers](people-friends.md) (Matthew 13:24-30).
 
 Wherever you go, [give freely](church-serve.md).
 
@@ -184,4 +196,4 @@ The only way to discover a Christ-centered church is to attend one.
 
 - Staying noncommittal means others won't challenge you to grow, and you'll never find [meaning](meaning.md) with others.
 - Finding the right church is trial-and-error, so don't linger long in an unhealthy one without a reason.
-- Growing Christians often transition through multiple churches, and we should be prepared to go wherever God leads ([John 3:8](https://biblehub.com/john/3-8.htm)).
+- Growing Christians often transition through multiple churches, and we should be prepared to go wherever God leads (John 3:8).

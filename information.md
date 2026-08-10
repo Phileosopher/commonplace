@@ -51,7 +51,7 @@ This trend has Balkanized many established, long-standing monoliths of informati
 - Why go to the library when the book is online or on your Kindle? As of now, a library's primary feature is that it's a quiet place, and its digital equivalent is a [DRM](legal-ip.md) enforcement vehicle for publishers.
 - Why ask a friend about their hobby? You can find just as much information on literally *thousands* of hobbies on numerous message boards or online videos.
 - Why pay for college when the information is freely available online? For many industries, colleges only exist to [communicate competence](jobs-specialization.md) to specific [social networks](groups-large.md).
-- Why consult [scientific journals](science.md)? The information is on SciHub or floating around online elsewhere.
+- Why consult [scientific journals](science.md)? The information is on SciHub, floating around online elsewhere, or you can simply ask the writer directly for a copy of a paper.
 - Why go shopping anywhere? You can just buy things online, and once [VR/AR](computers-vr.md) is perfected, you can even *test* the product online for the most part.
 - Since COVID-19, why go to church? You can practice your [religious observance](religion.md) from the comfort of your own home.
 

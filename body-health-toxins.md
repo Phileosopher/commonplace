@@ -34,6 +34,14 @@ Some carcinogens exist in most food, on surfaces, and even the air, but our live
 - Generally, healthier eating and lifestyle decisions will make your body healthier and cut down on carcinogen intake.
 - Microplastics (i.e., less than 500 nanometers in size) which enter the body can cause inflammation in the stomach and brain, but cause no known long-term effects. The smaller the microplastic, the more severe the reaction.
 
+Almost *any* medication is going to put a strain on your body's filters, especially the liver and kidneys.
+
+- Unfortunately, the pharmaceutical industry has historically suppressed most research about long-term adverse effects of pharmaceuticals, which is why there are very few peer-reviewed papers on the matter.
+
+Many vaccines are a combination of chemicals.
+
+- The DTaP (diphtheria, tetanus and pertussis) vaccine includes aluminum, formaldehyde, Triton X-100 (a detergent), latex residues, and milk protein (which can cause allergies).
+
 ## Specific toxins
 
 Plenty of animals send common diseases to us:

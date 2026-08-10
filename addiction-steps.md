@@ -91,7 +91,7 @@ If we remove our human constraints and tendency to [build stories](stories-why.m
 
 ## The abstracted view
 
-This is the eight principles of Celebrate Recovery, which each loosely connect with [Matthew 5:3-10](https://biblehub.com/matthew/5.htm).
+This is the eight principles of Celebrate Recovery, which each loosely connect with Matthew 5:3-10.
 
 1. Realize that I’m not God. I admit that I am powerless to control my tendency to do the wrong thing and that my life is unmanageable. (Matthew 5:3)
 2. Earnestly believe that God exists, that I matter to Him, and that He has the power to help me recover. (Matthew 5:4)

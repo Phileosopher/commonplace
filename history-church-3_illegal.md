@@ -1,7 +1,7 @@
 
 # The summarized history of the Christian church 3: An Illegal Religion
 
-Naturally, some believers were more [educated](education.md) or gifted than others, but the bar to join was relatively low. If you observe the [elders/deacons requirements](https://www.bible.com/bible/206/1TI.5.WEB), anyone who is keeping themselves relatively pure morally would qualify to become a [leader](mgmt-church.md). The entire message of Christ, mixed with its culture, *heavily* attracted the poor, slaves, and women.
+Naturally, some believers were more [educated](education.md) or gifted than others, but the bar to join was relatively low. If you observe the elders/deacons requirements (1 Timothy 5), anyone who is keeping themselves relatively pure morally would qualify to become a [leader](mgmt-church.md). The entire message of Christ, mixed with its culture, *heavily* attracted the poor, slaves, and women.
 
 Politically, Rome didn't know what to do with them. They stubbornly honored their beliefs in God (which defied the [Roman pantheon](religion.md)), but they were *excellent* Roman citizens. Their general approach was to leave them alone, but heavily persecute them for *any* law they may potentially have broken.
 

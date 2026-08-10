@@ -37,7 +37,17 @@ The correct beliefs for the situation use at least some of the following non-exc
 
 ## A. Prepare to sacrifice
 
-### 1. Invest into it fully
+### 1. Expect risks
+
+Nothing [meaningful](meaning.md) is ever fully [safe](safety.md).
+
+- While it often makes sense to *mitigate* risks, you can only feel a sense of success if there's an actual chance of failure.
+
+Thankfully, our minds don't differentiate between "I haven't" and "I can't".
+
+- In other words, we are often feeling risk, even when there is no actual risk to something.
+
+### 2. Invest into it fully
 
 The margins determine success:
 
@@ -78,7 +88,7 @@ No matter what, we're still partly responsible for the consequences.
 
 We must believe we *can* succeed, or we'll sabotage ourselves because we'll feel like we're wasting our time.
 
-### 2. Expect solitude
+### 3. Expect solitude
 
 Most people are too insecure or afraid to accept the social sacrifices of success.
 
@@ -96,7 +106,7 @@ People generally want you to succeed *up to* their level, but preferably a littl
 
 ## B. Focus on what you can control
 
-### 3. Only focus on decisions you can make
+### 4. Only focus on decisions you can make
 
 We tend to get distracted by conflicting views:
 
@@ -128,7 +138,7 @@ Learn to push [fears](mind-feelings-fear.md) out of your mind that don't affect 
 - Don't dwell on what other people are thinking or might say.
 - Disregard potential risks you can't do anything about.
 
-### 4. Stop complaining and making excuses
+### 5. Stop complaining and making excuses
 
 Nobody cares about your [feelings](mind-feelings.md) as much as you do.
 
@@ -159,7 +169,7 @@ Most people restate the same reasons why they can't do something:
 - "I want to be a great family person", and a [great parent](parenting-children.md) has a great career.
 - "I'm all alone", and other successful people have shared your exact same situation.
 
-### 5. Do as much research as possible
+### 6. Do as much research as possible
 
 Learn how other people have failed and succeeded, which may require changing your hobbies to reading more nonfiction or watching more guides and tutorials.
 
@@ -171,7 +181,7 @@ Spend more [money](money-1_why.md) on self-education than on creature comforts.
 
 ## C. Pick the right targets
 
-### 6. Focus your decisions toward goals *away* from yourself
+### 7. Focus your decisions toward goals *away* from yourself
 
 "Follow your passion" is terrible advice because selfishness is a worthless existence.
 
@@ -188,7 +198,7 @@ At the same time, you don't "deserve" others' moral conduct, respect, friendship
 
 - While you deserve to [be loved](people-love.md) in a general sense, this [fallen world](theology-sins.md) means you and every other person must work on being more loving.
 
-### 7. Focus on "growth" over "status"
+### 8. Focus on "growth" over "status"
 
 Maintaining status is expensive, and growth is cheap by comparison.
 
@@ -202,7 +212,7 @@ It's easy to self-assess through a fixed status, but that viewpoint is wrong.
 
 Instead of wanting fewer problems or that life was easier, shift your view to wanting more skills to handle life better.
 
-### 8. Focus on your strengths
+### 9. Focus on your strengths
 
 As we keep attempting things, we'll learn pretty quickly what we're good at.
 
@@ -213,7 +223,7 @@ Our impulse is to decrease our weaknesses, but we'll get more results by magnify
 
 [Foster relationships](people-friends.md) with people around you who are strong where you're weak.
 
-### 9. Aim for long-term results
+### 10. Aim for long-term results
 
 Keep an eye on how you can most positively affect the future.
 
@@ -232,7 +242,7 @@ Avoid secondary gain (things you can get through [lying or embellishing reality]
 
 ## D. Change your perspective
 
-### 10. Prioritize new ideas over intelligence, talent, or effort
+### 11. Prioritize new ideas over intelligence, talent, or effort
 
 Intelligent, hard-working, talented people do have an advantage, but will always lose to people who can use new ideas in a conventional context.
 
@@ -251,7 +261,7 @@ When you hear or read about others' methods, always [analyze *why*](logic.md) th
 - Most people love to give advice, and you can still learn quite a lot from losers about what to avoid.
 - Mind anyone who contradicts their advice or has [succeeded with past trends](people-trends.md).
 
-### 11. Own that you're at least partly wrong right now
+### 12. Own that you're at least partly wrong right now
 
 If you remember yourself from 10 years ago, that person was a less educated and more foolish version of yourself.
 
@@ -277,7 +287,7 @@ At the same time, don't sabotage what you *do* know.
 - Self-criticism is only useful if it gives you something to measurably do better.
 - If you believe you're less competent than others think, you have a healthy amount of hesitancy and are likely not overstepping yourself.
 
-### 12. Kill perfectionism
+### 13. Kill perfectionism
 
 Perfectionism will destroy your results.
 
@@ -300,7 +310,7 @@ This is especially important when your day doesn't start the right way.
 - Everyone has bad days, so take it in stride.
 - One of the most effective ways to take bad days is to do important things you absolutely hate doing on that day, since you're already miserable that day anyway.
 
-### 13. Don't "visualize success"
+### 14. Don't "visualize success"
 
 When you imagine the glory of success, you're ignoring ways you can fail.
 
@@ -316,7 +326,7 @@ To mentally prepare for something, work to gain wisdom and skill instead.
 - The only thing you should visualize is the specific techniques you're trying to accomplish.
 - Scientific results have shown that [imagining](mind-imagination.md) a routine or [sleeping](sleep.md) while focusing on a task can improve our results as much as if we had done it.
 
-### 14. Embrace change
+### 15. Embrace change
 
 Being alive means *constant* change, and doing nothing is essentially wasting your life.
 
@@ -335,7 +345,7 @@ Learn to be comfortable with discomfort.
 
 ## E. Change your community
 
-### 15. Distance yourself from people who sabotage your success
+### 16. Distance yourself from people who sabotage your success
 
 Some people are utterly toxic for success:
 
@@ -344,7 +354,7 @@ Some people are utterly toxic for success:
 - Anyone who criticizes without any clear advice toward alternative decisions
 - Anyone who condemns a legitimately good life decision
 
-### 16. Seek out successful people
+### 17. Seek out successful people
 
 You will become the sum of the five people you associate with the most.
 
@@ -363,7 +373,7 @@ Examine the people you want to associate with:
 - Who seems to expect coming changes, and who seems to know last?
 - What changes are coming, and how must each person change to adapt?
 
-### 17. You will probably break rules at some point
+### 18. You will probably break rules at some point
 
 [Rules](people-rules.md) eliminate extremes, both good *and* bad.
 
@@ -380,7 +390,7 @@ When you must break rules, be careful.
 
 - Depending on the outcome, the rules you break can become a defining moment of glory or failure.
 
-### 18. Your success means you'll attract other achievers and overcomers
+### 19. Your success means you'll attract other achievers and overcomers
 
 They will discourage bad decisions, create possible plans, and support you [when you get discouraged](success-5_persevering.md).
 
@@ -394,7 +404,7 @@ Seek criticism, not praise.
 
 ## F. Learn to persevere
 
-### 19. Ignore hypothetical situations
+### 20. Ignore hypothetical situations
 
 Time is the ultimate equalizer: everyone gets the same 24 every day until the last.
 
@@ -418,7 +428,7 @@ We're all slowly [dying](hardship-death.md), and we only have [some control](bod
 
 For this reason, being young is more of a strength than a risk because you have time to fail and learn from those mistakes.
 
-### 20. Aim small to see results fast
+### 21. Aim small to see results fast
 
 If your goals are small enough, you can get results relatively quickly.
 
@@ -441,7 +451,7 @@ Twenty intentional, devoted hours will get you past the frustration barrier.
 - Twenty hours is 30 minutes a day for 40 days.
 - It might take 10,000 hours of practice to become perfect, but you won't usually need that much expertise.
 
-### 21. You must keep trying
+### 22. You must keep trying
 
 Most successful people learn to find pleasure in setbacks, obstructions, and the [fear](mind-feelings-fear.md) of the [unknown](unknown.md).
 
@@ -454,7 +464,7 @@ Staying optimistic requires pursuing a vision somewhat untouched by reality.
 
 Even when we don't begin with much self-discipline, we can [learn to persevere](success-5_persevering.md).
 
-### 22. Your rewards won't be that fulfilling as you expected
+### 23. Your rewards won't be that fulfilling as you expected
 
 Don't expect overwhelming pleasure from succeeding.
 
@@ -470,7 +480,7 @@ Don't expect commendation for what you did.
 - We want importance, but success often doesn't guarantee it.
 - Without a positive attitude, we usually become bitter *long* before we succeed.
 
-### 23. Successful guarantees more success, but only if you keep showing up
+### 24. Successful guarantees more success, but only if you keep showing up
 
 Mentors and connections only magnify [habits](habits.md) you should have already been doing.
 

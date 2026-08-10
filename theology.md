@@ -1,7 +1,7 @@
 
 # Non-systematic theology
 
-Following Jesus is *not* intellectually demanding, and Jesus places a straightforward and easy path for us ([Matthew 11:28-30](https://biblehub.com/matthew/11.htm)).
+Following Jesus is *not* intellectually demanding, and Jesus places a straightforward and easy path for us (Matthew 11:28-30).
 
 - Theology, however, is simply a branch of "[applied philosophy](philosophy.md)" toward knowing God.
   - The higher the theological thought, the closer the study compares to raw philosophy.
@@ -10,10 +10,10 @@ Following Jesus is *not* intellectually demanding, and Jesus places a straightfo
 We all need *some* form of theology.
 
 - Without the [logical reasoning](logic.md) of philosophy, we'd have nothing but [sentiment](mind-feelings.md).
-  - [Personality](people-personality.md) and [culture](people-culture.md) will make each theology a little different, but God takes care of His people ([Matthew 18:12-14](https://biblehub.com/matthew/18.htm)).
+  - [Personality](people-personality.md) and [culture](people-culture.md) will make each theology a little different, but God takes care of His people (Matthew 18:12-14).
 - "Theology", as a word, has two possible perspectives, which profoundly affects *how* far we'll need it:
     1. Self-defined [understanding](mind-understanding.md) of God, as we perceive and conclude it in our minds.
-    2. God-given understanding, since we have at least a limited ability to come to understanding of God's wisdom ourselves ([2 Timothy 2:7](https://biblehub.com/2_timothy/2-7.htm)).
+    2. God-given understanding, since we have at least a limited ability to come to understanding of God's wisdom ourselves (2 Timothy 2:7).
 - Often, without extra thought, we often neglect any deeper thought and permit theological ideals that sit within worship music:
   - [Time and chronological sequence](standards-datetime.md) doesn't exist in eternity.
   - [God](theology-god.md) never changes.
@@ -116,7 +116,7 @@ Our understanding of [art](art.md) and [beauty](values-quality.md) is a secondar
 
 The entire scope of [morality](morality.md) is encapsulated *much* more in detail through the conventionally-labeled branch of Theology, but more particularly Harmatiology, Soteriology, and Orthopraxy (see below).
 
-As a consequence of Christ, though, [all other religions](religion.md) are insufficient by comparison, all "[stock wisdom](values-stock.md)" is inferior to God's, and [all philosophies](glossary-philosophy.md) that don't acknowledge or conform to the God of the Bible is a waste of time.
+As a consequence of Christ, though, [all other religions](religion.md) are insufficient by comparison, all "[stock wisdom](values-stock.md)" is inferior to God's, and [all philosophies](philosophy-glossary.md) that don't acknowledge or conform to the God of the Bible is a waste of time.
 
 ## Conventional (Christian) branches (i.e., "theology")
 

@@ -41,6 +41,8 @@ Centralized ledger - where one computer has priority on the record of changes it
 
 Certificate - relatively long-term credentials among computers that last weeks, months, or sometimes indefinitely
 
+Certificate authority - organizations that reputably manage signed certificates
+
 CGI - common gateway interface, a set of standards that allow a server to run a program remotely
 
 Chain of custody - aka provenance, a sequence of historical events, typically refers to blockchain

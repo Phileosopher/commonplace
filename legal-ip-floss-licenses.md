@@ -63,3 +63,7 @@ In general, to summarize:
 - If you want complete freedom for developers to use your code beyond the "free" space, use the LGPL.
 - If you want complete freedom for anyone to use it in any way they please, use the BSD License.
 - If it's a [large-scale project](computers-distsys-enterprise.md), use the Apache license.
+
+Many times, specific enforcement for licenses require lots of legal fees, which is why most open-source developers will often need [not-for-profit organizations](mgmt-npo.md) to back them.
+
+- Thankfully, [there are many to choose from](https://adequate.life/big-tech/), but it's a relentless, ongoing, high-conflict situation.

@@ -12,8 +12,10 @@ The syntax is as follows:
 
 - A is what you have.
 - B is another thing you don't have.
+- C is something you have that you're not paying attention to.
 - Complaints: "I hate (A) because I don't have (B)!"
-- Gratitude: "I'm glad I have (A) because I don't have (B)!"
+- Gratitude: "I'm glad I have (A) because I still have (C)!"
+- It's impossible neurologically for us to have gratitude alongside either anxiety or complaints.
 
 Ambition is often simply [creative](mind-creativity-how.md) ingratitude:
 

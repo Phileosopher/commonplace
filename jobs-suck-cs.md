@@ -6,7 +6,7 @@
 - Young, inexperienced managers won't as easily detect a candidate [lying](people-lying.md), especially since most tech people are *not* [street-smart](legal-safety.md).
 - Between their inexperience and the finicky nature of [development cycles](mgmt-2_projects-cs.md), most tech managers will *grossly* underestimate how long things take to get done.
 
-Most tech managers and lead developers are promoted once they've proven their worth and the company has gotten bigger, which enacts the [Peter Principle](lawsaxioms.md). This happens *much* faster in the tech industry because companies scale dramatically faster.
+Most tech managers and lead developers are promoted once they've proven their worth and the company has gotten bigger, which enacts the [Peter Principle](lawsaxioms.md). This happens *much* faster in the tech industry because companies rapidly scale faster than most other industries.
 
 ## Bad culture
 
@@ -108,6 +108,8 @@ However, if you're [losing sleep](sleep.md), your [health is slipping](body-heal
 - Further, an awful job taking over your entire life is far more destructive to your [happiness](mind-feelings-happiness.md) than the worst-case alternative: [unemployment](hardship-unemployment.md) and [homelessness](hardship-homeless.md).
 
 Be careful about staying in the industry, though, since quite a few people across the tech industry think their job is worthless.
+
+- Further, your labor is technically empowering those bad companies to abuse other people more.
 
 ## Be decisive
 

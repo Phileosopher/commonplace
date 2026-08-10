@@ -135,7 +135,7 @@ Most of them aren't worth dissecting much, but some of them have had limited use
 - Number theory spun off from arithmetic to clarify and qualify precise definitions of what numbers even *are*.
 - Graph theory intimately studies graphs, which are effectively [visualizations](data-viz.md) of [networks](https://gainedin.site/networks/).
 
-Over time, the math [pedagogical culture](education.md) has also created [their own language](glossary-math.md) among each other to accommodate this additional depth.
+Over time, the math [pedagogical culture](education.md) has also created their own language among each other to accommodate this additional depth.
 
 - There are *many* adjectives that add to existing domains, and these domains become absurdly long (e.g., derived non-commutative algebraic geometry).
 

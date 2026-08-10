@@ -5,7 +5,7 @@ Every one of Jesus' disciples, and many of the other original followers, were he
 
 1. Peter was crucified upside-down on an X-shaped cross, likely because he told his persecutors that he didn't feel worthy to die the exact way Jesus did.
 2. Andrew was flogged severely by seven soldiers, then crucified on an X-shaped cross in Patras, Greece. He was tied to the cross with ropes to prolong his suffering, and preached to his persecutors for two days before dying.
-3. James the son of Zebedee defended his faith in a trial, and was beheaded in Jerusalem ([Acts 12:1-3](https://biblehub.com/acts/12.htm)). Right before his beheading, a Roman officer knelt beside James to also accept a new faith in Christ.
+3. James the son of Zebedee defended his faith in a trial, and was beheaded in Jerusalem (Acts 12:1-3). Right before his beheading, a Roman officer knelt beside James to also accept a new faith in Christ.
 4. John was boiled in a basin of oil but delivered from death, then sentenced to the island prison mines of Patmos by Domitian, then later freed due to old age and died peacefully in Ephesus (Turkey).
 5. Philip was stoned and crucified in Hierapolis, Phrygia.
 6. Bartholomew/Nathaniel was flayed to death by a whip in Albinopolis, Armenia.
@@ -21,7 +21,7 @@ Every one of Jesus' disciples, and many of the other original followers, were he
 
 Christianity is the only faith that treats [persecution](hardship-persecution.md) as an inherently positive experience:
 
-- Mature Christians consider persecution honorable ([Matthew 5:10-12](https://biblehub.com/matthew/5.htm), [1 Corinthians 4:12](https://biblehub.com/1_corinthians/4-12.htm), [James 1:2](https://biblehub.com/james/1-2.htm)).
+- Mature Christians consider persecution honorable (Matthew 5:10-12, 1 Corinthians 4:12, James 1:2).
 - Some Christians *do* [fear](mind-feelings-fear.md) persecution, but mostly from inexperience.
 
 Legitimate persecution isn't merely martyrdom complex:
@@ -31,7 +31,7 @@ Legitimate persecution isn't merely martyrdom complex:
 
 Jesus practically *promises* suffering and persecution:
 
-- It's nothing personal, since they hated Jesus as well ([John 15:18-20](https://biblehub.com/john/15.htm)).
+- It's nothing personal, since they hated Jesus as well (John 15:18-20).
 - History has shown that the Church expands its influence every time authority figures have tried to shut down or oppress Christianity.
 
 ## Persecution is power games by people who love evil
@@ -127,7 +127,7 @@ Irrespective of persecution, we must discover God for ourselves:
 We need to let God's [Scripture](theology-bible.md) define how we see the world.
 
 - Simply repeating a [Bible verse](theology-bible.md) never strengthens a believer, but it becomes unstoppable if a believer [fully understands](mind-understanding.md) what it means.
-- We must sort out our individual salvations, fearfully and shaking, *before* we encounter outward persecution ([Philippians 2:14](https://biblehub.com/philippians/2-12.htm)).
+- We must sort out our individual salvations, fearfully and shaking, *before* we encounter outward persecution (Philippians 2:14).
 
 ## The authorities aren't as powerful as they seem
 
@@ -179,13 +179,13 @@ There are *many* people who have said that Christianity would cease to exist:
 When the Church goes underground, everyone who wishes to keep their faith will have to suffer:
 
 - Be prepared to suffer because the police *will* take you immediately if you're not ready.
-- Some Christians contend that "submit to authority" ([Romans 13:1-7](https://biblehub.com/romans/13.htm)) means permitting them to exploit you, but we must be gentle *and* clever ([Matthew 10:16](https://biblehub.com/matthew/10-16.htm)).
+- Some Christians contend that "submit to authority" (Romans 13:1-7) means permitting them to exploit you, but we must be gentle *and* clever (Matthew 10:16).
 
 Respond to the world's attacks with Christ-like behavior:
 
 1. Stand in the authority of the one living God.
    - He appoints all [power](power-types.md), including money and people.
-   - To build power without honoring God is vanity ([Ecclesiastes 1:14](https://biblehub.com/ecclesiastes/1-14.htm)).
+   - To build power without honoring God is vanity (Ecclesiastes 1:14).
 2. Don't claim anything beyond God's word.
    - Only stand confident in what you know.
 3. Humbly accept when you don't know something.
@@ -194,16 +194,16 @@ Respond to the world's attacks with Christ-like behavior:
 4. Openly confess your sin when anyone calls you on it.
    - Own what you've done and vow to never consciously [sin](theology-sins.md) again.
 5. Patiently endure criticism and shame.
-   - Jesus chose to stay silent in an all-night kangaroo court ([Matthew 26:57-68](https://biblehub.com/matthew/26.htm)).
-   - God will judge everyone rightly on [Judgment Day](theology-end.md) ([Revelation 20:11-15](https://biblehub.com/revelation/20.htm)).
+   - Jesus chose to stay silent in an all-night kangaroo court (Matthew 26:57-68).
+   - God will judge everyone rightly on [Judgment Day](theology-end.md) (Revelation 20:11-15).
 6. Don't concern yourself with evil.
-   - Nothing is new under the sun ([Ecclesiastes 1:9](https://biblehub.com/ecclesiastes/1-9.htm)).
-   - We will see the same evil as Noah's time saw ([Luke 17:26-27](https://biblehub.com/luke/17.htm)).
+   - Nothing is new under the sun (Ecclesiastes 1:9).
+   - We will see the same evil as Noah's time saw (Luke 17:26-27).
    - It's new for us, but [not to God](https://theologos.site/god-sight/).
 7. Regardless of what happens, trust the Lord and let the Church aid you when it can.
-   - God is *always* in control, even when you feel it's hopeless ([Matthew 28:20](https://biblehub.com/matthew/28-20.htm)).
+   - God is *always* in control, even when you feel it's hopeless (Matthew 28:20).
 8. Even if the world [looks](people-image-why.md) [terrifying](mind-feelings-fear.md), it's not as scary as they imply.
-   - They can only destroy your body ([Matthew 10:28](https://biblehub.com/matthew/10-28.htm)).
+   - They can only destroy your body (Matthew 10:28).
    - God has the power to build and destroy *everything* as He wishes, so you should pity them more than fear them.
 9. Expect the Satan to [work tirelessly](spiritual-warfare-tricks.md) to destabilize you.
    - Trust the Holy Spirit for patience, wisdom, and willpower to [confront](people-conflicts.md) the world's representatives.
@@ -212,31 +212,31 @@ Respond to the world's attacks with Christ-like behavior:
     - Endure the suffering to show your new nature.
 11. Ignore the world's strategies against you.
     - Be prepared to confront [sin](theology-sins.md) when the time comes.
-    - Every strategy designed by Satan will fail at the end ([Revelation 20:7-10](https://biblehub.com/revelation/20.htm)).
-    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) ([James 1:2-4](https://biblehub.com/james/1.htm)).
+    - Every strategy designed by Satan will fail at the end (Revelation 20:7-10).
+    - Your job is to continue your [relationship with God](spiritual-exercises.md) and find [joy](mind-feelings-happiness.md) in [His coming Kingdom](https://theologos.site/millennium/) (James 1:2-4).
 12. Anticipate that the world will hate, [misrepresent](people-image-why.md), [misunderstand](mind-understanding.md), misquote, and alienate you.
-    - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
-    - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
+    - Let your good conduct and works testify for you (1 Peter 2:12).
+    - Let the Holy Spirit say what He wants to say in that hour (John 14:26).
     - You can't [change their minds](people-changes.md) any more than they want.
 
 The *specifics* on how believers can stand against authority depends heavily on [personality](people-personality.md) and skill, but falls under a few general themes.
 
 Learn how to speak carefully to keep secrets:
 
-- People who ask probing questions [have no right](people-boundaries-why.md) to demand an answer, so nobody is obligated to give one ([Matthew 11:25](https://biblehub.com/matthew/11-25.htm)).
-- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](people-identity.md) ([1 Corinthians 6:1-5](https://biblehub.com/1_corinthians/6.htm)).
+- People who ask probing questions [have no right](people-boundaries-why.md) to demand an answer, so nobody is obligated to give one (Matthew 11:25).
+- On the other hand, avoid [confrontations](people-conflicts.md), since it will lead to arrests, beatings, and likely death, and is very inappropriate for a [child of God](people-identity.md) (1 Corinthians 6:1-5).
 - Thus, try to [find a way](mind-creativity.md) to speak truth that also [hides realities](people-image-distortion.md) which may [harm](safety.md) other believers.
   - You can be compliant and pleasant while not *directly* answering their questions.
   - State [the law](people-rules.md) when they ask your [purpose](purpose.md).
   - Give away as much information as possible that has nothing to do with the people you're protecting (e.g., less-relevant but highly private information like medication usage or sex life).
   - Use obscure or intellectual-sounding words to hide clearly illegal things.
   - Use pseudonyms and alternate names frequently for proper nouns (which is precisely why the Bible's disciples had several names).
-  - Trust the Holy Spirit whenever you're uncertain what to say ([Luke 12:12](https://biblehub.com/luke/12-12.htm)).
+  - Trust the Holy Spirit whenever you're uncertain what to say (Luke 12:12).
 
 Learn to stay silent:
 
-- Silence has tremendous value because it's very difficult to [legally convict](people-rules.md) someone on silence alone ([Proverbs 29:11](https://biblehub.com/proverbs/29-11.htm)).
-- Every stray [word](language.md) could devastate an underground church, so work *very* hard to hold your tongue ([James 3:6](https://biblehub.com/james/3-6.htm)).
+- Silence has tremendous value because it's very difficult to [legally convict](people-rules.md) someone on silence alone (Proverbs 29:11).
+- Every stray [word](language.md) could devastate an underground church, so work *very* hard to hold your tongue (James 3:6).
 - Most people are accustomed to frequently talking, so we must [train ourselves](https://adequate.life/habits/) to it *before* we encounter it.
 - Ministering to other Christians comes through silence *far* more than speaking.
 
@@ -246,7 +246,7 @@ Learn [Morse code](encryption-morsecode.jpg) *before* you need it.
 
 Stay in constant connection with other believers as much as you can:
 
-- Even if it's a severe risk, your connection with the rest of the Body is critical to keep going ([Hebrews 10:25](https://biblehub.com/hebrews/10-25.htm)).
+- Even if it's a severe risk, your connection with the rest of the Body is critical to keep going (Hebrews 10:25).
 - Even when we want to isolate ourselves, [the devil wants that as well](spiritual-warfare.md).
 
 ## Handling the worst
@@ -260,14 +260,14 @@ Prison, of any sort, is a new ministry opportunity:
 Be prepared for torture:
 
 - Torture can be *very* painful, but your suffering is saving 50-60 Christians who could go to prison as well if you disclose key information about them.
-- If you permit it, that torture will cleanse you spiritually, similarly to how spankings make a child more well-behaved ([Proverbs 13:24](https://biblehub.com/proverbs/13-24.htm)).
+- If you permit it, that torture will cleanse you spiritually, similarly to how spankings make a child more well-behaved (Proverbs 13:24).
 
 The most significant battle in prison is within your mind:
 
 - Winning against persecution requires keeping yourself together despite the [fears](mind-feelings-fear.md) and [unknown possibilities](unknown.md).
 - The *fear* of things is always worse than the thing itself.
-- You can maintain your strength through your [love](people-love.md) for others and ability to handle pain, but only through the Holy Spirit ([Zechariah 4:6](https://biblehub.com/zechariah/4-6.htm)).
-- The only way to resist [brainwashing](power-influence.md) and [indoctrination](people-culture-cults.md) is through clarity of mind, which comes through pureness of heart ([Matthew 5:8](https://biblehub.com/matthew/5-8.htm)).
+- You can maintain your strength through your [love](people-love.md) for others and ability to handle pain, but only through the Holy Spirit (Zechariah 4:6).
+- The only way to resist [brainwashing](power-influence.md) and [indoctrination](people-culture-cults.md) is through clarity of mind, which comes through pureness of heart (Matthew 5:8).
 - Many prisons are run by [image distortion](people-image-distortion.md) experts who fully control the prisoners' environment.
 
 Without enough severe pain, we lose *all* sensory awareness of anything outside that pain:
@@ -281,7 +281,7 @@ We must perform vigils to fight solitude and loneliness:
 
 - Vigils are devoted [routines](habits.md) of steady [prayer](spiritual-exercises-prayer.md), which can often take *more* time than we have throughout the day!
 - Mentally travel around the world, praying for people you know of and their groups.
-- Rejoice with those who rejoice by imagining the details of their happiness outside prison ([Romans 12:15](https://biblehub.com/romans/12-15.htm)).
+- Rejoice with those who rejoice by imagining the details of their happiness outside prison (Romans 12:15).
 - Recite Bible verses from memory, which is where all that prior [Bible study](bible-study.md) paid off.
 - Create [stories](stories-why.md) and [jokes](humor.md) as you [imagine](mind-imagination.md) everything.
 - While all this sounds like what crazy people do, staying mentally busy allows us to stay in a solitary situation indefinitely.
@@ -291,8 +291,8 @@ Beware of the "moment of crisis":
 - Torturers work to attain a specific state of mind where a person has been completely broken down.
 - At that point, a Christian will feel that nothing really matters anymore.
 - In that state, a Christian will give names, renounce Jesus, pledge allegiance to [the Party](politics-leftism.md), plead guilty, and anything else the torturer [wants](purpose.md).
-- At that moment, the Holy Spirit is with us, as well as other believers in spirit ([Romans 8:38-39](https://biblehub.com/romans/8.htm)).
-- Never forget that our spiritual inheritance is stored in heaven, so a breakdown of faith doesn't necessarily mean we lose our salvation ([1 Peter 1:4](https://biblehub.com/1_peter/1-4.htm)).
+- At that moment, the Holy Spirit is with us, as well as other believers in spirit (Romans 8:38-39).
+- Never forget that our spiritual inheritance is stored in heaven, so a breakdown of faith doesn't necessarily mean we lose our salvation (1 Peter 1:4).
 - If we can get past that moment of crisis, our faith will be *dramatically* refined!
 - Once that happens, the torturer will give up or kill us, since they now know they can't [change](people-changes.md) us anymore.
 
@@ -302,7 +302,7 @@ Persecution against Christianity has been "normal" for 2,000 years:
 
 - Christians have been shamed, beaten, flogged, imprisoned, exiled, and killed for their faith since Jesus gave His life.
   - Presently, the "10/40 Window" (between 10 and 40 degrees latitude in the eastern hemisphere) is the most frequent place in the world for persecution.
-- And, [for the end to come](theology-end.md), it must get worse ([2 Timothy 3:1-9](https://biblehub.com/2_timothy/3.htm)).
+- And, [for the end to come](theology-end.md), it must get worse (2 Timothy 3:1-9).
 - God uses persecution in a predictable cycle:
   1. First, the world moves to destroy God's plans (e.g., destroy the Christians, destroy the Jews, control the world).
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.
@@ -313,4 +313,4 @@ Further, there most certainly is a double standard people hold against Christian
 - Communist dictators have historically claimed homosexuality is a perversion, vice, or disease, but Christians' opinions are often treated with more severity.
 - Christian opinions on abolition and pro-life positions tend to receive far more negative media attention than violent protesters and criminals.
 
-As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](theology-end.md) ([Matthew 19:29](https://biblehub.com/matthew/19-29.htm)).
+As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](theology-end.md) (Matthew 19:29).

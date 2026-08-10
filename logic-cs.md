@@ -1,7 +1,7 @@
 
 # What boolean math is
 
-With respect to how computers see it, (and irrespective of what you believe about [logicism](glossary-philosophy.md)), [arithmetic](math.md) is an advanced form of [logic](logic.md).
+With respect to how computers see it, (and irrespective of what you believe about [logicism](philosophy-glossary.md)), [arithmetic](math.md) is an advanced form of [logic](logic.md).
 
 Math operations start with addition and subtraction, then compound to create multiplication/division, then compound *again* to create exponents and squares.
 

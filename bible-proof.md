@@ -3,7 +3,7 @@
 
 ## The Bible's existence is odd
 
-The Jews, as God's chosen people ([Deuteronomy 7:6-8](https://biblehub.com/deuteronomy/7.htm)), have been extremely meticulous transcribing the Old Testament, even across multiple genocides and invasions.
+The Jews, as God's chosen people (Deuteronomy 7:6-8), have been extremely meticulous transcribing the Old Testament, even across multiple genocides and invasions.
 
 - One recent evidence for that accuracy is the discovery of the Dead Sea Scrolls in the 1940s and 1950s.
 

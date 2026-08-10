@@ -33,6 +33,7 @@ Flour
 - 1/3 volume of coconut flour, an extra egg per ounce of coconut flour, and a dash of extra water (for pancakes, cookies, and cakes)
   - Using more than 1/2 cup at a time could bring out the coconut flour's bitterness.
   - You may need to reduce the baking time.
+- Banana peels that are blanched, dried and ground up.
 
 Self-rising flour
 

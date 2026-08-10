@@ -19,7 +19,7 @@ The entire convergence on this page is *not* precise, but accurate-enough.
 
 The statement of faith is essentially a [philosophical assertion](philosophy.md) of all aspects that unite your church together.
 
-- It can be long or short, but it *will* be [controversial](people-conflicts-christian-why.md), no matter what ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
+- It can be long or short, but it *will* be [controversial](people-conflicts-christian-why.md), no matter what (Matthew 10:34-36).
 - Generally, the more details, the more controversial, but the more likelihood you'll find like-minded believers joining your church (if any).
 
 You can draw from a wide variety of creeds and catechisms for inspiration.
@@ -42,7 +42,7 @@ All Christian tradition older than 20 years is simply how the Church had adopted
 Conformity to Christ is conforming to what the Holy Spirit dictates.
 
 - Beyond [Scripture](theology-bible.md), this will be *highly* personal, and won't apply to others.
-- However, Jesus promised [conflict](people-conflicts-christian-why.md) was inevitable ([Matthew 10:34-39](https://biblehub.com/matthew/10.htm)).
+- However, Jesus promised [conflict](people-conflicts-christian-why.md) was inevitable (Matthew 10:34-39).
 
 Unfortunately, the [culture](people-culture.md) surrounding a Church will heavily define how people interpret Scripture.
 
@@ -58,7 +58,7 @@ Expect [conflicts](people-conflicts-christian-why.md) with other Christians.
 
 - God designed all good things, and using a good thing in its place with Him as part of it is just as spiritual as any long-standing traditions or denominations.
 - Even extremely *non*-religious domains (e.g., [science](science.md), [engineering](engineering.md)) can be holy if Christ is at the center of it.
-- By implication, this means all secular things can be holy, and that is [taboo](morality-taboo.md) among most Christians, even though the Bible indicates it clearly ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)).
+- By implication, this means all secular things can be holy, and that is [taboo](morality-taboo.md) among most Christians, even though the Bible indicates it clearly (1 Corinthians 8).
 
 Don't get tangled with tiny [theological](theology.md) details that distinguish your church from others.
 
@@ -70,7 +70,7 @@ Don't get tangled with tiny [theological](theology.md) details that distinguish 
 
 Most pastors are territorial, but they sin when they do.
 
-- God appoints each person to a job, and He grants the increase ([1 Corinthians 3:5-9](https://biblehub.com/1_corinthians/3.htm)).
+- God appoints each person to a job, and He grants the increase (1 Corinthians 3:5-9).
 - His Church is a vast variety of [cultures](people-culture.md) and [groups](groups-small.md), and anything you do is merely one of those groups.
 - [Every denomination](history-church.md) is simply the result of [conflicts with other denominations](people-conflicts-christian-why.md), and [none of them will last indefinitely](https://theologos.site/millennium/).
 
@@ -155,18 +155,18 @@ One combined solution can accommodate *every* member's individual needs:
 4. If anyone has a divergent opinion from the group's [culture](people-culture.md), and it's more personal preference than morality, the leadership will be fully open to any changes from it.
    - This shoudl include sending a significant minority with that person to pursue other unrelated ministries.
 
-The conformity of Christian culture should reflect the principles God established in the Hebrew law ([1 Corinthians 14:26-40](https://biblehub.com/1_corinthians/14.htm)).
+The conformity of Christian culture should reflect the principles God established in the Hebrew law (1 Corinthians 14:26-40).
 
 - Whatever you do, do it peacefully.
 - Don't condemn prophecies or tongues, but make sure it's one at a time and builds up the Body.
 
 However, *some* practices are [taboo](people-conflicts-christian-4_false.md) according to the Bible.
 
-- When women have questions, they should be silent in the public congregation and ask their husbands at home ([1 Corinthians 14:34-35](https://biblehub.com/1_corinthians/14.htm)).
+- When women have questions, they should be silent in the public congregation and ask their husbands at home (1 Corinthians 14:34-35).
   - This doesn't forbid female *teachers*, but individual questions can be very distracting.
-- [Sinful](theology-sins.md) behavior should *never* be celebrated or honored ([1 Corinthians 5](https://biblehub.com/1_corinthians/5.htm)).
+- [Sinful](theology-sins.md) behavior should *never* be celebrated or honored (1 Corinthians 5).
 
-Deductively, every church will have 3 different classifications of "believer" ([Matthew 7:22-23](https://biblehub.com/matthew/7.htm) and [13:24-30](https://biblehub.com/matthew/13.htm), [1 Corinthians 3:10-15](https://biblehub.com/1_corinthians/3.htm)):
+Deductively, every church will have 3 different classifications of "believer" (Matthew 7:22-23 and 13:24-30, 1 Corinthians 3:10-15):
 
 1. People devoted and on fire for the Lord, with apparent [spiritual fruits](people-identity.md) in their life.
 2. People doing good things, but with selfish intent in *everything* they do, who will still enter God's kingdom.
@@ -197,7 +197,7 @@ The **Launch Big** model is a high-cost growth strategy that reflects secular no
 
 The **Organic House Church** model focuses on minimalism and removing extra elements of services.
 
-- The original model expressed in the Bible ([Acts 2:46](https://www.bible.com/bible/206/act.2.46)).
+- The original model expressed in the Bible (Acts 2:46).
 - Since they usually don't advertise and stay small, most people are unaware of this model.
 - While they attract self-starters who network to find them, they leave most of the Body oblivious.
 - Organic House Churches keep an intimate connection with all the members, so everyone is motivated to serve each other.
@@ -248,5 +248,5 @@ Some of the best measurements are *still* difficult to define:
 
 However, missionary satisfaction and church plant success are worth tracking.
 
-- Missionaries are the front lines and church plants are the supporting teams for fulfilling Jesus' great commission ([Matthew 28:19](https://www.bible.com/bible/206/mat.28.19)).
+- Missionaries are the front lines and church plants are the supporting teams for fulfilling Jesus' great commission (Matthew 28:19).
 - Outside of helping other denominations, missionaries and church plants are *the* most selfless possible ministry activities.

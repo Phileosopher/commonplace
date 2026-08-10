@@ -9,6 +9,7 @@ However, getting a return shouldn't be the *only* consideration for an investmen
 
 - Without understanding your standards first, you'll often find yourself investing in [evil](morality-evil.md) activities without realizing it.
   - It's better to first know what you believe morally, then invest with those constraints in mind.
+- Often, you can find [politically-based](politics-conservativeliberal.md) rankings of various funds to see where the money actually goes (e.g., Pension Politics).
 
 We technically "invest" when we [lose weight](body-diet.md), [organize](organization.md), [advance our career](jobs-1_why.md), and [succeed](success-1_why.md), but *financial* investing is strictly using [money](money-1_why.md) to make more money.
 

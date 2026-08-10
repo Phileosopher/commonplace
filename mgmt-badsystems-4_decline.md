@@ -35,6 +35,11 @@ People don't typically like [change](people-changes.md), so the only way to make
 
 APPLICATION: In a large organization that's become a bad system, *all* the leadership is partially responsible, as well as all the individual participants who contributed to their power. It's difficult to tell how much for each, though, since most committee-based leadership [decisions](mind-decisions.md) are opaque, and they'll each blame everyone and everything but themselves. The only solution to reliably tell is to remove the leaders, one by one, put them in another situation, then closely watch the [changes](people-changes.md) to both the system they were removed from and the system they were placed in.
 
+APPLICATION: Bad systems technically only lose [political power](power-types.md) because another system was sufficient enough to replace it.
+
+- it's a [trend](people-trends.md), but almost inevitable proportionally to how much people hate the bad system.
+- in other words, spreading hate of the bad system (and ideally through [love](people-love.md) of a good thing the bad system is supposed to advocate) is the number one way to inspire the [trend](people-trends.md) towards mindedness of a replacement.
+
 The more likely scenario, though, for most bad systems, is decay through tribalism:
 
 1. Within a [group](groups-large.md), the [selection](mind-decisions.md) for members' [promotions](power-types.md) will be defined [intuitively](mind-feelings.md) by aptitude, at least at first.

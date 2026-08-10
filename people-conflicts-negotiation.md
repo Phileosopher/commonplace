@@ -112,6 +112,13 @@ Be careful with numbers:
 
 ## Prepare for walking away beforehand
 
+Never, *ever* issue an ultimatum.
+
+- Children receive an ultimatum (do this now), and it is highly disrespectful.
+- Since you're trying to gain something from the other person, never tell them what they will do.
+- However, you *can* tell them what *you* will do in response to their actions (by this time, on this day, etc.).
+  - Only tell them, however, if you intend to do it, since people are likely to call your bluff if they detect even the slightest amount of unease.
+
 Have a BATNA (a backup plan) if they won't compromise:
 
 - Since nobody else will do it for you, you must have a plan to protect yourself with a BATNA (Best Alternative To a Negotiated Agreement):

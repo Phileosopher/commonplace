@@ -229,4 +229,12 @@ APPLICATION: If self-help and [philosophy](philosophy.md) writers were humble an
 
 APPLICATION: Many [self-interested](morality-evil.md) people take advantage of our tendency to be influenced. Influence is simply [power](power.md), though, and we can benefit others just as much by influencing toward [good things](morality.md).
 
+[High-conflict](people-conflicts-bad.md) influencers (including [Cluster B personalities](mind-neurodivergence-clusterb.md)) will often try destroying people who are threats to their power using a [trend](people-trends.md) of predictable descriptions:
+
+1. That person is dangerous.
+2. That person must be investigated.
+3. That person should be removed.
+4. That person should be punished.
+5. That person should be destroyed.
+
 If they're an important part of a [social group](groups-small.md), they'll likely destroy the group with their efforts. But, if that group is [large enough](groups-large.md), that group will become [dysfunctional](mgmt-badsystems.md) if they don't quickly eject that person from it.

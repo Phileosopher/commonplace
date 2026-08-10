@@ -118,7 +118,7 @@ Take personal responsibility for every single thought that isn't in the present 
      - Nihilism (present and future detriment)
    - Destination addiction (or the Rat Race in Ben-Shahar's Happiness Model above) is a preoccupation with finding happiness in the next thing or person.
    - You'll never be happy if you believe your happiness will come later.
-   - Learn gratitude for present benefits and future hopes.
+   - Learn [gratitude](mind-feelings-happiness-gratitude.md) for present benefits and future hopes.
 3. Focus only on what you can do today.
    - Take one day at a time and each hour as it comes.
    - Train yourself to see problems and obstacles as challenges and puzzles.

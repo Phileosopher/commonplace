@@ -115,6 +115,8 @@ Further, in the midst of the two poles, other value systems diverge from the spe
 - Liberals believe everyone should be free to do as they please, with the government serving as the provider or enforcer of those freedoms. They'll often believe in solving it by making government bureaus or oversight committees.
 - Libertarians believe everyone should be free to do as they please, so *any* redistribution of power would impede others' freedoms. They'll frequently believe in solving it with deregulation.
 
+Between the institutional focus, along with the general existential uncertainty of postmodern values, scientific studies have shown that mental illness among liberals is far more often diagnosed than conservatives.
+
 One of the most complicated problems about any of this political discussion comes in how people frequently want their [freedoms](people-boundaries-why.md), but tend to evade the [responsibilities](meaning.md) required to maintain them. This pattern creates a cycling trend ("Tytler's Civilization Cycle") that leaves people in various states of [slavery](people-slavery.md) and freedom.
 
 APPLICATION: If everyone were given complete freedom, but also complete responsibility to maintain those freedoms, only high-conscientiousness [personalities](people-personality.md) would want it. Everyone else is willing to give up at least some of their freedoms for [security](safety.md), which guarantees a perpetual risk of a [tyrant](morality-evil.md) taking advantage of them.

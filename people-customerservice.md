@@ -47,6 +47,10 @@ The solution is to make sure everyone links the non-automatic information:
 
 Whenever possible, stay [legally safe](legal-safety.md) by keeping a record of everything said, promised, and performed.
 
+Insincere customer service (e.g., via [machine learning](computers-ai.md)) is worse for a [brand](marketing.md) than none.
+
+- People will hate they had to wait on hold, but they will severely resent a conversation with a computer when they need to speak to a person.
+
 ## A. Greeting
 
 After ringing a doorbell, take a few steps backward to give distance.

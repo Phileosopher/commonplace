@@ -61,6 +61,25 @@ Manage others' insults gracefully:
 - If someone *chronically* insults you, avoid that person if at all possible.
 - Don't intervene against insults of people around you, since you'll likely make those people more hypersensitive to them and will potentially offend everyone.
 
+## Helping people
+
+Always offer to help others over your own interests.
+
+- Doing something for other people is *always* more [meaningful](meaning.md) than simply serving your own interests or [having fun](fun.md).
+- At the same time, you should *always* consider your needs, especially if you're sacrificing your needs for someone else's convenience.
+
+However, unless someone asks you, don't propose solutions or help anyone too early.
+
+- Most people prefer to learn and solve problems by themselves, and helping them can often destroy the [meaning](meaning.md) they would have had.
+
+Sometimes, you may have to watch people fail.
+
+- The best thing you can do is to be [emotionally available](mind-feelings.md) for them.
+
+However, it doesn't mean you can't do *communal* maintenance (e.g., [housekeeping](home-housekeeping.md)).
+
+If you must choose between helping two different people, always prioritize [family](people-family.md) over [work](jobs-1_why.md).
+
 ## Manage rumors
 
 Resist the impulse to learn rumors people have made about you.
@@ -87,10 +106,19 @@ If someone is sharing something you wanted to keep private:
 
 ## Approach others' failings correctly
 
-Don't be afraid to [confront them](people-conflicts-disagreements.md), especially if it's about a legitimate issue you both need to address.
+Don't be afraid to [confront people](people-conflicts-disagreements.md), especially if it's about a legitimate issue you both need to address.
 
 1. In any conflict, [educate](education.md) yourself beforehand as much as possible.
 2. When you encounter the conflict, you can speak as a legitimate expert on the situation.
+
+People with fragile egos are dangerous, since they'll over-react to your behavior, and they will show the same clear signs:
+
+1. They will take constructive feedback, even when it's gentle or well-meaning, as a personal attack.
+2. They'll constantly chase validation and praise from others.
+3. When confronted, they get extremely defensive (e.g., twisting words, questioning tone, halting the conversation).
+4. Their [identity](people-identity.md) is only built around one thing (e.g., [career](jobs-1_why.md), [image](people-image.md), [relationship](relationships-marriage.md)).
+5. They're obsessed with [outcomes](results.md) and will feel like a failure from results alone, irrespective of effort, growth, or character.
+6. They have trouble celebrating others, such as compliments or praise.
 
 Beforehand, acknowledge that you don't want to hurt them with what you're about to say.
 

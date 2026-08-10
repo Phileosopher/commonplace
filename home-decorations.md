@@ -1,6 +1,8 @@
 
 # Decorating and renovating a home
 
+Consider a more interesting doormat that makes a statement.
+
 ## Move furniture around
 
 Consider where people go in the room:

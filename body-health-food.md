@@ -1,6 +1,11 @@
 
 # How to eat healthy
 
+The body has a "gut biome" that self-regulates.
+
+- This means that it can detect any major variation in your diet, which can be an early warning system for unhealthy food.
+- At the same time, an unhealthy diet can also mean that you'll feel indigestion and fatigue from *healthy* food.
+
 Always drink at least 1-2 liters of water every day, preferably filtered.
 
 Modern manufacturers want foods and drinks to be more [addicting](addiction.md) (and thus, more [marketable](marketing.md)), so they'll increase the ratio of unhealthy-but-tasty things:
@@ -232,7 +237,9 @@ Fruit is generally healthy:
 - Fruits (especially citrus, melons, and kiwifruit) have vitamin C that increases metabolism and strengthens the immune system.
 - Avocados lower cholesterol.
 - Berries, cherries, and plums are filled with antioxidants.
+- Blueberries clean the brain.
 - Cranberry juice prevents bladder infections.
+- Pomegranates clean blood vessels.
 - Squirt some citrus juice into water to stay hydrated *and* enjoy a non-water drink.
 
 Vegetables are rarely a bad decision:
@@ -240,6 +247,7 @@ Vegetables are rarely a bad decision:
 - Vegetables, especially dark green and orange ones, have vitamin E and decrease lung cancer.
 - Vegetables like peppers, leafy vegetables, sprouts, broccoli, cabbage have tons of vitamin C.
 - Some vegetables like spinach, brussels sprouts, broccoli, and beets are high in antioxidants.
+- Beets and garlic clean blood vessels.
 - Broccoli balances the blood sugar.
 - Cabbage decreases the risk of breast cancer and ulcers.
 - Onions lower blood pressure.

@@ -25,4 +25,4 @@ One unique interpretation of the David & Goliath story is that Goliath had Marfa
 While this viewpoint takes away from the mythology of the story and God's empowerment of an underdog, it adds to God's power in another way.
 
 - God clearly planned for the encounter, and He knew beforehand no matter how we take it.
-- The wisdom to be gained in this approach is that evil people really have no power, and they have to summon it from elsewhere (cross-reference [Job 1-2](https://biblehub.com/job/1.htm) where the Satan has to ask permission, as well as multiple Gospel instances of demons asking Jesus for permission to act).
+- The wisdom to be gained in this approach is that evil people really have no power, and they have to summon it from elsewhere (cross-reference Job 1-2 where the Satan has to ask permission, as well as multiple Gospel instances of demons asking Jesus for permission to act).

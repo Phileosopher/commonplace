@@ -32,6 +32,8 @@ Trends are the application of [creativity](mind-creativity.md) and [habits](habi
 
 The [purpose](purpose.md) for a trend proliferating ignores [what others may think](mind-imagination.md) at first, but as it trend matures everyone brings a variety of [creative](mind-creativity.md) approaches, and the purpose for adopting the trend mutates as increasingly more people get involved in it. The speed of the trend's movement is based on how fast people will accept it, which is based on how much people [feel](mind-feelings.md) satisfied that they fulfilled their purposes.
 
+In any trend, everyone is making decisions based on what they think the trend-users already know. The innovators only stand out because they assign a relatively low value to what the collective already knows.
+
 No matter what, [every trend goes through a predictable set of stages](people-trends-stages.md), and broadly connects with the Gartner Hype Cycle.
 
 ## A trend's meta-stages
@@ -66,6 +68,8 @@ The length of a trend's phase comes from how new something is, according to each
 - Laggards will never adopt the thing until it's practically [required](people-rules.md) by the group. Even then, they'll never [identify](people-identity.md) with it. The speed of a *new* trend developing to replace that one often comes from how much the laggards hate the current trend.
 - New mini-trends around an initial trend can restart the trend cycle all over again at any time. Often, they'll send the public in a previously unexpected direction, destroying unrelated trends and revitalizing loosely connected ones.
 
+The general speed of a trend's adoption is also heavily defined by its relative importance. Unimportant decisions like clothing or food travel quickly, while other decisions like [politics](politics-conservativeliberal.md) or [religion](religion.md) can take an *enormous* amount of time.
+
 ## Tweaks to a trend
 
 Trends spread like diseases. A few people at first, then a large group, then practically everyone until they're immune to it. Also, like diseases, ideas require human hosts, and wouldn't exist without [groups](groups-small.md) to spread it.
@@ -93,6 +97,7 @@ There are a few ways to slow a trend, but nothing that can fully stop it:
 - Get in front of the trend and prevent the early adopters from [understanding](mind-understanding.md) the thing. This can range from [severing](morality-taboo.md) [group interaction](people-conversation.md) with innovators and early adopters all the way to excommunicating or killing them.
 - [Influence](influence.md) people away from the trend with well-made [stories](stories-why.md) that inspire [fear](mind-feelings-fear.md). Often, they'll [moralize](morality.md) an otherwise non-moral matter or compare the trend to an unrelated trend.
 - Destroy everything related to the trend, including forbidding [language](language.md), [portraying](people-image-distortion.md) [false stories](stories-storytellers.md), and [killing people](morality-evil.md).
+- Use [litigation](legal-safety.md) to make an example and precedent of a trend.
 
 ### Speeding a trend's transition
 
@@ -153,6 +158,11 @@ Also, when the pendulum sits in the trends of [individual efforts](purpose.md), 
 4. (repeat #1)
 
 APPLICATION: Everything has its season, and watching for the timing of a season is critical to [living well](people-goodlife.md). Investing effort, or not, depends on what phase of the Recovery/Buildup/Action cycle we're in.
+
+These cycling patterns present as feedback loops:
+
+- Positive feedback loops add more upon each iteration, which results in a magnifying effect (and a subsequent eventual meta-collapse).
+- Negative feedback loops remove variances each iteration, creating a forced [conservative](politics-conservativeliberal.md) approach.
 
 Without this resistance pattern in a constant flow, the pattern that creates growth (e.g., athletes, [entrepreneurs](entrepreneur-why.md)) halts as [habits](habits.md) take over (e.g., [addicts](addiction.md), [victims](politics-leftism.md)):
 

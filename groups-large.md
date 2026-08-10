@@ -8,7 +8,7 @@ From anything larger, many psychological dynamics start bleeding across each oth
 - [Churches](church.md)
 - [Clubs](fun.md)
 - [Social networks](networks-social.md)
-- [Gangs](legal-crimes.md)
+- [Gangs](groups-gangs.md)
 - [Corporations](mgmt-middle.md)
 - [Cities](politics-city.md)
 - [Nations](politics-country.md)
@@ -72,7 +72,7 @@ More [cultures](people-culture.md) can resonate with an organization that promot
 
 As a group grows, each individual's [influence](power-influence.md) in the group becomes more [specialized](jobs-specialization.md). Members' tasks become more specific, and many leaders are simply a "connecting-point" to other smaller sections of the group. Once this starts happening, most members will become more [apathetic](mind-feelings.md) to the group's [causes](purpose.md) and the group will feel more inhuman, irrespective of how [relatable](power-influence.md) or [noble](morality.md) its origins were.
 
-As far as *how* any group grows, it eventually will exhaust all the natural referrals associated with the group's [purpose](purpose.md).
+As far as *how* any group grows, it eventually will exhaust all the natural associations with the group's [purpose](purpose.md).
 
 - If the leadership isn't satisfied with that group's size at that point, the group will eventually resort to [advertising](marketing.md).
 - As the advertising structure normalizes, the leadership continuing to desire growth will mean the advertisements will become increasingly invasive.
@@ -81,6 +81,8 @@ As far as *how* any group grows, it eventually will exhaust all the natural refe
 APPLICATION: Intrusive ads will be with us as long as there is a free market. Further, advertising is *always* present in [for-profit business models](business.md). This shifts the consumers from being the primary customer to becoming the business product.
 
 Over time, members' [specializations](jobs-specialization.md) in various aspects will create special-purpose authorities beyond the central leadership roles (e.g., bureaus, coalitions). [Bureaucracy](bureaucracy.md) is when those bureaus have most of the [power](power.md), and they are [subgroups](groups-small.md) of their own inside the meta-group that are subject to [intergroup conflicts and misunderstandings](people-conflicts-war-why.md).
+
+While group participation is often a minority for many tasks (representing 2-5% many times), that participation becomes smaller as the largeness of the group provokes more collective apathy.
 
 Since every person has a different reaction to [new information](education.md), [unexpected](mind-imagination.md) [consequences](results.md) will come from any large [decision](mind-decisions.md) proportionally to the size of the group. The only way to plan ahead is to consult [history](stories-storytellers.md). Otherwise, the group should make [plans](mind-imagination.md) for a trial-and-error endeavor, along with the resources to [hedge the inevitable risks](safety.md) from those decisions.
 

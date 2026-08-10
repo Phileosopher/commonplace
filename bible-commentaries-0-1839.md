@@ -13,7 +13,7 @@ This is a summarized attempt to keep track of the commentaries by answering a fe
 1. Who wrote it, and approximately what window of time would it have been written?
 2. What theological basis or denomination was the author?
    - You can certainly read outside your denomination (and it can help to gain a deeper understanding through the diversity of [our gifts and roles](spiritual-gifts.md)).
-   - Many [philosophies](philosophy.md) and [beliefs](glossary-philosophy-christian.md) across the [lens of Christian history](history-church.md) have a *profound* effect on how you'll see the finer details of [Scripture](theology-bible.md).
+   - Many [philosophies](philosophy.md) and [beliefs](philosophy-glossary-christian.md) across the [lens of Christian history](history-church.md) have a *profound* effect on how you'll see the finer details of [Scripture](theology-bible.md).
    - For the sake of your [workflow](success-4_routine.md), some opinions and approaches may impede your research into a [Bible study](bible-study.md) or [sermon](mgmt-church.md).
 3. What type of commentary is it?
    - **Exegetical** (aka Word) works to give technical details tied to the original [language](language.md) and its [meaning](meaning.md).

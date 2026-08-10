@@ -32,6 +32,15 @@ Aim for a daily stretch routine that covers your whole body:
 - Crouch low with your legs resting on your knees and lift your ankles.
 - Crouch low with your hands clasped inside your knees and extend your arms and knees outward.
 
+Limber up to increase your energy:
+
+1. Hop a few times while taking deep breaths.
+2. Hold your hands in front of you near your chest, then push them behind you as hard as you can several times.
+3. Hug yourself, then launch your arms sideways several times.
+4. Twist your torso with your arms' momentum several times.
+5. Tap the sides of your hips several times.
+6. Tap your lower body all over, then your torso, then to each side, then to each part of your head.
+
 If you need more, most yoga poses are simply variations of stretching.
 
 - There's really nothing spiritual about the poses themselves.

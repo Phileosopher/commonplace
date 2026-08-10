@@ -1,6 +1,30 @@
 
 # How to exercise
 
+[Diet](body-diet.md) and exercise connect with each other, and a bad diet will ruin your ability to work out correctly.
+
+Aim for about 30-60 minutes of exercise per day.
+
+- It takes about 10,000 paces (7 km, or 4.3 mi) to transport oxygen throughout the entire body.
+
+There are some clear but not always obvious signs you're not moving enough throughout your day:
+
+- Constipation
+- Stiff joints
+- Constantly out of breath
+- Unstable [moods](mind-feelings.md)
+- Low energy
+- Slower metabolism
+- Not [sleeping](sleep.md) well
+- Trouble [remembering](mind-memory.md) things
+- High blood pressure or heart issues
+- Prediabetes
+- Low testosterone or adrenaline
+- Back hurts
+- Constant hunger
+- Constantly sick
+- Dull-looking skin
+
 ## Exercise should be *fun*
 
 Most people hate exercise because they don't realize they should *like* doing it:
@@ -15,11 +39,15 @@ Instead of doing it alone, sign up for a fitness club or join a friend's activit
 
 ## Set effective exercise goals
 
-Diet and exercise connect with each other, and a bad diet will ruin your ability to work out correctly.
+All athletic training is the one simple concept of stressing the human body to force a desired adaptation.
 
-Aim for about 30-60 minutes of exercise per day.
-
-- It takes about 10,000 paces (7 km, or 4.3 mi) to transport oxygen throughout the entire body.
+- The pattern is a predictable cycle:
+  1. Start at an initial fitness level
+  2. During training, performance will take a drastic drop.
+  3. During recovery, there's a brief window where the body bounces back just a little stronger than before ("supercompensation").
+  4. At the top of supercompensation curve, professionals apply the next stress before the effect fades.
+  5. If someone doesn't do anything in that window, the body levels out again.
+- To fit in all the elements you wnat to focus on, break up the focus in a weekly cycle according to body part.
 
 Watch for misleading exercise trends:
 
@@ -29,6 +57,37 @@ Watch for misleading exercise trends:
   - Jump squats and climbing stairs make stronger butt muscles.
   - Work out chest muscles, especially pectorals, to increase breast size and perkiness.
   - Work out back muscles, especially the lower back, to improve posture.
+
+Soviet scientific research for the Olympics provides the best model for training by using four fundamental muscular aptitudes:
+
+- Strength
+  - 89-90% of load
+  - 1-5 reps per set
+  - 4-7 sets per exercise
+  - 2-6 minutes of rest between sets
+  - 60-100% speed per rep
+  - at least 3 sessions per week
+- Power
+  - 70-90% of load
+  - 1-5 reps per set
+  - 3-5 sets per exercise
+  - 2-6 minutes of rest between sets
+  - 90-100% speed per rep
+  - at least 3 sessions per week
+- Muscle mass
+  - 60-80% of load
+  - 6-12 reps per set
+  - 4-8 sets per exercise
+  - 2-5 minutes of rest between sets
+  - 60-90% speed per rep
+  - at least 5 sessions per week
+- Endurance
+  - 40-60% of load
+  - 15-60 reps per set
+  - 2-4 sets per exercise
+  - 1-2 minutes of rest between sets
+  - 60-80% speed per rep
+  - at least 8 sessions per week
 
 Mix exercise into your daily routine:
 
@@ -82,6 +141,29 @@ Set weightlifting goals for *all* your body groups:
   - Push your knees out with your elbows.
   - Keep your chest up to tighten the lower back and lock the upper body.
   - Jump 3 times consecutively and look down to find the exact placement for your feet.
+
+As you age, pay attention to specific body parts that may be at more risk for injury:
+
+- Knees
+  - Focus on the gluteus medius (the side of your butt).
+  - The best exercise is the side-lying leg lift.
+    - Lean your whole body forward 45 degrees, and rotate your top foot so that the toes are touching the heel of your bottom foot.
+    - Once you can do two sets of 50 reps on each side with a 5-lb ankle weight, you're stable enough for most recreational sports.
+- Shoulders
+  - Focus on the rotator cuff.
+  - The best exercise is the side-lying shoulder rotation.
+    - Tuck a folded towel between your upper arm and ribs.
+    - Do two sets of 50 reps, each arm, with a 5-lb weight.
+- Upper back and neck
+  - Focus on the trapezius and spinal erectors running next to your thoracic vertebrae.
+  - The best exercise is the prone Y on a stability ball with a bar.
+    - Hold a long, lightweight dowel and flex your upper back to finish the lift.
+    - Do two sets of 50 reps with a 5-lb bar.
+- Lower back
+  - Focus on the lumbar spine, including the lower spinal erectors (the big muscles on both sides of the lower spine) but also deep abdominal muscles.
+  - The best exercise is the plank.
+    - Keep your entire body rigid and prevent your belly from sagging by straightening out your lower back as much as possible.
+    - Do it for two minutes, twice.
 
 Never exercise so much one day that you'll miss the next workout:
 

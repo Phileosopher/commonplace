@@ -16,6 +16,21 @@ Sales is also known as pipeline marketing:
 4. Treat your clients exceptionally well to maintain your reputation.
 5. Create more leads and prospects through referral marketing.
 
+## Keep it simple
+
+Sales is about sharpening ideas to a fine point.
+
+- Always consider the audience's WIIFM ("What's In It For Me") in the message.
+
+Craft a [mini-speech](education-how.md) you can deliver within about 10 seconds (an "elevator pitch"):
+
+- This is for (target customer)...
+- ...who (their dissatisfaction with the present solutions).
+- We're providing (new product category)...
+- ...that (key benefit for the customer)...
+- ...which is unlike (alternative, existing solution).
+- Our product (how it solves the need better than the alternative).
+
 ## Aggressive tactics
 
 Sales staff have *awful* reputations from overly aggressive tactics. For example:
@@ -99,6 +114,11 @@ The [personalities](people-personality.md) of sales staff (i.e., high Extroversi
 - Good salespeople can (and do) repeat back precise words someone said, within the context they said it.
   - Repeat back their questions, then praise them for making good questions.
 - Most sales staff are so busy talking that they don't even read the signals that *someone wants to buy*!
+
+Most sales staff use various tricks to improve their skills:
+
+- Visualization and [self-hypnosis](mind-awareness-meditation.md) to achieve a desirable outcome.
+- Sales battlecards that summarize the high-value talking points.
 
 ## Retention & more sales
 

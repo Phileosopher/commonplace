@@ -58,11 +58,20 @@ A strong security force, therefore, is exposed to risks on a regular basis.
 - This can be legitimate (e.g., battle experience) or simulated (e.g., intentional bad actors).
 - Without this, almost everyone will act on pure animal instinct (i.e., self-preservation) and will abandon their role.
 
+One way to protect against invasion is to have multiple barriers, with degrees of safety for each.
+
+- There are many examples of this concept:
+  - subsidiary corporations that are legally liable without affecting the parent company
+  - city walls in layers toward the center where the government is located
+  - multiple firewalls with different [encryption protocols](encryption.md) for each layer
+- However, every new security layer creates more complexity, which can often expand the attack window.
+  - In particular, new complexities remove the [intuitive](mind-feelings.md) aspects of human behavior, which permits more [social engineering](computers-cysec-socialengineering.md).
+
 ## Security specializations
 
 The domains of security break apart into many other subdomains:
 
-- [Law enforcement](legal-safety.md) protects against the violation of a nation's [rules](people-rules.md).
+- [Law enforcement](legal-safety.md) protects against the violation of a culture's [rules](people-rules.md).
 - Private security protects against their [clients](people-contracts.md) or their possessions.
 - [Cybersecurity](computers-cysec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](computers-cysec-compliance.md).
 - Personal security involves protecting yourself and your possessions.

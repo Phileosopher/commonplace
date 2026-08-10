@@ -38,6 +38,15 @@ While we all naturally identify with at least some of our [culturally](people-cu
 
 As followers of various groups, the [leaders](groups-large.md) of that group (along with all the [sub-leaders](groups-small.md)) define the values the group follows. Very often, if that group has been around longer than the present leaders, the entire group has created its own [culture](people-culture.md) and [reputation](people-image-why.md).
 
+Groups use key signifiers for in-group [identity](people-identity.md):
+
+- A vetting process that's often very brutal or extremely difficult, often to test [aptitude](results.md)
+- Conveyed [myths](stories-myths.md) that give a grander sense of [meaning](meaning.md), often in a [religious](religion.md) context
+- Hidden hand signals or gestures
+- Matching clothing or accessories
+- Specific [language](language.md) or forms of speech
+- Specific information specific to their role in that group
+
 To join a group, a member must demonstrate a sacrifice of [power](power.md) (and likely promising a future sacrifice) in exchange for a different form of power (or future power) inside the group (e.g., promising labor/expertise for the promise of money). It typically leans to more power submitted by the member (such as becoming a member of a church), and is usually meant to [represent](people-image-why.md) loyalty through that sacrifice. This sacrifice creates an in/out-group mentality that forms the group's [culture](people-culture.md) compared to its surrounding environment.
 
 APPLICATION: Each group we [choose](mind-decisions.md) has an opportunity cost:
@@ -78,6 +87,8 @@ With the exception of a [bad system], new members to any group all share several
 3. Aggregately, they will have come from a diverse range of other groups and will bring their [culture of origin](people-culture.md) into the group.
 4. They [desire](purpose.md) to assimilate into that group, often as part of their [identity](identity.md).
 5. In some form, they're reinforcing the group's central [culture](people-culture.md)
+
+Further, many of them will seek out [symbols](symbols.md) to represent their allegiance and conformity (e.g., approved clothing).
 
 We tend to conform our lifestyles to match the group's to the degree we [identify](people-identity.md) with that group and [like](people-friends-why.md) the other members we're around:
 

@@ -47,7 +47,7 @@ Finally, they generally must be humble enough to accept what they don't know.
 
 They'll have to learn a wide variety of disciplines where they had had zero experience.
 
-- While they can delegate some things (e.g., [lawyer](glossary-legal-ac.md) or [accountant](money-accounting.md)), the beginning stages of their business will require them to [understand](mind-understanding.md) at least a general working concept of most parts of their organization.
+- While they can delegate some things (e.g., [lawyer](people-contracts.md) or [accountant](money-accounting.md)), the beginning stages of their business will require them to [understand](mind-understanding.md) at least a general working concept of most parts of their organization.
 
 Determination - more than anything else, they must be focused.
 
@@ -131,3 +131,8 @@ Many disciplines parallel an entrepreneur's, and most of them typically visit at
 - [Media](stories-storytellers.md) professionals and [public speakers](language-speaking.md).
 - [Leaders](mgmt-1_why.md) in nonprofit organizations or churches.
 - [Homeschooling](education-homeschool.md) [parents](parenting-children.md).
+
+
+# Tech entrepreneurs
+
+A tech entrepreneur is just like any other entrepreneur, but their focus will be *heavily* oriented toward [software development](computers-software.md). To that end, their personality must be less extraverted than most entrepreneur personalities, since computers are *very* anti-social experiences with [logic](logic-cs.md) and [programming](computers-programming.md).

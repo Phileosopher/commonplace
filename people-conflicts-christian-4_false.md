@@ -5,8 +5,8 @@
 
 Gay Theology - Homosexuality is not a sin:
 
-- The Bible clearly indicates that homosexuality is a sin ([Romans 1:26-27](https://biblehub.com/romans/1.htm)).
-  - However, while it definitely represents more deviance, it's as much sexual sin as fornication or adultery ([1 Corinthians 6:18](https://biblehub.com/1_corinthians/6-18.htm)).
+- The Bible clearly indicates that homosexuality is a sin (Romans 1:26-27).
+  - However, while it definitely represents more deviance, it's as much sexual sin as fornication or adultery (1 Corinthians 6:18).
   - It is distinctly odd (along with other domains like transgenderism), so many Christians don't know how to handle it.
 - The Bible's context indicates how homosexuality is a form of self-worship, and God lets people run to it when they reject Him.
   - Many of them are part of the Pride cult (see below), so they severely need God's love and grace.
@@ -18,12 +18,12 @@ Spiritual Celibacy - Virginity outside of marriage is a purer state of existence
   2. If you burn with romantic passion, then get married, and...
   3. Never leave your spouse, ever.
 - At the extreme, this can take the form of mandatory celibacy to join a church.
-- There is evidence in the Bible that being unmarried makes a person's [ministry](spiritual-discipleship.md) easier to perform, and that reconciling marriage is a good ideal ([1 Corinthians 7](https://biblehub.com/1_corinthians/7.htm)).
+- There is evidence in the Bible that being unmarried makes a person's [ministry](spiritual-discipleship.md) easier to perform, and that reconciling marriage is a good ideal (1 Corinthians 7).
   - But, everyone is [gifted differently](spiritual-gifts.md), and it's better to marry than burn with [romantic desire](relationships-why.md).
 - The idea often implies *all* marriages should reconcile without divorce.
   - In the case of clear abuse, it's clear someone should *not* live with their spouse if they're in any danger, but doesn't give license for divorcing.
-  - Jesus *certainly* doesn't give free license to divorce or remarry, and remarriage will typically devastate another person in the process ([Matthew 19:7-10](https://biblehub.com/matthew/19.htm)).
-- If someone repents from their situation, we *are* responsible to forgive them if they've truly changed ([Matthew 18:21-22](https://biblehub.com/matthew/18.htm)).
+  - Jesus *certainly* doesn't give free license to divorce or remarry, and remarriage will typically devastate another person in the process (Matthew 19:7-10).
+- If someone repents from their situation, we *are* responsible to forgive them if they've truly changed (Matthew 18:21-22).
   - Without this forgiveness, a church culture can reject someone simply for having been a non-virgin *before* they were Christians.
   - It makes common sense for the divorcing person to spend at *least* 4-5 years single first, though.
 
@@ -35,7 +35,7 @@ Some heresies about Christian [rituals and practices](mgmt-church.md) create an 
   - They believed Christians who denied Christ and turned in their Bibles should be persecuted.
 - Iconoclasm - Icons ([symbols](symbols.md) of specific things) should be destroyed.
 - Kinism - People are only to consort, worship, and marry people of their same race.
-- Egalitarianism - Females can be in positions that rule over men, such as pastors ([1 Timothy 2:9-15](https://biblehub.com/1_timothy/2.htm)):
+- Egalitarianism - Females can be in positions that rule over men, such as pastors (1 Timothy 2:9-15):
   - Some people claim it's sexist, but [gender distinctions have a significant spiritual purpose](people-gender.md).
   - Many females in so-called "[pastor](mgmt-church.md)" roles are actually preachers, or they straddle that line very closely.
 - Novationism - Christians who sacrifice to pagan gods or deny their faith, even under extreme pressure, are no longer Christians.
@@ -43,11 +43,11 @@ Some heresies about Christian [rituals and practices](mgmt-church.md) create an 
 One of the most prominent heresies stems from [magical thinking](mind-understanding-certainty.md) about God's interactions with humanity:
 
 - Positive Thinking - Thoughts can form reality (either by willpower alone, or with God's unconditional endorsement).
-  - We can't add to faith because it's a refined force given at God's discretion ([Romans 12:3](https://biblehub.com/romans/12-3.htm), [1 Peter 1:7](https://biblehub.com/1_peter/1-7.htm), [Ephesians 2:4-9](https://biblehub.com/ephesians/2.htm)).
+  - We can't add to faith because it's a refined force given at God's discretion (Romans 12:3, 1 Peter 1:7, Ephesians 2:4-9).
 - Prosperity Gospel - The Gospel's promises do *not* promise hardship, but do include physical health or earthly wealth.
-  - God's covenant with Abraham ([Genesis 12](https://biblehub.com/genesis/12.htm), [15](https://biblehub.com/genesis/15.htm), [17](https://biblehub.com/genesis/17.htm), [22](https://biblehub.com/genesis/22.htm)) does *not* apply completely to all Christians in this life for material gain.
-  - Jesus commands His followers to carry their torture device and follow Him ([Matthew 16:24](https://biblehub.com/matthew/16-24.htm)), and that nobody can serve both God and money ([Matthew 6:24](https://biblehub.com/matthew/6-24.htm)).
-    - To treat giving like a spiritual form of [investing](money-investing.md) (expecting future gain) is absolutely against the spirit of denying oneself ([Matthew 16:24](https://biblehub.com/matthew/16-24.htm)).
+  - God's covenant with Abraham (Genesis 12,15,17,22) does *not* apply completely to all Christians in this life for material gain.
+  - Jesus commands His followers to carry their torture device and follow Him (Matthew 16:24), and that nobody can serve both God and money (Matthew 6:24).
+    - To treat giving like a spiritual form of [investing](money-investing.md) (expecting future gain) is absolutely against the spirit of denying oneself (Matthew 16:24).
   - The only Apostle who cared heavily about [money](money-1_why.md) was Judas, who betrayed Jesus at the end.
   - Jesus and the Apostles were [homeless wanderers](hardship-homeless.md), and almost all of them suffered shameful and brutal deaths by [persecution](hardship-persecution-church.md).
   - A *very* incomplete list of various prosperity doctrine leaders:
@@ -86,14 +86,14 @@ One of the most prominent heresies stems from [magical thinking](mind-understand
   - Popularity Gospel churches tend to focus on growing church numbers more than strong doctrine.
     - There's typically more [cultural shaming](morality-taboo.md) than [theological](theology.md) strength to most of their arguments.
     - To that end, it's impossible to indicate *precisely* what they believe, except that [they're not very rigorous about it](mind-understanding.md).
-  - While they insist on having compassion and kindness (which *is* a product of love), they tend to disregard God's justice against sinners ([Romans 2:1-9](https://biblehub.com/romans/2.htm)).
+  - While they insist on having compassion and kindness (which *is* a product of love), they tend to disregard God's justice against sinners (Romans 2:1-9).
 - Word of Faith - Spoken words can form reality (either by the words alone, or with God's empowerment).
   - This is also known as "magical thinking".
   - Some go as far as saying *all* Christians with enough belief can receive [spiritual sign gifts](spiritual-gifts.md) like the Apostles.
-  - Scripture indicates our [desires](purpose.md) will change, but makes [no promise](people-contracts.md) of physical gain in this life ([Galatians 2:20](https://biblehub.com/galatians/2-20.htm)).
+  - Scripture indicates our [desires](purpose.md) will change, but makes [no promise](people-contracts.md) of physical gain in this life (Galatians 2:20).
   - Magical thinking doesn't bar anyone from salvation, but it *will* discourage Christians long-term.
     - At its farthest, magical thinking will become a standard cult if a very [eloquent](power-influence.md) speaker can [influence](power-influence.md) enough people.
-  - This type of expression sometimes represents as a "prophecy", with some people being clearly false prophets ([Matthew 7:15](https://biblehub.com/matthew/7-15.htm)):
+  - This type of expression sometimes represents as a "prophecy", with some people being clearly false prophets (Matthew 7:15):
     - John Hagee
     - C. Peter Hagner
     - TB Joshua
@@ -111,13 +111,13 @@ Heresies that take away part of the Bible:
 - Liberalism - Scripture is not inerrant or infallible.
 - Neo-Orthodoxy - The Bible is God's revealed word as people read it, *not* through its original penmanship.
 - Standpoint Epistomology - A person's [understanding](mind-understanding.md) of the Bible is directly proportional to how far down the [proletariat ladder](politics-leftism.md) they are.
-- When speaking in tongues is a direct measure of spirituality, [1 Corinthians](https://biblehub.com/1_corinthians/1.htm) doesn't apply anymore.
+- When speaking in tongues is a direct measure of spirituality, 1 Corinthians doesn't apply anymore.
 - When the Bible only has explainable components, Revelation shouldn't be part of the Bible because we can't verify its author, or that it was already completely fulfilled with the Roman Empire.
 - When evidence is the only way to believe, Hebrews and Job aren't part of the Bible because they can't verify who wrote it (though the ideas echo completely in other Scriptures).
 - If God is too intense, the Old Testament doesn't apply anymore.
   - Marcionism - The God of the Old Testament is evil, and the God of the New Testament is good.
-  - The Law and Jewish history are the foundation for God's grace ([Matthew 5:17-18](https://biblehub.com/matthew/5.htm), [Romans 3:31](https://biblehub.com/romans/3-31.htm)).
-  - Some of God's promises in the Old Testament certainly *do* transfer to the Church ([Romans 10:12-13](https://biblehub.com/romans/10.htm)).
+  - The Law and Jewish history are the foundation for God's grace (Matthew 5:17-18, Romans 3:31).
+  - Some of God's promises in the Old Testament certainly *do* transfer to the Church (Romans 10:12-13).
 
 Heresies that add content to the Bible:
 

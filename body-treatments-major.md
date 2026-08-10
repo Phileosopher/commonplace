@@ -41,4 +41,4 @@ Take a combination of ivermectin and fenbendazole every single day.
 
 Once in a while, take a stack of white sugar cubes and a few drops of pure pine turpentine.
 
-- The sugar draws out the parasides, while the pine turpentine kills them.
+- The sugar draws out the parasites, while the pine turpentine kills them.

@@ -70,8 +70,8 @@ Since Christianity leans into honoring *whatever* government is in control, many
 
 - **Communalism** and **individualism** are both acceptable (along with **communitarianism**), though Christianity leans a little toward individualism.
 - There is a type of **liberalism** present in Christianity, though it doesn't veer into fully permitting evil and leans away from **libertarianism**.
-- Christians have a specific type of **contractarianism** that presumes God established national laws for the lawless ([1 Timothy 1:9](https://biblehub.com/1_timothy/1-9.htm)).
-- While the [modern technology trends](https://gainedin.site/machines/) advance **techno-progressivism**, Christians don't really care (with the specific exception of the "mark of the Beast" from [Revelation 13:16-17](https://biblehub.com/revelation/13.htm)).
+- Christians have a specific type of **contractarianism** that presumes God established national laws for the lawless (1 Timothy 1:9).
+- While the [modern technology trends](https://gainedin.site/machines/) advance **techno-progressivism**, Christians don't really care (with the specific exception of the "mark of the Beast" from Revelation 13:16-17).
 - Christians also range wildly on the matter of **youthism**.
 
 While they honor government, Christians *do* lean into some political ideas:
@@ -192,7 +192,7 @@ Christian philosophical discourse runs closer to their theological circles and a
 - **Cognitivism** and **truth claims** is frequent in Christian tradition, typically within [apologetic evangelism](spiritual-exercises-evangelism.md).
 - **Eclecticism** is also frequent among Bible scholars.
 - **Scholasticism** is not only common among Christian dialogue, it's part of the Bible!
-- **Thomism** is necessary for any heavily measured Christian exploration, since there is no end to the study ([Ecclesiastes 12:12](https://biblehub.com/ecclesiastes/12-12.htm)).
+- **Thomism** is necessary for any heavily measured Christian exploration, since there is no end to the study (Ecclesiastes 12:12).
 
 **Particularism** isn't as common, but can be used without any issues.
 

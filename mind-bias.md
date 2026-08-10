@@ -70,11 +70,13 @@ Survivorship bias/survival bias/immortal time bias/swimmer's body illusion - we 
 
 Ad hominem - we mix up what we hear and why it was said
 
-Anthropomorphism/anthropocentrism - we assume human-like traits and experiences for non-human things
+Anthropomorphism/anthropocentrism/pathetic fallacy - we assume human-like traits and experiences for non-human things
 
 Appeal to probability/appeal to possibility - we assume a likely thing is a guaranteed thing
 
 Argument from ignorance - we accept strange explanations when we're [uncertain](unknown.md)
+
+Beard fallacy - we assert that minor details can't make a difference in results
 
 Bulverism - we will claim A, and because of B want A to be true, so A is false
 
@@ -208,11 +210,15 @@ Magical thinking/Tinker Bell effect - we make and believe stories that explain c
 
 Modality effect - we remember things based on how they're presented
 
+Pragmatic fallacy - we assume something is true because we observe practical effects on people that may be tied to that thing
+
 Red herring - we connect concepts that are only barely related
 
 Salience bias - we focus on things that [emotionally](mind-feelings.md) affect us more than things that don't
 
 Sample size insensitivity - we judge likelihoods while ignoring the number of events that had that likelihood
+
+Slanting fallacy - we prioritize some information over other information to change a story's context
 
 Storytelling effect - we remember [stories](stories-why.md) more than [facts](reality.md)
 
@@ -260,6 +266,10 @@ Less-is-better effect - we prefer smaller amounts of uneven comparisons when obs
 
 Money illusion/price illusion - we measure money based on its relative number instead of [what it can do](purpose.md) for us
 
+Naturalistic/reductive fallacy - we assume that a complex thing can be fully explained by its individual components
+
 Prosecutor's fallacy - we reject an event's explanation even though our preferred expectation is even *more* unlikely
 
 Reactive devaluation - we assume information from an enemy has less value
+
+Unqualified source - we assume, for whatever reason, that something is a reliable source when it isn't

@@ -10,7 +10,7 @@ Many of the activities that define a bad system are variations of wise [investme
 - Absorb risk by charging flat prices for things with a varying cost structure (e.g., it costs $40-110 to ship something, so charge $100 to do it).
 - Re-invest *everything* to prevent making any taxable organizational [profit](money-accounting.md).
 
-Further, as a system grows larger, it can take advantage of favorable situations *much* faster and more effectively than smaller groups:
+As a system grows larger, it can take advantage of favorable situations *much* faster and more effectively than smaller groups:
 
 - Use [tax shelters](money-accounting.md) to move the money into a tax-free arrangement, often with added publicity (e.g., owned not-for-profit organizations).
 - Hire people from foreign regions where the work may be more affordable or advantageous to costs.
@@ -132,6 +132,7 @@ Often, a bad system's leadership will ally with other large groups to suppress s
 - Conspiring with other [large groups](groups-large.md) to create [government rules](people-rules.md) that prevent other [smaller groups](groups-small.md) from [fairly](morality-justice.md) competing ("crony capitalism").
 - Conspiring with other [large groups](groups-large.md) to prevent [smaller groups](groups-small.md) from establishing themselves in a domain ("cartels").
 - Creating [rules](people-rules.md) that prevent people from competing with other organizations in the same domain for a certain amount of time after leaving that organization ("non-compete agreements").
+- Abusive preemption, which involves rules that indirectly steer people to the system's services (e.g., requiring a contractor to build something, thereby steering people to the construction company).
 - Using publicized [awards shows](stories-storytellers.md) to demonstrate "insider" [influence](influence.md) to signal affiliated groups.
 - Delaying [law enforcement](people-rules.md) which may harm them for as long as possible, with the expectation that their opponents will run out of [hope](mind-understanding-certainty.md) and no longer want to keep sacrificing resources for the conflict.
 - Using protesters to "take action" through the [appearance](people-image-distortion.md) of being forced to act.

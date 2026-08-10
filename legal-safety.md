@@ -39,6 +39,7 @@ Unfair discrimination in law is tragically frequent.
 - People can often abuse laws to operate against the spirit they were originally designed for.
 - While "innocent until proven guilty" is often [the doctrine *within* the courts](lawsaxioms-legal.md), the surrounding system is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
 - Many otherwise-illegal actions by military and police are actually legal under color of law.
+  - In fact, peace officers are often not legally required to protect children or take any actual action in situations such as active shooters or bomb threats.
 
 There is legitimate hypocrisy in the system, but there's not much you can do about it.
 
@@ -51,12 +52,19 @@ There is legitimate hypocrisy in the system, but there's not much you can do abo
 - One perfectly legal option is to stop a search without a warrant.
   - You are not required to enter any passwords to computers you have.
   - You can lock your keys in your car or your house to prevent the police from entering.
+- As military, you may have the right to refuse to obey a patently unlawful order, but you should be entirely sure it's patently unlawful or you'll face severe consequences yourself.
 
 The nature of [human bias](mind-bias.md) means *all* law enforcement will profile you.
 
+- One of the most nonviolent ways to speak with them is to ask "How may I help you, officer?" instead of "What's the problem?"
 - For much of the law enforcement world, you're a name and a list of prior events they know about.
 - The opinions of prior law enforcement will *heavily* influence how they see you, especially anything codified in a dropdown menu.
 - You can't run from your [data reputation](people-image-modern.md), but you can certainly change the trajectory by behaving as compliant as reasonably possible for the circumstances.
+
+You are under no obligation to stop for police or answer their questions unless they have reason to suspect you have performed a crime.
+
+- Even if it's in the course of an investigation or for them to discover if a crime is being committed, you have no legal obligation to do so.
+- At the same time, *fleeing* a police officer for a crime they have probable cause that you have committed is *certainly* a crime.
 
 Every court hearing is [inherently biased](mind-bias.md).
 
@@ -101,6 +109,36 @@ Make your public presence (e.g., social media) as a persona.
 - If you use your full legal name, you open yourself to the risk of identity theft and other social risks (e.g., doxxing).
 - Using a fake name or a nickname allows you to maintain a reputation without the risks of connecting to your legal existence.
 
+However, if someone is trying to smear you anyway, you *can* fight back.
+
+- A smear campaign isn't simply [abuse](hardship-abuse.md), and is in fact a [crime](legal-crimes.md).
+  - Most people react by either going on the defensive or going silent.
+  - Don't bother trying to fight back or tell your side of the story, since scandals are often more pervasive than the truth.
+  - You won't win by fighting back emotionally, defending yourself in court, or telling your story.
+- Instead, in a high-conflict situation, the smear campaign is a criminal enterprise, and therefore a legal opportunity.
+  - It often involves conspiracy, defamation, perjury, harassment, stalking, and sometimes extortion.
+  - They're effective self-sabotaging, which gives evidence against themselves through their behavior.
+- In the event of someone lying about you or your character (especially in front of a judge), you may have a claim against them for intentional infliction of mental distress and defamation.
+  - This is most common in [divorce](hardship-family-divorce.md) cases, where angry spouses will [lie](people-lying.md) to gain a financial or custody advantage.
+- The steps to fight back are relatively straightforward:
+  1. Capture records of absolutely everything they do, since they leave records of everything.
+     - They often imagine they're being strategic by sharing information privately, but courts routinely request social media companies to unmask social media accounts.
+     - It may disappear, so save it before it's gone.
+  2. Find the structure behind the campaign by looking for patterns:
+     - Multiple people using suspiciously similar language
+     - Stories that somehow align after a period of communication between parties
+     - Details that appear for the first time that were never mentioned before
+     - People retracting statements and replacing them with new ones that fit the group story
+  3. Use their projection as a weapon.
+     - They will essentially accuse someone of the things they do themselves.
+     - From a legal perspective, every action they perform is creating the pattern.
+     - The product of this is that every claim that person makes is now called into question by the judge.
+  4. Demand all of their communications.
+     - You have the legal right to demand everything that's relevant including texts, emails, group messages, social media, etc.
+     - You can also request forensic access to their phones as well.
+     - If they have been acting wrongly, they will panic, and that will show in a court.
+  5. Deliver the materials strategically in both a criminal and civil case.
+
 ## Be careful when you're not sure
 
 Be very cautious about [every contract you consent to](people-contracts.md).
@@ -124,7 +162,7 @@ Your silence may exonerate you.
 
 Research the [rules](people-rules.md) whenever possible.
 
-- Governments usually post their laws publicly (though many [bureaus](bureaucracy.md) have unclear or conflicting precedents), which usually make sense if you can get past the [jargon](glossary-legal-ac.md).
+- Governments usually post their laws publicly (though many [bureaus](bureaucracy.md) have unclear or conflicting precedents), which usually make sense if you can get past the jargon.
 - Closely consider *everyone's* legal rights and responsibilities.
 - Even when you're violating your responsibility, them violating *their* responsibility exonerates you ("In pari delicto").
 - The rules are often more complicated than they seem:
@@ -391,16 +429,12 @@ If you *do* want to sue, then it pays more than anything else to be an insider w
 2. You should also personally know a good lawyer with experience in what you're working with.
 3. Further, you should be at least somewhat familiar with the region's laws and requirements.
 
-A smear campaign isn't simply [abuse](hardship-abuse.md), and is in fact a [crime](legal-crimes.md).
-
-- You won't win by fighting back emotionally, defending yourself in court, or telling your story.
-- Instead, in a high-conflict situation, the smear campaign is a legal opportunity.
-  - It often involves conspiracy, defamation, perjury, harassment, stalking, and sometimes extortion.
-  - They're giving evidence against themselves through their behavior.
-- In the event of someone lying about you or your character (especially in front of a judge), you may have a claim against them for intentional infliction of mental distress and defamation.
-  - This is most common in [divorce](hardship-family-divorce.md) cases, where angry spouses will [lie](people-lying.md) to gain a financial or custody advantage.
-
 ### Going to court
+
+Every legal dispute is never about [fairness](morality-justice.md), but a large-scale [negotiation](people-conflicts-negotiation.md) around many various [rules](people-rules.md).
+
+- A lawyer is necessary to understand the rules, but you're the ultimate [decider](mind-decisions.md) of the type of [game](math-gametheory.md) you want to play.
+- It's never a matter of fairness, but about who wins that game.
 
 Lawsuits are typically "pay to play", and you must stay aware of the lawyers' goals in each context:
 
@@ -442,6 +476,12 @@ Learn to be *very* slow to speak when being questioned.
   - They'll also often deliver rapid-fire questions in the hopes that you get into a flow of answering haphazardly.
   - This is *very* common among cases involving domestic violence or orders of protection.
 - By taking it precisely, slowly, and deliberately, you have the ability to validate the truth and, subsequently, permit more [justice](morality-justice.md) in your favor.
+
+Be very careful making *any* offer whatsoever.
+
+- When you make an offer, you'll have to wait until they accept or reject it before you can modify it or make another one.
+- If you make a bad offer, the counterparty will have to reject it before you can make another one.
+- If they accept that offer, you will have to absord the risk if you think you could have done better.
 
 When investigating the opposition in a civil case, you usually can't prove that a thing *didn't* happen.
 

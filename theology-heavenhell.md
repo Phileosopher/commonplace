@@ -9,13 +9,13 @@ There is [a derived ideal contained in the Millennium](https://theologos.site/mi
 
 The attributes of hell, according to the Bible, are relatively straightforward:
 
-- A place of eternal punishment ([Matthew 25:46](https://biblehub.com/matthew/25-46.htm))
-- Its occupants will experience everlasting destruction ([2 Thessalonians 1:9](https://biblehub.com/2_thessalonians/1-9.htm))
-- It is a blazing furnace, with weeping and gnashing of teeth ([Matthew 13:50](https://biblehub.com/matthew/13-50.htm))
-- The fire of hell never goes out ([Mark 9:43](https://biblehub.com/mark/9-43.htm))
-- It is a fiery lake of burning sulfur ([Revelation 21:8](https://biblehub.com/revelation/21-8.htm))
+- A place of eternal punishment (Matthew 25:46)
+- Its occupants will experience everlasting destruction (2 Thessalonians 1:9)
+- It is a blazing furnace, with weeping and gnashing of teeth (Matthew 13:50)
+- The fire of hell never goes out (Mark 9:43)
+- It is a fiery lake of burning sulfur (Revelation 21:8)
 
-There is quite a bit of theology contained within [Luke 16:19-31](https://biblehub.com/luke/16.htm) that addresses a certain type of afterlife picture:
+There is quite a bit of theology contained within Luke 16:19-31 that addresses a certain type of afterlife picture:
 
 1. All people went to a shared place with a divide in it (i.e., "Sheol" or "Hades").
 2. When Jesus came, He unlocked the gates of Hades, then took the believers from before that time to be with Him.
@@ -24,7 +24,7 @@ There is quite a bit of theology contained within [Luke 16:19-31](https://bibleh
 There are some unique attributes of all the beings in hell:
 
 - They've fully rejected [God's offer for salvation](https://theologos.site/gospel/)
-- They will be filled with sexual immorality and perversion ([Jude 7](https://biblehub.com/jude/1-7.htm))
+- They will be filled with sexual immorality and perversion (Jude 7)
 - The product of this is that they will be [complete and total narcissists](https://theologos.site/narcissism/)
 
 Some [false doctrines](people-conflicts-christian-4_false.md) allege there is no hell, it isn't eternal, or is a figurative state of mind:
@@ -32,12 +32,12 @@ Some [false doctrines](people-conflicts-christian-4_false.md) allege there is no
 - The Bible makes hell an abundantly clear location for unrepentant sinners.
   - Annihiliationism: the belief that our souls are effectively destroyed by God after death and don't linger in hell.
 - Arabici - Humans' souls die with their body, but are resurrected with the body on Judgment Day.
-- Hell is clearly real, and clearly eternal ([Matthew 25:41](https://biblehub.com/matthew/25-41.htm), [Jude 7](https://biblehub.com/jude/1-7.htm)).
-  - God reserved hell for the Satan and his fallen angels ([2 Peter 2:4](https://biblehub.com/2_peter/2-4.htm)).
+- Hell is clearly real, and clearly eternal (Matthew 25:41, Jude 7).
+  - God reserved hell for the Satan and his fallen angels (2 Peter 2:4).
   - Irrespective of its controversy, the Bible makes it clear it's for unrepentant sinners.
 - Other people don't imagine how an all-loving God could deliver eternal punishment, but several independent thoughts shed some light on it:
   1. [Our souls](theology-godandman-humanity.md) are designed to be infinite.
-  2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](theology-god.md) can't coexist with sin because He sees the depths of a soul's heart ([Psalm 7:9](https://biblehub.com/psalms/7-9.htm)).
+  2. The rest of creation would suffer in the presence of unrepentant, corrupted souls, and [God's essence](theology-god.md) can't coexist with sin because He sees the depths of a soul's heart (Psalm 7:9).
   3. He therefore has no choice for infinite, unrepentant souls except to put them away from the rest of creation.
 - Now, there *is* one specific detail that could mitigate eternal conscious torment (where God eternally torments sinners).
   1. Hell is certainly eternal, according to the Bible.
@@ -62,13 +62,13 @@ But, it's my opinion that some of these things are a bit maligned from the truth
 
 ## The evil we know
 
-We can look at the world around us and see God's law in force ([1 Timothy 1:8-10](https://biblehub.com/1_timothy/1.htm)).
+We can look at the world around us and see God's law in force (1 Timothy 1:8-10).
 
 1. God uses the laws of this world to exercise His will.
 2. Whenever anyone starts overstepping too far, God can use another force to destroy it.
 3. Even evil people can be used by God, as demonstrated many times in the Old Testament.
 
-In this world, we see all sorts of evil, including new types being invented all the time ([Romans 1:30](https://biblehub.com/romans/1-30.htm)). Every new [technology](https://stucky.tech/notes/technology.md) and a never-ending supply of [naive and young](https://stucky.tech/notes/maturity.md) people guarantees new opportunities to manipulate, harm, destroy, and subdue.
+In this world, we see all sorts of evil, including new types being invented all the time (Romans 1:30). Every new [technology](https://stucky.tech/notes/technology.md) and a never-ending supply of [naive and young](https://stucky.tech/notes/maturity.md) people guarantees new opportunities to manipulate, harm, destroy, and subdue.
 
 God's grace, however, prevents these people from reaching the apex of their power.
 
@@ -85,7 +85,7 @@ Comparatively, we don't have much risk from the world around us.
 
 In essence, the primary physical threat in this world is other humans with the intent to harm us.
 
-Now, to avoid misrepresenting the truth, there *is* indication of nature destroying humanity in the afterlife with worms and fire ([Mark 9:48](https://biblehub.com/mark/9-48.htm)).
+Now, to avoid misrepresenting the truth, there *is* indication of nature destroying humanity in the afterlife with worms and fire (Mark 9:48).
 
 My point is that evil actions done by others bring far more pain than the unfeeling forces of nature acting on someone.
 
@@ -95,7 +95,7 @@ Thus, there is a highly likely form of destruction through the actions of *other
 
 If you've ever spent time [incarcerated](hardship-incarceration.md), that entire culture is an unusually high concentration of evil thoughts and actions. Even when there is peace, that peace could turn bad at any time if someone has something to gain by it.
 
-And, in light of the largest prison of all time, there is an interesting admonition at the end of Jesus' parable of the unjust manager ([Luke 16:1-9](https://biblehub.com/luke/16.htm), emphasis added):
+And, in light of the largest prison of all time, there is an interesting admonition at the end of Jesus' parable of the unjust manager (Luke 16:1-9, emphasis added):
 
 - The master commended the dishonest manager because he had acted shrewdly. For the sons of this age are more shrewd in dealing with their own kind than are the sons of light. I tell you, **use worldly wealth to make friends for yourselves, so that** when it is gone, **they will welcome you into eternal dwellings**.
 
@@ -157,9 +157,9 @@ There would be joy, for a fleeting moment, when someone was able to exercise som
 
 In all of this, everyone *could*, in theory, repent and come to Christ and confess their sins, even afterward.
 
-However, in the same way that they didn't listen to Moses and the Prophets ([Luke 16:31](https://biblehub.com/luke/16-31.htm)), or [to the believers on this earth when they had the chance](spiritual-exercises-evangelism.md), they wouldn't listen to an angel or God Himself coming down to them.
+However, in the same way that they didn't listen to Moses and the Prophets (Luke 16:31), or [to the believers on this earth when they had the chance](spiritual-exercises-evangelism.md), they wouldn't listen to an angel or God Himself coming down to them.
 
-Instead, if they had the opportunity, they'd conspire with the devil to overthrow God's goodness, similar to the battle in [Revelation 20:7-15](https://biblehub.com/revelation/20.htm).
+Instead, if they had the opportunity, they'd conspire with the devil to overthrow God's goodness, similar to the battle in Revelation 20:7-15.
 
 All of this, more than anything else, is why [not heeding the Gospel message](https://theologos.site/gospel/) is a type of self-induced foolishness.
 

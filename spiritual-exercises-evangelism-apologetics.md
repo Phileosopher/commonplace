@@ -5,10 +5,10 @@ The word apologetics goes back to the idea of an "apology", which comes from the
 Be careful with apologetics.
 
 - There is a steady subculture of Christians who obsess with making strong, articulate arguments to defend every aspect of their faith.
-- However, each person has their path to walk, and they should walk with conviction even if it's not *precisely* correct the way you understand it ([Romans 14:1-6](https://biblehub.com/romans/14.htm)).
-  - In general, you're wasting your time with denominational politics, and should focus on shared values instead ([Mark 9:38-41](https://biblehub.com/mark/9.htm)).
+- However, each person has their path to walk, and they should walk with conviction even if it's not *precisely* correct the way you understand it (Romans 14:1-6).
+  - In general, you're wasting your time with denominational politics, and should focus on shared values instead (Mark 9:38-41).
   - The *one* exception, though, is when that denomination is practicing [legitimate heresy](people-conflicts-christian-why.md).
-- Make sure you keep in mind that Christians aren't known by their rock-solid views *nearly* as much as their love for each other ([John 13:34-35](https://biblehub.com/john/13.htm)).
+- Make sure you keep in mind that Christians aren't known by their rock-solid views *nearly* as much as their love for each other (John 13:34-35).
 
 Apologetics, in general, boils down to two approaches:
 
@@ -40,7 +40,7 @@ There are a wide variety of apologetics disciplines, based on their initial appr
 No matter what, [apologetics](spiritual-exercises-evangelism-apologetics.md) is only good to sow doubt, *not* to create a conversion.
 
 - Everyone who converts from one belief system to another has to go through an "agnostic" period, where they're not really sure what they believe anymore.
-- It often takes time for someone to convert, and God is the creator of the results ([1 Corinthians 3:6-8](https://biblehub.com/1_corinthians/3.htm)).
+- It often takes time for someone to convert, and God is the creator of the results (1 Corinthians 3:6-8).
 
 In general, ask questions more than give statements.
 
@@ -62,7 +62,7 @@ Eventually, you *will* get a question you don't know the answer to.
 [Defending Christianity](spiritual-exercises-evangelism-apologetics.md) can be emotionally draining, but is frequently necessary.
 
 - Don't run from the conflict or pretend they're not asking legitimate questions.
-- Focus on sharing ideas and alternate views, and don't get distracted by their behavior in the discussion ([John 4:37](https://biblehub.com/john/4-37.htm)).
+- Focus on sharing ideas and alternate views, and don't get distracted by their behavior in the discussion (John 4:37).
 - Even if they become [verbally abusive](people-conflicts.md), your conduct can show Christ-like behavior.
 - The situation becomes vastly more complex (and more important) when [dealing with cults](people-culture-cults.md).
 

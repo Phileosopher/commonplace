@@ -42,6 +42,10 @@ Writing captures feelings simply, so your word choice shows your passion for the
   - If you're out of ideas, find a topic that makes you furious.
 - Once you've learned to write clearly, you will harmonize your speaking and writing style, which will make your thoughts come more clearly as well.
 
+Be as sincere as you can when you write.
+
+- The editing will later represent what you *really* mean to say, but great writing starts with raw [feelings](mind-feelings.md) expressed plainly on paper.
+
 Writing is communicating information to someone where they forget they're [imagining](mind-imagination.md) something simply from a collection of words.
 
 When writing, you gain a more thorough [understanding](mind-understanding.md) of what you're trying to communicate.
@@ -60,6 +64,10 @@ Sometimes, though, you might have to write about something that doesn't interest
 Avoid writer's block by fostering [healthy creative habits](mind-creativity-how.md).
 
 ## Have your audience in mind
+
+You can *really* cut out many details if you know exactly who you're trying to communicate with.
+
+- Focus more on the benefits to the person, not simply the stated facts.
 
 Before writing, ask the following questions:
 
@@ -131,7 +139,9 @@ Even when a body of work is entirely [nonfiction](language-witing-nonfiction.md)
 Get to the point or start as close to the end as possible:
 
 - Give as much information as soon as possible.
+  - Start with self-evident things first, or focus on self-explanatory things if there isn't anything.
 - Use non-knowing, not vagueness, to bring suspense.
+  - As much as possible, try to avoid over-explaining.
 - Only give possibilities the reader was expecting and details the reader can identify with.
 
 All writing is either explaining or exploring:
@@ -165,6 +175,8 @@ Don't neglect the title:
 ## Writing is an art
 
 Like any [art](art.md), writing has rules, exceptions to rules, specific cases for everything, and requires constant criticism.
+
+- Even the calligraphy or [typography](language-writing-typography.md) needs extreme scrutiny!
 
 As the situation demands, you can (and will) break most writing rules, so don't obsess about honoring all of them:
 

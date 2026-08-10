@@ -15,12 +15,12 @@ The largest risk to your conflicts is when you know when you're dealing with a n
 
 However, after the first encounter, you can usually learn to observe [indicators of narcissism](mind-neurodivergence-clusterb-narcissist-indicators.md) long before you must engage in a direct conflict with them.
 
-## Making conflicts with narcissists
+## The context that draws attention to you
 
 You will likely incur their attention and subsequent conflict by doing any of the following:
 
-- Expressing [hardship](hardship.md) that doesn't involve them or outpaces the hardship they're experiencing.
-- You're [succeeding](success-1_why.md) or starting to succeed more than they are.
+- Expressing [hardship](hardship.md) that doesn't involve them or outpaces the hardship they're using to garner pity.
+- You're [succeeding](success-1_why.md) or beginning to succeed more than they are.
 - You made them feel unimportant, whether intentionally or accidentally.
 
 A narcissist has a predictable conflict style:
@@ -30,7 +30,18 @@ A narcissist has a predictable conflict style:
 3. Make that person's reaction the focus of the issue.
 4. Do everything they can to turn everyone against that person.
 
-Therefore, you stop them abruptly by not reacting to their chaos.
+Many times, they'll disrespect and violate boundaries, but then use language to hide that behavior:
+
+- "Don't take it personally."
+  - You can respond with "then don't make it personal".
+- "It was just a joke."
+  - You can respond by pleasantly stating "jokes are supposed to be funny, not insulting".
+- "You're overreacting."
+  - You can say "I have the right to react to disrespect."
+
+## How to mitigate the damage
+
+You stop them abruptly by not reacting to their chaos.
 
 - Further, your ability to openly communicate with others will also shield *others* from being drawn into the narcissist's chaos.
 
@@ -59,6 +70,64 @@ More than anything else, draw attention to their behavior, which stops them from
 - "I'm not following something. I thought we were talking about (topic 1), but I get the impression we're talking about (topic 2)."
 - "That statement seems like it may have been an effort to shift control of the conversation."
 - "That's a clever reframe. It makes you appear reasonable and me as irrational. I wish we could keep this honest."
+
+To avoid [DARVO](mind-neurodivergence-clusterb.md), stay focused on the issue:
+
+- "We're not switching topics, I'm just asking about what happened."
+- "We can talk about your feelings after we address the facts."
+- "What part, specifically, are you taking responsibility for in this situation?"
+
+To buy time, deflect from any interactions that could turn into a conflict.
+
+- Their techniques mean it's impossible to "close the loop" and find harmony with them.
+- They are also in no way interested in [changing](people-changes.md), so correcting them is foolishness.
+- The best solution is to redirect all conflicts to surface-level things (e.g., [small talk](language-speaking-smalltalk.md)).
+
+One of the best ways to buy time and make them subsequently avoid you is to ask very specific questions.
+
+- When they ask a question that can requires different answers, ask for specific details before you answer.
+  - e.g., "Did you get milk at the grocery store or get screws from the hardware store?"
+    - "Can you clarify which of those questions you want me to answer?"
+- When they ask something vague, ask for specific details.
+  - Ask for them to reframe the question.
+  - e.g., "I don't quite understand what your question is, can you please reframe it?"
+- when they become argumentative, de-escalate.
+  - "I understand you're angry at something, but we're adults here, and we need to behave like adults. Can you do that for me?"
+- When they call for speculation, state that you don't know.
+  - e.g., "I guess I'm just the worst person then in the world then, is that right?"
+    - "I honestly don't know, you're more an expert on yourself than I am."
+- When they assume evidence they don't have, you can simply draw attention to the missing information they're asserting.
+- In other words, you can often "annoy them away" if you're gentle with your questions.
+
+While it isn't "nice", handling a narcissist you can't actively avoid requires a very specific approach:
+
+1. Spiritually turn from any [anger](mind-feelings-anger.md), which means releasing it to God.
+   - They are a tragic story that will only become more tragic as they accumulate more trouble for themselves.
+   - All you can do is grow yourself, separately from them.
+   - You don't need to expose them, since they'll expose themselves over time.
+2. Create distance with them, both physically and relationally.
+   - Avoid matching or responding to their emotional tone.
+   - Behave in a very boring way with them until they get bored and go somewhere else ("gray-rocking").
+   - [Influencing](power-influence.md) them is an utter waste of time, and your vulnerability will expose you to risk.
+   - If you must stay around them, practice [healthy boundaries](people-boundaries.md) like your life depends on it.
+   - Focus more on asking questions to destabilize their assertions than giving direct answers to their double-bind questions.
+   - You are also free to *not* respond to them whatsoever.
+3. Stay in close community with others.
+   - You must [take care of yourself](hardship-abuse.md), so learn to isolate from their toxic behaviors and build relationships with others elsewhere.
+   - Besides protecting you from their direct abuse, more people and institutions protect you from the reputation damage they'll inevitably give you.
+4. Avoid any open confrontation with them, since they *will* misuse it to their advantage.
+   - If they try to trap you into a response, use [healthy conflict management techniques](people-conflicts-bad.md)
+   - Stay gracious to them, even if they make you [angry](mind-feelings-anger.md).
+   - Learn to walk away when things become heated.
+5. Remove any connections they could misuse later.
+   - Secure your finances separately from them.
+   - Change passwords or close accounts.
+   - Adapt your lifestyle to not include them.
+6. Plan for the narcissist's [lies](people-lying.md) by [maintaining your character](morality-virtues.md).
+   - Document events that happen, and use facts over feelings as much as possible.
+   - Since you can't protect yourself from *everyone* they could come in contact with, openly share the truth with your closer friends and [family](people-family.md).
+
+## What to expect after mitigating the damage
 
 Be prepared for the narcissist's triangulation or "flying monkeys" (a term referring to "the Wonderful Wizard of Oz").
 
@@ -95,46 +164,6 @@ Most people argue to prove a point, but they're simply maintaining their narciss
     - e.g., "That's a funny thing coming from a self-professed Christian."
   - Explain: you're giving more information for them to use against you.
     - e.g., "Why should I believe you?"
-
-To avoid [DARVO](people-trends-stages.md), stay focused on the issue:
-
-- "We're not switching topics, I'm just asking about what happened."
-- "We can talk about your feelings after we address the facts."
-- "What part, specifically, are you taking responsibility for in this situation?"
-
-To buy time, deflect from any interactions that could turn into a conflict.
-
-- Their techniques mean it's impossible to "close the loop" and find harmony with them.
-- They are also in no way interested in [changing](people-changes.md), so correcting them is foolishness.
-- The best solution is to redirect all conflicts to surface-level things (e.g., [small talk](language-speaking-smalltalk.md)).
-
-While it isn't "nice", handling a narcissist requires a very specific approach:
-
-1. Spiritually turn from any [anger](mind-feelings-anger.md), which means releasing it to God.
-   - They are a tragic story that will only become more tragic as they accumulate more trouble for themselves.
-   - All you can do is grow yourself, separately from them.
-   - You don't need to expose them, since they'll expose themselves over time.
-2. Create distance with them, both physically and relationally.
-   - Avoid matching or responding to their emotional tone.
-   - Behave in a very boring way with them until they get bored and go somewhere else ("gray-rocking").
-   - [Influencing](power-influence.md) them is an utter waste of time, and your vulnerability will expose you to risk.
-   - If you must stay around them, practice [healthy boundaries](people-boundaries.md) like your life depends on it.
-   - Focus more on asking questions to destabilize their assertions than giving direct answers to their double-bind questions.
-   - You are also free to *not* respond to them whatsoever.
-3. Stay in close community with others.
-   - You must [take care of yourself](hardship-abuse.md), so learn to isolate from their toxic behaviors and build relationships with others elsewhere.
-   - Besides protecting you from their direct abuse, more people and institutions protect you from the reputation damage they'll inevitably give you.
-4. Avoid any open confrontation with them, since they *will* misuse it to their advantage.
-   - If they try to trap you into a response, use [healthy conflict management techniques](people-conflicts-bad.md)
-   - Stay gracious to them, even if they make you [angry](mind-feelings-anger.md).
-   - Learn to walk away when things become heated.
-5. Remove any connections they could misuse later.
-   - Secure your finances separately from them.
-   - Change passwords or close accounts.
-   - Adapt your lifestyle to not include them.
-6. Plan for the narcissist's [lies](people-lying.md) by [maintaining your character](morality-virtues.md).
-   - Document events that happen, and use facts over feelings as much as possible.
-   - Since you can't protect yourself from *everyone* they could come in contact with, openly share the truth with your closer friends and [family](people-family.md).
 
 ## Ending things
 

@@ -5,12 +5,12 @@ From our perspective, both God and the devil live in [The Unknown](unknown.md).
 
 Thankfully, God is faithful to show us enough elements of Himself to indicate His presence.
 
-- [James 3:17](https://biblehub.com/james/3-17.htm) spells it out:
+- James 3:17 spells it out:
   1. That wisdom will firstly be pure.
   2. If it is pure, it will be peace-loving, gentle, and accommodating.
   3. It will also be full of mercy, yield good [results](results.md), express itself impartially, and will be sincere.
 
-At the same time, we are responsible to test the spirits to be sure ([1 John 4:1](https://biblehub.com/1_john/4-1.htm)).
+At the same time, we are responsible to test the spirits to be sure (1 John 4:1).
 
 ## Firstly, stay attentive to good things
 
@@ -22,25 +22,25 @@ In some ways, we are never "unspiritual"
 
 We become familiar with what we pay attention to.
 
-- We gain wisdom when we pay attention to true, noble, right, pure, lovely, admirable, excellent, praiseworthy things ([Philippians 4:8](https://biblehub.com/philippians/4-8.htm)).
+- We gain wisdom when we pay attention to true, noble, right, pure, lovely, admirable, excellent, praiseworthy things (Philippians 4:8).
 - The corrupting nature of sin means that our choice of [self-education](education.md) changes the situation:
   - Learning about sin alone leads to very unclear thinking about *both* sin and righteousness.
   - On the other hand, learning about righteousness leads to understanding of sin as well.
 
 This is important because there are multiple types of people who will destroy the Gospel:
 
-1. Many false prophets and wolves [Matthew 7:15-16](https://biblehub.com/matthew/7-15.htm).
-2. Divisive people, who self-condemn with their obsession with their works ([Romans 16:17-18](https://biblehub.com/romans/16.htm), [Titus 3:9-11](https://biblehub.com/titus/3.htm)).
-3. In the last days, pretty much everyone ([2 Timothy 3:1-5](https://biblehub.com/2_timothy/3.htm)).
+1. Many false prophets and wolves Matthew 7:15-16.
+2. Divisive people, who self-condemn with their obsession with their works (Romans 16:17-18, Titus 3:9-11).
+3. In the last days, pretty much everyone (2 Timothy 3:1-5).
 
 ## Individually test each case
 
 A few simple rules test everything:
 
-- [1 Corinthians 12:3](https://biblehub.com/1_corinthians/12-3.htm)
-- [1 John 4:2-3](https://biblehub.com/1_john/4.htm)
-- [Isaiah 8:19-20](https://biblehub.com/isaiah/8.htm)
-- [2 Corinthians 3:17](https://biblehub.com/2_corinthians/3-17.htm)
+- 1 Corinthians 12:3
+- 1 John 4:2-3
+- Isaiah 8:19-20
+- 2 Corinthians 3:17
 
 1. Anyone who says Jesus is cursed is *not* speaking through the Holy Spirit.
 2. Only someone speaking through the Holy Spirit can say Jesus is Lord.
@@ -58,14 +58,14 @@ If a spiritual event has happened, it can be validated with [scientific](science
 Preaching
 
 - Be careful of their preaching in proportion to their [artfulness in public speaking](language-speaking.md)
-  - Paul himself was intentionally plain, without a heavy focus on [influential](power-influence.md) language ([1 Corinthians 2:4](https://biblehub.com/1_corinthians/2-4.htm)).
+  - Paul himself was intentionally plain, without a heavy focus on [influential](power-influence.md) language (1 Corinthians 2:4).
 - Typically, exegetical [Bible study](bible-study.md) is safer.
   - If it is topical, the speaker has more room for theological vagueness or falsehood.
 - Pay attention to the connected Bible verses.
   - Watch for patterned connections between unrelated verses.
   - Pay attention to verses that don't apply:
-    - "Let not man separate what God has joined together" in [Mark 10:9](https://biblehub.com/mark/10-9.htm) is about marriage, *not* parenting or personal property.
-    - "Stand strong in the faith" in [1 Corinthians 16:13](https://biblehub.com/1_corinthians/16-13.htm) is about trusting God, *not* about career or personal satisfaction.
+    - "Let not man separate what God has joined together" in Mark 10:9 is about marriage, *not* parenting or personal property.
+    - "Stand strong in the faith" in 1 Corinthians 16:13 is about trusting God, *not* about career or personal satisfaction.
 - Most false teachers speak *very* fast, so analyzing their statements can be tedious.
 
 Speaking in tongues

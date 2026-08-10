@@ -31,6 +31,8 @@ The system uses the [radial degrees](math-algebra-cs.md) relative along the circ
 - The numbers cleanly divide into a degree's minutes and seconds (60 minutes, 60 seconds), with decimal points for the rest.
 - While Lat/Lon is the definitive answer before computers, [there is no clear standard in software for representing it](https://macwright.com/lonlat/).
 
+Unfortunately, getting a globe to represent on a flat surface is difficult, so every mapping approach comes with drawbacks. We've ended up settling on the Mercator projection most of the time because it maintains the general visual proportion of everything. However, it comes at the cost of everyone severely underestimating Africa's true size.
+
 [Our time zones](logistics-navigation.jpg) use this system based in Null Island, with the *approximate* time being offset from that prime meridian.
 
 The system requires at least *some* specificity beyond the raw degrees:

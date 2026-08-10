@@ -6,6 +6,16 @@ For the most part, network hardening revolves around removing features and addin
 - The removed features generally remove attack vectors.
 - The obfuscation is to enhance privacy through anonymity.
 
+## Signed certificates
+
+There are some "certificate authorities", which are organizations that issue signed certificates to known-good websites.
+
+- These websites will have a "lock" symbol in the top left next to the URL.
+
+Be careful navigating anything unsigned (which will be [HTTP instead of HTTPS](standards-computers.md)).
+
+- While *consuming* information is fine from those websites, your best assumption is that everything *entered* on that website is effectively public knowledge.
+
 ## Blocking transfer
 
 Most computer security policies manage specific portions of what the computer interacts with:

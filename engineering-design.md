@@ -103,7 +103,10 @@ The easiest way to figure out what the design communicates is to squint your eye
 
 - The most obvious things will stick out more than the rest, often through color or size.
 
-One of the most important components of design is to give reliable, rapid feedback. The user *must* know their action mattered, or what they should have done instead. The best way to give feedback is with constraints, such as graying out or concealing a button, locking off something mechanically, or limiting permissible [text input](computers-keyboard.md) into a textbox.
+One of the most important components of design is to give reliable, rapid feedback.
+
+- The user *must* know their action mattered, or what they should have done instead.
+- The best way to give feedback is with constraints, such as graying out or concealing a button, locking off something mechanically, or limiting permissible [text input](computers-keyboard.md) into a textbox.
 
 UX doesn't only apply to visual elements:
 
@@ -180,6 +183,22 @@ There are a few important ways to handle more features:
 5. Pay close attention to obsolete or unnecessary features as they arise. Those features need removing.
 
 Frequently, focus groups can add features that destroy the core [functionality](purpose.md) of the product.
+
+## Logos
+
+Logo design closely dovetails with [marketing](marketing.md), since it often conveys value from a distance.
+
+It is also deeply part of the trademark portion of [intellectual property](legal-ip.md)
+
+Effective logos have several things in common:
+
+- Memorable
+- Emotionally accurate to the desired feeling
+- Easy to see at a distance (which means very few features)
+
+Some of them are pure genius.
+
+- The Nintendo Gamecube logo is a cube inside another cube, with the body creating a "G" and the negative space creating a "C". It also had a fun animation of a traveling cube to create it.
 
 ## Design at scale
 

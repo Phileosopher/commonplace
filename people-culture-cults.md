@@ -23,7 +23,7 @@ APPLICATION: While cults are sometimes obvious, there's a *spectrum* of cult-lik
 
 ## Undue influence
 
-Undue influence is a [legal term](glossary-legal-sz.md) where an entity takes advantage of their [position of power](power-types.md) over another entity:
+Undue influence is a legal term where an entity takes advantage of their [position of power](power-types.md) over another entity:
 
 - [Deception](people-image-distortion.md)
 - [Flattery](influence.md)
@@ -274,7 +274,15 @@ Often, cult membership creates very severe effects upon a participant:
 - Severe [trauma](hardship-ptsd.md) from the events performed *to* them.
 - Bad [decisions](mind-decisions.md) and [their effects](results.md) they [chose](mind-decisions.md) to make *on behalf of* the group they trusted.
 
-Generally, they'll veer *hard* into the polar opposite extreme value system:
+Once someone has been initiated, their future will only become a few possible ends:
+
+1. They stay in the group, solely devoted to that group, and are eventually exploited.
+2. If the group member finds a community *outside* the organization, they'll try to hybridize that group with their other group, but will ultimately be forced to choose between the controlling group and everyone else.
+3. They try to become a force for good inside the organization, and often become a cautionary tale or martyr if they imply the group needs to [change](mgmt-7_changes.md).
+4. they quietly leave the organization and [never integrate their shadow](people-personality.md) due to the [trauma](hardship-ptsd.md), and fade from any public attention.
+5. they become a force for good, *outside* the organization, with an agenda to destroy that group's power.
+
+They'll often veer *hard* into the polar opposite extreme value system:
 
 - The "opposite" is defined by the mode of thought the follower takes:
   - A hyper-[religious](religion.md) cult follower will leave and become an atheist or pantheist.

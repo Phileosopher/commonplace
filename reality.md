@@ -11,7 +11,7 @@ Finding precise facts within reality is difficult. This is because the [purpose]
 
 APPLICATION: We shouldn't be hasty in judging something as reality, since we could be wrong. We also *should* be quick to downplay our opinions of what we perceive.
 
-The mechanism of cause-and-effect exists in various forms beyond human perception (though [even *that* is hotly debated](glossary-philosophy.md)):
+The mechanism of cause-and-effect exists in various forms beyond human perception (though [even *that* is hotly debated](philosophy-glossary.md)):
 
 1. Physical cause and effect (e.g., a ball rolling across the ground).
 2. An abstraction of the event (e.g., whatever is the same with all balls rolling across the ground).

@@ -55,7 +55,7 @@ Computable or Computational - applies to [computer-based math](math-cs.md)
 
 Connected sum - in topology, the sum of two manifolds
 
-Constructive - based on [the philosophy of constructivism](glossary-philosophy.md), where a thing has to be assembled from logic instead of being proven simply by observation
+Constructive - based on [the philosophy of constructivism](philosophy-glossary.md), where a thing has to be assembled from logic instead of being proven simply by observation
 
 Convergent series - a sum of an infinite series of numbers
 

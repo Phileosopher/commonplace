@@ -48,8 +48,8 @@ Since mechanics are the experts on knowing autos' dependability and cost of repa
   2. Honda/Acura
   3. Chevrolet trucks
   4. Subaru
-  5. Hyundai/Kia
-  6. Ford Trucks, depending on the engine type.
+  5. Hyundai/Kia, though they do break down frequently because their factory quality control is bad
+  6. Ford Trucks, depending on the engine type
 - Less common (worth skepticism):
   7. Mitsubishi
   8. Nissan/Infiniti
@@ -66,6 +66,15 @@ Since mechanics are the experts on knowing autos' dependability and cost of repa
   - Hybrid vehicles
   - Tesla
   - Everything else that isn't proven to be popular
+- To avoid at all costs:
+  - All 2004-2010 Ford trucks/SUVs with 5.4 Triton V8 (3 valve), with cam phaser and timing chain issues where the engines keep blocking up with fluids.
+  - All models of GMC Acadia, Enclave, Traverse, Outlook, Equinox, Terrain, among others, which have a 3.6 liter V6 and tends to ruin the timing chain system.
+  - All European cars with over 150,000 miles, since they become very expensive to maintain ($1K-3K repairs every 6 months).
+    - They're very affordable because nobody wants them, even though they were often very expensive vehicles when new.
+  - Any GM vehicle with a 3.1 or 3.4 liter V6, which often have head gasket issues and are fine *only if they are maintained very well*.
+  - Any truck/SUV with AFM (active fuel management) or MDS (multi-displacement system) (e.g., 5.3 or 60 MAX Vortec for AFM or 5.7 or 6.4 Hemis for MDS)
+    - These systems have lifters that can turn cylinders on and off with oil pressure, and have a history of breaking easily and destroying engine blocks.
+  - Any 2000-2005 Subarus, which have very expensive head gasket issues.
 
 Irrespective of brand, *every* used car is different.
 
@@ -84,6 +93,59 @@ Write down *any* questions or thoughts you have while examining the vehicle, sin
 ### Inspect it *before* buying
 
 *Always* perform a thorough inspection before you pay for a used car.
+
+- Even if it has been "fully serviced" by their mechanic, take it to *your* mechanic to have it looked at.
+
+Broadly, look for various issues that arise in used cars:
+
+- Improper fluid levels or leakage beyond normal seepage
+- Visibly cracked or damaged parts under the hood
+- Abnormal noise or vibration from faulty parts
+- Frame
+  - Frame cracks, corrective welds, or rust-through
+  - A bent or twisted frame (dog tracks)
+- Engine
+  - Cracked block or head
+  - Missing or inoperable belts
+  - Camshaft is knocking or missing
+  - Bad lifters or push rods
+  - Abnormal exhaust discharge
+- Transmission and drive shaft
+  - Any gear is improperly shifting or functioning
+  - Manual clutch is slipping or chattering
+- Cooling system
+  - Improperly functioning water pump
+- Electrical system
+  - Battery leakage
+  - Improperly functioning alternator, generator, battery, or starter
+- Accessories
+  - Faulty air conditioning, heater/defroster, gauges, or warning devices
+- Brake system
+  - Broken failure warning light
+  - Pedal not firm under pressure
+  - Not enough pedal reserve
+  - Doesn't stop vehicle in a straight line
+  - Drum or rotor too thin
+  - Lining or pad thickness <1/32"
+  - Power unit not operating or leaking
+- Steering system
+  - Too much free play in the steering wheel
+  - Linkage free play more than 1/4"
+  - Steering gear binds or jams
+  - Front wheel aligned improperly
+  - Power unit belts cracked or slipping
+- Suspension system
+  - Ball joint seals or structural parts damaged
+  - Stabilizer bar disconnected
+  - Spring broken
+  - Shock absorber mounting loose
+  - Rubber bushings or radius rod damaged or missing
+  - Shock absorber leaking or faulty
+- Tires
+  - Tread depth <2/32"
+  - Mismatched sizes
+- Exhaust system
+  - Faulty catalytic converter
 
 A. Ask for the VIN before arriving there and get a vehicle inspection report.
 
@@ -129,9 +191,15 @@ E. Test drive it.
    - Test the power steering by turning the wheels while stopped.
    - Drive it through an alleyway or near a flat wall to hear its running sounds.
    - Swerve back and forth in a parking lot to test the suspension.
+   - Turn the heater on after it's warm and check for heat (no heat is a good sign the head gaskets are blown).
 4. Accelerate at 1/2 to 3/4 throttle onto the highway, then stay on it for at least 5 miles at 55-60 mph.
    - Check to see if the steering wheel shakes or the whole car seems to lean one direction.
-5. Drive through the city back to the location, continuing to test the different systems.
+5. Open the hood after a few minutes and and inspect for anything out-of-place.
+   - If the seller is even remotely savvy, they'll have tried to clean it up, but a test drive will usually show issues.
+   - Look for any fluids present outside the engine (e.g., oil drips).
+   - Check that the oil and water didn't mix (there's no oil in the coolant reservoir or white foam from the oil dipstick).
+   - Check for lots of stop-leak in the coolant reservoir (smells bad, wtih lots of brown or gray chunks in the reservoir).
+6. Drive through the city back to the location, continuing to test the different systems.
    - If it overheats during the drive, don't buy it.
 
 F. Assuming you're allowed to, reread the codes with the OBD-II reader.
@@ -148,6 +216,22 @@ H. [Negotiate](people-conflicts-negotiation.md) the price down if you can.
 - Do *not* let the seller exploit you.
 - If you can, have cash available to pay the full amount for the car.
 - Never look desperate, and always be prepared to walk away.
+
+## Be careful with upselling
+
+Many auto dealerships give alternatives that are *terrible* for you.
+
+- Never, ever lease a car, which is absurdly expensive.
+- Car warranties don't usually make sense for the price (and they usually don't give them on used vehicles).
+
+Don't get the "premium car care" package, since it's a list of *very* basic things you can do yourself.
+
+- The "premium car wash" is often simply hosing down the car (and not a proper car wash).
+- The "interior detailing and rejuvenation" is often blowing out the interior with compressed air (which you can do at home) and sometimes wiping surfaces with a wet paper towel.
+- "Functionality check" is checking if all the lights, heater, and A/C work.
+- "Clock synchronization" is setting the clock if it's wrong.
+- "Summer/winter inspections" are checking tire tread, tire pressure, lookikng at the temperature gauge and adding water in the summer, having less wiper fluid in the winter, and visually inspecting the brake discs.
+- "Roadside assistance" is usually at *your* expense, and only during business hours.
 
 ## Buying a second car
 

@@ -16,6 +16,12 @@ As the organization scales and everyone [specializes](jobs-specialization.md), t
 
 APPLICATION: People slowly permit [tyranny](power-types.md) into their lives when they accept what the leadership does. Since [power-hungry](power-types.md) people don't tend to demarcate a stopping point, that slow [consent](people-contracts.md) will eventually go too far, but often at the cost of many lives and many destroyed aspects of [civilization](jobs-specialization.md).
 
+The only difference between a beneficial group and a bad system has a lot to do with what that group *actually* does:
+
+- if it provides a good service, irrespective of its illegality, it's good
+- if it's sending something that is BOTH [illegal](legal-crimes.md) and [immoral](morality.md), it's bad
+- if it's doing something that [claims](people-image.md) to be good but isn't helping anyone, it's bad
+
 Once people know they're not [delusional](reality.md), they're more willing to break the group's [rules](people-rules.md). Eventually, the entire organization suffers collective decay as [motivations](purpose.md) toward self-interest override the motivation for any [collective good](morality.md).
 
 APPLICATION: Bad leaders are concerned about money, mostly because they're not thinking about members' [purposes](purpose.md) or [considering](mind-understanding.md) the well-being of the organization.
@@ -111,6 +117,8 @@ If the organization persists to a [successor](legacy.md), the new leadership wil
 These leaders will likely have *no* aptitude or [ethics](morality.md) in comparison to their predecessors. Unlike the group's founders, the people who take over will only have one [social class](people-classes.md) to draw experience from, so they'll be outmatched by most of the competition inside their organization, as well as *any* outside competitor.
 
 APPLICATION: The most conspicuous sign of a bad system first forming comes through a leader with a [moral](morality.md) conviction that may not be as moral as they think, but the not-so-moral [partners and friends](people-friends-why.md) they [trust](mind-trust.md) advance that [idea](values.md) forward.
+
+Even without defective leadership, public choice theory indicates that people who are individually motivated will follow the reward that benefits them, and acting in the interest of the organization is far too great a cost, so the group becomes inert when it needs to act.
 
 ## The members' adaptations
 

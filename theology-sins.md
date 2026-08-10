@@ -19,7 +19,7 @@ Small sins [habitually](habits.md) prepare us for larger sins on the same spectr
 - People usually see good and evil as a dualistic battle, but evil is more of a void (like darkness or cold).
 - Apathy and hate are the absence of love, and selfishness is the absence of consideration for others.
 
-Our first sin was to not trust God at His word ([Genesis 3:2-6](https://biblehub.com/genesis/3.htm)).
+Our first sin was to not trust God at His word (Genesis 3:2-6).
 
 1. He told us to not eat of the Tree of Knowing Morality.
 2. If we had trusted God's nature, we would have waited, and He would have given it to us when we were ready for it.
@@ -29,7 +29,7 @@ Our first sin was to not trust God at His word ([Genesis 3:2-6](https://biblehub
 6. The only pathway out for us now, irrespective of our eternal state, is through replacing our wisdom with God's.
 7. To gain God's wisdom, we must trust Him like we were supposed to in the first place, though the situation has gotten far worse for us.
 
-From the beginning ([Genesis 3-4](https://biblehub.com/genesis/3.htm)), the first seven sins show how complex we can make things, and how bad things can become:
+From the beginning (Genesis 3-4), the first seven sins show how complex we can make things, and how bad things can become:
 
 1. Eve permitted the temptation to eat the fruit, and Adam didn't stand up to oppose it.
 2. Eve, and then Adam, violated the boundary God placed by eating the fruit.
@@ -56,10 +56,10 @@ All followers of Christ are responsible for removing sin from their lives by sub
 
 God designed the Law within a historical context to separate the [culture](people-culture.md) of His people for the purpose of holiness.
 
-- [1 Corinthians 6:11](https://biblehub.com/1_corinthians/6-11.htm)
+- 1 Corinthians 6:11
 - For example, God forbade getting tattoos and shaving the head because they were ancient Egyptian death cult practices.
-  - [Deuteronomy 14:1](https://biblehub.com/deuteronomy/14-1.htm)
-  - [1 Kings 18:28](https://biblehub.com/1_kings/18-28.htm)
+  - Deuteronomy 14:1
+  - 1 Kings 18:28
 - However, the *spirit* of the Hebrew law is still applicable toward living a life filled with [justice](morality-justice.md), grace, peace, and [love](people-love.md).
 - Further, most of the laws themselves can still apply in one way or another:
   - Almost half of the commandments apply to everyone, and still work.
@@ -77,8 +77,7 @@ God designed the Law within a historical context to separate the [culture](peopl
 
 God didn't create the laws to needlessly oppress.
 
-- Each of the laws, when examined for their intent, teaches either how to [live well](people-goodlife.md), [love](people-love.md), or have a relationship with Christ.
-  - [Galatians 3:23-24](https://biblehub.com/galatians/3.htm)
+- Each of the laws, when examined for their intent, teaches either how to [live well](people-goodlife.md), [love](people-love.md), or have a relationship with Christ (Galatians 3:23-24).
 - Some odder laws (like forbidding shellfish) often have [health implications](body-health.md) that existed before [modern technology](engineering-conveniences.md) like [refrigeration](engineering.md).
 
 ## Only God's grace will save us
@@ -173,10 +172,8 @@ Humility, the opposite of pride, is simply ignoring our status compared to other
 
 The secret to humility isn't about not comparing ourselves (which is [humanly impossible](values.md)), but instead about not giving [self-value or meaning](meaning.md) to that comparison.
 
-- We may *be* stronger, humbler, more spiritual, etc., but those qualities don't make us any better than anyone else.
-  - [1 Corinthians 12:12-26](https://biblehub.com/1_corinthians/12.htm)
-- Instead, we must concern ourselves with how much more that superiority makes us responsible to take action above and beyond others.
-  - [Philippians 2:3-4](https://biblehub.com/philippians/2.htm)
+- We may *be* stronger, humbler, more spiritual, etc., but those qualities don't make us any better than anyone else (1 Corinthians 12:12-26).
+- Instead, we must concern ourselves with how much more that superiority makes us responsible to take action above and beyond others (Philippians 2:3-4).
 
 To have *any* [relationship with an infinite God](theology-godandman.md), we must have humility.
 
@@ -184,14 +181,14 @@ To have *any* [relationship with an infinite God](theology-godandman.md), we mus
 
 Every sin will equally separate us from God, but that does *not* mean God sees all sins equally.
 
-- Not all sin carries the same consequences ([1 John 5:17](https://biblehub.com/1_john/5-17.htm))
-- There will certainly be an accounting that considers *all* our moral actions ([2 Corinthians 5:10](https://biblehub.com/2_corinthians/5-10.htm)).
-- Teachers will be judged more harshly ([James 3:1](https://biblehub.com/james/3-1.htm), [John 19:11](https://biblehub.com/john/19-11.htm), [Matthew 23:13-36](https://biblehub.com/matthew/23.htm)).
+- Not all sin carries the same consequences (1 John 5:17)
+- There will certainly be an accounting that considers *all* our moral actions (2 Corinthians 5:10).
+- Teachers will be judged more harshly (James 3:1, John 19:11, Matthew 23:13-36).
 
 By their nature, some sins have a different status.
 
-- Some sins will only affect someone's rank in God's kingdom ([Matthew 5:19](https://biblehub.com/matthew/5-19.htm)).
-- Sexual sin is uniquely destructive and is against our bodies ([Matthew 5:19](https://biblehub.com/1_corinthians/6-18.htm))
+- Some sins will only affect someone's rank in God's kingdom (Matthew 5:19).
+- Sexual sin is uniquely destructive and is against our bodies (Matthew 5:19)
 
 Very often, religious people in the Christian church will use the "all sins are equal" assertion to avoid accountability (often because they're [narcissists](mind-neurodivergence-clusterb-narcissist.md)).
 
@@ -259,8 +256,7 @@ Jesus commanded us to carry our cross daily (Matthew 16:24-25).
 - The cross was a death penalty, and you must put your flesh to death on a daily, hourly, and per-minute basis.
 - You will face opposition from [the Satan](spiritual-warfare.md), the [world](hardship-persecution-church.md), and your [desires](theology-godandman-humanity.md).
 - Most risks to our souls are completely irrelevant when we follow God's commands.
-- You're not alone, and the Holy Spirit is with you if you desire Him.
-  - [Romans 8:2-6](https://biblehub.com/romans/8.htm)
+- You're not alone, and the Holy Spirit is with you if you desire Him (Romans 8:2-6).
 
 Avoiding temptation *requires* associating closely with other believers:
 

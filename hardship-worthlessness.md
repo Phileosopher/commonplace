@@ -205,7 +205,7 @@ Next, identify all the self-deceptions:
     - It keeps the conversation topic in an area that feels safe and doesn't provoke [change](people-changes.md).
     - They can maintain emotional distance while also keeping a good reputation with others.
   - You can usually detect the facade by pressing on an important, serious [conflict](people-conflicts.md).
-  - There are other variations to "life of the party" like incessantly talking, using many large words, or speaking with lots of [trade-based jargon](glossary-legal-ac.md).
+  - There are other variations to "life of the party" like incessantly talking, using many large words, or speaking with lots of [trade-based jargon](language.md).
 
 Third, identify the self-lies that created those layers:
 

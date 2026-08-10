@@ -15,7 +15,7 @@ Legitimate Christians don't exhibit these behaviors for very long, probably 1-4 
 
 ## Old idols
 
-Preoccupation with at least one of the four major idols ([1 John 2:15-16](https://biblehub.com/1_john/2.htm)):
+Preoccupation with at least one of the four major idols (1 John 2:15-16):
 
 1. [honor/reputation](people-image-why.md)
 2. [money](money-1_why.md)
@@ -49,7 +49,7 @@ This will show itself through how they prioritize their life, some examples:
 Belief in extraterrestrials, potentially interpreting or referring to God Himself as an alien entity.
 
 - Technically, God is an extraterrestrial, but also our Creator, so there's a much greater [power discrepancy](power-types.md) than simply a difference in [technology](technology.md) or [understanding](mind-understanding.md).
-- We are also created in His image, so He's not *that* foreign to our existence ([Genesis 1:26](https://biblehub.com/genesis/1-26.htm)).
+- We are also created in His image, so He's not *that* foreign to our existence (Genesis 1:26).
 - If other sentient life existed in this universe, those people would look stunningly close to us (i.e., be in God's image as well), and they'd have a similar story to our Garden of Eden.
 
 Pantheistic leanings, which imply that all (or several) faiths point to the same God.
@@ -68,7 +68,7 @@ Odd non-Christian beliefs that closely identify with Christian values (e.g., [Ra
 
 ## Extremism
 
-Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](theology-sins.md), typically including "blasphemy of the Holy Spirit" referenced in [Mark 3:28-29](https://biblehub.com/mark/3.htm).
+Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](theology-sins.md), typically including "blasphemy of the Holy Spirit" referenced in Mark 3:28-29.
 
 - They typically haven't internalized God's [undying love](https://theologos.site/devotion-chaos/) and have contextualized one Bible verse against the context of many other *far* more articulated parts of Scripture (e.g., a Christian's [new identity](theology-godandman.md)).
 - Every sin can be forgiven, and has been in Christ, but that doesn't mean it always [feels](mind-feelings.md) that way.
@@ -80,27 +80,21 @@ Absolute [terror](mind-feelings-fear.md) about committing an unpardonable [sin](
 
 Treating their body as a despicable, awful thing they must perpetually damage or thwart.
 
-- While our flesh has certainly died in Christ ([Romans 6:6](https://biblehub.com/romans/6-6.htm)), it's a *past-tense* reality.
-- God's long-term goal is that we may be resurrected, free of sin, with a *new* body.
-  - [Romans 6:8](https://biblehub.com/romans/6-8.htm)
-  - [2 Corinthians 5:1-10](https://biblehub.com/2_corinthians/5.htm)
-  - [Revelation 21:1-4](https://biblehub.com/revelation/21.htm)
+- While our flesh has certainly died in Christ (Romans 6:6), it's a *past-tense* reality.
+- God's long-term goal is that we may be resurrected, free of sin, with a *new* body (Romans 6:8, 2 Corinthians 5:1-10, Revelation 21:1-4).
 - The true way to live in Christ is through self-discipline, *not* self-effacement.
 
 Condemning specific genres of media (e.g., music, movies, video games).
 
-- Everything of [quality](values-quality.md) is good, in its right place
-  - [1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)
+- Everything of [quality](values-quality.md) is good, in its right place (1 Corinthians 8).
 
 Complete individualism or antisocial behavior (e.g., claiming they only need Jesus and nobody else).
 
-- God designed the Body of Christ as a vast collection of various people, each with unique [personalities](people-personality.md) and [gifts](spiritual-gifts.md)
-  - [1 Corinthians 12:12-26](https://biblehub.com/1_corinthians/12.htm)
+- God designed the Body of Christ as a vast collection of various people, each with unique [personalities](people-personality.md) and [gifts](spiritual-gifts.md) (1 Corinthians 12:12-26).
 
 Extreme insistence on creating large-scale [political changes](politics-conservativeliberal.md) for a Christian cause (e.g., "end all poverty").
 
-- Our [time with Jesus](spiritual-exercises-prayer.md) is more important than good political actions.
-  - [Matthew 26:11](https://biblehub.com/matthew/26-11.htm)
+- Our [time with Jesus](spiritual-exercises-prayer.md) is more important than good political actions (Matthew 26:11).
 - Most people who wrestle with political concepts often forget God's [long-term result](https://theologos.site/millennium/).
 
 ## Dismissive attitude
@@ -136,7 +130,7 @@ Believing "Christian" media to be a vastly superior classification of media, eve
 Allegiance to a [denomination](people-conflicts-christian-why.md) or its [culture](people-culture.md) more than the collective body of [believers in Christ](https://theologos.site/gospel/).
 
 - They don't see God's [ever-present efforts](https://theologos.site/god-sight/) to draw people from *every* nation, tribe, people group, and language.
-  - [Revelation 7:9](https://biblehub.com/revelation/7-9.htm)
+  - Revelation 7:9
 - They can often engage in trying to [convert others](power-influence.md) to their perspective more than converting others to the way of Christ.
 - Frequently, they'll spend more effort arguing about how wrong other people are (and enhancing their [understanding](mind-understanding.md) to that end) than [loving](people-love.md) other people enough to respect (and politely disagree with) their beliefs.
 - At their most extreme, they'll believe all other denominations will go to hell, or that all [heresies](people-conflicts-christian-why.md) have equal spiritual significance.
@@ -144,27 +138,27 @@ Allegiance to a [denomination](people-conflicts-christian-why.md) or its [cultur
 Believing [prayer](spiritual-exercises-prayer.md) to answer every single problem.
 
 - At its core, prayer is our release of control to God.
-  - [Matthew 6:5-14](https://biblehub.com/matthew/6.htm)
-  - [Luke 11:1-4](https://biblehub.com/luke/11.htm)
+  - Matthew 6:5-14
+  - Luke 11:1-4
 - We can only request something to Him humbly, and He can't be [bargained with](people-contracts.md).
 
 ## Ambitious
 
 Trying to achieve righteousness through their strength and willpower alone.
 
-- They haven't realized that only the Holy Spirit can grant our [spirits](theology-godandman-humanity.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it ([1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)).
+- They haven't realized that only the Holy Spirit can grant our [spirits](theology-godandman-humanity.md) the awareness, [willpower](purpose.md), and means to [succeed](results.md) at [virtue](morality.md) and that He deserves all the credit for it (1 Corinthians 10:31).
 
 Complete belief that they can accomplish *anything whatsoever* as long as they trust God intensely enough to provide.
 
-- They understand that God gives us [power](power.md) ([Philippians 4:13](https://biblehub.com/philippians/4-13.htm)) but fail to see that He delivers it abundantly according to [His desires](god-will.md) ([Matthew 6:10](https://biblehub.com/matthew/6-10.htm)).
-- Most of the time, they'll have a worthy goal that God wants as well, but they don't want Him to lead the experience ([Proverbs 16:9](https://biblehub.com/proverbs/16-9.htm)).
-- They typically need to wait on Him more ([Romans 8:25](https://biblehub.com/romans/8-25.htm)).
+- They understand that God gives us [power](power.md) (Philippians 4:13) but fail to see that He delivers it abundantly according to [His desires](god-will.md) (Matthew 6:10).
+- Most of the time, they'll have a worthy goal that God wants as well, but they don't want Him to lead the experience (Proverbs 16:9).
+- They typically need to wait on Him more (Romans 8:25).
 
 Seeking spiritual experiences over [self-management](habits.md).
 
 - Frequently, denominations that draw in people like this can create a dramatic spectacle of unregulated [emotional](mind-feelings.md) expression.
 - They still haven't learned the scope of God's power, so they interpret unusual things but overlook [God's amazing feats of engineering](science.md) that He designed into our day-to-day existence.
-- They also haven't realized yet that a spectacular redemption story doesn't show growth in Christ *nearly* as much as enduring trials ([1 Peter 1:6-7](https://biblehub.com/1_peter/1.htm)).
+- They also haven't realized yet that a spectacular redemption story doesn't show growth in Christ *nearly* as much as enduring trials (1 Peter 1:6-7).
 
 ## Chronic Symptoms
 
@@ -173,8 +167,7 @@ Much later, after a few months or years, if a person hasn't grown through integr
 Asceticism, or some other deep belief that the body is a bad thing.
 
 - Frequently, they'll make tremendous sacrifices that self-abase and deprive their bodies in the name of spirituality, often associating the pain of self-deprivation as a form of spirituality itself.
-- They haven't realized that their very *essence* is partly a body and that it's essentially an advanced animal they're supposed to restrain every day for *other* [moral](morality.md) purposes.
-  - [Matthew 6:16](https://biblehub.com/matthew/6-16.htm)
+- They haven't realized that their very *essence* is partly a body and that it's essentially an advanced animal they're supposed to restrain every day for *other* [moral](morality.md) purposes (Matthew 6:16)
 
 Rigidity and denial to even *think* about [speculative](mind-imagination.md) elements that expand on what the Bible alludes to.
 
@@ -183,8 +176,8 @@ Rigidity and denial to even *think* about [speculative](mind-imagination.md) ele
 
 Complete openness to discussing [speculative](mind-imagination.md) elements that have absolutely *no* grounding in the Bible.
 
-- We must *constantly* renew our minds by conforming to the truths we discover ([Romans 12:2](https://biblehub.com/romans/12-2.htm)), so we must curb our imaginations to the [constraints](mind-creativity.md) of what we know to be [reality](reality.md).
-- The ideas we entertain are often *heavily* influenced by those around us, which is why we must be careful who we associate with and for how long ([1 Corinthians 15:33](https://biblehub.com/1_corinthians/15-33.htm)).
+- We must *constantly* renew our minds by conforming to the truths we discover (Romans 12:2), so we must curb our imaginations to the [constraints](mind-creativity.md) of what we know to be [reality](reality.md).
+- The ideas we entertain are often *heavily* influenced by those around us, which is why we must be careful who we associate with and for how long (1 Corinthians 15:33).
 
 Confronting others over broader-reaching spiritual matters that have zero day-to-day significance.
 
@@ -194,7 +187,7 @@ Confronting others over broader-reaching spiritual matters that have zero day-to
 Jealousy over another person's spiritual status.
 
 - We all must maintain a [quiet humility](https://theologos.site/devotion-chaos/) about the station in life God has placed us in.
-- Each person has their walk, and God holds them individually responsible ([Romans 14:4](https://biblehub.com/romans/14-4.htm)).
+- Each person has their walk, and God holds them individually responsible (Romans 14:4).
 
 Harsh or inconsiderate [decision-making](mind-decisions.md) about others' lives.
 
@@ -203,7 +196,7 @@ Harsh or inconsiderate [decision-making](mind-decisions.md) about others' lives.
 
 Once in a while, they'll become the [leaders](mgmt-church.md) of an organization that, in some way, advances many of the above.
 
-- They have a worse fate waiting for them [if they don't repent](https://theologos.site/false/) ([Luke 17:1-2](https://biblehub.com/luke/17.htm)).
+- They have a worse fate waiting for them [if they don't repent](https://theologos.site/false/) (Luke 17:1-2).
 
 ## Signs of Growth
 
@@ -227,9 +220,6 @@ They'll find something lacking in mainstream Christian church services.
 
 They may even accept a particular [cultural value](people-culture.md) they completely eschewed.
 
-- They'll typically see how it may be a sin for *them* to engage in it, but that it may be fine for others.
-  - [1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)
+- They'll typically see how it may be a sin for *them* to engage in it, but that it may be fine for others (1 Corinthians 8).
 
-The long-term goals they aspire toward start incorporating the constant question over whether their actions are loving.
-
-- [1 Corinthians 13](https://biblehub.com/1_corinthians/13.htm)
+The long-term goals they aspire toward start incorporating the constant question over whether their actions are loving (1 Corinthians 13).

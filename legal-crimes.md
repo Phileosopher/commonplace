@@ -26,6 +26,7 @@ Further, there are several types of categories connected to the severity of the 
 Aiding and abetting/accessory: Assisting someone else in a criminal activity (subversive)
 
 - Conspiracy: working with someone else to commit a crime
+  - Conspiracy Against Rights: working with someone else to injure, threaten, or intimidate the exercise of their rights.
 - Solicitation: provoking or influencing someone to commit a criminal activity
 
 Attempt: trying to do something, irrespective of its [consequences](results.md)
@@ -151,6 +152,10 @@ Fraud: lying or unethical behavior to gain something (subversive)
 Identity theft: pretending to be someone else's [legal fiction](people-image-modern.md) to their detriment
 
 - Telemarketing fraud: pretending to sell a product to gain financial information
+
+The dominant difference between a scam and fraud has to do with whether the victim [consented](people-contracts.md).
+
+- In that sense, many scams are entirely legal, since people are often permitted in free societies to agree to [evil](morality-evil.md) and one-sided agreements.
 
 ### Deception against officials
 

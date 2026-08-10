@@ -16,7 +16,7 @@ In light of that, this is a list of agreed-upon [contracts](people-contracts.md)
 
 ## 1. Adamic Covenant
 
-Made between God and the first man, who was later named "Adam" ([Genesis 1:26-30](https://biblehub.com/genesis/1.htm)).
+Made between God and the first man, who was later named "Adam" (Genesis 1:26-30).
 
 - Mediator: Adam
 - Role: Husband
@@ -36,7 +36,7 @@ Mankind's consideration:
 
 ## 2. Edenic Covenant (aka "Covenant of Works")
 
-Made between God and the first man in the Garden of Eden ([Genesis 2:16-17](https://biblehub.com/genesis/2.htm)).
+Made between God and the first man in the Garden of Eden (Genesis 2:16-17).
 
 God's consideration:
 
@@ -46,7 +46,7 @@ Mankind's consideration:
 
 - Don't consume the tree that brings [knowledge](mind-understanding.md) of [morality](morality.md)
 
-The contract was breached through man's [decision](mind-decisions.md), and certain conditions were added ([Genesis 3:16-19](https://biblehub.com/genesis/3.htm)).
+The contract was breached through man's [decision](mind-decisions.md), and certain conditions were added (Genesis 3:16-19).
 
 Breach conditions for mankind in general:
 
@@ -65,7 +65,7 @@ Breach conditions for men:
 
 ## 3. Noahic Covenant
 
-Made between God and Noah after a worldwide flood ([Genesis 9:8-17](https://biblehub.com/genesis/9.htm)).
+Made between God and Noah after a worldwide flood (Genesis 9:8-17).
 
 - Mediator: Noah
 - Role: Father
@@ -79,7 +79,7 @@ God's consideration:
 
 Mankind's consideration:
 
-- Nothing, though it was a response to Noah's obedience ([Genesis 6:13-22](https://biblehub.com/genesis/6.htm))
+- Nothing, though it was a response to Noah's obedience (Genesis 6:13-22)
 
 Signature:
 
@@ -87,7 +87,7 @@ Signature:
 
 ## 4. Abrahamic Covenant
 
-Made between God and Abraham ([Genesis 12:1-3](https://biblehub.com/genesis/12.htm)).
+Made between God and Abraham (Genesis 12:1-3).
 
 - Mediator: Abram (later renamed)
 - Role: Chieftain
@@ -104,19 +104,19 @@ God's consideration:
 Abram's consideration:
 
 - Leave your nation and family to go to a land God will show later
-- Believe God, which counted as righteousness ([Genesis 15:6](https://biblehub.com/genesis/15-6.htm), [Galatians 3:6](https://biblehub.com/galatians/3-6.htm))
+- Believe God, which counted as righteousness (Genesis 15:6, Galatians 3:6)
 - Consent was when Abraham entered Canaan
 
 God's later consideration:
 
-- God later showed [the promised land](history-israel.md) in [Genesis 15:18-21](https://biblehub.com/genesis/15.htm) and [Genesis 13:14-17](https://biblehub.com/genesis/13.htm)
+- God later showed [the promised land](history-israel.md) in Genesis 15:18-21 and Genesis 13:14-17
   - Went from the Nile River to the Euphrates
 
 Signature:
 
-- Abram's name changed to Abraham ([Genesis 17:5](https://biblehub.com/genesis/17-5.htm))
-- Abram's wife Sarai's name changed to Sarah ([Genesis 17:15-16](https://biblehub.com/genesis/17.htm))
-- Every male, as of 8 days old, will be circumcised ([Genesis 17:9-14](https://biblehub.com/genesis/17.htm))
+- Abram's name changed to Abraham (Genesis 17:5)
+- Abram's wife Sarai's name changed to Sarah (Genesis 17:15-16)
+- Every male, as of 8 days old, will be circumcised (Genesis 17:9-14)
 
 Many, *many* [conflicts](people-conflicts-christian-why.md) have arisen about the scope of this contract and its current applicability.
 
@@ -126,7 +126,7 @@ Many, *many* [conflicts](people-conflicts-christian-why.md) have arisen about th
 
 ## 5. Mosaic Covenant
 
-Made between God and Israel, with Moses as an intermediary ([Exodus 19-24](https://biblehub.com/exodus/19.htm))
+Made between God and Israel, with Moses as an intermediary (Exodus 19-24)
 
 - Mediator: Moses
 - Role: Judge
@@ -136,7 +136,7 @@ Made between God and Israel, with Moses as an intermediary ([Exodus 19-24](https
 Israel's consideration:
 
 - Trust God
-- Honor God's commands (stipulated in [Exodus 20](https://biblehub.com/exodus/20.htm)):
+- Honor God's commands (stipulated in Exodus 20):
   1. No other gods before God
   2. No idols made of anything, nor bowing down to them or worshiping them
      - In particular, God is jealous of any attention drawn away from Him
@@ -150,19 +150,19 @@ Israel's consideration:
   9. Don't [lie](people-lying.md) about your neighbor
   10. Don't desire anything your neighbor has
 - *Many* more edicts implement the original commands
-  - In fact, most of [Leviticus](https://biblehub.com/leviticus/1.htm), [Numbers](https://biblehub.com/numbers/1.htm), and [Deuteronomy](https://biblehub.com/deuteronomy/1.htm) are derived from the first 10 commandments
+  - In fact, most of Leviticus, Numbers, and Deuteronomy are derived from the first 10 commandments
 - Will become a kingdom of priests and a holy nation
 
 God's consideration:
 
 - God will make Israel a treasured possession among the nations
-- God will send an angel ahead to clear out the land ([Exodus 20:20-23](https://biblehub.com/exodus/23.htm))
+- God will send an angel ahead to clear out the land (Exodus 20:20-23)
 
 Many Christians frame it as the "Old Covenant" in light of the Christ covenant.
 
 ## 6. Palestinian Covenant
 
-Made between God and Israel, with Moses as an intermediary ([Deuteronomy 29:1-30:10](https://biblehub.com/deuteronomy/29.htm))
+Made between God and Israel, with Moses as an intermediary (Deuteronomy 29:1-30:10)
 
 God's consideration:
 
@@ -188,11 +188,11 @@ God's consideration upon breach of contract:
 In some ways, it's an expansion of the Mosaic covenant, but indicates conditions from breaching the covenant.
 
 - [History has shown](history-israel.md) that this *has* happened, though it's debatable whether Israel is actively being gathered or if its current government is God's will.
-- This covenant is renewed in [Nehemiah 9-10](biblehub.com/nehemiah/9.htm).
+- This covenant is renewed in Nehemiah 9-10.
 
 ## 7. Davidic Covenant
 
-Made between God and David ([2 Samuel 7:1-16](https://biblehub.com/2_samuel/7.htm), paraphrased in [1 Chronicles 17:11-14](https://biblehub.com/1_chronicles/17.htm) and [2 Chronicles 6:16](https://biblehub.com/2_chronicles/6-16.htm)).
+Made between God and David (2 Samuel 7:1-16, paraphrased in 1 Chronicles 17:11-14 and 2 Chronicles 6:16).
 
 - Mediator: David
 - Role: King
@@ -219,9 +219,9 @@ This is a direct promise by God of a Messiah.
 
 ## 8. Christ Covenant
 
-Made between God and mankind through Jesus, starting with the Hebrews ([John 3:16-21](https://biblehub.com/john/3.htm), [Romans 2:29](https://biblehub.com/romans/2-29.htm), [Romans 10:8-9](https://biblehub.com/romans/10.htm), [Hebrews 8:1-6](https://biblehub.com/hebrews/8.htm))
+Made between God and mankind through Jesus, starting with the Hebrews (John 3:16-21, Romans 2:29, Romans 10:8-9, Hebrews 8:1-6)
 
-It was foreshadowed multiple times before it arose ([Jeremiah 31:31-33](https://biblehub.com/jeremiah/31.htm), [Ezekiel 36:24-27](https://biblehub.com/ezekiel/36.htm))
+It was foreshadowed multiple times before it arose (Jeremiah 31:31-33, Ezekiel 36:24-27)
 
 - Mediator: Jesus (Yeshua)
 - Role: Royal High Priest
@@ -231,7 +231,7 @@ It was foreshadowed multiple times before it arose ([Jeremiah 31:31-33](https://
 Mankind's consideration:
 
 - Confess and believe that Jesus is Lord
-- Eat bread and drink from a shared cup in remembrance of Jesus ([Matthew 26:26-28](https://biblehub.com/matthew/26.htm), [Mark 14:22-24](https://biblehub.com/mark/14.htm), [Luke 22:19-20](https://biblehub.com/luke/22.htm))
+- Eat bread and drink from a shared cup in remembrance of Jesus (Matthew 26:26-28, Mark 14:22-24, Luke 22:19-20)
 - Practice the truth
 - Circumcise your heart
 
@@ -252,9 +252,9 @@ There are *many* implied aspects to how we see this contract that fall into erro
 
 ## 9. Millennial Covenant
 
-An as-of-yet unestablished agreement between the remaining people [after the Apocalypse](https://theologos.site/millennium/) ([Revelation 21](https://biblehub.com/revelation/21.htm))
+An as-of-yet unestablished agreement between the remaining people [after the Apocalypse](https://theologos.site/millennium/) (Revelation 21)
 
-Alluded to as the final fulfillment of the Christ covenant ([Jeremiah 31:26-40](https://biblehub.com/jeremiah/31.htm), [Ezekiel 36:28-30](https://biblehub.com/ezekiel/36.htm))
+Alluded to as the final fulfillment of the Christ covenant (Jeremiah 31:26-40, Ezekiel 36:28-30)
 
 God's consideration:
 
@@ -267,7 +267,7 @@ Mankind's consideration:
 
 ## 10. Eternal Covenant?
 
-A future likely agreement with God beyond Judgment Day ([Revelation 22:1-5](https://biblehub.com/revelation/22.htm))
+A future likely agreement with God beyond Judgment Day (Revelation 22:1-5)
 
 If the pattern continues, it will likely represent further realities and agreements.
 
@@ -298,6 +298,6 @@ Altogether, the relationship with God is straightforward:
    - Our expression of love will come through our worship, [trust](mind-trust.md) in Him, and honoring Him, and will spill into all our relationships.
    - As an all-encompassing concept, we are responsible to be faithful, which means we believe He'll keep His word.
 4. From there, we are to pass on that relationship with God to our neighbors, where *we* are their patron and God is the client.
-   - The role is reversed through a secondary connection ([Matthew 25:31-46](https://biblehub.com/matthew/25.htm)).
+   - The role is reversed through a secondary connection (Matthew 25:31-46).
    - This can include [parenting](parenting-children.md), [helping people in hardship](hardship.md), and [serving the community](church-serve.md).
 5. If anyone expresses gratitude, forward it to God as the ultimate patron.

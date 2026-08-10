@@ -12,6 +12,13 @@ The ubiquity of modern toxins make [diet](body-diet.md) and [exercise](body-exer
 
 ## Seek better habits more than treatments
 
+In a way, the body is a self-regulating machine that auto-corrects for everything.
+
+- Healing responses are usually sufficient for most minor damage.
+  - [Exercise](body-exercise.md) is exposing the body to intentional damage, which it grows from.
+- Most issues can be resolved or mitigated with the correct [diet](cooking.md).
+- The body is also capable of *major* adaptations like losing or gaining a limb.
+
 Most of our body's capacity to heal comes through our exposure to resistance, though it can be difficult to remember in [modern society](people-image-modern.md) when we're surrounded by [immaterial engineered objects](engineering.md).
 
 - In Western society, about 1 in 10 people have autoimmune disorders, where their immune system somehow attacks its body.
@@ -39,7 +46,21 @@ Many healthcare professionals agree with the holistic and mind-based approach:
 - [Dr. Hunter Adams](https://www.patchadams.org/)
 - [Dr. Mark Hyman](https://drhyman.com/)
 
-Obviously, you'll need [treatments](body-treatments.md) eventually (especially since we are all [on the way to death](hardship-death.md)), but it's in your interests to [live in a way that avoids them for as long as possible](body-health-habits.md).
+Many treatments are *very* accessible:
+
+- Acupressure (as well as acupuncture and moxibustion)
+- Hyper-hydration
+- [Exercise](body-exercise.md)
+- Massage
+- Mewing (pressing your tongue fully to the roof of your mouth for 30 seconds)
+- [Sleeping](sleep.md) more
+- Spend time outside in the sun 1 hour a day
+- Supplements, vitamins, and electrolytes
+
+Obviously, you'll need [intensive treatments](body-treatments.md) eventually (especially since we are all [on the way to death](hardship-death.md)), but it's in your interests to [live in a way that avoids them for as long as possible](body-health-habits.md).
+
+- Many people simply neglect their health entirely, especially women.
+- While many other trends may have merit (e.g., home births), they need the foundation of a healthy lifestyle to be a sufficient improvement.
 
 ## Consider your age
 

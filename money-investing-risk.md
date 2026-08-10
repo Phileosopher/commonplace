@@ -396,6 +396,17 @@ The only way to offset our constant emotional reactions are to hope for the best
 
 ### Scams
 
+Every con has the same predictable mechanism:
+
+- They all have the same three components:
+  1. Authority: someone expresses they have expertise, experience, a title, exclusive knowledge, or a special connection
+  2. Urgency: there is very little time for someone to act, so urgent that the victim shouldn't do any research
+  3. Isolation: the person is separated from a familiar environment through a retreat, closed-door meeting, or late-night decision
+- Since this takes advantage of our [natural bias](mind-bias.md), everyone is susceptible to it.
+  - The only way to stop it is to identify the events as they happen.
+- Often, this mechanism is the reason scams hit people with very few [friends](people-friends.md), since multiple friends guarantees one of them will call out the fraud.
+- Even products like [multi-level marketing](marketing-mlm.md) have at least some of these qualities.
+
 The most frequent indicator of fraud is promising high return with low risk.
 
 - No matter how "secure" things like gold, silver, or cryptocurrency sound, they're still as volatile as [the human perception of value](values.md).

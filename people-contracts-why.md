@@ -62,7 +62,7 @@ Generally, we gain our [reputation](people-image-why.md) in society at large by 
 
 A contract *should* be mutually beneficial. If it isn't, it's typically either [slavery](people-slavery.md) or a [mental disorder](people-personality.md). If it's accepted by a large group of people, it's [large-scale dysfunction](mgmt-badsystems.md).
 
-The [legal jargon](glossary-legal-ac.md) and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
+The legal jargon and densely worded language in written contracts comes heavily out of making *sure* every situation and specific odd situation is covered, as well as avoiding ambiguity in front of a judge.
 
 The philosophy of the contract can be a bit dense, and is typically only discussed by law geeks:
 

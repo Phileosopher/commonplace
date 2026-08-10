@@ -25,6 +25,17 @@ The only way to become an effective speaker is through constant practice, in-per
 
 Against most intuition, though, great speakers are [great listeners](language-speaking-listening.md).
 
+When speaking, use pause-down-pause:
+
+1. Use your normal tone of voice up until the end, then pause
+2. Lower your tone and say the end of the statement, then pause again and wait for them to respond
+
+When answering a question, always answer three questions:
+
+- What is happening (which may be mirroring what they said)
+- Why it's happening
+- What you're going to do about it
+
 ## Shifting subjects
 
 There should always be an unspoken purpose to continue a conversation:

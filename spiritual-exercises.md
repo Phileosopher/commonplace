@@ -27,18 +27,18 @@ While Christians need a spiritual encounter, they don't necessarily need a *myst
 
 We *must* take our actions seriously if we want to see [results](results.md) from them.
 
-- Faith is a matter of contemplation and focus, and we should do it because we love what He has done for us ([1 John 4:9](https://biblehub.com/1_john/4-9.htm)).
-- Further, our gains come through God developing our belief in Christ as being sent ([John 6:28-29](https://biblehub.com/john/6.htm), [John 7:38](https://biblehub.com/john/7-38.htm)).
+- Faith is a matter of contemplation and focus, and we should do it because we love what He has done for us (1 John 4:9).
+- Further, our gains come through God developing our belief in Christ as being sent (John 6:28-29,7:38).
 - We often mindlessly practice actions without considering their meaning.
   - We must be looking forward to time and effort with God, or we're utterly wasting our time.
 
-Spiritual exercises are essentially the works-based portion of faith ([James 2:14-18](https://biblehub.com/james/2.htm)), and it expresses differently for each person.
+Spiritual exercises are essentially the works-based portion of faith (James 2:14-18), and it expresses differently for each person.
 
 - Everyone's [personality](people-personality.md) is different, so nobody else will do it quite the same way as you.
 - Not even your *style* will be quite the same as anyone else's.
 - It's your own specific friendship and [identity](people-identity.md) in Christ, so it's a private matter between you and Him.
 
-The attitude toward spiritual exercises applies to absolutely *everything* ([1 Corinthians 10:31](https://biblehub.com/1_corinthians/10-31.htm)).
+The attitude toward spiritual exercises applies to absolutely *everything* (1 Corinthians 10:31).
 
 ## Awareness
 
@@ -56,15 +56,15 @@ This awareness shouldn't simply be to recognize, but also to add to your spiritu
 
 In general, track wherever you may be missing parts of your spiritual journey:
 
-1. Have you focusing on God's activity in your life and listening to Him on a regular basis ([Psalm 46:10](https://biblehub.com/psalms/46-10.htm))?
-2. Are you cultivating your knowledge of God, Christ's character, and the Spirit's presence ([John 16:5-15](https://biblehub.com/john/16.htm))?
-3. Are the things you say reflecting your position as a child of God the King (i.e., seeking [reconciliation](people-conflicts.md), peace, and [justice](morality-justice.md)) [Matthew 5:9](https://biblehub.com/matthew/5-9.htm)?
-4. Are you connecting with God and others in a caring community ([Hebrews 10:25](https://biblehub.com/hebrews/10-25.htm))?
-5. Are you avoiding unhealthy connections with others ([1 Corinthians 15:33](https://biblehub.com/1_corinthians/15-33.htm))?
-6. Are you contributing yourself and [God-given gifts](spiritual-gifts.md) for growing the Kingdom of Heaven ([Colossians 3:23](https://biblehub.com/colossians/3-23.htm))?
-7. Are you prepared for the [uncertainty](mind-understanding-certainty.md) God is almost guaranteed to give you soon ([James 4:13-15](https://biblehub.com/james/4.htm))?
-8. Have you been practicing patience in whatever God is doing (even when you don't see it) ([James 1:9](https://biblehub.com/james/1-9.htm))?
-9. Have you been avoiding even the *appearance* of [evil](morality-evil.md) ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm))?
+1. Have you focusing on God's activity in your life and listening to Him on a regular basis (Psalm 46:10)?
+2. Are you cultivating your knowledge of God, Christ's character, and the Spirit's presence (John 16:5-15)?
+3. Are the things you say reflecting your position as a child of God the King (i.e., seeking [reconciliation](people-conflicts.md), peace, and [justice](morality-justice.md)) [Matthew 5:9?
+4. Are you connecting with God and others in a caring community (Hebrews 10:25)?
+5. Are you avoiding unhealthy connections with others (1 Corinthians 15:33)?
+6. Are you contributing yourself and [God-given gifts](spiritual-gifts.md) for growing the Kingdom of Heaven (Colossians 3:23)?
+7. Are you prepared for the [uncertainty](mind-understanding-certainty.md) God is almost guaranteed to give you soon (James 4:13-15)?
+8. Have you been practicing patience in whatever God is doing (even when you don't see it) (James 1:9)?
+9. Have you been avoiding even the *appearance* of [evil](morality-evil.md) (1 Peter 2:12)?
 
 ## General sin-purging
 
@@ -88,9 +88,9 @@ Focus on sins as they happen, but go further:
 
 Focus on responding *much* more slowly to literally *anything*.
 
-- Your body is God's temple, so loving God means maintaining your body and actions within your physical control ([1 Corinthians 6:13-19](https://biblehub.com/1_corinthians/6.htm)).
+- Your body is God's temple, so loving God means maintaining your body and actions within your physical control (1 Corinthians 6:13-19).
 
-Find ways to elevate others above yourself ([Romans 12:6](https://biblehub.com/romans/12-16.htm)).
+Find ways to elevate others above yourself (Romans 12:6).
 
 - Place others' needs above your own.
 - Look for people to [serve](church-serve.md).
@@ -99,7 +99,7 @@ Find ways to elevate others above yourself ([Romans 12:6](https://biblehub.com/r
 
 Worship is etymologized as "worth-ship", meaning giving worthiness to God.
 
-- Neurologically, we are incapable of anxiety and gratitude, which is why we should give thanks to God when anxious ([Philippians 4:6](https://biblehub.com/philippians/4-6.htm))
+- Neurologically, we are incapable of anxiety and gratitude, which is why we should give thanks to God when anxious (Philippians 4:6)
 
 Devote yourself to daily activities that give glory to God.
 
@@ -132,7 +132,7 @@ To the degree that you need it, have an opening routine when you speak with God:
    - The purpose for this is for *you* to get in the right frame of mind, so it can be whatever rituals work for you.
 4. Consider the sin nature we are all in when you speak with Him.
    - This doesn't necessarily mean you must dwell on it (since Jesus certainly doesn't), but pay attention to any sins still in your life that [He died on the cross for](https://theologos.site/gospel/).
-   - If you *didn't* have Jesus' sacrifice, God sees that the things you have done justify eternal punishment in hell ([Luke 18](https://biblehub.com/luke/18.htm)).
+   - If you *didn't* have Jesus' sacrifice, God sees that the things you have done justify eternal punishment in hell (Luke 18).
 
 Ask God to do something humanly impossible to advance the kingdom of Heaven.
 
@@ -176,12 +176,12 @@ Throughout your routine, consider lifestyles and decisions from people in the Bi
 
 Devote yourself to making yourself more [moral](morality.md) for the next day, month, or year compared to the last one.
 
-- Remind yourself that you're never really "alone", and that many spiritual beings are observing *all* of us ([Hebrews 12:1](https://www.biblehub.com/hebrews/12-1.htm)).
+- Remind yourself that you're never really "alone", and that many spiritual beings are observing *all* of us (Hebrews 12:1).
 
 Take one day off each week (a "sabbath") to rest and relax.
 
 - The Sabbath is a commandment that forces us to rely on God at least one day every week.
-- However, if you wish, you can make *every* day devoted as holy to Him ([Romans 14:5](https://biblehub.com/romans/14-5.htm)).
+- However, if you wish, you can make *every* day devoted as holy to Him (Romans 14:5).
 
 As you feel led, scale back creature comforts.
 
@@ -271,12 +271,12 @@ Work to improve relationships with everyone around you, such as your [marriage](
 
 Avoid needless [conflicts](people-conflicts-why.md) and learn [how to defuse them](people-conflicts.md).
 
-- Try to defuse needless debates about small Christian matters, then [set boundaries](people-boundaries-why.md) against them ([Titus 3:9-11](https://biblehub.com/titus/3.htm)).
+- Try to defuse needless debates about small Christian matters, then [set boundaries](people-boundaries-why.md) against them (Titus 3:9-11).
 
 Submit yourself to anyone in authority (i.e., [police](legal-safety.md), [government officials](politics-systems.md), [employer](success-4_routine.md)).
 
 - [The West](https://theologos.site/the-west/) hasn't always had a healthy relationship with submission.
-- You don't have to completely [*comply* with everything](hardship-persecution-church.md), but always remember that God appointed the hierarchy that runs us ([Romans 13:1-7](https://biblehub.com/romans/13.htm)).
+- You don't have to completely [*comply* with everything](hardship-persecution-church.md), but always remember that God appointed the hierarchy that runs us (Romans 13:1-7).
 
 Accept any corrections or rebukes from others.
 
@@ -291,7 +291,7 @@ Spend time with others:
 
 ## Good works with others
 
-Find ways to stir others up to good works ([Hebrews 10:19-25](https://biblehub.com/hebrews/10.htm)).
+Find ways to provoke others to do good works (Hebrews 10:19-25).
 
 - Comfort: giving consolation to others
 - Commiserate: share in the challenges of daily life
@@ -313,7 +313,7 @@ Stay hospitable and open to others with needs, *especially* the [underclass](peo
 
 - The original design God intended for us is to observe unfulfilled needs, then desire to help others.
 - By observing people suffering more than you, you'll be both encouraged (in your life) and motivated (from desiring their improvement).
-- When giving, use cash to stay anonymous [Matthew 6:3](https://biblehub.com/matthew/6-3.htm).
+- When giving, use cash to stay anonymous (Matthew 6:3.
 
 Give to groups that need the money the most.
 

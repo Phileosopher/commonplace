@@ -10,7 +10,20 @@ Almost everything in this list works to serve a few main themes:
 3. Separate ideas that shouldn't be separated, frequently to distance [feelings](mind-feelings.md) from the thing.
 4. Combine ideas that shouldn't be combined, typically to make people [feel](mind-feelings.md) more strongly about it.
 
+There are really only 3 major reasons people use these methods:
+
+1. Get people to [believe](mind-understanding.md) something
+2. Get people to [do](results.md) something
+3. Get people to [buy something](marketing.md)
+
 Experts at distorting appearances are frequently good at [predicting](mind-imagination.md) what will happen, and regularly do it prematurely before adverse consequences happen.
+
+To detect these more easily, it takes several steps:
+
+1. Know their [purpose](purpose.md) for expressing something
+2. Recognize one of the below techniques
+3. Find [facts](reality.md) that indicate what is really happening
+4. [Judge](mind-decisions.md) their purpose and techniques by the facts themselves
 
 ## [Mental](mind-understanding.md)
 
@@ -97,6 +110,7 @@ Comparing with other stories
 
 - Show associations with other things that aren't related to give the impression that it's tied to the story ("associative stories").
 - Referencing a supporting story that has absolutely nothing to do with the current story ("whipsaw effect").
+- "Preemptive framing" by using a story to give context to a semi-related [story](stories-why.md) before introducing the target story.
 
 Comparing with [the unknown](unknown.md)
 
@@ -185,6 +199,7 @@ Tone of voice/context
 
 Redirection
 
+- Use some information while omitting other information ("card-stacking")
 - Call another group by a label that only fits a few [outliers](people-trends.md) of the group.
 - Call an entire group [evil](morality-evil.md) instead of merely their [beliefs](mind-understanding-certainty.md) or a few specific people in that group.
 - Use existing [reputation](people-image-why.md) to hide laziness or incompetence.
@@ -192,6 +207,8 @@ Redirection
 - Imply there are only a few possible [options](mind-decisions.md), even when there are more.
 - A [large group](groups-large.md) using independent local individuals to imply a [smaller group](groups-small.md).
 - Use a *lot* of information that floods out existing information that may give a clear conclusion.
+- Use testimonials, especially from "normal" people.
+- Imply or explicitly state that everyone is interested in something over something else.
 
 Blame
 
@@ -208,7 +225,7 @@ Public [image](people-image-why.md)
 
 - Lie about the [historical](stories-storytellers.md) [legacy](legacy.md) of the organization.
 - Label an organization as something unrelated to its [purpose](purpose.md) (e.g., Southern Poverty Law Center, [Black Lives Matter](politics-leftism.md)).
-- Use [authoritative](power.md)-sounding labels (e.g., "association", "endowment", "coalition", "opportunity fund")
+- Use [authoritative](power.md)-sounding labels (e.g., "association", "endowment", "coalition", "opportunity fund").
 - Establish [traditions](people-culture.md) that imply [stories](stories-why.md) about the organization.
 - Donating to other organizations that serve the public good.
 

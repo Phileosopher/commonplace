@@ -45,6 +45,16 @@ It's critical to use some type of verification for a program, and there are [man
 
 Making a [computer network](networks-cs.md) involves adding communication features between computers. By contrast, [network hardening](computers-cysec-network.md) involves *removing or disabling* all unnecessary features authorized users won't use.
 
+### Specific network hardening tricks
+
+If you're particularly paranoid, make sure to change your devices' MAC address, since that MAC has the origination and likely information about the firmware on it.
+
+Have a burner browser to work with any suspicious situations.
+
+- Even if you use privacy-minded things browser features (e.g. private windows, no cookies), some services will still detect other content in that browser.
+- For this reason, have a "burner" browser that has absolutely nothing in it.
+- Preferably, it should use a different framework (e.g., Firefox uses Gecko, Brave uses Chromium)
+
 ## Scanning software
 
 The highest-risk [files](computers-files.md) for a computer to keep functioning (and thereby enforce [authentication](computers-cysec-authentication.md)) are core system files, so an [operating system](computers-os.md) has a constant need to track *any* changes to them.
@@ -68,6 +78,16 @@ For the sake of protecting information, most of the components of a computer are
 - Short-term [memory](computers-memory.md)
 
 However, [long-term memory can be *highly* risky](computers-cysec-memory.md) if accessed or stolen. A hard drive possesses all the information a computer has (minus the [BIOS information](computers-boot.md)) as soon as the computer is turned off.
+
+Either way, make sure you have all important information synchronized in real-time to another networked drive.
+
+- If you can't, for whatever reason, have the data on a second drive altogether (and not simply a recovery partition).
+
+Abide by the 3-2-1 backup rule:
+
+- 3 copies of the data
+- 2 different [storage media](computers-memory.md)
+- 1 copy is off-site (just in case of theft or [disaster](hardship-disaster-1_short.md))
 
 ## Virtualization
 

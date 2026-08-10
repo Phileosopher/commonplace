@@ -99,6 +99,8 @@ High-EQ people can master social interactions:
 
 Charm is how much you can please people.
 
+- A huge part of this is in kindly expressing things that would otherwise cause offense.
+
 At their core, *everyone* wants to be important:
 
 - An important person is valued by others, though not necessarily liked.

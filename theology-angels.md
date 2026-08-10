@@ -15,7 +15,7 @@ Being intelligent, God gave them the freedom of [decision](mind-decisions.md), a
 - The Satan, led by Lucifer and his followers, are constantly trying to destroy what God has made and subvert His purposes.
 - The dominant way they work is through creating more [inner conflicts](people-conflicts-inner.md) over our decisions.
   - It almost always involves magnifying our [imagination](mind-imagination.md) of bad things to subdue what we [believe](mind-understanding.md) through [fear](mind-feelings-fear.md) or false [certainty](mind-understanding-certainty.md).
-  - For non-believers, he distracts people from broad thinking about our spiritual state, then sends any variety of [religious doctrine](religion.md) or [philosophy](glossary-philosophy.md) to hide the truth.
+  - For non-believers, he distracts people from broad thinking about our spiritual state, then sends any variety of [religious doctrine](religion.md) or [philosophy](philosophy-glossary.md) to hide the truth.
 
 [Additional exposition about spiritual warfare](spiritual-warfare.md) (with [additional list of the devil's tricks](spiritual-warfare-tricks.md))
 
@@ -42,12 +42,12 @@ An "angel" is a "messenger".
 The "seraphim" is a throne room guardian spirit.
 
 - The word "seraph" is connected to Hebrew for "burn" and "serpent", so they're often portrayed as fiery winged serpents.
-- [Isaiah 6:2](https://biblehub.com/isaiah/6-2.htm)
+- Isaiah 6:2
 
 The "cherubim" are also divine throne guardians.
 
 - They have a very strange appearance that lends itself to a LOT of [symbolic](symbols.md) speculation.
-- [Ezekiel 1:5-10](https://biblehub.com/ezekiel/1.htm)
+- Ezekiel 1:5-10
 
 Thomas Aquinas grouped the heavenly beings into 3 orders:
 
@@ -55,4 +55,4 @@ Thomas Aquinas grouped the heavenly beings into 3 orders:
 2. Rulers of the heavens, shaping the events on Earth.
 3. Those who walk among humanity as messengers and guides.
 
-While some spiritual beings blend in [Hebrews 13:2](https://biblehub.com/hebrews/13-2.htm), many of the others would be legitimately terrifying if encountered on Earth.
+While some spiritual beings blend in Hebrews 13:2, many of the others would be legitimately terrifying if encountered on Earth.

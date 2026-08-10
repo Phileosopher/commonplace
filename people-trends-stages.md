@@ -48,6 +48,8 @@ APPLICATION: To be a major influencer in pretty much any domain, you must be luc
 - Have the [wisdom](mind-understanding.md) to make the right [decisions](mind-decisions.md) at the time of a new trend, without sacrificing all your resources on an ultimately failed trend
 - If it's a physically or mentally demanding role to lead the adoption, you must also have certain genetic dispositions as well
 
+At this stage, almost everyone knows about the thing.
+
 ## C. Cool, but uncommon
 
 Some people like to break [convention](habits.md) but are still [afraid](mind-feelings-fear.md) of breaking a [taboo](morality-taboo.md). These "early adopters" represent about 13.5% of a group, and are constantly balancing the delicate relationship between the competing [desires](purpose.md) to innovate and conform.
@@ -75,6 +77,8 @@ Most of the time, [looking back](stories-storytellers.md), trends are attributed
 In [groups](groups-member.md), most trends die with early adopters, usually revisiting at least a few generations later with a different [culture](people-culture.md) of the same [group](groups-small.md). If enough people [identified](people-identity.md) with the thing once it died, they become a separate [niche group](groups-small.md) that's more easily [swayed](influence.md) toward future trends similar to it.
 
 APPLICATION: The most lucrative time to invest in something is when the innovators are playing with it. But, the safest time to legitimately profit off something is to follow what the early adopters are doing. The yields for following an innovator over an early adopter are *insanely* higher and *way* more [unpredictable](mind-imagination.md), and if 30% of the people already use something you're going to get a [modest and safe](safety.md) return on your efforts.
+
+At this stage, everyone knows about the thing, and also knows that everyone else knows about it as well.
 
 ## D. Public, and popular
 
@@ -111,6 +115,8 @@ At this point, the trend will spread across a variety of social groups beyond si
 3. The remixes will keep [changing](creations.md) the trend as it shifts through an ongoing design or development. Each of these changes are their own mini-trend.
 4. Other people who don't [identify](people-identity.md) with the [values](values.md) of the trend at all will start copying or imitating the trend and its styles. This is where the trend develops a *ridiculous* range of variety, with many people each making small contributions to the changes.
 5. [Popular media](stories-storytellers.md) will showcase the trend, furthering the public's awareness of it. Once the most popular media of a society has shown the trend (e.g., movies in the 20th century), the trend is memorialized as a permanent fixture of society. From here, the trend will cycle back again, and never be totally forgotten.
+
+At this stage, everyone knows that everyone knows about it.
 
 ## E. Social standard
 

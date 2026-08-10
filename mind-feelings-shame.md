@@ -47,6 +47,14 @@ If we live our lives coated in [regret and shame](mind-feelings-shame.md), we'll
 - As time persists, we may be trained to be controlled by the [bullies](power.md) of that group.
 - Instead of learning to [cope with it](mind-decisions.md) as it arises, we'll try to [control others' lives](power-influence.md), which will create a perpetuating cycle.
 
+Living without internalized shame is difficult because of society in general:
+
+- For the sake of [enforcing rules](people-rules.md), most [cultures](people-culture.md) employ a guilt/shame spectrum:
+  - Honor vs Shame: a person has the status of being honorable or shamed, and it follows whatever they do until they've become a different person. This is how most ancient societies lived.
+  - Innocence vs Guilt: a person hasn't done anything wrong, until they have, and will be judged until they repent and indemnify their guilt. This is how most Western society exists.
+  - Correct vs Incorrect: a person either lives by the truth, or doesn't, and they represent a risk until they accept the truth. This only happens rarely in society.
+- Ideally, everyone should live a Correct/Incorrect mode of thought, but that requires for everyone to [act in good faith with one another](https://gainedin.site/good-faith/).
+
 ## Shame indicators
 
 Many elements of shame express consistently in the same form.

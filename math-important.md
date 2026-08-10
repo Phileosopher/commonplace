@@ -25,6 +25,10 @@ This doesn't include the [numerical patterns found in the Bible](bible-patterns.
 
 - "situation has ended" (defunct police code), can be used for saying something is over
 
+47
+
+- A common number people frequently use as a "random" number (since it's prime and nearly in the middle of 1 and 100)
+
 67
 
 - so-so, acceptable

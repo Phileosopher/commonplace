@@ -19,6 +19,8 @@ Drink plenty of water.
 
 - As little as 10 minutes a day can set a sleep pattern.
 
+Spend time in natural sunlight to trigger your hypothalamus for daytime, especially between 6:00am and 8:30am.
+
 Make a wind-down routine:
 
 - At day’s end, de-stress and [meditate](mind-awareness-meditation.md).
@@ -38,7 +40,7 @@ Even when you can get to sleep, some things will interrupt deep sleep:
 
 - Sitting slightly upright
 - Noise and bright light
-- Caffeine (like [coffee](fun-coffee.md) and [tea](fun-tea.md)) reduces deep sleep
+- Caffeine (like [coffee](fun-coffee.md) and [tea](fun-tea.md)) reduces deep sleep for 4-6 hours after drinking
 - Proximity to non-visible light (such as [wireless networks](engineering-radio.md)) disrupts sleep patterns
 
 Avoid self-care that works against good sleep:
@@ -69,13 +71,14 @@ Your insomnia might be coming from a simple distraction:
 
 Take something to calm down:
 
-- Drink chamomile tea or passion flower tea.
+- Drink chamomile tea, passion flower tea, or valerian tea.
 - Eat a spoonful of honey.
 - Drink a glass of fresh lemon juice.
 - Place a mixture of 5 parts organic honey and 1 part Himalayan sea salt under your tongue.
 - Nighttime drink:
   1. Heat a cup of milk or almond milk on high until it's hot enough to foam
   2. Stir in a teaspoon of honey, two drops of vanilla extract, and a pinch of ground cinnamon
+- Take magnesium or a magnesium rub.
 
 You will fall asleep after about 10 seconds without a conscious thought:
 
@@ -114,7 +117,7 @@ If you need something more severe:
 
 - Look at photos or videos of other people sleeping.
 - Read a boring book in bed.
-- Cuddle with or have sex with [your significant other](relationships-marriage.md) before going to bed.
+- Cuddle with or have [sex](relationships-sex.md) with your spouse before going to bed.
 - Play the didgeridoo.
 - Go camping for a week without electronics to synchronize to sunrise and sunset.
 - If you can afford it, get a vibrating bed and set it at the lowest setting.

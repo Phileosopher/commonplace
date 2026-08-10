@@ -77,9 +77,9 @@ Since our [certainty](mind-understanding-certainty.md) can never be complete (gi
 
 **Deism** can't work because the basis for knowledge comes *at least* partly through God's inspiration.
 
-**Experientialism** can be validated in some ways (e.g., [Luke 1:3-4](https://biblehub.com/luke/1.htm)).
+**Experientialism** can be validated in some ways (e.g., Luke 1:3-4).
 
-**Inductionism** has enough Scripture to indicate it's at least partly true (especially in [Proverbs](https://biblehub.com/proverbs/1.htm)), but it can't be complete.
+**Inductionism** has enough Scripture to indicate it's at least partly true (especially in Proverbs), but it can't be complete.
 
 - **Inductivism** and **scientism** can't be true due to our fallen state affecting the scientific community.
 - **Psychologism** is likely untrue unless we define Scripture as a type of philosophical study.
@@ -94,7 +94,7 @@ Since our [certainty](mind-understanding-certainty.md) can never be complete (gi
 
 - Further, many [modern churches](history-church.md) have proven **greedy reductionism**, *especially* on critical doctrinal issues.
 
-**Phenomenal conservatism** must necessarily be true regarding God, though it doesn't always extend to society (e.g., being "shrewd as serpents" in [Matthew 10:16](https://biblehub.com/matthew/10-16.htm)).
+**Phenomenal conservatism** must necessarily be true regarding God, though it doesn't always extend to society (e.g., being "shrewd as serpents" in Matthew 10:16).
 
 **Skepticism** (and the domains of **postmodernism**, **probabiliorism**, **probabilism**, and **pyrrhonism**) is *very* difficult to harmonize with Christianity, since it alienates the general nature of God's design for the universe.
 
@@ -163,8 +163,8 @@ A relationship with Jesus is portrayed directly as a form of *very* personal **m
 Some ideas are *possible*, but don't capture the spirit of Scripture:
 
 - **Antinatalism** (particularly with [leftward thinking](politics-leftism.md)) is possible, but difficult to validate in light of God's love for humanity (and desire for more people as a logical product of it).
-- **Antinominianism** is possible due to the scope of Jesus' sacrifice, but it misses Jesus' general directive to "go and sin no more" ([John 8:11](https://biblehub.com/john/8-11.htm)).
-- **Asceticism** is possible to conclude, though it has been taken too far (e.g., [1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm)).
+- **Antinominianism** is possible due to the scope of Jesus' sacrifice, but it misses Jesus' general directive to "go and sin no more" (John 8:11).
+- **Asceticism** is possible to conclude, though it has been taken too far (e.g., 1 Corinthians 8).
 
 The call to Christ has an implicit opposition to *all* **ethical egoism**.
 

@@ -150,7 +150,7 @@ At the farthest end, a [group](groups-small.md) can establish an endless supply 
 APPLICATION: The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](people-culture.md) that defy [reality](reality.md):
 
 1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](results.md) unless it falls within their interests, and it's all determined by [how they maintain their power](politics-systems.md).
-2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal-ac.md) for the [consequences](results.md) of what they [decide](mind-decisions.md).
+2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and prepare for the [consequences](results.md) of what they [decide](mind-decisions.md).
 3. If you prefer a [social reform](people-trends.md), a government is *not* [trustworthy](mind-understanding-certainty.md) to correctly employ it.
 4. A government is never powerful enough that a person is never entitled to their [freedoms](people-boundaries-why.md).
 

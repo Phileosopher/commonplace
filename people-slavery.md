@@ -3,18 +3,25 @@
 
 Slavery is when someone has [power](power.md) over someone against their [will](purpose.md). A slave's master will be able to control what someone [says or does](results.md), and a slave is unable to make free [decisions](mind-decisions.md) at the scope of [their natural rights](people-boundaries-why.md).
 
-Categorically, there are two ways that people can own other people:
+Broadly, there are six major categories of human ownership:
+
+- Human trafficking involves forcibly moving or recruiting people to be exploited for things like labor, prostitution, and marriage.
+- Forced labor is where someone is forced to work against their will and threatened with violence.
+- [Debt](money-2_debt.md) bondage is when people trapped in poverty are forced to take loans with high interest or arbitrary terms.
+- Descent-based slavery is when a person's slavery status comes from being born into a particular [family](people-family.md).
+- Child trafficking is any form of slavery involving [children](parenting-children.md).
+- Forced/early marriage is when someone is forced against their will to [marry](relationships-marriage.md) under threat of adverse consequences.
+
+Categorically, there are also two ways that people can own other people:
 
 - Chattel slavery, which is a [contractual](people-contracts.md) ownership approved by [a government](people-rules.md)
 - De facto slavery, which is a contractual implied ownership without a government involved.
 
-While chattel slavery is relatively rare in the West right now, de facto slavery is still commonplace:
+While chattel slavery is relatively rare in the West right now, de facto slavery is still commonplace in many domains of society:
 
 - Workers forced into extremely lopsided agreements with mandatory performance clauses
 - Celebrities with controlling managers
 - [Cult members](people-culture-cults.md)
-- Sex slaves, such as trafficked children
-- [Debt](money-2_debt.md) holders when their loans have a high interest or arbitrary terms
 - [Incarcerated individuals](hardship-incarceration.md)
 
 APPLICATION: The only outward difference between massive debt and slavery is [math](math.md) and the [stories](stories-why.md) people interpret about it.

@@ -35,11 +35,61 @@ APPLICATION: The leader of a group gets all the [credit](people-image-why.md), b
 
 When a shared [purpose](purpose.md) is strong enough, people can get along better in that group than in a more familiar dynamic (such as living together or [family](people-family.md)).
 
+## Collective knowledge
+
+One of the greatest benefits of a large group is that, under the right conditions, a group of people can be collectively more intelligent than a single person.
+
+- No individual person has to be a genius for this condition to happen, but they will reach a collectively wise decision in the right arrangement.
+
+However, the conditions *must* be correct, or the collective intelligence of a group will actually be *worse* than any individual person.
+
+- Many of the worst [evils](morality-evil.md) in the world, including [bad institutions](mgmt-badsystems.md), come from these dysfunctional circumstances.
+
+To make "smart groups", the following conditions must be present:
+
+1. Diverse opinions
+   - The opinions and [education](education.md) among the members is diverse, which will represent more often as [disagremeents](people-conflicts-disagreements.md) than [consensus](people-conflicts-negotiation.md).
+2. Independence
+   - Each person is capable of thinking and acting as independently as they wish.
+3. Decentralization
+   - The group has limited personal contact and [influence](power-influence.md) with each other (thereby preventing similar [bias](mind-bias.md)).
+4. Aggregation
+   - Everyone recognizes approximately the same problem, even if not everyone understands it.
+   - There is a legitimate answer to the problem, even if the crowd doesn't know it yet.
+   - Most of the group [morally](morality.md) shares some degree of noble [purpose](purpose.md).
+
+In general, larger groups are better for this arrangement.
+
+- However, they are more difficult to maintain because their increased [power](power.md) means they'll shift from exploration to exploitation and become [a bad system](mgmt-badsystems.md).
+
+Maintaining this arrangement is *far* more difficult than it sounds:
+
+1. Over time, most [personalities](people-personality.md) are higher-agreeableness, which focuses more on lousy consensus than on what is true.
+2. The natural tendency for more [control](power.md) by leaders guarantees at least some tyranny over time that stops minority views.
+3. Most people seek more connection and validation with others, which creates shared bias over time.
+4. As the group achieves collective goals, the new goals will often diverge from prior goals and create schisms.
+
 ## Leading
 
 [Leadership](mgmt-1_why.md) is nothing more than [making decisions](mind-decisions.md) that affect a group.
 
-People tend to give power to leaders proportional to how much they [trust](mind-trust.md) that leader's decisions over their own. That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they [trust](mind-trust.md) that leader to stay [moral](morality.md). This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
+People tend to give power to leaders proportional to how much they [trust](mind-trust.md) that leader's decisions over their own.
+
+- That trust comes from how much [power](power.md) they [see](people-image-why.md) from the leader and how much they trust that leader to stay [moral](morality.md).
+- This trust comes from how the information they [*don't* know](unknown.md) about other things, time constraints, and [how much they like](people-friends.md) the other group members.
+
+The less pleasant framing of this represents in free societies where the leader was appointed (and not merely a [tyrant](power-types.md)).
+
+- Most people are simply too [afraid](mind-feelings-fear.md) to make their own [decisions](mind-decisions.md) with the full impact of their responsibility hitting them.
+- Therefore, people delegate their decision to leaders they trust, with the expectation that the leader will do what they [predict](mind-imagination.md).
+- The result is a win/win for most scenarios:
+  - If the leader acts according to their wishes and [succeeds](success-1_why.md), people can BIRG (bask in reflected glory) and feel satisfied in their leader's future performance.
+  - if the leader acts according to their wishes and fails, they can either [project hatred](mind-feelings.md) of their own regret or be [grateful](mind-feelings-happiness-gratitude.md) they didn't take that decision themselves.
+  - If the leader acts *against* their wishes and succeeds, they will *heavily* trust that leader (often at risk of slowly adapting to [a cult mindset](people-culture-cults.md)).
+- And, if the leader acts against their wishes and *fails*, they'll take out their [anger](mind-feelings-anger.md) against that leader and eject them from that group.
+  - When the leader is [influential enough](power-influence.md), their rejection/exile can often create [severe large group conflicts](people-conflicts-war.md).
+  - Most factions and [organizational change](mgmt-7_changes.md) are due to someone getting kicked out of a group.
+- This arrangement means that every single group, no matter how [democratic](politics-systems.md), will have to have [leaders](mgmt-1_why.md) who decide things.
 
 Politically, every group starts as a type of [dictatorship](politics-systems.md), then diverges into another form as more people adapt clear roles.
 

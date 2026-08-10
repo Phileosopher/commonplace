@@ -49,6 +49,7 @@ Naturally, some of these things aren't reasonable for your situation, and some a
   - [ ] Screwdrivers
   - [ ] Channel-locks
   - [ ] Crescent wrench
+  - [ ] Basic wrench set
   - [ ] Several sets of pliers
   - [ ] Heavy flashlight
   - [ ] Multi-tool
@@ -69,6 +70,8 @@ Naturally, some of these things aren't reasonable for your situation, and some a
   - [ ] Extra cell phone charger
   - [ ] Portable air compressor or tire inflator
   - [ ] Extra windshield wipers
+  - [ ] Spare tire and jack
+  - [ ] Tow strap
 - Multi-use supplies
   - [ ] Zip ties
   - [ ] Trash bags

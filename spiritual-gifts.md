@@ -3,17 +3,17 @@
 
 God gives every Christian spiritual gifts, which Christians are personally [responsible](meaning.md) to manage.
 
-Understanding our gifts is a critical component of developing our [Christian identity](people-identity.md) ([1 Corinthians 12-14](https://biblehub.com/1_corinthians/12.htm), [Ephesians 4:1-16](https://biblehub.com/ephesians/4.htm), [Romans 12:1-8](https://biblehub.com/romans/12.htm), [1 Peter 4:7-11](https://biblehub.com/1_peter/4.htm)).
+Understanding our gifts is a critical component of developing our [Christian identity](people-identity.md) (1 Corinthians 12-14, Ephesians 4:1-16, Romans 12:1-8, 1 Peter 4:7-11).
 
-The Body of Christ is one unit with many parts, not merely a diverse [group](groups-small.md) that meets together ([1 Corinthians 12:12](https://biblehub.com/1_corinthians/12-12.htm)).
+The Body of Christ is one unit with many parts, not merely a diverse [group](groups-small.md) that meets together (1 Corinthians 12:12).
 
-- *Every* believer is equally essential, and every spiritual gift has its time and place ([Ecclesiastes 3:1-8](https://biblehub.com/ecclesiastes/3.htm)).
+- *Every* believer is equally essential, and every spiritual gift has its time and place (Ecclesiastes 3:1-8).
 
-The Holy Spirit gives us our spiritual gifts ([James 1:17](https://biblehub.com/james/1-17.htm)).
+The Holy Spirit gives us our spiritual gifts (James 1:17).
 
-- Our spiritual gifts come through Christ, *never* ourselves ([John 15:5](https://biblehub.com/john/15-5.htm)).
-- We can't change, improve, or create them apart from [His will](god-will.md) ([1 Corinthians 12:4-6, 11](https://biblehub.com/1_corinthians/12.htm)).
-- We *should* desire useful gifts that build Christ's Body ([1 Corinthians 12:31](https://biblehub.com/1_corinthians/12-31.htm), [13:5](https://biblehub.com/1_corinthians/13-5.htm), [13:12](https://biblehub.com/1_corinthians/13-12.htm)).
+- Our spiritual gifts come through Christ, *never* ourselves (John 15:5).
+- We can't change, improve, or create them apart from [His will](god-will.md) (1 Corinthians 12:4-6, 11).
+- We *should* desire useful gifts that build Christ's Body (1 Corinthians 12:31,13:5,13:12).
 
 ## Classifications
 
@@ -21,40 +21,40 @@ While all gifts come from the Holy Spirit, He's given four context-specific type
 
 A. Church position gifts
 
-- Given to the New Testament Church collectively, not individuals ([Ephesians 4:1-18](https://biblehub.com/ephesians/4.htm)).
+- Given to the New Testament Church collectively, not individuals (Ephesians 4:1-18).
 - They [symbolically](symbols.md) reflect positions Jesus gave to help people grow the Church into a unified Body.
 
 B. Situational gifts
 
-- Given as God sees as appropriate for specific situations ([1 Corinthians 12:7-11](https://biblehub.com/1_corinthians/12.htm)).
+- Given as God sees as appropriate for specific situations (1 Corinthians 12:7-11).
 - God freely gives situational gifts when we're fully surrendered to Him and request them in prayer.
 - Situational gifts can magnify absolutely *anything* a human can already do, so there's no way to reliably categorize them.
 
 C. Sign gifts
 
-- Given specifically to the Apostles to start the first-century Church ([1 Corinthians 12-14](https://biblehub.com/1_corinthians/12.htm)).
+- Given specifically to the Apostles to start the first-century Church (1 Corinthians 12-14).
 - Sign gifts are situational gifts, but with *much* more power and scope (the Apostles showed the most authority and power in *all* recorded history).
 - God gave sign gifts for two specific reasons:
-  1. To demonstrate the Apostles had the same spiritual power as Jesus to prove their discipleship under the risen Christ ([Acts 2:22](https://biblehub.com/acts/2-22.htm), [2:43](https://biblehub.com/acts/2-43.htm), [5:12-16](https://biblehub.com/acts/5.htm)).
-  2. To give authority to demonstrate divine revelation until [God's Scriptures](theology-bible.md) were finished, systematically arranged, and declared absolute ([John 17:13-17](https://biblehub.com/john/17.htm), [Revelation 22:18-20](https://biblehub.com/revelation/22.htm)).
+  1. To demonstrate the Apostles had the same spiritual power as Jesus to prove their discipleship under the risen Christ (Acts 2:22,2:43,5:12-16).
+  2. To give authority to demonstrate divine revelation until [God's Scriptures](theology-bible.md) were finished, systematically arranged, and declared absolute (John 17:13-17, Revelation 22:18-20).
 - Several types of signs proved the Apostles' authenticity:
-  1. Sign healing restored limbs and resurrected the dead ([Acts 3:1-10](https://biblehub.com/acts/3.htm), [Acts 9:37-40](https://biblehub.com/acts/9.htm), [Acts 20:9-12](https://biblehub.com/acts/20.htm)).
-  2. Sign miracles looked similar to Old Testament miracles, with various powers ranging from protecting a ship's crew to surviving death from a poisonous snake ([Acts 27:31](https://biblehub.com/acts/27-31.htm),[44](https://biblehub.com/acts/27-44.htm), [Acts 28:3-6](https://biblehub.com/acts/28.htm)).
-  3. Sign revelation was through an Apostle who gave the same authority and accuracy as Scripture ([1 John 4:1-3](https://biblehub.com/1_john/4.htm)).
-     - Sign prophecy had so much authority that it became the New Testament ([2 Peter 1:20-21](https://biblehub.com/2_peter/1.htm)).
-     - Sign tongues was the ability to speak in unlearned languages that others knew ([Acts 2:4-11](https://biblehub.com/acts/2.htm)).
+  1. Sign healing restored limbs and resurrected the dead (Acts 3:1-10, Acts 9:37-40, Acts 20:9-12).
+  2. Sign miracles looked similar to Old Testament miracles, with various powers ranging from protecting a ship's crew to surviving death from a poisonous snake (Acts 27:31,44,28:3-6).
+  3. Sign revelation was through an Apostle who gave the same authority and accuracy as Scripture (1 John 4:1-3).
+     - Sign prophecy had so much authority that it became the New Testament (2 Peter 1:20-21).
+     - Sign tongues was the ability to speak in unlearned languages that others knew (Acts 2:4-11).
 
 D. Motivational gifts
 
 - Most references to spiritual gifts among Christians refer to motivational gifts.
-- Unlike the other gifts, God gives motivational gifts to every Christian of every age to assist in individual, specially appointed [purposes](purpose.md) ([Romans 12:1-8](https://biblehub.com/romans/12.htm)).
+- Unlike the other gifts, God gives motivational gifts to every Christian of every age to assist in individual, specially appointed [purposes](purpose.md) (Romans 12:1-8).
 - God designed our motivations from our birth to build up and ultimately [strengthen](power.md) Church members.
 - Motivational gifts show the Holy Spirit's continuous, persistent drive through our [personalities](people-personality.md).
 - The gifts usually start with simple [desires](purpose.md), but create supernatural results.
 
 ## Motivational gifts come directly from our personalities
 
-Teaching wants to dive into the intricacies of God's Word to precisely and thoroughly communicate its findings to others ([Romans 12:7](https://biblehub.com/romans/12-7.htm)):
+Teaching wants to dive into the intricacies of God's Word to precisely and thoroughly communicate its findings to others (Romans 12:7):
 
 - High openness to experience personality, especially regarding intellect.
 - Tends to disregard the formalities of a teaching setting.
@@ -67,7 +67,7 @@ Teaching wants to dive into the intricacies of God's Word to precisely and thoro
 - Consistently improves their teaching method to help people understand more clearly.
 - People influenced by them feel a greater sense of understanding.
 
-Prophecy/declaration wants to declare God's Word to others boldly, uncompromised, and without corruption ([Romans 12:6](https://biblehub.com/romans/12-6.htm), [1 Peter 4:11](https://biblehub.com/1_peter/4-11.htm)):
+Prophecy/declaration wants to declare God's Word to others boldly, uncompromised, and without corruption (Romans 12:6, 1 Peter 4:11):
 
 - High neuroticism and low agreeableness personality.
 - Determined to find and clarify righteousness and confront evil.
@@ -79,7 +79,7 @@ Prophecy/declaration wants to declare God's Word to others boldly, uncompromised
 - Depends on biblical authority when speaking and communicates with an attitude of "thus says the Lord".
 - People influenced by them have more clarity about God's perspective on a matter.
 
-Exhortation/encouragement wants to encourage and develop others to God's desired role for them ([Romans 12:8](https://biblehub.com/romans/12-8.htm)):
+Exhortation/encouragement wants to encourage and develop others to God's desired role for them (Romans 12:8):
 
 - High agreeableness personality.
 - Determined to encourage and build up others through communicating the content and principles of God's word.
@@ -91,7 +91,7 @@ Exhortation/encouragement wants to encourage and develop others to God's desired
 - Frustrated with teaching and truth that seems impractical or difficult to translate into Christian growth and inspiration.
 - People influenced by them feel better and stronger after the discussion.
 
-Serving wants to meet others' needs with very little self-interested consideration ([Romans 12:7](https://biblehub.com/romans/12-7.htm), [1 Corinthians 12:28](https://biblehub.com/1_corinthians/12-28.htm)):
+Serving wants to meet others' needs with very little self-interested consideration (Romans 12:7, 1 Corinthians 12:28):
 
 - High conscientiousness and low openness to experience personality.
 - Determined to help others by meeting their practical needs.
@@ -101,7 +101,7 @@ Serving wants to meet others' needs with very little self-interested considerati
 - Loves serving without any recognition, especially when it helps leaders.
 - People influenced by them feel touched by their selfless work.
 
-Giving wants to take care of others' material needs without praise, as a challenge to others, and without fear of financial consequences ([Romans 12:8](https://biblehub.com/romans/12-8.htm), [2 Corinthians 9:10-11](https://biblehub.com/2_corinthians/9.htm)).
+Giving wants to take care of others' material needs without praise, as a challenge to others, and without fear of financial consequences (Romans 12:8, 2 Corinthians 9:10-11).
 
 - High conscientiousness and high openness to experience personality.
 - Sensitive to the material needs of others and for God's work.
@@ -113,7 +113,7 @@ Giving wants to take care of others' material needs without praise, as a challen
 - Wants to lead others to give through example.
 - People influenced by them will have physical needs met, though they might not know where or how someone could have known.
 
-Mercy wishes to comfort heartbroken, grieving, exploited, and downtrodden people ([Romans 12:8](https://biblehub.com/romans/12-8.htm)):
+Mercy wishes to comfort heartbroken, grieving, exploited, and downtrodden people (Romans 12:8):
 
 - High agreeableness and high neuroticism personality.
 - Determined to reach out to suffering people.
@@ -124,7 +124,7 @@ Mercy wishes to comfort heartbroken, grieving, exploited, and downtrodden people
 - Aches inwardly for others, sometimes to the point of crying when hearing of others who were hurt.
 - People influenced by them feel accepted and comforted that someone else understands what they're experiencing.
 
-Ruling/administration wants to order, organize, lead, and manage the Church's affairs ([Romans 12:8](https://biblehub.com/romans/12-8.htm), [1 Corinthians 12:28](https://biblehub.com/1_corinthians/12-28.htm)):
+Ruling/administration wants to order, organize, lead, and manage the Church's affairs (Romans 12:8, 1 Corinthians 12:28):
 
 - High conscientiousness and low openness to experience personality.
 - Wants to see things done in an orderly, efficient way
@@ -137,7 +137,7 @@ Ruling/administration wants to order, organize, lead, and manage the Church's af
 - Willing to carry out plans others have created.
 - People influenced by them are amazed at how smooth and well-organized things run.
 
-Faith wants to implicitly, radically trust God in every situation and lead at showing God's trustworthiness ([1 Corinthians 12:8](https://biblehub.com/1_corinthians/12-8.htm)):
+Faith wants to implicitly, radically trust God in every situation and lead at showing God's trustworthiness (1 Corinthians 12:8):
 
 - High openness to experience and high neuroticism personality.
 - Doesn't waver at overwhelming obstacles or contrasting evidence.
@@ -156,8 +156,8 @@ A group of believers is eating at a table when someone drops an expensive gravy 
 
 - SERVING grabs a towel and rushes to clean up the mess.
 - RULING/ADMINISTRATION directs someone to get a mop, someone else to get a bucket of hot, soapy water, and a third person to help move the table while explaining the need to get to the spots on the floor.
-- EXHORTATION/ENCOURAGEMENT informs the person how we all have accidents, how they all know he didn't mean to drop it, then shares how God will make it work for the best ([Romans 8:28](https://biblehub.com/romans/8-28.htm)).
-- PROPHECY/DECLARATION will share how man is born for trouble as surely as sparks fly upward ([Job 5:7](https://biblehub.com/job/5-7.htm)).
+- EXHORTATION/ENCOURAGEMENT informs the person how we all have accidents, how they all know he didn't mean to drop it, then shares how God will make it work for the best (Romans 8:28).
+- PROPHECY/DECLARATION will share how man is born for trouble as surely as sparks fly upward (Job 5:7).
 - MERCY will empathize on how it ruined the suit and how embarrassing and disappointing that person must feel.
 - FAITH will pray with the person for a new outfit and new gravy dish, and encourage the person that God will provide.
 - GIVING will slip an envelope under the table with a hundred-dollar bill and an encouraging note.
@@ -178,13 +178,13 @@ Misused teaching can make someone an intellectual snob:
 - Desiring study and knowledge can become intellectual or doctrinal pride.
 - Knowing God's Word can create a critical attitude to generally unteachable or less intelligent people.
 - The desire to know things in-depth can become an obsession with unimportant Scriptural details with little practical value.
-- Knowledge of Scripture can start useless arguments ([2 Timothy 2:23](https://biblehub.com/2_timothy/2-23.htm)).
+- Knowledge of Scripture can start useless arguments (2 Timothy 2:23).
 
 Misused prophecy/declaration can make someone a jerk:
 
 - Revelations can bluntly hurt others without love.
 - Can become self-righteous by clarifying evil to others while overlooking personal shortcomings.
-- The desire to see sin judged can lead to them assuming that role instead of God ([Psalm 50:6](https://biblehub.com/psalms/50-6.htm)).
+- The desire to see sin judged can lead to them assuming that role instead of God (Psalm 50:6).
 - The desire for things to be either right or wrong can blind them to other relevant factors, circumstances, or motivations.
 
 Misused exhortation/encouragement can make someone a flake:
@@ -204,7 +204,7 @@ Misused serving can make someone a guilt-tripper:
 Misused giving can make someone a power-monger:
 
 - They might try to control or abuse power with their ability to finance.
-- Their pride might look for recognition in giving and will lose their reward with God ([Matthew 6:5](https://biblehub.com/matthew/6-5.htm)).
+- Their pride might look for recognition in giving and will lose their reward with God (Matthew 6:5).
 - They might become bitter at people that consistently ask for money instead of joyfully handling the inevitable result of their gift.
 - Their material blessings from God may sway them to greed, attachment to material things or wasteful living.
 
@@ -235,7 +235,7 @@ There are spiritual motivational gifts inventories, but it's not reasonable to a
 
 - It's entirely possible God may give spiritual gifts to people as they require, without any precedent or classification.
   - God can use talent in any capacity He wants, in any season He wants.
-  - For example, Samson technically had a spiritual gift of "physical strength" ([Judges 13-16](https://biblehub.com/judges/13.htm)) and Solomon was technically gifted with "wisdom".
+  - For example, Samson technically had a spiritual gift of "physical strength" (Judges 13-16) and Solomon was technically gifted with "wisdom".
   - God may gift someone with a tremendous ability to operate a vehicle for a long time, file paperwork, clean a room, or operate a computer.
 - If you simply keep showing up to [fulfill needs](church-serve.md) as God leads, you'll discover them without trying.
 - While there are a few staple gifts articulated here (e.g., teaching, prophecy), that's *not* all the motivational gifts.
@@ -251,18 +251,18 @@ More walking with God will create a feedback loop of more desire to exercise tha
 
 ## God has a reason for spiritual gifts
 
-[Love](people-love.md) should be the *only* motivation for any of the gifts ([1 Corinthians 12:7](https://biblehub.com/1_corinthians/12-7.htm), [12:31-13:3](https://biblehub.com/1_corinthians/12.htm)).
+[Love](people-love.md) should be the *only* motivation for any of the gifts (1 Corinthians 12:7, 12:31-13:3).
 
-- Christian love is to concern yourself for someone else's well-being more than yours ([1 Corinthians 13:3-7](https://biblehub.com/1_corinthians/13.htm)).
-- Genuine love requires freedom from [unconfessed sin](theology-sins.md), being filled with the Holy Spirit, and openness for God to use your motivational gifts ([1 Thessalonians 5:19-20](https://biblehub.com/1_thessalonians/5.htm)).
-- God has created all the spiritual gifts, uses all of them, and should always receive praise from their use ([Colossians 1:15-18](https://biblehub.com/colossians/1.htm)).
+- Christian love is to concern yourself for someone else's well-being more than yours (1 Corinthians 13:3-7).
+- Genuine love requires freedom from [unconfessed sin](theology-sins.md), being filled with the Holy Spirit, and openness for God to use your motivational gifts (1 Thessalonians 5:19-20).
+- God has created all the spiritual gifts, uses all of them, and should always receive praise from their use (Colossians 1:15-18).
 
-The whole purpose of spiritual gifts is to benefit the [Body of Christ](church.md) as a whole ([1 Corinthians 12:12-20](https://biblehub.com/1_corinthians/12.htm), [Ephesians 4:16](https://biblehub.com/ephesians/4-16.htm)).
+The whole purpose of spiritual gifts is to benefit the [Body of Christ](church.md) as a whole (1 Corinthians 12:12-20, Ephesians 4:16).
 
-- Assuming people use them correctly, every church has *more* than enough gifts to do what God wants ([1 Corinthians 1:4-7](https://biblehub.com/1_corinthians/1.htm), [Ephesians 4:7-13](https://biblehub.com/ephesians/4.htm)).
+- Assuming people use them correctly, every church has *more* than enough gifts to do what God wants (1 Corinthians 1:4-7, Ephesians 4:7-13).
 
 Boldly use your gifts with authority.
 
-- God will clarify if you've behaved wrongly ([Romans 12:6-8](https://biblehub.com/romans/12.htm)).
-- As you mature in Christ, your spiritual gifts will grow along with more and better gifts ([1 Corinthians 13:11-13](https://biblehub.com/1_corinthians/13.htm), [1 Corinthians 14:20-21](https://biblehub.com/1_corinthians/14.htm), [Ephesians 4:14-15](https://biblehub.com/ephesians/4.htm)).
-- Using our spiritual gifts is time-critical in our [present age](theology-end.md) ([1 Peter 4:7-11](https://biblehub.com/1_peter/4.htm)).
+- God will clarify if you've behaved wrongly (Romans 12:6-8).
+- As you mature in Christ, your spiritual gifts will grow along with more and better gifts (1 Corinthians 13:11-13, 1 Corinthians 14:20-21, Ephesians 4:14-15).
+- Using our spiritual gifts is time-critical in our [present age](theology-end.md) (1 Peter 4:7-11).

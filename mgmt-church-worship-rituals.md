@@ -3,8 +3,8 @@
 
 Most of the conventions that make a "typical" church are borrowed from a few source traditions:
 
-1. The Hebrew temple had many traditions established (many of them from [Levitical law](https://biblehub.com/leviticus/1.htm)).
-2. After the Temple fell in [2 Kings 24:10-14](https://biblehub.com/2_kings/24.htm), the Hebrew people maintained their worship by adapting the rituals for synagogue "mini-Temples", which included many rituals *not* in Hebrew law.
+1. The Hebrew temple had many traditions established (many of them from Levitical law).
+2. After the Temple fell in 2 Kings 24:10-14, the Hebrew people maintained their worship by adapting the rituals for synagogue "mini-Temples", which included many rituals *not* in Hebrew law.
 3. New followers of Christ [imitated synagogue tradition](history-church.md) (mostly) and added their own adaptations.
 4. As Gentiles arrived, some traditions were removed or permuted to accommodate non-Hebrews.
 5. By approximately 200 AD, the Catholic Church later codified and standardized those traditions.
@@ -33,7 +33,7 @@ Each denomination derives a certain form of [meaning](meaning.md) over rituals b
 To that end, this is an attempt to indicate all the ways you *could* do church.
 
 - You can, however, apply any Bible verses about living well on an individual level to make new rituals and sacraments, which will likely spin into [a different denomination](history-church.md) over time.
-- A church should develop its own creativity in discovering new ways to live more like Christ ([Hebrews 10:24-25](https://biblehub.com/hebrews/10.htm)).
+- A church should develop its own creativity in discovering new ways to live more like Christ (Hebrews 10:24-25).
 
 Therefore, while most of the essays here use Bible citations, this page doesn't call for an exhaustive listing.
 
@@ -41,10 +41,10 @@ Therefore, while most of the essays here use Bible citations, this page doesn't 
 
 None of the following are technically "necessary" for any salvation-based matters.
 
-- The Bible makes it clear that God saves us, not the way we conduct our rituals ([Ephesians 2:8-9](https://biblehub.com/ephesians/2.htm)).
+- The Bible makes it clear that God saves us, not the way we conduct our rituals (Ephesians 2:8-9).
 - Instead, a ritual's purpose is the same as any other [spiritual exercise](spiritual-exercises.md): to create a [habitual rhythm](habits.md) that fosters [virtuous living](morality.md).
 - Religious observance also creates a type of [group cohesion](values.md) through a [shared purpose](purpose.md).
-- However, *not* everyone works the same way, and [each person must travel their own pathway](https://theologos.site/devotion-chaos/) ([1 Corinthians 8](https://biblehub.com/1_corinthians/8.htm), [Romans 14:1-12](https://biblehub.com/romans/14.htm)).
+- However, *not* everyone works the same way, and [each person must travel their own pathway](https://theologos.site/devotion-chaos/) (1 Corinthians 8, Romans 14:1-12).
 
 To make it simpler for the specific rituals, there's a clarification legend throughout this body of text:
 
@@ -72,9 +72,9 @@ P: Typically not used in most denominations except [Pentecostal](history-church.
 
 ### Baptism
 
-A [symbol](symbols.md) of our spiritual baptism in Christ, and commanded by Scripture ([1 Peter 3:21](https://biblehub.com/1_peter/3-21.htm)).
+A [symbol](symbols.md) of our spiritual baptism in Christ, and commanded by Scripture (1 Peter 3:21).
 
-- Water baptism doesn't give salvation, but does show it to the world ([Luke 23:29-43](https://biblehub.com/luke/23.htm)).
+- Water baptism doesn't give salvation, but does show it to the world (Luke 23:29-43).
   - Most churches that baptize will stress the significance of baptism.
 - The water can be by immersion or sprinkling.
   - Immersion symbolizes the complete end of one's [identity](people-identity.md) as part of this world.
@@ -98,7 +98,7 @@ P: While there's no ritual for Protestants, they honor someone's private prayer 
 
 The elements include a type of bread representing Christ's bodily sacrifice and grape juice or wine to represent covering our sins with His blood.
 
-- Irrespective of its meaning, communion is Jesus' command ([John 6:53-58](https://biblehub.com/john/6.htm)).
+- Irrespective of its meaning, communion is Jesus' command (John 6:53-58).
 
 Elements
 
@@ -118,7 +118,7 @@ Routine
     - The timing of *when* this happens differs between Catholic and Eastern Orthodox.
   - P: a prayer and meditative song.
 - C: The Lord's Prayer
-  - Reciting the Lord's Prayer ([Matthew 6:9-13](https://www.biblehub.com/matthew/6.htm)).
+  - Reciting the Lord's Prayer (Matthew 6:9-13).
 - C: Sign/Rite of Peace
   - The leader prays for Jesus' peace to fill everywhere.
 - Fraction Rite/Lamb of God
@@ -127,13 +127,13 @@ Routine
   - I: the people go to the bread and break it off themselves
 - Communion
   - C: an acknowledgment that nobody is worthy to receive the gift, then the leader takes it, followed by the people
-  - P: a recitation of the Bible verse saying to consume the elements ([Matthew 26:26-28](https://www.biblehub.com/matthew/26.htm))
+  - P: a recitation of the Bible verse saying to consume the elements (Matthew 26:26-28)
 - C: Prayer after Communion
   - A request that the benefits of the communion will remain active in daily life later.
 
 ### Penance/confession
 
-Asking for forgiveness of [sins](theology-sins.md) under Christ's atonement ([James 5:16](https://biblehub.com/james/5-16.htm)).
+Asking for forgiveness of [sins](theology-sins.md) under Christ's atonement (James 5:16).
 
 C: Confession is performed by a congregant with a church leader.
 
@@ -143,7 +143,7 @@ P: Most don't perform *any* type of confession, but usually imply it can be a pr
 
 Ceremonies are frequently performed in churches.
 
-- Marriage ceremonies show a man and woman's union symbolizing how Christ will someday unite with the Church ([Ephesians 5:25-27](https://biblehub.com/ephesians/5.htm), [Revelation 19:6-9](https://biblehub.com/revelation/19.htm)).
+- Marriage ceremonies show a man and woman's union symbolizing how Christ will someday unite with the Church (Ephesians 5:25-27, Revelation 19:6-9).
 
 While all Christians agree with the marriage ceremony, the details vary tremendously.
 
@@ -174,7 +174,7 @@ Giving blessing, healing, or authority with physical contact.
 
 A 2-3 hour period of time before the Eucharist/communion for believers to [seek reconciliation](hardship-forgiveness.md).
 
-Inspired by Jesus' command to leave your gift at the altar and find closure first ([Matthew 5:23-24](https://biblehub.com/matthew/5.htm)).
+Inspired by Jesus' command to leave your gift at the altar and find closure first (Matthew 5:23-24).
 
 P: Only practiced occasionally, if at all.
 
@@ -222,7 +222,7 @@ Routine
 Conditional Routines - Sundays and solemn days
 
 - C: Glory to God
-  - After the Penitential Act, everyone sings "Glory to God in the Highest" ([Luke 2:14](https://biblehub.com/luke/2-14.htm)).
+  - After the Penitential Act, everyone sings "Glory to God in the Highest" (Luke 2:14).
 - Baptism (see below)
   - C: a separate ritual altogether, with rituals surrounding it.
   - P: a standalone ritual as part of the Introduction.
@@ -262,7 +262,7 @@ Conditional Routines - Sundays and solemn days
 
 ### C. Eucharist/communion
 
-A sacrament involving eating and drinking to [symbolize](symbols.md) Jesus' sacrifice (see above) ([Luke 22:19-20](https://biblehub.com/luke/22.htm)).
+A sacrament involving eating and drinking to [symbolize](symbols.md) Jesus' sacrifice (see above) (Luke 22:19-20).
 
 - While its basis does vary dramatically, the ritual *must* be distinguished as for believers only.
 

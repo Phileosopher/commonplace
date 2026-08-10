@@ -3,7 +3,7 @@
 
 Most of the content regarding our political completed state has been covered in [the Millennial Kingdom essay](https://theologos.site/millennium/).
 
-God created the *entire universe* for a relationship with man ([Genesis 1-2](https://biblehub.com/genesis/1.htm)).
+God created the *entire universe* for a relationship with man (Genesis 1-2).
 
 - The first 5 days were a constructive framework that built on itself:
     1. [Reality itself and its fundamental laws](reality.md), which could likely be something involving Him separating Himself from omnipresence to form the universe

@@ -320,7 +320,7 @@ While a dividend is considered income that goes to the shareholders, a share rep
 The nominal value of a share, when it's first issued, establishes its initial public offering (IPO).
 
 - That IPO value *will* move around (meaning its value isn't *that* utterly important), but it generally represents a dramatic shift in the way a company operates and indicates the first time the public can purchase it.
-- The listing requirements for IPOs are a [legal domain](glossary-legal-ac.md) that falls *way* outside the range of accounting.
+- The listing requirements for IPOs are a [legal domain](people-contracts.md) that falls *way* outside the range of accounting.
 
 ### Stock markets
 

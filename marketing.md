@@ -189,7 +189,7 @@ Customer desires vary in intensity:
 3. Engagement - things that grab customer attention throughout the experience (the stickiness factor)
    - Customers must see the product as unconventional, unexpected, and contrary to prior wisdom for it to "stick".
 
-A huge part of conveying the meaning comes down to [brand management](marketing-brand.md)
+A huge part of conveying the meaning comes down to [brand management](marketing-brand.md).
 
 ### Base motivations
 
@@ -240,6 +240,15 @@ The product itself:
 
 - 85% of buyers choose a product on color alone.
 - 93% of buyers care about a product's visual appearance.
+- There are some general psychological associations with each color:
+  - Black represents dominance and mystery (like darkness).
+  - Red represents danger (like biological warnings).
+  - White represents innocence.
+  - Violet represents luxury or royalty.
+  - Green represents relaxation (like plants).
+  - Yellow represents optimism (like the sun).
+  - Blue represents trust (like water).
+  - Pink represents playfulness and kindness.
 - Typical spenders (~61% of the people) often prefer pink or sky blue (e.g., clothing stores).
 - Cheap spenders (~24% of the people) often prefer navy blue and teal (e.g., banks and department stores).
 - Irresponsible spenders (~15% of the people) often prefer orange, blue, or black (e.g., malls, clearance sales, and fast food).
@@ -371,6 +380,11 @@ The simplest ways to detect marketing abuse are by observing "glittering general
   - The job called Secretary is advanced to Administrative Assistant and then Office Coordinator.
   - A person advancing a controversial, [fashionable](people-trends.md) idea is called a hero, then a martyr if other people disagree.
   - An antagonist is first backwards, then a bigot, then a racist.
+
+Since people naturally steer away from marketing abuse, most marketing firms employ native advertising, which is advertising that's "natively" included with media getting paid for it.
+
+- This is a major deception, since native ads are essentially ads pretending to be part of the experience.
+- People are often familiar with product placement in films, but this can also include news stories that connect with a product, [not-for-profits](mgmt-npo.md) funded by corporations, and entire [educational institutions](education.md) founded for corporate interests.
 
 Within a few years, people will detect *any* mass-marketing or [image manipulation](people-image-distortion.md) tactic and will learn to disregard it.
 

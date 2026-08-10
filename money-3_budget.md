@@ -60,6 +60,15 @@ If you have [children](parenting-children.md), involve them in the meetings to t
 
 ## Start with the big picture
 
+No matter what, you'll likely only ever need 6 financial accounts:
+
+- Checking account which never has more than 1-2 months' worth of expenses in it
+- High yield savings account (at least 3-4% interest) with no more than 1-2 months' worth of expenses in it
+- Taxable brokerage account, which allows investing but also provides access before retirement age without penalties
+- Pre-tax 401(k) or traditional IRA, which allows lowering the tax bill for the present tax year
+- Roth IRA, which is taxed on the way in but comes out tax-free after retirement age
+- Health savings account, which is entirely untaxed for qualified medical expenses
+
 Managing wealth moves through a rough pattern of stages:
 
 A. Have an emergency fund (takes ~2-4 months):

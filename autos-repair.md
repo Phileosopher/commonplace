@@ -56,6 +56,25 @@ Only replace the tires when you need to.
 
 Buy the specialized tools you need, since a $200 tool is less than a $500 mechanic's repair, and you can use it later.
 
+Battery terminals with side posts need a bit more tightening than you may think, usually a few more rotations.
+
+If you hear a loud noise at random times and can't reproduce it, have one person open the door all the way and rock the car while the other person gets under the car.
+
+- From there, they can put their hand on a tie rod, sway bar bushing, or ball joint and feel for the noise.
+
+To safely push a car without touching the body, place the vehicle in neutral and push the top of the wheels.
+
+If a tire won't come off after all the lug nuts have been removed, loosely put one lug nut back on to prevent it from falling off, then strike the back of the rim itself.
+
+When a brake drum and rotor are stuck together, very carefully strike a hammer in between the studs.
+
+To take rivets off:
+
+1. Strike the center with a punch to knock out the center.
+2. Use a drill to fish the rivet out.
+
+In an emergency situation, you can strike a starter on the solenoid portion (the smaller cylinder) for it to run long enough to get it serviced.
+
 ## Technological Problems
 
 The newer design features in autos have created issues for many drivers:

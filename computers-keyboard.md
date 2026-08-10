@@ -106,11 +106,7 @@ Since the computer must read the entire [memory register](computers-memory.md) t
 
 This will probably move around based on the Unicode standard moving as well (new standard [every year](computers-software-versionctrl.md)), meaning the above example may become obsolete by the time you read this.
 
-## Graphical display
-
-Text, however, isn't simply an abstraction, and must [display in some fashion](engineering-graphics.md). There are many forms of typography available, and a set of characters that abide by that typographical rule is called a "font". Each font tends to include other formats as well of the characters, such as bold and italic.
-
-A font is either "monospaced" (where each character is using the same width) or "proportional" (where each character uses differing widths relative to the size of the letter). Monospaced fonts are still used frequently for what is known as "ASCII art", which uses different characters to portray a minimalist image, and [programmers](computers-programming.md) prefer monospaced because it makes it easier to read and [debug](computers-software-redesign.md) code.
+Text, however, isn't simply an abstraction, and must [display in some fashion](engineering-graphics.md), with many forms of [typography](language-writing-typography.md) available.
 
 ## Moving information
 

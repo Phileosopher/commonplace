@@ -144,6 +144,14 @@ The [philosophy educators](education.md) never kept up with the change in [trend
 
 APPLICATION: Most philosophy (as well as [theology](theology.md)) [educators](education.md) teach *about* philosophy, but fail to teach *with* philosophy or *how* to use philosophy.
 
+In fact, the average philosopher, at this point, represents the following traits according to social science:
+
+- While agnosticism is probably the highest form of religious philosophy, philosophers are more often than not religiously atheist.
+- Most people believe in the presence of a soul, but philosophers often don't.
+- Most of them understand that [science](science.md) can't answer existential questions about life, and philosophy education doesn't change that.
+- Most people have a relativistic moral structure, but philosophers almost always believe fixed truth exists.
+- Most people can't easily accept the idea of a [philosophical zombie](philosophy-paradoxes.md), but philosophers usually can.
+
 ## Power
 
 Philosophy is raw [power](power.md), like money or [understanding](mind-understanding.md) about the [stock market](money-investing.md). Like any other power, it's only useful if it builds toward something that ultimately *isn't* another version of more power.

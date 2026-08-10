@@ -33,6 +33,8 @@ Roman Catholic Ecumenical Council #21 in 1962-1965 - The Second Vatican Council,
 
 - Issued documents on renewing and reforming the Roman Catholic Church, especially with the new [technologies](technology.md) and [trends](people-trends.md)
 - Established the Mass in the language of its environment, instead of simply in Latin
+- Also known as Vatican II
+- This council was very controversial in many domains of Catholicism, especially with respect to the Latin mass
 
 The Shepherding Movement, or Discipleship Movement, was an effort in the 1970s and early 1980s by charismatic churches to create a unified cultural framework within the vast number of new house churches and small congregations that had recently arisen.
 

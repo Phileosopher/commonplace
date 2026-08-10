@@ -24,6 +24,10 @@ The line between work and pleasure is often very difficult to distinguish, so ke
 
 - Some public defamation can take *decades* to unfold (e.g., Sean Combs, Jeffrey Epstein).
 
+When undergoing any personal life changes (e.g., new [religion](religion.md), new [life stage](maturity.md)) fully own the change.
+
+- When you're popular enough, you must face the exact same social effect as if you were [running an organization](mgmt-7_changes.md).
+
 Don't let your agent run your life.
 
 - The agent's first interests are the agent's, and you'll have to live with whatever you've [decided](mind-decisions.md), long after the agent is gone.

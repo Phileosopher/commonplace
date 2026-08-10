@@ -30,11 +30,49 @@ Typically, in a modernized society, hackers only need *very* few pieces of infor
 
 - Someone's full name, date of birth, and social security number are enough to fraudulently get a new [credit card](money-2_debt.md), [get insurance](money-insurance.md), secure a loan, and many other activities.
 - A few pieces of information from social media can guess someone's [password](encryption.md) security questions.
+- A passport number alone could allow multiple things:
+  - Book an international flight as you
+  - Apply for anything that requires proof of identity documentation with the government (e.g. working with children)
+  - Activate a SIM card (and get an internet connection traceable to you, not them)
+  - Create fake physical passports from a template, with the correct passport number (which they can use for many things such as crossing a border or opening a bank account)
+- Without [multifactor authentication](computers-cysec-authentication.md), a password could allow someone to log in to a computer remotely or use that password/email combination on any other website.
+
+On average, it takes 800 hours to resolve identity fraud.
+
+- Good protection services will assign a counselor to clean up the mess.
+  - Excellent services will also include proper identity theft [insurance](money-insurance.md).
+- Don't get ID theft protection that only monitors credit reports, since several popular services (like [Credit Karma](https://www.creditkarma.com/) or the credit reporting company themselves) will monitor credit for free.
 
 "Sim swapping" is when a hacker can acquire a phone number's [two-factor authentication](computers-cysec-authentication.md) by authorizing a cell carrier with fraudulent information to migrate that phone number to another phone.
+
+## Victim profiles
+
+While the elderly are susceptible to scams and fraud, younger people are *more* susceptible to it.
+
+- This is because experience is the number one way to detect bad actors.
+
+## What to do
+
+In general, be *very* vigilant about all information you enter
+
+- Consider the worst possible way that information could be used.
+- Further, consider the secondary information that someone could derive with multiple pieces of that information.
+- For privacy's sake, assume that everything you've ever said on a phone call or message is public information.
+
+Even if a company is legitimate, your personal information is as safe as that company's server is safe from getting hacked.
+
+- In other words, a high-profile company *will* be hacked, not *when*.
+- In practical terms, it happens when someone accidentally left one setting selected on a computer somewhere, then one random (often teenage or incel) hacker found it.
 
 Callers can clone voice recordings.
 
 - If you're unsure of the number, let it go to voicemail, then look it up before calling them back.
 - If that individual might be someone you know, send them a text message to be sure.
-- If you *do* answer, expect them to use your voice to [train a machine learning algorithm](computers-ai-ml.md).
+- When you *do* answer, expect them to use your voice to [train a machine learning algorithm](computers-ai-ml.md).
+
+Do *not* enter your credit card info into something just because they need to "verify your age".
+
+Trust your instincts.
+
+- Many logins you could make will frequently seem legitimate, except they'll ask extra information.
+- You don't need to "make a login" for a public site (e.g., Wikipedia).

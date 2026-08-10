@@ -75,6 +75,21 @@ If you can, time your job-seeking for the optimal time of year:
 - Aim for summer jobs in May.
 - If it's an entry-level job, look in September when students go back to school.
 
+At the same time, pay attention to the [economy](money-economics.md).
+
+- New entrants to any [economically slow market](money-economics-downturn.md) face "trickle down layoffs":
+  1. For cost reasons, companies may lay off long-term experienced workers (e.g., 5 years in welding).
+  2. Those experienced workers will be desperate for any job and will pick up lower-experience jobs (e.g., 5-year welder picks up a "3 years experience required" job).
+  3. Workers with that lower level of experience will, in turn, pursue lower-range work, all the way down (e.g., 3-year welder picks up "1 year experience" job, 1-year welder picks up entry-level job).
+  4. New entrants won't have anywhere to work.
+     - This often magnifies itself because a downward economy is often the *motivation* for many people to [make a career change](jobs-1_why.md).
+- Generally, you will find more job security with things that connect with [the fallen state of man](morality-evil.md):
+  - Healthcare (since people [get sick](body-health.md) and [die](hardship-death.md))
+  - Law enforcement and lawyers (since people [break laws](legal-crimes.md))
+  - [Security](safety-security.md) and [cybersecurity](computers-cysec.md)
+  - [Debt](money-2_debt.md) collectors
+  - Social work and [mental health](mind-feelings.md) services
+
 ## Focus on your first impression
 
 The business world runs on first impressions, so always maintain your public image even when you're not job-seeking or at work.

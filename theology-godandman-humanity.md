@@ -1,42 +1,33 @@
 
 # Who people are according to the Bible
 
-Animals and plants, in a sense, possess a type of soul, but not like people ([Genesis 1:30](https://biblehub.com/genesis/1-30.htm)).
+Animals and plants, in a sense, possess a type of soul, but not like people (Genesis 1:30).
 
-[Man](humanity.md) is unique among all creatures, and God [created](creations.md) us in His image ([Genesis 1:26-27](https://biblehub.com/genesis/1.htm)).
+[Man](humanity.md) is unique among all creatures, and God [created](creations.md) us in His image (Genesis 1:26-27).
 
 - The nature of being an image of God defines why our essence can only ever become an [identity](people-identity.md) associated with [values](values.md) or association with a being, and never a value or full imitation of a being itself.
 - It also means that, as reflections of God, our value is contained strictly in how much we conform to [God's qualities](theology-god.md).
 
-We were *designed* to have a continuing relationship with God that compares to being adopted as children ([Ephesians 1:5](https://biblehub.com/ephesians/1.htm)).
+We were *designed* to have a continuing relationship with God that compares to being adopted as children (Ephesians 1:5).
 
 The reflection of His image gives us a type of inherent value, irrespective of what we [think of ourselves and others](people-identity.md).
 
 - God loves us more than anything else in all creation.
 - Since we are made in God's image, we are implicitly worthy of His love.
 
-We are uniquely special compared to *all* other created beings.
+We are uniquely special compared to *all* other created beings (Genesis 9:6, 2 Peter 2:12)
 
-- [Genesis 9:6](https://biblehub.com/genesis/9-6.htm)
-- [2 Peter 2:12](https://biblehub.com/2_peter/2-12.htm)
 - The Bible *never* indicates people are angels, spirit beings, or a part of [God](theology-god.md).
 
 Every person is a tripartite being with a body, a soul, and a spirit.
 
-- Jesus clearly had a body that was physically harmed.
-  - [John 20:27](https://biblehub.com/john/20-27.htm)
-- God is in essence a soul.
-  - [Leviticus 26:11](https://biblehub.com/leviticus/26-11.htm)
-  - [Psalm 11:5](https://biblehub.com/psalms/11-5.htm)
-  - [Isaiah 42:1](https://biblehub.com/isaiah/42-11.htm)
-- But, God is also a spirit.
-  - [John 4:24](https://biblehub.com/john/4-24.htm)
+- Jesus clearly had a body that was physically harmed (John 20:27).
+- God is in essence a soul (Leviticus 26:11, Psalm 11:5, Isaiah 42:1).
+- But, God is also a spirit (John 4:24).
 - The [secular world](https://gainedin.site/scientism/) mostly demarcates a type of body/soul/spirit distinction as the id, ego, and superego.
 
-To attain fullness in Christ, we must manage all three components of ourselves.
+To attain fullness in Christ, we must manage all three components of ourselves (Romans 12:1-2 1 Thessalonians 5:23).
 
-- [Romans 12:1-2](https://biblehub.com/romans/12.htm)
-- [1 Thessalonians 5:23](https://biblehub.com/1_thessalonians/5-23.htm)
 - We can only find true [meaning](meaning.md) when we've harmonized all three:
   1. Our spirit must be directed to [God's will](god-will.md) to recognize spiritual truths.
   2. We must submit our soul to our spirit in [understanding](mind-understanding.md) and applying spiritual truths.
@@ -49,8 +40,7 @@ The *exact* nature of these domains is at least somewhat expressed via Christian
   - As an official stance, Roman Catholicism holds a relatively vague view on the domains of the soul.
   - Eastern Orthodoxy groups us as "nous"/soul, word, and spirit, which has layers of nous/word/spirit inside each domain as well.
 - We can group the three based on a clear division
-- Technically, fully understanding our souls or spirits isn't worth the effort, since we will only see everything dimly in this life.
-  - [1 Corinthians 13:12](https://www.biblehub.com/1_corinthians/13-12.htm)
+- Technically, fully understanding our souls or spirits isn't worth the effort, since we will only see everything dimly in this life (1 Corinthians 13:12).
 - The domains of the soul become relatively clear for each person as they develop their [identity in Christ](people-identity.md).
   - In fact, it's entirely possible that each soul was designed differently enough that we can't completely [analyze](logic.md) them to build a reliable general case.
 
@@ -66,14 +56,12 @@ The body itself has three major functions, though they have been largely corrupt
 
 A. Nourishment - consuming something for the purpose of survival:
 
-- When perverted, we submit to "mammon" (the endless consumer), which represents by a person devouring or taking another's things, all the way down the spectrum to cannibalism.
-  - [Luke 16:9-13](https://biblehub.com/luke/16.htm)
+- When perverted, we submit to "mammon" (the endless consumer), which represents by a person devouring or taking another's things, all the way down the spectrum to cannibalism (Luke 16:9-13).
 - We can also pervert nourishment into reliance on [an idol](addiction.md).
 
 B. Reproduction - copulation for the purpose of [carrying one's essence onward](legacy.md):
 
-- When perverted, we desire further expansion beyond the [seasonal nature](people-trends.md) of our existence.
-  - [Ecclesiastes 3:1-8](https://biblehub.com/ecclesiastes/3.htm)
+- When perverted, we desire further expansion beyond the [seasonal nature](people-trends.md) of our existence (Ecclesiastes 3:1-8).
 - Reproduction can also be perverted toward desires to reproduce one's [power](power.md) and [methods](mind-understanding.md) upon others, attain a great [name](language.md) that persists for millennia, or polygamy.
 
 C. Defense - [protection](safety-riskmgmt.md) from bad things:
@@ -83,20 +71,16 @@ C. Defense - [protection](safety-riskmgmt.md) from bad things:
 We can be [scientifically precise](science.md) about all aspects of the body's functions, including the brain.
 
 - Anytime we form [habits or routines](habits.md), our body is in exclusive control.
-- The body isn't inherently evil or good, but our bodies and their [actions](results.md) were ultimately made for God.
-  - [1 Corinthians 6:13-20](https://biblehub.com/1_corinthians/6.htm)
-- We must restrain our bodies from a wide variety of lusts.
-  - [Romans 6:12](https://biblehub.com/romans/6-12.htm)
+- The body isn't inherently evil or good, but our bodies and their [actions](results.md) were ultimately made for God (1 Corinthians 6:13-20).
+- We must restrain our bodies from a wide variety of lusts (Romans 6:12).
 
 The body itself has absolutely *no* connection with the [unknown](unknown.md), but is the only way we [do things](results.md).
 
 On an action-by-action basis, the body's [morality](morality.md) is *not* evil all the time.
 
 - If presented with only good options, the body is perfectly capable of doing good things (that is, things that create good consequences), but will [sinfully](theology-sins.md) revert to immediate gratification if presented with a choice.
-- The only way to fight our tendencies toward impulse it through [habits](habits.md) programmed against those impulses.
-  - [Romans 13:14](https://biblehub.com/romans/13-14.htm)
-- People around us may be pleased with bodily actions, but God doesn't care for it.
-  - [Romans 8:8](https://biblehub.com/romans/8-8.htm)
+- The only way to fight our tendencies toward impulse it through [habits](habits.md) programmed against those impulses (Romans 13:14).
+- People around us may be pleased with bodily actions, but God doesn't care for it (Romans 8:8).
 
 There are a few traits of "fleshly" living:
 
@@ -104,9 +88,8 @@ There are a few traits of "fleshly" living:
 - Excessive consumption or activity: someone can live within the realm of extremes, such as too much food or too much exercise.
 - Self-indulgence: someone can find tremendous value by living "for the moment" with a [high-quality](values-quality.md) experience such as art, food, or experiencing media.
 
-We must treat our bodies like a wild beast that requires God's effort to tame, *not* like a despicable monster that deserves all condemnation.
+We must treat our bodies like a wild beast that requires God's effort to tame, *not* like a despicable monster that deserves all condemnation (Romans 8:1-15).
 
-- [Romans 8:1-15](https://biblehub.com/romans/8.htm)
 - The flesh itself was crucified in Christ, so we *do* have control over it, but must act on that knowledge.
 
 ## The Soul
@@ -130,8 +113,7 @@ A. Emotions are [feelings](mind-feelings.md) that detect experiences from our bo
 - God's ideal design was for our [emotions](mind-feelings.md) to motivate consistent, stable behavior.
   - God wants us to feel excitement, enthusiasm, and determination about His plans.
   - He also wants us righteously angry and indignant at the enemies of goodness.
-- However, unrestrained emotions cause tremendous instability and kill our faith.
-  - [Colossians 3:5](https://biblehub.com/colossians/3-5.htm)
+- However, unrestrained emotions cause tremendous instability and kill our faith (Colossians 3:5).
 - While the body's feelings are the domain of hormonal triggers in the brain, the emotions can be deduced as the domain of feelings that can't be scientifically measured.
 
 B. Mind is our capacity to [understand](mind-understanding.md) via [imagining](mind-imagination.md) and [remembering](mind-memory.md) toward a defined [purpose](purpose.md) (though there's *much* more to [how it works](https://gainedin.site/layers/)).
@@ -162,9 +144,7 @@ Profoundly talented people use their soul for most things in their life.
 The soul itself is infinite.
 
 - This doesn't necessarily mean it's *eternal*, but more that God built souls to last forever, which is likely a portion of how we're made in His image.
-- God requires a corrupted soul to exist separate from everything else to [protect the rest of creation](https://theologos.site/god-sight/), which is why hell needs to exist.
-  - [Revelation 21:8](https://biblehub.com/revelation/21-8.htm)
-  - [2 Thessalonians 1:6-10](https://biblehub.com/2_thessalonians/1.htm)
+- God requires a corrupted soul to exist separate from everything else to [protect the rest of creation](https://theologos.site/god-sight/), which is why hell needs to exist (Revelation 21:8, 2 Thessalonians 1:6-10).
 
 Generally, [meditation and release](mind-awareness-meditation.md) come through separating our mind and will far enough that our spirit and body can send signals to us.
 
@@ -172,15 +152,12 @@ Generally, [meditation and release](mind-awareness-meditation.md) come through s
 
 Most of the world is unaware of the spirit, so they tend to simply demarcate mind/body/soul.
 
-The spirit is close to, but distinct from, the soul.
+The spirit is close to, but distinct from, the soul (Hebrews 4:12).
 
-- [Hebrews 4:12](https://biblehub.com/hebrews/4-12.htm)
-- The spirit is how we connect with God, and He speaks through our spirit far more than our souls.
-  - [Ephesians 1:17](https://biblehub.com/ephesians/1-17.htm)
+- The spirit is how we connect with God, and He speaks through our spirit far more than our souls (Ephesians 1:17).
 
-[Our fallen state](https://theologos.site/gospel/) makes our spirits dead in some way, though Christ can absolutely revive them.
+[Our fallen state](https://theologos.site/gospel/) makes our spirits dead in some way, though Christ can absolutely revive them (Colossians 2:13).
 
-- [Colossians 2:13](https://biblehub.com/colossians/2-13.htm)
 - The only way to accurately guess if someone has a reborn spirit (and therefore follows Jesus) is to observe their [decisions](mind-decisions.md) in their private life over a long time.
 
 Even a dead spirit extends its influence outward from that person into the environment.
@@ -190,25 +167,18 @@ Even a dead spirit extends its influence outward from that person into the envir
   - A dead spirit can still be controlled by a soul, which is why [art](art.md) can still express the [unknown](unknown.md).
 - The greatest source of [meaning](meaning.md) we can ever find comes through direct [connection with God](spiritual-exercises-prayer.md) and indirect [connection with others' spirits](church.md).
 
-Mature Christians have internalized so much of [God's word](bible-study.md) that their spirit determines most of their conscious decisions.
+Mature Christians have internalized so much of [God's word](bible-study.md) that their spirit determines most of their conscious decisions (1 Corinthians 2:9-3:2).
 
-- [1 Corinthians 2:9-3:2](https://biblehub.com/1_corinthians/2.htm)
-- A person's spirit is separate from God's Holy Spirit.
-  - [1 Corinthians 2:11](https://biblehub.com/1_corinthians/2-11.htm).
-- Even Jesus has a spirit.
-  - [Mark 2:8](https://biblehub.com/mark/2-8.htm)
-- Our spirits are how we attain [self-awareness](mind-awareness.md)
-  - [Proverbs 20:27](https://biblehub.com/proverbs/20-27.htm)
-- A spiritual person has a strong capacity for judgment, but only God judges them.
-  - [1 Corinthians 2:15](https://biblehub.com/1_corinthians/2-15.htm)
-- God communicates with His Holy Spirit to our spirits, and it's His work that builds it up.
-  - [Romans 11:6](https://biblehub.com/romans/11-6.htm)
+- A person's spirit is separate from God's Holy Spirit (1 Corinthians 2:11).
+- Even Jesus has a spirit (Mark 2:8).
+- Our spirits are how we attain [self-awareness](mind-awareness.md) (Proverbs 20:27).
+- A spiritual person has a strong capacity for judgment, but only God judges them (1 Corinthians 2:15).
+- God communicates with His Holy Spirit to our spirits, and it's His work that builds it up (Romans 11:6).
 
 Christian tradition has demarcated the spirit into intuition, conscience, and communion.
 
-A. Intuition is spiritual information the mind couldn't have acquired or inferred by outside events.
+A. Intuition is spiritual information the mind couldn't have acquired or inferred by outside events (Hebrews 11:1).
 
-- [Hebrews 11:1](https://biblehub.com/hebrews/11-1.htm)
 - Intuitive thinking doesn't learn from sensory data or the senses.
 - Intuition is God's direct way of leading people, and comes through long periods of [following God](https://theologos.site/devotion-chaos/).
 - We can only [understand](mind-understanding.md) God's will and desires through our intuition.
@@ -216,17 +186,13 @@ A. Intuition is spiritual information the mind couldn't have acquired or inferre
 
 B. Conscience is a strong [conviction](mind-understanding-certainty.md) we hold about something, and connects to our capacity to maintain our [ethics](morality.md) via clear [decisions](mind-decisions.md).
 
-- Our conscience is the basis of how we ought to act toward God *and* other people.
-  - [1 Peter 3:21](https://biblehub.com/1_peter/3-21.htm), [Acts 24:16](https://biblehub.com/acts/24-16.htm)
-- Everyone can choose to act with or against their conscience, but performing against it is "walking in the body".
-  - [Romans 8:5](https://biblehub.com/romans/8-5.htm)
-- While our conscience is at least somewhat functional from birth, believing [lies](people-lying.md) or [sinning](theology-sins.md) long enough will cauterize the conscience and make us numb to God's moral direction.
-  - [1 Timothy 4:2](https://biblehub.com/1_timothy/4-2.htm)
+- Our conscience is the basis of how we ought to act toward God *and* other people (1 Peter 3:21, Acts 24:16).
+- Everyone can choose to act with or against their conscience, but performing against it is "walking in the body" (Romans 8:5).
+- While our conscience is at least somewhat functional from birth, believing [lies](people-lying.md) or [sinning](theology-sins.md) long enough will cauterize the conscience and make us numb to God's moral direction (1 Timothy 4:2).
 
 C. Communion, also known as worship, is the close personal connection we make [with God](spiritual-exercises-prayer.md) and the [rest of the Church](church.md).
 
-- We only experience communion with both our spirits and truth.
-  - [John 4:24](https://biblehub.com/john/4-24.htm)
+- We only experience communion with both our spirits and truth (John 4:24).
 - We can only perceive God and His thoughts through our [prayer](spiritual-exercises-prayer.md) with Him.
 
 Living by the spirit is a relatively mundane experience of acting/walking according to intuition, regulated by conscience, in fellowship with God and others in communion.
@@ -239,14 +205,10 @@ As we grow, we transition from body to soul, then to spirit:
 
 1. The dominant force for a newborn baby is their body because their soul and spirit hasn't developed yet, which also happens to be the way most animals function.
 2. To the degree we're not acting out of [habit](habits.md), we use our souls, and most adults *heavily* use their souls to understand and think.
-3. When a person sacrifices everything before Christ, their spirit is reborn.
-   - [John 12:24-26](https://biblehub.com/john/12.htm)
-4. Once a person has had a reborn spirit, they value things differently than when they operated heavily on their soul's understanding.
-   - [2 Corinthians 5:17](https://biblehub.com/2_corinthians/5-7.htm)
-   - [Ezekiel 36:24-30](https://biblehub.com/ezekiel/36.htm)
+3. When a person sacrifices everything before Christ, their spirit is reborn (John 12:24-26)
+4. Once a person has had a reborn spirit, they value things differently than when they operated heavily on their soul's understanding (2 Corinthians 5:17, Ezekiel 36:24-30).
 5. Post-Christ, God is [constantly battling](spiritual-warfare.md) with our old nature, the devil, and the corrupting influences of the world to convert our nature to a spirit-led soul that [controls](spiritual-exercises.md) the body's impulses.
-6. A soul may mostly direct the body right *now*, but will eventually interact more with the spirit later.
-   - [1 Corinthians 15:42-44](https://biblehub.com/1_corinthians/15.htm)
+6. A soul may mostly direct the body right *now*, but will eventually interact more with the spirit later (1 Corinthians 15:42-44).
 
 Our bodies can only react, and anything that requires more elaborate thought or consideration requires our soul (e.g., [sins](theology-sins.md) like envy, jealousy, vengeance).
 
@@ -261,10 +223,8 @@ Our body/soul distinction is relatively easy to identify, but observing the soul
 - The soul is capable of being "weighed down" by various struggles, but the spirit can never be subdued (though it can be misled).
 - Our spirits have much more strength to accomplish without outside involvement than our souls (e.g., [spiritual gifts](spiritual-gifts.md)).
 - The spirit concerns itself exclusively with "why" we do things (typically focused more on [motivation](purpose.md)), but the soul is concerned with both "what" and "why".
-- In general, we can usually find where our motivations sit if we strip away *all* self-interest, which requires [Bible study](bible-study.md) and [prayer](spiritual-exercises-prayer.md) for the Holy Spirit to show us.
-  - [Hebrews 4:12](https://biblehub.com/hebrews/4-12.htm)
-- We can directly build skills within the soul, but only God can build our spirits.
-  - [Ephesians 3:16](https://biblehub.com/ephesians/3-16.htm)
+- In general, we can usually find where our motivations sit if we strip away *all* self-interest, which requires [Bible study](bible-study.md) and [prayer](spiritual-exercises-prayer.md) for the Holy Spirit to show us (Hebrews 4:12).
+- We can directly build skills within the soul, but only God can build our spirits (Ephesians 3:16).
 
 Very frequently, a righteous spiritual motivation will drift from its original basis:
 
@@ -283,30 +243,20 @@ There's a strong chance that integration of our [shadow persona](people-personal
 
 The devil can [work to malign](spiritual-warfare.md) our body, soul, *and* spirit:
 
-- His general plan is to prevent us from using our spirit in relationship with God and instead trust the understanding within our souls.
-  - [Proverbs 3:5-6](https://biblehub.com/proverbs/3.htm)
+- His general plan is to prevent us from using our spirit in relationship with God and instead trust the understanding within our souls (Proverbs 3:5-6).
 - He typically spends most of his time stirring up our [fears](mind-feelings-fear.md), distracting our [purpose](purpose.md) within our soul, and attaching the soul's shame to our conscience.
 - However, he has the power to manifest all *types* of hallucinations and visions that our body can perceive.
-- If a person submits themselves willingly to the devil, he can grant them an intuition (e.g., fortune-telling), though it's filled with [lies](people-lying.md). This can also happen when people don't test the spirits against God's wisdom.
-  - [1 John 4:1-2](https://biblehub.com/1_john/4.htm)
+- If a person submits themselves willingly to the devil, he can grant them an intuition (e.g., fortune-telling), though it's filled with [lies](people-lying.md). This can also happen when people don't test the spirits against God's wisdom (1 John 4:1-2).
 
 Some people have erroneously imagined that we must separate out the spirit or spirit/soul from the rest of us.
 
-- If we're presently conscious at all while worshiping, we are using *both* our soul and spirit, and that's what God *wants* us to do.
-  - [1 Corinthians 14:15](https://biblehub.com/1_corinthians/14-15.htm)
-- It's possible to maintain an emotion-based, dead faith in the soul while performing no action in the body that may benefit the spirit.
-  - [James 2:26](https://biblehub.com/james/2-26.htm)
+- If we're presently conscious at all while worshiping, we are using *both* our soul and spirit, and that's what God *wants* us to do (1 Corinthians 14:15).
+- It's possible to maintain an emotion-based, dead faith in the soul while performing no action in the body that may benefit the spirit (James 2:26).
 - If we claim the body *isn't* a part of our relationship with God, we suffer the heresy of [Gnosticism](people-conflicts-christian-why.md) through several channels:
-  - Asceticism: we must refrain from some things.
-    - [1 Timothy 4:1-3](https://biblehub.com/1_timothy/4.htm)
-    [Colossians 2:20-23](https://biblehub.com/colossians/2.htm)
-  - Libertinism: we are free to [sin](theology-sins.md).
-    - [2 Peter 2:13-22](https://biblehub.com/2_peter/2.htm)
-    - [Jude](https://biblehub.com/jude/1.htm)
+  - Asceticism: we must refrain from some things (1 Timothy 4:1-3, Colossians 2:20-23)
+  - Libertinism: we are free to [sin](theology-sins.md) (2 Peter 2:13-22, Jude)
 - [Spiritual exercises](spiritual-exercises.md) serve to strengthen and expand our relationship with God, but they're often *very* physical things (e.g., a [church service](church.md), [serving others](church-serve.md)).
-- As we work to operate our bodies according to spiritual purposes, we will face many [inner conflicts](people-conflicts-inner.md) and kill [bad habits](habits.md) along the way, but we never fully stop being "body-like".
-  - [Romans 7:15-23](https://biblehub.com/romans/7.htm)
-  - [Colossians 3:5-7](https://biblehub.com/colossians/3.htm)
+- As we work to operate our bodies according to spiritual purposes, we will face many [inner conflicts](people-conflicts-inner.md) and kill [bad habits](habits.md) along the way, but we never fully stop being "body-like" (Romans 7:15-23, Colossians 3:5-7).
 
 When our body is fatigued or suffering, or when our soul is distracted or overwhelmed, it will *definitely* affect our spirit.
 

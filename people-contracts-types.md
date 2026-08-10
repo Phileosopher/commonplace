@@ -111,7 +111,7 @@ Relationships that vest "delegable" responsibilities and grant authorities or ri
 - Community benefits agreement - community groups arrange for a real estate developer to provide specific amenities or mitigations to a community or neighborhood in exchange for the community supporting it (or at least not opposing it).
 - Distributor agreement - the relationship between a distributor and supplier.
 - Employment agreement - the relationship between an employee and employer.
-- End-user license agreement - a [software license](legal-ip-floss.md) between the software supplier and [end user](glossary-computers.md).
+- End-user license agreement - a [software license](legal-ip-floss.md) between the software supplier and end user.
 - Franchise agreement - a relationship where a franchisor licenses some or all of their knowledge, procedures, [intellectual property](legal-ip.md), use of their business model, [brand](marketing.md), and rights to sell branded products and services to a franchisee.
 - Guaranteed rental - an arrangement where a party wants to rent out a property for a large block of time to rent it themselves on a retail basis (e.g., for days or weeks).
 - Indemnity agreement - a party will provide compensation for a clearly identified situation of another party (e.g., [insurance](money-insurance.md)), in contrast to aleatory contract.

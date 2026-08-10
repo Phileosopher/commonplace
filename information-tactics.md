@@ -1,5 +1,5 @@
 
-# Tactics to avoid information overload
+# Tactics to improve the information we consume
 
 These are all tactics for slowing the information flow for the purpose of increased [understanding](mind-understanding.md) and higher [quality](values-quality.md).
 
@@ -265,6 +265,8 @@ Unfortunately, we are often given the conclusions and effects, but must dig deep
 - Everyone can agree an event happened, but it's more difficult to define its connections with other events.
 - Further, the more [political](politics-conservativeliberal.md) something is, the more likely there will be missing or bad information mixed in.
 
+This entire process of finding the key information is a highly critical skill, especially with [trends](people-trends.md) toward auto-generated [machine learning](computers-ai-ml.md).
+
 ## 6: Create intentionally
 
 There's tremendous wisdom in the slowness of speech, and the framing of society created an inherent slowness of speech (or writing) when someone was trying to present information to large groups of people. It usually took weeks or months to propagate a discovery:
@@ -323,6 +325,19 @@ Very frequently, it's much easier to *save* the information than actually *do* s
 - We can often find a greater sense of [meaning](meaning.md) by immersing ourselves in many domains of quasi-[understanding](mind-understanding.md) across many domains.
 - If you can't cross the threshold to make more from that information, it's not necessary to save.
 - We often maintain non-practical things because we still find them [beautiful](values-quality.md), which is fine if we know *why* we're keeping it and don't expect anything more from it.
+
+Depending on your line of work, consider having a "memex" (memory expansion) philosophy to your information.
+
+- Throughout history, intelligent people have usually kept a "commonplace book" of useful snippets they found more [meaningful](meaning.md) than the rest.
+- With the introduction of easily linked documents (such as this one), anyone can represent their desired information in a format that is most convenient for their [learning style](education.md).
+- Since the [trend](people-trends.md) for information has transition to many cycling domains, make sure to capture a copy of *all* information you find valuable, then tag and reference every appropriate usage of that information.
+  - If you make it a publicly accessible set of documents, you also provide the advantage of [publishing](language-writing-stories-publishing.md) your content as well as you build for yourself.
+- Often, you can convert [messages to others](language-writing-web.md) into a personal knowledge base, which can rapidly speed up your [communication skills](language-writing.md) as well.
+- The one downside of the memex is that you double your [points of failure](https://adequate.life/fix/) because you lose your "second brain" when you're away from your computer or the power goes out.
+
+However, to [live the good life](people-goodlife.md), avoid the "quantified self".
+
+- We derive [meaning](meaning.md) strictly through qualitative experiences, and quantities are always subject to [diminishing return](humanity-universals.md).
 
 If the information may cause an adverse situation (e.g., [intellectual property](legal-ip.md) or [illegal content](people-rules.md)) ask if it's [worth the risk](safety-riskmgmt.md) to store it yourself.
 

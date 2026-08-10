@@ -51,6 +51,15 @@ Since our [feelings](mind-feelings.md) are the dominant force for discerning rel
 
 We all implicitly believe a type of "self-evidence", which asserts that something is innate because we perceived it. Most people have trouble seeing that their perspectives are inherently [biased](mind-bias.md). Thankfully, there *are* [some broad things that are universal to the human condition](humanity-universals.md).
 
+Every logical statement is composed of 3 major laws:
+
+1. Identity: something has to be what its language is connected to.
+   - This is a sticky issue within postmodern thought, but can still be attained with qualifiers (e.g., "hat" may not matter as a reference, but "the object agreed upon to be a hat" is still applicable).
+2. Non-contradiction: something can't both exist and not exist at the same time and in the same way.
+   - If it does exist differently at the same time, then the logical statement isn't specific enough.
+3. Excluded middle: something either exists or doesn't, and there's nothing that can both exist and not exist.
+   - If it can be both, the statement isn't specific enough.
+
 The best data comes from excessive details. While it sometimes happens with [scientific](science.md) and [philosophical](philosophy.md) rigor (and in specific [trades](jobs-specialization.md) like [accounting](money-accounting.md) and [insurance](money-insurance.md)), most people have very little [reason](purpose.md) to take extra time in their [everyday routine](habits.md) for that and simply trust their [intuition](mind-feelings.md).
 
 ### 2. Combination
@@ -81,6 +90,10 @@ Deductive logic is certain, while inductive logic is likely:
 - If A, then X is true
   versus
   If A, then X is *probably* true
+
+Abduction is an attempt to arrive at the best possible explanation.
+
+- The dominant difference between induction and abduction is that inductions are generalizations by specific observations while abductions are the simplest and most likely explanation.
 
 Life itself is typically [uncertain](unknown.md), so 99.99% of daily life is made of inductive logic:
 

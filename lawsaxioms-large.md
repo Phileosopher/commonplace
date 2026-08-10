@@ -81,6 +81,8 @@ Linus' Law/Orgel's Second Rule - Given enough people, every problem is petty.
 
 - Sunil's Law - Given enough people and information, everything will be misunderstood.
 
+Madea Effect - When a group of people doesn't have strong men, a few very strong and opinionated women will take the role out of necessity and tyrannize the lowest-performing members.
+
 Marchetti's Constant - People are only willing to travel up to 1 hour each day, or a half-hour on a two-way trip (e.g., commute).
 
 Marauder Effect - When comparatively comfortable people become instantly deprived of resources, they panic and start attacking others to get what they need

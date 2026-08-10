@@ -15,6 +15,11 @@ Lightning is caused by hail rubbing together in clouds to create ionized atoms. 
 
 ## Predicting weather
 
+At least in the USA, most of the various weather software present is simply drawing data given for free by the National Weather Service.
+
+- Most forecasters are simply predicting general areas.
+- Therefore, the local NWS office has all the actual data.
+
 ### General Signs
 
 Usually, you can predict the next 24 hours' weather without instruments by observing key details that show:

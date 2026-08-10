@@ -66,7 +66,7 @@ One important component representative in all the sciences is that there are two
 
 For it to qualify as legitimate science, it must be rigorous, reproducible, and open.
 
-- In particular, legitiamte science can easily be demarcated from [positivism](glossary-philosophy-epistemology.md) by Popper's falsification theory, which is that every hypothesis should be sharply criticized for all use cases.
+- In particular, legitiamte science can easily be demarcated from [positivism](philosophy-glossary-epistemology.md) by Popper's falsification theory, which is that every hypothesis should be sharply criticized for all use cases.
 - Falsification theory, however, is far too [uncertain](mind-understanding-certainty.md) for most of the scientific community to accept.
 - This philosophical negligence has gotten so out-of-hand that most scientific studies are irreproducible (a "reproducibility/replicability crisis")
 

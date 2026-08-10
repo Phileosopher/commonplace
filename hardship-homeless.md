@@ -10,10 +10,11 @@ When you have less than a month's worth of expenses left, start planning to move
 To survive, you must be able to sleep, eat, and hold things:
 
 - [Sleeping](sleep.md) simply requires a flat enough surface that's moderately soft and warm enough that you won't freeze to death, though you can adapt to *anything* within a few weeks.
+  - The larger risks, however, come through presence around other [mentally unwell](mind-neurodivergence.md) people who may harm you or steal your things.
 - [Eating](body-diet.md) requires getting [enough nutrients](body-health.md), though storing and preparing food can often be challenging with limited access to electricity.
 - Storage will be your worst challenge, though measurably less if you're located in the same region for a while.
 
-Your success will be determined by how [creative](mind-creativity.md) you can be.
+Your success will be determined by how [creative](mind-creativity.md) you can be and learning to [trust](mind-trust.md) people correctly.
 
 - Other people are often willing to be generous, but only to a point.
   - When you rely on others, *always* expect it to be a temporary expectation, and they'll expect that you regain your footing soon.
@@ -121,5 +122,9 @@ Never regard your homelessness as a disability:
 - You have the advantage of being *incredibly* mobile, which means you can plant yourself where you can thrive the most.
 - Your freedom is so unlimited that many people deliberately make transience a lifestyle, including many [religious leaders](religion.md).
 - One of the advantages of homelessness is that you don't have to pay rent, which means it's *very* easy to [save money](money-saving.md).
+- This is very difficult to see for several reasons:
+  1. You're highly exposed to the elements and others' [shame](mind-feelings-shame.md)
+  2. The events that got you to homelessness are often [reliving trauma](hardship-ptsd.md)
+  3. Consequences from your added hardships can often be used against you by others (such as litigious [family members](hardship-family.md))
 
 For social reasons, never speak like you live nowhere, and always have a mailing address available to give to people.

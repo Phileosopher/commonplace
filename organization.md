@@ -101,7 +101,11 @@ To give enough room, your workspace should be triple the surface area of the reg
 
 ## Predict where everything will go
 
-Your categorization system should be accessible, easy to maintain, and can scale to your possible needs.
+Start by getting rid of useless things.
+
+- Go through at least one pass to get rid of obviously invalid items.
+
+After you've made some room, your categorization system should be accessible, easy to maintain, and can scale to your possible needs.
 
 If you have *many* things, consider the [Johnny.Decimal system](https://johnnydecimal.com/):
 

@@ -14,10 +14,10 @@ A few failings from 100 B.C. to 2000 A.D.:
 All of these are here for your benefit to understand how much humanity has failed at [predicting](mind-imagination-badpredictions.md) the end.
 
 - If a prophet predicts the future, and is wrong, they're not a good prophet.
-  - [Deuteronomy 18:21-22](https://biblehub.com/deuteronomy/18.htm)
+  - Deuteronomy 18:21-22
 - Jesus emphasizes that nobody knows [when he's coming back](theology-end.md), not even himself.
-  - [Matthew 24:36](https://biblehub.com/matthew/24-36.htm)
-  - [Mark 13:32](https://biblehub.com/mark/13-32.htm)
+  - Matthew 24:36
+  - Mark 13:32
 - Anyone who makes more claims of predicting the future is about as accurate as anyone here.
 
 44
@@ -26,7 +26,7 @@ All of these are here for your benefit to understand how much humanity has faile
 
 53
 
-- Even before all the books of the Bible were written, there was talk that Christ's return had already taken place. The Thessalonians panicked on Paul when they heard a rumor that they had missed Jesus coming back ([1 Thessalonians 5:1-3](https://biblehub.com/1_thessalonians/5.htm)).
+- Even before all the books of the Bible were written, there was talk that Christ's return had already taken place. The Thessalonians panicked on Paul when they heard a rumor that they had missed Jesus coming back (1 Thessalonians 5:1-3).
 
 66-70
 

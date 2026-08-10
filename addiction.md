@@ -152,6 +152,8 @@ An addict's [purpose](purpose.md) is the driving force, *not* the substance. If 
 
 *Every* addiction recovery group uses some derivative of the [12-step program made by Bill Wilson and Dr. Robert Holbrook Smith in 1939](addiction-steps.md).
 
+- [The mechanical method of recovering from an addiction](addiction-how.md) is far more common-sense, but the Twelve Steps are necessary because of the [emotional needs](mind-feelings.md) an addict is trying to offset.
+
 In practice, recovering from an addiction is treating yourself like an extremely strong-willed small child, with the "adult" regulating yourself with a set of standards independent of yourself.
 
 The only hope for any addict is for them to face their pain directly.

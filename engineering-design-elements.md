@@ -92,7 +92,7 @@ Set simple typography and color on complex backgrounds, and complex typography a
 
 ## Typography
 
-Pay close attention to [font](engineering-graphics.md) choice. Text details like text placement, font, heading size, and spacing will evoke *many* [feelings](mind-feelings.md), often [by saying *much* more than the designer may be aware of](engineering-design-font.png).
+Pay close attention to [font](language-writing-typography.md) choice. Text details like text placement, font, heading size, and spacing will evoke *many* [feelings](mind-feelings.md), often [by saying *much* more than the designer may be aware of](engineering-design-font.png).
 
 The typography should fit the [emotional association](mind-feelings.md) the designer wants the user to experience.
 

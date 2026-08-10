@@ -30,10 +30,23 @@ Try to record who, when, and how you have interacted with everyone.
 The organization wants you to have a continued financial relationship with them.
 
 - Your opinion only matters if the trouble you make is less than the money you're paying.
-- Never threaten to leave unless you have the means to carry out that threat.
+- Never threaten to leave unless you have the means and will actually carry out that threat.
+- Leave things in the shopping cart without buying them, since [marketers](marketing.md) have "cart abandonment strategies" that give promotions.
 
 Be prepared for diminished service near contract renewal time.
 
 - Many times, service providers will try to force an upsell by making your service inferior.
 - Often, this is done via computer programming and not through any individual's decision-making.
 - A simple call to [customer service](people-customerservice.md) can often reset the timer.
+
+## Stay aware of the worker's motives
+
+Always be polite and considerate of their time and effort.
+
+- Always use "please" and "thank you".
+- Remember their first name when they first greet you.
+- Even if things aren't going well, keep in mind that the system is the problem and is 99% of the time outside the scope of the representative you're talking with.
+
+Bribing service providers with food or snacks will absolutely speed up how fast they serve you.
+
+- Send snacks with the product you wish to have repaired.

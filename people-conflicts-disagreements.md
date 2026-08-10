@@ -202,10 +202,20 @@ Often, people will behave or react inappropriately, but won't want to take accou
 
 ## Approaching respectfully
 
+In general, there are five major ways people will understand you care about them:
+
+- These are universal traits, though you must be careful when they [distrust](mind-trust.md) you.
+  1. Giving gifts to them, though they need to *actually* be given, without extra conditions.
+  2. Affirming words, if they're sincere.
+  3. Physical touch, if they're open to it.
+  4. Quality time, assuming it's not interfering with something else they're doing.
+  5. Sacrificial acts for them, assuming they aren't expected to [give something back in return](people-contracts.md).
+- Nothing you do, however, will matter if you don't respect them or what they're trying to say, so focus first on [listening](language-speaking-listening.md).
+
 Stay mindful of yelling or interruptions.
 
 - People who yell feel out of control.
-- With the exception of [narcissistic behavior](people-conflicts-narcissist.md), interruptions are a sign that someone is more concerned with what they have to say than what others may say.
+- Except for [narcissistic behavior](people-conflicts-narcissist.md), interruptions are a sign that someone is more concerned with what they have to say than with others' thoughts.
 
 Designate time to share perspective.
 
@@ -229,6 +239,26 @@ Use the Speaker/Listener Technique to respect everyone's boundaries.
    - Stay on only one topic at a time, and do *not* move to another topic.
 5. Repeat back and forth until both sides feel fully understood.
 6. Plan a time the next day when it's worth discussing the solutions to the issue.
+
+Sometimes it's not the appropriate time or place.
+
+- If someone doesn't wish to openly discuss with a variation of Speaker/Listener, use a respectful statement to leave the conversation:
+  - "I don't feel safe continuing while we are currently in this mode."
+  - "I'm not interested in continuing while we both maintain this paradigm."
+  - "I don't want to discuss this when I don't feel safe."
+- Further, consider a time-out plan for yourself if you need it.
+  - The purpose is to prevent yourself from acting inappropriately, *not* as an excuse to avoid the topic.
+  - It also isn't acceptable for you to blame them for taking the time-out, and isn't an excuse to [consume a substance](addiction-substances.md).
+  - When you return, you should be calmer and more relaxed.
+  - The plan should have several components:
+    1. You have communicated what you will do, that it's to control your [anger](mind-feelings-anger.md), and how many minutes you'll employ it.
+    2. You'll [pay special attention](mind-awareness.md) to cues that indicate anger.
+    3. When you leave, you'll do it respectfully, without yelling or physically acting out.
+    4. You'll have a specified location for your time-out.
+    5. You'll have a predefined action you'll do in your time-out, which will include [meditation](mind-awareness-meditation.md).
+    6. When you return, you'll respectfully ask the other person when you can discuss the issue.
+- If the other person needs a time-out, respect their wishes.
+  - However, *always* communicate and agree on a time to revisit the subject.
 
 ## Setting boundaries for yourself
 
@@ -284,7 +314,7 @@ Both sides must be willing to admit they've failed in some way.
 - Reconciliation only happens with accountability (which is why [Cluster B personalities](mind-neurodivergence-clusterb.md) create so much misery for everyone).
 - This will look different depending on the context, but every single person can take full responsibility for another person's hurt feelings, irrespective of reality.
 
-Both of them must commit to avoiding "you" statements as much as possible, as well as the Speaker-Listener technique.
+Both of them must commit to avoiding "you" statements as much as possible, as well as the Speaker/Listener technique.
 
 Avoid either side comparing who was hurt worse.
 

@@ -21,7 +21,7 @@ Expect a casual conversation over the phone by a Human Resources representative.
 - They'll try to sell you on their company.
 - While it's rare, they'll ask unusual and interesting questions, such as what you're working on or what your values are.
 
-You won't know if anything happens, since the HR worker is probably writing down some notes and deciding if you're a good [cultural](people-culture.md) fit or not.
+You won't know if anything happens, since the HR worker is probably writing down some notes and deciding if you're a good [culture](people-culture.md) fit or not.
 
 - If you're not a good culture fit, that's probably a good thing. Many HR departments are informally profiling [personalities](people-personality.md) to see if you can be [easily exploited](jobs-suck-cs.md).
 
@@ -47,7 +47,7 @@ You're trying to find a good fit for *you* as well. You may start into the caree
 To get the best deal, have a list prepared of questions for their Final Question ("do you have any questions for us?"):
 
 - What [values](purpose.md) do the organization's leadership believe in?
-- Is the company profitable, [pre-revenue](entrepreneur-4_freelancing-cs.md), or growth-minded?
+- Is the company profitable, [pre-revenue](entrepreneur-4_freelancing.md), or growth-minded?
 - How many [rounds of funding](entrepreneur-6_scaling-cs.md) has the organization had yet?
 - What is the *actual* title of the role you're applying for, and what do you actually *do* most of the time?
 

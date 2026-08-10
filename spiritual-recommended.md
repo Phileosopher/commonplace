@@ -14,7 +14,7 @@ With that said, there are *many* other documents within the lens of history that
 
 This is a list of recommended reading for believers.
 
-- It's "recommended" insomuch as it's interesting to someone, and would be "puffed-up knowledge" if someone was reading it for anything outside of [fun](fun.md) ([1 Corinthians 8:1](https://biblehub.com/1_corinthians/8-1.htm)).
+- It's "recommended" insomuch as it's interesting to someone, and would be "puffed-up knowledge" if someone was reading it for anything outside of [fun](fun.md) (1 Corinthians 8:1).
 - I've ordered the categories based on the book's approximate benefit to a normal person.
 - If it isn't for anything else, it keeps smart people out of trouble.
 

@@ -3,7 +3,7 @@
 
 This is a list of philosophers' thought experiments and paradoxes. They are distilled aspects of [imagination](mind-imagination.md) designed to carve out very particular elements of [understanding](mind-understanding.md).
 
-They're usually implied as entertaining [stories](stories-why.md) (and often the [basis](mind-creativity.md) of many of them), but you'll likely also see [which philosophies you believe](glossary-philosophy.md) and why [some laws are universal](lawsaxioms.md).
+They're usually implied as entertaining [stories](stories-why.md) (and often the [basis](mind-creativity.md) of many of them), but you'll likely also see [which philosophies you believe](philosophy-glossary.md) and why [some laws are universal](lawsaxioms.md).
 
 Others who are more visually [creative](mind-creativity.md) than me (e.g., [Nicky Case](https://ncase.me/)) have made better summaries, but this is a simplified distillation.
 
@@ -70,6 +70,16 @@ If someone were equally hungry and thirsty, and food and drink were placed an eq
 Would they even go, or simply die of hunger/thirst, and why?
 
 If it's a random nudge in one direction or another, what caused that nudge?
+
+## Chinese Room
+
+Imagine being in a room with no windows, and you receive a note written in Chinese through a slot, but you don't understand any Chinese whatsoever.
+
+However, in that room, there is also a very detailed guide indicating what you're supposed to write in response to every single Chinese character or combination of characters. Imagine following those instructions precisely, then handing the result back through the slot.
+
+Even though you responded correctly to a Chinese message, did you understand it? How about if you responded to 1,000 messages? Is there ever a point where you would come to understand Chinese without any additional context?
+
+This experiment was created in 1980 by John Searle to demonstrate how computers can never develop a mind, understanding, or consciousness.
 
 ## Collectivism Paradox
 

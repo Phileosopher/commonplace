@@ -161,7 +161,7 @@ Ezra and Nehemiah is somewhat confusing without extra clarification.
   - The end of it is essentially Nehemiah 7:73-8:12.
 - As far as its new content, it gives an interesting story connected with how the Second Temple was rebuilt involving three of the king's guards making a wager with the king.
 
-Additional chapter to Chronicles called the [Prayer of Manasseh](https://biblehub.com/apocrypha/brenton/prayer_of_manasseh/1.htm)
+Additional chapter to Chronicles called the Prayer of Manasseh
 
 - The chapter is placed at the very end of 2 Chronicles.
 - It was probably written somewhere between 200 BC and 50 AD before the Second Temple's destruction in 70 AD.
@@ -237,7 +237,7 @@ There are also some candidates for the canon that never quite made it. It is by 
 [4 Maccabees](https://www.biblegateway.com/passage/?search=4%20Maccabees%201)
 
 - It was written ~18-55 AD in Greek.
-- Its content asserts repeatedly that reason is the master of emotions (a major component of [the Stoic philosophy](glossary-philosophy-axiology-christian.md).
+- Its content asserts repeatedly that reason is the master of emotions (a major component of [the Stoic philosophy](philosophy-glossary-axiology-christian.md)).
 - Its main theme is to revisit the Hebrew faith and assert that the Stoic philosophy is compatible with it.
   - It revisits the events in 2 Maccabees regarding the specific persecutions of Eleazar and a woman with seven sons.
 - This book is far from any divine inspiration or worthiness of Christian idealization, since [love](people-love.md) is a matter of desire and not reason alone.

@@ -3,273 +3,273 @@
 
 The Messiah would be both God and Man
 
-- [Jeremiah 23:5-6](https://biblehub.com/jeremiah/23.htm)
-- [John 13:13](https://biblehub.com/john/13-13.htm), [1 Timothy 3:16](https://biblehub.com/1_timothy/3-16.htm)
+- Jeremiah 23:5-6
+- John 13:13, 1 Timothy 3:16
 
 Born of a virgin
 
-- [Jeremiah 31:22](https://biblehub.com/jeremiah/31-22.htm)
-- [Matthew 1:18-20](https://biblehub.com/matthew/1.htm)
+- Jeremiah 31:22
+- Matthew 1:18-20
 
 The Messiah would be the new covenant
 
-- [Jeremiah 31:31](https://biblehub.com/jeremiah/31-31.htm)
-- [Matthew 26:28](https://biblehub.com/matthew/26-28.htm)
+- Jeremiah 31:31
+- Matthew 26:28
 
 The stone that will break the kingdoms
 
-- [Daniel 2:44-45](https://biblehub.com/daniel/2.htm)
-- [Matthew 21:44](https://biblehub.com/matthew/21-44.htm)
+- Daniel 2:44-45
+- Matthew 21:44
 
 Highly exalted
 
-- [Daniel 7:13-14b](https://biblehub.com/daniel/7.htm)
-- [Ephesians 1:20-22](https://biblehub.com/ephesians/1.htm)
+- Daniel 7:13-14b
+- Ephesians 1:20-22
 
 His dominion would be everlasting
 
-- [Daniel 7:13-14c](https://biblehub.com/daniel/7.htm)
-- [Luke 1:31-33](https://biblehub.com/luke/1.htm)
+- Daniel 7:13-14c
+- Luke 1:31-33
 
 To make an end to sins
 
-- [Daniel 9:24a](https://biblehub.com/daniel/9-24.htm)
-- [Galatians 1:3-5](https://biblehub.com/galatians/1.htm)
+- Daniel 9:24a
+- Galatians 1:3-5
 
 To make reconciliation for iniquity
 
-- [Daniel 9:24a](https://biblehub.com/daniel/9-24.htm)
-- [Romans 5:10](https://biblehub.com/romans/5-10.htm), [2 Corinthians 5:18-21](https://biblehub.com/2_corinthians/5.htm)
+- Daniel 9:24a
+- Romans 5:10, 2 Corinthians 5:18-21
 
 His announcement
 
-- [Daniel 9:25](https://biblehub.com/daniel/9-25.htm)
-- [John 12:12-13](https://biblehub.com/john/12.htm)
+- Daniel 9:25
+- John 12:12-13
 
 Cut off
 
-- [Daniel 9:26a](https://biblehub.com/daniel/9-26.htm)
-- [Matthew 16:21](https://biblehub.com/matthew/16-21.htm), [21:38-39](https://biblehub.com/matthew/21.htm)
+- Daniel 9:26a
+- Matthew 16:21, 21:38-39
 
 Die for the sins of the world
 
-- [Daniel 9:26b](https://biblehub.com/daniel/9-26.htm)
-- [Hebrews 2:9](https://biblehub.com/hebrews/2-9.htm)
+- Daniel 9:26b
+- Hebrews 2:9
 
 Killed before the destruction of the temple
 
-- [Daniel 9:26c](https://biblehub.com/daniel/9-26.htm)
-- [Matthew 27:50-51](https://biblehub.com/matthew/27.htm)
+- Daniel 9:26c
+- Matthew 27:50-51
 
 Messiah in a glorified state
 
-- [Daniel 10:5-6](https://biblehub.com/daniel/10.htm)
-- [Revelation 1:13-16](https://biblehub.com/revelation/1.htm)
+- Daniel 10:5-6
+- Revelation 1:13-16
 
 Called out of Egypt
 
-- [Hosea 11:1](https://biblehub.com/hosea/11-1.htm)
-- [Matthew 2:15](https://biblehub.com/matthew/2-15.htm)
+- Hosea 11:1
+- Matthew 2:15
 
 Defeats death
 
-- [Hosea 13:14](https://biblehub.com/hosea/13-14.htm)
-- [1 Corinthians 15:55-57](https://biblehub.com/1_corinthians/15.htm)
+- Hosea 13:14
+- 1 Corinthians 15:55-57
 
 Offer salvation to all humanity
 
-- [Joel 2:32](https://biblehub.com/joel/2-32.htm)
-- [Romans 10:9-13](https://biblehub.com/romans/10.htm)
+- Joel 2:32
+- Romans 10:9-13
 
 Death and resurrection of Christ
 
-- [Jonah 1:17](https://biblehub.com/jonah/1-17.htm)
-- [Matthew 12:40](https://biblehub.com/matthew/12-40.htm), [16:4](https://biblehub.com/matthew/16-4.htm)
+- Jonah 1:17
+- Matthew 12:40,16:4
 
 Born in Bethlehem
 
-- [Micah 5:2a](https://biblehub.com/micah/5-2.htm)
-- [Matthew 2:1-6](https://biblehub.com/matthew/2.htm)
+- Micah 5:2a
+- Matthew 2:1-6
 
 Ruler in Israel
 
-- [Micah 5:2b](https://biblehub.com/micah/5-2.htm)
-- [Luke 1:33](https://biblehub.com/luke/1-33.htm)
+- Micah 5:2b
+- Luke 1:33
 
 From everlasting
 
-- [Micah 5:2c](https://biblehub.com/micah/5-2.htm)
-- [John 8:58](https://biblehub.com/john/8-58.htm)
+- Micah 5:2c
+- John 8:58
 
 He would visit the second Temple
 
-- [Haggai 2:6-9](https://biblehub.com/haggai/2.htm)
-- [Luke 2:27-32](https://biblehub.com/luke/2.htm)
+- Haggai 2:6-9
+- Luke 2:27-32
 
 Descendant of Zerubbabel
 
-- [Haggai 2:23](https://biblehub.com/haggai/2-23.htm)
-- [Luke 2:27-32](https://biblehub.com/luke/2.htm)
+- Haggai 2:23
+- Luke 2:27-32
 
 God's servant
 
-- [Zechariah 3:8](https://biblehub.com/zechariah/3-8.htm)
-- [John 17:4](https://biblehub.com/john/17-4.htm)
+- Zechariah 3:8
+- John 17:4
 
 Priest and King
 
-- [Zechariah 6:12-13](https://biblehub.com/zechariah/6.htm)
-- [Hebrews 8:1](https://biblehub.com/hebrews/8-1.htm)
+- Zechariah 6:12-13
+- Hebrews 8:1
 
 Greeted with rejoicing in Jerusalem
 
-- [Zechariah 9:9a](https://biblehub.com/zechariah/9-9.htm)
-- [Matthew 21:8-10](https://biblehub.com/matthew/21.htm)
+- Zechariah 9:9a
+- Matthew 21:8-10
 
 Beheld as King
 
-- [Zechariah 9:9b](https://biblehub.com/zechariah/9-9.htm)
-- [John 12:12-13](https://biblehub.com/john/12.htm)
+- Zechariah 9:9b
+- John 12:12-13
 
 The Messiah would bring salvation
 
-- [Zechariah 9:9d](https://biblehub.com/zechariah/9-9.htm)
-- [Luke 19:10](https://biblehub.com/luke/19-10.htm)
+- Zechariah 9:9d
+- Luke 19:10
 
 The Messiah would be humble
 
-- [Zechariah 9:9e](https://biblehub.com/zechariah/9-9.htm)
-- [Matthew 11:29](https://biblehub.com/matthew/11-29.htm)
+- Zechariah 9:9e
+- Matthew 11:29
 
 Presented to Jerusalem riding on a donkey
 
-- [Zechariah 9:9f](https://biblehub.com/zechariah/9-9.htm)
-- [Matthew 21:6-9](https://biblehub.com/matthew/21.htm)
+- Zechariah 9:9f
+- Matthew 21:6-9
 
 At his coming, Israel will have [unfit leaders](mgmt-badsystems.md)
 
-- [Zechariah 11:4-6a](https://biblehub.com/zechariah/11.htm)
-[Matthew 23:1-4](https://biblehub.com/matthew/23.htm)
+- Zechariah 11:4-6a
+- Matthew 23:1-4
 
 Rejection causes God to remove His protection
 
-- [Zechariah 11:4-6b](https://biblehub.com/zechariah/11.htm), [Zechariah 11:10-11a](https://biblehub.com/zechariah/11.htm)
-- [Luke 19:41-44](https://biblehub.com/luke/19.htm)
+- Zechariah 11:4-6b, Zechariah 11:10-11a
+- Luke 19:41-44
 
 Rejected in favor of another king
 
-- [Zechariah 11:4-6c](https://biblehub.com/zechariah/11.htm)
-- [John 19:13-15](https://biblehub.com/john/19.htm)
+- Zechariah 11:4-6c
+- John 19:13-15
 
 Ministry to "poor," the believing remnant
 
-- [Zechariah 11:7](https://biblehub.com/zechariah/11-7.htm)
-- [Matthew 9:35-36](https://biblehub.com/matthew/9.htm)
+- Zechariah 11:7
+- Matthew 9:35-36
 
 Unbelief forces the Messiah to reject them
 
-- [Zechariah 11:8a](https://biblehub.com/zechariah/11-8.htm)
-- [Matthew 23:33](https://biblehub.com/matthew/23-33.htm)
+- Zechariah 11:8a
+- Matthew 23:33
 
 Despised
 
-- [Zechariah 11:8b](https://biblehub.com/zechariah/11-8.htm)
-- [Matthew 27:20](https://biblehub.com/matthew/27-20.htm)
+- Zechariah 11:8b
+- Matthew 27:20
 
 Stops ministering to those who rejected Him
 
-- [Zechariah 11:9](https://biblehub.com/zechariah/11-9.htm)
-- [Matthew 13:10-11](https://biblehub.com/matthew/13.htm)
+- Zechariah 11:9
+- Matthew 13:10-11
 
 The Messiah would be God
 
-- [Zechariah 11:10-11b](https://biblehub.com/zechariah/11.htm)
-- [John 14:7](https://biblehub.com/john/14-7.htm)
+- Zechariah 11:10-11b
+- John 14:7
 
 Betrayed for thirty silver pieces
 
-- [Zechariah 11:12-13a](https://biblehub.com/zechariah/11.htm)
-- [Matthew 26:14-15](https://biblehub.com/matthew/26.htm)
+- Zechariah 11:12-13a
+- Matthew 26:14-15
 
 Rejected
 
-- [Zechariah 11:12-13b](https://biblehub.com/zechariah/11.htm)
-- [Matthew 26:14-15](https://biblehub.com/matthew/26.htm)
+- Zechariah 11:12-13b
+- Matthew 26:14-15
 
 Thirty silver pieces cast in the Lord's house
 
-- [Zechariah 11:12-13c](https://biblehub.com/zechariah/11.htm)
-- [Matthew 27:3-5](https://biblehub.com/matthew/27.htm)
+- Zechariah 11:12-13c
+- Matthew 27:3-5
 
 The Messiah would be God
 
-- [Zechariah 11:12-13d](https://biblehub.com/zechariah/11.htm)
-- [John 12:45](https://biblehub.com/john/12-45.htm)
+- Zechariah 11:12-13d
+- John 12:45
 
 Messiah's body pierced
 
-- [Zechariah 12:10a](https://biblehub.com/zechariah/12-10.htm)
-- [John 19:34-37](https://biblehub.com/john/19.htm)
+- Zechariah 12:10a
+- John 19:34-37
 
 Messiah will be both God and man
 
-- [Zechariah 12:10b](https://biblehub.com/zechariah/12-10.htm)
-- [John 10:30](https://biblehub.com/john/10-30.htm)
+- Zechariah 12:10b
+- John 10:30
 
 Messiah will be rejected
 
-- [Zechariah 12:10c](https://biblehub.com/zechariah/12-10.htm)
-- [John 1:11](https://biblehub.com/john/1-11.htm)
+- Zechariah 12:10c
+- John 1:11
 
 God's will for Him to die for humanity
 
-- [Zechariah 13:7a](https://biblehub.com/zechariah/13-7.htm)
-- [John 18:11](https://biblehub.com/john/18-11.htm)
+- Zechariah 13:7a
+- John 18:11
 
 A violent death
 
-- [Zechariah 13:7b](https://biblehub.com/zechariah/13-7.htm)
-- [Mark 14:27](https://biblehub.com/mark/14-27.htm)
+- Zechariah 13:7b
+- Mark 14:27
 
 Both God and man
 
-- [Zechariah 13:7c](https://biblehub.com/zechariah/13-7.htm)
-- [John 14:9](https://biblehub.com/john/14-9.htm)
+- Zechariah 13:7c
+- John 14:9
 
 Israel scattered as a result of rejecting Him
 
-- [Zechariah 13:7d](https://biblehub.com/zechariah/13-7.htm)
-- [Matthew 26:31-56](https://biblehub.com/matthew/26.htm)
+- Zechariah 13:7d
+- Matthew 26:31-56
 
 He would return to the Mount of Olives
 
-- [Zechariah 14:4](https://biblehub.com/zechariah/14-4.htm)
-- [Acts 1:11-12](https://biblehub.com/acts/1.htm)
+- Zechariah 14:4
+- Acts 1:11-12
 
 Messenger to prepare the way for Messiah
 
-- [Malachi 3:1a](https://biblehub.com/malachi/3-1.htm)
-- [Mark 1:1-8](https://biblehub.com/mark/1.htm)
+- Malachi 3:1a
+- Mark 1:1-8
 
 Sudden appearance at the temple
 
-- [Malachi 3:1b](https://biblehub.com/malachi/3-1.htm)
-- [Mark 11:15-16](https://biblehub.com/mark/11.htm)
+- Malachi 3:1b
+- Mark 11:15-16
 
 Messenger of the new covenant
 
-- [Malachi 3:1c](https://biblehub.com/malachi/3-1.htm)
-- [Luke 4:43](https://biblehub.com/luke/4-43.htm)
+- Malachi 3:1c
+- Luke 4:43
 
 His forerunner is in Elijah's spirit
 
-- [Malachi 4:5](https://biblehub.com/malachi/4-5.htm)
-- [Matthew 3:1-3](https://biblehub.com/matthew/3.htm), [11:10-14](https://biblehub.com/matthew/11.htm), [17:11-13](https://biblehub.com/matthew/17.htm)
+- Malachi 4:5
+- Matthew 3:1-3,11:10-14,17:11-13
 
 His forerunner will turn many to righteousness
 
-- [Malachi 4:6](https://biblehub.com/malachi/4-6.htm)
-- [Luke 1:16-17](https://biblehub.com/luke/1.htm)
+- Malachi 4:6
+- Luke 1:16-17
 
 ## More information
 

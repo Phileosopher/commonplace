@@ -3,7 +3,7 @@
 
 ## Lifestyle evangelism
 
-The most significant form of evangelism will come through how Christians love each other ([John 13:35](https://biblehub.com/john/13-35.htm)).
+The most significant form of evangelism will come through how Christians love each other (John 13:35).
 
 - To be a witness in this capacity, Christians will have performed many [spiritual exercises](spiritual-exercises.md) and time together to strengthen that love.
 - This bleeds out from simply a hope after we die into a key part of believers' [identity](people-identity.md).
@@ -15,7 +15,7 @@ We frequently overlook opportunities to share Jesus.
 
 Most people won't care about what you have to say until they've seen evidence of you changing.
 
-Expect dramatic [conflict](people-conflicts.md) ([Matthew 10:34-36](https://biblehub.com/matthew/10.htm)).
+Expect dramatic [conflict](people-conflicts.md) (Matthew 10:34-36).
 
 - If any pre-conversion friends *also* convert to Christ, it's usually long after they've parted ways with you.
 
@@ -66,9 +66,9 @@ However, some "Christianisms" are worth avoiding:
 
 - "Give your heart to Jesus" (since you're not really "giving" anything as much as "surrendering")
 - "Give your life to God" (since your life's actions don't define whether He saves you)
-- "Invite Jesus into your heart (misuses [Revelation 3:20](https://biblehub.com/revelation/3-20.htm) which speaks specifically to Christians)
+- "Invite Jesus into your heart (misuses Revelation 3:20 which speaks specifically to Christians)
 - "Would you like to pray to receive Christ?" (the prayer doesn't matter, but instead in repenting and following Him)
-- "Accept Jesus today" (accepting Jesus as Lord and Savior is repentance, but accepting Him a person or deity doesn't create salvation ([James 2:19](https://biblehub.com/james/2-19.htm)))
+- "Accept Jesus today" (accepting Jesus as Lord and Savior is repentance, but accepting Him a person or deity doesn't create salvation (James 2:19))
 
 Many pre-made approaches will deviate differently from Jesus' core message.
 
@@ -91,9 +91,9 @@ Many pre-made approaches will deviate differently from Jesus' core message.
 5. Jesus died for our sins, rose again, and is ruler and savior.
 6. Anyone who [believes](mind-understanding-certainty.md) in Jesus as Lord will have their sins forgiven and eternal life.
 
-Many Christians will focus on Jesus' death, but His resurrection is the only part that gives hope ([1 Corinthians 15:12-19](https://biblehub.com/1_corinthians/15.htm)).
+Many Christians will focus on Jesus' death, but His resurrection is the only part that gives hope (1 Corinthians 15:12-19).
 
-- They can also mix themselves so much into the responsibility for dying to themselves that they forget about the abundant Christian life ([John 10:10](https://biblehub.com/john/10-10.htm)).
+- They can also mix themselves so much into the responsibility for dying to themselves that they forget about the abundant Christian life (John 10:10).
 
 Don't obsess about appearing professional, precise, or [convincing](power-influence.md).
 
@@ -106,31 +106,32 @@ These are just a few gathered approaches. This is a non-exhaustive list, and peo
 
 [The Four Spiritual Laws](https://www.cru.org/content/movementlife/ph/en/how-to-know-god/would-you-like-to-know-god-personally1.html):
 
-1. God loves you ([John 3:16](https://biblehub.com/john/3-16.htm))
-2. Man is sinful and separated from God ([Romans 3:23](https://biblehub.com/romans/3-23.htm), [Romans 6:23](https://biblehub.com/romans/6-23.htm), [Isaiah 59:2](https://biblehub.com/isaiah/59-2.htm))
-3. Jesus Christ is God’s only provision for man’s sin ([Romans 5:8](https://biblehub.com/romans/5-8.htm))
-4. We must individually receive Jesus as Savior and Lord ([John 1:12](https://biblehub.com/john/1-12.htm), [Romans 10:9](https://biblehub.com/romans/10-9.htm), [Ephesians 2:8](https://biblehub.com/ephesians/2-8.htm))
+1. God loves you (John 3:16)
+2. Man is sinful and separated from God (Romans 3:23, Romans 6:23, Isaiah 59:2)
+3. Jesus Christ is God’s only provision for man’s sin (Romans 5:8)
+4. We must individually receive Jesus as Savior and Lord (John 1:12, Romans 10:9, Ephesians 2:8)
 
 F.A.I.T.H:
 
-- F for Forgiveness: Everyone has sinned and needs God's forgiveness ([Romans 3:23](https://biblehub.com/romans/3-23.htm), [Ephesians 1:7](https://biblehub.com/ephesians/1-7.htm))
-- A for Available: Forgiveness is available to all, but is not automatic ([John 3:16](https://biblehub.com/john/3-16.htm), [Matthew 7:21](https://biblehub.com/matthew/7-21.htm))
-- I for Impossible: The Bible tells us it is impossible for us to get to heaven on our own ([Romans 3:23](https://biblehub.com/ephesians/2.htm))
-- T for Turn: We must turn away from our sin and self ([Luke 13:3](https://biblehub.com/luke/13-3.htm), [John 14:6](https://biblehub.com/john/14-6.htm), [Romans 10:9](https://biblehub.com/romans/10-9.htm))
-- H for Heaven: We will go to a place where we will live with God forever ([John 14:3](https://biblehub.com/john/14-3.htm))
+- The presentation is a conversational strategy that uses several questions to initiate a conversation.
+- F for Forgiveness: Everyone has sinned and needs God's forgiveness (Romans 3:23, Ephesians 1:7)
+- A for Available: Forgiveness is available to all, but is not automatic (John 3:16, Matthew 7:21)
+- I for Impossible: The Bible tells us it is impossible for us to get to heaven on our own (Romans 3:23)
+- T for Turn: We must turn away from our sin and self (Luke 13:3, John 14:6, Romans 10:9)
+- H for Heaven: We will go to a place where we will live with God forever (John 14:3)
 
 Two Ways to Live:
 
-1. God is a good ruler and creator ([Revelation 4:11](https://biblehub.com/revelation/4-11.htm))
-2. We have rebelled against God ([Isaiah 53:6a](https://biblehub.com/isaiah/53-6.htm))
-3. God is just ([Hebrews 9:27](https://biblehub.com/hebrews/9-27.htm))
-4. God sent Jesus to die for us ([Isaiah 53:6](https://biblehub.com/isaiah/53-6.htm))
-5. Jesus is the risen ruler and savior ([1 Peter 1:3](https://biblehub.com/1_peter/1-3.htm))
-6. We must choose from two ways to live ([John 3:36](https://biblehub.com/john/3-36.htm))
+1. God is a good ruler and creator (Revelation 4:11)
+2. We have rebelled against God (Isaiah 53:6a)
+3. God is just (Hebrews 9:27)
+4. God sent Jesus to die for us (Isaiah 53:6)
+5. Jesus is the risen ruler and savior (1 Peter 1:3)
+6. We must choose from two ways to live (John 3:36)
 
 ## Spiritual conversations
 
-[Make casual friendships](people-friends.md) with non-believers and seek opportunities to serve your neighbors ([Mark 12:28-31](https://biblehub.com/mark/12.htm)).
+[Make casual friendships](people-friends.md) with non-believers and seek opportunities to serve your neighbors (Mark 12:28-31).
 
 Spiritual discussions inspire [spiritual attention](spiritual-warfare.md).
 
@@ -175,13 +176,13 @@ At the same time, learn to develop confidence similar to the Apostle Paul:
 
 Fit your presentations with the culture.
 
-- In Jesus' day, society permitted open-air preaching ([Acts 2:14-36](https://biblehub.com/acts/2.htm)).
+- In Jesus' day, society permitted open-air preaching (Acts 2:14-36).
   - Open-air preaching is actually *harmful* to the Gospel in societies that value privacy.
 - Find [creative](mind-creativity.md) ways to share the Gospel:
   - Open a booth at an event to advertise fulfillment and meaning, then share the Gospel to anyone who wants to hear.
   - Print, make or buy small tracts you can give to others.
   - Always keep copies of the Bible or [pocket Gospel presentations](http://www.ptl.org) with you.
-- However, sharing with people will *never* influence anyone as much as helping them with what they need because you love them ([1 Corinthians 13:1-3](https://biblehub.com/1_corinthians/13.htm)).
+- However, sharing with people will *never* influence anyone as much as helping them with what they need because you love them (1 Corinthians 13:1-3).
 
 A [culture](people-culture.md) saturated with [marketing](marketing.md) tends to dislike [persuasive messages](power-influence.md), but won't mind you sharing your personal experience.
 
@@ -192,7 +193,7 @@ A [culture](people-culture.md) saturated with [marketing](marketing.md) tends to
 - If they're still interested, ask them if they mind you using your Bible.
 - Walk them through the [basics of salvation](https://theologos.site/gospel/) and either drop it or pray with them as the situation permits.
 
-God calls us to make [disciples](spiritual-discipleship.md), *not* fix the world ([Matthew 28:19-20](https://biblehub.com/matthew/28.htm)).
+God calls us to make [disciples](spiritual-discipleship.md), *not* fix the world (Matthew 28:19-20).
 
 - The humanitarian needs in this world are severe, but only Jesus can solve them (and [He eventually will](https://theologos.site/millennium/)).
 - Jesus came to fix the sin condition, which has caused *all* the world's issues.

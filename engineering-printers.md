@@ -35,6 +35,8 @@ Beyond imposing a black substance onto a paper medium, there are various other p
 - Multiple trays to allow printing different paper sizes or types, which can also include a multipurpose tray.
 - Toner/ink page counter, which can *also* serve to cost more money long-term in wasted toner/ink (see below).
 
+Color printers, in particular, have anti-counterfeit feature that generates very small yellow dots in a predictable pattern. The dots are yellow because they are the least identifiable, and there's no way to turn them off. Those dots represent a specific ID to that printer, and the only way to not have them is to get a black and white printer.
+
 But, most of the features are simply extra padding for the quality of a printer. Instead, watch for legitimate performance metrics to determine the printer's quality:
 
 - Duty cycle - the number of pages (typically thousands or tens of thousands) before it needs routine servicing.

@@ -23,7 +23,7 @@ Political views mixed with faith:
 - The most significant factor about whether politics are worth pursuing is *why* you endorse it.
   - Protecting legitimately suffering people (e.g., unborn children, orphans) is a Christ-like endeavor.
   - However, make sure you're not simply receiving indoctrination talking points from political [influencers](power-influence.md).
-- Take a stand on [clear ethical positions](morality.md), and ask Him for wisdom for difficult ones ([James 1:5](https://biblehub.com/james/1-5.htm)).
+- Take a stand on [clear ethical positions](morality.md), and ask Him for wisdom for difficult ones (James 1:5).
   - Be careful, though, since it's easy to fall into a secular political cult (see below).
 
 Lifestyle and [cultural](people-culture.md) decisions:

@@ -24,7 +24,18 @@ Of course, if you're not interested in a long college experience, you can often 
 
 Most employers don't really care about anything beyond a 4-year degree, though some parts of the industry (like [cybersecurity](computers-cysec.md)) obsess about it. If you need to, get an [ABET-accredited online program](https://www.abet.org/accreditation/find-programs/) to bypass most of the tedium.
 
-You can also attend an accelerated course called a "bootcamp". Most of them cost money, though some (e.g., [freeCodeCamp](https://www.freecodecamp.org/)) are completely free. Some are simply social movements, such as the #100DaysOfCodeChallenge.
+You can also attend an accelerated course called a "bootcamp". Most of them cost money, though some (e.g., [freeCodeCamp](https://www.freecodecamp.org/)) are completely free.
+
+- Some are simply social movements, such as the #100DaysOfCodeChallenge.
+- Be careful, however, of grift in bootcamps, especially when they're more than a few thousand dollars.
+- If you're starting to pay money for bootcamps, aim for certifications instead.
+- Many of these certifications don't take much time or money:
+  - [W3Schools SQL Certificate](https://www.w3schools.com/Sql/sql_exam.asp): $95
+  - [dbt Analytics engineer certification](https://www.getdbt.com/certifications/analytics-engineer-certification-exam): $200
+  - Cisco has a [CCNA networking certification](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html): $300
+  - Most entry-level cloud data engineering certifications (e.g., Amazon, Azure, GCP) are relatively straightforward and don't cost more than $200.
+  - CompTIA has three starting certifications (A+, Network+, Security+) that cost ~$300 each.
+- However, being education-heavy without projects to prove yourself will prevent you from getting work.
 
 If you're bold and confident in your abilities, you can compete against other programmers in a hackathon. It's a great way to test your skill while at the same time getting an award for it!
 

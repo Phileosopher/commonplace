@@ -21,7 +21,7 @@ Naturally, this was offensive to the then-only Church at the time. This caused m
 
 So, without the distraction of historical setting, the Solae allude to [*much* deeper conflicts](people-conflicts-christian-3_near.md) any theologically inclined Christian (and [Church leadership](mgmt-church.md)) must wrestle with.
 
-It's worth noting the Solae are *not* matters of [salvation](https://theologos.site/gospel/), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) ([Luke 22:24-30](https://biblehub.com/luke/22.htm)).
+It's worth noting the Solae are *not* matters of [salvation](https://theologos.site/gospel/), and believing either way on the matter does *not* bar someone from going to heaven. Their future *position* in the Kingdom may be up for debate, but *that* [shouldn't matter to us in our daily journey anyway](https://theologos.site/devotion-chaos/) (Luke 22:24-30).
 
 ## A. Sola Scriptura
 
@@ -45,9 +45,9 @@ Parsing the concept further shows several moving parts from how much the Bible a
 
 God loves variety (as evidenced by [His vast array of life, celestial objects, and physical structures](science.md)), so open-ended statements are logically consistent with His nature. This results in God intentionally framing the Bible with few to no verses about many subjects.
 
-This vagueness does provide freedom ([Galatians 5](https://biblehub.com/galatians/5.htm)), but we can *easily* overstep into error:
+This vagueness does provide freedom (Galatians 5), but we can *easily* overstep into error:
 
-1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion ([Mark 12:17](https://biblehub.com/mark/12-17.htm)) or homosexuality ([Romans 1:26-27](https://biblehub.com/romans/1.htm)) as a good thing.
+1. We mustn't modify Scripture to accommodate cultural considerations beyond what the Bible plainly says. For example, there's no way to interpret God seeing tax evasion (Mark 12:17) or homosexuality (Romans 1:26-27) as a good thing.
 2. If we make clarifications of vague passages, *our* faith and beliefs in God create that (and not necessarily the collective of Christianity), and we must accept our interpretation of the matter is only one way to see things.
 3. We can't make absolute rules where Scripture is completely silent. We can make *personal* rules toward [our spiritual development](spiritual-exercises.md), but enforcing those rules is [poor boundaries with others](people-boundaries.md) and a type of [sin](theology-sins.md).
 4. In particular, [church leaders](mgmt-church.md) must be careful what they forbid and how they do it within their domain of [influence](power-influence.md).
@@ -64,13 +64,13 @@ Church and Scripture with the same authority permits more clear guidance from th
 
 The advantage of Scripture over Church is that the Scripture holds more true, meaning it won't change with [social fashions](people-trends.md), but it comes with the disadvantage that there's no true authority where the Bible is silent.
 
-It's entirely a [political](politics-systems.md) question, and the authority of the Church shouldn't matter as much as everyone abiding together in the spirit of love ([John 13:35](https://www.bible.com/bible/206/jhn.13.35)) and that there's at least *some* sense of [order](unknown.md) ([1 Corinthians 14:26-32](https://biblehub.com/1_corinthians/14.htm)).
+It's entirely a [political](politics-systems.md) question, and the authority of the Church shouldn't matter as much as everyone abiding together in the spirit of love (John 13:35) and that there's at least *some* sense of [order](unknown.md) (1 Corinthians 14:26-32).
 
 Human culture across the lens of geography and history is vast, and it's *very* likely God purposely omitted information to permit our interpretation to prevail. The best [laws](people-rules.md) are written in the same spirit: rules stay [fair](morality-justice.md) when they omit context and transcend culture to [apply to all people](humanity-universals.md).
 
 ### Problem 2: *Which* Scriptura?
 
-God designed everything as a self-contained unit inside each of His books. Each book gives a unique perspective on Him and, as a result, gives us standards on [how to live](people-goodlife.md) and behave ([2 Timothy 3:16](https://biblehub.com/2_timothy/3-16.htm)). However, all the books of [the Bible](theology-bible.md) have differing *scope* of authority because they all contain different types of messages and concepts, even though they frequently carry [*very* similar themes](bible-patterns.md).
+God designed everything as a self-contained unit inside each of His books. Each book gives a unique perspective on Him and, as a result, gives us standards on [how to live](people-goodlife.md) and behave (2 Timothy 3:16). However, all the books of [the Bible](theology-bible.md) have differing *scope* of authority because they all contain different types of messages and concepts, even though they frequently carry [*very* similar themes](bible-patterns.md).
 
 The books of the Apocrypha/Deuterocanon distill to a difficult decision between two extremes:
 
@@ -88,7 +88,7 @@ Both sides have merits, and many believers will go to heaven who believe or don'
 
 Trusting God takes *far* more work than simply believing in Him, and requires [taking action](mind-decisions.md) more than simply [understanding](mind-understanding.md), and in whatever form the situation calls for.
 
-The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](https://theologos.site/gospel/) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32](https://biblehub.com/matthew/21.htm)).
+The framing of Sola Fide implies a strong demarcation between our trust and God's saving action. However, [Jesus died for all our sins](https://theologos.site/gospel/) *before* anyone alive today was even born, so God's faithfulness and promises is *far* more sufficient than any faith we can possess. If we trust God, we follow Him, and if we don't, we won't, and actions speak louder than words ([Matthew 21:28-32).
 
 The Sola Fide battle came largely out of an archaic conflict around the Catholic Church's [politics](politics-systems.md). Failing the Church's standards will *not* banish us to hell, and nearly every Christian would agree with that now: God's standards are where we find or lose salvation.
 
@@ -102,7 +102,7 @@ To be clear, God is *always* the one who saves us. Nobody can technically "belie
 
 Some people get tangled up in talking about "being faithful enough", but that's placing *far* too much emphasis on humanity's influence. While God acts in response to our decisions, *His* decision framework defines how we make decisions in the first place!
 
-Faith will invariably create works, and James literally affirms this with Rehab as an example ([James 2:25-26](https://biblehub.com/james/2.htm)). To that end, asking whether our works or faith save us is somewhat the wrong question.
+Faith will invariably create works, and James literally affirms this with Rehab as an example ([James 2:25-26). To that end, asking whether our works or faith save us is somewhat the wrong question.
 
 This entire debate of grace/works sprung historically from a long-standing disciplinary paradigm that goes back as far as St. Augustine, and likely longer. Most early Catholic thought was inspired by the Greek tradition of [logically dividing](logic.md) absolutely everything into atomic components. While it *can* increase understanding, we often lose sight of the big picture in the process.
 
@@ -124,12 +124,12 @@ There are several broad questions we don't have precisely clear answers on:
 
 Protestants simply answer #3 with "none" and carry on, but Catholics have a more nuanced metaphysical view. Roman Catholics have a fixed hierarchy where saints are very prominently differentiated from the Christian rabble, while Eastern Orthodox are much more open to a wide variety of interpretations.
 
-This Sola strikes heavily at the Church's authority to rule people ([Matthew 21:24-25](https://biblehub.com/matthew/21.htm)):
+This Sola strikes heavily at the Church's authority to rule people ([Matthew 21:24-25):
 
 - If the Church's authority is directly from Christ, we must justify distinctly *not good* things the Church did as an institution (e.g., Spanish Inquisition, Crusades).
 - If the Church's authority is *not* from Christ, anyone who can rightly handle Scripture has the legitimate authority to [start a church](mgmt-church.md).
 
-The spiritual success of Protestantism attests to God still having [His will done](god-will.md) through a different corporate structure, which attests to [Romans 11:17-21](https://biblehub.com/romans/11.htm).
+The spiritual success of Protestantism attests to God still having [His will done](god-will.md) through a different corporate structure, which attests to Romans 11:17-21.
 
 However, some [not-universally-accepted books of the Bible](bible-noncanon.md.md) allude to semiregular interaction between long-passed people and present people.
 
@@ -203,4 +203,4 @@ Altogether, it comes down to how much we are willing to concede to authority (an
 
 - Given the Catholic Church's descent into corruption, it has as much authority as any other worldly institution (e.g., Google, the State of Minnesota).
 
-However, no amount of clarifying thought will take away the philosophical haze we live under ([1 Corinthians 13:12](https://biblehub.com/1_corinthians/13-12.htm)). Jesus doesn't ask us to understand *any* of this, but instead to prioritize love over understanding ([1 Corinthians 13:2](https://biblehub.com/1_corinthians/13-2.htm)).
+However, no amount of clarifying thought will take away the philosophical haze we live under (1 Corinthians 13:12). Jesus doesn't ask us to understand *any* of this, but instead to prioritize love over understanding (1 Corinthians 13:2).

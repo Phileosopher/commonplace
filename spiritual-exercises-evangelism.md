@@ -1,13 +1,13 @@
 
 # How to evangelize (Missiology)
 
-Sharing Jesus (i.e., "good news sharing" or "evangelism") is a lifestyle [decision](mind-decisions.md) that comes from [understanding](mind-understanding.md) and imitating [what Jesus did](https://theologos.site/gospel/) ([1 Peter 2:21](https://biblehub.com/1_peter/2-21.htm)).
+Sharing Jesus (i.e., "good news sharing" or "evangelism") is a lifestyle [decision](mind-decisions.md) that comes from [understanding](mind-understanding.md) and imitating [what Jesus did](https://theologos.site/gospel/) (1 Peter 2:21).
 
-- Jesus has called us to travel out and make [disciples](spiritual-discipleship.md) across the world ([Matthew 28:19](https://biblehub.com/matthew/28-19.htm)), which starts with sharing it with everyone open to hearing it.
+- Jesus has called us to travel out and make [disciples](spiritual-discipleship.md) across the world (Matthew 28:19), which starts with sharing it with everyone open to hearing it.
 
 While evangelism is the outward purpose, the actual purpose of a Christian's life is through a mission.
 
-- A Christian's mission centralizes on [God's purposes](god-will.md), which is to draw from all tribes, nations, people groups, and languages ([Revelation 7:9](https://biblehub.com/revelation/7-9.htm)).
+- A Christian's mission centralizes on [God's purposes](god-will.md), which is to draw from all tribes, nations, people groups, and languages ([Revelation 7:9).
 - Mission incorporates evangelism, but also [discipleship](spiritual-discipleship.md), [worship](spiritual-exercises-prayer.md), and [community](church.md).
 - Missions can be macro-missional (large-scale) or micro-missional (small interactions).
 
@@ -21,13 +21,13 @@ Part of this mistake comes through our human perception of time.
 
 Evangelism is for everyone.
 
-- The angels could do a better job than Christians, but God wants believers to share in the experience ([Luke 1:11-20](https://biblehub.com/luke/1.htm), [Acts 1:10-11](https://biblehub.com/acts/1.htm)).
+- The angels could do a better job than Christians, but God wants believers to share in the experience (Luke 1:11-20, Acts 1:10-11).
 - Any Christian can share the Gospel, even right after becoming one, and can simply be a 2-minute conversation.
 - God will place people close to your skill level for sharing, so don't worry about fouling it up.
 
 There are many [competitors](religion-answers.md) and [deceptions](people-lying.md), so [it won't be easy](hardship-persecution-church.md).
 
-- Your reputation and ministry will come through how you [love other believers](spiritual-exercises.md) ([John 13:35](https://biblehub.com/john/13-35.htm)).
+- Your reputation and ministry will come through how you [love other believers](spiritual-exercises.md) (John 13:35).
 - While your [ability to sell](marketing.md) may affect your initial encounter, people will see your lifestyle pretty quickly.
 
 Your [personality](people-identity.md) defines how you may want to approach others about the subject.
@@ -56,7 +56,7 @@ Your evangelism is, to the person who converts, the beginning of a [long relatio
 
 - They will need guidance, and you're at least [partly responsible](meaning.md) for helping them.
 
-The Christian walk, therefore, is *much* more [discipleship](spiritual-discipleship.md) than simply evangelism ([Matthew 28:18-20](https://biblehub.com/matthew/28.htm)).
+The Christian walk, therefore, is *much* more [discipleship](spiritual-discipleship.md) than simply evangelism (Matthew 28:18-20).
 
 Keep [pursuing Him](spiritual-exercises.md), [praying](spiritual-exercises-prayer.md), and serving to discover your [spiritual gifts](spiritual-gifts.md) and role in His Kingdom.
 

@@ -9,19 +9,19 @@ For the sake of a well-rounded education, every Christian should eventually be a
 
 ## Ancient Times
 
-The first promise given to Abraham has a greater reach, and simply says God will make Abram a great nation ([Genesis 12:1-3](https://biblehub.com/genesis/12.htm)).
+The first promise given to Abraham has a greater reach, and simply says God will make Abram a great nation (Genesis 12:1-3).
 
-- The promises about blessings and curses very well may apply to Christians, at least to some extent ([John 15:1-8](https://biblehub.com/john/15.htm)).
-- However, those promises aren't *completely* transferable ([Numbers 24:2-9](https://biblehub.com/numbers/24.htm)).
+- The promises about blessings and curses very well may apply to Christians, at least to some extent (John 15:1-8).
+- However, those promises aren't *completely* transferable (Numbers 24:2-9).
 
-The second promise given to Abraham, however, was for a son and [a proper nation with geographical boundaries](history-israel--1875.jpg) ([Genesis 15:18-19](https://biblehub.com/genesis/15.htm)).
+The second promise given to Abraham, however, was for a son and [a proper nation with geographical boundaries](history-israel--1875.jpg) (Genesis 15:18-19).
 
 - This was approximately 1875 BC.
 - He was promised to take over the land of the Kenites, Kennizzites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites, Canaanites, Girgashites, and Jebusites.
 
 It's worth noting in our [GPS-laden culture](logistics-navigation.md), across almost any map before the 18th century and [Age of Exploration](history-eras.md), that territory wasn't precisely stated according to mileage and measurements, and used landmarks instead. It's also worth noting that ancient society's years always have a 5-20 year margin of error.
 
-However, this territory never actualized into anything until *much* later, around 1406-1405 BC with [Joshua conquering a large chunk of the land](history-israel--1405.jpg) ([Joshua 6-22](https://biblehub.com/joshua/6.htm)).
+However, this territory never actualized into anything until *much* later, around 1406-1405 BC with [Joshua conquering a large chunk of the land](history-israel--1405.jpg) (Joshua 6-22).
 
 This was the realistic high-point of Israel's geography. After Joshua, no further land was taken, and they have never had that much territory.
 
@@ -31,36 +31,36 @@ The geography of Israel moved around a bit for a long while,
 
 ## Israel's Fall
 
-In 1043 BC, Saul was crowned as Israel's first king, officially converting the kingdom to a monarchy. [Rehoboam's rebellion divided Israel into the kingdoms of Israel and Judah](history-israel--931.jpg) by 931 BC ([1 Kings 12-13](https://biblehub.com/1_kings/12.htm)). The division started because the southern tribes helped sneak David across the Jordan at night.
+In 1043 BC, Saul was crowned as Israel's first king, officially converting the kingdom to a monarchy. [Rehoboam's rebellion divided Israel into the kingdoms of Israel and Judah](history-israel--931.jpg) by 931 BC (1 Kings 12-13). The division started because the southern tribes helped sneak David across the Jordan at night.
 
-Shortly later, around 995 BC, Solomon built the First Temple ([2 Chronicles 3:1-2](https://biblehub.com/2_chronicles/3.htm)).
+Shortly later, around 995 BC, Solomon built the First Temple (2 Chronicles 3:1-2).
 
 After about a dozen monarchs, around 727-722 BC during Isaiah's time, the Assyrians conquered Israel.
 
-- They conquered Naphtali and the Israelite tribes east of the Jordan River first ([2 Kings 15:29](https://biblehub.com/2_kings/15-29.htm), [1 Chronicles 5:26](https://biblehub.com/1_chronicles/5-26.htm)).
-- A few years later, they took over the rest of Israel's kingdom, with the survivors sent into exile and the Assyrians settling the land ([2 Kings 17](https://biblehub.com/2_kings/17.htm)).
+- They conquered Naphtali and the Israelite tribes east of the Jordan River first (2 Kings 15:29, 1 Chronicles 5:26).
+- A few years later, they took over the rest of Israel's kingdom, with the survivors sent into exile and the Assyrians settling the land (2 Kings 17).
 
-A few generations later around 680 BC, the Assyrians moved their attention to Judah and attacked all their fortified cities, though Jerusalem was not part of it ([Isaiah 36:1](https://biblehub.com/isaiah/36-1.htm)).
+A few generations later around 680 BC, the Assyrians moved their attention to Judah and attacked all their fortified cities, though Jerusalem was not part of it (Isaiah 36:1).
 
 - By this point, "Israel" was essentially the city of Jerusalem.
 
-In 608 BC, the Egyptians captured king Jehoahaz, then appointed another son of the previous king, changed his name, and required Jerusalem to pay them tribute ([2 Kings 23:31-35](https://biblehub.com/2_kings/23.htm)).
+In 608 BC, the Egyptians captured king Jehoahaz, then appointed another son of the previous king, changed his name, and required Jerusalem to pay them tribute (2 Kings 23:31-35).
 
-Around 595 BC, Nebuchadnezzar of Babylon conquered Judah ([Jeremiah 52](https://biblehub.com/jeremiah/52.htm)).
+Around 595 BC, Nebuchadnezzar of Babylon conquered Judah (Jeremiah 52).
 
 - The Jews rebelled, and were able to wrestle control back for a few years.
 - In 586, Babylon took out any opposition, destroyed their temple and took the remaining Jews into exile.
 - At this point, any Hebrew leadership effectively served as a thrall for their reigning empire.
-- Most of the story involving Daniel and his friends come from post-exile ([Daniel 1](https://biblehub.com/daniel/1.htm)).
+- Most of the story involving Daniel and his friends come from post-exile (Daniel 1).
 
 ## Changing Ownership
 
-In 539 BC, Cyrus the Persian conquered Babylon, and gave free passage for Judeans to return to their land ([Ezra 1-6](https://biblehub.com/ezra/1.htm)).
+In 539 BC, Cyrus the Persian conquered Babylon, and gave free passage for Judeans to return to their land (Ezra 1-6).
 
 - Zerubbabel built the Second Temple at this time, but it was radically inferior to the First Temple's glory until centuries later.
 - The Hebrew Torah was canonized at this point, and began Rabbinic Judaism (i.e., mainstream [Judaism](religion-answers.md)).
 
-Around 450 BC, Nehemiah rebuilt a wall around Jerusalem and reinstituted Hebrew law ([Nehemiah 1-13](https://biblehub.com/nehemiah/1.htm)).
+Around 450 BC, Nehemiah rebuilt a wall around Jerusalem and reinstituted Hebrew law (Nehemiah 1-13).
 
 Somewhere in the 4th century BC, the term for the region was coined as "Palestine", and typically included the larger region of Syria and Jordan. Its etymology may be tied to the word "Philistia" (land of the Philistines).
 
@@ -88,7 +88,7 @@ It's worth noting that Jesus' intentionally concealed messages had *tremendous* 
 
 - The Roman leadership were concerned about an uprising, since the Jews had had a pattern of not recognizing the Caesar as one of the gods (since they were [monotheistic](religion-answers.md)).
 - The Jewish leadership were very nervous, since it risked Rome attacking the Hebrew leadership in retaliation if they agreed with any of it.
-- Rebellious and insurrectionist thinkers weren't happy with the idea, since he advocated for *not* fighting against your oppressors ([Matthew 5:38-47](https://biblehub.com/matthew/5.htm)).
+- Rebellious and insurrectionist thinkers weren't happy with the idea, since he advocated for *not* fighting against your oppressors (Matthew 5:38-47).
 - Everyday people were quite engaged with him, since he taught about a uniquely different way of thinking than the Romanized/Hellenistic thinking they had been exposed to.
 
 The First Jewish-Roman War was in 66-73 was a strictly nationalist rebellion, meant to establish an independent Judean state.
@@ -185,7 +185,7 @@ There are several non-exclusive potential contributors to their relative success
 2. The culture surrounding their religious faith is very effective at [money management](money-3_budget.md), often because their host nation has forbidden them from managing other [forms of power](power-types.md).
 3. God, in whatever capacity, blesses them miraculously.
 
-While Zionism among Judaism had always persisted since their first exile, the late 19th century was the beginning of them *actually* returning to their ancestral homeland ([Isaiah 11:11-12](https://biblehub.com/isaiah/11.htm)).
+While Zionism among Judaism had always persisted since their first exile, the late 19th century was the beginning of them *actually* returning to their ancestral homeland (Isaiah 11:11-12).
 
 The First Aliyah was the first major wave of immigration between 1881 and 1903.
 
@@ -304,7 +304,7 @@ In 1964, The Palestine Liberation Organization (PLO) was founded, with the origi
 
 In 1967, Egypt mustered an army near Israel's border, expelled UN peacekeepers, and blocked Israel's access to the Red Sea.
 
-- Other Arab states mobilized their forces as well, and Israel saw it as a [casus belli](glossary-legal-ac.md) to strike pre-emptively.
+- Other Arab states mobilized their forces as well, and Israel saw it as a casus belli to strike pre-emptively.
 - On June 6, 1967, Israel captured and occupied Jordan's West Bank, the Gaza Strip and Sinai Peninsula, and Syria's Golan Heights. It concluded on June 10, and was called the Six-Day War for that reason.
 
 The 1967 Arab League Summit issued the Khartoum Resolution on September 1st, which was renowned for its "Three Noes" in the 3rd paragraph:
@@ -405,14 +405,14 @@ Many parts of the world seems to hate Israel, however, and across the lens of hi
 
 Christians are *not* responsible for involving themselves with the politics of Israel's national status.
 
-- The crazy events we're experiencing are technically none of our business ([Matthew 24:3-8](https://biblehub.com/matthew/24.htm)).
-- Contrary to [Western political dialogue](https://theologos.site/the-west/), we should simply expect [persecution](hardship-persecution-church.md), [evil](morality-evil.md), and [hardship](hardship.md), in all its forms ([Matthew 24:9-14](https://biblehub.com/matthew/24.htm)).
-- Irrespective of [dispensational theology](people-conflicts-christian-why.md), the Jews certainly *were* God's people, but that doesn't mean Christians have *any* superiority over them in God's sight ([Romans 11](https://biblehub.com/romans/11.htm)).
-  - Unlike [Christians' predictions of Jesus returning](theology-end.md), the Jewish majority is secular, and they've adopted a strange adaptation of the covenant with Noah ([Genesis 9:1-17](https://biblehub.com/genesis/9.htm)) called [Noahidism](https://en.wikipedia.org/wiki/Noahidism), which essentially takes on a much more [political approach](power-types.md) revolving around the Third Temple.
-  - God is faithful enough that the Hebrew people will never be fully destroyed ([Revelation 7](https://biblehub.com/revelation/7.htm)), but that says *nothing* directly about the political entity we call Israel today.
+- The crazy events we're experiencing are technically none of our political business (Matthew 24:3-8).
+- Contrary to [Western political dialogue](https://theologos.site/the-west/), we should simply expect [persecution](hardship-persecution-church.md), [evil](morality-evil.md), and [hardship](hardship.md), in all its forms (Matthew 24:9-14).
+- Irrespective of [dispensational theology](people-conflicts-christian-why.md), the Jews certainly *were* God's people, but that doesn't mean Christians have *any* superiority over them in God's sight (Romans 11).
+  - Unlike [Christians' predictions of Jesus returning](theology-end.md), the Jewish majority is secular, and they've adopted a strange adaptation of the covenant with Noah (Genesis 9:1-17) called [Noahidism](https://en.wikipedia.org/wiki/Noahidism), which essentially takes on a much more [political approach](power-types.md) revolving around the Third Temple.
+  - God is faithful enough that the Hebrew people will never be fully destroyed (Revelation 7), but that says *nothing* directly about the political entity we call Israel today.
 - Jesus [loves every single human being](https://theologos.site/gospel/), which includes all Jews *and* all Arabs, and Christians are responsible to love their neighbors and enemies in the same way.
 
-If we take it literally, the Bible makes it very clear from [Ezekiel 45-48](https://biblehub.com/ezekiel/48.htm) about [what Israel will look like](history-israel-future.jpg).
+If we take it literally, the Bible makes it very clear from Ezekiel 45-48 about [what Israel will look like](history-israel-future.jpg).
 
 While it may seem contradictory, it's easy enough for all Christians to generally do the following:
 

@@ -32,6 +32,16 @@ Your urine color is a profound indicator of health:
 - Blue or green urine comes from a rare genetic disease.
 - Foamy urine where the bubbles don't go away is a sign of kidney disease (though bubbles are typically normal).
 
+Your phlegm color gives clear indications of respiratory health:
+
+- White, gray, or clear is healthy.
+- White with a yellowish tint can sometimes signal an infection or inflammation.
+- Yellow, dark yellow, or green means possible microbial infection or chronic inflammation.
+- Pink means possible heart failure.
+- Red means irritation, infection, or cancer.
+- Dark brown means a possible infection like bacterial pneumonia.
+- Black means old blood, or from something you inhaled.
+
 There are also [many tricks for most minor issues](body-treatments-minor.md).
 
 ## Frostbite

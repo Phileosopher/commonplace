@@ -24,6 +24,8 @@ To get a people group to [consent](people-contracts.md) to any form of war, they
    1. Is certainly *not* the cause of their hardship.
    2. Can effectively convince almost everyone of a specific group of people who are causing their hardship.
 
+APPLICATION: Normal people in healthy societies don't want to go to war. Only people who suffer [hardship](hardship.md) and project it against another people group will actually want war.
+
 The more hardship, the less difficult to convince. The strongest selling point to attack other groups comes from overstating [fears](mind-feelings-fear.md) of what may happen if the other group wins.
 
 Each group can (and usually will) damage other groups to the degree that larger groups don't have [power](power.md) over them. If they're the highest government in the land, they can kill at will and do almost anything they want. If they're a corporation or colony that a more powerful group (e.g., a government) could dismantle, they'll only act within their [privileges](people-boundaries-why.md) unless they're making a strategic and significant [decision](mind-decisions.md).

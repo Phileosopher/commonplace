@@ -14,6 +14,12 @@ The reason these myths work over the raw facts is because the [symbols](symbols.
 - We commonly use [art](art.md) to infuse [joy](mind-feelings-happiness.md) into an otherwise miserable experience or [fear](mind-feelings-fear.md) into a seemingly safe experience.
 - In general, [children](parenting-children.md) get plenty of things to be afraid of, so it's usually better to provide joy more than fear.
 
+Further, every society has a "foundation myth", which fulfills three major functions:
+
+1. It explains the origin and structure of [the world and society](groups-large.md).
+2. It defines the ultimate source of [morality](morality.md).
+3. It determines things that are [sacred](morality-taboo.md) in that society.
+
 ## Genres
 
 Drama and comedy are a portrayal of the difficult and enjoyable parts of the [good life](people-goodlife.md), respectively

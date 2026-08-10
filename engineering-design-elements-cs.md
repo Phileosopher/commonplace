@@ -7,6 +7,13 @@ Many elements abide by the [Web Content Accessibility Guidelines](https://www.w3
 
 The visual flow in an interface must allow the eyes to travel along a line. That line should be as short as reasonably possible.
 
+Aim for simplicity as much as possible within all computer systems, since you should always make base assumptions about every single device:
+
+- It may be color, or black-and-white.
+- It may be a desktop or a mobile device.
+- The internet connection or processing power of that computer may be very limited.
+- The user may have a problem seeing colors (e.g., colorblind) or will not respond well to certain colors (e.g., autism, dyslexia).
+
 ## The object's structure
 
 The abstract nature of computer interfaces makes simple and easy interfaces *much* more critical than non-computer design.
@@ -85,6 +92,7 @@ The buttons and selections should be seamless on *all* varieties of input periph
 - Do *not* move things the user may potentially select, especially if the content is partially loaded.
 - If the user will be on a mobile device, provide a "copy to clipboard" button next to an important piece of information.
 - The button's padding height should be half the padding for its width.
+- Except for rare instances, every button should be at least 60px tall.
 
 A dropdown takes multiple selections by the user, so *only* use them if the users aren't on a mobile device, there are hardly any options, and the users rarely need to change the default value:
 
@@ -145,6 +153,7 @@ Other selection features ought to be industry-standard, but often aren't:
 - Have settings available for advanced and experienced users, with all the options available the most advanced user would ever need. If a setting might break something, prompt the user.
 - Instead of directing permission requests directly to the operating system's prompt when the software needs it, have the user make an opt-in selection within the software with a lock-out if it's *absolutely* necessary.
 - Give a posted date for content that isn't designed to be completely time-insensitive.
+- If a page has an endless scroll loading feature, it shouldn't have footer content.
 
 ## Conveying media
 
@@ -162,11 +171,12 @@ Keep icons consistent across the medium or page:
 
 ## Typography
 
-The dynamic nature of screens give *much* more control for designers over fonts:
+The dynamic nature of screens give *much* more control for designers over [fonts](language-writing-typography.md):
 
 - Proportional font scaling that distinguishes headings, subheadings, and body text from each other.
 - Because of the varying sizes of screens, most interfaces incorporate "liquid layouts", where the size of the interface is defined by a percentage in a box rather than pixel size.
 - Keep the body text font over 16 points.
+- Since the rest of the design within a computer is far more minimalistic than natural environments, [stay *very* mindful of font selection](engineering-design-font.png).
 
 Many good ideas in typography aren't common, but should be:
 
@@ -199,6 +209,15 @@ Accessibility via text-to-speech is possible on all the major operating systems:
 - Android has TalkBack (under Accessibility>TalkBack)
 
 ## Icons
+
+Icon design uses natural relationships, so their design should reflect familiar objects to other people.
+
+- "Filter" was once like an oil filter, but now looks like soundboard controls.
+- "Share" once looked like a network, but now uses an arrow traveling from the bottom and curving to the right.
+- "Send" was once an open envelope, but is now a paper airplane.
+- "Save" was once a floppy disk, but is now a cloud with an up arrow inside it.
+- "Phone" was once a handheld telephone receiver, but sometimes uses a visual design like a smartphone.
+- "Sound" was once a speaker, but is now a spectrograph.
 
 For icons, use SVGs instead of icon fonts.
 

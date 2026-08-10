@@ -15,8 +15,8 @@ Draw a clear line between needs and conveniences.
 
 Needs are whatever Scripture commands and necessary for the Church to operate.
 
-- Music that sings praise to the Lord ([Psalm 33:1-13](https://biblehub.com/psalms/33.htm)).
-- In-reach - Teaching or [discipleship](spiritual-discipleship.md) through preaching and [Bible study](bible-study.md) ([Titus 2:7-8](https://biblehub.com/titus/2.htm)).
+- Music that sings praise to the Lord (Psalm 33:1-13).
+- In-reach - Teaching or [discipleship](spiritual-discipleship.md) through preaching and [Bible study](bible-study.md) (Titus 2:7-8).
 - Outreach - Opportunities for [evangelism](spiritual-exercises-evangelism.md) and other ministries, sending missionaries and ministers, and minister elections.
   - In most conventional churches, this is the public weekly congregation.
 - Communion/ Eucharist, public baptisms, marriages, and funerals.
@@ -44,7 +44,7 @@ Conveniences have benefits but can sometimes impede the ministry's [purpose](pur
 
 ## Leadership needs
 
-More than anything, the most significant risk to the Church is leaven, or religiosity ([Matthew 16:11](https://biblehub.com/matthew/16-11.htm)).
+More than anything, the most significant risk to the Church is leaven, or religiosity (Matthew 16:11).
 
 - Religious thinking is a type of inward [bureaucracy](bureaucracy.md) that separates our [image](people-image-why.md) from [reality](reality.md).
 - Without that authentic connection to reality around us, we have no hope of connecting our unseen [souls](theology-godandman-humanity.md) to an unseen [God](theology-god.md).
@@ -63,7 +63,7 @@ Poorly appointing leaders can create *tremendous* problems:
 
 - If someone has a poor public reputation in a [specialization](jobs-specialization.md) beyond their church, they're in direct violation of Titus 1.
   - Formal leaders are [symbols](symbols.md) of their organization's [values](values.md), and they're *far* more responsible to represent the eternal virtues of Christ than anyone else.
-- While it may seem unkind, it can protect them from a harsher punishment ([James 3:1](https://biblehub.com/james/3-1.htm)).
+- While it may seem unkind, it can protect them from a harsher punishment (James 3:1).
   - It also protects everyone *else* who would otherwise have been harmed by their mismanagement of the truth.
 - In short, not saying "no" to bad leadership candidates is a sin by enabling the Pharisees' leaven.
 
@@ -178,7 +178,7 @@ Little or no faith will make a ministry reluctant to hear God's will:
 
 If the ministry has more than two of the above issues from deficient motivational gifts, it might not have enough hardship.
 
-- Hardship brings out character and hope for groups *and* individuals ([Romans 5:3-5](https://biblehub.com/romans/5.htm)).
+- Hardship brings out character and hope for groups *and* individuals (Romans 5:3-5).
 - In the absence of hardship, every ministry becomes a [dysfunctional system](mgmt-badsystems.md).
 - Pray for God to bring hardship for spiritual growth and ask trustworthy leaders to do the same.
 
@@ -190,5 +190,5 @@ Watch for how believers' constant sin condition affects the group:
   - Condemning trends without a legitimate moral cause will shut off opportunities for the Gospel.
 - Focusing on the [end times](theology-end.md) and the geopolitical circumstances has no spiritual gain.
   - When you bring up the world, show how our lives should differ from its culture.
-  - The purpose of prophecy is to inspire us, not create present anxiety ([Revelation 22:16-17](https://biblehub.com/revelation/22.htm)).
+  - The purpose of prophecy is to inspire us, not create present anxiety (Revelation 22:16-17).
   - Focus steadfastly on [what's coming long-term](https://theologos.site/millennium/).

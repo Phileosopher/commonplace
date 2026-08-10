@@ -3,9 +3,9 @@
 
 God speaks to His people primarily through the Bible.
 
-- God gave Scripture to make fools wise ([1 Corinthians 1:27](https://biblehub.com/1_corinthians/1-27.htm)).
-- He does speak in other revelations and visions, but they will *always* echo the Bible's messages and be pure, peaceable, gentle, fruitful, unbiased, and genuine ([James 3:17](https://biblehub.com/james/3-17.htm)).
-- God's Word always leaves an impact on someone listening, and often includes the *speaker* ([Isaiah 55:11](https://biblehub.com/isaiah/55-11.htm)).
+- God gave Scripture to make fools wise (1 Corinthians 1:27).
+- He does speak in other revelations and visions, but they will *always* echo the Bible's messages and be pure, peaceable, gentle, fruitful, unbiased, and genuine (James 3:17).
+- God's Word always leaves an impact on someone listening, and often includes the *speaker* (Isaiah 55:11).
 
 Every Christian has the right and responsibility to investigate and interpret God's Word for themselves.
 
@@ -150,18 +150,22 @@ Proverbs have specific attributes:
 
 Seek reputable sources that reference the Bible directly:
 
-- Cross-references to other Bible verses
+- Cross-references to other Bible verses (e.g., Nave's Topical Bible, Thompson Chain Topics)
 - Concordance to compare word use with other verses (e.g., Strong's)
+- Name associations (e.g., Hitchcock's Bible Names)
+- Greek/Hebrew lexicons (e.g., Abbott-Smith, Dodson)
 - Up-to-date Bible atlas
-- Online resources
+- Online resources (e.g., SWORD project)
+
+Consider morphological analysis (e.g., Robinson's, Packard, Open Scriptures), which examines the grammatical significance of the words used in the original language.
 
 ### Culture
 
 God wrote Scripture to people at a specific time with specific issues, so do some research on the [culture](people-culture.md) of those times.
 
-Use a Bible dictionary to understand relevant terms and customs associated with that culture (e.g., [Smith's](https://biblehub.com/dictionary/smith.htm)).
+Use a Bible dictionary to understand relevant terms and customs associated with that culture (e.g., [Smith's](https://biblehub.com/dictionary/smith.htm), Easton's).
 
-- Look for Bible encyclopediae to find *much* more historical context.
+- Look for Bible encyclopediae to find *much* more historical context (e.g., International Standard Bible Encyclopedia).
 
 Look at the historical setting of who would be reading the original document.
 
@@ -245,7 +249,7 @@ Spend time daily in His Word:
 
 - God's inspiration *requires* diligent Bible study (Acts 17:11).
 - Set aside time to read, digest, research, and analyze.
-- [Pray](spiritual-exercises-prayer.md) for His wisdom and sight as you read His word.
+- [Pray](spiritual-exercises-prayer.md) for His wisdom and sight as you read His word and how it applies as you go through your day.
 - [Grow daily](spiritual-exercises.md) by consistently reaffirming His truths and promises.
 - God gives progressive revelation as you read back-and-forth across Scripture.
 
@@ -316,4 +320,4 @@ Stay focused on the experience as a relationship with God.
 
 Bear in mind that no matter how deep you dig, you're expanding complexities regarding the profound [Gospel message](https://theologos.site/gospel/) and God's guidance on [how to live our lives](spiritual-exercises.md).
 
-- God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](spiritual-exercises.md) ([1 Corinthians  1:26-29](https://biblehub.com/1_corinthians/1.htm)).
+- God designed the Bible to be easily accessible to unintelligent people, so Bible study is simply one discipline among [multiple](spiritual-exercises.md) (1 Corinthians 1:26-29).

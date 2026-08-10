@@ -33,6 +33,14 @@ Make accommodations for the trauma, but never stop revisiting it:
 - Give yourself grace over what you've experienced, but don't let yourself become a victim of your memories.
 - Exposure therapy is the act of revisiting and re-experiencing trauma, and is necessary for you to heal from it.
 
+Also accept that you're not in any capacity special.
+
+- Many people needlessly relive trauma because they feel they "ought" to receive better than they experienced (e.g., [Cluster B personality](mind-neurodivergence-clusterb.md)).
+- However, we can only find [meaning](meaning.md) in suffering when we look *past* the suffering to how we can grow from it or use it.
+- To look beyond the pain, we have to accept that we will not self-define or [identify](people-identity.md) ourselves with the pain itself.
+  - It doesn't mean we can't identify with *overcoming* the pain, but that our victim state is only a temporary condition.
+- Most of this thinking requires accepting that we've had [the wrong attitude](success-2_attitude.md) about our suffering.
+
 ## 2. Own the part you're responsible for
 
 Morally, the events you experienced are either because you were innocent or guilty of wrongdoing.

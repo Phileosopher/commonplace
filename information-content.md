@@ -9,6 +9,12 @@ Curate the information into classifications to process it more quickly.
 - If you have more than 100 media items and more than 2 broad categories as you observe it, taking the time to [organize](organization.md) the information will save you time in the long term.
 - If you need, sub-categorize as needed.
 
+Be careful about previously curated information, since it often isn't necessarily better.
+
+- For curated information to have any value, it had to run through an [organized](organization.md) mind that prioritized key details.
+- Since all minds contain [bias](mind-bias.md), all curated information is biased.
+- At the same time, a properly biased set of content can trim 60-98% of the necessary consuming to attain the key details.
+
 Don't read things that bore you, since there's likely someone else who made a more interesting version of the same information.
 
 - If you must read it, skim the headings to understand the main ideas.

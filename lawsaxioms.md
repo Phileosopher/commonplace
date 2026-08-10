@@ -71,6 +71,8 @@ Pareto Principle - 80% of the results come from 20% of the causes.
 
 Peak-End Rule - People judge an experience by how they [felt](mind-feelings.md) at the end, not on the total sum of the experiences.
 
+Seer-Sucker Theory - No matter how much evidence shows that prophets/seers are liars, people will still pay for their services.
+
 Serial Position Effect - People more easily remember the first and last things in a series.
 
 Tesler's Law of Conservation of Complexity - Everything has a certain amount of complexity that you can't remove.

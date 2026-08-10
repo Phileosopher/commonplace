@@ -243,8 +243,10 @@ Use visual cues and slides carefully:
     - No more than 10 slides, 20 minutes of speaking, and at least a 30 pt font.
     - Even in a one-hour meeting, never speak for more than 20 minutes (assume 25 minutes for setup and 15 minutes for questions).
     - You'll run through the slides relatively quickly, so keep them simple with large text.
+  - Emphasize using photos and diagrams over text.
   - Rarely use effects and transitions.
   - Each slide should match the theme on all the other slides.
+    - Select high-contrast and [accessible](engineering-design.md) colors.
   - Relevant things on the slides should be apparent within the first second of seeing it.
   - Don't use full sentences on the slides.
     - The audience will stop listening to read them.

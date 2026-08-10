@@ -60,6 +60,14 @@ Try to foster more open discussion and ideas about change.
 
 Each [change](people-changes.md) management system either tends to prioritize keeping people informed or keeping systems continuously running.
 
+Communicating changes is an art form that requires very specific awareness over how what you say can change an organization.
+
+- In general, organizations can never admit they're wrong, but they're usually able to admit they made a mistake.
+  - Therefore, by legitimately removing the cause of the mistake (often by firing an executive), you can demonstrate that the organization will do differently in the future.
+  - However, any failing by any institution *will* reflect in the numbers.
+- Openly, plainly communicate when things have gone wrong.
+  - People aren't stupid, and pretending that something didn't happen is an additional insult to the members' intelligence.
+
 ## Growth
 
 The only way a large organization can grow is by having large-minded systems around it.

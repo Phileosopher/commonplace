@@ -13,4 +13,4 @@ It's very, very powerful, and the language of choice for heavy-math implementati
 
 This is barely noticeable in a small project, but becomes incredibly painful in a [large production system](computers-distsys-enterprise.md). People working on small projects love it, but not the ones who have to manage millions of lines of code.
 
-In practice, Python is great for [creating an MVP](entrepreneur-4_freelancing-cs.md) as fast as possible, but bogs down and traps developers later.
+In practice, Python is great for [creating an MVP](entrepreneur-4_freelancing.md) as fast as possible, but bogs down and traps developers later.

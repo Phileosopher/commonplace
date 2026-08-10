@@ -48,6 +48,8 @@ Placement bias - we misjudge ourselves compared to others
 
 Pluralistic ignorance - we assume we're the only person thinking something, even when everyone else is
 
+Social proof - we assume that lots of people doing something is for a good reason
+
 Transparency illusion - we believe other people know what we're thinking when they don't
 
 ## Bad Social Optimism
@@ -67,6 +69,8 @@ Original position fallacy - we prefer a change because we assume we'll be on the
 Public goods game - we assume an [economic system](money-economics.md) could exist where we didn't have to regulate lazy people, cheaters, liars, and thieves
 
 Sexual overperception bias - we assume others are sexually attracted to us when they aren't
+
+Sporting fallacy - we assume we can evade adverse consequences that are highly likely
 
 Truth bias - we assume others are speaking the truth
 
@@ -146,7 +150,7 @@ Moral credential effect - we feel we can do immoral things if we've done moral t
 
 Social comparison bias - we dislike and compete with others we imagine are better than us
 
-Special pleading - we believe [general rules for human behavior](people-rules.md) don't apply to us
+Special pleading fallacy - we believe [general rules for human behavior](people-rules.md) don't apply to us
 
 Spotlight effect - we believe others notice us more than they really do
 

@@ -244,7 +244,23 @@ Splitting: viewing people or events as all-good or all-bad.
 These are advanced, conscious actions designed to preserve relationships and self-esteem.
 
 - It can be fueled by the [habits](habits.md) from unconscious defense mechanisms, but is always a [decision](mind-decisions.md) for the person to do it.
-- Since these strategies are conscious, they can be flexible for the circumstances.
+- Since these strategies are conscious, they can be flexible to the circumstances.
+
+Many of these include [logical fallacies and cognitive bias](mind-bias.md):
+
+- Ad hominem: attacking someone directly instead of the issue they're addressing.
+  - Using this will often catch people caught off-guard from a shift in focus.
+- Appeal to authority: asserting their expertise or association.
+  - This will work if their victims don't feel adequate.
+- Circular reasoning: swapping the conclusion with the premise.
+  - This works if someone isn't noticing.
+False dilemma: forcing a binary situation that doesn't actually exist.
+  - This creates a sense of urgency, which leads to impulsive [decisions](mind-decisions.md).
+- Red herring: associates unrelated things to the matter
+  - This deflects from the issue at hand, and can include unrelated personal events.
+  - In particular, this is a key part of [narcissistic abuse](people-conflicts-narcissist.md) through DARVO.
+- Straw man: rephrases a past statement as something else entirely.
+  - Sadly, this approach can be due to poor logic skills, poor [listening](language-speaking-listening.md) skills, or [intentional manipulation](people-image-distortion.md).
 
 ### Indirectly assists with the issue
 

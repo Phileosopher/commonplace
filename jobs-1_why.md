@@ -15,6 +15,7 @@ Changing jobs is usually worth the risk:
 
 - You will *always* get more experience from something you haven't tried than something you have.
 - People who take the plunge to find a better job are usually [happier](mind-feelings-happiness.md) from it.
+- However, if you have [a criminal background](jobs-background.md), many of the rules regarding job-seeking will not entirely apply to you.
 
 To find the right job, you need a long-term goal:
 

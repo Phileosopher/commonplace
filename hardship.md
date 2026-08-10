@@ -16,16 +16,20 @@ Do *not* take any of your hardships personally:
 
 - Your way of thinking was originally established by your parents/guardians and genetics.
 - When you made bad decisions, you didn't know what you know now, and would make that decision differently if you could relive the experience.
-- You can make decisions with what you have, *not* what you ought to have done.
+- You can make [decisions](mind-decisions.md) with what you have, *not* what you ought to have done.
+- The only, and most important, thing you *should* take personally is what you will do from now.
 
 While you may be suffering severely, try to avoid making the pain "dirty":
 
-- Pain is "dirty" when we are at least partly at fault for something.
+- "Dirty pain" comes from when we are at least partly at fault for something.
 - We can frequently suffer tremendous pain, but then do the wrong thing in that pain and create more suffering for ourselves.
 - Even when we are undergoing excruciating pain we brought on ourselves, the beginning of making "clean" pain is accepting that suffering as a natural consequence.
 - This is much harder than it sounds, for several reasons:
   1. We often have [habits](habits.md) from [our development](maturity.md) that make more trouble for ourselves.
   2. We frequently have a hard time releasing control of things.
+- Whenever possible, precisely split the components between the "clean" and "dirty" parts of the pain.
+
+## What about others?
 
 If others judge you, treat their behavior as part of the package of your current hardship.
 
@@ -62,47 +66,9 @@ In [the unknown](unknown.md), look for God:
 
 - The answers to *what* to do are painfully straightforward, but *how* to accomplish it is frequently impossible without faith.
 - More precisely, trusting in [the God of the Bible](https://theologos.site/devotion-chaos/) is the most reliable way to find peace in the middle of any hardship.
+- Only God can restore your situation, so focus on [releasing what happened to you](hardship-ptsd-release.md).
 
-## Understand who you are
-
-You're the chaotic accumulation of various experiences and responses:
-
-- Everything you started with and had no control over:
-  - Race, ethnicity, and family's geographical location
-  - Specific family of origin and health
-  - Dispositional elements like personality and preferences
-  - Natural talents and weaknesses
-  - Culture of origin including [habits](habits.md), traditions, and rituals
-- Every experience you've been through, good or bad
-- Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
-  - Further, the things you've [learned](mind-understanding.md) from those experiences.
-- [Habits](habits.md) you've accumulated from all the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
-- Nobody is quite like you, so nobody else matters much for comparison.
-
-Thus, you are not a "static" existence:
-
-- You're a changing, dynamic person, with the thing called "You" being a vast set of experiences made by various iterations of "Past You".
-  - Your muscles are constantly breaking down or healing.
-  - You can't have the same thought twice.
-- You have less in common with the version of you 10 years ago than with your peers.
-- Every [decision](mind-decisions.md) you make from this point dictates who "Future You" can become.
-
-If you don't remove "static" thinking, you're guaranteed to become (and stay) a "victim":
-
-- Difficulties have hit you, and you're now reaping severely painful consequences.
-- Even though it might not have been your fault, you're still responsible to change from it.
-- You must replace your "victim" identity with a more powerful one like "overcomer", "persevering", "conqueror", "adaptable", "changing" or "resilient".
-
-Ignorant people will judge you for your hardship, and you must decide to either define yourself by how much your closest friends love you, or how little your enemies hate you.
-
-Life is guaranteed to be difficult, but we get to [choose](mind-decisions.md) what version of difficult we can experience.
-
-Give yourself plenty of grace:
-
-- Your experience was devastating, and it'll interfere with your ability to perform familiar things.
-- Don't make [plans](success-3_goals.md) or expect much from yourself, at least until the initial wave of emotional shock wears off.
-
-## You may not be prepared
+## You may not be prepared to recover
 
 Our [personality](people-personality.md) defines our threshold for awful experiences.
 
@@ -150,6 +116,45 @@ Resisting vices and reckless behavior takes willpower to maintain, so replenish 
 - Find a healthy community that can support and guide you.
 - Give all your cares to [God as you understand Him](religion-answers.md).
 
+## Understand who you are
+
+You're the chaotic accumulation of various experiences and responses:
+
+- Everything you started with and had no control over:
+  - Race, ethnicity, and family's geographical location
+  - Specific family of origin and health
+  - Dispositional elements like personality and preferences
+  - Natural talents and weaknesses
+  - Culture of origin including [habits](habits.md), traditions, and rituals
+- Every experience you've been through, good or bad
+- Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
+  - Further, the things you've [learned](mind-understanding.md) from those experiences.
+- [Habits](habits.md) you've accumulated from all the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
+- Nobody is quite like you, so nobody else matters much for comparison.
+
+Thus, you are not a "static" existence:
+
+- You're a changing, dynamic person, with the thing called "You" being a vast set of experiences made by various iterations of "Past You".
+  - Your muscles are constantly breaking down or healing.
+  - You can't have the same thought twice.
+- You have less in common with the version of you 10 years ago than with your peers.
+- Every [decision](mind-decisions.md) you make from this point dictates who "Future You" can become.
+
+If you don't remove "static" thinking, you're guaranteed to become (and stay) a "victim":
+
+- Difficulties have hit you, and you're now reaping severely painful consequences.
+- Even though it might not have been your fault, you're still responsible to change from it.
+- You must replace your "victim" identity with a more powerful one like "overcomer", "persevering", "conqueror", "adaptable", "changing" or "resilient".
+
+Ignorant people will judge you for your hardship, and you must decide to either define yourself by how much your closest friends love you, or how little your enemies hate you.
+
+Life is guaranteed to be difficult, but we get to [choose](mind-decisions.md) what version of difficult we can experience.
+
+Give yourself plenty of grace:
+
+- Your experience was devastating, and it'll interfere with your ability to perform familiar things.
+- Don't make [plans](success-3_goals.md) or expect much from yourself, at least until the initial wave of emotional shock wears off.
+
 ## Don't let feelings define you
 
 We can't control our [feelings](mind-feelings.md) directly, but we *can* control our [beliefs](mind-trust.md) that frame those feelings:
@@ -173,6 +178,8 @@ The only cure to stopping the "temporary insanity" of emotional overwhelm is sel
 4. Analyze what's really going on inside us.
 5. Precisely and fully give up what we can't control (preferably [to God](spiritual-exercises-prayer.md)).
 6. From that place, focus more closely on what we do have control.
+
+This process is important because avoiding any negative feeling will make us poor at managing *all* our negative feelings.
 
 Most professional therapists are simply assisting with our self-analysis process:
 
@@ -209,7 +216,7 @@ The only way to make any positive change requires blatant self-enforced honesty 
 Learn gratitude for what you *do* have:
 
 - Unless we find some sort of satisfaction with what we still have (or expect to have), we will live in despair.
-- Neurologically, the brain's response to anxiety and gratitude are in the same place, which means we can't be anxious if we're grateful (which also validates [Philippians 4:6](https://biblehub.com/philippians/4-6.htm)).
+- Neurologically, the brain's response to anxiety and gratitude are in the same place, which means we can't be anxious if we're grateful (which also validates Philippians 4:6).
 - No matter how dismal you feel, your loss is built on a blessing.
   - Your spouse or son dying means you were blessed with them for a time.
   - If you're now disabled, you could have died.
@@ -277,6 +284,7 @@ Wherever we are, we can add hope to our lives:
 - Perform a small task toward a [goal](success-3_goals.md) you want to accomplish.
 - [Spend time around others](people-friends.md) who are doing as badly or worse than you.
 - [Exercise](body-exercise.md) to let out the stress.
+- To justify the catastrophe, craft a compelling vision to confront the future we wish to see.
 
 Work tenaciously to avoid things that will sabotage hope:
 

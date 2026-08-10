@@ -147,7 +147,7 @@ Anytime a popular closed-source version of a software becomes popular, *someone*
 
 Often, when the tech-related economy starts dipping (often because [a tech trend](people-trends.md) failed spectacularly), open-source becomes less common. Gigantic open-source corporations may release projects as entirely closed-source, or create closed-source modules.
 
-At the same time, open-source becomes the dumping ground for anything Big Tech has to shed due to [antitrust lawsuits](politics-monopolies.md) or [company downsizing](mgmt-7_changes.md) (e.g., the history of [Linux](computers-os-unix.md)). As every large tech company [invariably fails](mgmt-badsystems.md), *something* has to maintain what it held up, and that role eventually becomes open-source if it was popular enough.
+At the same time, open-source is the dumping ground for anything Big Tech has to shed due to [antitrust lawsuits](politics-monopolies.md) or [company downsizing](mgmt-7_changes.md) (e.g., the history of [Linux](computers-os-unix.md)). As every large tech company [invariably fails](mgmt-badsystems.md), *something* has to maintain what it held up, and that role eventually becomes open-source if it was popular enough.
 
 ## Future FLOSS Trends
 

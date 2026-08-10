@@ -124,6 +124,11 @@ Get a more comfortable, efficient, or elegant desk and chair:
 
 ## Working from home
 
+A work-from-home arrangement is *very* nice, especially in job roles such as [business](business.md) or [software development](computers-software.md).
+
+- If the role allows it, it's a win/win for the employer and the worker, since they save on office space and maintenance while you get to be home.
+- However, most people working from home have a tendency to overwork themselves.
+
 If you're in a videoconference meeting, anything that changes the screen's color will reflect on your face and give away that you're not exclusively focused on that meeting.
 
 Separate your "home" and "work" activities:
@@ -141,6 +146,15 @@ Have a strategy to avoid the increased distractions:
 Make sure you're done when you're done:
 
 - Have a clear wind-down routine if you do personal activities on your work computer.
+
+When transitioning from an office to a home environment as an employee, do *not* increase the work you do.
+
+- You'll likely be more productive with your time, but doing more work in that time will [set a new precedent](people-contracts.md) that can make you [miserable](mind-feelings-happiness.md).
+- Instead, use the extra time for "casual research" by pursuing another healthy [habit](habits.md) during that time (e.g., reading).
+
+Make sure that you offset the lack of social interaction.
+
+- Spend more time [finding friends](people-friends.md), since you're effectively away from everyone in a room all day.
 
 ## Kill technological distractions
 

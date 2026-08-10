@@ -123,6 +123,13 @@ Age differences:
 
 When you're ready, start [hunting for dates](relationships-dating-hunt.md).
 
+- You should feel you're not just ready to look, but also as attractive as you think you'll need to be.
+  - While you don't need to be *perfect*, make sure your [health](body-health.md) and [career](jobs-1_why.md) are at least somewhat sorted out.
+- More than anything, you must present and look for honest signals of quality.
+  - For men, they must be [reasonably risk-taking](safety-riskmgmt.md), since that determines [success](success-1_why.md).
+    - Even when they fail, recovering from failure demonstrates resilience.
+  - For women, they must be [emotionally aware](mind-feelings.md) and nurturing.
+
 You're dating to learn, *not* to make lifetime commitments:
 
 - Dating is a shared experiment to see how you and someone else can coexist.
