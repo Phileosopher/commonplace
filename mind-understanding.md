@@ -126,7 +126,7 @@ As we continue to mull over the things we understand and make [conversations](pe
 
 Small, trite experiences that veer close to feeling like a paradox represent these shared sensations the most accurately:
 
-- Epigrams ([written statements](language-writing.md)) that express as [axioms](lawsaxioms.md) or proverbs
+- Epigrams ([written statements](language-writing.md)) that express as [axioms](philosophy-lawsaxioms.md) or proverbs
 - Simple drawings or animations that visually depict what we [imagine](mind-imagination.md)
 - Verbal statements that employ body language to magnify a concept
 

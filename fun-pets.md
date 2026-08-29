@@ -160,6 +160,7 @@ Training a cat is extremely difficult, but possible:
 - Get rid of cat litter odors by sprinkling a substantial layer of baking soda at the bottom of the box.
 - Use a laser pointer to get a cat to shut off a light switch.
 - If you practice with a small cat toy and heavily reward the cat each time it brings the toy back, you can train it to play fetch.
+- Use a piece of meat to train a cat on a location (such as for them to look into a camera).
 
 Train a cat to use the toilet instead of a litter box:
 

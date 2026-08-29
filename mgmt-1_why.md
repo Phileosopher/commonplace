@@ -26,7 +26,7 @@ Like [success](success-1_why.md) and [investing](money-investing.md), there's a 
 
 - Even when it doesn't pay well compared to their subordinates, many people wish to be managers because they desire [job security](safety.md) without much work or crave [power](power-types.md) over others.
 - A manager who [appears](people-image-why.md) to be competent or powerful to *their* boss is technically easier than actual competence or power.
-  - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](results.md).
+  - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](philosophy-lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](results.md).
 - The formal [culture](people-culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
 - Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
@@ -81,9 +81,9 @@ Managers have to battle the conflicting interests between their subordinates and
    - These represent the most among many large organizations' lower-tier management (e.g., store manager, shift supervisor).
 2. Prioritize their superiors over their employees.
    - The work environment is typically harsh and, for a wide variety of reasons, worker turnover is often higher.
-   - If their superiors only use performance metrics, they'll likely advance further up the management ladder ([Goodhart's Law](lawsaxioms.md)).
+   - If their superiors only use performance metrics, they'll likely advance further up the management ladder ([Goodhart's Law](philosophy-lawsaxioms.md)).
    - These tend to congregate at the top of most large organizations' management (e.g., executives).
-3. People who were great at other non-management specializations, but they stopped being competent once they were promoted to manager ([Peter Principle](lawsaxioms.md)).
+3. People who were great at other non-management specializations, but they stopped being competent once they were promoted to manager ([Peter Principle](philosophy-lawsaxioms.md)).
    - Extreme competence in a non-management capacity does *not* guarantee competence in management.
    - They generally have no idea what they're doing.
    - Typically, if they keep working they'll either stay as a manager and lose the skills they had sharpened to get to that position, or downgrade themselves back to being a worker in another role.

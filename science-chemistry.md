@@ -1,6 +1,19 @@
 
 # Chemistry explained
 
+In a sense, chemistry is a bridge between physics and biology, which sits on a spectrum.
+
+- [Physics](science-physics.md) represents fundamental things, while [biology](science-life.md) represents complex things.
+  - Physical chemistry is composed of theories in physics and [math](math.md).
+  - Inorganic chemistry is non-carbon-based chemistry, metals, and semiconductor materials.
+  - Organic chemistry is carbon-based chemistry, which typically involves bonding with hydrogen, oxygen, and nitrogen.
+    - These 4 bases (C, N, H, O) have *tremendous* variety.
+    - While it was originally for living things, it has expanded to carbon in general.
+  - [Biochemistry](science-life-biochem.md) is the chemical structures and reactions involving life processes.
+  - Across all of these, analytical chemistry is the measurement techniques, how much to quantify, and how much to measure.
+
+Domain-wise, chemistry categorizes into macroscopic, microscopic, and symbolic (i.e., the representation of chemical components).
+
 Each atom can be measured on a table, called [the Periodic Table of Elements](science-chemistry.png).
 
 Electrons exist in certain layered orbits. The first 2 exist in a "shell", then the next 8, then the next 18, then 8. The outer shell's electrons are called valence electrons. Generally, some atoms (like copper, silver, and gold) transmit electrons better because of their relative valence electrons.

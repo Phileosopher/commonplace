@@ -89,7 +89,7 @@ Depending on the leadership's decisions, merely *existing* as a Christian become
 
 The most evil and cruel leaders never last more than a few years, but the persecution doesn't always stop with regime changes:
 
-- The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](lawsaxioms-legal.md).
+- The [power](power-types.md) shifts may bring in new leadership, but each leader has a unique agenda, and not all of them will remove existing [legal precedent](legal-lawsaxioms.md).
 - Most of the time, the [trends](people-trends.md) will cycle back-and-forth between permissive and malice, but will rarely stop completely.
 - Occasionally, the trends will *rapidly* pivot, especially during a [regime](groups-large.md) change.
 - Often, in [high-information](mind-understanding.md) societies, the trends will pivot very rapidly across months or weeks.
@@ -296,6 +296,11 @@ Beware of the "moment of crisis":
 - If we can get past that moment of crisis, our faith will be *dramatically* refined!
 - Once that happens, the torturer will give up or kill us, since they now know they can't [change](people-changes.md) us anymore.
 
+When you have Christ, the rest really doesn't matter.
+
+- They can take your possessions, dignity, and kill everyone you love, but a relationship with God is worth the sacrifice.
+- The world will simply not understand this mindset, and most of the people will look on and think you're crazy.
+
 ## Persecution is standard
 
 Persecution against Christianity has been "normal" for 2,000 years:
@@ -307,6 +312,16 @@ Persecution against Christianity has been "normal" for 2,000 years:
   1. First, the world moves to destroy God's plans (e.g., destroy the Christians, destroy the Jews, control the world).
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.
   3. The survivors of the tragedy, in their faithfulness, continue on in society across generations while the evil regime falls apart.
+
+Many of the most powerful leaders in the world have said "this is the end of Christianity":
+
+- Emperor Nero (54-68)
+- Diocletian (284-305)
+- Julian (355-363)
+- Umayyad Caliphate (661-750)
+- Ottoman Empire (1915-1923)
+- Mao Zedong (1949-1976)
+- Soviet Union (1922-1991)
 
 Further, there most certainly is a double standard people hold against Christians:
 

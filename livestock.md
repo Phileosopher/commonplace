@@ -170,8 +170,24 @@ Cows and sheep are not very intelligent, and *will* get themselves lost or kille
 
 Chickens are even dumber than cows.
 
+- Chickens are very convenient if you use them correctly, and one chicken is capable of:
+  - De-bugging 120 square feet of crops a week.
+  - Fertilizing 50 square feet of garden in a month.
+  - Converting 10 lbs of food scraps into eggs.
+  - Breaking pest cycles on a fruit tree within 1 hour.
+  - Leveling a pile of mulch in 2 days.
+  - Turns compost.
+  - Tills 50 square feet of sod in 4-6 weeks.
+  - Produces enough manure to make 1 yard of compost a month.
 - Never let multiple roosters persist in a coop, or they *will* fight with each other and harass the hens.
-- To keep them watered in winter, use a thrift store crockpot.
+- To easily feed them, make a feeder out of large PVC with a 90-degree and 45-degree elbow at the bottom.
+- To keep them watered in winter:
+  - If the climate is warm enough, color an old milk jug black and set it within the water to absorb more heat from the sun.
+  - Use a thrift store crockpot for indoor watering.
+- The easiest way to keep them healthy and solve many issues at once is to create tracks that allow them to run.
+  - The running keeps them active.
+  - The tracks protect them from getting into everything else.
+  - The tracks should be able to move, meaning they'll fertilize as they run.
 
 Goats can eat just about anything, and they will devour almost any green foliage.
 

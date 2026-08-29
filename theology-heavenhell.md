@@ -45,7 +45,6 @@ Some [false doctrines](people-conflicts-christian-4_false.md) allege there is no
   3. However, nothing says that people *stay* in hell forever.
      - It's entirely possible that the payment for sin may have a specific (albeit very long) timeframe.
 
-
 ## The traditional imagination of hell
 
 In some ways, we have been maligned by pop culture, most notably Dante's [Inferno](https://www.owleyes.org/text/dantes-inferno) and Milton's [Paradise Lost](https://www.poetryfoundation.org/poems/45718/paradise-lost-book-1-1674-version), but many other sources.

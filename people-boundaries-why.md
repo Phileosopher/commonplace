@@ -76,7 +76,35 @@ Most [interpersonal conflicts](people-conflicts-why.md) are grounded on either [
 
 Very often, there's a violent counter-reaction to violations of human rights. Most people tend to overstep retributive justice until they feel they've satisfied their rights, but [some political movements](politics-leftism.md) actually *thrive* on this sense of injustice.
 
-The [laws of a territory](people-rules.md) *should* abide by everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
+The [laws of a territory](people-rules.md) *should* honor everyone's inherent rights, but they frequently don't. However, the people in [power](power.md) have the privilege of doing anything they want within the limits of their [power](power-types.md), so rights will be violated as long as we have people with [power](power.md) who can abuse their privileges.
+
+Often, a government will make [rules](people-rules-methods.md) to imply someone has the right to do something because the government gave them permission. In modern society, governments have come to believe and enforce the following rights they don't consider inherent to humanity:
+
+- Burning something
+- Camping
+- Carrying a gun without a holster
+- Constructing a building
+- Cutting someone's hair
+- Doing construction work for someone
+- Driving a motor vehicle
+- Fishing
+- Flying a remote-controlled drone
+- Hunting
+- Getting [married](relationships-marriage.md)
+- Giving someone a tattoo
+- Giving someone a massage
+- Giving travel advice and connections
+- Growing or selling livestock
+- Installing a solar panel for someone
+- Owning a gun
+- Owning a vehicle, boat, or bicycle
+- Parking somewhere
+- Protesting
+- Selling alcohol
+- Taking photographs
+- Using a property for any reason
+- Using a public road
+- Visiting a public park
 
 History has shown that enforcing of a person's rights can only come from a specific perspective:
 

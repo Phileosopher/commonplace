@@ -3,6 +3,11 @@
 
 Consider a more interesting doormat that makes a statement.
 
+- NOT YOU AGAIN
+- COME IN, WE ARE ALREADY DISTURBED
+- DON'T. STOP. BE. LEAVING.
+- You read my doormat. That's enough social interaction for one day.
+
 ## Move furniture around
 
 Consider where people go in the room:
@@ -133,6 +138,29 @@ Using:
 - If the candle doesn't fit into the holder, hold the end of the candle in hot water until the wax softens.
 - Use nonstick cooking spray in candle glasses (votive holders) to keep wax from sticking.
 
+## Renovations and improvements
+
+There are *many* ideas you can get on the internet.
+
+- However, actually *doing* a few renovations is far more important than collecting them.
+
+Whatever decoration you add should add value to the home.
+
+- In other words, consider what will happen when it's time to sell the house, and if you may have to undo what you had done.
+
+Consider the long-term effects of the renovation.
+
+- The idea may sound convenient, but every moving part has the risk of breaking.
+- In particular, be careful of any holes you make to the exterior of the building.
+
+Most [organizational improvements](organization.md) are worth the effort.
+
+- Place or install drawers inside your closets.
+- Add shelves to large closets with smaller items.
+- Use shower curtain rods near the ceiling to store lightweight and bulky items away from everything else.
+- Tightly secure a clothesline to the garage ceiling with a screw eye into the ceiling joist, then run an extension cord along shower curtain rings on it and secure with wire ties.
+- Screw a pallet vertically into the wall to store tools.
+
 ## Improving landscaping
 
 Shape chicken wire and spray with glow-in-the-dark paint for holiday decorations.
@@ -182,3 +210,8 @@ Add a lawn to improve the overall look of the yard and provide a place to play:
 - Aerate the lawn in high-traffic areas with a garden fork to prevent drainage problems.
 
 To make less work to yourself, make a low-irrigation landscape.
+
+Avoid still water, which can become stagnant and breed mosquitos.
+
+- Empty it and flip things upside down or cover them when you see it accumulating.
+- If you don't, add mosquito poison to the bottom of the container to prevent their eggs from fertilizing.

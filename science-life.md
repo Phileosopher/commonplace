@@ -25,3 +25,4 @@ In many ways, the structures that form life are akin to remarkably well-designed
 ## Obvious unanswered questions
 
 - How did life begin?
+- Why do living organism have some of their impulses that serve the rest of the organisms unaffected by them (e.g., crown shyness)?

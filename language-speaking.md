@@ -25,6 +25,13 @@ The only way to become an effective speaker is through constant practice, in-per
 
 Against most intuition, though, great speakers are [great listeners](language-speaking-listening.md).
 
+Use Paul Grice's maxims to focus your speaking toward meaningful information for your audience:
+
+1. Give as much information as necessary, but no more.
+2. Do what you can to make sure your statement is true.
+3. Only state things that are relevant to that other person.
+4. Speak perspicuously (i.e., clearly, meaning avoiding words like "perspicuous").
+
 When speaking, use pause-down-pause:
 
 1. Use your normal tone of voice up until the end, then pause

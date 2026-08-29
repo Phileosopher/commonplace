@@ -92,6 +92,19 @@ Each of the symbols denotes a concept, and learning math creates a cumulative co
 
 - A per mille (□/1000) amount relative to another value
 
+Σ
+
+- Sigma (uppercase), which is the sum
+- It represents the sum of a series of values
+- The notation next to it has extra meanings:
+  - The top-right indicates the upper bound as "n", or when to stop
+  - The bottom indicates the lower bound as "i=n", with n being the number to start at
+  - There is an [algebraic](math-algebra.md) expression to the right that needs to be evaluated
+    - Next to the expression, there is an indication of "i", meaning evaluating for each value of i
+  - In other words, as an example:
+    - Σ xᵢ (i=1 to 4) where x(1)=2, x(2)=4, x(3)=3, x(4)=8
+    - = 2 + 4 + 3 + 8
+
 ## Basic arithmetic
 
 ``` math
@@ -113,6 +126,7 @@ x, - or *
 
 - Division, which is indicating how many times the latter number fits into the former number
 - e.g., 7 / 2 = 3.5
+- ÷ is less used at higher-order math, since it requires more parentheses
 
 **:**
 
@@ -134,6 +148,20 @@ x^y (aka superscript)
 - Similar to exponents, superscript can also indicate cube roots (∛), fourth roots (∜), and so on
 
 ```
+
+## Geometry
+
+°
+
+- Degrees, representing 1/360 rotation of a radius in a circle
+
+'
+
+- Minutes, 60 each in a degree
+
+"
+
+- Seconds, 60 each in a minute
 
 ## Set theory
 
@@ -162,3 +190,18 @@ x^y (aka superscript)
 - Reads as "is not in" (e.g., *x* ∉ *S* means ¬(*x* ∈ *S*)
 
 ```
+
+## Statistics
+
+μ
+
+- The mean in a population
+
+σ
+
+- Sigma (lowercase), which is a standard deviation
+- It represents ~68% of the values in a normal distribution
+- Its actual calculation is:
+  - √[ Σ(xᵢ − μ)² / N ]
+  - This means you subtract the mean from each value, square the result, average the squared differences, then take the square root.
+  

@@ -259,8 +259,15 @@ Statements shut down the conversation, and questions open more dialogue:
 - If you're uncertain if they want to hear your anecdote, ask *that* question before you start.
 - When you have a good feeling about what they like, boldly use "you" statements to communicate what they may enjoy.
 
+Most people are uncomfortable with questions because it implies they don't [understand](mind-understanding.md) something.
+
+- However, the truth is that *most* people don't understand most things.
+- Confidence in not understanding something is one of the most powerful and [influential](power-influence.md) behaviors you could ever make with someone.
+
 Your questions should provoke them to talk more:
 
+- Avoid yes/no questions and focus more on "why" questions.
+- Keep the question simple to allow more opportunity for them to speak.
 - They should be talking more than you.
 - Make a simple statement about the event or location, then connect it to an open-ended question.
   - The most common question is "what do you do?" but a more interesting variation is "what do you *like* to do?"

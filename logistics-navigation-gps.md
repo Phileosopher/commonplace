@@ -5,6 +5,12 @@
 
 "Geolocation" is a modern miracle that effectively removes the need for most direct navigation skill. It involves "geodesy", which is using a [3-dimensional representation](engineering-graphics.md) of geographical elements. It usually uses a "Global Positioning System" (GPS), but often uses other technologies as well (e.g., [cellular towers](engineering-radio.md), sonar), and can more broadly refer to "global navigation satellite systems" (GNSS).
 
+Prior to GPS, in the 1980s, navigation systems used "dead reckoning":
+
+- Dead reckoning uses a known position and then adapted it with sensor information (e.g., speed, velocity, heading) to approximate a new location. This was a monumental task, and the Etak system used memory tapes to track someone's location.
+- Errors are almost guaranteed, so the Etak system of the time used "augmented dead reckoning", which snapped the location back to the road.
+- Modern navigation apps still use this technique, even while they dominantly use GPS, which is why the interface can sometimes misrepresent information in dense map.
+
 ## GPS satellites
 
 The infrastructure for geolocation is mostly composed of a constellation of GPS [satellites](engineering-vehicles-spacecraft.md), originally designed by the US military. There are at least 24 active satellites orbiting over 12,000 miles above the Earth.
@@ -85,3 +91,5 @@ And, social requirements can make the UX even more complex:
 ## More information
 
 [How Trilateration Works](https://ciechanow.ski/gps/)
+
+[Map Happenings](https://maphappenings.com/)

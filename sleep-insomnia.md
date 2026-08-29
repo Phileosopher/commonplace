@@ -40,6 +40,7 @@ Even when you can get to sleep, some things will interrupt deep sleep:
 
 - Sitting slightly upright
 - Noise and bright light
+  - Bright light, in particular, can dramatically increase the risk of diabetes with as little as a 5 lux increase.
 - Caffeine (like [coffee](fun-coffee.md) and [tea](fun-tea.md)) reduces deep sleep for 4-6 hours after drinking
 - Proximity to non-visible light (such as [wireless networks](engineering-radio.md)) disrupts sleep patterns
 

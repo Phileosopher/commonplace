@@ -100,6 +100,7 @@ Oligarchy is the same as an autocracy, but with more people involved, and can be
 - Meritocracy - a class with more [ability](creations.md), [specialized knowledge](jobs-specialization.md), or [past contribution to society](legacy.md)
 - Netocracy - a class with more skills with [technology](technology.md) and [influence](power-influence.md)
 - Noocracy - a class of [wise](mind-understanding.md) people
+- Pathocracy - a class of [neurodivergents](mind-neurodivergence.md), specifically [Cluster B](mind-neurodivergence-clusterb.md)
 - Plutocracy - a [wealthy](power-types.md) class
 - Stratocracy - a [military](science-earth-weather.md) class
   - Military junta - a committee of military leaders
@@ -112,6 +113,7 @@ Pros:
 - Less rigid than autocracy.
 - Generally can be scaled up as needed.
 - [Disagreements](people-conflicts.md) in the ruling class only spill into affecting the rest of society for a minority of circumstances.
+- There is more [evil](morality-evil.md) possible (the entire study of ponerology).
 
 Cons:
 

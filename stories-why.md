@@ -17,7 +17,7 @@ Stories are crudely drawn [maps](people-image-why.md) that point to [meaning](me
 
 - Every [popular](people-trends.md) song made across history has a very limited number of starting chords, and has the same set of possible ending chords to evoke specific feelings.
 - People usually engage more easily with movies and novels than with documentaries and textbooks.
-- [Every society](humanity-universals.md) uses [folklore and myths](stories-myths.md), as well as [proverbs](lawsaxioms.md), that communicate important [lessons](mind-understanding.md).
+- [Every society](humanity-universals.md) uses [folklore and myths](stories-myths.md), as well as [proverbs](philosophy-lawsaxioms.md), that communicate important [lessons](mind-understanding.md).
 - The motivation to convey a story is always driven, at least partly, by the [emotion of anger](mind-feelings-anger.md).
 
 APPLICATION: Popular [trends](people-trends.md), especially [formal media](creations.md/), are fulfilling the secret latent desires of its surrounding [culture](people-culture.md). It's the reason their base splits along age-based, gender-based, and lifestyle-based lines.

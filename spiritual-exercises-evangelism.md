@@ -7,7 +7,7 @@ Sharing Jesus (i.e., "good news sharing" or "evangelism") is a lifestyle [decisi
 
 While evangelism is the outward purpose, the actual purpose of a Christian's life is through a mission.
 
-- A Christian's mission centralizes on [God's purposes](god-will.md), which is to draw from all tribes, nations, people groups, and languages ([Revelation 7:9).
+- A Christian's mission centralizes on [God's purposes](god-will.md), which is to draw from all tribes, nations, people groups, and languages (Revelation 7:9).
 - Mission incorporates evangelism, but also [discipleship](spiritual-discipleship.md), [worship](spiritual-exercises-prayer.md), and [community](church.md).
 - Missions can be macro-missional (large-scale) or micro-missional (small interactions).
 
@@ -15,9 +15,20 @@ Unfortunately, the word "missionary" becomes "evangelist" in modern vernacular.
 
 - Without the rest of the lifestyle, evangelism is nothing more than Christian-oriented [sales](marketing-sales.md).
 
+As ambassadors for Christ (2 Corinthians 5:20), Christians are responsible to behave appropriately:
+
+- Ready whenever necessary to talk about it.
+- Patient, specifically in being [listening well](language-speaking-listening.md) and [avoiding arguments](people-conflicts-bad.md).
+- Reasonable about their convictions and how others may see things.
+- Strategic with their time and information.
+- [Effective communicators](education-how.md) with what they know.
+- [Fair-minded](morality-justice.md) and honest with their opposition.
+- Humble to accept when they don't know.
+
 Part of this mistake comes through our human perception of time.
 
 - Since we will all [die](hardship-death.md), the scarcity of our lives creates a type of urgency over sharing the [Gospel](https://theologos.site/gospel/).
+- The issue is that we're responsible to *share* the Gospel, but aren't required to *convince* anyone of it (i.e., many aspects of [apologetics](spiritual-exercises-evangelism-apologetics.md)), since thats their [decision](mind-decisions.md).
 
 Evangelism is for everyone.
 
@@ -30,7 +41,7 @@ There are many [competitors](religion-answers.md) and [deceptions](people-lying.
 - Your reputation and ministry will come through how you [love other believers](spiritual-exercises.md) (John 13:35).
 - While your [ability to sell](marketing.md) may affect your initial encounter, people will see your lifestyle pretty quickly.
 
-Your [personality](people-identity.md) defines how you may want to approach others about the subject.
+Your [personality](people-identity.md) defines how you will want to approach others about the subject.
 
 - Share Jesus and what He's done for you.
 - Share the [philosophical](philosophy.md)/theological reasons why you [believe](mind-understanding-certainty.md).

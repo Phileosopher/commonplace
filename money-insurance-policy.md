@@ -140,10 +140,10 @@ When framing a policy document, an actuary will have created a rating by gatheri
   - Seasonal changes in inventory stock
   - Intermediate stages in construction
 
-The [law](lawsaxioms.md) of adverse selection means people tend to only look for insurance when they think they may need it.
+The [law](philosophy-lawsaxioms.md) of adverse selection means people tend to only look for insurance when they think they may need it.
 
 - For that reason, insurance premiums must reflect that price difference to prevent the insurer from going bankrupt.
-- More [statistical](math-stat.md) data forms a Poisson distribution that makes the chances and scope of risk more accurate ([law of large numbers](lawsaxioms.md)).
+- More [statistical](math-stat.md) data forms a Poisson distribution that makes the chances and scope of risk more accurate ([law of large numbers](philosophy-lawsaxioms.md)).
 
 Ratings have different categories:
 

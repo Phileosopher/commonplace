@@ -206,7 +206,7 @@ When the work is sourced to someone else, it may have a few forms:
   - Prime Contractor - the client holds one entity responsible, and the rest are subcontractors to that client.
   - Client Model - the client is the only one primarily responsible, and everyone *else* is the subcontractor, who may have their own sub-subcontractors.
 - One-sourcing - an exclusive contract of carriage, often with a service agreement involved (e.g., a contract for a duration of months or years).
-  - It helps to one-source with a [good lawyer](lawsaxioms-legal.md), though it's not a good way to [do business](business.md) as the client unless the price doesn't matter.
+  - It helps to one-source with a [good lawyer](legal-lawsaxioms.md), though it's not a good way to [do business](business.md) as the client unless the price doesn't matter.
 
 Some organizations [specialize](jobs-specialization.md) in [contracts](people-contracts.md) of carriage, usually as an outflow of surrounding regions needing someone to transfer things:
 
@@ -214,7 +214,7 @@ Some organizations [specialize](jobs-specialization.md) in [contracts](people-co
 - Trucking companies
 - Shipping and cargo companies
 
-Performance-Based Contracting (PBC) or Performance-Based Logistics (PBL) defines payment to the carrier by a measurable aspect (e.g., quantity of goods delivered). It's effective enough, but has to consider elements like RMA's and doesn't address [Goodhart's Law](lawsaxioms.md).
+Performance-Based Contracting (PBC) or Performance-Based Logistics (PBL) defines payment to the carrier by a measurable aspect (e.g., quantity of goods delivered). It's effective enough, but has to consider elements like RMA's and doesn't address [Goodhart's Law](philosophy-lawsaxioms.md).
 
 ### Failure
 

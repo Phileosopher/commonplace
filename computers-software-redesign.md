@@ -93,4 +93,4 @@ There are some ways to fix "callback hell":
 
 One of the advantages of working on a team is that other people can see things you can't.
 
-The [Torvalds principle](lawsaxioms.md) applies here, and most debugging can be done more effectively and easily if there are more people looking at it. This is why [open source](legal-ip-floss.md) can have financial benefits.
+The [Torvalds principle](philosophy-lawsaxioms.md) applies here, and most debugging can be done more effectively and easily if there are more people looking at it. This is why [open source](legal-ip-floss.md) can have financial benefits.

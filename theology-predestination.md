@@ -66,4 +66,3 @@ However, there is one clear answer most mature Christians will land on in some w
 - Pretty soon, most believers will understand God has [more than one will](god-will.md).
 - At some point, believers will [understand](mind-understanding.md) (or at least [sense](mind-feelings.md)) that each person of God has a different perspective (e.g., John 6:38-46, Matthew 24:36).
 - Finally, they'll conclude that it's entirely possible for God to both know everything and *not* know everything at the same time.
-

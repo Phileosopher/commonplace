@@ -82,18 +82,6 @@ In that historical void, the [predestination](theology-predestination.md) debate
 
 Further than all of this, other debates have raged about [many lesser idiosyncrasies](people-conflicts-christian-1_dumb.md), as well as [Second Work theology](people-conflicts-christian-3_near.md).
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Issues with losing salvation
 
 There is a very clear problem, however, in the presence of these Scriptures with respect to "historia salutis" above:

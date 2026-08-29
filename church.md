@@ -57,6 +57,10 @@ While you certainly can share in many corporate [spiritual practices](spiritual-
 - Very likely, if you see problems in the church you'll likely need to [start leading other believers](spiritual-discipleship.md) if God permits you.
   - This starts, however, by being an example among others.
 
+Ask whether *you* are right to [serve](church-serve.md) in that church, not whether *they* can serve *you*.
+
+- [Discipleship](spiritual-discipleship.md) in Christ is about self-sacrifice, and that includes the community we're involved in.
+
 ## Wisely choose your leaders
 
 Scripture gives clear standards for church leaders (1 Timothy 2:12-3:13, Titus 1:5-9).

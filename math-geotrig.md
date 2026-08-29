@@ -74,3 +74,48 @@ The calculations for area and diameter are somewhat common-sense:
 - Area:
   - For any square, multiply one side by itself (why it's called "squared").
   - For any quadrilateral, multiply one side by the adjacent side.
+
+Every circle radius can rotate along 360 degrees, with 60 minutes and 60 seconds subdividing those degrees.
+
+- They are represented as D°M'S"
+- Most calculations that don't involve [space](engineering-vehicles-spacecraft.md) never need the precision of minutes and seconds.
+
+## Ratio and symmetry
+
+Geometry reflects nature, and symmetry is when something repeats:
+
+- Reflectional/mirror: the thing is flipped with the axis somewhere near the edge of the object
+- Rotational: the thing is rotated on a point somewhere near the edge of the object
+- Translational: the thing is moved without rotation at all
+
+There can be multiple lines of symmetry within the same object as well.
+
+When something is symmetrical, but scaled, it becomes a fractal.
+
+The Golden Mean is a strange ratio of 1.41421 that seems to directly correspond with *every* measure of [beauty](art.md) that we interpret.
+
+- This number is derived from the Fibonacci sequence:
+  1. Starting with 0 and 1 as "a" and "b", add a+b, which becomes "c".
+  2. add b+c, which becomes "d".
+  3. Repeat infinitely.
+  4. The pattern will become 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181...
+- The ratio itself is √2.
+- Most fractals in nature work on this ratio (e.g., seashells, galaxy clusters).
+- Even our paper dimensions operate on the golden mean:
+  - A0 is 841 x 1189 mm
+  - A1 approximately halves A0, A2 approximately halves A1, A3 approximately halves A2
+  - A4 approximately halves A3, and is adjusted from the 297.25 down to 279.4 for Letter and 355.6 for Legal
+  - A5, A6, A7, and A8 are the same halving format.
+
+## Finding points
+
+Triangulation involves finding a point's location by using at least a few other known elements:
+
+1. Get at least one side's length
+2. Get at least one angle
+3. Slicing any non-right triangle in half creates two right triangles
+4. Use the functions sine or cosine (for opposite or adjacent angles respectively) to get the ratio of that unknown side to the hypotenuse
+5. Use the Pythagorean Theorem (straight side 1 squared + straight side 2 squared = hypotenuse squared) to find the other side's length
+6. Keep repeating as rationally needed to find the distance to any point in space
+
+Trilateration is determining a point's location using the distances of at least three other points. This is a common feature of [GPS systems](logistics-navigation-gps.md).

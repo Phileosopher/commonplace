@@ -178,7 +178,7 @@ APPLICATION: Over time, organizations carry a similar [trend](people-trends.md) 
 
 1. When a [group](groups-small.md) doesn't need its [leadership](mgmt-1_why.md) to be strong against [conflict](people-conflicts.md), it selects lower-testosterone men.
 2. Eventually, the low-testosterone [culture](people-culture.md) empowers females to take the role.
-3. Eventually, the higher female ratio drives the organization further [leftward](politics-leftism.md) and validating [O'Sullivan's First Law](lawsaxioms-large.md).
+3. Eventually, the higher female ratio drives the organization further [leftward](politics-leftism.md) and validating [O'Sullivan's First Law](groups-large-lawsaxioms.md).
 
 Like with anything else, differences can be [strengths](power.md) or weaknesses, all based on [perspective](people-image-why.md) and [use](purpose.md). In many ways, the contrast between males and females serve *huge* advantages for society when people can employ the correct time and place for a woman's or man's approach:
 

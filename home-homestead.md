@@ -332,7 +332,7 @@ Make a candle-based clay heater:
 2. Surround the candles with bricks, with an opening for lighting them.
 3. On top of the bricks, place a clay pot (for gardening) upside down.
 
-Make a cooler that uses the [Venturi Effect](lawsaxioms-science.md) to naturally cool:
+Make a cooler that uses the [Venturi Effect](philosophy-lawsaxioms-science.md) to naturally cool:
 
 1. Get lots of plastic bottles, a sturdy board that fits a window, and scissors or a knife.
 2. Cut holes on the board that are the size of the rim of the bottles. Space out the holes to accommodate the body of the bottles.

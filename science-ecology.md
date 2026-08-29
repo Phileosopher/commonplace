@@ -24,6 +24,13 @@ Generally, an ecosystem thrives when there's plenty of water and plenty of sunli
 
 Sadly, climate science has been hijacked for [political reasons](politics-leftism.md), often pointing the blame for biome degradation on carbon. Increased carbon output, however, would trigger the negative feedback loop of increased plant life, thus preparing for more animals to offset the situation.
 
+- In particular, *water* has a much greater impact on life, since it's a scarce resource for life itself.
+
+There are error-correcting mechanisms for human-made pollution that we don't even know about, but we *do* know of some mechnaisms:
+
+- Fungus in the ocean break down ocean plastic, as well as other hydrocarbons such as oil, rendering oil spills inert.
+- Radiation-eating bacteria live under the earth and have made nuclear fallout sites fully habitable within years instead of millennia.
+
 Over time, evolutionary adaptations change the epigenetics of organisms, but its scope and timing of the raw data leans heavily into the [phenomenology](symbols.md) of the data-viewer's perspective of the [unknown](unknown.md):
 
 1. Atheist biologists believe all speciation came from a common ancestor, meaning it took millions of years and a few decades of reckless behavior by mankind could upset the delicate balance of existence we live in. Their timing for the conditions *frequently* moves around as they uncover new data.

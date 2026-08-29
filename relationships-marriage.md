@@ -358,7 +358,7 @@ The [precedent](legal-safety.md) around marriage has shifted dramatically in the
 1. At one time, only men worked and women [took care of children](parenting-children.md).
 2. When a [divorce](hardship-family-divorce.md) happened (which was extremely rare), the women could only maintain their lifestyle with his alimony payments.
 3. Further, parenting was once far more expensive before [modern appliances and superstores](engineering-conveniences.md) or [public primary education](education.md), so he had to pay child support as well.
-4. Then, and only then, the discussion of custody and visitation would arise, with her receiving more custody under things like the [tender years doctrine](lawsaxioms-legal.md).
+4. Then, and only then, the discussion of custody and visitation would arise, with her receiving more custody under things like the [tender years doctrine](legal-lawsaxioms.md).
 
 The [rules](people-rules.md) were framed under a society where women couldn't vote or hold most careers.
 

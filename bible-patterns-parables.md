@@ -177,8 +177,8 @@ The wedding feast (Matthew 22:1-14, Luke 14:15-24)
   - The popular verse "many are called, but few are chosen" comes at the end of this parable.
   - This parable, like the faithful vs wicked servant, breaks at the end from symbolism into an outright description of hell.
 - What the parable means:
-    - The kingdom of heaven has been made open to everyone, and that's partly because the Jews have failed in participating in it.
-    - Further, the kingdom requires being "clothed" correctly, which comes through Christ.
+  - The kingdom of heaven has been made open to everyone, and that's partly because the Jews have failed in participating in it.
+  - Further, the kingdom requires being "clothed" correctly, which comes through Christ.
 
 ## Jesus' parables (with 1 account)
 

@@ -10,6 +10,12 @@ Many of the activities that define a bad system are variations of wise [investme
 - Absorb risk by charging flat prices for things with a varying cost structure (e.g., it costs $40-110 to ship something, so charge $100 to do it).
 - Re-invest *everything* to prevent making any taxable organizational [profit](money-accounting.md).
 
+Further, by exploiting [dark design patterns](engineering-design.md), most systems can maximize their interests as they slowly provide less value.
+
+- Intentionally put people through arcane systems for anything that would cost the organization (e.g., awful tech support systems).
+- Hire separate groups to do the highest-labor work with the lowest risks to success if underperformed.
+- Advance organizational interests while [framing it](people-image-distortion.md) as a benefit to their victims.
+
 As a system grows larger, it can take advantage of favorable situations *much* faster and more effectively than smaller groups:
 
 - Use [tax shelters](money-accounting.md) to move the money into a tax-free arrangement, often with added publicity (e.g., owned not-for-profit organizations).

@@ -7,6 +7,15 @@ Algebra builds on that arithmetic, but then adds quite a bit more.
 
 Historically, the Arabs added to the existing Roman style (Al Jabr). The existence of "0" is part of that development, and a portion of why we don't use Roman numerals as [symbols](math-symbols.md) anymore.
 
+The core concept of algebra is essentially to calculate for several possible purposes:
+
+1. Completing incomplete information
+2. Balancing information
+
+Since this isn't always obvious, all algebra revolves around a clearly-defined [purpose](purpose.md).
+
+- And, since most [modern education](education-bad.md) is rote instruction, most people are oblivious that it's always relative to purpose.
+
 ## Variables
 
 The line between algebra and [arithmetic](math-arithmetic.md) is most clearly distinguished by the existence of variables.
@@ -23,6 +32,18 @@ Most equations require "solve for □" to give an absolute concept, but the vagu
 - Everything in maths requires understanding the precise [purpose](purpose.md) you wish to accomplish.
 - [Rote memorization](mind-memory.md) literally gives the *opposite* effect by provoking people to calculate by [habit](habits.md) without any awareness of the grander picture of *why* the calculation should be done.
 - The result of this is that most students can be easily thrown off by the relative thinking necessary to perform algebra.
+
+## Coordinates
+
+Algebra frequently maps values to a graph using Cartesian coordinates:
+
+- The standard is (X,Y).
+- X is the horizontal distance (positive or negative) from a defined center point.
+- X is the vertical distance (positive or negative) from that defined center point.
+
+When a line crosses the y-axis, it's the "y-intercept", which is when x=0. The reverse is true for the x-intercept.
+
+- However, for most applications, the y-intercept is more important (such as [statistics](math-stat.md)), which is why schools drill y-intercepts more.
 
 ## What school was supposed to teach
 

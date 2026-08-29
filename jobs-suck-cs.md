@@ -6,7 +6,7 @@
 - Young, inexperienced managers won't as easily detect a candidate [lying](people-lying.md), especially since most tech people are *not* [street-smart](legal-safety.md).
 - Between their inexperience and the finicky nature of [development cycles](mgmt-2_projects-cs.md), most tech managers will *grossly* underestimate how long things take to get done.
 
-Most tech managers and lead developers are promoted once they've proven their worth and the company has gotten bigger, which enacts the [Peter Principle](lawsaxioms.md). This happens *much* faster in the tech industry because companies rapidly scale faster than most other industries.
+Most tech managers and lead developers are promoted once they've proven their worth and the company has gotten bigger, which enacts the [Peter Principle](philosophy-lawsaxioms.md). This happens *much* faster in the tech industry because companies rapidly scale faster than most other industries.
 
 ## Bad culture
 

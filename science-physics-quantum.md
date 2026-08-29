@@ -8,6 +8,12 @@ The universe is made of atoms, which consist of:
 
 Each atom has an atomic weight, which is *mostly* made of the protons and neutrons (neutrons are a little heavier), since electrons are comparatively smaller.
 
+- Electrons actually have to be *very* precisely 1,836 times smaller than a proton to sustain any possibility of life:
+  - Larger electrons would make carbon unstable.
+  - Smaller electrons would make electricity less effective.
+  - Larger protons would make the protons push away from each other to prevent bonding.
+  - Smaller protons would mean atoms wouldn't bond together as much.
+
 Beyond these physical properties, atoms also contain electromagnetic energy.
 
 - Every proton carries +1 *e* and every electron carries -1 *e*. Naturally, if an atom has an uneven ratio of protons and electrons, it'll be positively or negatively charged, and is called an ion.

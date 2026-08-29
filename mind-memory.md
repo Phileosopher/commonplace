@@ -43,6 +43,7 @@ B. Storage:
 
 1. Hold the information in short-term memory for 15-30 seconds.
 2. Move everything that's deemed essential in some way for the future to long-term memory.
+   - This comes heavily through acetylcholine, a body-synthesized neurotransmitter than engages muscle association.
 3. The memory is associated and linked with other experiences and memories.
 
 C. Retrieval/Recall:

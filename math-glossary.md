@@ -131,6 +131,8 @@ Forget - to ignore for the sake of finding an answer
 
 Formula - a group of operations
 
+Fractal - symmetry, but with scaling
+
 Fraction - a representation of unresolved division that indicates a part of another value, has a numerator and denominator
 
 Function - a clear pattern that can be represented by a formula
@@ -148,6 +150,8 @@ Graph theory - the study of networks of lines and vertices
 Group or Group Theory - a domain of mathematics that involves conceptually putting things together
 
 Higher or Derived - a middle-point on the way to "abstract"
+
+Hypotenuse - the side of a right triangle that is longest (opposite the right angle)
 
 Increment - a fixed amount that gets increased, opposite of decrement
 
@@ -172,6 +176,8 @@ Line segment - aka segment, a portion of a line, typically indicates some type o
 Manifold - a topological space where each point represents something like Euclidean space (e.g., a science fiction wormhole)
 
 Matrix - a rectangular array of things
+
+Minutes - 1/60 of a degree, represented with '
 
 Multiplication - aka times, adding a second value multiple times to a first value, is commutative
 
@@ -257,9 +263,13 @@ Right triangle - a triangle with one of its corners at a 90-degree right angle
 
 Round - an approximated estimation relative to a number (e.g., 413 rounded to the nearest 100 is 400)
 
+Second - 1/60 of a minute, represented with "
+
 Set theory - the logical study of sets, which are collections of things
 
 Shape - an object with a defined form, exists in at least one dimension on a plane
+
+Symmetry - a shape's reproducible pattern
 
 Sphere - a 1-sided 3-dimensional shape where the distance is the same from the center
 
@@ -282,3 +292,7 @@ Triangle - a 3-sided 2-dimensional shape
 Variable - a clearly specified number that's undefined for the purposes of the math problem (e.g., x represents any possible number, but we don't know yet)
 
 Vertex or Vertices - a point where two or more curves, lines, or edges meet, plural is vertices
+
+x-intercept - the point in a Cartesian plane where y=0, contrast with y-intercept
+
+y-intercept - the point in a Cartesian plane where x=0, contrast with x-intercept

@@ -11,7 +11,7 @@ Depending on use, they don't have to be done *every* week.
 [ ] Clean the outside of the refrigerator.
 [ ] Wipe down all kitchen and bathroom surfaces.
 [ ] Vacuum, sweep, and mop all indoor flooring.
-[ ] Clean bathroom toilets, sinks, showers, and shower curtains.
+[ ] Clean bathroom toilets, sinks, and showers.
 
 ## Monthly
 
@@ -27,7 +27,7 @@ Cleaning
 [ ] Water all indoor plants.
 [ ] Clean range hood filters.
 [ ] Clean the dishwasher.
-[ ] Pour treatment down to the septic tank.
+[ ] If you have one, pour treatment down the septic tank.
 
 Checking/Replacing
 
@@ -39,7 +39,7 @@ Checking/Replacing
 [ ] Clean inside and outside all windows and mirrors.
 [ ] Clean the stove underneath by popping off the top.
 [ ] Polish all furniture.
-[ ] If you have a dryer, clean the duct that runs from the dryer to the vent.
+[ ] If you have a dryer, clean the duct that runs from the dryer to the vent and vacuum the lint from the dryer hose.
 [ ] Run the water and flush the toilets in unused spaces.
 
 Checking/Replacing
@@ -49,6 +49,7 @@ Checking/Replacing
 [ ] Check for termites, mice, and other pests.
 [ ] Test garage door auto-reverse feature (trip the sensor).
 [ ] Check the water softener and add salt if needed.
+[ ] Check the exterior dryer vent while it's running to be sure it smells like fresh laundry without blockages.
 
 ## Twice a year
 
@@ -60,6 +61,7 @@ Cleaning
 [ ] Pressure-wash the decks, driveways, and walkways.
 [ ] Clean all appliances.
 [ ] Vacuum refrigerator coils.
+[ ] Clean the roof's gutters and downspouts.
 
 Checking/Replacing
 
@@ -76,23 +78,31 @@ Checking/Replacing
 Cleaning
 
 [ ] Clean and seal indoor tile and grout.
-[ ] Recaulk joints between tiling and other materials.
 [ ] Check for masonry holes or cracks and tuckpoint as needed.
 [ ] Seal drives and walks.
 [ ] Pressure wash walls and siding.
 [ ] Vacuum and clean the carbon monoxide and smoke detectors.
 [ ] Wash all curtains and shower curtains.
+[ ] Clean and repair deck/patio as needed, which may include re-staining or replacing loose boards/posts.
+[ ] Clean window wells of debris, including in the basement.
+[ ] Clean chimney.
+[ ] Deep clean and inspect the basement for radon and mold.
 
 Checking/Replacing
 
 [ ] Visually inspect the fire extinguisher (i.e., gauge shows pressure, no signs of wear, accessible in home) or have a professional inspect it.
 [ ] Check window wells and cellar ways for debris and damage.
 [ ] Walk the exterior perimeter of the home and check for potential entry points for bugs and vermin.
-[ ] Inspect all power plugs and replace them as needed.
+[ ] Inspect all electrical outlets and replace them as needed.
+[ ] Inspect all light switches and replace them as needed.
 [ ] Check wood surfaces for paint failure and damage.
 [ ] If you have a septic tank, pump it and inspect it.
-[ ] Check for wasp and hornet nests around the property.
-[ ] Check for leaks in toilets and sinks.
+[ ] Examine caulking and recaulk joints between tiling and other materials as needed.
+[ ] Check for leaks in toilets and sinks, as well as faucet aerators.
+[ ] Check and repair all grout in tiles.
+[ ] Tighten all knobs, handles, racks, and mountings.
+[ ] Check all locks and deadbolts on doors and windows.
+[ ] Remove showerheads and clean sediment by soaking.
 
 ### The start of spring
 
@@ -115,44 +125,67 @@ Checking/Replacing
 
 Cleaning
 
-[ ] Clean the roof's gutters and downspouts.
+[ ] Clean and [organize](organization.md) garage.
 
 Checking/Replacing
 
 [ ] Inspect the roof for damages or leaks.
+
+### During summer
+
+Checking/Replacing
+
+[ ] Clear all cobwebs and inspect and treat for any insects (ants, spiders, moths, etc.), as well as any door/window seals.
+[ ] Check for wasp and hornet nests around the property.
 
 ### The start of fall
 
 Cleaning
 
 [ ] Trim the trees and shrubs.
+[ ] Flush the hot water heater to remove sediment.
 
 Checking/Replacing
 
 [ ] Have a professional inspect and clean the fireplace.
 [ ] Have a professional check the heating unit.
 [ ] Check trees for interference with electric lines.
+[ ] If you have a basement, test your sump pump.
+[ ] Check the driveway and pavement for cracks and re-seal before winter.
 
-### The start of winter
+### The end of fall (before first frost)
 
-Cleaning
+Cleaning/Storing
 
-[ ] Clean the roof's gutters and downspouts.
-
-Checking/Replacing
-
-[ ] When you start using the heating unit more than the air conditioner, adjust the ceiling fan blades to push upward.
-[ ] Check water lines, insulation, and anything else vulnerable to cold.
+[ ] Winterize the air conditioning systems (remove window units, secure tarp or plastic sheeting over central air unit with bungee cords).
+[ ] If you have them, turn off and drain outdoor water faucets, sprinkler systems, and unused buildings.
 [ ] Disconnect all hoses from hose bibs, drain, and store.
 [ ] Drain all exterior faucets and protect them with covers.
 [ ] Confirm access to all water supply cutoff valves in case of burst pipes.
-[ ] Turn off and drain the irrigation systems.
+[ ] Store or cover any outdoor equipment.
+
+Checking/Replacing
+
+[ ] Check for any leaks in windows or doors.
+[ ] Check that heating vents are open and unobstructed.
+[ ] If you have a fireplace, check that it is clear of debris and functions correctly.
+[ ] When you start using the heating unit more than the air conditioner, adjust the ceiling fan blades to push upward.
+[ ] Check water lines and insulation in primary dwelling buildings.
+[ ] Check that winter gear is ready (sidewalk salt, shovels, etc.).
+
+### During winter
+
+Checking/Replacing
+
+[ ] Regularly check for ice dams and icicles, and install de-icing cables when applicable.
 
 ## Every other year or as needed
 
 [ ] Shampoo the couches and carpet.
 [ ] Get any required [vehicle](autos.md) smog checks.
 [ ] Change out furniture to accommodate new lifestyles.
+[ ] Service and inspect furnace.
+[ ] If you have one, test your well.
 
 ## Fixing and improving
 

@@ -1,5 +1,5 @@
 
-# Historically proven unintended consequences
+# Ridiculous, historically proven unintended consequences
 
 Format:
 
@@ -75,6 +75,13 @@ Banned cartoons (1903)
 2. The government banned depictions of any person as any type of animal.
 3. [Artists](art.md) like to rebel against the system, and will find new and [creative](mind-creativity-how.md) ways to keep doing it.
 4. Cartoonists depicted Samuel Pennypacker as every variety of plant and inanimate object. The bill was pulled and replaced with the Salus-Grady libel law that made printing companies personally responsible for the artists' depictions. The printers dared them to take them to court, but the law was repealed after he left office.
+
+Foreign marine restrictions (1920)
+
+1. The United States wants to have more US-owned maritime activity.
+2. The Merchant Marine Act of 1920 required that all goods transported by water between US ports are carried on ships owned by US citizens and fly the US flag.
+3. Constraining a market means that people use alternatives, and often that the price goes up.
+4. Water transport with smaller watercraft is the most cost-effective approach that serves many ports across the shorelines, but the Jones Act required gargantuan barges to traverse the globe to visit a few very large ports to have their products unloaded. This has expanded the need for a vast number of truck drivers and directly connects the cost of all purchased goods to the cost of diesel fuel.
 
 Paleontology finds (1937)
 
@@ -201,7 +208,7 @@ Barbara Streisand (2003)
 1. Barbara Streisand's house was on the internet.
 2. Barbara Streisand sued the photographer for $50 million and demanded the photo be removed.
 3. People are interested when someone tries to hide something.
-4. Before Streisand did anything, there were only 6 views for the photo, which was for measuring coastal erosion. After her effort, over 400,000 people viewed the photo, she had to $177,000 in legal fees to her defendant, and has had [an embarrassing effect named after her](lawsaxioms.md).
+4. Before Streisand did anything, there were only 6 views for the photo, which was for measuring coastal erosion. After her effort, over 400,000 people viewed the photo, she had to $177,000 in legal fees to her defendant, and has had [an embarrassing effect named after her](philosophy-lawsaxioms.md).
 
 Too much traffic (2003)
 
@@ -288,7 +295,7 @@ Bottle water waste (2013)
 1. Bottled water consumption at the University of Vermont is creating too much waste.
 2. The school tried to eliminate water bottle vending machines, hand out reusable containers, and spent $100,000 to add bottle filling stations around the campus.
 3. People don't always remember to bring things with them.
-3. Students often forgot their water bottles, sugary drink vending machine sales rose by 25%, and plastic bottle use increased by 6% per capita.
+4. Students often forgot their water bottles, sugary drink vending machine sales rose by 25%, and plastic bottle use increased by 6% per capita.
 
 (2013)
 

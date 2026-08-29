@@ -99,7 +99,7 @@ We only need a few key details to funnel chaos because of how [values](values.md
 1. Our [purposes](purpose.md) often operate as a chain or sequence of elements, often derived from environmentally-triggered [habits](habits.md).
 2. Any shift in that chain affects the rest.
 3. If we can see the weakest link in that chain, we know where a break will likely come.
-4. 80% of the results come from 20% of the actions ([Pareto Principle](lawsaxioms.md)), so specific small things can create a domino effect for *gigantic* things.
+4. 80% of the results come from 20% of the actions ([Pareto Principle](philosophy-lawsaxioms.md)), so specific small things can create a domino effect for *gigantic* things.
 
 We need experience to see the correct details because our values tend to oversimplify [results](results.md):
 

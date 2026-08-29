@@ -282,13 +282,13 @@ Spring and Autumn Courts - judges determine their convictions based on their ide
 
 ## Various Legal Domains
 
-[Criminal doctrines](lawsaxioms-legal-criminal.md)
+[Criminal doctrines](legal-lawsaxioms-criminal.md)
 
-[Civil doctrines](lawsaxioms-legal-civil.md)
+[Civil doctrines](legal-lawsaxioms-civil.md)
 
-[Other domains](lawsaxioms-legal-misc.md)
+[Other domains](legal-lawsaxioms-misc.md)
 
-[Multi-entity](lawsaxioms-legal-multi.md)
+[Multi-entity](legal-lawsaxioms-multi.md)
 
 ## Largely Obsolete
 

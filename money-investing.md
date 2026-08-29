@@ -157,7 +157,7 @@ As you come closer to retirement and your investment goals change, re-balance yo
 
 ## Research
 
-The [efficient-market hypothesis](lawsaxioms.md) indicates that the price is essentially a fair value, and no individual can consistently identify and profit nuances in that market without [specialized information](jobs-specialization.md).
+The [efficient-market hypothesis](philosophy-lawsaxioms.md) indicates that the price is essentially a fair value, and no individual can consistently identify and profit nuances in that market without [specialized information](jobs-specialization.md).
 
 - Returns on any investment are no different: high returns typically means higher risk or lower cash-in-hand by the end.
 - The only time this hypothesis diverges is when there are inefficiencies (i.e., insufficient information), and it takes an unusual perspective to find those situations.
@@ -188,7 +188,7 @@ Don't invest, or do *anything*, you don't understand.
 
 High-quality [analysis](logic.md) and [experience](mind-understanding.md) can give a competitive edge if you can apply it to the psychology of [large groups](groups-large.md).
 
-- Understand how investing and banking works, as well as how to read [accounting reports](money-accounting.md) and applicable [laws](lawsaxioms-legal.md).
+- Understand how investing and banking works, as well as how to read [accounting reports](money-accounting.md) and applicable [laws](legal-lawsaxioms.md).
 - Stay at least somewhat familiar with that investment's industry and related industries.
 - Your best opportunities to invest usually come from personal experience.
 

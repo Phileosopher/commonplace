@@ -187,7 +187,7 @@ On a [large-scale](groups-large.md), customer service becomes "public relations"
 - Most [PR](people-image-distortion.md) is [adapting the story](stories-storytellers.md) to fit a particular viewpoint that's favorable to the organization.
 - The art of public relations involves using proven [psychology methods](mind-bias.md) to [manage a brand's optics](people-image-distortion.md).
 
-If there are multiple stages in the marketing process, and employees are paid based on moving customers to the next stage, it creates a perverse incentive (i.e., [Goodhart's Law](lawsaxioms.md)).
+If there are multiple stages in the marketing process, and employees are paid based on moving customers to the next stage, it creates a perverse incentive (i.e., [Goodhart's Law](philosophy-lawsaxioms.md)).
 
 However, too much customer service can be devastating to an organization.
 

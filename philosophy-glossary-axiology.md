@@ -54,7 +54,7 @@ Functionalism - Since reductive materialism (see above) and logical behaviorism 
 
 Falsificationism/Deductivism - Things are only [scientific](science.md) if there's a possibility they could be wrong.
 
-Inductionism - We can use inductive reasoning on sets of information to create [theories and laws](lawsaxioms.md) to live by.
+Inductionism - We can use inductive reasoning on sets of information to create [theories and laws](philosophy-lawsaxioms.md) to live by.
 
 - Inductivism - The body of science is guided by previous scientific data, so it's always advancing toward truth.
 - Psychologism - We can only grow in understanding via [philosophical study](philosophy.md).

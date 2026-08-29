@@ -19,6 +19,13 @@ For most people, the worst trauma happens in their childhood.
 
 APPLICATION: If something hurts a small child, it likely can hurt anyone. The only difference is that most adults harden themselves to that pain and learn to ignore it.
 
+When we experience trauma later in life, the scope of it creates several pathological patterns at once:
+
+1. A [moral](morality.md) shock over how unclear good and evil can become.
+2. Self-awareness of our personal capacity for evil through our enhanced skills and strengths.
+3. Feelings of helplessness and [shame](mind-feelings-shame.md) over terrible things we can't or couldn't control.
+4. When applicable, a constant [awareness](mind-awareness.md) of [death](hardship-death.md) and its finality.
+
 If we hold onto that trauma, we feel [stress](mind-feelings-happiness-stress.md) from [remembering it](mind-memory.md).
 
 - The memories of the event, until we've released it, will repeatedly replay the pain in our [imaginations](mind-imagination.md).

@@ -43,6 +43,7 @@ Negotiate salary from a position of power:
   - To the employer, your 5-15% request for more pay is a small amount, though they'll often fight you on it because [they're thinking about other budget considerations](mgmt-2_projects.md).
 - Except for an *overwhelmingly* hot job market, the manager is *far* less invested in the negotiation than you ever could be.
 - If you were able to find the job [through a personal network](jobs-4_hunt.md), you have a *lot* more latitude for negotiation because you're more a relationship than a commodity.
+- If they try to negotiate you lower and you know what you're worth, ask them which responsibilities they would like to remove from your role.
 
 The type of need your job fills determines your negotiation power:
 

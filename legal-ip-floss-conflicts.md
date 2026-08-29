@@ -1,9 +1,25 @@
 
 # Open-source conflicts
 
+Most maintainers need to hear that it's perfectly fine for them to do the following with a FLOSS project:
+
+- release a project where the maintainer is the only expected set of users
+- declare a project is feature complete and stop
+- stop writing new code in a project and simply review patches from other people
+- stop reviewing patches once other people are familiar enough with the codebase
+- admit a project has so much technical debt that others should reimplement it instead of depend on it
+  - this is especially true if they write down the lessons others should learn
+- if there was no pressure to force anyone to adopt the project, it doesn't meet the requirements for some potential group of users
+- inform a company that depends on the project that it's unsupported and they can pay developers to contribute if they really need it
+- openly state they created the project to meet their personal needs, but someone else made something that meets those needs better
+- openly state they made the project as an experiment, and the result was learning that approach was a bad idea
+
 ## Inter-community conflicts
 
-If it's public-facing, open-source software developers will get plenty of unwarranted hate for what they do, especially if their software becomes popular. Some developers [enjoy some levity with it](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/), but there are often many toxic people who send unpleasant messages.
+If it's public-facing, open-source software developers will get plenty of unwarranted hate for what they do, especially if their software becomes popular.
+
+- Many times, the maintainers are often so [autistic](https://adequate.life/autism) that they don't realize they can simply [set good boundaries](people-boundaries.md) and say "no" to others' demands.
+- Some developers [enjoy some levity with it](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/), but there are often many toxic people who send unpleasant messages.
 
 While the codebase is completely public and open, open-source [version control](politics-systems.md) forms into several competing views:
 
@@ -76,7 +92,7 @@ However, the fight against open-source is a losing battle.
 The [trend](people-trends.md) for free software, as of 2023, is a bit complex:
 
 - Open-source software terms are definitely enforceable, and failure to honor them can lead to a lawsuit.
-- GPL code has effectively been labeled as a [contract-based matter](people-contracts.md), *not* over [intellectual property](legal-ip.md). It doesn't make much intuitive sense, but it [gives lawyers more work](lawsaxioms-legal.md) and means the payment for damages is generally higher (i.e., [California district court](https://web.archive.org/web/20200719095524/https://www.theregister.com/2017/05/13/gnu_gpl_enforceable_contract/)).
+- GPL code has effectively been labeled as a [contract-based matter](people-contracts.md), *not* over [intellectual property](legal-ip.md). It doesn't make much intuitive sense, but it [gives lawyers more work](legal-lawsaxioms.md) and means the payment for damages is generally higher (i.e., [California district court](https://web.archive.org/web/20200719095524/https://www.theregister.com/2017/05/13/gnu_gpl_enforceable_contract/)).
 - There are also movements that imply that *any* [decompilation](computers-compilers.md) of software might be legal, if only for the intention of [fixing a bug](computers-software-redesign.md). Nothing says the [core logic](computers-alu.md) can't be reproduced, either, even if the software isn't outright copied (i.e., [EU court ruling](https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1)).
 - Copying your software's [API outputs](computers-programming.md) to make it interoperable with another, more popular software *might* be legal, but will be somewhat of an uphill battle to wrestle over the dispute (i.e., [Google vs. Oracle's Java ruling](https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf)).
 - Calling software open-source when it's *not* open-source is considered false advertising.

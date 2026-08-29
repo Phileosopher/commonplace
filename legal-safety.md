@@ -37,7 +37,7 @@ Unfair discrimination in law is tragically frequent.
 - In principle justice is blind to favoritism, but imperfect and corruptible people carry it out, and it's *also* sometimes [blind to facts outside the situation](https://gainedin.site/idiot/).
 - Most court cases are a battle of attrition through attorney fees, and the groups that typically win court battles have more money to pay their lawyers.
 - People can often abuse laws to operate against the spirit they were originally designed for.
-- While "innocent until proven guilty" is often [the doctrine *within* the courts](lawsaxioms-legal.md), the surrounding system is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
+- While "innocent until proven guilty" is often [the doctrine *within* the courts](legal-lawsaxioms.md), the surrounding system is typically "guilty until proven innocent" and in practice becomes "innocent until proven poor".
 - Many otherwise-illegal actions by military and police are actually legal under color of law.
   - In fact, peace officers are often not legally required to protect children or take any actual action in situations such as active shooters or bomb threats.
 
@@ -311,6 +311,8 @@ Look at what *they* can change to the property, and to what extent.
 
 ### Defending yourself via prevention
 
+Learn to [listen](language-speaking-listening.md), since you'll often find the truth that way.
+
 Disclaim *everything*, since nobody can sue if you've successfully repudiated yourself as:
 
 - Not giving actual advice
@@ -334,7 +336,7 @@ Don't get too curious.
 - Sometimes, merely *knowing* something can get you in trouble.
 - Don't ask questions unless you're prepared for the answer, as well as the legal implications that come from knowing it.
 
-Build a network of competent professionals including an [accountant](money-accounting.md), [insurance](money-insurance.md) agent, [lawyer](lawsaxioms-legal.md), and [realtor](home-buy.md).
+Build a network of competent professionals including an [accountant](money-accounting.md), [insurance](money-insurance.md) agent, [lawyer](legal-lawsaxioms.md), and [realtor](home-buy.md).
 
 - A professional applies every thought, action, and spoken word as 3 possible forms of "status" toward the interests of their client:
   1. Advantageous
@@ -365,9 +367,11 @@ Don't say anything.
 
 - Since what you say may be misrepresented, only state things that are recorded or in writing.
 
-Never begin paying for installments unless you intend to finish paying it.
+Only make [agreements](people-contracts.md) you have to.
 
-- The first $1 payment declares a [contract](people-contracts.md) as legitimate.
+- Never begin paying for installments unless you intend to finish paying it.
+  - The first $1 payment declares a [contract](people-contracts.md) as legitimate.
+- You can even limit how badly you're *scammed* by limiting how much you spend.
 
 For a minimal fee, you can register your dog as an "emotional support animal" and landlords can't discriminate or raise their rent for it.
 
@@ -376,6 +380,7 @@ If your car is about to get towed, jump inside it to qualify further action as k
 If you're a professional with a government-endorsed certification, you're held to a higher standard.
 
 - To operate in an official capacity as a teacher, doctor, architect, lawyer, beautician, engineer, banker, insurance agent, investment counselor, or psychiatrist, it requires continuous education requirements and a much higher standard of behavior and care.
+- Stating you were "simply following orders" will not be sufficient if you are doing something that is clearly [unethical](morality.md).
 - However, you can often operate *without* government approval in very specific capacities, and without the responsibilities involved from the official title.
 
 Only discuss legal matters with a qualified lawyer.
@@ -435,6 +440,15 @@ Every legal dispute is never about [fairness](morality-justice.md), but a large-
 
 - A lawyer is necessary to understand the rules, but you're the ultimate [decider](mind-decisions.md) of the type of [game](math-gametheory.md) you want to play.
 - It's never a matter of fairness, but about who wins that game.
+  - If the facts are on your side, argue the facts.
+  - If the law is on your side, argue the law.
+  - If neither is on your side, you'll only win by [confusing the issue](hardship-abuse-narcissist.md).
+
+You may not have an easy time getting a lawyer.
+
+- Many lawyers have conflicts of interest that interfere with their ability to serve your interests.
+- Even lawyers who *can* represent you may not agree with your values.
+- It's better to have a lawyer who believes you and what you're standing for than one who is highly respected.
 
 Lawsuits are typically "pay to play", and you must stay aware of the lawyers' goals in each context:
 
@@ -460,10 +474,20 @@ The legal process is a *very* drawn-out mechanism that goes through a predictabl
    - The judge will make a determination on how the guilty party will "pay" for their misbehavior.
    - After this, everything goes to law enforcement and its many subdomains (e.g., child protective services, environmental regulation, etc.).
 
+If you're particularly poor, you can go pro se and self-represent in a civil case.
+
+- The judge will *not* be lenient on you, however, so be ready to do more [research](information.md).
+- By doing this, you can often exhaust the other party's funds.
+  - In particular, ask the opposing party lots of questions in circular and unproductive conversation, and behave like you're not very intelligent.
+
 Submitting evidence in court is often difficult for lawyers.
 
 - While you can often submit *exhibits*, they don't become evidence until there's a substantial link between the given information and how it affects the case.
 - You often can state you need to cross-examine the information they provide with your own information, which can halt the process of submitting evidence.
+- Always scrutinize the chain of custody with evidence.
+  - If the evidence was mishandled, it doesn't matter how concrete it is.
+- One trick lawyers often provide is to give an incredibly scandalous piece of evidence that has no bearing on the case.
+  - While it won't be relevant and the judge will throw it out, their [bias](mind-bias.md) will keep that scandal in their mind.
 
 Learn to be *very* slow to speak when being questioned.
 
@@ -504,6 +528,20 @@ You can often use [open investigation](computers-cysec-osint.md) to find if the 
 - Check the judge's spouse for everything as well.
 - Demand their SF 28 and their anti bribery statement.
 
+If you suspect your attorney is overcharging or doing something unethical:
+
+- Look up the audit agency (at the state level) and learn the reporting process.
+  - Sometimes, an attorney will have their license taken away with as few as 3 grievances/complaints.
+  - If there is a legitimate issue, audit agencies usually side with the victim.
+- Then, send email to your attorney with an indication of your complaint and a request for a refund.
+  - Indicate you intend to report them to the audit agency.
+- The attorney should then give you credit.
+
+Even with many laws and absurd systems, sometimes common sense will simply prevail.
+
+- Jury nullification is when the jury agrees someone is guilty of a crime, but they still declare them innocent because the action was moral.
+- Sometimes judges will rule against precedent because someone committed an unrelated action that has a holistic association.
+
 ## Legal safety is *not* part of the Good Life
 
 [The Good Life](people-goodlife.md) encompasses more [meaning](meaning.md) than simply [protection from risks](safety-riskmgmt.md).
@@ -512,8 +550,10 @@ The only way to stay fully out of trouble is to do absolutely nothing.
 
 - Every single [task we perform](purpose.md) comes with legal risks.
 - Therefore, most [meaningful](meaning.md) and [ethical](morality.md) tasks are often *more* risky legally than if we did nothing.
+- Even if you follow all the rules, some people in power *will* abuse the [justice](morality-justice.md) system.
+  - "Pick the man, then find the crime." - Soviet saying
 
-Living a [good life](people-goodlife.md) requires operating *outside* the world of what's legally admissible.
+Living a [good life](people-goodlife.md) often requires operating *outside* the world of what's legally admissible.
 
 - We can only find [happiness](mind-feelings-happiness.md) in our thought life, and legal matters are only the world *around* us.
 

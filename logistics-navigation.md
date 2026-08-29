@@ -24,7 +24,7 @@ Naval navigation beyond the shorelines couldn't use any direct landmarks, so the
 
 The [GPS](logistics-navigation-gps.md) coordinate system is *old*, and likely attributable to Eratosthenes in the 3rd century BC.
 
-The system uses the [radial degrees](math-algebra-cs.md) relative along the circular shape of the Earth:
+The system uses the [radial degrees](math-geotrig.md) relative along the circular shape of the Earth:
 
 - Latitude ranges from -90 to 90, with 0 being at the equator.
 - Longitudes range from -180 to 180, with 0 being along the meridian of [Null Island](https://en.wikipedia.org/wiki/Null_Island) (an imaginary location in the middle of the Atlantic Ocean).

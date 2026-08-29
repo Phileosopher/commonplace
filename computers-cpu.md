@@ -119,7 +119,7 @@ While Average User You can ratchet up or dial back the clock speed to give you b
 - Add hardware-based code into the CPU to do more things that would have normally been implemented as software (e.g., [advanced math](math.md), [machine learning](computers-ai-ml.md)).
 - Give better [code](computers-programming.md) that better balance how multiple cores handle information. This may mean changing the workload of each core when one is idle, translating the data into another format that's quicker to work with, condensing the information and getting rid of it before a core sees it, or timing cores to handle certain things at certain times.
 
-It's worth indicating that performance benchmarks are rarely representative of real-world hardware performance. Besides [Goodhart's Law](lawsaxioms.md) regarding benchmarks against competitors, the device would only hit those marks in a perfect environment (e.g., near sub-zero temperatures, brand-new motherboard, zero peripherals). This happens to be true for [networking equipment](networks-cs.md) as well (e.g., in a vacuum on the moon).
+It's worth indicating that performance benchmarks are rarely representative of real-world hardware performance. Besides [Goodhart's Law](philosophy-lawsaxioms.md) regarding benchmarks against competitors, the device would only hit those marks in a perfect environment (e.g., near sub-zero temperatures, brand-new motherboard, zero peripherals). This happens to be true for [networking equipment](networks-cs.md) as well (e.g., in a vacuum on the moon).
 
 Even in relatively mundane chip-making manufacturing plants, the technology to make them is remarkable. The "extreme ultraviolet lithography" (EUV) technique, for example:
 
@@ -131,7 +131,7 @@ Even in relatively mundane chip-making manufacturing plants, the technology to m
 
 This section was updated in 2025.
 
-Now that [miniaturization connected with Moore's Law](lawsaxioms-tech.md) has stopped due to the limits of electrons, the future of CPUs is in [quantum computers](computers-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
+Now that [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has stopped due to the limits of electrons, the future of CPUs is in [quantum computers](computers-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
 
 Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 

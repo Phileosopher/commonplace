@@ -73,3 +73,9 @@ Do *not* let yourself fall into a rhetorical trap.
   - However, they frequently have an unspoken advantage (e.g., a microphone), and will cut you off as soon as they see they're not winning.
 - The best thing to do is to avoid a direct conflict by owning that it's not the right time or place, and let the conversation move on.
   - Often, you'll get the freedom to have a discussion with some people later over the public exchange.
+
+There are definitely approaches to specific value systems:
+
+- [Islam](spiritual-exercises-evangelism-apologetics-islam.md)
+- Atheism, both about [God](god-proof.md) and [the Bible](bible-proof.md)
+- [Pantheism](spiritual-exercises-evangelism-apologetics-pantheism.md)

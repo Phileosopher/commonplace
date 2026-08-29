@@ -14,6 +14,15 @@ Each DNA strand is arranged into extremely long strands, with 2 strands in a chr
 
 DNA has a vastly specific programming. *All* life shares the same ~60% DNA, with the differences arising from the remaining differences.
 
+DNA replication is a very specific, precise process for synthesizing proteins that uses a comparatively large machine called a polymerase that makes a copy of the DNA:
+
+1. The polymerase separates the DNA into two strands.
+   - One strand is used to create a complementary copy called a messenger RNA transcript.
+2. The mRNA transcript travels through the nuclear pore to arrive at a chemical factory called a ribosome that synthesizes proteins.
+3. The ribosome uses the transcript to create a specific chain of amino acids.
+   - Those amino acids are transported to the ribosome from transfer RNAs, which are specific blocks of amino acids that correspond with the genetic code.
+   - The specific sequence dictates whether the ribosome will generate a functional protein, as well as which type.
+
 Beyond DNA, there are several other components necessary for life:
 
 - Proteins, which are chains of amino acids (amino and carboxylate) that form a fixed structure.

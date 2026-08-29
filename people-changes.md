@@ -35,6 +35,22 @@ We change to conform to our [expectations](mind-imagination.md) of what [the goo
 
 APPLICATION: [Reality](reality.md) often destroys anyone who does [habitual](habits.md) bad things, but we must work harder to ensure our [understanding](mind-understanding.md) of the good life is always [correct](mind-understanding.md) instead of merely trying to change [habits](habits.md).
 
+Our mind is *absurdly* adaptable, and we can normalized just about anything.
+
+- Plenty of recent [neuroscience](science-life-brain.md) has demonstrated that our brain's neuroplasticity is far higher than we have ever expected.
+- Our experience and framing uses 3 major components:
+  1. Thoughts, which adapt from electrochemical and electromagnetic signals and ultimately rebuild epigenetic structures.
+  2. Words, which give life or death to [values](values.md) that then affect how we interpret [reality](reality.md).
+  3. [Actions/deeds](mind-decisions.md), which define future thoughts and words through [habits](habits.md), forming [negative and positive feedback loops](people-trends.md).
+- These components assemble through three major structures:
+  1. Repetition, which build [habits](https://adequate.life/habits/).
+  2. Focused attention, which provokes [memory retention](mind-memory.md).
+  3. Pleasure from learning, which gives the [habits' reward](habits.md) through dopamine release.
+- This entire system is entirely devoid of [morality](morality.md), so it's the same thing that creates wild [success](success-1_why.md) and crippling [addictions](addiction.md).
+- These changes take as little as 4 days to make noticeable results, and we can completely redefine them within 21 days.
+
+In any healthy situation, our adaptation is configured to advance [loving](people-love.md) and [meaningful](meaning.md) relationship with others, though [mental issues](hardship.md) can redefine that connection toward other domains (e.g., [diet socialization](https://gainedin.site/diet-social/))
+
 Except for rebellion, we're always conforming *toward* something. Rebellion's conformity is essentially "anti-something", driven directly by simple [hatred](purpose.md) of that thing.
 
 APPLICATION: From [terrorism](people-conflicts-war-why.md) to [entrepreneurs](entrepreneur-why.md), people do what they [believe](mind-understanding-certainty.md) is ideal for living [the good life](people-goodlife.md).

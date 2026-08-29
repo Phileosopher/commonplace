@@ -57,6 +57,8 @@ Further, to answer every presently obvious question would yield many more beyond
 
 Further, [social fashions](people-trends.md) will always sway scientific values dramatically, mostly because very intelligent people can often have [absolutely no common sense](https://gainedin.site/idiot/).
 
+- Dead butterflies have been portrayed in animation constantly, since real butterflies have the wings bound together but entomologists like to pin them with the wings expanded.
+
 ## The philosophy of science
 
 One important component representative in all the sciences is that there are two strangely competing forces always at work:
@@ -110,7 +112,7 @@ All the above sciences apply to the world around us, and that application natura
   - [Health sciences](body-health.md)
 - Social sciences, while [not technically sciences](https://trendless.tech/scientism/), build out, among others:
   - [Business administration](mgmt-1_why.md)
-  - [Jurisprudence](lawsaxioms-legal.md)
+  - [Jurisprudence](legal-lawsaxioms.md)
   - [Pedagogy](mind-understanding.md)
 
 ## More information

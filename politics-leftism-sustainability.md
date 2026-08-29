@@ -11,7 +11,7 @@ Specificity is the only way to attain social progress.
 
 - However, [highly influential](power-influence.md) people can do more with vague concepts, since they can make promises that mean nothing.
 
-One far-reaching issue across these goals is [Shirky's Principle](lawsaxioms.md).
+One far-reaching issue across these goals is [Shirky's Principle](philosophy-lawsaxioms.md).
 
 - Organizations don't have much reason to entirely fix a solution when their existence depends on resolving the problem.
 - The only way to fix *that* problem is to create a temporary-only group with no permissible time extension.
@@ -157,7 +157,7 @@ Sustainable, like many other words, is often stated and rarely defined. Broadly,
 
 The only legitimate deterioration of things persisting indefinitely comes through misuse of an object:
 
-1. [Tragedy of the commons](lawsaxioms.md) is when people don't maintain what they don't believe they own (i.e., public property). Privatizing *everything* runs the risk of [monopoly](mgmt-badsystems.md), but no monopolist wants to lose [power](power-types.md), so they'll continue making something (and farming it) as long as they gain from it. As it stands now, we live in an oligopoly, which seems to be the sensible solution to the issue of deteriorating commons.
+1. [Tragedy of the commons](philosophy-lawsaxioms.md) is when people don't maintain what they don't believe they own (i.e., public property). Privatizing *everything* runs the risk of [monopoly](mgmt-badsystems.md), but no monopolist wants to lose [power](power-types.md), so they'll continue making something (and farming it) as long as they gain from it. As it stands now, we live in an oligopoly, which seems to be the sensible solution to the issue of deteriorating commons.
 2. Abuse, typically through [addiction](addiction.md) or [hoarding power](power-types.md), prevents maximizing resources. This can best be solved by allowing a [free market](money-economics.md) that permits [inventors](entrepreneur-why.md) to pursue further [purposes](purpose.md) that use [as-yet unknown](unknown.md) resources. [Technology](technology.md) tends to generate new resources *all the time* (e.g., copper was just a pottery material until we developed electricity).
 
 To make something sustainable, everyone should feel peace about their [purposes](purpose.md). This requires all classes of society to have equal and fair [rules](rules-methods.md), [equally enforced](morality-justice.md).

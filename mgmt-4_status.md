@@ -77,7 +77,7 @@ Unless you're planning to relocate them or redistribute resources, *never* dir
 - They'll only become more efficient is if you [improve their motivation to perform](mgmt-6_morale.md).
   - When you closely monitor someone, you'll have to *constantly* monitor that person because they're only acting from [fear](mind-feelings-fear.md) of losing their job or role.
   - Every moment you're monitoring a lagging worker, you're *not* working on something else.
-- [Goodhart's Law](lawsaxioms.md) will apply to *any* key metrics, and the smartest workers will have a perverse incentive to exploit the system.
+- [Goodhart's Law](philosophy-lawsaxioms.md) will apply to *any* key metrics, and the smartest workers will have a perverse incentive to exploit the system.
   - Sales goals inspire members to game the system to maximize sales, even when people will demand a refund later.
   - Budget goals will mean members will hold off on purchases until predetermined "losing" periods.
   - Measuring time on tasks will encourage rapid and ineffective solutions or poor-quality service.

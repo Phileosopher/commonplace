@@ -60,6 +60,8 @@ The destruction of a bad system is very near when more effort is spent on things
 
 On the way down, every bad system will at least partially destroy its [legacy](legacy.md) through corruption.
 
+- The most pronounced destruction comes through outside [influencers](power-influence.md) using [humor](humor.md) to address the organization's hypocrisy.
+
 A bad system can become permanently hampered, which opens the path for other groups to intervene:
 
 - Unionized workers who require higher pay but with no incentive to work harder (since unions are based strictly on length of time existing in the [group](groups-member.md)).
@@ -127,3 +129,9 @@ APPLICATION: There is one certain way to destroy a bad system, or at least injur
 2. Engage in *complete* information transparency and [advertise](stories-storytellers.md) that fact as well, including of that technology.
 3. Others will imitate and steal ideas, but the horde of improved products with extra transparency will make that bad system irrelevant by comparison.
 4. You won't get a reputation for it among the public, but will amass tremendous power through the [influence](influence.md) with the people who took your ideas, which you can summon later from their gratitude.
+
+In practice, the most powerful form of transparency comes through decentralized systems.
+
+- The concept "protocols over platforms" is built on the idea of a system that doesn't rely on any one organization.
+- [Open source](legal-ip-floss.md) and [standardized measures](standards.md) are the emergent reality that give the individual institution's power to the public.
+- The product of this is that, eventually, all future organizations in that domain provide a commodified continuance of the product as long as they have [reason](purpose.md) to do so.

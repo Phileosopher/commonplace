@@ -23,8 +23,6 @@ APPLICATION: Because we consider the price of things compared to what other peop
 
 We frequently find value in things we don't care for ourselves but have come to believe other people do. Unless we know specifically who, we'll often stockpile those things for the gains we [imagine](mind-imagination.md) long-term. Because it's tethered to [culture](people-culture.md) instead of the individual, it's a bit less volatile than individual concepts of value. It also means we only feel value in an individually [useless](purpose.md) pile of one specific thing based on the future value we'll get from others' trades for it.
 
-APPLICATION: Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](people-classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
-
 We tend to assign more value to things we have than things we don't, which means we tend to only [feel right](mind-feelings.md) about selling our things at a price higher than what we paid for. For this reason, even when the price of something is *very* fixed, there's always 2 prices (a lower "asking price" and a higher "receiving price").
 
 APPLICATION: The idea of a universal basic income sounds fine in theory, except that money is a completely relative value that's interpreted as having an absolute value based on what it can do for people, which means giving everyone at least a certain amount of money will make every amount of money above that amount proportionally less (i.e., if everyone instantly had at least $10,000, the people with $20,000 would only have twice that instead of the relationship between that money and the cost of living). The better solution is to simply give universal basic goods and services directly through the government.
@@ -35,13 +33,15 @@ APPLICATION: Value is very relative to [utility](purpose.md). For that reason, m
 
 With the odd exception of [addiction](addiction.md), our [decisions](mind-decisions.md) tend toward scarcer things.
 
-Our concept of economic value is based on [information](mind-understanding.md), mostly on scarcity and others' interpretations of value, which can *never* be complete.
+As far as how we use this value, [that becomes the domain of capitalism](https://gainedin.site/capitalism). Our concept of economic value is based on [information](mind-understanding.md), mostly on scarcity and others' interpretations of value, which can *never* be complete.
 
 The measurable value of something fluctuates *constantly* for several reasons:
 
 - Information about things is constantly changing, and we're constantly [learning more](mind-understanding.md) about that thing as we observe it.
 - Changing information implies a [story](stories-why.md), and therefore a [trend](people-trends.md) we try to [predict](mind-imagination.md).
 - We [imagine](mind-imagination.md) everyone else who may be observing the thing is doing the two above things like we are.
+
+APPLICATION: [Capitalism](https://gainedin.site/capitalism/) only concerns itself with self-interest from others, so it's oblivious to [discrimination](people-image-why.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](people-classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
 
 Economists define "income" differently than [accountants](money-accounting.md). While accountants generally define income as revenue minus expenses, economists consider income as any change in net worth plus things that were spent and given away ("consuming").
 
@@ -83,7 +83,7 @@ We exchange many types of goods and services:
 - Feelings of peace or freedom from guilt
 - Reputation or affiliation with groups
 
-APPLICATION: In a hyper-capitalistic society connected by many [social networks](people-conversation.md), the most extreme [personalities](people-personality.md) will naturally rise to the top of the social ladder, with the competition and social churn being the same as [political/warfare](people-conflicts-war-why.md) but where nobody dies:
+APPLICATION: In a hyper-[capitalistic](https://gainedin.site/capitalism) society connected by many [social networks](people-conversation.md), the most extreme [personalities](people-personality.md) will naturally rise to the top of the social ladder, with the competition and social churn being the same as [political/warfare](people-conflicts-war-why.md) but where nobody dies:
 
 - The hardest-working people will run the [leadership structures](groups-large.md).
 - The [funniest](humor.md) and most [charming](influence.md) people draw all the attention.
@@ -235,7 +235,7 @@ These trades fulfill our wants and needs through exchanges, so business [organiz
 2. Businesses increase their survivability through maximizing profit.
 3. Businesses maximize profit by provoking others' [trust](mind-trust.md) to trade with them. If there's [competition](people-conflicts-why.md), they *must* do a better [job](people-image-why.md) than their competitors.
 
-Capitalist societies reward organizations and individuals who add what the public [perceives](people-image-why.md) as value. While many people can [distort their image](people-image-distortion.md), [reality](reality.md) eventually catches up to them.
+[Capitalist](https://gainedin.site/capitalism) societies reward organizations and individuals who add what the public [perceives](people-image-why.md) as value. While many people can [distort their image](people-image-distortion.md), [reality](reality.md) eventually catches up to them.
 
 [Entrepreneurship](entrepreneur-why.md) and corporate management aren't at odds with charitable giving. A capitalist society permits entrepreneurs to [find ways](mind-creativity.md) to fill society's needs while profiting in the process. A massive corporation only exists because it has added [value](values-quality.md) to many people (even when it's [horrifically inefficient](mgmt-badsystems.md)), not by [stealing power](people-conflicts-war-why.md) away from everyone else.
 

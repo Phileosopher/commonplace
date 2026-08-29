@@ -3,6 +3,14 @@
 
 While we don't fully [understand](mind-understanding.md) what we are, we can certainly articulate some realities about ourselves.
 
+Traditionally, many people divide a person's essence into a three-way mind/body/spirit.
+
+- This, however, is a bit difficult to represent when pressed on details:
+  - Where do we distinguish the body and mind ( with the brain as part of the body)?
+  - Is there any distinction between one's soul (a [decision](mind-decisions.md)-maker) and one's spirit (something transcendent)?
+  - It is therefore a bad [logical divide](logic.md), and it's more accurate represents as [a body/soul/spirit distinction](theology-godandman-humanity.md).
+- Part of any individualized distinction is due to "psychospirituality", where all aspects of human are relating or referring to something other than oneself.
+
 ## The body
 
 Physically, every human is merely a [mammal](science-life-animals.md). Beyond unusually large brains, there is nothing [scientifically](science.md) special about us. We have hair, [females](people-gender.md) secrete milk for their young, and we birth our young instead of laying eggs. We must eat, [rest](sleep.md), and tend to our [offspring](legacy.md).

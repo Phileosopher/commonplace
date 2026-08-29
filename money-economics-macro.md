@@ -1,7 +1,7 @@
 
 # Macroeconomics explained
 
-Macroeconomics is difficult to track. Political events can break and redefine economies, and each country or corporation tends to operate as a separate group among others, with larger ones defining new elements that redefine the economic ecosystem. [Game theoretical models](math-gametheory.md) often capture these distinctions, but only in a broad sense, and with many degrees of uncertainty because countries often *know* other countries are using game theoretical models on them (thus fulfilling [Goodhart's Law](lawsaxioms.md)).
+Macroeconomics is difficult to track. Political events can break and redefine economies, and each country or corporation tends to operate as a separate group among others, with larger ones defining new elements that redefine the economic ecosystem. [Game theoretical models](math-gametheory.md) often capture these distinctions, but only in a broad sense, and with many degrees of uncertainty because countries often *know* other countries are using game theoretical models on them (thus fulfilling [Goodhart's Law](philosophy-lawsaxioms.md)).
 
 Broadly, macroeconomic activity of any entity is measured as "gross domestic product" (GDP), which adds together several major categories:
 

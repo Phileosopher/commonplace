@@ -7,7 +7,30 @@ True journalism is rare, and most people who go to journalism school are taught 
 
 Without good journalism, the endless facts will interfere with the audience's easy [understanding](mind-understanding.md) of a [story](stories-why.md).
 
+By contrast, yellow/tabloid journalism is about [distorting an image](people-image-distortion.md) to maximize viewership or advance an [agenda](purpose.md) by whoever pays them.
+
 ## Starting with facts
+
+Conventional journalism tries to condense the facts as much as possible:
+
+- WHO?
+  - Specify *all* relevant names.
+  - Yellow journalism frequently omits inconvenient names altogether and rearranges the language with the passive voice to hide it.
+- WHAT?
+  - Specify what actually happened.
+  - While not as common, yellow journalism tends to hide the events behind *reactions* to what happened.
+- WHERE?
+  - Specify the locations events happened.
+  - Yellow journalism will omit inconvenient locations.
+- WHEN?
+  - Indicate the time the events happened.
+  - Many times, yellow journalists will imply causality with unrelated events they want to connect the situation to.
+- WHY?
+  - Give reasons for how the events are significant.
+  - This is more difficult to qualify because it reflects on [worldviews](reality.md) so heavily, but good journalism is a history lesson while yellow journalism is built around defective [political theory](politics-systems.md).
+- HOW?
+  - Describe the course of events that led up to the current event.
+  - Most of the time, yellow journalists will express events as if they were in a vacuum (e.g., a "lone gunman").
 
 Due to [marketing](marketing.md) reasons, the temptation to [distort the image of the truth](people-image-distortion.md) is far too great to ignore.
 

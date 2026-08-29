@@ -7,13 +7,15 @@ It's worth noting that I've broadened the ideas when possible. It's also worth n
 
 I've grouped them starting with where the law starts coming into effect, progressing from inanimate objects, through individual perception, upwards into large groups.
 
-I've separated the [science-specific](lawsaxioms-science.md), [design](lawsaxioms-design.md), and [technology-specific axioms](lawsaxioms-tech.md).
+I've separated the [science-specific](philosophy-lawsaxioms-science.md), [design](engineering-design-lawsaxioms.md), and [technology-specific axioms](technology-lawsaxioms.md).
 
 ## Brain/Psychology
 
 Adversity Paradox - We don't seek hardship, but we find [meaning](meaning.md) through overcoming it.
 
 Law of Common Region - Elements are perceived as groups if they share a clearly defined boundary.
+
+Law of Conservation of Detail - In any [story](stories.md), every given detail is important.
 
 Gossen's First Law/Marginal Utility Law - Adding 1 more thing is less pleasure/pain than the previous thing.
 
@@ -220,6 +222,8 @@ Dirty Window Rule - Imperfection demonstrates humanity, and is therefore more ap
 
 Doctorow's Law - If someone puts a lock on your thing against your wishes and doesn't give you the key, they aren't doing it for your benefit.
 
+ELIZA Effect - People tend to project human traits like experience, semantic comprehension and empathy onto rudimentary computer programs.
+
 Gause's Competitive Exclusion Principle - No two competitors over the same resource can stay at a constant number.
 
 Gossen's Second Law - People stop buying or selling stuff when it no longer gives a net pleasure.
@@ -266,4 +270,4 @@ The Two Pizza Rule - A team that requires more than two pizzas (i.e., 4-8 people
 
 Walras' Law - Because each decision means deciding against something else, every this/that decision together adds up to zero.
 
-[Larger-scale axioms](lawsaxioms-large.md)
+[Larger-scale axioms](groups-large-lawsaxioms.md)

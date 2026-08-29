@@ -64,6 +64,20 @@ Self-assess your feelings about your present and future job:
 - Examine how you describe your work in conversations.
 - Think ahead to the feelings you'll experience from making each choice.
 
+### Carefully consider your career
+
+[Analyze](logic.md) exactly what you're observing within your role:
+
+1. List the positive aspects of your job.
+2. List the parts of your job you don't like.
+3. Identify the ways you can change the parts you don't like.
+4. Make clear plans to change the negative parts of your job.
+5. [Educate](education.md) yourself with training or formal education to open up more opportunities *within* your role.
+6. Set workplace goals for things within your role.
+7. Actively participate in workplace decisions and communication when possible.
+8. Set work [boundaries](people-boundaries.md) by only performing work duties when you're on the clock or at the office.
+9. If you've done all of this and still have problems with your job, you're dealing with something you can't change and may need to consider another role.
+
 ### Some good reasons to find another job
 
 The job ruins your personal life:

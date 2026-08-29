@@ -113,7 +113,7 @@ Cut selected text or file: CTRL+X
 
 Copy selected text or file: CTRL+C
 
-Paste what you cut or copied: CTRL+V
+Paste what you cut or copied: CTRL+V (or SHIFT+INSERT in Linux)
 
 Insert a hyperlink: CTRL+K
 

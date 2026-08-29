@@ -1,7 +1,7 @@
 
 # Design rules
 
-This is a list of rules generally necessary for good [design](engineering-design.md). Many of them dovetail with our [cognitive biases](mind-bias.md) and [general axioms for everything](lawsaxioms.md).
+This is a list of rules generally necessary for good [design](engineering-design.md). Many of them dovetail with our [cognitive biases](mind-bias.md) and [general axioms for everything](philosophy-lawsaxioms.md).
 
 Least Astonishment Principle - a design should match a user's experience, expectations, and mental models
 

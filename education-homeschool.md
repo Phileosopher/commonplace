@@ -104,4 +104,4 @@ E. Your geographical region has a profound influence on how your government sees
 F. Find a healthy home school community that can plug you into homeschooling resources at large.
 
 - No matter how resourceful or intelligent you are, the community has *way* more support than you can give to your child alone.
-- Many homeschool networks are so powerful that they can lobby for *[political action](lawsaxioms-legal.md)* to keep homeschooling legal (e.g., [HSLDA](https://hslda.org/)).
+- Many homeschool networks are so powerful that they can lobby for *[political action](legal-lawsaxioms.md)* to keep homeschooling legal (e.g., [HSLDA](https://hslda.org/)).

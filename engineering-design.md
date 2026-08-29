@@ -40,7 +40,7 @@ However, since [cultures](people-culture.md) change and [technologies](technolog
 
 ## Rules
 
-Good design distills into a wide variety of [reliable axioms](lawsaxioms-design.md). These span the entire range of psychological perception and [bias](mind-bias.md), and social scientists and UX designers are *constantly* discovering new ones.
+Good design distills into a wide variety of [reliable axioms](engineering-design-lawsaxioms.md). These span the entire range of psychological perception and [bias](mind-bias.md), and social scientists and UX designers are *constantly* discovering new ones.
 
 Anyone who follows the rules can design well, even when they're not very [creative](mind-creativity-how.md).
 

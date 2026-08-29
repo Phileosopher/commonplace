@@ -14,7 +14,7 @@ NPOs aren't always isolated from other entities.
 
 Further, there are definite [political incentives](politics-conservativeliberal.md) that steer NPOs.
 
-- Over time, every NPO will drift leftward due to these external pressures ([O'Sullivan's First Law](lawsaxioms-large.md)).
+- Over time, every NPO will drift leftward due to these external pressures ([O'Sullivan's First Law](groups-large-lawsaxioms.md)).
 
 ## How the money flows different
 

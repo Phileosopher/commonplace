@@ -55,6 +55,8 @@ Illinois Brick doctrine (antitrust law) - indirect purchasers of goods and servi
 
 Inherency doctrine (patent law) - prior art may be relied on not only for what it expressly teaches, but for what flows from the express teachings, and a patent can be filed for a new and non-obvious [symbolic representation](symbols.md)
 
+Lemon test (constitutional law) - the government violates private rights when it interferes with religious expression
+
 Market share liability (corporate law) - a plaintiff can establish an initial case against a group of product manufacturers for injury caused by a product, even when the plaintiff doesn't know which defendant the product originated
 
 Medical necessity (medical law) - a government is lawfully permitted to pay for activities deemed reasonable, necessary, or appropriate
@@ -68,6 +70,8 @@ Repair and reconstruction doctrine (patent law) - there is a difference between 
 Reverse doctrine of equivalents (patent law) - a device that appears to literally infringe a patent claim by having similar elements or limitations does *not* infringe it if it operates on a different principle
 
 Rule of reason (antitrust law) - monopolies are only considered illegal when they're unreasonably restraining trade
+
+Separate but equal (constitutional law) - racial segregation isn't a violation of civil rights if there are separate and equal opportunities for all races, overturned when the opportunities were shown to *clearly* be not equal
 
 Step transaction doctrine (tax law) - formally separate steps are a single, integrated event for tax purposes, designed to prevent tax abuse (e.g., tax shelters, bailing assets out of a corporation)
 

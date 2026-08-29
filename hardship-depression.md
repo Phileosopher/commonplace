@@ -93,6 +93,14 @@ When we face any crisis of meaning, we increase our risk for antisocial behavior
 
 Our compulsions and addictions can become highly advanced, with pent-up pressure exploding after sometimes weeks or months in an act of unresolvable impulse.
 
+Create a "safety plan" that you'll consult the next possible time you may become violent or self-harm:
+
+1. List the warning signs that would show you may be [triggered](habits.md) to react badly.
+2. List the ways you can [comfort or calm yourself](mind-feelings-happiness-perma.md).
+3. List reasons for why you want to live, including people to live for.
+4. Add trusted contact information for people who you can reach out to.
+   - If you don't have anyone, have a suicide hotline available.
+
 ## The cure for depression
 
 Unfortunately, no human being can ever pull you out of your depression.
@@ -102,7 +110,62 @@ Unfortunately, no human being can ever pull you out of your depression.
 - Any mind-altering substance (e.g., magic mushrooms, antidepressants) has the risk of further distorting our brain's ability to produce a healthy amount of positive hormones.
 - [God](theology-god.md) is capable and willing to transform us, but we must submit ourselves to His control, and this is a very personal experience that will result in [a type of ego death](https://theologos.site/gospel/).
 
+The actual issue comes from excessive [certainty](mind-understanding-certainty.md) about many things you observe.
+
+- Your life may legitimately be awful, but your feelings are deceiving you by implying it'll be indefinite.
+- Your situation may be bad, but you're not noting how much worse it could be.
+- The feelings and sensations you're battling with may actually be conditional to less severe needs within your body.
+
 This journey is a type of solitary existence, but it *can* be in parallel with others.
 
 - Other people who have suffered similarly are often willing to help if you're willing to reach out.
 - However, many times even reaching out can be quite a challenge in and of itself.
+
+## Avoid doing anything severe
+
+Before committing to *any* action, ask the following questions.
+
+Presently:
+
+- Are you hydrated?
+  - Dehydration will make you feel worse.
+- Do you feel [ineffective](purpose.md)?
+- Do you feel [unattractive](people-image.md)?
+- Are you paralyzed by [indecision](mind-decisions.md)?
+- Have you over-exerted yourself in any way?
+  - [Physically](body-exercise.md)
+  - [Emotionally](mind-feelings.md)
+  - [Socially](people-conflicts.md)
+  - [Intellectually](mind-understanding.md)
+
+In the past 3 hours:
+
+- Have you eaten?
+  - Preferably, you should have had something with protein.
+
+If it's daytime:
+
+- Are you [dressed](clothes.md)?
+
+If it's nighttime:
+
+- Are you resisting [going to sleep](sleep.md)?
+
+In the past day:
+
+- Have you [showered](body-hygiene.md)?
+- Have you [stretched](body-stretch.md)?
+- Have you said anything nice to someone?
+- Have you enjoyed pleasant music?
+
+In the past 2 days:
+
+- Have you had any positive physical contact (hugging, cuddling, etc.)?
+
+In the past few weeks:
+
+- Have you spent any time with [friends](people-friends.md)?
+- Have you seen a therapist?
+- Have you changed any of your medications?
+
+And, if you still want to do something significant, have you waited a week?

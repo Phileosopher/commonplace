@@ -212,7 +212,7 @@ Baumol's Cost Disease - In low-productivity jobs, the workers can simply jump to
 
 Efficient-Market Hypothesis - The general cost of things reflects all the information available to everyone.
 
-Doctorow's Axiom - Any intermediary that adds value will decrease the value they add once they're established, first with their supplier, then with their consumer.
+Doctorow's Axiom / Enshittification - Any intermediary that adds value will decrease the value they add once they're established, first with their supplier, then with their consumer.
 
 Elon Market Hypothesis - People invest in popular things because popular people invest in those popular things.
 
@@ -227,6 +227,8 @@ Substitution Effect - By paying people to not work and taxing people who do work
 Third-Party Payer Problem - When a third party is involved in a two-party transaction, the costs slowly increase as the direct connection between the first two parties decreases.
 
 Wagner's Law - The more [technology](technology.md) a country adopts, the bigger its [government](politics-systems.md) gets.
+
+Walmart Effect - Large-scale, low-cost department stores that provide many [addictive substances](addiction-substances.md) make the surrounding area overall poorer.
 
 ## Society/history-specific
 

@@ -32,7 +32,7 @@ The discrepancy between the appraised net worth and publicly interpreted value b
 
 There are *tons* of ratios, which take several numbers to create a third number.
 
-- Most of the ratios can be useful to determine the health of an organization, barring [Goodhart's Law](lawsaxioms.md).
+- Most of the ratios can be useful to determine the health of an organization, barring [Goodhart's Law](philosophy-lawsaxioms.md).
 - Numerous ratios serve as key performance indicators, and new ones are constantly arising.
 
 Ratios which measure profitability:

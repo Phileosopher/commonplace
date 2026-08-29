@@ -95,7 +95,7 @@ Of course, [evil](morality-evil.md) intent can lead to horrible management as we
 - Fiercely [attacking](people-conflicts-war-why.md) an outside group, often with the [implication](people-image-why.md) of delivering [justice](morality-justice.md).
 - Taking advantage of the lead times between [lying](people-lying.md) and others [finding out](mind-understanding.md).
 
-If everyone in a group is sufficiently educated, the leadership can't maintain its power. However, [education](education.md) requires work, so the leadership will [skew the truth](people-image-distortion.md):
+If everyone in a group is sufficiently educated, the leadership can't maintain complete control over its group. However, [education](education.md) requires work, so the leadership will [skew the truth](people-image-distortion.md) to prevent education:
 
 - Nobody likes to be blamed, and people will often [tweak their image](people-image-distortion.md) to sidestep accountability. However, bad leadership *constantly* tries to redirect blame. Usually, they'll be [unfairly punitive or gracious](morality-justice.md) to the subject of their blame. They're simply taking advantage of the opportunity, and tend not to sincerely [believe](mind-understanding-certainty.md) anything they say.
 - Frequently, the leadership of a bad system can find other unaffiliated groups to act as a third party (e.g., consultant, outside group). If anything wrong happens, they can always shift blame to that third party and sever ties with them to [maintain their image](people-image-distortion.md). Then, they can simply travel to one of that third party's competitors (who don't [communicate](people-conversation.md) the [risks](safety.md) of working with them). If the victim group's [specialization](jobs-specialization.md) is in enough of a [cycle](people-trends.md), there will be a never-ending supply of blame-shifting until all new entrants to that market are exhausted.
@@ -119,6 +119,12 @@ These leaders will likely have *no* aptitude or [ethics](morality.md) in compari
 APPLICATION: The most conspicuous sign of a bad system first forming comes through a leader with a [moral](morality.md) conviction that may not be as moral as they think, but the not-so-moral [partners and friends](people-friends-why.md) they [trust](mind-trust.md) advance that [idea](values.md) forward.
 
 Even without defective leadership, public choice theory indicates that people who are individually motivated will follow the reward that benefits them, and acting in the interest of the organization is far too great a cost, so the group becomes inert when it needs to act.
+
+Evnetually, a system becomes solidified as "patrimonialism" when the following components are present:
+
+1. Public and private activity are blurred together, with the leadership treating the organization as an extension of themselves.
+2. The leadership are chosen for their personal loyalty and obedience far more than any actual merit or talent.
+3. New rules are built around personal decisions and preferences instead of objective standards or any rational framework.
 
 ## The members' adaptations
 
@@ -150,3 +156,32 @@ Just because a system has become awful doesn't mean it's useless. The group can 
 For whatever reason, the members don't have [confidence](mind-understanding-certainty.md) in the [group](groups-member.md). They're using it for an ulterior [purpose](purpose.md).
 
 APPLICATION: As a weaker member of a group, the best bad systems to join are too busy fighting an external conflict to pay attention to you. If they *ever* defeat the external force, they'll come for you. If *every* system in an [industry](jobs-specialization.md) is bad, the best [decision](mind-decisions.md) is to passively keep them fighting between each other and stay out of sight.
+
+## Vague criteria
+
+One of the clearest indicators of a bad system comes through unclear specifications.
+
+- By giving [rules](people-rules.md) that are impossible to follow precisely, the leadership gets to choose *which* rules to enforce.
+- Most of the time, a bad system will create a set of rules that are so large that it's fundamentally impossible for any human being to effectively follow all of them.
+
+A damning example comes through Lousiana's 1964 Literacy Test designed to suppress voters at the registrar's discretion:
+
+1. Draw a line around the number or letter of this sentence.
+2. Draw a line under the last word in this line.
+3. Cross out the longest word in this line.
+4. Draw a line around the shortest word in this line.
+5. Circle the first, first letter of the alphabet in this line.
+6. In the space below draw three circles, one inside (engulfed by) the other.
+7. Above the letter X make a small cross.
+8. Draw a line through the letter below that comes earliest in the alphabet:
+   - Z V S B D M K I T P H C
+9. Draw a line through the two letters below that come last in the alphabet.
+   - Z V B D M K T P H S Y C
+10. In the first circle below write the last letter of the first word beginning with "L".
+    - (1 through 5 in separate circles)
+11. Cross out the number necessary, when making the number below one million.
+    - 10000000000
+12. Draw a line from circle 2 to circle 5 that will pass below circle 2 and above circle 4.
+    - (1 through 5 in separate circles)
+13. In the line below cross out each number that is more than 20 but less than 30.
+    - 31 16 48 29 53 47 22 37 98 26 20 25

@@ -35,6 +35,10 @@ Two-based math isn't as hard to understand as it may appear. Instead of counting
 
 To make it easier to look at, engineers simplified large binary numbers. The range of 0000-1111 could represent in 1/4 the symbols with 0-f (0,1,2...9,a,b,c,d,e,f). The "hexadecimal" format starts with 0x to avoid confusing anyone (e.g., 0xffd4267).
 
+This representation means that "standard" computer numbers have the same ubiquitous presentation in 10-based numbering:
+
+- 2,4,8,16,32,64,128,256,512,1024,2048,4096,5192...
+
 ## Calculations
 
 "Combinatorics" is the math of counting up and down, and is a frequent part of computer science because [assembly code](computers-programming-assembly.md) is almost always simply counting.
@@ -106,3 +110,7 @@ Getting random things for computer applications, therefore, is *not* trivial.
 - This spans a vast range of problems, from [game design](computers-software-gamedev.md) to [encryption](encryption.md).
 
 One of the easiest ways to create this solution is with an [algorithm](computers-programming-algorithms.md) called a linear congruential generator (LCG), which is a simple-enough linear calculation that creates near-random numbers. It requires [the Hull-Dobell Theorem's 3 rules](https://en.wikipedia.org/wiki/Linear_congruential_generator) for the formula to work.
+
+## Functions
+
+All mathematical functions represent inside a computer and present as an [algorithm](computers-programming-algorithms.md).

@@ -34,7 +34,7 @@ Boniface wasn't necessarily alone (there was a nearby fortified settlement nearb
 In 1263, Ramon was a married man, and had been writing a romantic poem for another married woman when he saw a vision of Jesus Christ on the cross. The vision came 5 times over several days, and he conceded the final time.
 
 He went to confession and began to permanently change his life. He modeled Francis of Assisi, sold everything he had, and went on pilgrimages to various places. When he returned he purchased a Muslim slave to learn Arabic from him, then spent 9 years studying Latin and Arabic theology and philosophy in relative solitude.
- 
+
 He founded the first missionary training school that focused on learning the target group's native language. He also was a prolific writer and ended up writing 265 books in Catalan, Latin, and Arabic.
 
 He traveled to North Africa 3 times, and was stoned by a crowd in Tunisia in 1316. He died on the ship taking him home at age 83.

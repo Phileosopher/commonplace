@@ -120,6 +120,16 @@ F.A.I.T.H:
 - T for Turn: We must turn away from our sin and self (Luke 13:3, John 14:6, Romans 10:9)
 - H for Heaven: We will go to a place where we will live with God forever (John 14:3)
 
+Romans Road:
+
+1. We have a human problem with sin (Romans 3:23).
+2. The consequence of sin is death (Romans 6:23).
+3. Jesus Christ's sacrifice is our solution (Romans 5:8).
+4. We receive salvation through faith in Jesus Christ (Romans 10:9).
+5. We have assurance that He will save us if we trust Him (Romans 10:13).
+6. We are justified and can have peace with God through Jesus Christ (Romans 5:1).
+7. We are no longer condemned, but commanded to live according to the Spirit (Romans 8:1).
+
 Two Ways to Live:
 
 1. God is a good ruler and creator (Revelation 4:11)

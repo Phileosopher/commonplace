@@ -71,3 +71,35 @@ The concept of absolute value is often poorly taught. It's basically the distanc
 
 - This is because later, when the numbers get more complicated, that can make a LOT of difference.
 - Unfortunately, it was usually taught as "just remove the negative number if it has it".
+
+## Order of operations
+
+The operations have to be done in a specific order. There is a misrepresentation with a very specific acronym in school called "PEMDAS":
+
+1. Parenthesis
+2. Exponents
+3. Multiplication
+4. Division
+5. Addition
+6. Subtraction
+
+This, however, is incorrect, and is in fact only 4 steps:
+
+1. Parenthesis operations first (and recursively if needed)
+2. Exponents
+3. Multiplication *and* division
+4. Addition *and* subtraction
+
+Implicitly, more complex formulas often form a higher priority with the placement of the numbers:
+
+- "6 ÷ 2y, y=3" would almost universally be interpreted as 1.
+- "6 ÷ 12/y, y=2" would almost universally be interpreted as 1.
+
+Further, the symbol "÷" tends to go away in [algebra](math-algebra.md) because it can create ambiguity or very messy equations with tons of parentheses.
+
+## Precision
+
+Higher-order math will often use *far* more fractions than decimals or integers.
+
+- Fractions can keep things simply represented while complex (e.g., 11/3).
+- Sadly, this is a huge constraint in [computers](math-cs.md), which almost always need to represent information decimally or hold the information in memory in some other weird format.

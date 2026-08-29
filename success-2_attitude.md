@@ -54,7 +54,7 @@ The margins determine success:
 - The difference between a C and an A on a test is 11-19%.
 - Eating 200 calories less every day will generate a net loss of ~28 pounds (~13 kg) across one year.
 - In the MLB, the average player's batting average is ~28.3%, and the Hall of Fame starts at 30.2%.
-- The [Pareto Principle](lawsaxioms.md), or 80/20 Rule, says the most significant effects come from 20% of the causes.
+- The [Pareto Principle](philosophy-lawsaxioms.md), or 80/20 Rule, says the most significant effects come from 20% of the causes.
 
 Success looks a *lot* easier when you're planning it, so you're guaranteed to underestimate the work:
 
