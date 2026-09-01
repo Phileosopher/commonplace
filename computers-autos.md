@@ -41,7 +41,7 @@ There are multiple experimental methods for rapidly mapping the environment arou
 Further, most cars are also equipped with EDRs (electronic data recorders), so the information is already outputted as a computer-friendly format, and many parts of it are [standardized](standards-computers.md):
 
 - The OBD-II sensor can have that data requested on command with a cheap reader.
-- You can gather driving metrics by plugging in an OBD-II device that connects via a [wireless network](networks-cs.md).
+- You can gather driving metrics by plugging in an OBD-II device that connects via a [wireless network](computers-networks.md).
 - Many vehicles can also send data wirelessly, without an OBD-II port.
 
 For the sake of [privacy](security-privacy.md), pay attention to what data the vehicle is gathering:
@@ -73,9 +73,9 @@ EV motors are almost guaranteed to have less torque than ICEs, so they're manufa
 
 ## Issues
 
-All this extra complexity creates far more code and [computer hardware](computers-hardware.md) inside autos, and more complexity creates more [points of failure](https://adequate.life/fix/), which may be deadly on a highway. If the vehicles are all connected in an interdependent grid [network](networks-cs.md) (e.g., a robo-taxi service), they might *all* go offline at once.
+All this extra complexity creates far more code and [computer hardware](computers-hardware.md) inside autos, and more complexity creates more [points of failure](https://adequate.life/fix/), which may be deadly on a highway. If the vehicles are all connected in an interdependent grid [network](computers-networks.md) (e.g., a robo-taxi service), they might *all* go offline at once.
 
-For example, when everything is controlled by software with a persistent wireless connection to the internet, the data is fully available to anyone, meaning it's technically available for [hackers](hacking.md), which could cause people to die from faulty software. Beyond bad actors, the owners of the vehicle can make modifications to their vehicles or reprogram the software, and large entities like governments or corporations could shut off the vehicle at their leisure. It's a [legislative](people-rules.md) nightmare.
+For example, when everything is controlled by software with a persistent wireless connection to the internet, the data is fully available to anyone, meaning it's technically available for [hackers](mind-creativity-hacking.md), which could cause people to die from faulty software. Beyond bad actors, the owners of the vehicle can make modifications to their vehicles or reprogram the software, and large entities like governments or corporations could shut off the vehicle at their leisure. It's a [legislative](people-rules.md) nightmare.
 
 Laws can also be very difficult to enforce with a vehicle that doesn't have a driver. Technically, the software developer is fully responsible for an AV that kills people, but society is quick to blame and punish, and it's not particularly fair to attack a software developer for an edge case they couldn't have predicted. Plus, there's no way to recruit developers if they know they might be criminally charged with manslaughter later.
 

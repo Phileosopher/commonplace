@@ -118,7 +118,7 @@ Thoughtful gestures:
 
 We *all* wonder silly things on occasion, such as "What would happen if Abraham Lincoln met Genghis Khan?" These are practical questions that hackers were legitimately able to answer.
 
-Most of the brilliant ideas on [this page](fun-cs.md) and [this page](https://entertaining.space/) *also* fit this profile.
+Most of the brilliant ideas on [this page](computers-fun.md) and [this page](https://entertaining.space/) *also* fit this profile.
 
 Breaking perceptual expectations:
 
@@ -154,6 +154,7 @@ Adding purposes to existing things:
 Re-engineering:
 
 - [Make wood appear glass-like by painting hydrogen peroxide onto wood, letting it bake in the sun, then filling the holes with a marine resin](https://www.science.org/doi/10.1126/sciadv.abd7342)
+- [How to make error-diffused QR codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
 Adding design to otherwise overlooked experiences:
 

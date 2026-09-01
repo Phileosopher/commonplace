@@ -106,7 +106,7 @@ In the mid-1990s, game CDs had a then-staggering memory capacity, so full-motion
 
 [Memory](computers-memory.md) constraints limited most games in the early and mid 1980s, so they all had some relatively similar features. Later games (especially after the 2010s) would imitate them for nostalgic/artistic effect:
 
-- No discernible plot, or it was in the supplied [manual](language-writing-documentation-cs.md). Often, the goal of the game was a recorded high score, and maxing out the score (which was a feat of extreme skill or [exploitation](hacking.md)) would make the game crash.
+- No discernible plot, or it was in the supplied [manual](language-writing-documentation-cs.md). Often, the goal of the game was a recorded high score, and maxing out the score (which was a feat of extreme skill or [exploitation](mind-creativity-hacking.md)) would make the game crash.
 - To pad out play time, the game was absurdly and unfairly difficult, even on the easiest setting.
 - To help with [play-testing](computers-software-redesign.md), certain button combinations could give the player more lives, invincibility, swap out the sprites with other sprites, or skip ahead levels. These stayed in the game afterward and became known as cheat codes.
 
@@ -114,11 +114,11 @@ In the late-2000's, games spent the better part of a decade embellishing a very 
 
 Shortly after the grungy, disgusting trend, games pivoted hard into the other end: they added tons of "bloom" and "particle effects". This made the game very unpleasant to look at and difficult to see for the opposite, though this time it was easier to adjust visual settings to compensate for it.
 
-Online games tend to use "leaderboards", online high score systems that track *everyone* who played the game. Since this number can be thousands or a few hundred thousand players, it's not particularly enjoyable for most players, and most leaderboards eventually devolve into [hackers](hacking.md) who exploited the game to achieve an inhumanly high score.
+Online games tend to use "leaderboards", online high score systems that track *everyone* who played the game. Since this number can be thousands or a few hundred thousand players, it's not particularly enjoyable for most players, and most leaderboards eventually devolve into [hackers](mind-creativity-hacking.md) who exploited the game to achieve an inhumanly high score.
 
 Since the late-2000's, most [graphics](engineering-graphics.md) trends have moved toward trying to reproduce the constraints and artifacts from video [cameras](engineering-camera.md). This trend hasn't stopped yet as of 2023, and has even gone as far as reproducing grit and water spots on the screen, which destroys the immersion of controlling a proxy character.
 
-One trend that started around the time Fortnite became popular in the late-2010's is to release the multiplayer game for free, then charge for the single-player experience. This allows the developer to collect user data, both to [reconfigure](computers-software-redesign.md) the software to make it more addicting or to [sell the data outright](faang.md).
+One trend that started around the time Fortnite became popular in the late-2010's is to release the multiplayer game for free, then charge for the single-player experience. This allows the developer to collect user data, both to [reconfigure](computers-software-redesign.md) the software to make it more addicting or to [sell the data outright](computers-bigtech.md).
 
 ## Versioning
 

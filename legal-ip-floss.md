@@ -27,7 +27,7 @@ But, unlike human minds that read ideas and interpret an approximate concept, so
 
 To that end, software licensing is *much* more constricting and specific than copyright.
 
-But, don't simply release your software to the public domain without a sufficient license, or someone else could license it (or something like it) and then sue *you*. This is [more frequent than you'd realize](faang.md).
+But, don't simply release your software to the public domain without a sufficient license, or someone else could license it (or something like it) and then sue *you*. This is [more frequent than you'd realize](computers-bigtech.md).
 
 ## Free Use
 
@@ -37,7 +37,7 @@ A software's "source code" is either open or closed based on how accessible the 
 
 - Closed-source software is free for people to freely download, but the source code is at least somewhat private.
   - By contrast, open-source software is at least *somewhat* free to download, distribute, and modify.
-- Only [authorized people](computers-cysec-authentication.md) can see the inner workings of the closed-source code, which makes [fixing bugs](computers-software-redesign.md) the sole responsibility of the developer, and [exploits](hacking.md) are more likely.
+- Only [authorized people](computers-cysec-authentication.md) can see the inner workings of the closed-source code, which makes [fixing bugs](computers-software-redesign.md) the sole responsibility of the developer, and [exploits](mind-creativity-hacking.md) are more likely.
 - In open-source software, anyone can see the code that creates the output (even while any [databases](database.md) and personal information are off-limits).
 
 The legal and technical freedom to use the software needs more specificity than simply "freedom":
@@ -120,7 +120,7 @@ Generally, back-end programming is designed to feed information into other softw
 
 Most people outside the tech industry don't realize it, but *how* a back-end developer licenses their software has a severe impact on the industry. In particular, GPL code leans everything toward completely public code, but can become *very* difficult to clarify where any particular code (or its derivatives) begin or end being "free".
 
-While it doesn't draw all the attention of front-end software, back-end software has more power. A closed-source back-end is essentially [how Big Tech maintains its control](faang.md), and is the basis for most political bluster.
+While it doesn't draw all the attention of front-end software, back-end software has more power. A closed-source back-end is essentially [how Big Tech maintains its control](computers-bigtech.md), and is the basis for most political bluster.
 
 But, this back-end/front-end dichotomy [travels backward several degrees](https://trendless.tech/understanding/), and one of the most significant ways this shows itself is through the implementation of open [protocols](standards-computers.md).
 

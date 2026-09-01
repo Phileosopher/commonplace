@@ -144,7 +144,7 @@ Many large-scale [enterprise](computers-distsys-enterprise.md) endeavors require
 
 But, the largest consumer-grade need, by far, is for playing [games](computers-software-gamedev.md), with "computer-aided design" (CAD) software lagging behind by a significant margin from not needing a half-second update for absolutely everything. These often need "dedicated graphics cards" that plug into the motherboard, since an integrated graphics controller inside a CPU's chipset won't cut it.
 
-Thus, there are many tricks to maximize the hardware. Many of them were [hacks](hacking.md) designed with the constraints of the time, and have often become dated as a result.
+Thus, there are many tricks to maximize the hardware. Many of them were [hacks](mind-creativity-hacking.md) designed with the constraints of the time, and have often become dated as a result.
 
 ## Hardware hacks
 

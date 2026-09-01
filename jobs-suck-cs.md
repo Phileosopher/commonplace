@@ -41,7 +41,7 @@ There are some clear warning signs, though, that you may be working for a [unive
     - Abusing you or a coworker including sexual remarks, yelling, threatening, name-calling, teasing maliciously, or publicly shaming.
 - Your organization (or at least a business unit of it) is managed by [cult members](people-culture-cults.md).
   - On a lighter level, many tech companies [interview](jobs-5_interview-cs.md) for what they call a "culture fit", which is directed toward building a small crowd of like-minded people.
-- Your manager is intimately tracking your performance without informing you (especially frequent in [large tech corporations](faang.md)).
+- Your manager is intimately tracking your performance without informing you (especially frequent in [large tech corporations](computers-bigtech.md)).
   - Massive companies often drive people into the ground, frequently promising stock options for employees who stay a year and burning workers out over a few months.
   - They may place you unexpectedly on a performance improvement program (PIP) where they closely track you, and it can be *very* difficult to get off (if not completely impossible).
 - The company doesn't have much money for supplies, infrastructure, and pay raises, but upper-tier [management](mgmt-1_why.md) lives lavishly.
@@ -59,7 +59,7 @@ And then, of course, are the *tech*-specific ways management can fail spectacula
 - The "key performance indicators" (KPI) are something arbitrary that doesn't really add value, such as how many [Linux kernel patches](computers-os-unix.md), [pull requests submitted](computers-software-versionctrl.md), or [patents made](legal-ip.md).
 - The management requires that all learning is *off* the clock.
 - The company *requires* everyone use its proprietary system, since everyone would *want* to use it if it was decent.
-  - Often, tech companies will use that proprietary system for [additional surveillance](faang.md).
+  - Often, tech companies will use that proprietary system for [additional surveillance](computers-bigtech.md).
 - Sometimes, your role might be *every single aspect* of IT and computers.
 
 ## Big company culture
@@ -68,9 +68,9 @@ The culture of large tech companies typically abuses the intelligence and work e
 
 Large organizations don't like [change](mgmt-7_changes.md) *nearly* as much as smaller organizations, mostly because there's no reason to reconfigure a system that adequately works. For [young tech people](https://trendless.tech/trends/), this can be unusually traumatic since all their ambitions are unheard, or any attempts they make toward contributions are unrecognized.
 
-In *gigantic* organizations (such as [FAANG](faang.md)), the management hierarchy is absurd, with some developers having upwards of 6-12 layers of managers. A FAANG organization, specifically, is less of a [large, monolithic entity](groups-large.md) and more of a shared label, with each team having a separate [subculture](people-culture.md) and effectiveness. This somewhat functioning environment *does* get work done, but it's debatable how much.
+In *gigantic* organizations (such as [Big Tech](computers-bigtech.md)), the management hierarchy is absurd, with some developers having upwards of 6-12 layers of managers. A Big Tech organization, specifically, is less of a [large, monolithic entity](groups-large.md) and more of a shared label, with each team having a separate [subculture](people-culture.md) and effectiveness. This somewhat functioning environment *does* get work done, but it's debatable how much.
 
-You may have *had* a great job, but then your amazing little company gets *acquired* by a FAANG corporation. At that point, throw any loyalty out the window, since the creator is [singing to the bank](entrepreneur-7_exit.md) and probably doesn't care anymore.
+You may have *had* a great job, but then your amazing little company gets *acquired* by a Big Tech corporation. At that point, throw any loyalty out the window, since the creator is [singing to the bank](entrepreneur-7_exit.md) and probably doesn't care anymore.
 
 ## Useless work
 

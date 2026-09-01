@@ -87,7 +87,7 @@ The most effective internet-based form of a manual is a Q&A-based forum with the
 
 ## Forcing functions
 
-Forcing functions within the domain of computers is *way* more dangerous than any other domain. While people may [hack](hacking.md) their fridge or car to do what they want, tech hackers are *very* intelligent and *really* hate forcing functions, especially lock-outs. Many of them will try to break a lock-out on principle alone.
+Forcing functions within the domain of computers is *way* more dangerous than any other domain. While people may [hack](mind-creativity-hacking.md) their fridge or car to do what they want, tech hackers are *very* intelligent and *really* hate forcing functions, especially lock-outs. Many of them will try to break a lock-out on principle alone.
 
 ## Human error
 
@@ -122,7 +122,7 @@ Fixing bad software/hardware design isn't as easy as it sounds. The technology e
 
 - It takes 5-6 ideas to get a design right, and startups often only get 1-2 shots at good design before they run out of money, so their design often becomes industry-standard even if it's not that great.
 - Most design rules in tech create *many* contradictions which arise across a plethora of edge cases.
-- The people who design software are human beings who [may not want the users' best interests](faang.md), and have reason to employ "dark patterns" to make some elements difficult to access (e.g., unsubscribe, delete account, remove connection).
+- The people who design software are human beings who [may not want the users' best interests](computers-bigtech.md), and have reason to employ "dark patterns" to make some elements difficult to access (e.g., unsubscribe, delete account, remove connection).
 - [Social trends](people-trends.md) can redefine elements, so most websites are *constantly* changing. Some elements become archaic, new elements become the standard, and some elements can become purely offensive.
 
 Good software design starts with a rudimentary structure, then works outward. Unfortunately, the feature/complexity paradox dramatically expresses itself within computers:
@@ -153,7 +153,7 @@ Some UI ideas are terrible, for various reasons:
 - QR codes without an alternative URL to key in, since not all devices reliably read them.
 - Creating an infinite scroll feature on a product that doesn't need it.
 - Only having a "like" button for feedback, but without extra clarifications or using the numerical "likes" as a simple means of prioritization.
-- Requiring the user install extra software or accept extra [permissions](computers-cysec-authentication.md) that are convenient for the developer, but often involve [tracking data that the user may not want tracked](faang.md).
+- Requiring the user install extra software or accept extra [permissions](computers-cysec-authentication.md) that are convenient for the developer, but often involve [tracking data that the user may not want tracked](computers-bigtech.md).
 - Removing any features that the users had become familiar with.
 - Messages and prompts with excessive wording and explanation, instead of providing [documentation](language-writing-documentation-cs.md) for people who wish to read more.
 

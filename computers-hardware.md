@@ -39,7 +39,7 @@ Technically, a computer could be assembled with a vast agglutination of wires an
 
 Around the core wiring/logic, the rest is largely protective. Padding, a housing, screws, and metal shielding protect it from getting broken, wet, picking up static or (in some cases) [interference from radio waves](engineering-radio.md). For higher-power needs (e.g., a PSU), they can fill the void with a brown epoxy-like substance called "potting" around the wires to provide protection from electric shock, vibration, or moisture.
 
-In practice, this means a [hacker](hacking.md) can cobble together just about anything that's conductive and attach it to anything. Except for circuitry that's too small to work with (e.g., cell phones), most low-grade electronics are very accessible (such as the [Raspberry Pi](computers-embedded.md)).
+In practice, this means a [hacker](mind-creativity-hacking.md) can cobble together just about anything that's conductive and attach it to anything. Except for circuitry that's too small to work with (e.g., cell phones), most low-grade electronics are very accessible (such as the [Raspberry Pi](computers-embedded.md)).
 
 The design of a general purpose computer has [specific elements as well for each component](computers-hardware-general.md).
 
@@ -91,7 +91,7 @@ In effect, output is pretty much anywhere where a processor sends information:
 - It could send it to a [computer screen](engineering-screen.md) or a [printer](engineering-printers.md), which is what most people think of.
 - It may output to [audio](computers-speakersmic.md) or activate lights.
 - It might store it to the hard drive for long-term storage between power cycles.
-- It may send the information [across an electrical cable](networks-cs.md) to be *another* computer's input.
+- It may send the information [across an electrical cable](computers-networks.md) to be *another* computer's input.
 
 ## Other Computers
 
@@ -128,7 +128,7 @@ On the *extremely* cheap end, some general-purpose computers like the [Raspberry
 
 In fact, if you're tenacious enough, you can even [build a computer in your own garage](http://sam.zeloof.xyz/first-ic/).
 
-Also, like stated above, many computers can be specific-purpose. NAS (network attached storage), for example, is just a normal computer that does nothing but send information back-and-forth to other computers on a [network](networks-cs.md). You can even make one with a [Raspberry Pi](computers-embedded.md)!
+Also, like stated above, many computers can be specific-purpose. NAS (network attached storage), for example, is just a normal computer that does nothing but send information back-and-forth to other computers on a [network](computers-networks.md). You can even make one with a [Raspberry Pi](computers-embedded.md)!
 
 Computers are so fast now that these computers can pretty much do anything the average person could imagine using it for, so there are a *ton* of projects available for them. These can range from automatic pet feeders to home security systems to running websites!
 
@@ -173,7 +173,7 @@ This interconnected nature means that if a part is old enough, other OEMs might 
 
 Not all computers are the same. Consumer-grade technology is relatively flimsy, with the "planned obsolescence" of at least one major component in it set for about a month after the extended warranty expires, presuming home use (i.e., no more than 2-6 hours of moderate use a day). Commercial-grade technology, on the other hand, is designed to last for about the same amount of time, but under heavy use 24 hours a day. This is a portion of why [enterprise-grade computers](computers-distsys-enterprise.md) are far more expensive.
 
-The *actual* quality of any given computer is a competing, advanced calculation of [economics](money-economics.md) and [technological development](technology.md). When something has become [a hot trend](people-trends.md), manufacturers will spend more effort and money on developing that component, up until people stop caring and the trend dies. As boring technology starts becoming a commodity instead of a novelty, a [Big Tech](faang.md) company will pick up most operations in that space (and not innovate much more), all the way until something better comes along.
+The *actual* quality of any given computer is a competing, advanced calculation of [economics](money-economics.md) and [technological development](technology.md). When something has become [a hot trend](people-trends.md), manufacturers will spend more effort and money on developing that component, up until people stop caring and the trend dies. As boring technology starts becoming a commodity instead of a novelty, a [Big Tech](computers-bigtech.md) company will pick up most operations in that space (and not innovate much more), all the way until something better comes along.
 
 To that end, buying the *best* computer is nearly impossible because you're paying for an experimental technology (which may break on you) or a boring technology (which won't be as fast).
 

@@ -118,7 +118,7 @@ Improve your food quality:
 - Constantly expand your [cooking skills](cooking.md).
 - Try to never let your baking skills outpace your cooking skills.
 - Learn the nutritional quality of your food compared to other alternatives.
-  - Very often, we are trying to satisfy an obscure vitamin or mineral need, so healthier food means we need less of it.
+  - Very often, we are trying to satisfy [an obscure vitamin or mineral need](body-health-food.md), so healthier food means we need less of it.
   - If you grew up in an unhealthy home, you may believe (wrongly) that only high-calorie food has any flavor.
 - Dining out should be a special occasion, not a routine:
   - Even restaurant salads and sandwiches are often less healthy than their burgers and fries!
@@ -171,7 +171,7 @@ B. Ignoring cravings:
 
 - A craving is often the body asking for something.
   - Cravings are a body's standard of "normal".
-  - Specific cravings are often the body needing more protein or specific vitamins/minerals.
+  - Specific cravings are often the body needing more protein or [specific vitamins/minerals](body-health-food.md).
   - Ignoring cravings will devastate willpower.
 - A few tricks resolve most cravings:
   - Drink tons of water, especially before or instead of the item itself.
@@ -190,8 +190,9 @@ C. Overeating:
 - Eating too quickly:
   - It takes about 15 minutes for the body to recognize it's eaten.
   - Rapid eating increases stress, decreases digestion, and makes the food less enjoyable.
+  - Set a timer from when you start eating.
 - Eating lunch at work:
-  - Exercise during lunch break instead of eating
+  - Exercise during lunch break instead of eating.
 - Giving yourself too much flexibility:
   - Taking the weekends "off" can sometimes fully undo any progress during the week.
   - Overeating at "special occasions", which can often create relapse into old habits.

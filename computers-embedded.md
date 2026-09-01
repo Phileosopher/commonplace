@@ -30,7 +30,7 @@ At this point, the only reason anyone really *needs* a new computer is for one o
 
 Computers provide [*many* career options](jobs-2_goals-cs.md), and [some organizations](computers-embedded-manufacturers.md) decided to do something different with them. Instead of selling top-dollar computers, they shaved down as many features as possible to create the cheapest possible computer.
 
-Even though they originally designed these low-spec computers for [teaching](education.md) and [experimentation](hacking.md) purposes, they created a *very* affordable general-purpose computer for anyone to use.
+Even though they originally designed these low-spec computers for [teaching](education.md) and [experimentation](mind-creativity-hacking.md) purposes, they created a *very* affordable general-purpose computer for anyone to use.
 
 Due to the price point and accessibility for tinkering, there are [many potential uses](computers-embedded-ideas.md) for these embedded computers.
 

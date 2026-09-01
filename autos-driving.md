@@ -17,7 +17,7 @@ In general, there are [engineering](engineering.md) tradeoffs for operating each
 - Better handling means more parts that are usually more expensive.
 - More fuel efficiency means less power.
 - Older vehicles are known-good, but also often rock at every bump in the road.
-- Newer vehicles often have better sound-dampening, but often have [manufacturer-designed constraints](faang.md).
+- Newer vehicles often have better sound-dampening, but often have [manufacturer-designed constraints](computers-bigtech.md).
 
 Before driving, make sure the vehicle is [maintained](autos-maintenance.md).
 
@@ -38,6 +38,16 @@ Further, since so much of your life connects to your automobile, add extra [safe
 
 - Keep [emergency supplies](hardship-disaster-checklist.md) in each of your automobiles.
 - Always keep a dashcam running while you're driving.
+
+Towing a trailer:
+
+- When backing or hooking trailer, Get Out And Look (GOAL) if you have any doubt whatsoever.
+  - Your intuition may be correct, and you might nearly hit something.
+- Backing to a gooseneck trailer can be tricky, but you can use guides to help:
+  1. tape a stick (e.g., a roadway marker) to vertically show where the center of the trailer is from the driver's seat.
+  2. set two sticks on each side of the trailer ball where you can see them from the driver's seat.
+- When turning, a trailer's tires will travel closer to the turn than your vehicle.
+  - Therefore, make a wide turn to accommodate that movement, or try navigating from a different direction.
 
 Pay attention to which tires generate movement:
 

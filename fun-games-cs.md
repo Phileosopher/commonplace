@@ -131,7 +131,7 @@ From about 2010 and onward, almost all the new games became either high-budget "
 AAA games throw a *ton* of budget behind games they expect will safely sell, typically by releasing sequels of prior successful games:
 
 - They tend to simply be an [improved version](computers-software-versionctrl.md) of the previous game, with borrowed "game mechanics" from other games.
-- For [marketing reasons](marketing.md), the game would add easily-implementable gimmicks or [hacks](hacking.md) to advertise a feature:
+- For [marketing reasons](marketing.md), the game would add easily-implementable gimmicks or [hacks](mind-creativity-hacking.md) to advertise a feature:
   - Endless Customization! - add hundreds of useless features to the starting character interface
   - X Hours of Gameplay! - spread out the world with tons of relatively empty space to travel through
   - Character Progression! - add an incrementing bar that slowly leveled up, even if it didn't materially change the experience for the player

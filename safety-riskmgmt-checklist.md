@@ -101,7 +101,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 ## Protecting From Malicious People
 
 - Keep your computer [safely maintained](computers-cysec.md).
-- Keep your personal information private, from [scammers](computers-cysec-socialengineering.md) and [Big Tech](faang.md).
+- Keep your personal information private, from [scammers](computers-cysec-socialengineering.md) and [Big Tech](computers-bigtech.md).
 - Keep a portable firearm, with experience using it.
 - Always have a bodycam and [auto](autos.md) dashcam equipped.
 

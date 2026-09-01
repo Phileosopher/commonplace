@@ -195,6 +195,12 @@ Whenever you feel unsafe, record *everything*.
     - These states include California, Delaware, Florida, Illinois, Maryland, Massachusetts, Montana, Nevada, New Hampshire, Pennsylvania, and Washington.
   - That doesn't disqualify someone's *testimony* of hearing the recording, but it becomes more difficult for lawyers to use.
 
+This is doubly important if it's tied to your [career](jobs-specialization.md)
+
+- If you get it in writing with clear expectations, your *[manager](mgmt-1_why.md)* may get in trouble.
+- Depending on your country, you have the right to keep cameras off in meetings, nondisclose some information, and *not* work when off-duty.
+- You also have the right to ask for time to process information, which gives you freedom to make wiser [decisions](mind-decisions.md).
+
 When asked to disclose by an authority, openly disclose unless you have a means to protect yourself such as a lawyer.
 
 - Often, you will find yourself in more trouble by the cover-up than by the event itself.
@@ -559,6 +565,6 @@ Living a [good life](people-goodlife.md) often requires operating *outside* the 
 
 Fight for a worthwhile fight.
 
-- You have the resources to fight 1 battle reliably: against fraud, against [FAANG](faang.md), against [country-sized corporations](politics-monopolies.md), against a government.
+- You have the resources to fight 1 battle reliably: against fraud, against [Big Tech](computers-bigtech.md), against [country-sized corporations](politics-monopolies.md), against a government.
 - You may not win that battle, and even when you do, the prize for it may not be worth it.
 - Choose wisely.

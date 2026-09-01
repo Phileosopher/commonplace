@@ -1,5 +1,5 @@
 
-# Examples of FAANG obstructing the Right to Repair
+# Examples of Big Tech obstructing the Right to Repair
 
 General
 

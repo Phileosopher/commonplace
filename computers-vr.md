@@ -108,7 +108,7 @@ The hype around VR is overblown as well. Like other [trendy tech things](people-
 - Artists and creatives want something that can make them more efficient, don't care as much about reliability, and would prefer high-quality [UX](engineering-design.md).
 - Engineers and programmers want feedback *much* more than immersion, since they're designing highly technical things and want to know if something goes wrong. Most of them, as well, aren't as obsessed with reliability.
 
-Given that VR headsets collect a *lot* more data than a typical computer, any [data collection abuse](faang.md) issues by large organizations can be exponentially worse.
+Given that VR headsets collect a *lot* more data than a typical computer, any [data collection abuse](computers-bigtech.md) issues by large organizations can be exponentially worse.
 
 When you include audio into the experience, HMDs are *very* exclusionary. You'll be working or playing by yourself, and will *not* detect any other people around you.
 

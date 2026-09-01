@@ -3,7 +3,7 @@
 
 The power plays aren't strictly a monolithic attempt to subdue unsuspecting individuals. There are *gigantic* power battles back-and-forth between the large organizations (as well as [watchdog journalists](stories-storytellers.md)) for antitrust and pro-trust agendas.
 
-Beyond the following, there are also [merger halts](faang-conflicts-merger.md), [mandatory Right to Repair](faang-conflicts-r2r.md)
+Beyond the following, there are also [merger halts](computers-bigtech-conflicts-merger.md), [mandatory Right to Repair](computers-bigtech-conflicts-r2r.md)
 
 ## Large-Scale Events
 

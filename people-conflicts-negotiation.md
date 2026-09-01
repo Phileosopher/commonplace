@@ -451,6 +451,15 @@ People typically need to say "no", so don't take it personally:
 - Give them freedom to say it, without any risk of judgment.
 - Keep listening to them to see what version of "no" they're using, then try to meet them where they're at.
 
+If they give a final offer, don't fight it:
+
+- They have pegged their honor (and sometimes their [identity](people-identity.md)) to that number, so honor their decision.
+- Instead, look at negotiating the things that number will give you:
+  - Project timeline adjustments
+  - Extra features
+  - Payment arrangements
+  - Additional items or agreements
+
 Don't say "no" directly:
 
 - You can usually bring out more shared dialogue by showing skepticism.

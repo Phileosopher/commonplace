@@ -9,7 +9,7 @@ Joysticks had been around for a while, but weren't always reliable or precise. A
 
 The original "mouse" was a trackball, with the user operating a ball connected to rollers that corresponded with X and Y coordinates. Those numbers could then map to a location on a [screen](engineering-screen.md). One of the first trackballs was a top-secret Canadian military project in the 1940s that used a standard Canadian-style 5-pin bowling ball.
 
-A trackball's most frequent drawback is bumping the ball when moving your hand to make a selection. There were many workarounds for the problem, but someone [hacked](hacking.md) a solution in the 1960s by inverting the X and Y rollers to roll on a surface instead. It was called a "mouse" because the cabling from the bottom of the early machines looked a *lot* like one.
+A trackball's most frequent drawback is bumping the ball when moving your hand to make a selection. There were many workarounds for the problem, but someone [hacked](mind-creativity-hacking.md) a solution in the 1960s by inverting the X and Y rollers to roll on a surface instead. It was called a "mouse" because the cabling from the bottom of the early machines looked a *lot* like one.
 
 Once the [graphical user interface](engineering-design.md) started adapting to the mouse, it became the standard, and [operating systems](computers-os.md) started making the mouse a default peripheral with the presumption of a cursor. By the time [Microsoft Windows](computers-os-windows.md) came around, operating systems *expected* the computer to have a mouse.
 

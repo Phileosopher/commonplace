@@ -22,7 +22,7 @@ In that context, older hard drives had a relatively straightforward arrangement:
 An MBR is made of 512 bytes and has several components inside it:
 
 1. 446 bytes of master boot code that gives instructions about what's elsewhere on the disk and how it's [encrypted and encoded](encryption.md).
-2. 64 bytes for a "disk partition table", which is a [database](database.md) of primary partitions. Each primary partition is 16 bytes, so you can only have up to 4 per disk without recursively [hacking](hacking.md) the primary/extended partition system.
+2. 64 bytes for a "disk partition table", which is a [database](database.md) of primary partitions. Each primary partition is 16 bytes, so you can only have up to 4 per disk without recursively [hacking](mind-creativity-hacking.md) the primary/extended partition system.
 3. A 2 byte boot signature at the end, which *must* be unique to that disk or the operating system will have a disk signature collision. Disk signature collisions most frequently happen when a disk is completely copied, then mounted on the same device.
 
 It's worth noting that resizing and moving partitions is *not* trivial, as opposed to [virtual drives](computers-distsys-vm.md) that have arbitrarily-set sizes:

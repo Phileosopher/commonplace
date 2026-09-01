@@ -1,5 +1,5 @@
 
-# Examples of FAANG and large organizations spying on people
+# Examples of Big Tech and large organizations spying on people
 
 Multiple
 

@@ -159,6 +159,16 @@ Stay mindful of your rights and responsibilities:
 - You have the right to speak up in the workplace, especially if you feel something is immoral, but are responsible to be [courteous about it](people-friends.md).
 - You have the right to form employee groups (e.g., unions), but must respect your employer's property.
 - You have the right to decide what goes into your own body (e.g., vaccines).
+- However, you are also responsible to communicate *everything* you do to your boss before you do it.
+  - If you surprise your manager, even if it's a good idea, you are risking termination because of risks you are incapable of noticing yourself.
+
+Focus on learning, especially in the first few months.
+
+- Even if you've done all the work before, the [culture](people-culture.md) will emphasize things differently than you're used to.
+- Learn as wide a range of things you possibly can at the beginning.
+  - Having a broad base of [understanding](mind-understanding.md) makes it easier to [remember](mind-memory.md) the context of everything later.
+- Focus on [learning as fast as possible](mind-understanding-learn.md).
+  - The emphasis for that learning, however, should be to [*use* it](purpose.md) as quickly as you can.
 
 Build a relationship with your manager:
 

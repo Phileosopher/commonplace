@@ -18,11 +18,11 @@ There are many [security philosophies](computers-cysec.md) that bind a good secu
 1. Safety *of* the information, which usually involves making duplicates of things ("redundancy") for when the computers fail.
 2. Safety *from* bad people misusing computer information, which usually involves verifying people and devices ("[authentication](computers-cysec-authentication.md)").
 
-It's important to understand that [hacking comes in a variety of forms](hacking.md), so it's not simply theft or destruction and all mid-level IT-skilled people can technically "hack". Most of the time, a "hacker" in popular culture is a PenTester.
+It's important to understand that [hacking comes in a variety of forms](mind-creativity-hacking.md), so it's not simply theft or destruction and all mid-level IT-skilled people can technically "hack". Most of the time, a "hacker" in popular culture is a PenTester.
 
 ## How to defend yourself
 
-Safety and performance have tradeoffs beyond a certain point, but there are many simple-enough ways to protect yourself from most [cyberattacks](hacking.md).
+Safety and performance have tradeoffs beyond a certain point, but there are many simple-enough ways to protect yourself from most [cyberattacks](mind-creativity-hacking.md).
 
 As a general concept, [computers are extremely versatile](computers-hardware.md). The engineers who first designed computers never expected that the computer needed to be *forbidden* to do some things. But, like dynamite and the aeroplane, computers are highly effective weapons. Unfortunately, a reliable [lock](computers-cysec-authentication.md) doesn't always protect computers.
 
@@ -49,7 +49,7 @@ Instead of remembering 150 passwords, use a password manager, such as KeePass. I
 
 Keep backups of everything important. This can range from simply keeping your core documents in [cloud storage](computers-distsys-cloud.md) all the way to maintaining a networked disk image of everything you've done. It all depends on what you need.
 
-Never save credit card information when you purchase something, and make sure the purchase is a legitimate place. Intermediary groups (e.g., PayPal) aren't much help because *they* can get [hacked](hacking.md), so the only "safe" method might be to transfer via [blockchain cryptocurrency](computers-blockchain.md) if you're particularly concerned.
+Never save credit card information when you purchase something, and make sure the purchase is a legitimate place. Intermediary groups (e.g., PayPal) aren't much help because *they* can get [hacked](mind-creativity-hacking.md), so the only "safe" method might be to transfer via [blockchain cryptocurrency](computers-blockchain.md) if you're particularly concerned.
 
 If you don't use software on your computer, uninstall it. Keep the installation program/file around if you need, but unused programs with file access permissions can be used to hack your computer.
 
@@ -61,9 +61,9 @@ If there's a legitimate system update, install it immediately. If you're worried
 
 ### Browsing
 
-Assume that [Big Tech](faang.md) is collecting data on you. They often can create a profile of you based on your computer or IP address, even if you don't have an account with them. Simple information like your IP address, uploaded photos, time spent on your website, and device's [screen resolution](engineering-screen.md) can be useful to cross-reference other details.
+Assume that [Big Tech](computers-bigtech.md) is collecting data on you. They often can create a profile of you based on your computer or IP address, even if you don't have an account with them. Simple information like your IP address, uploaded photos, time spent on your website, and device's [screen resolution](engineering-screen.md) can be useful to cross-reference other details.
 
-Pay very, *very* close attention to the address bar, since that's the easiest way people get [hacked](hacking.md). `https://facebook.com` is legitimate, but `http://facbook.com` or `http://faceebook.net` is an impostor site. You'll also notice that it won't have a current SSL certificate (and your browser will often display an indicator of it).
+Pay very, *very* close attention to the address bar, since that's the easiest way people get [hacked](mind-creativity-hacking.md). `https://facebook.com` is legitimate, but `http://facbook.com` or `http://faceebook.net` is an impostor site. You'll also notice that it won't have a current SSL certificate (and your browser will often display an indicator of it).
 
 Whenever you see a "hyperlink", mouse-over it or long-press it to investigate the link. Make sure you're familiar with the [domain](computers-sofware-webdev.md).
 
@@ -75,11 +75,11 @@ Avoid installing any plugins into your browser unless you know *exactly* what th
 
 If you don't know if you feel comfortable with your computer keeping information about where you went, then use private/incognito mode. Regularly clear your browsing history if you don't want advertisers to know what you're doing.
 
-Many other computers ([the OS](computers-os.md), [other apps](faang.md), governments, [internet service providers](networks-cs.md), [hackers](hacking.md)) can see your browser history, so regularly clear your browser history, or use separate browsers/profiles for different activities.
+Many other computers ([the OS](computers-os.md), [other apps](computers-bigtech.md), governments, [internet service providers](computers-networks.md), [hackers](mind-creativity-hacking.md)) can see your browser history, so regularly clear your browser history, or use separate browsers/profiles for different activities.
 
 If you're particularly paranoid, get Tor browser, which is a fork of Firefox that hyper-emphasizes security, and will delete your browsing history and cookies every time you close it.
 
-If you don't want other people to see your [IP address](networks-cs.md), use a VPN. Preferably, pay for it, since free VPNs tend to [track data](faang.md).
+If you don't want other people to see your [IP address](computers-networks.md), use a VPN. Preferably, pay for it, since free VPNs tend to [track data](computers-bigtech.md).
 
 Even with all this, you're never fully safe from someone hacking you, though the above measures make you much safer.
 
@@ -99,7 +99,7 @@ Even then, there are mentally unwell people who *will* try to force an argument 
 
 ### Large Organizations
 
-Beyond this, there's also the risk of [your technological relationship with large organizations](faang.md). They don't always have your best interests in mind, and have the ability to surveil and subdue you if it serves their interests.
+Beyond this, there's also the risk of [your technological relationship with large organizations](computers-bigtech.md). They don't always have your best interests in mind, and have the ability to surveil and subdue you if it serves their interests.
 
 When signing the [terms of service](people-contracts.md), pay very close attention to their policies on data security, data sharing with third parties, and data collection. People often click through without realizing how much they're giving up.
 

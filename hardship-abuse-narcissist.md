@@ -65,11 +65,27 @@ Expect the abuser to smear you for as long as possible.
   - Therefore, you'll be quieter, and they'll be telling the whole world about how awful you are.
 - You will almost certainly [lose friends](people-friends-bad.md) you trusted were more reasonable.
 
+Be prepared for the narcissist's triangulation or "flying monkeys" (a term referring to "the Wonderful Wizard of Oz").
+
+- The Karpman drama triangle is the act of getting a "rescuer" involved who is unfamiliar with the persecutor's direct conflict with the victim.
+  - Healthy conflict resolution arises out of a community that is well-informed of the [personalities](people-personality.md) and [virtuousness](morality-virtues.md) of everyone involved.
+  - Even true mediation/arbitration requires everyone in the room together, but the narcissist will use whatever means possible to *not* directly approach the issue on fair terms.
+- For the sake of simplicity and sanity, never [trust](mind-trust.md) a "peacemaker" who heard the narcissist's story first.
+  - That person has a version of the story they're convinced is true, and the narcissist has sent them to "resolve" the conflict.
+- These people are effectively trying to create peace, but become useful for the narcissist's manipulation.
+  - Many times, those people are at [other stages of narcissist's abuse cycle](hardship-abuse-narcissist-stages.md), meaning they're [victims of abuse](hardship-abuse.md) themselves.
+- While it can often be tempting to become angry at the flying monkey, *never* take your anger out on them.
+  - At best, they will see you as mentally unstable and will relay that information back to the abuser.
+  - At worst, they will consider you the [abuser](hardship-abuse.md) and will proceed with more [certainty](mind-understanding-certainty.md) on that presumption.
+- The narcissist's [capacity for influence](power-influence.md) heavily determines how many flying monkeys they have and who will believe them.
+  - This can become disastrous across society when some of those people are in positions of legitimate authority (e.g., police officer, judge)
+
 ## Healing afterward
 
 Recovering from the abuse is complex, and it takes time.
 
 - Most narcissistic abuse survivors develop strange [boundaries](people-boundaries.md) that don't quite reflect healthy behavior.
+  - Frequently, people will learn to neglect their body's basic signals (e.g., pain, hunger, fatigue) or will fail to communicate it.
 - Most people will "shrink" themselves from whatever they had rights to.
   - This often shows in their conduct with others (e.g., not wanting to greet someone because the other person didn't give eye contact first).
   - This can also represent in finding comfort in escapism and [addiction](addiction.md) (e.g., hobbies where nobody will notice).
@@ -80,7 +96,7 @@ The only healing from narcissistic abuse comes through both finding our worth, a
 - Narcissists build their fantasy around victimization, so absolutely *anyone* who victimizes, even as a response to a narcissist, runs the risk of becoming one themselves.
   - The vampire [mythology](stories-myths.md) comes directly from this imagery: you become the monster yourself if you don't take the time to heal from it.
   - Victimization from narcissistic abuse directly affects brain structure and function, dominantly in the hippocampus, amygdala, and prefrontal cortex.
-- The start of this is in directly owning the mistakes you made:
+- The start of your healing to avoid reproducing the narcissistic patterns is in directly owning the mistakes you made:
   - The mistake of consenting to that person entering your life so intimately.
   - The mistake of responding with [bad boundaries](people-boundaries.md).
   - The [sins](theology-sins-list.md) you committed against them, even if you feel it was justified.
@@ -100,6 +116,24 @@ The complex issue, however, is that every step you take without the narcissistic
   - A chance to not be alone again
 - For that reason, breaking from a trauma bond is withdrawal from an addiction.
 
+When breaking from the abuser, your relationships with others will become more complex.
+
+- Most people will *not* have the patience to satisfy most of your needs:
+  - To believe you.
+  - If they have any relationship with the abuser, to hold more than one point of view without acting.
+  - They will need to learn [emotional awareness](mind-awareness-feelings.md) to handle your emotions and theirs.
+  - They will have to bear some of your pain and sit in discomfort and [anger](mind-feelings-anger.md) with you.
+  - They will need to challenge some of your viewpoints.
+  - That person may have to take a stand for you, including challenging others.
+  - Ultimately, that person may risk being [rejected](morality-taboo.md) for standing with you.
+- Further, the abuser will likely need little to nothing from others around them.
+  - This means that, in a social context, the abuser succeeds in public if everyone ignores your struggle.
+  - Sadly, most people find ignoring issues more convenient when they aren't [aware enough](mind-awareness.md) to make a clear decision, especially when it doesn't affect them directly.
+- However, at the same time, while *you* may have missed the warning signs, other people often see them.
+  - You will often not *see* those people rejecting your past abuser, but that person is slowly making enemies wherever they go.
+
+## Making decisions afterward
+
 At any time, the abuser may try to reconnect to gain control ("hoovering").
 
 - This usually represents when the victim starts showing public signs of healing.
@@ -110,6 +144,26 @@ At any time, the abuser may try to reconnect to gain control ("hoovering").
   - They'll intentionally do as many public-facing things that show self-improvement, then demonstrate how they've changed.
   - However, this will fall apart as soon as the victim investigates further.
   - Further, if the victim holds the abuser accountable, the abuser's fragile ego will demonstrate hostility at them again with [more of their familiar abuse](people-conflicts-narcissist.md).
+- Since [their pathology](mind-neurodivergence-clusterb-narcissist.md) craves admiration and attention while simultaneously alienating people, it *will* happen if they see an opportunity:
+  - They will have [a new supply in an earlier stage of abuse](hardship-abuse-narcissist-stages.md) for at least months or years.
+  - If you have had your resources emptied far enough, they'll see you won't have anything left to give.
+  - Their [techniques with you](people-conflicts-narcissist.md) don't work anymore, and they know you'll [set good boundaries](people-boundaries.md) if you see them again.
+  - They may be so heavily damaged by the [narcissistic injury](hardship-abuse-narcissist-stages.md) that they'll never recover, and they blame you for it.
+  - Further, not all narcissists will hoover if they imagine complete strangers are a better source.
+
+Set clear boundaries for the future to avoid similar abuse:
+
+- Pay attention to your [gut feelings](mind-awareness-feelings.md) that indicate something isn't right.
+  - If you have to explain [basic human decency](people-rules-list.md) to a grown adult, don't [trust](mind-trust.md) them as much.
+  - If someone indicates their worst qualities, believe them.
+- Learn to observe someone's relationships with other people:
+  - Consider whether someone's circumstances are strictly victimhood, or if their [decisions](mind-decisions.md) brought them there.
+  - Never let someone [create division](people-conflicts-bad.md) between you and the people who [love](people-love.md) you.
+- Don't tolerate other people [abusing](hardship-abuse.md) you:
+  - Note when someone misunderstands you and doesn't care, even when you carefully [frame your language](language.md).
+  - Observe any mistreatment they don't [apologize for](hardship-forgiveness.md) when you confront them.
+  - Carefully observe any time someone is comparing you with someone else.
+  - Don't stay with anyone who behaves like you're crazy.
 
 To avoid future [abuse from other narcissists](hardship-abuse-narcissist-stages.md), learn to adopt confident and strong [body language](language-speaking-bodylanguage.md).
 

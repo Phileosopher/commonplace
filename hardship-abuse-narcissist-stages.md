@@ -155,6 +155,14 @@ This only works to the effect that the abuser has them alone without competing v
 
 - Often, [education](education.md) and casual [friends](people-friends.md) can deter this, but the victim will often [habituate](habits.md) away from those experiences.
 
+The abuser and victim will engage in "dual projection".
+
+- Over time, the abuser will project every negative quality of themselves onto their victim.
+  - e.g., a [dispositionally](people-personality.md) violent person will call their dispositionally gentle victim violent.
+- At the same time, the victim will project their positive qualities and responses onto their abuser.
+  - e.g., a victim is behaving kindly, patiently, and loyally, and expects their abuser will do the same.
+- This creates a strange situation where the abuser hates the victim (over imagined things that don't exist) and the victim believes in the abuser (over qualities the abuser never expressed).
+
 Many times, this expresses through the victim doing things for the abuser.
 
 - At least at first, they'll profusely thank their victim for the tasks they do, then slowly give less praise until that person is [habitually](habits.md) doing what's expected of them without praise.
@@ -263,9 +271,12 @@ The abuser is trying to form a bond where they are the hurt child and the victim
 
 - The effort is to "teach" the victim how to be the fulfillment of all the needs the abuser needs (a type of "replacement mom").
 - This stops when the victim decides to [treat the abuser like a child](people-conflicts-narcissist.md), since it brings reality into the situation and destroys the delusion.
+- At some point, the abuser will observe [reality](reality.md) crashing against their inflated [self-image](people-image.md) and feel as if their very [survival](hardship-death.md) is at risk ("narcissistic injury").
 
-The abuser will systematically destroy and discard their victim when they're done with them.
+The abuser will systematically destroy and discard their victim to self-protect.
 
+- The abuser will try to trap their victim.
+  - This will often involve making statements to incite a reaction or physically self-harming, then calling the police.
 - They will retell the events of an experience, but will rearrange or omit a few details to make the abuser as the hero or victim.
   - While they're portraying the [image](people-image-why.md) of [fear](mind-feelings-fear.md), they're actually [furious](mind-feelings-anger.md) that they've lost control, which provokes them to [lie](people-lying.md) in the effort to utterly destroy their victim ("character assassination")
 - Their [stories](stories-why.md) will be compelling, especially since they are often self-deluded into believing their version of the story.
@@ -292,7 +303,8 @@ The cruelty of a narcissistic discard is relentless.
 - Many times, they will plan ahead of time for many months before performing any public expression of their true sentiments.
 - The abuser will try to destroy absolutely everything associated with their victim to maximize the destruction they can cause.
   - This is their attempt to feel some sense of importance, even in their absence ("I know they won't forget about me now!").
-  - This will include every relationship, resource, and even the victim's sense of reality
+  - This will include every relationship, resource, and even the victim's sense of reality.
+  - The [consequences](results.md) for the victim can mean they will frequently lose their [job](jobs-1_why.md) or lose their [career license](jobs-specialization-industries.md) from their [legal troubles](legal-safety.md).
 
 If the abuser is intelligent or experienced, they can exploit behaviors in their victims to justify their discard:
 

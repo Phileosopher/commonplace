@@ -19,7 +19,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Financial purchases with any card associated to your name
    - [Insurance](money-insurance.md)
    - [School](education.md) attendance
-   - [Telecom](networks-cs.md) and utility agreements (e.g., cell phone, cable TV)
+   - [Telecom](computers-networks.md) and utility agreements (e.g., cell phone, cable TV)
    - Hospital and [healthcare](body-health.md) visits
    - Official [employment](jobs-1_why.md)
    - Government records, including tax filings and driver's license/vehicle registration

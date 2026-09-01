@@ -68,7 +68,7 @@ This aggregate of all our trauma and past pain blends into our ["shadow" persona
 
 Since unawareness causes the least short-term pain, most people stay unaware of their shadow self by default. They'll hurt people, destroy others' [happiness](mind-feelings-happiness.md), and do [malicious](morality-evil.md) things, all to fulfill a misaligned sense of [justice](morality-justice.md).
 
-- Further, when given [power](power.md), they *will* use it, even if it doesn't make sense. One example of this is the employment of [language](language.md) on [social media](networks-social.md).
+- Further, when given [power](power.md), they *will* use it, even if it doesn't make sense. One example of this is the employment of [language](language.md) on [social media](computers-networks-social.md).
 
 However, even without a qualified therapist, someone with [experience and wisdom](maturity.md) will usually notice patterns from how others react to their [influence](power-influence.md). Of those, a select few will do some [soul](humanity.md)-searching and slow their [reactions](habits.md). If someone can integrate their shadow, they will have a vast wealth of wisdom to draw from.
 

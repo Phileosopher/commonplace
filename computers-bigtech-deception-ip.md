@@ -1,5 +1,5 @@
 
-# Intellectual property abuse by FAANG
+# Intellectual property abuse by Big Tech
 
 Large organizations will also often try to draw more money out of people and abuse or misuse [intellectual property](legal-ip.md) rights beyond any [just](morality-justice.md) or sensible measure:
 

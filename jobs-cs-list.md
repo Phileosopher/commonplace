@@ -73,11 +73,11 @@ Maintaining things (for those who prefer [routine](habits.md)):
 [Protecting things](computers-cysec-compliance.md) (for those who prefer [enhancing safety](safety.md)):
 
 - **Cybersecurity Engineer** designs [ways to protect computers](safety-security.md).
-- **Security Researcher** finds [new vulnerabilities](hacking.md) before hackers do.
+- **Security Researcher** finds [new vulnerabilities](mind-creativity-hacking.md) before hackers do.
 - **Cybersecurity Specialist** verifies that [computers are safe](computers-cysec.md).
   - **Cybersecurity Analyst** spends lots of time making *really* sure that computers are safe.
   - **Security Operations Center (SOC) Analyst** makes sure computers are safe.
-- **Penetration Tester** [acts like a hacker](computers-cysec-pentest.md) before the [hackers](hacking.md) get to a system.
+- **Penetration Tester** [acts like a hacker](computers-cysec-pentest.md) before the [hackers](mind-creativity-hacking.md) get to a system.
   - **Vulnerability Analyst** checks for vulnerabilities.
 - **DevSecOps** does *everything* to protect computers.
 - **Security Architect** makes sure [organizations](groups-large.md)' computer systems are safe enough.

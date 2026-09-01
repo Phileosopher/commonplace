@@ -27,11 +27,11 @@ Beyond imposing a black substance onto a paper medium, there are various other p
 
 - Color printing allows color-based cartridges alongside black. Unlike the [screen](engineering-screen.md), printers use reflected light instead of visible light. So, instead of combining emitted wavelengths with additive colors (red/blue/green), printers use subtractive primary colors instead to *reflect* wavelengths (cyan/magenta/yellow).
 - "Duplex printing" will print a page on both sides. This isn't *strictly* necessary, but can be a severe logistical headache if you're trying to print out a lot of content (e.g., print odd-numbered pages, then load up the pages again and print even-numbered pages).
-- [Network](networks-cs.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
+- [Network](computers-networks.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
 - Secure printing allows a [password-protected](computers-cysec-authentication.md) print job, which may be important in a large office.
 - For larger printers, including a decent-enough [scanner](computers-ocr.md).
 - If it comes with the functionality of a scanner, it technically has a copier feature as well. However, it's simply printing a scanned (and spooled) copy instead of how copier technology directly imposes a scanned image.
-- While it's not as popular anymore, including a [fax machine](networks-cs.md).
+- While it's not as popular anymore, including a [fax machine](computers-networks.md).
 - Multiple trays to allow printing different paper sizes or types, which can also include a multipurpose tray.
 - Toner/ink page counter, which can *also* serve to cost more money long-term in wasted toner/ink (see below).
 
@@ -60,7 +60,7 @@ If the printer is connected to a central network (and *especially* if that netwo
 
 However, a long time ago, printers were *far* more flammable. This came from a combination of paper dust, the older dot-matrix printer ribbons, and the fact that some printer cleaning solutions were combustible. A simple spark or enough heat from a heavy printer workload was enough to ignite the device.
 
-Printers becoming more efficient is also not very cost-beneficial to corporations that sell printers. Toner is more expensive per-ounce than blood or silver, and is the profitable aspect of most printers, so creating [exclusionary right-to-repair-violating design](faang.md) and generally inefficient toner use is the best way to make more money.
+Printers becoming more efficient is also not very cost-beneficial to corporations that sell printers. Toner is more expensive per-ounce than blood or silver, and is the profitable aspect of most printers, so creating [exclusionary right-to-repair-violating design](computers-bigtech.md) and generally inefficient toner use is the best way to make more money.
 
 In many ways, printers *can* become more reliable, but there's no financial incentive to do so, especially now that society has trended more toward *paperless* information transfer. Most printers tend to be awfully designed, but try to compensate with as many built-in features as a [marketing trick](marketing.md) to imply additional value.
 

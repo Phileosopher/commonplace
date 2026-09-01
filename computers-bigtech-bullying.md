@@ -1,5 +1,5 @@
 
-# Examples of large FAANG groups silencing disagreement with their practices
+# Examples of large Big Tech groups silencing disagreement with their practices
 
 ## Small-scale actions
 

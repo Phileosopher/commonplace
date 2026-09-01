@@ -61,7 +61,7 @@ By using ECC ("error correcting code"), we can be sure the information is reliab
 - There aren't any standards for ECC, so it all lands on the hardware vendor or [the programmer downstream](computers-software.md).
 - While it's theoretically an increase in performance, individual bits (a 0 or 1) can sometimes flip, which can change anything from a barely different-colored pixel to a different text character in a file name.
 - A 0.0000001% chance of a bit flip means a one-in-a-million chance, which becomes thousands of bits when it's *billions* of bits of data (and 1 gigabyte has 8 billion bits).
-- Without ECC, [hackers](hacking.md) can often exploit bit flips, such as "race conditions".
+- Without ECC, [hackers](mind-creativity-hacking.md) can often exploit bit flips, such as "race conditions".
 
 ## Clumping together
 
@@ -98,7 +98,7 @@ Obviously, memory must be stored *somewhere*. That location defines what its "ph
 
 However, by using [distributed systems](computers-distsys.md), a computer can have more memory (by pretending multiple memory units are the same) or less memory (and allowing *other* computers to use the leftover memory). The portion the computer has designated as *its* memory (or how it's grouped across multiple media) determines is "logical memory".
 
-This distinction between logical and physical memory, along with balancing [CPU load](computers-cpu.md) and [bandwidth](networks-cs.md), is essentially the basis of all [cloud systems](computers-distsys-cloud.md).
+This distinction between logical and physical memory, along with balancing [CPU load](computers-cpu.md) and [bandwidth](computers-networks.md), is essentially the basis of all [cloud systems](computers-distsys-cloud.md).
 
 ## Memory hierarchy
 
@@ -132,7 +132,7 @@ ROM (read only memory), on the other hand, doesn't depend on electricity. But, y
 
 There are a few critical measurements of memory. They're often representing [statistical averages](math-stat-cs.md) more than precise numbers, but can be significant for [planning](mgmt-2_projects-cs.md) (especially [at scale](computers-distsys-enterprise.md)):
 
-1. Transfer speed: It uses [standard network speeds](networks-cs.md) to determine it, but should be magnitudes faster than a network's (since it's supposed to be literally next to the [CPU](computers-cpu.md)).
+1. Transfer speed: It uses [standard network speeds](computers-networks.md) to determine it, but should be magnitudes faster than a network's (since it's supposed to be literally next to the [CPU](computers-cpu.md)).
 2. Projected lifespan: This is measured by "program-erase cycles" (or simply P/E).
 
 There's a frequent RAM/ROM hybrid called "electronically-erasable programmable read-only memory" (EEPROM) that lets you read and write things to it, but it sticks around after turning the computer off.
@@ -162,7 +162,7 @@ If you're trying to store *lots* of information, you likely have only a few poss
 - Network Attached Storage (NAS) - mixed read/write, but not accessed for days, weeks, or months.
 - Surveillance - *heavy* amounts of writing data, but less than 1% of the data is ever read.
 - Cold storage - idle for most of the time, but requires enormously fast response and speed when accessed.
-- [Data center](computers-distsys-enterprise.md) - *constant* read/write on a hefty [network connection](networks-cs.md).
+- [Data center](computers-distsys-enterprise.md) - *constant* read/write on a hefty [network connection](computers-networks.md).
 
 To store *lots* of information for a long time, there are several specific options:
 

@@ -30,7 +30,7 @@ Gaming computers are the most expensive consumer-grade computers on the market, 
 2. The [audio](computers-speakersmic.md) must be synchronized to the visual experience, so it has to be correctly designed, from the sound effects to the soundtrack.
 3. Games require *immediate* feedback from the input peripherals (such as the [keyboard](computers-keyboard.md) or [mouse](computers-mouse.md), and now [VR](computers-vr.md)). While people can endure a 1-second delay in many other programs, 0.1 seconds is enough to make a janky game.
 4. For many games, you need an elaborate [mathematical framework](computers-programming-algorithms.md) to keep all the visual and audio elements working in tandem. This is *much* more than most other programs.
-5. Across the internet, the demand for rapid-response [networking](networks-cs.md) in many genres is a perpetual need, for *both* player input and [visual output](engineering-screen.md).
+5. Across the internet, the demand for rapid-response [networking](computers-networks.md) in many genres is a perpetual need, for *both* player input and [visual output](engineering-screen.md).
 6. In multiplayer games that need computer players (e.g., a 2v2 game with 3 humans), the [AI](computers-ai.md) has to have enough logic to permit the player to feel like the "bot" is human-like.
 7. [Graphics](engineering-graphics.md) technology is often driven by large-scale game developers, who build incredibly elaborate designs for their games that need ever-increasing [processing power](computers-cpu.md). This ranges from the character designs all the way to expansive and beautiful "skyboxes" and long-distance rendering to recreate extremely large worlds.
 
@@ -39,14 +39,14 @@ This means you need *lots* of processing power to make sure it stays above 30-60
 At one time, producing games became absurdly complicated because of the limits in graphics processors.
 
 - e.g., it's relatively easy to set up a static display (e.g., player score and health) overlaid over a scrolling portion (where the game was happening) frame-by-frame by rendering the scrolling part and then rendering the static part on top of it.
-- However, in the 1990s Nintendo Entertainment System, the developers had to [hack](hacking.md) the CPU to halt drawing one portion with a predetermined sound that forced the hardware to stop, then used the hardware's "collision detection" bit to draw the other part.
+- However, in the 1990s Nintendo Entertainment System, the developers had to [hack](mind-creativity-hacking.md) the CPU to halt drawing one portion with a predetermined sound that forced the hardware to stop, then used the hardware's "collision detection" bit to draw the other part.
 - Even through to today, vintage [game emulators](computers-distsys-vm.md) are notoriously difficult to build because the software must reproduce the individual clock cycles and constraints of the original hardware.
 
 ### Netcode
 
-Across a network, games have extremely stringent requirements for input, and heavy requirements for output. From frame to frame across a [network](networks-cs.md), the game must match on *both* computers.
+Across a network, games have extremely stringent requirements for input, and heavy requirements for output. From frame to frame across a [network](computers-networks.md), the game must match on *both* computers.
 
-Online games are typically designed as "deterministic", which means two instances of the same program will create *precisely* the same outputs with the same inputs. Even random numbers can be [algorithmically](computers-programming-algorithms.md) derived deterministically. This gives the added convenience that a replay of a game can simply be the inputs mapped to timing inside a game, but also allows other games to reconstruct a match even with [network](networks-cs.md) latency.
+Online games are typically designed as "deterministic", which means two instances of the same program will create *precisely* the same outputs with the same inputs. Even random numbers can be [algorithmically](computers-programming-algorithms.md) derived deterministically. This gives the added convenience that a replay of a game can simply be the inputs mapped to timing inside a game, but also allows other games to reconstruct a match even with [network](computers-networks.md) latency.
 
 Instead of using a server that holds the information, games on computers can synchronize with each other with "lockstep networking", where they can communicate back-and-forth about the state of the game. By bypassing a central server for both computers, it can theoretically be a quicker network speed. One side advantage of lockstep networking is that hacks that mess with the timing of the game (such as a character "sprite" that goes faster) will cause the game to desynchronize, which prevents cheating.
 

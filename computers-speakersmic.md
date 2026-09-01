@@ -18,11 +18,11 @@ To understand sound measurements, there are several important components:
 
 Most healthy adults can hear between 20 Hz up to 20 kHz. Anything below that is infrasound, and anything above that is ultrasound. We're most sensitive to sounds between 2-5 kHz.
 
-People typically lose the top range of their hearing over their lifetime. While infants can hear 20 kHz, young adults often can only hear 17 kHz, 50-year-olds often at 12 kHz, and people with hearing impairments only at 8 kHz. Some teenagers have [exploited this fact](hacking.md) to make extremely high-pitched text message notifications to not get in trouble in class.
+People typically lose the top range of their hearing over their lifetime. While infants can hear 20 kHz, young adults often can only hear 17 kHz, 50-year-olds often at 12 kHz, and people with hearing impairments only at 8 kHz. Some teenagers have [exploited this fact](mind-creativity-hacking.md) to make extremely high-pitched text message notifications to not get in trouble in class.
 
 ## Encoding
 
-To record sound, the device captures the vibrations, at the speed they're traveling, and records them onto something. A microphone is a "transducer" that converts sound waves into electromagnetic waves, and a speaker is simply a transducer in the opposite direction. In fact, speakers and microphones are so similarly designed that speakers can be [hacked](hacking.md) as low-quality microphones simply by plugging it into a microphone jack.
+To record sound, the device captures the vibrations, at the speed they're traveling, and records them onto something. A microphone is a "transducer" that converts sound waves into electromagnetic waves, and a speaker is simply a transducer in the opposite direction. In fact, speakers and microphones are so similarly designed that speakers can be [hacked](mind-creativity-hacking.md) as low-quality microphones simply by plugging it into a microphone jack.
 
 Depending on [the standards used](standards-computers.md), the electromagnetic waves can come from analog electrical pulses or digital electrical signals.
 
@@ -31,7 +31,7 @@ To synchronize these standards across everything, the pitch has been [standardiz
 - This was at least somewhat arbitrary as Germany's standard, and the standard could have been 435 Hz if France's preference took precedence, or ranged anywhere from 433-455 if Great Britain had had control.
 - There is some debate about the "purity" of 432 Hz because it's supposed to be the resonance of the heart. However, there is no hard evidence for it. Lower tones definitely create a more calming effect, but going down to bass would then be the [holistic solution](body-treatments.md).
 
-The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](math-cs.md) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](computers-memory.md) or transmitted [over a network](networks-cs.md). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
+The oldest sound capture devices directly encoded the waveform, but computers will now [calculate](math-cs.md) a [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) to encode the data. Once it's encoded, it can then be saved to [memory](computers-memory.md) or transmitted [over a network](computers-networks.md). This can either be by measuring the relative density of sound waves compared to before and after it (pulse-density modulation, or "PDM") or the absolute measurement of sound waves relative to a fixed point (pulse-code modulation, or "PCM").
 
 Speakers are either passive (without internal amplification abilities) or amplified (and often with their own volume control).
 
@@ -106,7 +106,7 @@ Audio recordings have different use cases, and the "lossiness" of the informatio
 
 This isn't exclusive to audio, and many audio formats also combine [video](engineering-screen.md) information as well, and often in parallel.
 
-The [drivers](computers-os.md) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](computers-languages.md) alongside quite a bit of [networking](networks-cs.md) experience.
+The [drivers](computers-os.md) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](computers-languages.md) alongside quite a bit of [networking](computers-networks.md) experience.
 
 Another unique standard allows musicians to directly input information via musical instrument digital interface (MIDI), which sends the inputs from a musical instrument (e.g., synthesizer keyboard) to a very time-sensitive mapping. This allows the information to send various outputs, including [storage for later](computers-memory.md). By using "MIDI voices", the audio can output as whatever the [creator](mind-creativity.md) wants.
 

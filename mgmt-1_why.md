@@ -288,6 +288,7 @@ Since every management situation is different, there isn't a good all-in-one sol
 - The only thing managers get are *many* various conceptual frameworks, which represent simplifications of [human universals](humanity-universals.md).
 - A manager has to figure out how a general model will work with the [culture mix](people-culture.md) in their current group.
 - Since managers are of a generally higher Conscientiousness than everyone else, they *frequently* tend to forget that others aren't as conformant to [rules](people-rules.md).
+- Great managers will grab pieces of existing theories to build their own system, but will also add room for flux, chaos, failure, unexpected problems, and unforeseeable circumstances.
 
 Every single change will redefine how models may implement.
 

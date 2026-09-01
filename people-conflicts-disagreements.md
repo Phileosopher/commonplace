@@ -29,15 +29,25 @@ The best way to continue is to confirm their motivations:
 2. If they don't understand and disagree, you will both need to exercise more patience to find common ground, which isn't always possible.
 3. If they're deflecting, you must be careful how to approach and what to say next.
 
-The best way to confirm is to entirely reframe what you're trying to say (often by stating everything in a different order).
+To gain more information entirely reframe what you're trying to say (often by stating everything in a different order).
 
 - If they understand for sure, they'll repeat their disagreement in some way.
   - If you're [actively listening](language-speaking-listening.md), you can often understand more precisely where their disagreement sits.
 - If they still don't understand, your new approach will confuse them compared to the first time.
   - Depending on their patience level, this will either make them curious or frustrated.
-  - However, being earnest can often open a dialogue in its own right.
+  - However, being earnest can often open a dialogue.
 - If they're using a smokescreen, they'll shift their entire set of information to match your new perspective.
   - At this point, you should exit the conflict.
+
+To understand if someone wants [understanding](mind-understanding.md) or control, ask a few questions that add precision:
+
+- What would change your mind?
+  - Anyone seeking understanding will *always* have a condition that would change their mind.
+  - If the answer is "nothing", they already made their [decision](mind-decisions.md) and are trying to protect it.
+- What part of what I'm saying do you understand to be true?
+  - If they are entirely [certain](mind-understanding-certainty.md) about everything, there is no more room for dialogue.
+- What are you trying to understand from me right now?
+  - Someone who wants to understand will have answers, but someone trying to win won't care to hear.
 
 Most innocent conflicts have a few particular, silly causes:
 
@@ -230,12 +240,16 @@ Use the Speaker/Listener Technique to respect everyone's boundaries.
 
 1. The person who feels the most severe pain at the moment is the Speaker and has the floor.
    - The Speaker must speak honestly and without accusation.
+     - In practice, this means many "I" statements, and almost no "you" statements.
    - To respect time and attention span, they only get 1-2 minutes to speak.
+   - They will only talk about one, singular topic.
 2. The other person is the Listener, who must paraphrase whatever the speaker said after listening.
    - The Listener must edit out all responses or disagreements to the Speaker.
    - The Listener is simply trying to understand the Speaker, not solve a problem.
+   - The Speaker won't ask questions to the Listener unless they want a reversal to allow the Listener to speak.
 3. The Speaker corrects the Listener on anything they got wrong.
 4. If the Speaker finds the Listener's summary acceptable, they switch roles.
+   - This should happen after about 2-3 turns, assuming the Speaker isn't trying to control the conversation.
    - Stay on only one topic at a time, and do *not* move to another topic.
 5. Repeat back and forth until both sides feel fully understood.
 6. Plan a time the next day when it's worth discussing the solutions to the issue.
@@ -246,6 +260,11 @@ Sometimes it's not the appropriate time or place.
   - "I don't feel safe continuing while we are currently in this mode."
   - "I'm not interested in continuing while we both maintain this paradigm."
   - "I don't want to discuss this when I don't feel safe."
+- There is a *huge* difference between a time-out and walking away:
+  - A time-out involves clear expectations for when both sides will revisit the conflict (healthy conflict resolution), but walking away is abandoning an unresolved issue (conflict avoidance).
+    - Further, walking away is usually blaming the other person for the issue staying unresolved.
+  - Both sides are [agreeing](people-contracts.md) to postpone the discussion in a time-out, but only one person is consenting to walking away.
+  - Both are because someone's feelings are uncertain, but a time-out is because someone wants to [identify those feelings](mind-awareness-feelings.md).
 - Further, consider a time-out plan for yourself if you need it.
   - The purpose is to prevent yourself from acting inappropriately, *not* as an excuse to avoid the topic.
   - It also isn't acceptable for you to blame them for taking the time-out, and isn't an excuse to [consume a substance](addiction-substances.md).

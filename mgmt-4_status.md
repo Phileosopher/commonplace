@@ -90,10 +90,10 @@ Unless you're planning to relocate them or redistribute resources, *never* dir
   5. Use at least 2-3 metrics, with at least one of them hidden from the members.
   6. Reward them frequently, generously, and privately over their performace.
 - Unless the system is in good faith (i.e., only for incentives), workers will always find [creative ways](mind-creativity.md) *around* any tracking system you use:
-  - If the tracking drives [incentives and punishments](mgmt-6_morale.md), they'll find ways to [hack](hacking.md) the system.
+  - If the tracking drives [incentives and punishments](mgmt-6_morale.md), they'll find ways to [hack](mind-creativity-hacking.md) the system.
   - If the tracking only drives punishments, they'll find ways to shut it off or spoof it.
     - And, even worse, some of them will use it to get their rivals in trouble.
-  - If tracking only defines rewards, they'll probably work harder, but some of them will try to [exploit the system](hacking.md).
+  - If tracking only defines rewards, they'll probably work harder, but some of them will try to [exploit the system](mind-creativity-hacking.md).
 
 While it will vary by industry and type of work, requests for status updates should generally be once a week.
 

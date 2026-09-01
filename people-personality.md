@@ -98,7 +98,7 @@ Our [self-esteem](people-identity.md) is essentially our extraversion (as a posi
 Most things we call "[personality disorders](mind-neurodivergence.md)" are simply the combination of [neurodivergent](mind-neurodivergence.md) personality characteristics that create adverse [consequences](results.md) for society.
 
 - [Cluster A](mind-neurodivergence-clustera.md) is *extremely* high neuroticism (to constantly add new [perceptions](people-image-why.md) about [reality](reality.md)) without the sufficient conscientousness to tether themselves to [reality](reality.md).
-- [Cluster B](mind-neurodivergence-clusterb.md) is adding extremely low conscientiousness and high extraversion with early childhood [PTSD](hardship-ptsd.md).
+- [Cluster B](mind-neurodivergence-clusterb.md) is adding extremely low conscientiousness and low agreeableness with early childhood [PTSD](hardship-ptsd.md).
 - [Cluster C](mind-neurodivergence-clusterc.md) is a combination of possible extremes:
   - Avoidant personality disorder is high agreeableness and low extraversion.
   - Dependent personality disorder is high agreeableness and low conscientiousness.

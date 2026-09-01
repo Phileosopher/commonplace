@@ -7,7 +7,7 @@ From anything larger, many psychological dynamics start bleeding across each oth
 
 - [Churches](church.md)
 - [Clubs](fun.md)
-- [Social networks](networks-social.md)
+- [Social networks](computers-networks-social.md)
 - [Gangs](groups-gangs.md)
 - [Corporations](mgmt-middle.md)
 - [Cities](politics-city.md)

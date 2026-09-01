@@ -84,7 +84,7 @@ Most of the time, UX developers follow safe fashions, but frequently they'll [ru
 There are plenty of examples of bad fashions:
 
 - Using touchscreens instead of buttons in [automotives](autos.md).
-- Having [internet-connected](networks-cs.md) devices that don't need to be connected to the internet.
+- Having [internet-connected](computers-networks.md) devices that don't need to be connected to the internet.
 - Aggressively auto-connecting Bluetooth when the user doesn't want it.
 - Giving "popular choices" that are *clearly* not popular.
 - Washing out the visual contrast for style reasons, but making it somewhat unreadable.

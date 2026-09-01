@@ -91,6 +91,8 @@ Wants the *concept* of you more than you as a person:
 - If someone is meeting their needs through you without considering your feelings, they're being psychologically abusive.
 - They often want to keep the relationship's benefits, but without its responsibility.
   - One of the clearest indicators of this behavior is when they are in a steady relationship with you (i.e., 1-2 times a week for months), but then say they need more time before becoming official.
+- Many times this is difficult to tell if you're the best thing that has happened to them.
+  - If you're a high-quality person and interested in them, they'll likely do everything they can to [present a good image](people-image.md) to keep you around.
 
 They're perpetually miserable:
 

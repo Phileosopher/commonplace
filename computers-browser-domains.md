@@ -25,7 +25,7 @@ The domain information connects back to a system called DNS ("domain name servic
 
 - There are many, *many* DNS records, but the bare-bones specifications mostly exist as [standards](standards-computers.md) in [RFC 1035](https://www.rfc-editor.org/rfc/rfc1035).
   - These records can be for specific resources, or "wildcard" across many possible situations.
-- A - what [IPv4 address](networks-cs.md) to look for.
+- A - what [IPv4 address](computers-networks.md) to look for.
 - AAAA - what IPv6 address to look for, specified by [RFC 3596](https://www.rfc-editor.org/rfc/rfc3596).
 - CAA - [Certification Authority](computers-cysec-authentication.md) Authorization, specified by [RFC 6844](https://www.rfc-editor.org/rfc/rfc6844).
 - CNAME - canonical name record, which indicates an alias of one name to another.
@@ -39,17 +39,17 @@ The domain information connects back to a system called DNS ("domain name servic
 
 The software (usually the web browser) makes DNS requests, which are answered with DNS records. DNS configurations connect to most of the issues over whether a website works or not.
 
-To access most websites, a computer will [access](networks-cs.md) several computers that sit potentially across the world:
+To access most websites, a computer will [access](computers-networks.md) several computers that sit potentially across the world:
 
 1. Since it's rapid compared to anything else, the software first looks within cache [memory](computers-memory.md) locally stored in its memory. Later, it'll also typically archive more information to that cache.
 2. If there's nothing in the cache, it'll access the name server of the ISP ("internet service provider" who provides the internet service) about the DNS request.
    - If a name server happens to be recursive, it'll find the answer for the client, starting with its cache. Otherwise, it'll redirect the query to somewhere else.
 3. If the name server doesn't have the information, it'll ask the root server, (also known as the Global Top Level Domain Server, or GTLD) to find the name server with the relevant name (e.g., there's a GTLD for all .com domains).
-   - There are also [alternative DNS roots](https://en.wikipedia.org/wiki/Alternative_DNS_root) as well, beyond the standard ones, which allow for [decentralized systems](computers-distsys.md), [cryptocurrency](computers-blockchain.md), or [nations the ability to micromanage their internet](faang.md).
+   - There are also [alternative DNS roots](https://en.wikipedia.org/wiki/Alternative_DNS_root) as well, beyond the standard ones, which allow for [decentralized systems](computers-distsys.md), [cryptocurrency](computers-blockchain.md), or [nations the ability to micromanage their internet](computers-bigtech.md).
 4. The GTLD will send back information that routes to the "authoritative" registrar (Step 6) or a DNS resolver.
 5. The client accesses the DNS record held at a DNS resolver (e.g., CloudFlare at 1.1.1.1, Google at 8.8.8.8, Quad9 at 9.9.9.9).
    - Most internet service providers have *awful* built-in resolvers that keep very obsolete DNS records, so it makes sense to connect to your own (e.g., Cloudflare, Quad9).
-   - It's not *too* difficult to make your own DNS resolver, but most DNS resolvers used by most websites are [gigantic FAANG corporations](faang.md).
+   - It's not *too* difficult to make your own DNS resolver, but most DNS resolvers used by most websites are [gigantic corporations](computers-bigtech.md).
 6. The DNS resolver will point to a registrar, which has the authoritative DNS record.
    - When there are only a few large DNS resolvers, small failures can quickly turn off gigantic chunks of the internet because the computers will return a 500 error with no re-routing.
 7. The registrar will either have resource records, or an NS record that points somewhere else, typically to a host (e.g., ns1.actualsite.com and ns2.actualsite.com).

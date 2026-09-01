@@ -7,7 +7,7 @@ Essentially, cybersecurity is [security](safety-security.md), but applied to com
 
 To successfully manage cybersecurity, you have to understand [the mind of a hacker](computers-cysec-pentest.md).
 
-- That doesn't mean you need to [hack yourself](hacking.md), but you *do* need to understand the criminal mentality of a hacker and how they tend to think.
+- That doesn't mean you need to [hack yourself](mind-creativity-hacking.md), but you *do* need to understand the criminal mentality of a hacker and how they tend to think.
 
 Broadly, information security is built on the "CIA triad", which represents as confidentiality, integrity, and availability:
 
@@ -43,7 +43,7 @@ It's critical to use some type of verification for a program, and there are [man
 
 ## Network hardening
 
-Making a [computer network](networks-cs.md) involves adding communication features between computers. By contrast, [network hardening](computers-cysec-network.md) involves *removing or disabling* all unnecessary features authorized users won't use.
+Making a [computer network](computers-networks.md) involves adding communication features between computers. By contrast, [network hardening](computers-cysec-network.md) involves *removing or disabling* all unnecessary features authorized users won't use.
 
 ### Specific network hardening tricks
 
@@ -59,7 +59,7 @@ Have a burner browser to work with any suspicious situations.
 
 The highest-risk [files](computers-files.md) for a computer to keep functioning (and thereby enforce [authentication](computers-cysec-authentication.md)) are core system files, so an [operating system](computers-os.md) has a constant need to track *any* changes to them.
 
-A "firewall" is meant to stop hackers from accessing the computer in the first place. It's a set of rules that it applies to any data packets that pass through it. They are usually "stateful" now and often analyze the [application layer](networks-cs.md) for policy violations. Because of how complicated and interconnected networks have gotten, cybersecurity professionals debate quite a bit about how effective firewalls really are.
+A "firewall" is meant to stop hackers from accessing the computer in the first place. It's a set of rules that it applies to any data packets that pass through it. They are usually "stateful" now and often analyze the [application layer](computers-networks.md) for policy violations. Because of how complicated and interconnected networks have gotten, cybersecurity professionals debate quite a bit about how effective firewalls really are.
 
 A much elaborate system than a firewall is called an IPS or IDS ("intrusion prevention/detection system") depending on how active the software protects you from the problem.
 
@@ -67,7 +67,7 @@ A much elaborate system than a firewall is called an IPS or IDS ("intrusion prev
 
 Some malware/antivirus scanners are "persistent" (always running) and others have to be activated when you want to use them. Because the more robust effort that persistent scanners like Norton and McAfee have to do to verify *everything* the computer does, they're often a *huge* drain on resources and will cause everything to slow down.
 
-Since AV software is sometimes notoriously difficult to remove (since the software often doesn't trust that you're removing it on purpose), many technicians joke that certain AV software are viruses of its own. In fact, AV software is often unnecessary bloatware that preys on users' fears, and [some of them are mine cryptocurrency at the users' expense](faang.md).
+Since AV software is sometimes notoriously difficult to remove (since the software often doesn't trust that you're removing it on purpose), many technicians joke that certain AV software are viruses of its own. In fact, AV software is often unnecessary bloatware that preys on users' fears, and [some of them are mine cryptocurrency at the users' expense](computers-bigtech.md).
 
 ## Memory security
 
@@ -123,7 +123,7 @@ It's important, however, to not access Tor with a regular web browser, due to ho
 - All Tor exit IPs are publicly known, so be mindful if you're doing anything that's at all questionable.
 - Tor has been compromised, so nothing is fully private on it anymore for someone who wants to find out.
 
-Tor has received negative attention from vague popularized concepts about the "[dark web](hacking.md)". While there *have* been drug deals, counterfeiting, and other illicit activity taking place over Tor, the urban myths have escalated to implying crowd-funded assassinations.
+Tor has received negative attention from vague popularized concepts about the "[dark web](mind-creativity-hacking.md)". While there *have* been drug deals, counterfeiting, and other illicit activity taking place over Tor, the urban myths have escalated to implying crowd-funded assassinations.
 
 In all reality, there are likely more legitimate services from privacy-concerned individuals on the Onion Network than illegitimate ones.
 

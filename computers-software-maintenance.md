@@ -75,6 +75,6 @@ Often, a software will become "deprecated":
 
 Sometimes, however, a [large company](computers-distsys-enterprise.md) will buy out well-maintained software. From that point, the software will likely suffer one of several fates:
 
-- In the pursuit of profit, the software will be modified to [track more data](faang.md) or will develop a [freemium business model](legal-ip-floss.md).
+- In the pursuit of profit, the software will be modified to [track more data](computers-bigtech.md) or will develop a [freemium business model](legal-ip-floss.md).
 - If the software was [open-source](legal-ip-floss.md), the developer or company will release a closed-source version of it, and another developer will subsequently [fork the software](computers-software-versionctrl.md) as another open-source implementation.
 - The software will stay open-source, and will become the vehicle for other for-profit software the company was using.

@@ -38,7 +38,7 @@ Further, many version control systems track each *line* of code, so they can eas
 
 In the early 2000s, most software development had various issues with awkward "commits" and "branches", and BitKeeper had provided a relatively seamless solution. However, their software wasn't [open-source](legal-ip-floss.md) and BitKeeper's terms of service indicated that they weren't allowed to "reverse-engineer" the software. However, because it worked, much of [Linux](computers-os-unix.md) was maintained with it.
 
-The issue came to a severe conflict when a developer was able to figure out how to work with BitKeeper by observing [network packets](networks-cs.md) (which wasn't *technically* reverse-engineering). While it didn't outright violate the terms of service, BitKeeper shut down Linux development.
+The issue came to a severe conflict when a developer was able to figure out how to work with BitKeeper by observing [network packets](computers-networks.md) (which wasn't *technically* reverse-engineering). While it didn't outright violate the terms of service, BitKeeper shut down Linux development.
 
 In ten days, the creator of [Linux](computers-os-unix.md), Linus Torvalds, created [Git](https://git-scm.com/) as a response to the need. Its design philosophy was "release early, iterate often", which has had a profound elegance. However, its mandatory complexities and [command-line interface](computers-cli.md) require a steep learning curve to understand it.
 
@@ -58,9 +58,9 @@ However, there are [security issues](computers-cysec.md) with Git. Since it keep
 
 ### GitHub
 
-[GitHub](https://github.com/) came in 2008 as a public Git repository that also served as a type of [social media](networks-social.md), which pushed it into widespread adoption.
+[GitHub](https://github.com/) came in 2008 as a public Git repository that also served as a type of [social media](computers-networks-social.md), which pushed it into widespread adoption.
 
-While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_what.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](faang.md).
+While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_what.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](computers-bigtech.md).
 
 Beyond being a form of social media, GitHub's most advantageous offering is GitHub Copilot, which scraped *all* the GitHub code to create an [AI-assisted model](computers-ai.md) to help with coding.
 
@@ -88,7 +88,7 @@ Unfortunately, all the changes in software mean that it's not usually sensible t
 
 For that reason, a project cycle will often "end-of-life" certain versions once they know 100% that a newer version has everything the older version has, though sometimes the developer will have rebuilt the next version of the system to be [closed-source](legal-ip-floss.md).
 
-Sometimes, a version has to be "yanked" if it failed miserably. Maybe that version could be easily [hacked](hacking.md), or it might have crashed core features. For whatever reason, certain version numbers become *very* dangerous to keep around without patching or uninstalling/reinstalling with another version ASAP.
+Sometimes, a version has to be "yanked" if it failed miserably. Maybe that version could be easily [hacked](mind-creativity-hacking.md), or it might have crashed core features. For whatever reason, certain version numbers become *very* dangerous to keep around without patching or uninstalling/reinstalling with another version ASAP.
 
 Some [enterprise software](computers-distsys-enterprise.md) can be so feature-laden and complex that most managers won't feel comfortable bringing it to version 1.x. This can cause extreme consternation in developers [as the project persists](computers-software-maintenance.md), and can provoke rewriting the code from scratch or trying to close out all [bug reports](computers-software-redesign.md). This psychological effect can also express with releasing to 2.x, 3.x, and so on.
 

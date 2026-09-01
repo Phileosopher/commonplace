@@ -8,13 +8,6 @@ The body has a "gut biome" that self-regulates.
 
 Always drink at least 1-2 liters of water every day, preferably filtered.
 
-Modern manufacturers want foods and drinks to be more [addicting](addiction.md) (and thus, more [marketable](marketing.md)), so they'll increase the ratio of unhealthy-but-tasty things:
-
-- Adding more sugar, high fructose corn syrup (HFCS), or any other form of natural sweetener.
-- Adding more salt.
-- Removing dietary fiber.
-- Adding oil or fat, especially saturated and trans fat.
-
 To lower costs, lengthen shelf life, and [stay competitive](money-economics.md), many foods can remove or substitute healthy options for not-so-healthy ones:
 
 - Adding preservatives and colorants that can cause liver damage (e.g., most canned foods contain at least some BPA).
@@ -66,6 +59,7 @@ Healthy dieting is about balanced nutrition more than consuming anything specifi
   - Fruits and vegetables should "fill in" the bulk of what we eat to give us enough dietary fiber and hydration.
 - A steady routine of consuming in moderation is more effective than following rules or eating specific foods.
   - Artificial food products (e.g., Soylent, shake diets) won't account for the body's need for trace nutrients.
+- An emphasis on calories can overlook the risks from artificial sweeteners or the actual nutritional content of the food.
 
 Health [trends](people-trends.md) mean something is often marketed as "healthy", but where the vendor added something else:
 
@@ -87,14 +81,37 @@ While the fluoride in toothpaste *can* help with healthy teeth, living in a majo
 - The best improvement to dental hygiene is to get a mechanical toothbrush.
 - With any dental issues, worry more about sugar intake than frequent brushing.
 
-The Standard American Diet (SAD) is *filled* with risks, on several levels:
+## The Standard American Diet (SAD) is *filled* with risks
+
+Broadly, [capitalism](https://gainedin.site/capitalism/) appeals to public desire, which has created a natural emergence of [addictive](addiction.md) food.
+
+1. Most naturally-occurring food is either high-sugar or high-fat.
+   - High-sugar food is quick energy, while high-fat is slow energy, and the brain naturally responds appropriately.
+2. The only naturally-occurring food that's *both* high-sugar and high-fat is breast milk.
+   - The body's response to it goes back to [infancy](parenting-babies.md), and the signal is to eat as much of it as possible.
+   - However, people process it as "rich", so they stop at a specific point.
+3. There's a specific balance of flavor and consistency that provokes a particular addictive craving for each person.
+   - In the 1980s, the Philip Morris company bought multiple large brands and used their large-scale systems to advance food [addiction](addiction.md) (e.g., Kraft, Nabisco, General Foods).
+   - Howard Moskowitz researched the specific point of sweetness, thickness, spice, and chunkiness of pasta sauce in the 1980s, and found clusters of various forms.
+4. There is now a [standard](standards.md) within [marketing](marketing.md) of researching [addiction](addiction-substances.md), then segmenting brands based on known addictive qualities of a product.
+   - A food that quickly disappears (e.g., Cheetos) means the brain doesn't register that it was consumed ("vanishing caloric density").
+   - A bag of Doritos chips reproduces the experience of eating a fruit (bright packaging), a vegetable (crunchy), and meat (spices).
+   - Every snack food has additional salt or oil added, even when there's already natural oil in the food (e.g., potato chips, roasted sunflower seeds).
+   - Adding more sugar, high fructose corn syrup (HFCS), or any other form of natural sweetener almost guarantees people will buy it over a competitor's product.
+     - More simply, removing dietary fiber can achieve the same experience (e.g., orange juice).
+   - Adding salt and oil/fat means more consumption and higher sales, since people will eat more of it.
+
+Beyond the marketing, other factors that make the products less healthy for the advantage of affordability, longer shelf life, or convenience.
 
 1. Too many additives and preservatives, which often demonstrates in products that can last on a shelf for over two years without spoiling whatsoever.
 2. Enormous portions, which guarantee obesity simply from raw calorie count irrespective of the food itself.
-3. Too many carbohydrates in the food, irrespective of being simple or complex, or whether there's enough fiber in it.
-4. Further than this, almost every single American flavor combination is a [patented](legal-ip.md) combination of 80-150 specialized chemicals specifically designed to create a shockwave of flavor sensations that promote [addiction](addiction.md).
+3. Adding oil or fat, especially saturated and trans fat, can obscure bad flavor.
+4. Adding more salt can preserve the food longer and serve as a substitute for a more complex flavor.
+5. Further than this, almost every single American flavor combination is a [patented](legal-ip.md) combination of 80-150 specialized chemicals specifically designed to create a shockwave of flavor sensations that promote [addiction](addiction.md).
 
-While [Big Medi/Pharma](https://gainedin.site/here-2/) may prolong your life, they would prefer your dependence on them.
+## Big Pharma doesn't want you to be healthy
+
+While [Big Medi/Pharma](https://gainedin.site/here-modern/) may prolong your life, they would prefer your dependence on them.
 
 - One of the [cultural](people-culture.md) results of the industry is excessive over-diagnosis that creates unnecessary health scares:
   - Chickenpox is typical in children, and doesn't typically pose any legitimate health risks.
@@ -137,6 +154,7 @@ Generally, aim for enough nutrients:
 - Vitamin C maintains the immune system, so bleeding gums shows a deficiency.
 - Vitamin D combines with calcium to rebuild bones.
   - If you're indoors most of the day, take Vitamin D3 supplements, preferably with K2 to help it deliver calcium.
+  - There have been some [scientific](science.md) reporting errors that have understated how much Vitamin D we need by 1/15 to 1/22 of healthy levels.
 - Vitamin E has antioxidant (general health) properties, and almost anything with antioxidants is healthy (though there's not much [science](science.md) around why).
 - Vitamin K keeps a few systems healthy.
   - Vitamin K2 keeps your teeth strong and calcium out of the blood system's arteries.
@@ -146,6 +164,7 @@ Generally, aim for enough nutrients:
 - Magnesium assists in many processes from muscle function to mental health, and calf cramps and restless legs syndrome at night show a deficiency.
 - Zinc keeps your fingernails pure, so white spots shows a deficiency.
 - Electrolytes are salts that help muscles work better, and shaking hands is a salt deficiency.
+- CoQ10 (coenzyme Q10) is a naturally synthesized antioxidant, and the levels will drop as you age.
 - Focus on eating and supplementing what your body *can't* synthesize itself:
   - Omega-3 fatty acids, which will show a deficiency with dandruff.
   - Potassium (found heavily in bananas)

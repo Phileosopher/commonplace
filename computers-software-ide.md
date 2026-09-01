@@ -45,7 +45,7 @@ However, it also had a very important detail: it was built primarily around exte
 
 However, Sublime Text didn't have package control built-in, and some GUI elements weren't very optimized (because they used custom calls in [Python](computers-languages.md), which isn't very scalable).
 
-Later, in 2014, GitHub (before it was [owned by Microsoft](faang.md) but after Microsoft expressed serious interest in it) designed [Atom](https://atom.io/), which made the package manager built-in. They also displayed graphics inside the software that made it convenient.
+Later, in 2014, GitHub (before it was [owned by Microsoft](computers-bigtech.md) but after Microsoft expressed serious interest in it) designed [Atom](https://atom.io/), which made the package manager built-in. They also displayed graphics inside the software that made it convenient.
 
 In 2015, Microsoft borrowed GitHub's Electron (a very reliable [web/app framework](computers-sofware-webdev.md)) that was released alongside Atom and was able to convert their [Monaco Editor](https://microsoft.github.io/monaco-editor/) into [VS Code](https://code.visualstudio.com/) (or Visual Studio Code), which could run [inside a web browser](https://vscode.dev/) or as a standalone program.
 

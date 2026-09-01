@@ -31,7 +31,7 @@ Each new block is "mined" as it's created, and every node gets an update of the 
 
 ## Hacking blockchain
 
-However, because of [the way encryption works](encryption.md), a hash could be theoretically reproduced. In the above example, what stops a [hacker](hacking.md) from making a fraudulent Block 2 with the same Hash A and Hash B?
+However, because of [the way encryption works](encryption.md), a hash could be theoretically reproduced. In the above example, what stops a [hacker](mind-creativity-hacking.md) from making a fraudulent Block 2 with the same Hash A and Hash B?
 
 - Block 1: BlockInformation - HashA
 - Block 2: HashA - OtherInformation - HashB
@@ -51,7 +51,7 @@ In this case, since the hash is an elaborate mathematical calculation, if you ad
 
 This is called the "proof of work" concept.
 
-Of course, this can *still* get [hacked](hacking.md) if someone's smart enough and determined enough. So, they added another layer of complexity. They'll take *multiple* blocks and slam them together, then create a hash from that with a nonce. In this case, that would mean putting Blocks 1, 2, and 3 together, then putting a nonce on it.
+Of course, this can *still* get [hacked](mind-creativity-hacking.md) if someone's smart enough and determined enough. So, they added another layer of complexity. They'll take *multiple* blocks and slam them together, then create a hash from that with a nonce. In this case, that would mean putting Blocks 1, 2, and 3 together, then putting a nonce on it.
 
 This makes it *very* time-intensive (upwards of years for a hacker's computer to crack).
 
@@ -98,7 +98,7 @@ Blockchain developers get to choose how new NFTs are created, based on existing 
 
 Bitcoin mining uses mathematical problems, and they're mined on a [logarithmic curve](math-algebra-cs.md). That is, they become progressively more work-intensive to mine as the years go by. Only 21,000,000 Bitcoin can ever be "mined".
 
-Crypto mining creates a severe workload on the drive and processor hardware, so many manufacturers have tried to limit crypto mining by making it work inefficiently or voiding the warranty, and [a few have actually used individuals' computers for their own gain without permission](faang.md).
+Crypto mining creates a severe workload on the drive and processor hardware, so many manufacturers have tried to limit crypto mining by making it work inefficiently or voiding the warranty, and [a few have actually used individuals' computers for their own gain without permission](computers-bigtech.md).
 
 ### Implementations
 
@@ -110,7 +110,7 @@ It's worth noting that Bitcoin, specifically, isn't really *one* crypto:
 
 Another popular crypto is Ethereum, which differentiates from Bitcoin because it also has smart contracts. But, again, it's not one crypto:
 
-1. In 2014, [a hacker](hacking.md) stole $50 million dollars of ETC from a startup that used Ethereum.
+1. In 2014, [a hacker](mind-creativity-hacking.md) stole $50 million dollars of ETC from a startup that used Ethereum.
 2. Though the hacker got hacked by seven other hackers, the code implied that it was possible that the hacker was entitled to the ether.
 3. There was an attempt to make a soft [fork](computers-software-versionctrl.md) (that would keep it all together), but it didn't work because of a [security vulnerability](computers-cysec.md) with the consensus system, so the Ethereum Foundation had to create a hard fork called ETH.
 4. ETC became Ethereum Classic, sustained on [GitHub's ethereumproject](https://github.com/ethereumproject), while the Ethereum Foundation has [Twitter's ethereumproject](https://twitter.com/ethereumproject)..
@@ -196,13 +196,13 @@ The more vocal advocates for crypto often imply that the lack of central control
 
 The [aspect of privacy](computers-cysec.md) is also a concern with some blockchain implementations. In many respects, scanning and encoding every human eyeball (like with Worldcoin) or every fingerprint creates a tremendous risk to the natural anonymity we are all accustomed to. Thus, some activists like [Edward Snowden](https://web.archive.org/web/20211101005702/https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto) are vehemently opposed to this type of implementation.
 
-At the same time, its effectiveness only applies to the degree that it works. Very often, databases can be corrupted, and people can [hack](hacking.md) anything that can make them money (such as, for example, using fake [biometric data](computers-cysec-authentication.md) if there's a cash reward for submitting your personal biological information).
+At the same time, its effectiveness only applies to the degree that it works. Very often, databases can be corrupted, and people can [hack](mind-creativity-hacking.md) anything that can make them money (such as, for example, using fake [biometric data](computers-cysec-authentication.md) if there's a cash reward for submitting your personal biological information).
 
 While it's true that cryptocurrency is its own computerized accountant (instead of a bank), this comes at the risk that it's a dumb computer that has *no* intuition to [authenticate](computers-cysec-authentication.md) you versus someone else with a photo of you and your password.
 
 ### Hacks/crimes
 
-[Every typical hacking situation](hacking.md) applies with cryptocurrency, but often with less government pushback than money-based transactions. There are often bots that will "frontrun" transactions with minor changes to glean money on the side, and it's an even more brilliant tactic if they can stay undetected during the transfer.
+[Every typical hacking situation](mind-creativity-hacking.md) applies with cryptocurrency, but often with less government pushback than money-based transactions. There are often bots that will "frontrun" transactions with minor changes to glean money on the side, and it's an even more brilliant tactic if they can stay undetected during the transfer.
 
 The claims around using cryptocurrency is that it will fix corruption, but it can't. [Human nature](humanity.md) has moral failings that have *nothing* to do with money, since everyone has consented to *money* for thousands of years. Even within the first decade of cryptocurrency, bad actors have arisen.
 

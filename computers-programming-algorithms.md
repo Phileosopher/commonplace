@@ -80,11 +80,11 @@ TCP's slow start algorithm is relatively straightforward, but a genius solution 
 
 ## Encryption algorithms
 
-Because of the ubiquity of encryption (as well as the constant changes from all the [password-cracking](hacking.md)), encryption is in an [entirely different domain](encryption.md) than most other algorithms.
+Because of the ubiquity of encryption (as well as the constant changes from all the [password-cracking](mind-creativity-hacking.md)), encryption is in an [entirely different domain](encryption.md) than most other algorithms.
 
 ## Compression algorithms
 
-To send [files](computers-files.md) across a [network](networks-cs.md) or [store long-term](computers-memory.md) without using it, it makes sense to cut down on as much space as possible.
+To send [files](computers-files.md) across a [network](computers-networks.md) or [store long-term](computers-memory.md) without using it, it makes sense to cut down on as much space as possible.
 
 To do this, compression algorithms essentially run a sequential process of shrinking all the data:
 

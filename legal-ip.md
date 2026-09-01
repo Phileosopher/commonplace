@@ -115,7 +115,7 @@ Fair use also allows for commentary, criticism, and news reporting.
 
 Since it doesn't make any money, most fan fiction is under fair use.
 
-The fair use clause is hazy, and publishers [don't always honor it](faang.md).
+The fair use clause is hazy, and publishers [don't always honor it](computers-bigtech.md).
 
 Many technologies (e.g., [AI](computers-ai.md)) can still "create" something very similar that's still fair use.
 
@@ -139,7 +139,7 @@ Very frequently, copyright holders would prefer people simply rent their service
   - For example, [Roald Dahl e-book distributors forced censored versions onto readers](https://archive.fo/OSLQN).
 - More technology available to distribute copyrighted works means [large organizations](groups-large.md) can control more of the experience (i.e., [Wagner's Law](philosophy-lawsaxioms.md)).
 
-For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of pressure](faang.md) with internet-based services to move to a content-moderated platform instead of a system based on downloading or distribution.
+For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of pressure](computers-bigtech.md) with internet-based services to move to a content-moderated platform instead of a system based on downloading or distribution.
 
 - [Digital content](computers-software.md) is constantly changing, along with intellectual property, so legal situations often give it a *shorter* lifespan than content with physical copies.
 - While digital content is easier to distribute, it's also easier to destroy (simply by deleting it), so it's far more volatile without being securely stored across a [distributed system](computers-distsys.md).
@@ -347,7 +347,7 @@ As an intellectual property distributor, you gain more [marketing exposure](mark
 
 Closed licenses create [*many* risks](safety-riskmgmt.md) to an organization and its individuals, and open licenses are safer for consumers and service providers.
 
-- The [Forbidden Fruit Effect](philosophy-lawsaxioms.md) means the chances of that property getting stolen/[hacked](hacking.md) and duplicated becomes more likely.
+- The [Forbidden Fruit Effect](philosophy-lawsaxioms.md) means the chances of that property getting stolen/[hacked](mind-creativity-hacking.md) and duplicated becomes more likely.
 - Any secondary gains you *could* have made from improvements to your property will be lost, while a competing open license will slowly outpace your work.
 - The scope of your legal rights as a user of an open license is *much* wider than conventional intellectual property law permits.
 - By contrast to legal rights, the public *image* of who first [created](creations.md) something is far more important long-term (especially for the history books), which is easier to create with a license that permits easy distribution by the product's users.

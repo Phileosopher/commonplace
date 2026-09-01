@@ -1,5 +1,5 @@
 
-# Examples of FAANG mergers
+# Examples of Big Tech mergers
 
 - [2020-10 Most internet providers are exempted from discussions about tech antitrust issues](https://web.archive.org/web/20201031201414/https://arstechnica.com/tech-policy/2020/10/the-tech-antitrust-problem-no-one-is-talking-about/).
 - [2021-07 1 in 153 employees in the USA works for Amazon](https://web.archive.org/web/20210730163939/https://www.businessinsider.com/amazon-employees-number-1-of-153-us-workers-head-count-2021-7).

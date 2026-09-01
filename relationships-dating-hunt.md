@@ -105,7 +105,7 @@ Search *everywhere* for a date:
 
 Dating website tips:
 
-- In general, most dating websites are a worthless [social media](networks-social.md), so focus more of your effort on in-person encounters.
+- In general, most dating websites are a worthless [social media](computers-networks-social.md), so focus more of your effort on in-person encounters.
 - Use a good photo that captures your personality.
   - Since they're dating you and not your friends, don't use group photos.
   - Unless you're looking for a one-night stand, don't show anything sexually suggestive.

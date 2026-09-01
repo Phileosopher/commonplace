@@ -27,7 +27,7 @@ Windows 1.0 was released in 1985, and ran as software on top of MS-DOS.
 - Windows was more user-friendly by integrating use of the [computer mouse](computers-mouse.md) for *everything*.
 - It was widely popular, and became the standard operating system on most computers for at least a few decades.
 
-Microsoft Windows, up through Windows 3.1, was originally a blatant ripoff of [macOS](computers-os-apple.md), and copied most of the conveniences of Apple's [design](engineering-design.md). Since it was more affordable than Macintosh computers, and ran on almost anything, Windows was able to [dominate the operating system market](faang.md). Even in the 2020s, [Linux](computers-os-unix.md) has made some good contenders, but Windows is still the convention for most non-mobile personal computers.
+Microsoft Windows, up through Windows 3.1, was originally a blatant ripoff of [macOS](computers-os-apple.md), and copied most of the conveniences of Apple's [design](engineering-design.md). Since it was more affordable than Macintosh computers, and ran on almost anything, Windows was able to [dominate the operating system market](computers-bigtech.md). Even in the 2020s, [Linux](computers-os-unix.md) has made some good contenders, but Windows is still the convention for most non-mobile personal computers.
 
 Windows forked a version of Windows called Windows NT in 1993.
 
@@ -35,7 +35,7 @@ Windows forked a version of Windows called Windows NT in 1993.
 - Most consumer users would *never* care for the features in Windows NT.
 - Eventually, its title changed to Windows 2000, then Windows Server, and has been Windows Server ever since.
 
-Windows 95 changed out its design from its 3.1 roots, since Microsoft didn't want a [lawsuit](faang.md) from Apple.
+Windows 95 changed out its design from its 3.1 roots, since Microsoft didn't want a [lawsuit](computers-bigtech.md) from Apple.
 
 - Windows 95 had an industry-changing [interface](engineering-design.md) because it was the first OS to use a child-friendly setup.
 - It used a Start menu in the bottom-left corner (named Start to provoke the user to act), and a visual desktop folder that displayed on the main screen. One of the running jokes for a while was that you had to select Start to shut down.
@@ -86,7 +86,7 @@ By this point, consumers had lost most of their desire to get a new version of W
 Windows 11 didn't do much to add to the experience, and wasn't met with much fanfare in 2021.
 
 - Microsoft added interface elements that made it look more like macOS.
-- On the back-end, Windows 11 was Windows 10 that sent more user data, which has been [trending away from acceptable](faang.md) for many people.
+- On the back-end, Windows 11 was Windows 10 that sent more user data, which has been [trending away from acceptable](computers-bigtech.md) for many people.
 
 ## .NET
 
@@ -126,7 +126,7 @@ Windows became the dominant OS for a very long time. It is now so popular that p
 
 So, since Windows 7, most of the Windows experience has gone downhill. The system has gotten buggier, UX improvements are often *worse* than their predecessors, and the operating system has slowly devolved into near-unreliability.
 
-Further, Windows 11 now demonstrates their primary profit motive comes less from bringing a meaningful user experience than from [collecting user data](faang.md).
+Further, Windows 11 now demonstrates their primary profit motive comes less from bringing a meaningful user experience than from [collecting user data](computers-bigtech.md).
 
 However, for anyone who finds Windows irritating enough, Linux has reached a state of maturity where it is now universally better than Windows. In fact, many Windows-based [software emulation](computers-distsys-vm.md) through Linux (typically via the Wine software) is *better* than running it natively on Windows!
 

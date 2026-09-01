@@ -24,10 +24,10 @@ One of the ways computers track intellectual property is with "digital rights ma
 DRM is highly complicated, for several reasons:
 
 1. Most [intellectual property](legal-ip.md) treats digital content as an extension of physical things, but in computers "moving" anything digitally is actually copy-then-delete. Giving a book to a friend isn't violating copyright, but is technically a violation by emailing it and not deleting the original copy. It's actually *less* work to violate copyright law digitally by sharing a song (copy a file) than doing it legally (copy a file and delete the original).
-2. DRM often breaks the usability for the legitimate owners of the device, meaning users may be *forced* to [hack](hacking.md) their rightfully owned property.
+2. DRM often breaks the usability for the legitimate owners of the device, meaning users may be *forced* to [hack](mind-creativity-hacking.md) their rightfully owned property.
 3. Intellectual property lawyers are often not computer experts, so they aren't aware of #1 when they press charges.
 4. Judges are often not computer experts, so they might enforce intellectual property lawyers' rights without being aware of #1.
-5. The willpower of the hacking/"cracking" community mean very clever [hacks](hacking.md) come out shortly after media releases with DRM:
+5. The willpower of the hacking/"cracking" community mean very clever [hacks](mind-creativity-hacking.md) come out shortly after media releases with DRM:
    - CDs had DRM preinstalled to prevent copying, until someone found out how to remove it by drawing a permanent marker around the edge of the CD.
    - Software keys to register a product are often hiding inside the source code or is a list from a database.
    - Hackers often reverse-engineer the source code, then rebuild the entire thing and release it as an unlocked version.
@@ -53,7 +53,7 @@ There's not much scientific information about money lost on IPs, but the EU *did
 
 This doesn't change the current legality of intellectual property, though. There are specific clauses such as fair use that permit educational purposes and parody, and many varieties of more lenient IPs exist for people who don't feel driven to the severely confining scope of copyright (e.g., [creative commons](legal-ip.md), [LGPL](legal-ip-floss.md)).
 
-This also doesn't touch on the oddness of piracy culture. All of the [hacking](hacking.md) subculture is present, but the cyberpunk motif goes in an even more counter-culture direction. It does make sense, since it takes a certain type of [neurodivergence](mind-neurodivergence.md) to risk utterly punitive civil (and sometimes criminal) liability to reproduce every single cartoon ever made (including the awful ones) or to spend a ton of time [penetration testing](computers-cysec-pentest.md) nothing but sports video games.
+This also doesn't touch on the oddness of piracy culture. All of the [hacking](mind-creativity-hacking.md) subculture is present, but the cyberpunk motif goes in an even more counter-culture direction. It does make sense, since it takes a certain type of [neurodivergence](mind-neurodivergence.md) to risk utterly punitive civil (and sometimes criminal) liability to reproduce every single cartoon ever made (including the awful ones) or to spend a ton of time [penetration testing](computers-cysec-pentest.md) nothing but sports video games.
 
 ## P2P protocols
 
@@ -64,7 +64,7 @@ Before going into the technical side of it, it's worth understanding how "peer-t
 - P2P protocols typically hold an entire network together with a "magnet link", which sends out a communication to the other computers that share that magnet link. If they have the same magnet link, they'll share information.
 - Magnet links can be quickly and easily converted into a [hash](encryption.md) for quickly referencing the information across the internet.
 
-There are [many P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols), but the most popular [network protocol](networks-cs.md) for P2P, by far, is the BitTorrent protocol. "Torrenting" operates on a relatively straightforward system:
+There are [many P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protocols), but the most popular [network protocol](computers-networks.md) for P2P, by far, is the BitTorrent protocol. "Torrenting" operates on a relatively straightforward system:
 
 1. A computer (typically a "tracker") hosts a "magnet link" as a .torrent file, which specifies a [hash](encryption.md) that a BitTorrent "client" can open.
 2. That magnet link refers to one of the clients, which has an authoritative set of complete data.
@@ -75,7 +75,7 @@ There are [many P2P protocols](https://en.wikipedia.org/wiki/List_of_P2P_protoco
    - The emphasis on sending the lowest-available is part of the reason BitTorrent is so difficult to shut down.
 7. If other BitTorrent clients have that same magnet link enabled, they'll *also* upload/download the data, with multiple other clients at once.
 8. Even if a client goes offline, the packet-based transfer means it can resume precisely where it left off.
-9. When there are enough clients seeding, the content has a torrent "swarm", and is pretty much impossible to take down without destroying *all* the [network connections](networks-cs.md) of those computers at once. Enabling a "distributed hash table" (DHT) in the client can magnify user interactions after the initial leeching.
+9. When there are enough clients seeding, the content has a torrent "swarm", and is pretty much impossible to take down without destroying *all* the [network connections](computers-networks.md) of those computers at once. Enabling a "distributed hash table" (DHT) in the client can magnify user interactions after the initial leeching.
 
 The most popular group that manages torrents is the Pirate Bay. They continue to stick around because they never legally hold content, but constantly hold the hashes that point *to* the content that other people hold. It's a legal technicality that keeps them around.
 
@@ -97,7 +97,7 @@ Most private trackers [specialize](jobs-specialization.md) in older, non-mainstr
 - They also typically hire staff who test whether the content is [malware](computers-cysec-malware.md) before seeding it.
 - Further, they'll frequently take content requests for other available media.
 
-The only way to join private trackers is through a well-established reputation on specific invite forums, which often includes uploading new content in some capacity. The content can then be shared indefinitely via a [hosted](computers-distsys-cloud.md) "seedbox" or temporarily via a "debrid". The entire community is *very* close-knit, and tracker managers frequently ban people who abuse the system or [exploit it](hacking.md) via invites.
+The only way to join private trackers is through a well-established reputation on specific invite forums, which often includes uploading new content in some capacity. The content can then be shared indefinitely via a [hosted](computers-distsys-cloud.md) "seedbox" or temporarily via a "debrid". The entire community is *very* close-knit, and tracker managers frequently ban people who abuse the system or [exploit it](mind-creativity-hacking.md) via invites.
 
 The chances of finding [malware](computers-cysec-malware.md) on a public tracker is *much* higher, as well as the odds of being monitored by a government intelligence agency.
 
@@ -110,7 +110,7 @@ To start with, many times the pirating groups find ways to navigate *around* exi
 
 Contrary to the public perspective of everything running through torrents, all of this file-sharing is maintained through a scattered and constantly shifting variety of semi-exclusive social media:
 
-- Public forums on [social media](networks-social.md) (e.g. Reddit)
+- Public forums on [social media](computers-networks-social.md) (e.g. Reddit)
 - Hosted web forums
 - Text messaging groups (e.g., Telegram)
 - Chat services (e.g., Discord)
@@ -147,7 +147,7 @@ While governments often take down indexing for pirated addresses, hosting, and s
 In short, piracy is a portion of the never-ending arms race within the larger domain of [cybersecurity](computers-cysec.md). Every site torn down is only a fraction of where the content is available.
 
 - Any formal efforts to suppress it will, like every other aspect of [human nature](people-rules.md), drive it underground.
-- The implementation of circumventing the law is constantly changing to respond to the situation ([IP](legal-ip.md)-disrespecting government, endless rapidly-deployed [websites](computers-sofware-webdev.md), [new decentralized protocols](standards-computers.md), [new network infrastructure](networks-cs.md)).
+- The implementation of circumventing the law is constantly changing to respond to the situation ([IP](legal-ip.md)-disrespecting government, endless rapidly-deployed [websites](computers-sofware-webdev.md), [new decentralized protocols](standards-computers.md), [new network infrastructure](computers-networks.md)).
 - The piracy community, however, sees the legislative moves as a type of challenge to overcome, and they're *constantly* changing tactics, with endless temporary [storage](computers-memory.md) and [decentralization](computers-distsys.md) for just about everything.
 - In fact, the only way to sufficiently crush internet piracy is to employ a single, worldwide [government](politics-systems.md) that micromanages [human freedoms](people-boundaries-why.md).
 
@@ -161,7 +161,7 @@ The controversy of torrenting has become almost a mainstay of society:
 
 Many software entrepreneurs and executives [aren't particularly aware](people-trends.md) of the mindset of pirates, and it creates a few odd arrangements:
 
-1. Particularly freedom-loving software developers will open the doors wide-open for [complete software freedom](legal-ip-floss.md), which will attract piracy-based users. This may include free [network use](networks-cs.md), free [storage](computers-memory.md), or [free hosting](computers-sofware-webdev.md).
+1. Particularly freedom-loving software developers will open the doors wide-open for [complete software freedom](legal-ip-floss.md), which will attract piracy-based users. This may include free [network use](computers-networks.md), free [storage](computers-memory.md), or [free hosting](computers-sofware-webdev.md).
 2. If they're not careful, that [risk exposure](safety-riskmgmt.md) will make them stand out as the go-to piracy solution, drawing in more users in that community. If they don't diversify their [marketing](marketing.md), they'll become [notorious](people-image-why.md) for piracy-based activities.
 3. Eventually, government authorities will approach those developers, typically either requesting key information about users or to deactivate/delete content. The situation forces them into an ultimatum:
    - Give that information or act on behalf of the government, and receive the public resentment of the piracy world.

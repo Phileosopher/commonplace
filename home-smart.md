@@ -9,7 +9,7 @@ As a general set of rules:
 
 - Have a specific use in mind for the product: don't buy the product and *then* figure out how to use it.
 - Simpler is better, since there are fewer [complexities that could break down the signals](https://adequate.life/fix/).
-- Don't worry as much about [computer networks](networks-cs.md) that "soft" shutdown things as much as things that properly turn power off and on.
+- Don't worry as much about [computer networks](computers-networks.md) that "soft" shutdown things as much as things that properly turn power off and on.
 - Every new network-connected device is another opportunity for a [hacker](computers-cysec-pentest.md).
 
 ## Power outlets
@@ -87,4 +87,4 @@ Motorized shades/blinds
 
 Robot vacuum
 
-- Can be very convenient, but also runs the chance of [giving a map of the floor plan of your home to Big Tech](faang.md)
+- Can be very convenient, but also runs the chance of [giving a map of the floor plan of your home to Big Tech](computers-bigtech.md)

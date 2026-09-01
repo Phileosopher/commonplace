@@ -38,9 +38,11 @@ There are usually fuses placed in a box to precisely detect where the assembly w
 
 The most basic division of wire and cable technology is based on voltage:
 
-- 300V: signaling, controls, [wired communications](networks-cs.md)
+- 300V: signaling, controls, [wired communications](computers-networks.md)
 - 600V: the most widely used, typically for power and light circuits
 - 2kV-25kV: medium-voltage electrical power distribution circuits
+
+At high voltages, power lines have to be separated from any risks of an accidental connection (or nearby due to arc flash). In particular, overhead power lines have [specific clearance requirements based on their rated voltages](engineering-electrical-overheadlines.jpg).
 
 ## Phases
 
@@ -70,7 +72,7 @@ The voltage classifications aren't universally standard, so the IEC and ANSI/NEC
 - Extra Low Voltage (ELV)
   - IEC: below 50V AC or 120V DC
   - Applications include low-power devices like battery systems and control circuits.
-  - This also dovetails closely with [computer signals](networks-cs.md), where the electricity is meant as information instead of power generation.
+  - This also dovetails closely with [computer signals](computers-networks.md), where the electricity is meant as information instead of power generation.
 - Low Voltage (LV)
   - IEC: 50V-1kV AC or 120V-1.5kV DC
   - ANSI/NEC: up to 600V AC
@@ -148,7 +150,7 @@ To prevent ground faults, many places where there may be an undesirable conducto
 2. Weather-resistance to maintain the cable (e.g., waterproofing, heat)
 3. Shielding to prevent the cable from causing risks to others
 4. Risks from degradation to the environment (e.g., lead).
-5. In the case of [signals](networks-cs.md), shielding to prevent interference *with* the conduit (e.g., electromagnetic).
+5. In the case of [signals](computers-networks.md), shielding to prevent interference *with* the conduit (e.g., electromagnetic).
 
 Cables are, therefore, composed of several components:
 

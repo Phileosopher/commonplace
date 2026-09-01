@@ -3,7 +3,7 @@
 
 RSS is powerful, and the protocols will last as long as email.
 
-Using RSS feeds with any feed reader is the number one way to take control of your personal consumption back from [social networks](networks-social.md).
+Using RSS feeds with any feed reader is the number one way to take control of your personal consumption back from [social networks](computers-networks-social.md).
 
 ## Blog/Feed Sites
 

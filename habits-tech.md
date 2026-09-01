@@ -35,6 +35,10 @@ Since that person is in front a computer all day, practically every day, they wi
 - Disabling features in the operating system, or simply downgrading the entire operating system to a lower set of features (e.g., [command line](computers-cli.md)-based).
 - Using a less visually-appealing [IDE](computers-software-ide.md) that's more keyboard-based.
 
+Beyond direct efficiency, the less-than-obvious reason for this "yak shaving" is because they are trying to avoid any technical debt.
+
+- Badly written [documentation](language-writing-documentation-cs.md), terribly commented code, and arbitrary constraints in code that "works" are all time-consuming traps waiting to be sprung later on.
+
 ## Acceptance
 
 Persevering in programming is extremely hard because the perfect logic of computers breaks down in computer code. Computers and their code are so deeply complex and challenging, and a developer is *constantly* learning better techniques, that it's impossible to get anything absolutely perfect.

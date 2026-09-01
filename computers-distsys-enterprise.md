@@ -37,7 +37,7 @@ Server racks have very [industry-specific](standards-computers.md) dimensions:
 
 Each rack pulls out like a drawer, with a lid on it. That way, you can theoretically hold 48 fully separate motherboards in one rack. Of course, weight can be an issue, which is why racks come as 2-post or 4-post to accommodate affordability versus a heavier build.
 
-Thankfully, if you're starting out, a clever [hack](hacking.md) allows you to [make one with an IKEA coffee table](https://wiki.eth0.nl/index.php/LackRack).
+Thankfully, if you're starting out, a clever [hack](mind-creativity-hacking.md) allows you to [make one with an IKEA coffee table](https://wiki.eth0.nl/index.php/LackRack).
 
 ## Large Rooms
 
@@ -61,7 +61,7 @@ However, the extra value and availability of that data means it *must* have at l
 
 - Synchronize all the data across multiple hard drives, to avoid the chance that a hard drive fails with that critical data.
 - Synchronize all the data across multiple locations, just in case a freak tornado or political insurrection destroys the data center.
-- Routinely keep copies in "cold storage" off the network, just in case the servers get [hacked](hacking.md).
+- Routinely keep copies in "cold storage" off the network, just in case the servers get [hacked](mind-creativity-hacking.md).
 - If the organization is large enough, synchronize across multiple data centers across the world to increase data transfer speeds for the customers.
 
 ## Computes
@@ -70,7 +70,7 @@ Consumers tend to use computers sporadically, where they may have some heavy com
 
 Since enterprise computers are often multitasking, they need more "time-sharing" than typical software development needs. Across multiple computes, at least one of the CPUs will end up being a "load balancer" to maintain the work across computes, and sometimes across multiple sites.
 
-To that end, multicore processors aren't the most cost-effective solution, since a core burning out in a 6-core processor would waste 5 cores. For that reason, an industry-standard [hack](hacking.md) is to use GPUs in an array, since they only run 1 processor thread.
+To that end, multicore processors aren't the most cost-effective solution, since a core burning out in a 6-core processor would waste 5 cores. For that reason, an industry-standard [hack](mind-creativity-hacking.md) is to use GPUs in an array, since they only run 1 processor thread.
 
 For diagnostic reasons, the motherboard often integrates a "baseboard management controller" (BMC), which is basically another computer (a "subsystem") build right onto the motherboard. Then, when the processor fails, the BMC can log exactly what happened.
 
@@ -82,12 +82,12 @@ For pre-rendered work (such as Pixar movies), the graphics rendering is run thro
 
 ## Networks
 
-While [networking concepts](networks-cs.md) apply the same in both consumer and enterprise, there are some additional hurdles:
+While [networking concepts](computers-networks.md) apply the same in both consumer and enterprise, there are some additional hurdles:
 
 - IP addresses on a network can get complicated, so networks often need "IP address management" (IPAM) software to track them.
 - Most of the updates and management of the computers will be "out-of-band" to make life easier for the people running the updates. This will require an "intelligent platform management interface" (IPMI) that tracks everything across a [distributed system](computers-distsys.md).
 - Maintaining a "backbone" network that's relatively high-speed (with nothing but expensive routers in it), with the lower-speed computer connections linking to the backbone network.
-- [Cybersecurity](computers-cysec-compliance.md) becomes an extremely complicated [design](engineering-design.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_what.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
+- [Cybersecurity](computers-cysec-compliance.md) becomes an extremely complicated [design](engineering-design.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](mind-creativity-hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_what.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
 
 The room with the servers is often known as the "main distribution frame", while the telecommunications room (with the network switches) may often be in *another* room called the "intermediate distribution frame".
 
@@ -105,7 +105,7 @@ To load-balance, the easiest solution can be to route the end user to the neares
 
 [Cloud implementations](computers-distsys-cloud.md) are often popular now for minimizing latency from long-distance internet connections and making CDNs, and there are several tradeoffs when using them:
 
-- [Security and compliance](computers-cysec-compliance.md) issues, which can include trust issues with [FAANG](faang.md).
+- [Security and compliance](computers-cysec-compliance.md) issues, which can include trust issues with [Big Tech](computers-bigtech.md).
 - Optimizing for [UX](engineering-design.md), including making the experience as fast as possible for the user.
 - Costs, where sometimes a mainframe is more expensive when it's sitting idle than simply renting out hosting from somewhere else.
 

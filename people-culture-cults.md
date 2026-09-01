@@ -47,7 +47,7 @@ Most large groups use the [power of influence](influence.md) in some capacity, b
 - A leader is delusional toward believing they must follow directives that transcend mankind's judgment.
 - A leader is delusional to believing they are simply operating toward the common interests of humanity.
 
-Like the concepts of [power](power.md) or [hacking](hacking.md), we [intuitively](mind-feelings.md) know it when we see it, but have a hard time [defining it](language.md). [Pop culture](stories-storytellers.md) has magnified the manipulation imagery, but cult-like behaviors can happen in any domain.
+Like the concepts of [power](power.md) or [hacking](mind-creativity-hacking.md), we [intuitively](mind-feelings.md) know it when we see it, but have a hard time [defining it](language.md). [Pop culture](stories-storytellers.md) has magnified the manipulation imagery, but cult-like behaviors can happen in any domain.
 
 Most cults start with at least a few of several distinct experiences:
 

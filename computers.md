@@ -83,7 +83,7 @@ To make computers run, they usually need *thousands* of files:
 - There are several major groups for files, though each operating system runs things a little differently.
   - System files are critical to keeping the operating system running.
     - A few missing files might make your mouse not work or make the computer not start.
-    - Unless you have a career in computers or are [hacking](hacking.md), *don't touch system files*.
+    - Unless you have a career in computers or are [hacking](mind-creativity-hacking.md), *don't touch system files*.
     - Some operating systems show a warning to prevent people from breaking their computer.
   - Program files are necessary to run various "applications" you want to use (e.g., word processor, email).
     - If you mess with program files, you might have to reinstall the program.

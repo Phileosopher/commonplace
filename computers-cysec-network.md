@@ -21,7 +21,7 @@ Be careful navigating anything unsigned (which will be [HTTP instead of HTTPS](s
 Most computer security policies manage specific portions of what the computer interacts with:
 
 - Blocking specific ports that will likely send particular unwanted [protocols](standards-computers.md).
-- Blocking [networks](networks-cs.md) that may be insecure.
+- Blocking [networks](computers-networks.md) that may be insecure.
 - Blocking certain forms of code that may run on system files or read user-made documents.
 
 Disable *any* unused ports:
@@ -40,7 +40,7 @@ Disable all internet router features that won't be used:
 - Bluetooth
 - Wi-Fi
 - Universal Plug n Play (UPnP) has been compromised for a while.
-- WPS (Wi-Fi Protected Setup) involves joining a wireless network by pressing a button on the router and entering an 8-digit pit, but hackers were able to [brute force](hacking.md) that PIN as of 2011.
+- WPS (Wi-Fi Protected Setup) involves joining a wireless network by pressing a button on the router and entering an 8-digit pit, but hackers were able to [brute force](mind-creativity-hacking.md) that PIN as of 2011.
 - Turn gateway devices to Bridge mode unless they're the means of connecting to the internet.
 
 ## End-to-end encryption (E2E)
@@ -49,7 +49,7 @@ One of the most important aspects of keeping a network safe is to have "end-to-e
 
 ## Domain name servers (DNS)
 
-One of the easiest forms of [network](networks-cs.md) hardening involves sending "DNS" requests to a safe [DNS server](computers-browser-domains.md).
+One of the easiest forms of [network](computers-networks.md) hardening involves sending "DNS" requests to a safe [DNS server](computers-browser-domains.md).
 
 - You *can* easily set up your own DNS server, but it's worth researching to find a good one elsewhere, at least as a backup if yours fails. Otherwise, you won't get on the internet at all!
 
@@ -88,4 +88,4 @@ Wireless networks are a *huge* vulnerability because they weren't designed to be
 - Always, *always* use a VPN over a public network.
 - Try to avoid doing highly important things (like banking) on public networks.
 
-[Hackers](hacking.md) can hit public Wi-Fi networks with a "man-in-the-middle attack" by using the same [SSID](networks-cs.md) as the public network. Pay close attention to which network you're logging into, and never check the box to automatically connect to a public Wi-Fi network.
+[Hackers](mind-creativity-hacking.md) can hit public Wi-Fi networks with a "man-in-the-middle attack" by using the same [SSID](computers-networks.md) as the public network. Pay close attention to which network you're logging into, and never check the box to automatically connect to a public Wi-Fi network.

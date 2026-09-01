@@ -39,7 +39,7 @@ Many cultural standards are established from the [natural environment](reality.m
 - Coastal societies require more people to know how to swim, which gives more tolerance for [the unknown](unknown.md).
 - Societies with more [technology](technology.md) have more order, implemented as [bureaucracy](bureaucracy.md).
 - People groups with limited access to other people groups will be more self-sufficient and less sociable.
-- Societies with more [networked *information* technology](networks-cs.md) will trust a [data reputation](people-image-modern.md) over their [story](stories-why.md).
+- Societies with more [networked *information* technology](computers-networks.md) will trust a [data reputation](people-image-modern.md) over their [story](stories-why.md).
 
 Many cultures also draw from their surrounding cultures. An isolated tribe will only pull from nature, but a culture spread across many other cultural groups will adopt a plethora of small details from each.
 

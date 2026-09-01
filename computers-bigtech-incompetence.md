@@ -1,5 +1,5 @@
 
-# Exmaples of FAANG incompetence
+# Exmaples of Big Tech incompetence
 
 Multiple Large Entities
 

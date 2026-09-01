@@ -346,7 +346,7 @@ Computers, by their nature, are *highly* ordered. While this can be very conveni
 
 Thus, while [well-designed systems](computers-software.md) can satisfy 90% of everyone's needs (or 95% with [clever design](engineering-design.md), or 99% in the case of [AI implementations](computers-ai.md)), there must be a redundant fallback that *isn't* a computer.
 
-Without any fallback, the system will slowly devolve into yet another FAANG system, with minimal [customer service](people-customerservice.md) and new [tech startups](entrepreneur-1_what.md) that will attempt to fill the gap with more technology.
+Without any fallback, the system will slowly devolve into yet another Big Tech system, with minimal [customer service](people-customerservice.md) and new [tech startups](entrepreneur-1_what.md) that will attempt to fill the gap with more technology.
 
 Every well-designed system integrated heavily with technology needs a third-party ombudsman to mediate conflicts which may arise between people inside the organization and outside it. They have to be outside normal channels, and should receive far more [authority](power-types.md) than any tiered technician or middle manager.
 

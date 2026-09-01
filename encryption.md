@@ -3,7 +3,7 @@
 
 Not all information is safe to publicly use. Bank account information or your password, for example.
 
-For that matter, a sufficiently experienced [hacker](hacking.md) can reconstruct information from seemingly useless information (discerning the user's routine by reading a log file of when the system powers on and off, for example).
+For that matter, a sufficiently experienced [hacker](mind-creativity-hacking.md) can reconstruct information from seemingly useless information (discerning the user's routine by reading a log file of when the system powers on and off, for example).
 
 No particular computer is trustworthy, either. "Whitelisting" MAC addresses or IP addresses is also a bad idea, since they're easy for hackers to "spoof".
 
@@ -102,7 +102,7 @@ However, computers can use several possible types of encryption systems:
   - Unfortunately, sending a key to decrypt information is also sending the means to encrypt it as well.
 - Assymetric/public key: one key encrypts, and another decrypts.
   - e.g., Computer 1 encodes ABC into XYZ with Key 1, Computer 2 uses Key 2 to decode XYZ back into ABC.
-  - Very useful for internet transfers (on [Layer 6](networks-cs.md)), since *anyone* can freely access the encryption key as long as the decryption key is private. TLS and SSL are the most popular internet encryption [protocols](standards-computers.md).
+  - Very useful for internet transfers (on [Layer 6](computers-networks.md)), since *anyone* can freely access the encryption key as long as the decryption key is private. TLS and SSL are the most popular internet encryption [protocols](standards-computers.md).
 
 These "ciphers" can be mixed and matched to create hybrid ciphers.
 
@@ -152,7 +152,7 @@ The base64 encoder and decoder uses the "secure socket layer" (SSL) [protocol](s
 
 ## Attacks
 
-Cryptanalysis uses a variety of techniques to break ciphers. It's worth noting that, while everyone who is cryptanalyzing is [hacking](hacking.md) (and many are [PenTesting](computers-cysec-pentest.md)), very few hackers or PenTesters will cryptanalyze.
+Cryptanalysis uses a variety of techniques to break ciphers. It's worth noting that, while everyone who is cryptanalyzing is [hacking](mind-creativity-hacking.md) (and many are [PenTesting](computers-cysec-pentest.md)), very few hackers or PenTesters will cryptanalyze.
 
 It is impossible to have an indecipherable message. All encryption can be broken with a brute force attack. However, it's not sensible to apply resources toward it. Why spend 30,000 hours of computer processing cracking a password that will give the attacker $100 of payout or evidence of a misdemeanor? This is one of the strengths of [blockchain](computers-blockchain.md) cryptocurrency.
 

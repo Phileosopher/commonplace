@@ -3,7 +3,7 @@
 
 NOTE: I'm not a journalist, and my citations are neither exhaustive nor comprehensive. The infractions go back farther than I'm writing here, and they will go farther into the future than I'll ever write. This is just to show the scope within a window of time as someone in the "biz" about what I've run across, and for brevity's sake I cut off the news at the end of 2023.
 
-[Hackers](hacking.md) aren't the only groups that individual users should be concerned about. Large organizations have tremendous information power.
+[Hackers](mind-creativity-hacking.md) aren't the only groups that individual users should be concerned about. Large organizations have tremendous information power.
 
 Since the beginning of [the American Military-Industrial Complex](https://gainedin.site/here-2/) focusing on [decrypting](encryption.md) German submarines in World War II, the complexity of computers has meant there have always been [huge, monolithic organizations](groups-large.md) that design most of the software/hardware. Then, a horde of various smaller public and private organizations design smaller things around it or create [open-source alternatives](legal-ip-floss.md):
 
@@ -20,7 +20,7 @@ Since the beginning of [the American Military-Industrial Complex](https://gained
 - During the dot-com boom in the 1990s, computers shifted to becoming [internet](computers-sofware-webdev.md)-centric, and a few tech companies rose to the top in their respective specializations once mobile devices became ubiquitous. In the mid-1990s, Microsoft almost entirely used Internet Explorer 6 to turn the internet into a Microsoft-themed walled garden.
 - After the dot-com crash, FAANG emerged after a decade: Facebook/Meta, Apple, Amazon, Netflix, and Google/Alphabet, but other companies like Tencent (owned by China) and Microsoft still fit into it as well.
 - Given the tremendous power that comes from all the data extraction, governments can often fit into this as well, so this issue isn't strictly a matter of corporate power.
-- Lately, the acronym is more accurately Facebook/Apple/Microsoft/Amazon/Government, or FAMAG.
+- Lately, the Magnificent Seven have merged, tied mostly to [machine learning](computers-ai-ml.md): Alphabet, Amazon, Apple, Tesla, Meta, Microsoft, and NVIDIA.
 - Most recently, in the 2020s, there has been significant public attention toward [privacy](people-boundaries-why.md), and new [AI technology](computers-ai.md) in the 2020s has been released on an open-source license, so corporations have been scrambling to find ways to profit while also *not* losing customers.
 
 The largest difference between the computers of today and of decades ago (besides processing speed) comes in how networked they all are. Up to the internet becoming popular, computers were stand-alone, so the information couldn't be used as quickly, and often required physically inserting a disk into the computer. Now, the computers are all linked together, communicating exponentially more information, and *constantly*.
@@ -49,7 +49,7 @@ In technology industries specifically, antitrust litigation is more difficult th
 - With the right angle, entire *industries* are difficult to clarify. Even if Amazon controls 90% of all [web servers](computers-distsys-enterprise.md), is it a monopoly when someone else can theoretically [spin up their own](computers-distsys-enterprise.md)?
 - More specialized technology means more capacity to gain complete dominance. For example, in a classical sense most social media is a feed-based [database](database.md), with granted [permissions](computers-cysec-authentication.md) being defined as following/subscribing/friends.
 
-[A few examples of the results of this power consolidation](faang-merging.md).
+[A few examples of the results of this power consolidation](computers-bigtech-merging.md).
 
 ## Privacy/spying
 
@@ -62,7 +62,7 @@ While much of the collected data is necessary for [debugging](computers-software
 
 Generally, the larger and more powerful the organization and the more features the software has, the more trackers and permissions it'll ask for. Unfortunately, many [operating systems](computers-os.md) design software permissions as opt-in with no timeout, so that one time you use a voice recording feature may mean the organization will track everything you say for the functional life of the device.
 
-Most countries around the world [have their systems](https://en.wikipedia.org/wiki/Global_surveillance) to [monitor everyone's activities](faang-spying.md), and they can often use that information in their governance.
+Most countries around the world [have their systems](https://en.wikipedia.org/wiki/Global_surveillance) to [monitor everyone's activities](computers-bigtech-spying.md), and they can often use that information in their governance.
 
 This isn't always without merit. For example, the battle for intel is why [the US and China fight over naval dominance over undersea network cables](https://web.archive.org/web/20230324115141/https://www.reuters.com/investigates/special-report/us-china-tech-cables/).
 
@@ -70,7 +70,7 @@ As time goes on and technologies improve, it becomes increasingly trivial for la
 
 ### E2E
 
-One of the best ways to stay private is using end-to-end [encryption](encryption.md), which means only the sender and intended recipient can see the content. This means anyone who intercepts or holds it (e.g., the company that holds the [cloud storage](computers-distsys-cloud.md), a government official) won't be able to see what it is. [Many entities don't like this](faang-e2e.md).
+One of the best ways to stay private is using end-to-end [encryption](encryption.md), which means only the sender and intended recipient can see the content. This means anyone who intercepts or holds it (e.g., the company that holds the [cloud storage](computers-distsys-cloud.md), a government official) won't be able to see what it is. [Many entities don't like this](computers-bigtech-e2e.md).
 
 There's plenty of reason for governments to rally support for their cause, so they'll [distort the truth](people-image-distortion.md) and shut down E2E as much as they can.
 
@@ -88,7 +88,7 @@ Private organizations can often customize an algorithm to created personalized t
 
 Those systems can be terrifyingly accurate across millions of people, and with a [surprisingly small amount of information](https://web.archive.org/web/20220219225855/https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles). They can essentially tailor behaviors to 3-5 people they know who are just like you, then provide a precisely tailored [marketing experience](marketing.md) that works to their best interests.
 
-There is [a multi-*billion* dollar industry for this user data](https://web.archive.org/web/20210930121000/https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data), so the allure to sell it is [too much for most companies to turn down](faang-userdata.md).
+There is [a multi-*billion* dollar industry for this user data](https://web.archive.org/web/20210930121000/https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data), so the allure to sell it is [too much for most companies to turn down](computers-bigtech-userdata.md).
 
 However, they don't want you observing them doing it:
 
@@ -104,7 +104,7 @@ Occasionally, an organization will abuse private individuals' trust by using the
 
 It's worth noting that machine learning can provide a whole new plethora of tools to stifle free speech.
 
-The issue, in all cases, is [using the computer resources without the users' explicit consent](faang-distsys.md).
+The issue, in all cases, is [using the computer resources without the users' explicit consent](computers-bigtech-distsys.md).
 
 ## Cyberbullying
 
@@ -113,7 +113,7 @@ Powerful organizations don't like a few things:
 - Threats to that organization's power (or that organization's partners' power).
 - Differing [political views](power-types.md) that may work against the desires of that organization.
 
-If you trust large organizations on the presumption that "larger is more secure", don't be surprised when you face tremendous banning/blocking/silencing. They'll very frequently create [horrifying bureaucratic automated systems](mgmt-badsystems.md) to [enforce those policies](faang-bullying.md), where there's little to no chance for individuals to question or appeal their unique situation without public defamation on social media.
+If you trust large organizations on the presumption that "larger is more secure", don't be surprised when you face tremendous banning/blocking/silencing. They'll very frequently create [horrifying bureaucratic automated systems](mgmt-badsystems.md) to [enforce those policies](computers-bigtech-bullying.md), where there's little to no chance for individuals to question or appeal their unique situation without public defamation on social media.
 
 ## Cyber-coercion
 
@@ -127,13 +127,13 @@ There are different versions of this:
 
 Another mechanism to manipulate the situation is to prevent net neutrality:
 
-1. By its nature, a computer should be unaware of what it sends and receives on the [lower networking layers](networks-cs.md).
+1. By its nature, a computer should be unaware of what it sends and receives on the [lower networking layers](computers-networks.md).
 2. Software *in the computer itself* should monitor that information for risks (i.e., layers 5 and up).
 3. Internet service providers are giving the lowest network layers (i.e., levels up to 4), so they shouldn't monitor that information.
 4. However, there is plenty of political incentive to allow prioritized web traffic for some websites over others.
 5. If implemented, the internet service provider both gets to see everything someone does, and also steer traffic as they wish.
 
-[There are many examples of this](faang-deception.md).
+[There are many examples of this](computers-bigtech-deception.md).
 
 ## The right to repair
 
@@ -147,10 +147,10 @@ This is a [scientifically proven trend with electronics](https://web.archive.org
 
 Users can push back on this by learning [how to replace parts](https://adequate.life/fix/), meaning an aftermarket battery or hard drive can often make devices last *years* beyond when the company wants them to buy another product.
 
-Since the consumers aren't making large companies any money by doing this, they often try to thwart the users' "[right](people-boundaries-why.md) to repair" by [inserting arbitrary barriers to the product or obstructing the users' rights](faang-r2r.md).
+Since the consumers aren't making large companies any money by doing this, they often try to thwart the users' "[right](people-boundaries-why.md) to repair" by [inserting arbitrary barriers to the product or obstructing the users' rights](computers-bigtech-r2r.md).
 
 This makes general sense about why people accept this situation. As computers get [cheaper and smaller](computers-embedded.md), they become more commodities than tools. However, it means people can't repair their things, meaning that companies can ratchet up prices with consumers being stuck either paying for it or living without it. It also means it creates more waste.
 
 ## Incompetence
 
-Of course, large organizations are made of many people, and humanity is prone to fallacy. Sometimes, things fall through the cracks in [large, unwieldy systems](mgmt-badsystems.md) with [zero malicious intent](faang-incompetence.md):
+Of course, large organizations are made of many people, and humanity is prone to fallacy. Sometimes, things fall through the cracks in [large, unwieldy systems](mgmt-badsystems.md) with [zero malicious intent](computers-bigtech-incompetence.md):

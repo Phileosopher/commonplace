@@ -7,7 +7,7 @@ A job search is you, a product, marketing yourself to potential employers:
   - You're trying to tell a convincing [story](stories-why.md) to a manager who needs someone for a job role.
 - You're a consultant filling a role, not simply a commodity.
 
-Besides [crafting a résumé](language-writing-resume.md), your [social network](networks-social.md) presence is a critical portion of the job search:
+Besides [crafting a résumé](language-writing-resume.md), your [social network](computers-networks-social.md) presence is a critical portion of the job search:
 
 - Even if you don't use social networks, a void in your online presence will make hiring managers wonder why.
 - Display great photos throughout your networks that enforce your "personal brand".
@@ -203,7 +203,7 @@ Avoid over-posting:
 
 ## Other social networks/sites
 
-Use any job sites or [social networks](networks-social.md) your industry typically uses.
+Use any job sites or [social networks](computers-networks-social.md) your industry typically uses.
 
 At the same time, don't spend time on any employment social networks or job sites with very few job posts.
 

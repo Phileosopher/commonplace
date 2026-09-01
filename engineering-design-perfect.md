@@ -19,7 +19,7 @@ The manufacture of the design should be the same as the design, with zero waste 
 
 ## Centralization
 
-If there are any components that must be managed from a central source, make sure *all* control components are eternally online. Have redundancy to make sure it never fails, and make flawless security in it to protect it from [being hacked or creatively reused](hacking.md).
+If there are any components that must be managed from a central source, make sure *all* control components are eternally online. Have redundancy to make sure it never fails, and make flawless security in it to protect it from [being hacked or creatively reused](mind-creativity-hacking.md).
 
 If a human must keep track of it, make sure there are at least 2-3 other humans who can maintain it, and do it on a revolving cycle (such as board-appointed voting) to prevent fraud or misuse. Keep a regulatory committee available to prevent those people from [abusing their power](power-types.md).
 

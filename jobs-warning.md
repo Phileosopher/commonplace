@@ -3,6 +3,13 @@
 
 Closely examine *anything* you feel or might feel disrespected or violated.
 
+## Their public reputation
+
+They, or their leadership, have some type of [legal trouble](legal-safety.md).
+
+- Even if the job pays well, there's a very high chance they'll continue doing whatever they were doing.
+- There's also a very high chance that they may use *you* to shift blame for whatever they're doing.
+
 ## The people you'll likely work with
 
 You might experience several rounds of interviews before meeting a potential coworker.
@@ -79,17 +86,25 @@ When asked about overtime, the interviewer indicates that people like to stick a
 
 ## Deep corporate dysfunction
 
+At least some of the leadership have zero [sense of humor](humor.md):
+
+- If they can't accept that some things in life are simply ridiculous, they will likely have a hard time accepting you ever failing, even when you did your absolute best and it was beyond your control.
+- This is also often a sign of [Cluster B personality disorder](mind-neurodivergence-clusterb.md), which means [they will abuse you](hardship-abuse-narcissist-stages.md).
+
 When the interviewer is asked about what they like about working there, they respond by describing the location of the work:
 
 - They don't want to openly admit to a candidate that they hate their role.
 
-Many new employees in a long-standing business:
+The organization is either missing an entire seniority range or generation:
 
-- The company is experiencing a high employee turnover rate because people keep quitting or getting fired.
-
-The business is run almost exclusively by people who have been in the company a long time:
-
-- They're resistant to any change whatsoever, and expect everyone to conform to their wishes.
+- Many new employees in a long-standing business:
+  - The company is experiencing a high employee turnover rate because people keep quitting or getting fired.
+- The business is run almost exclusively by people who have been in the company a long time:
+  - They're resistant to any change whatsoever, and expect everyone to conform to their wishes.
+- There aren't any junior, mid-level, or senior workers:
+  - No junior workers means they burn out and go somewhere else.
+  - No mid-level workers means nobody respects their ideas (which are often very good) or they often get fired before they get into that role.
+  - No senior workers means they see something nobody else does.
 
 Not enough appropriate communication in the office:
 
@@ -99,7 +114,7 @@ Little or no respect for others' time and talent:
 
 - Nobody will care about your time.
 
-Little or no sense of remorse for wrongdoing or violating boundaries.
+Little or no sense of remorse for wrongdoing or violating [boundaries](people-boundaries.md):
 
 - Nobody respects your skills and talents.
 
@@ -111,6 +126,10 @@ The potential employer asks for money from you before you begin working there:
 Employees see pay grades as a type of status:
 
 - Gifted, intelligent people don't care about money and don't determine their worth with paychecks.
+
+The employee perks outweigh the salary:
+
+- It makes sense to give a gym and catered food to high-performance employees who make $100K a year, but is a [coercive tactic](power-influence.md) for low-paying jobs and internships.
 
 ## Over-controlling company policies
 
@@ -168,3 +187,25 @@ The one exception to this situation is *trade* unions.
 - Trade unions work off a very old tradition built around apprenticeships, which is a type of [temporary slavery](people-slavery.md) while someone learns a craft.
 - The pay and benefits are usually *much* better in trade unions, and many of them are highly well-respected roles.
 - Further, while employment unions track seniority for promotions and pay, trade unions typically treat all journeymen workers as equal no matter how long they've been there.
+
+## Tech industry risks
+
+[Most of the industry is built on lies](jobs-suck-cs.md), and the purpose of [management theories like Agile](mgmt-2_projects-theories.md) is to impress people more than get things done.
+
+- However, young managers are *very* common in the industry, who often believe [college](jobs-college.md) guarantees competence.
+- Therefore, most of the tech industry is filled with warning signs, and you should focus instead on what you will have in a role.
+
+You should always have several things, and leave ASAP if you see one of them missing:
+
+- [Bug tracking](computers-software-redesign.md), to have more information to [fix things](https://adequate.life/fix/).
+- [Source control](computers-software-versionctrl.md), to maintain when things fail.
+
+While not a complete deal-breaker, be very careful of the commitments you make without examining the code and documentation first.
+
+- If the work was done by terrible contractors in the past, you will have exponentially more work than you may realize.
+
+Any of the following is a fortunate and somewhat rare thing:
+
+- You can work uninterrupted for long periods, since business demands will stop everything.
+- You have a dedicated [QA staff](computers-software-redesign.md) to make sure everything works.
+- The project is for something you actually [believe in](values.md).

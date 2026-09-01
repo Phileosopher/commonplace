@@ -283,7 +283,7 @@ The Over-Information Age has effectively reversed the constraints:
 - We can learn just about anything almost immediately, which can easily build a chain of endlessly developing amateur skills in something without polishing that understanding or task into [mastery](professionals.md).
 - [Information technology](computers.md) allows one person to perform the work of 20 people from 100 years ago, which can add value through better results but also diminishes the entire experience.
 
-Our inherently social nature, mixed with the ubiquity of [social media](networks-social.md), have passively engineered us to perform off-the-cuff communication, which shortcuts the neocortex.
+Our inherently social nature, mixed with the ubiquity of [social media](computers-networks-social.md), have passively engineered us to perform off-the-cuff communication, which shortcuts the neocortex.
 
 The sheer supply of information will create an [economic devaluation](money-economics.md), but off-hand information means that much of that excessive information will be *bad* information. That thing you wanted to say will become more semi-decent noise for others to sift through.
 

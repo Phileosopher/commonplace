@@ -10,7 +10,7 @@ Because of their ubiquity, the most popular operating systems more-or-less set t
 - An Apple-proprietary OS called macOS. It had many great ideas (and has some of the best [UX](engineering-design.md) around), but has fallen in quality as of the early 2020s. It still comes on Apple desktops/laptops. It's based on Unix. Apple also has iOS for their mobile devices that was directly pulled from macOS.
 - A Microsoft-proprietary OS called [Windows](computers-os-windows.md) that blatantly ripped off macOS dominated the market in the 1980s because it was affordable and ran on most computers. As of 2022, it still dominates the desktop/laptop PC market.
 - An [open-source](legal-ip-floss.md) kernel of [Unix](computers-os-unix.md) called Linux. It has a vast variety of "distros", so it's a bit more open-ended.
-- A Google-proprietary OS [built on Linux](computers-os-unix.md) called Android. It runs on most mobile devices that don't run iOS, though [lawsuits against Google's user data policies](faang.md) may change that from their hold in the early 2020s.
+- A Google-proprietary OS [built on Linux](computers-os-unix.md) called Android. It runs on most mobile devices that don't run iOS, though [lawsuits against Google's user data policies](computers-bigtech.md) may change that from their hold in the early 2020s.
 
 ## Kernel design
 
@@ -57,7 +57,7 @@ There are many default programs built into most general-purpose operating system
   - Windows - press CTRL+SHIFT+ESC (or CTRL+ALT+DEL if it's an old version of Windows)
   - Linux - type "top" from a terminal (or quickly upgrade to htop with "sudo [usually apt or dnf] install htop")
   - Mac - access via Launchpad->Other->Activity Monitor or the Dock's Application/Utilities/Activity Monitor
-- Notifications to indicate events from the system or relevant updated information from across a [network](networks-cs.md).
+- Notifications to indicate events from the system or relevant updated information from across a [network](computers-networks.md).
 - A shortcut system that allows quick access to programs, documents, and various scripts. In a [console-based GUI](computers-cli.md), quick-reference help documentation on the commands and their syntax.
 - A "clipboard" system that allows copying something, then pasting it somewhere else.
 - To prevent [malicious actors](computers-cysec-pentest.md), a built-in scanner/verification process to [authenticate](computers-cysec-authentication.md) the validity of a program that's about to run.

@@ -42,11 +42,11 @@ There are different types of conventional network "topologies" to connect comput
   - Partially meshed topologies have 2+ computers each with 2+ connections to other computers.
   - Fully meshed topologies have *all* the computers connected directly to *all* the other computers. Expensive, but safe.
 
-Generally, any network topology that values complete "redundancy" should have 2 backup connections for every connection. This can be expensive depending on how it's implemented, so most [enterprise IT](computers-distsys-enterprise.md) only keeps 1 unless they're [very large](faang.md).
+Generally, any network topology that values complete "redundancy" should have 2 backup connections for every connection. This can be expensive depending on how it's implemented, so most [enterprise IT](computers-distsys-enterprise.md) only keeps 1 unless they're [very large](computers-bigtech.md).
 
 ## Protocols/layers
 
-Due to the complexity of a computer network, there is [a specific set of layers](networks-cs-layers.md) to understand how network information is sent.
+Due to the complexity of a computer network, there is [a specific set of layers](computers-networks-layers.md) to understand how network information is sent.
 
 ## LANs
 
@@ -89,7 +89,7 @@ It takes a terrifying amount of time to do a network audit later without any of 
 
 Two specific traits give carriers that control networks a *lot* of [power](power-types.md), proportional to their usage and up to legal constraints:
 
-1. Carriers [have access to *all* the information that travels through their system](faang.md).
+1. Carriers [have access to *all* the information that travels through their system](computers-bigtech.md).
 2. They can also shut off or throttle data at their discretion.
 
 There are only 3 ways to keep carriers accountable to prevent abuse:
@@ -100,7 +100,7 @@ There are only 3 ways to keep carriers accountable to prevent abuse:
 
 ## More information
 
-[Specific networking trivia](networks-cs-specific.md)
+[Specific networking trivia](computers-networks-specific.md)
 
 [Practical Networking](https://www.practicalnetworking.net/)
 

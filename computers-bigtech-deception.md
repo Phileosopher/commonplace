@@ -1,5 +1,5 @@
 
-# Examples of FAANG using deception to hide their practices
+# Examples of Big Tech using deception to hide their practices
 
 Government - China
 
@@ -156,4 +156,4 @@ Other
 - [2023-09 Unity has silently deleted the GitHub repository that tracks changes to its terms of service](https://web.archive.org/web/20230914081708/https://old.reddit.com/r/gamedev/comments/16hnibp/unity_silently_removed_their_github_repo_to_track/).
 - [2023-11 Chamberlain Group is removing MyQ support from their garage doors, meaning the open-source Home Assistant won't work with their products](https://web.archive.org/web/20231109014546/https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/).
 
-There is also [intellectual property abuse](faang-deception-ip.md) as well.
+There is also [intellectual property abuse](computers-bigtech-deception-ip.md) as well.

@@ -95,7 +95,7 @@ Choice overload can be a very frequent problem, and every [decision](mind-decisi
 3. Avoid *any* unnecessary friction which could make decision-making more difficult for the user.
    - Make categories as meaningful as possible for the customer.
    - When a decision is likely, pre-select for them to allow them more convenience.
-   - Personalize the experience for them, but not so much that they [feel their privacy was violated](faang.md).
+   - Personalize the experience for them, but not so much that they [feel their privacy was violated](computers-bigtech.md).
 4. Delay optional or difficult tasks.
    - Remove the least-selected items completely, especially when there's no distinctive difference between elements.
 
@@ -125,7 +125,7 @@ In the absence of being able to reliably communicate, [documentation](language-w
 
 Make sure to record the documentation *before* wrapping up the project or closing everything in. After the concrete has hardened, the software has been compiled, the network is live, and the engineers have left, there should be plenty of information to indicate how everything works inside.
 
-If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](networks-cs.md)), make sure the content is legible:
+If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](computers-networks.md)), make sure the content is legible:
 
 - Avoid using similar symbols (e.g., S vs. 5).
 - Group the elements out with standardized characters (e.g., 513-424-0945, 8/192.168.0.1).

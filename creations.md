@@ -109,7 +109,7 @@ APPLICATION: If someone imagines something as "the best", consider what they're 
 
 One of the most profound creations is a "hack". By using something beyond its originally designated or [culturally acceptable](people-culture.md) [purpose](purpose.md), someone can use a familiar object outside its expected area:
 
-- [Altering computer code](hacking.md) to make software run differently than it was originally designed.
+- [Altering computer code](mind-creativity-hacking.md) to make software run differently than it was originally designed.
 - Using a screwdriver to hold open a door.
 - Using common office supplies to secure an object.
 - Finding the easiest way [to learn something](mind-understanding.md).

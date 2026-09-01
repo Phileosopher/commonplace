@@ -42,7 +42,7 @@ To compensate for OLED, LED now uses "quantum dots" (small pixels only a few nan
 
 Many limited-use computers, like clock radios or air conditioner controllers, don't need much for a visual display, so engineers settle for cheap, large panels shaped for simple character expression (typically LCD) and illuminated by a backlight.
 
-Since about 2010, computer screens and televisions have been functionally the same. The only difference, beyond the television having its own fully functioning proprietary [computer](computers-hardware.md) inside it, is that the television [tracks more user data and may advertise products for users to purchase](faang.md).
+Since about 2010, computer screens and televisions have been functionally the same. The only difference, beyond the television having its own fully functioning proprietary [computer](computers-hardware.md) inside it, is that the television [tracks more user data and may advertise products for users to purchase](computers-bigtech.md).
 
 One relatively newer technology with tons of promise is e-ink. It uses negatively charged black pigment and positively charged white pigment on a type of paper, which will jump to the top of the screen based on the charge. This is easier on the eyes because someone is viewing pigmentation (like with [printed](engineering-printers.md) paper) instead of visible light. Most of its screen implementations also *feel* like paper. The only downside is that paper is relatively cheap, while these paper-like devices would cost at least 100x the price of a notepad even if it was made as cheaply as possible.
 

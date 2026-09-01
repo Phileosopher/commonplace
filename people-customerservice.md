@@ -165,7 +165,7 @@ Learn to be more consistent than accommodating.
 
 At some point, a customer may start becoming irate and make threats.
 
-- Often, their threats are meaningless, but the types of people who cause lots of trouble are also more likely to post their information on [social media](networks-social.md).
+- Often, their threats are meaningless, but the types of people who cause lots of trouble are also more likely to post their information on [social media](computers-networks-social.md).
 - The best solution is to do what you can to help them within your power, then later confront any falsehoods they indicate on social media with clear facts about their alleged encounter, preferably with proof.
 
 Avoid words that may provoke adverse feelings, such as "canceled", "declined", "failed", and "broken".

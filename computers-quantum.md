@@ -93,4 +93,4 @@ Later, we may see [high-level languages](computers-languages.md), [compilers](co
 
 In fact, many quantum computer developers are already working on [programming](computers-languages.md) within the quantum computing field, even if there's not much hardware right now that can actually *run* the software. In effect, its abstraction is a very far extension of parallel processing.
 
-However, quantum computers can become an immense source of [informational power](power-types.md). They'd be able to sift through [the unbelievably massive piles of accumulated data obtained by many corporations and governments](faang.md), and the people in power would have a tremendous edge in [whatever they wish to do](purpose.md). This could be a [major risk](mgmt-badsystems.md).
+However, quantum computers can become an immense source of [informational power](power-types.md). They'd be able to sift through [the unbelievably massive piles of accumulated data obtained by many corporations and governments](computers-bigtech.md), and the people in power would have a tremendous edge in [whatever they wish to do](purpose.md). This could be a [major risk](mgmt-badsystems.md).

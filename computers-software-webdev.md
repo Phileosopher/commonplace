@@ -25,7 +25,7 @@ To add to the above complexity, there are also [cybersecurity](computers-cysec.m
 
 ## Hardware
 
-The hardware of the internet is a worldwide [network](networks-cs.md), mostly connected through various cables and [wireless signals](engineering-radio.md), along with some [satellite connections](logistics-navigation.md).
+The hardware of the internet is a worldwide [network](computers-networks.md), mostly connected through various cables and [wireless signals](engineering-radio.md), along with some [satellite connections](logistics-navigation.md).
 
 While computers maintain constant connection with each other (by human standards), the systems involved require *constant* asynchronous data transfer:
 
@@ -56,7 +56,7 @@ RSS and Atom feeds are simple enough that tehy'll probably last as long as the i
 
 Most sites have feeds built-in, but are an often arcane setup to find if you don't know what to look for.
 
-Sometimes, tech companies will *not* make their feeds freely available to enforce [a walled garden](faang.md). But, in those instances, you can usually use a third-party update service for whenever a page changes or new content is distributed.
+Sometimes, tech companies will *not* make their feeds freely available to enforce [a walled garden](computers-bigtech.md). But, in those instances, you can usually use a third-party update service for whenever a page changes or new content is distributed.
 
 ## Always expanding
 

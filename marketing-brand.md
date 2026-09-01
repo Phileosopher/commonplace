@@ -129,7 +129,7 @@ D. Make something eye-catching and familiar to the target demographic.
 
 E. Tailor the product to the medium and send it through every appropriate social channel.
 
-- Typically, you will need to use [social media](networks-social.md) and [search engine optimization](marketing-seo.md) to maximize your message.
+- Typically, you will need to use [social media](computers-networks-social.md) and [search engine optimization](marketing-seo.md) to maximize your message.
 
 F. Follow up and keep the interaction going.
 

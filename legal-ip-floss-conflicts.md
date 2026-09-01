@@ -69,11 +69,11 @@ Sometimes, irrespective of the relationship with the original creator, it may be
 
 Whether a license was open-source or closed-source can often create unforeseen consequences *much* later:
 
-- Most [immoral actions by Big Tech](faang.md) are driven by closed-source software that was often *not* released as open-source before they started abusing their power.
+- Most [immoral actions by Big Tech](computers-bigtech.md) are driven by closed-source software that was often *not* released as open-source before they started abusing their power.
 - [Linksys accidentally released the WRT54G model under GPL, and undoing it later created a PR disaster](https://tedium.co/2021/01/13/linksys-wrt54g-router-history/).
 - John Carmack, the developer of many famous id Software [games](computers-software-gamedev.md), [regrets releasing the source code under GPL instead of under BSD](https://web.archive.org/web/20210706044408/https://twitter.com/ID_AA_Carmack/status/1412271091393994754).
 
-[Many, many efforts have been made](faang.md) to subvert the nature of open-source, but the community typically [pushes back](https://trendless.tech/faang-response/) with intelligent solutions that make the software more accessible.
+[Many, many efforts have been made](computers-bigtech.md) to subvert the nature of open-source, but the community typically [pushes back](https://adequate.life/big-tech) with intelligent solutions that make the software more accessible.
 
 - On that specific front, there is a *lot* of resentment by Big Tech against the open-source community.
 - There's also quite a bit of fear in the open-source community over *any* proprietary over-reach.
@@ -85,7 +85,7 @@ Many, *many* discussions revolve around intellectual property and the legal batt
 However, the fight against open-source is a losing battle.
 
 - [It's a human universal](humanity-universals.md) that secrets are difficult to keep. Eventually, the methods and implementation will become public knowledge, then someone will create an open standard that basically does the same thing but in a different way. Suing everyone is only financially viable for a season.
-- Another part is that developers are often more motivated by [ideals](values.md) than profit. They'll tirelessly work on an open-source project [antagonistically](https://trendless.tech/faang-response/) or simply [for fun](fun-cs.md), and a geek locked-away on a project can create *gigantic* changes that otherwise wouldn't happen if it was driven strictly by money.
+- Another part is that developers are often more motivated by [ideals](values.md) than profit. They'll tirelessly work on an open-source project [antagonistically](adequate.life/big-tech/) or simply [for fun](computers-fun.md), and a geek locked-away on a project can create *gigantic* changes that otherwise wouldn't happen if it was driven strictly by money.
 - Open software and standards mean *any* developer or company can build on it (especially when the license allows them to create closed-source products). There's almost no business reason to reinvent and rebuild what has already been built, especially if it's good-enough.
 - Most closed-source developers and companies can fight off the inevitable open-sourcing by releasing it for free.
 

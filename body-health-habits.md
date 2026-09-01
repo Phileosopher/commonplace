@@ -68,6 +68,17 @@ Consider fasting to improve your overall health:
 - After 72 hours:
   - Autophagy maxes out
 
+Intermittent fasting is a diet that allows the benefits of fasting, but without the severity of a prolonged fast:
+
+- 16:8 is fasting for 16 hours, then eating within an 8-hour window.
+- 14:10 is the same, with fasting for 14 hours and eating in a 10-hour window.
+- 12:12, or overnight fasting, is intentionally fasting while [sleeping](sleep.md).
+- 5:2 is eating regularly five days a week, then using a modified fast for two days of 500-600 calories.
+  - A more extreme version is the Eat-Stop-Eat, which is choosing one or two nonconsecutive days to eat absolutely nothing.
+- 4:3, or alternate-day fasting, involves swapping between fasting and eating each day.
+- 20:4, or the Warrior Diet, is eating small amounts of raw fruits and vegetables during the day and having one large meal at night in a four-hour window.
+- 23:1, or OMAD (One Meal A Day), is only eating during a one-hour window for all the body's calories.
+
 ### Try bloodletting
 
 Consider bloodletting (i.e., donating blood) 1-4 times a month to get rid of excess iron in your blood.
@@ -96,6 +107,10 @@ One of the most important cures for chronic pain is to get moving.
 - For chronic pain from cancer treatments, get opiates and psychomotor stimulants.
   - You'll either need to find 2 different doctors to get prescriptions for both, or substitute ADD medication (Ritalin) for the psychomotor stimulants.
 
+The air inside a forest has a tremendous impact on immune system maintenance.
+
+- Spending time walking for one day can boost the immune system and prevent cancer for as long as 30 days.
+
 ## Relax
 
 [Stress](mind-feelings-happiness-stress.md) is one of the most significant things that can kill us.
@@ -115,6 +130,11 @@ If you need to, *force* yourself to spend more time in silence or relaxation.
 Dramatically improve your psychosomatic state by practicing 5 minutes of controlled breathing and [meditation](mind-awareness.md) every morning.
 
 If a doctor doesn't ask about your stress levels, they're more serving the role of a drug dealer than a doctor.
+
+There is talk about some frequencies (specifically 432 Hz and 852 Hz) that are allegedly more healing to the body's systems.
+
+- However, there is no direct scientific evidence, so it could easily be the placebo effect.
+- There *is* value in finding something calming, however, so relaxing to whatever you want *will* positively influence your health, even if it means nothing [scientifically](science.md).
 
 ## Stay mentally engaged
 

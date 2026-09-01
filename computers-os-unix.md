@@ -7,7 +7,7 @@ However, the demarcation between Linux/Windows/Apple isn't precise. Each operati
 
 ## History
 
-Unix was an [operating system](computers-os.md) made by AT&T in 1969. However, AT&T was [monpolizing power](politics-monopolies.md) at the time (like [today's FAANG](faang.md)), so antitrust litigation prevented it from entering the computer industry. The company was forced to release the source code for free to anyone who asked. Many educational institutions (such as Berkeley) and businesses used Unix.
+Unix was an [operating system](computers-os.md) made by AT&T in 1969. However, AT&T was [monpolizing power](politics-monopolies.md) at the time (like [today's Big Tech](computers-bigtech.md)), so antitrust litigation prevented it from entering the computer industry. The company was forced to release the source code for free to anyone who asked. Many educational institutions (such as Berkeley) and businesses used Unix.
 
 Later, once AT&T spun off Bell Labs, Bell was free to sell a proprietary license of Unix in 1984, but the damage to AT&T's potential hold on the market had already been done. Unix's source code was effectively public and legal to use.
 
@@ -79,7 +79,7 @@ Some are designed for specific hardware:
 
 - [libreCMC](https://librecmc.org/) for an all-in-one embedded OS
 - [Raspbian](https://www.raspbian.org/) for the [Raspberry Pi](computers-embedded.md)
-- [Android](https://www.android.com/) for [Google](faang.md)-based phones
+- [Android](https://www.android.com/) for [Google](computers-bigtech.md)-based phones
 - [Chrome OS](https://www.google.com/chromebook/chrome-os/) is a browser-based OS for Google Chromebooks
 - [Steam OS](https://store.steampowered.com/steamos/) powers Steam gaming platform machines
 - [antiX](https://antixlinux.com/) is designed specifically to run well on older computers

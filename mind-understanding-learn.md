@@ -77,3 +77,12 @@ APPLICATION: Altogether, this means that there is a "learning pyramid" that defi
   - Group discussion (~50%)
   - Practicing by doing (~75%)
   - [Teaching others](education-how.md) (~90%)
+
+In practice, the fastest way to learn is to try it, but then consult others for the answer:
+
+1. Figure out how it works on your own (~5 minutes' effort).
+   - This is the most challenging and least rewarding, but gives you a very essential [feeling](mind-feelings.md) for the subject.
+2. Figure out how it works by web searching and reading blog posts (~15 minutes' effort).
+   - The Internet places easy access to most things, so use it.
+3. Ask someone to explain it to you.
+   - This isn't always convenient or available, but will cut out most of the bad or irrelevant information you may otherwise learn.

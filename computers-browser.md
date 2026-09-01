@@ -1,7 +1,7 @@
 
 # How a web browser works
 
-Usually, when people think of [web development](computers-software-webdev.md), they imagine web browsers. However, there are very specific aspects to browsers that specialize far more than simply the internet as a collective [network](networks-cs.md).
+Usually, when people think of [web development](computers-software-webdev.md), they imagine web browsers. However, there are very specific aspects to browsers that specialize far more than simply the internet as a collective [network](computers-networks.md).
 
 While it starts outwardly with a computer interacting with a [web domain](computers-browser-domains.md), it technically starts with a request to the client server.
 
@@ -64,7 +64,7 @@ The server/host computer interprets the information, then sends a response back 
     - **303 See Other**, where the response can be found with another URI with the GET method, and a POST method means the server received the data and the client should issue a new GET to the new URI
     - **307 Temporary Redirect** to another URI and repeat the request, but future requests should use the original URI
   - **304 Not Modified** from the client's copy, so there's no need to re-transmit the resource
-  - **305 Use Proxy** since *only* a proxy has the information, has been used since HTTP/1.1, but many web browsers don't obey this code because it's a wide-open risk for [hacking](hacking.md)
+  - **305 Use Proxy** since *only* a proxy has the information, has been used since HTTP/1.1, but many web browsers don't obey this code because it's a wide-open risk for [hacking](mind-creativity-hacking.md)
   - **306 Switch Proxy**, which originally meant that subsequent requests should use the specified proxy, but is no longer used
   - **308 Permanent Redirect** to a given URI, which is the same thing as 301 but doesn't allow the client's HTTP method to change.
 - 400s - the client computer has an error
@@ -152,7 +152,7 @@ Since businesses want to make lots of money, there's an entire division of [mark
    - Add keywords into the body of the page, as well as inside the title tag and [meta](data.md) description.
 7. Test *everything* with [emulators](computers-distsys-vm.md) and real hardware for all sorts of weird "edge cases".
 
-Obviously, some less-than-legitimately-motivated people have wanted to exploit the situation. If you've ever clicked through to an odd webpage that says, "Here's how you can have the best bicycle tires that are tires for biking, of which bicycles are the best you can bicycle to and from work for bicycling", you're looking at SEO gone horrifically wrong. Thankfully, the engineers behind the search algorithms usually punish sites that [hack their algorithm](hacking.md) in the long-term, so we can still achieve high-quality results.
+Obviously, some less-than-legitimately-motivated people have wanted to exploit the situation. If you've ever clicked through to an odd webpage that says, "Here's how you can have the best bicycle tires that are tires for biking, of which bicycles are the best you can bicycle to and from work for bicycling", you're looking at SEO gone horrifically wrong. Thankfully, the engineers behind the search algorithms usually punish sites that [hack their algorithm](mind-creativity-hacking.md) in the long-term, so we can still achieve high-quality results.
 
 ## Web browser features
 
@@ -167,7 +167,7 @@ Amusingly, CSS was designed to address constraints within HTML, and JavaScript w
 To keep track of a browser (such as logging in), the "host" will frequently send files called "cookies" to save specific information (like your login or shopping cart) inside the browser cache within the user's computer.
 
 - This is *very* convenient, since it can allow someone to stay logged-in, tailor the website to specific types of users, or keep track of information about the web browser to make the browsing experience more seamless.
-- However, stored cookies can also lead to [privacy issues](computers-cysec.md), especially when third-parties (like advertising companies) can track behavior *across* websites or when [hackers](hacking.md) track where you're browsing.
+- However, stored cookies can also lead to [privacy issues](computers-cysec.md), especially when third-parties (like advertising companies) can track behavior *across* websites or when [hackers](mind-creativity-hacking.md) track where you're browsing.
 
 The Tor [protocol](standards-computers.md) and its browser adds layers of anonymity to the web-browsing experience, which means more layers of complexity.
 

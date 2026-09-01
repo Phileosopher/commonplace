@@ -3,7 +3,7 @@
 
 ## F
 
-FAANG - the private publicly traded technology companies Facebook, Apple, Amazon, Netflix, and Google, an enormous consolidation of power that goes farther than the Roman Empire in many respects
+FAANG - aka Big Tech, the private publicly traded technology companies Facebook, Apple, Amazon, Netflix, and Google, an enormous consolidation of power that goes farther than the Roman Empire in many respects
 
 False negative - a missed hit on a scan that should have hit
 
@@ -175,7 +175,7 @@ HCI - human computer interface, a design philosophy built around how people inte
 
 HDD - hard disk drive, an older method of storing binary information using magnets on plates, one of the cheapest ways outside of tape drives to store lots of information
 
-Header - supplemental data at the beginning of a file or packet that isn't part of the "body" of main data, used for [storage](computers-memory.md) or [network transmission](networks-cs.md) reasons, contains metadata
+Header - supplemental data at the beginning of a file or packet that isn't part of the "body" of main data, used for [storage](computers-memory.md) or [network transmission](computers-networks.md) reasons, contains metadata
 
 Heading - text designed to clarify a section of text
 
@@ -377,7 +377,7 @@ Liquid layout - a ratio determined by a percentage inside an element or screen i
 
 List - Multiple data put together, doesn't have to be the same type
 
-LLC - logical link control, a subset of the [Data Link layer](networks-cs.md) that deals with directing information to and from various nodes, moves from media access control (MAC)
+LLC - logical link control, a subset of the [Data Link layer](computers-networks.md) that deals with directing information to and from various nodes, moves from media access control (MAC)
 
 Load - a logic gate selector to dictate whether a register should hold the old information or overwrite it with the new information
 

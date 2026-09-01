@@ -195,7 +195,7 @@ Synchronizing a network across time zones, while also accounting for (relatively
 
 It's worth noting most of the above protocols have very specific network "ports" they work through.
 
-Most computer design specifications must abide by certain compliance standards to work correctly. While it's often possible to [hack](hacking.md) them, those standards are often there for a safety reason.
+Most computer design specifications must abide by certain compliance standards to work correctly. While it's often possible to [hack](mind-creativity-hacking.md) them, those standards are often there for a safety reason.
 
 There are many standards about how to set up cabling arrangements as well:
 

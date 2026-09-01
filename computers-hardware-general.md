@@ -137,7 +137,7 @@ It's worth noting that the hard drive doesn't necessarily *need* to fit in a "sl
 
 You can often use a variety of external media to store and migrate information, such as CDs, tape drives, and USB/flash drives.
 
-But, the more popular way to send information around is via the [internet](networks-cs.md), which rquires a network card. With the internet you can send and receive information, including updates. This makes the computer less of an information box and more of a connection device.
+But, the more popular way to send information around is via the [internet](computers-networks.md), which rquires a network card. With the internet you can send and receive information, including updates. This makes the computer less of an information box and more of a connection device.
 
 ## Buildable/Upgradeable
 
@@ -181,9 +181,9 @@ This limited information transfer is a huge reason why [operating systems](compu
 We can also create some fascinating combinations by stapling the input and output together onto the same object.
 
 - The touch screen, for example, is *both* an input ([digitizer](computers-mouse.md)) and an output ([LCD screen](engineering-screen.md)).
-- A network router takes raw information, then [routes the information somewhere](networks-cs.md). It's the basis of most networks, but focuses on finding where something is supposed to go, then sending it there.
+- A network router takes raw information, then [routes the information somewhere](computers-networks.md). It's the basis of most networks, but focuses on finding where something is supposed to go, then sending it there.
 
 By sending the output to another computer, we can string them together:
 
-- If they have different purposes, multiple computers talking with each other creates a "[network](networks-cs.md)". The largest network we have is the internet.
+- If they have different purposes, multiple computers talking with each other creates a "[network](computers-networks.md)". The largest network we have is the internet.
 - If that network is tight enough and the computers are sharing resources, they're known as a "[distributed system](computers-distsys.md)".

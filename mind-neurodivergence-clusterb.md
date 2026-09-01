@@ -42,6 +42,7 @@ Their shattered ego means their mind has trouble with articulately maintaining [
 
 - This wobbly mental state yields legitimate delusions about actual events and circumstances.
 - To function in society, they tend to find social roles that are either vastly within their range of talent (so they can be near-immaculate at something) or requires maintaining constant [uncertainty](mind-understanding-certainty.md) (which permits them to conveniently redefine their story as they need).
+- Ultimately, since they're simply acting out a role, they're incapable of [changing](people-changes.md) their core thinking, so they will do the same thing with varying severity throughout all [stages of their lives](maturity.md).
 
 Since they have a shaky value system, they will often have trouble with a few specific things:
 

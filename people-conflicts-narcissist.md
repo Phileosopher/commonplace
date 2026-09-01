@@ -6,7 +6,7 @@ The most complex part of a narcissist comes through how they manage conflicts.
 - Most people won't realize they're engaged with a narcissist until *after* they've had a [standard conflict](people-conflicts.md) with one of them.
 - In many ways, every single narcissist is perfectly wonderful to get along with, until it's time to [negotiate](people-conflicts-negotiation.md).
 
-The largest risk to your conflicts is when you know when you're dealing with a narcissist.
+The largest risk to peaceably avoiding conflicts is when you know when you're dealing with a narcissist.
 
 - Most people want a [resolution to a conflict](people-conflicts-why.md) and act [in good faith](people-contracts.md) to that end.
 - The narcissist, however, will only find peace when they've achieved the impossible task of [your complete conformity](people-culture-cults.md).
@@ -129,20 +129,20 @@ While it isn't "nice", handling a narcissist you can't actively avoid requires a
 
 ## What to expect after mitigating the damage
 
-Be prepared for the narcissist's triangulation or "flying monkeys" (a term referring to "the Wonderful Wizard of Oz").
+A huge portion of the [stress](mind-feelings-happiness-stress.md) with [their abuse](hardship-abuse-narcissist.md) comes through the social pressure from everyone else when you publicly express their behavior:
 
-- The Karpman drama triangle is the act of getting a "rescuer" involved who is unfamiliar with the persecutor's direct conflict with the victim.
-  - Healthy conflict resolution arises out of a community that is well-informed of the [personalities](people-personality.md) and [virtuousness](morality-virtues.md) of everyone involved.
-  - Even true mediation/arbitration requires everyone in the room together, but the narcissist will use whatever means possible to *not* directly approach the issue on fair terms.
-- For the sake of simplicity and sanity, never [trust](mind-trust.md) a "peacemaker" who heard the narcissist's story first.
-  - That person has a version of the story they're convinced is true, and the narcissist has sent them to "resolve" the conflict.
-- These people are effectively trying to create peace, but become useful for the narcissist's manipulation.
-  - Many times, those people are at [other stages of narcissist's abuse cycle](hardship-abuse-narcissist-stages.md), meaning they're [victims of abuse](hardship-abuse.md) themselves.
-- While it can often be tempting to become angry at the flying monkey, *never* take your anger out on them.
-  - At best, they will see you as mentally unstable and will relay that information back to the abuser.
-  - At worst, they will consider you the [abuser](hardship-abuse.md) and will proceed with more [certainty](mind-understanding-certainty.md) on that presumption.
-- The narcissist's [capacity for influence](power-influence.md) heavily determines how many flying monkeys they have and who will believe them.
-  - This can become disastrous across society when some of those people are in positions of legitimate authority (e.g., police officer, judge)
+- Many people will consider your effort to publicly reveal their misbehavior as a smear campaign.
+- And, [like a crime-adjacent career](https://gainedin.site/crime/), publicly revealing a narcissist is often composed of the same actions as a smear campaign.
+- However, public exposure comes with other context:
+  - The language is focused on someone's specific behavior.
+  - They will explore the impact that behavior had on them.
+  - Their efforts to expose will focus on enhancing safety and support for everyone they think may be affected.
+- Smear campaigns also give context:
+  - The language is focused directly on the other person's character.
+  - They will speak of the other person with the worst possible framing.
+  - Their efforts are attempts to isolate the other person from support while recruiting people to their viewpoint.
+- In effect, you will know what the truth is by carefully examining why you're talking about it.
+  - You may be [furious](mind-feelings-anger.md), but look at what you're trying to achieve with your communication.
 
 Here's an example of a pleasant situation turned toxic by a narcissist:
 

@@ -87,11 +87,11 @@ New technologies designed by a [dysfunctional corporation](mgmt-badsystems.md) w
 
 The best solution is to deactivate those features whenever possible:
 
-- Deactivate any [network-based components](networks-cs.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
+- Deactivate any [network-based components](computers-networks.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
 - Disable any automated features, such as auto-locking or auto-closing.
 - Disable the driving assists, or diminish them to alert-only status.
 
-The design of the vehicle may make deactivating features difficult or impossible, and you might have to find a [clever hack](hacking.md) to deactivate them.
+The design of the vehicle may make deactivating features difficult or impossible, and you might have to find a [clever hack](mind-creativity-hacking.md) to deactivate them.
 
 - Delete or modify parts of the [computer code](computers-software.md) that run subsystems.
 - Reinstall an [open-source](legal-ip-floss.md) [operating system](computers-os.md) created by a developer community to run your vehicle.

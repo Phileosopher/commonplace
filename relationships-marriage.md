@@ -366,7 +366,7 @@ Now, however, society has largely changed, but the rules often haven't.
 
 - Women can now pursue nearly any career they want, but often receive preferential treatment in alimony disputes.
 - Modern technology allows either parent to be a sufficient caretaker with the right community supporting them, but mothers are often favored in custody decisions.
-- Visitation is now absurdly easy remotely with various forms of [social media](networks-social.md) and messaging, but courts often don't factor that simplicity into it.
+- Visitation is now absurdly easy remotely with various forms of [social media](computers-networks-social.md) and messaging, but courts often don't factor that simplicity into it.
 
 To that end, the [civil agreement](people-contracts.md) aspect of the system means most men should have a prenuptial agreement to protect themselves, at least with respect to custody as well as a limit on alimony.
 
