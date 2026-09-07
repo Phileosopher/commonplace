@@ -10,6 +10,15 @@ Starting around 2017, a programmer thought it would make a lot of sense to creat
 
 This has proven to be sufficiently successful, and the AI boom is in full swing as of the early 2020s with this development.
 
+## Categories
+
+Machine learning has several basic groups of utilization:
+
+- Large Language Models (LLMs) reproduce natural human language
+- Generative AI (Gen AI) produce new content based on trained data, such as video or images
+
+There are more, but the technology is new enough that, as of 2026, that's all the named ones right now.
+
 ## Data in, data out
 
 The effective consequence of a machine learning algorithm is that it will have "averaged-out" data from all the incoming information it has received.
@@ -88,7 +97,7 @@ An early 2025 study has confirmed that machine learning users are generally *so*
 There is also a hairy issue present regarding training and language model data. In effect, the computer is deriving another created work entirely from [protected intellectual property](legal-ip.md).
 
 - It is a severely complicated question over whether that's permissible or not, and governments have had varying rules on that concept.
-- It's also extra levels of complicated when it can be proven that the training data was [originally pirated](computers-distsys-torrent.md).
+- It's also extra levels of complicated when it can be proven that the training data was [originally pirated](computers-distsys-p2p-torrent.md).
 
 ## Social response + hallucination
 

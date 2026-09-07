@@ -35,7 +35,7 @@ If you're trying to make a living off a hobby, you will very likely *not* succee
    - If you want to make a living at easy things, do something that's very hard with them.
 3. Abstract enough to be impractical (e.g., [philosophy](philosophy.md), [art appreciation](creations.md)).
    - You can make a living at it if you can find a [practical use](purpose.md) for the abstract idea.
-4. Low-demand (e.g., medieval-period armor fabrication, [VR headset](computers-vr.md) consultation).
+4. Low-demand (e.g., medieval-period armor fabrication, [VR headset](computers-xr.md) consultation).
    - The idea may be sound, but [premature](people-trends.md).
 
 Unless it's a hobby you enjoy, your side hustle is only worth your time relative to other things you could do:

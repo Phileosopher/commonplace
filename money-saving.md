@@ -285,7 +285,7 @@ For many services like law, accounting, or insurance, familiarize yourself with 
 If you *do* need professional services, only hire experts for that particular niche:
 
 - Consider who gives referrals and reviews when assessing their judgment.
-- People often trust a public metascore, but that score can be easily manipulated, so use a more reputable rating service or ask [experts](professionals.md) you know.
+- People often trust a public metascore, but that score can be easily manipulated, so use a more reputable rating service or ask [experts](professionals-who.md) you know.
 
 If you purchase a ring of steel, ask for them to ship the drop (the round circle punched out inside the ring) to you as well.
 

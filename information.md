@@ -1,7 +1,7 @@
 
 # Information management explained
 
-When we observe [nature](reality.md), the incoming perception assembles itself into a hierarchy (MFDKIW Pyramid):
+When we observe [nature](reality.md), the incoming perception assembles itself into a hierarchy (MFDIKW Pyramid):
 
 - Measurements - [values](values.md) and [sensations](mind-feelings.md) we experience.
   - e.g., a being we regard as a cat, two of those beings, colors, numbers, opinions, memories, etc.
@@ -36,7 +36,7 @@ Multiple information technologies across history have gotten us here, but the [I
 6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
 7. Electronic games and animation permit us to express fantasy to each other in a tangible medium.
 8. The internet has removed the need for much money to do all the above, first for writing, then for everything else.
-9. [Virtual reality and augmented reality](computers-vr.md) bring the entire experience together, limited only by [imagination](mind-imagination.md).
+9. [Virtual reality and augmented reality](computers-xr.md) bring the entire experience together, limited only by [imagination](mind-imagination.md).
 
 The only thing even *close* to being similar is the invention of the [automotive](autos.md). Our minds are configured to handle the information flow of walking speed at 2-3 mph, and horseback riding maxed out around 25-30 mph. Driving a car that can easily surpass 60 mph is a dramatic normalization of what would be considered an overwhelming experience.
 
@@ -52,7 +52,7 @@ This trend has Balkanized many established, long-standing monoliths of informati
 - Why ask a friend about their hobby? You can find just as much information on literally *thousands* of hobbies on numerous message boards or online videos.
 - Why pay for college when the information is freely available online? For many industries, colleges only exist to [communicate competence](jobs-specialization.md) to specific [social networks](groups-large.md).
 - Why consult [scientific journals](science.md)? The information is on SciHub, floating around online elsewhere, or you can simply ask the writer directly for a copy of a paper.
-- Why go shopping anywhere? You can just buy things online, and once [VR/AR](computers-vr.md) is perfected, you can even *test* the product online for the most part.
+- Why go shopping anywhere? You can just buy things online, and once [VR/AR](computers-xr.md) is perfected, you can even *test* the product online for the most part.
 - Since COVID-19, why go to church? You can practice your [religious observance](religion.md) from the comfort of your own home.
 
 Our present social trend is the Over-Information Age, and I anticipate this era will continue well into the 2050s. [AI](computers-ai.md) adds *much* more semi-decent information on top of what we already have, and a glut of ever-increasingly high-speed computers only magnifies the means to manipulate, store, and transmit information.

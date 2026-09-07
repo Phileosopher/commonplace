@@ -8,7 +8,7 @@ Ironically, a technical interview does *not* test one's capacity for [software d
 Thus, since it's standard practice in most companies to use a technical interview for software developers, practicing for a coding interview is vital for getting a job, even if it has little to do with the job itself.
 
 - Be careful, though, that they're not exploiting your free labor.
-- Also be careful that the recruiter isn't [socially engineering](computers-cysec-socialengineering.md) you to steal your identity.
+- Also be careful that the recruiter isn't [socially engineering](computers-infosec-socialengineering.md) you to steal your identity.
 
 ## Technical Interviews
 

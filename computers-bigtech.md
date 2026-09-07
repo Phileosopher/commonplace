@@ -47,7 +47,7 @@ In technology industries specifically, antitrust litigation is more difficult th
 
 - Google, for example, does *not* consider themselves a monopoly because they define their industry as the information market, and they certainly don't own more than 5% of all human information.
 - With the right angle, entire *industries* are difficult to clarify. Even if Amazon controls 90% of all [web servers](computers-distsys-enterprise.md), is it a monopoly when someone else can theoretically [spin up their own](computers-distsys-enterprise.md)?
-- More specialized technology means more capacity to gain complete dominance. For example, in a classical sense most social media is a feed-based [database](database.md), with granted [permissions](computers-cysec-authentication.md) being defined as following/subscribing/friends.
+- More specialized technology means more capacity to gain complete dominance. For example, in a classical sense most social media is a feed-based [database](database.md), with granted [permissions](computers-infosec-authentication.md) being defined as following/subscribing/friends.
 
 [A few examples of the results of this power consolidation](computers-bigtech-merging.md).
 

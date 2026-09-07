@@ -66,7 +66,7 @@ To that end, your reputation involves a few arcane tasks:
    - Treat them like government [bureaucracies](bureaucracy.md), where you're more responsible than they are for any mistakes they make.
    - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-contracts.md) with another organization and terminate that one.
 3. Watch for the people who abuse this knowledge.
-   - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](computers-cysec.md).
+   - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](computers-infosec.md).
    - There are [*many* laws](legal-lawsaxioms.md) around most situations where this information could be misused, so it's not common.
 
 This situation means most casual (and typically cost-effective) interactions are simply your name running by on a [database](database.md):
@@ -75,7 +75,7 @@ This situation means most casual (and typically cost-effective) interactions are
 - The [insurance score](money-insurance.md) asks a reporting company (LexisNexis) who this entity has had insurance with and what dates.
 - [Health](body-health.md) information is accessible through the Medical Information Bureau.
 - There are numerous other [trade-specific](jobs-specialization.md) reports, ranging from [academic](education.md) records to bank accounts open in your name.
-- The reports never give a *complete* picture, and instead provide information that may be relevant for that [professional](professionals.md) to do their job.
+- The reports never give a *complete* picture, and instead provide information that may be relevant for that [professional](professionals-who.md) to do their job.
 
 There *are* exceptions to this arrangement:
 

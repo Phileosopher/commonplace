@@ -27,7 +27,7 @@ The domain information connects back to a system called DNS ("domain name servic
   - These records can be for specific resources, or "wildcard" across many possible situations.
 - A - what [IPv4 address](computers-networks.md) to look for.
 - AAAA - what IPv6 address to look for, specified by [RFC 3596](https://www.rfc-editor.org/rfc/rfc3596).
-- CAA - [Certification Authority](computers-cysec-authentication.md) Authorization, specified by [RFC 6844](https://www.rfc-editor.org/rfc/rfc6844).
+- CAA - [Certification Authority](computers-infosec-authentication.md) Authorization, specified by [RFC 6844](https://www.rfc-editor.org/rfc/rfc6844).
 - CNAME - canonical name record, which indicates an alias of one name to another.
 - DNAME - delegation name record, which is like CNAME but includes all sub-names as well.
 - MX - mail exchange record, specifies the servers that accept email for a domain, specified by both RFC 1035 and [RFC 7505](https://www.rfc-editor.org/rfc/rfc7505).
@@ -55,7 +55,7 @@ To access most websites, a computer will [access](computers-networks.md) several
 7. The registrar will either have resource records, or an NS record that points somewhere else, typically to a host (e.g., ns1.actualsite.com and ns2.actualsite.com).
    - If the resource records are part of the domain itself, they need "glue records" that specify exactly where that record is (e.g., ns1.somedomain.com is inaccessible before getting to somedomain.com).
 8. Typically, most of the specific DNS records will be wherever a website is hosted, with the corresponding IP addresses or connected resources at least *somewhat* referenced there.
-9. Further, there are extra [security aspects](computers-cysec.md), such as SSL/TLS and DNSSEC, that make [malicious hacking](computers-cysec-pentest.md) more difficult.
+9. Further, there are extra [security aspects](computers-infosec.md), such as SSL/TLS and DNSSEC, that make [malicious hacking](computers-infosec-pentest.md) more difficult.
    - The difference expresses most simply as the domain being either http:// or https://.
    - SSL is very fast, and TLS [is rather slow by comparison](https://istlsfastyet.com/).
 
@@ -82,6 +82,6 @@ But, not all domains are equal:
   - Most sites like .com and .net are ~$10-20 annually.
   - Others cost more (.ai is ~$90, .inc is >$1,000 and climbing).
   - Some are cheaper or free (.xyz is $12, .tk is free).
-- To that end, many people who [scam](computers-cysec-socialengineering.md), [hack](computers-cysec-pentest.md), and [host pirated content](computers-distsys-torrent.md) like using cheap/free, disposable domains, which may affect a domain as a [marketable](marketing.md) address when legitimate organizations block the entire domain extension.
+- To that end, many people who [scam](computers-infosec-socialengineering.md), [hack](computers-infosec-pentest.md), and [host pirated content](computers-distsys-p2p-torrent.md) like using cheap/free, disposable domains, which may affect a domain as a [marketable](marketing.md) address when legitimate organizations block the entire domain extension.
 - Some domains (e.g., .de) will validate *before* registration is approved.
 - Some domains require more information (e.g., .us requires submitting a connection to [your legal fiction](people-image-modern.md)).

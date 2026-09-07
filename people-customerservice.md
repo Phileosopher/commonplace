@@ -24,7 +24,7 @@ The quality of a customer's interaction starts with the information available to
 Then, once they are either frustrated or they've exhausted all useful information, the workers' availability and knowledge determines how they'll feel.
 
 - Once an organization is large enough that it has more than one site, it *must* have a written and centralized system.
-- With computers, the easiest system for keeping track of customers is often as a [database](database.md) with employee-specific [permissions](computers-cysec-authentication.md).
+- With computers, the easiest system for keeping track of customers is often as a [database](database.md) with employee-specific [permissions](computers-infosec-authentication.md).
 
 There are two major ways to manage the customer's ongoing relationship:
 

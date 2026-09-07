@@ -75,6 +75,16 @@ SQ3R method:
 4. Recite: Summarize, take notes, and put it in your own words.
 5. Review: Reread, expand notes, and discuss with colleagues.
 
+Charting method:
+
+1. Skim the topic and make columns labeled as the broad categories of that material.
+2. As you consume, record the information into the appropriate category.
+
+Sentence method (only on ordered content):
+
+1. Write every new thought, fact, or topic on a separate line.
+2. As you consume, you'll understand the flow of ideas.
+
 The Stucky method:
 
 1. Stockpile everything you ever want to learn on a subject.

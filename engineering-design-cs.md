@@ -52,7 +52,7 @@ The available information from that technology also allows for more specialized 
 
 - Computers can only display an astronomically small percentage of all their information at any given moment, so designers must severely consider the users' "attention economy", which makes [good design philosophy](engineering-design.md) (especially regarding visual hierarchy and visual structure) absolutely critical.
 - Since a computer is *constantly* working when it's on with an inhuman logical flow, use empty space to articulate silence to the user and personalize it to indicate that a human designed it.
-- Make sure the presented information is using any tracked [location data](logistics-navigation.md), and make it location-agnostic if there's a [VPN](computers-cysec.md) or no location. Generally, there's still usually an *approximate* nation or region to derive data from.
+- Make sure the presented information is using any tracked [location data](logistics-navigation.md), and make it location-agnostic if there's a [VPN](computers-infosec.md) or no location. Generally, there's still usually an *approximate* nation or region to derive data from.
 - If there is *any* information about the [operating system](computers-os.md), assume the user is using that particular OS. Either way, give a simple selection for *all* available OSes.
 - If the user has provided information, use it to tailor all relevant [algorithms](computers-programming-algorithms.md) of the software (e.g., their genre preference should define *all* the content).
 - Provide personal information based on the software's usage. Generally, a large-scale enterprise's needs are different from a home user.
@@ -73,7 +73,7 @@ The domain of technology has *magnitudes* of complexity, so users have a dramati
 
 This is almost standard in tech, and never seems to [trend](people-trends.md) otherwise. Most software is either bloated or under-communicates, depending on the psychological idiosyncrasies of the software engineer and design team (if any).
 
-[Cybersecurity](computers-cysec.md) design, by contrast, is simply the *reverse* of good design: instead of communicating what a user can do, the designer is obscuring and *hiding* things instead.
+[Cybersecurity](computers-infosec.md) design, by contrast, is simply the *reverse* of good design: instead of communicating what a user can do, the designer is obscuring and *hiding* things instead.
 
 Of course, this means many possibilities for growth within computers. Many more things frustrate users in computers than anywhere else, so there are more possible places where [taking a risk](entrepreneur-1_what.md) may yield a positive result.
 
@@ -153,7 +153,7 @@ Some UI ideas are terrible, for various reasons:
 - QR codes without an alternative URL to key in, since not all devices reliably read them.
 - Creating an infinite scroll feature on a product that doesn't need it.
 - Only having a "like" button for feedback, but without extra clarifications or using the numerical "likes" as a simple means of prioritization.
-- Requiring the user install extra software or accept extra [permissions](computers-cysec-authentication.md) that are convenient for the developer, but often involve [tracking data that the user may not want tracked](computers-bigtech.md).
+- Requiring the user install extra software or accept extra [permissions](computers-infosec-authentication.md) that are convenient for the developer, but often involve [tracking data that the user may not want tracked](computers-bigtech.md).
 - Removing any features that the users had become familiar with.
 - Messages and prompts with excessive wording and explanation, instead of providing [documentation](language-writing-documentation-cs.md) for people who wish to read more.
 
@@ -162,7 +162,7 @@ Most tech designers are *way* more fickle than the average non-tech comparison, 
 - They'll get bored way more quickly, and their creative tendencies will provoke them to reinvent the wheel by designing [a better volume control](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950?gi=64381f3bdf3b), menu system, mouse pointer, or whatever.
 - They'll be *much* quicker to adopt trends, and the speed of adoption determines how fast it'll get abused. It can lead to absolutely absurd interfaces until it's [patched later](computers-software-maintenance.md).
 - Sometimes, they'll stumble across a stunningly *brilliant* design, but it'll take too much work to maintain, and a future update will replace it with a simpler (and more boring) one.
-- Asking for [permissions](computers-cysec-authentication.md) or for the user to download software is highly convenient for the developer, even while it's annoying for the user, and that selfishness bleeds into the software experience.
+- Asking for [permissions](computers-infosec-authentication.md) or for the user to download software is highly convenient for the developer, even while it's annoying for the user, and that selfishness bleeds into the software experience.
 - Giving icons or elements users may find interesting in focus groups, but don't plainly articulate the information the user may need.
 - Moving things around on the user, but without giving any warning or communication of the old ways of doing things.
 
@@ -199,7 +199,7 @@ Computers can magnify [addiction](addiction.md) more than just about anything el
 - Email lists divided into many groups, which require the user to manually select *all* of them individually to fully remove their subscription.
 - Swapping out UI elements to provoke users to make a mistaken selection.
 - Hiding a [contractual agreement](people-contracts.md) behind a checkbox that has terms the user would certainly *not* agree to if they read it.
-- A "download" button that's near the *actual* download button that typically contains [a virus](computers-cysec.md).
+- A "download" button that's near the *actual* download button that typically contains [a virus](computers-infosec.md).
 - Providing an inadequate experience *outside* the "paywall", then not permitting multiple payment options depending on the users' needs.
 
 Shame is a [manipulation tactic](power-types.md) that tries to coerce users to do something. In software, this can be magnified because the software was *designed* that way, meaning it's scaled with the number of users:

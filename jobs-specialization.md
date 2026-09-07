@@ -152,7 +152,7 @@ At a specific critical ratio, a majority group of technical idiots will cause an
 
 In practice, however, the [purpose](purpose.md) of most specialized groups will be transplanted to others who learn all aspects of that domain out of antagonism against the group becoming a [bad system](mgmt-badsystems.md) (e.g., when it becomes a long-standing anticompetitive [monopoly](politics-monopolies.md)).
 
-Further, [technological](technology.md) developments can remove the need for a specialist altogether. If the technology allows any amateur to perform the task, the [professional](professionals.md) role becomes a collective amateur task as the [trend](people-trends.md) emerges.
+Further, [technological](technology.md) developments can remove the need for a specialist altogether. If the technology allows any amateur to perform the task, the [professional](professionals-how.md) role becomes a collective amateur task as the [trend](people-trends.md) emerges.
 
 - The role of "scribe" largely went away once everyone could read and write, and only persists as a niche.
 - The role of "computer" is now replaced by "data entry work".

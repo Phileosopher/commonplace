@@ -31,7 +31,7 @@ On the far end, data can be stored in a Sensitive Compartmentalized Information 
   - These systems include email clients to allow sending documents to other users with access and the need to know.
 - There are also unclassified computer systems for daily work that have internet connectivity, but are regulated by IT policies and systems that filter what someone can access.
   - If there's a bad link on the page (site, video, etc.), there's often an intimidatingly official-looking "ACCESS TO THIS SITE IS FORBIDDEN" in that space, or sometimes for the whole page.
-- Also, even gaining access requires a symbolic colonoscopy of [compliance](computers-cysec-compliance.md) and background check requirements.
+- Also, even gaining access requires a symbolic colonoscopy of [compliance](computers-infosec-compliance.md) and background check requirements.
 
 ## Backups
 

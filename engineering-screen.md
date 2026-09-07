@@ -60,7 +60,7 @@ Typically, computers run at 59-60 FPS (frames per second) because most people wo
 
 The "sampling" of images (or "frames") typically stays at about 60 per second (Hz) in most modern computers, though the internal refresh rate of plasma TVs can go up to 600 Hz.
 
-120 FPS is a preferable rate for high-intensity activities (e.g., [VR headsets](computers-vr.md)). However, it has the tendency to give people headaches and nausea if they're conditioned to 60 FPS devices and are perceptive enough.
+120 FPS is a preferable rate for high-intensity activities (e.g., [VR headsets](computers-xr.md)). However, it has the tendency to give people headaches and nausea if they're conditioned to 60 FPS devices and are perceptive enough.
 
 ## Reusable
 

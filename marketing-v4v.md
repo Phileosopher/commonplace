@@ -86,7 +86,7 @@ There is an art to it, but it is absolutely necessary.
 
 Selling the information directly doesn't work and doesn't make sense.
 
-- To sell computer information means it can be reproduced indefinitely (and [is frequently pirated like crazy](computers-distsys-torrent.md)).
+- To sell computer information means it can be reproduced indefinitely (and [is frequently pirated like crazy](computers-distsys-p2p-torrent.md)).
 
 The concept assumes 3 major presumptions about the transaction:
 

@@ -48,6 +48,8 @@ To understand if someone wants [understanding](mind-understanding.md) or control
   - If they are entirely [certain](mind-understanding-certainty.md) about everything, there is no more room for dialogue.
 - What are you trying to understand from me right now?
   - Someone who wants to understand will have answers, but someone trying to win won't care to hear.
+- Can you help me to understand what is motivating you?
+  - If someone wants to be understood, they'll disclose their reasons, and will shut down if they have adverse intent against you.
 
 Most innocent conflicts have a few particular, silly causes:
 

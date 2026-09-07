@@ -186,7 +186,7 @@ While it accounts for dips in productivity while changing, it doesn't give much 
 
 The model divides skills into 5 distinct levels of leadership:
 
-- Level 1 - self-leadership (i.e., [professional](professionals.md) self-management)
+- Level 1 - self-leadership (i.e., [professional](professionals-how.md) self-management)
 - Level 2 - team player (i.e., can work on a team)
 - Level 3 - team leadership (i.e., can tell people what to do)
 - Level 4 - manager leadership (i.e., can direct managers)

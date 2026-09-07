@@ -61,7 +61,7 @@ There are some reasons you should *never* consider public ministry:
 
 Before taking the plunge, have the wisdom to count the cost.
 
-- Consider the [relationships](people-friends.md) you'll likely gain and lose, your affiliations and [professional network](professionals.md), necessary lifestyle changes, and likely sacrifices.
+- Consider the [relationships](people-friends.md) you'll likely gain and lose, your affiliations and [professional network](professionals-who.md), necessary lifestyle changes, and likely sacrifices.
 - Examine the financial shift to your lifestyle.
   1. Think about all your likely future needs and research their costs.
   2. Make a budget that doesn't veer into extreme poverty or opulence.

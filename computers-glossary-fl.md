@@ -111,6 +111,8 @@ Gateway device - a combination device that's a modem, router, and often a teleph
 
 General-purpose computer - a machine that performs [logic](logic.md) and [math](math.md) based on what people command it to do, and it can be easily reconfigured
 
+Generative AI - aka gen AI, machine learning implementations that create new information based on trained data
+
 Geolocation - geographical location, a numerical depiction of location coordinates
 
 Ghosting - pressing multiple keys in a way that further keys are incorrectly read as pressed, often limited by a keyboard's n-key rollover
@@ -275,7 +277,7 @@ Interpolation - a mathematically established approximation given other multiple 
 
 Interpreter - computer code that converts high-level programming language into assembly or machine code line by line (typically during runtime), contrast to compiler
 
-IoT - Internet of things, every device, even special-use ones, has an IP address, creating tremendous opportunities as well as [cybersecurity](computers-cysec.md) risks
+IoT - Internet of things, every device, even special-use ones, has an IP address, creating tremendous opportunities as well as [cybersecurity](computers-infosec.md) risks
 
 IP - internet protocol, the standard for networking across the internet, can also refer to [intellectual property](legal-ip.md)
 
@@ -329,6 +331,8 @@ Keyword - specific words that create language associations for users
 
 Key bounce - a situation when a key is registered multiple times with one key press
 
+Key value pair - two pieces of data that have been joined together, the primitives of a database
+
 Kill chain - a hacker's necessary sequence to successfully send a payload through an exploit
 
 Killer app/feature - software or a feature that is so remarkable that it justifies buying the computer just for that thing alone (e.g., Microsoft Office at one time)
@@ -378,6 +382,8 @@ Liquid layout - a ratio determined by a percentage inside an element or screen i
 List - Multiple data put together, doesn't have to be the same type
 
 LLC - logical link control, a subset of the [Data Link layer](computers-networks.md) that deals with directing information to and from various nodes, moves from media access control (MAC)
+
+LLM - large language model, a machine learning implementation to reproduce natural human language
 
 Load - a logic gate selector to dictate whether a register should hold the old information or overwrite it with the new information
 

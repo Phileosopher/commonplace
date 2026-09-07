@@ -24,7 +24,7 @@ Avoid the following:
 
 On a regular basis, do the following to a slow computer:
 
-1. Run an [antivirus scan](computers-cysec-malware.md), just to confirm.
+1. Run an [antivirus scan](computers-infosec-cysec-malware.md), just to confirm.
 2. Check for any running tasks, and sort by [CPU](computers-cpu.md), [memory](computers-memory.md), and [network](computers-networks.md) use to find what's using them the most.
 3. Turn the power settings to the max (on Windows, "Always On" or "High Performance" setting for plugged-in).
 4. Check the interior for dust and blow it out with an air compressor.

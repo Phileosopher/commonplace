@@ -3,10 +3,12 @@
 
 As a concept, "virtual reality" (VR) is highly contextual to the culture that interprets it, and it can be interpreted through a few points of view:
 
-- Augmented reality is essentially reality, but with adaptations to it (e.g., an overlay on top of what you see).
-- Mixed reality is still reality, but a hybrid of reality and simulation (e.g., a sculpture that has virtual elements).
+- Augmented reality (AR) is essentially reality, but with adaptations to it (e.g., an overlay on top of what you see).
+- Mixed reality (MR) is still reality, but a hybrid of reality and simulation (e.g., a sculpture that has virtual elements).
 - Spatial computing is the domain of computing, but with *much* more space involved (i.e., the functions of a 3-dimensional [screen](engineering-screen.md)).
 - Virtual worlds are built around the idea of *completely* removing someone entirely from reality.
+
+All of this together is more officially called extended reality (XR).
 
 VR depends on multiple other technologies to reproduce reality:
 

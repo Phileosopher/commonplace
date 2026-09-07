@@ -102,7 +102,7 @@ They must learn how to manage money:
 - Ages 6-10:
   - Instead of an allowance, pay commissions for added work beyond the normal contributions.
     - An allowance implies that money is always available, but commissions show money's limits and benefits.
-  - Teach the importance of [keeping personal information private](computers-cysec.md), especially with online vendors.
+  - Teach the importance of [keeping personal information private](computers-infosec.md), especially with online vendors.
   - Group their money into 3 categories:
     1. Giving
        - Stress the importance of giving by making them give.

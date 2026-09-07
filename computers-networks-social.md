@@ -9,7 +9,7 @@
 4. Some sites are almost entirely user-made content, and are often called "wikis".
 5. If each user gets the freedom to make their own custom content, it's a "profile page" system.
 6. The user may also have a "feed" that allows that user to present constantly updated, date-sorted data.
-7. Each element of data might give the user freedom to constrain [permissions](computers-cysec-authentication.md) for which users (or unidentified computer users) can access the information.
+7. Each element of data might give the user freedom to constrain [permissions](computers-infosec-authentication.md) for which users (or unidentified computer users) can access the information.
 8. Users may have the freedom to make comments on other users' information.
 9. The comment system may be enhanced so heavily that the users can centralize it on a topic, which is often called a "forum".
 10. The users may grant shared permissions with one another, with some demarcated relationship (e.g, friend, connection, buddy, etc.).
@@ -45,5 +45,5 @@ And, with any algorithmic tailoring, there will be more [bias](mind-bias.md) tow
 - Prioritizing the most-viewed things will make a few things absurdly popular, but nobody will view the other 99.9% of the content, which disincentivizes creation.
 - Prioritizing the least-viewed things will make unpopular things rise to the surface, but without any measurable quality metric the consumers will do something else.
 - Prioritizing anything based on viewer attention will emphasize low-quality things that capture that attention.
-  - Even supposedly high-quality things (e.g., authentic writing, high-quality production values) run the risk of exploitation by [morally unscrupulous people](computers-cysec-socialengineering.md).
+  - Even supposedly high-quality things (e.g., authentic writing, high-quality production values) run the risk of exploitation by [morally unscrupulous people](computers-infosec-socialengineering.md).
 - [The YouTube Apparatus clearly emphasizes this exploitation in far more detail](https://www.cambridge.org/core/elements/youtube-apparatus/36600D69788530F805C650B70976A585).

@@ -11,7 +11,7 @@ Living on a homestead was essential "[normal life](https://gainedin.site/here-mo
 
 The severity of living on a multi-acre property sits on a spectrum relative to how many [conveniences](engineering-conveniences.md) you have available:
 
-- At the farthest end, you can [have a garden](plants.md) and learn how to fix your home (instead of hiring [professionals](professionals.md) for all your basic needs).
+- At the farthest end, you can [have a garden](plants.md) and learn how to fix your home (instead of hiring [professionals](professionals-who.md) for all your basic needs).
 - You could live in a full-function house (indoor plumbing, central HVAC, wireless internet, etc.) with a nice view, a reasonable distance from town, and a slightly increased [risk](safety-riskmgmt.md) from nature and the elements.
 - On the far opposite end, you can live in self-made alternative housing, [grow your food](plants.md), dig your own well, compost your waste, and only visit town in the occasional event of a [medical emergency](body-firstaid.md) you can't handle yourself.
 - On an even farther level, you can live without electricity, only eating food you've grown, composting your own fecal matter, and rarely using money to buy anything at all.
@@ -30,7 +30,7 @@ In general, only consider living somewhat remotely if your [extraversion](people
 
 *Everyone* accustomed to city life must adapt their philosophy on getting things done.
 
-- Everyone only needs to worry about day-to-day needs in a city (hand-to-mouth mentality), [money management](money-1_why.md), and knowing the right [experts](professionals.md) to contact for various [specializations](jobs-specialization.md).
+- Everyone only needs to worry about day-to-day needs in a city (hand-to-mouth mentality), [money management](money-1_why.md), and knowing the right [experts](professionals-who.md) to contact for various [specializations](jobs-specialization.md).
 - Things are often more difficult to find in a rural region, so stockpiling is *absolutely* critical for times when things become more scarce (abundance mentality) and it's important to know how to [diagnose and fix things](https://adequate.life/fix/), as well as finding [creative solutions](mind-creativity.md).
 - In general, everything is no longer a "thing", but now a "sequence", so [plan ahead](mgmt-1_why.md) for *everything* as part of a larger system with an "output" and an "input".
 - Without understanding hand-to-mouth versus abundance, a [long-term disaster](hardship-disaster-2_long-stay.md) becomes almost certain and potentially fatal.

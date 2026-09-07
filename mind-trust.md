@@ -107,7 +107,7 @@ To understand how bound to trust we are, try to prove with absolute certainty th
 
 Frequently, people with trust issues will attempt to tear down *all* forms of trust. It's the same obsession whether they're trying to manage their [understanding](mind-understanding.md) of [science](science.md) or [religion](religion.md). They're powering their decisions by [past trauma](hardship-ptsd.md) and don't want to accept that their need for [certainty](mind-understanding-certainty.md) has been unmet.
 
-APPLICATION: Be careful when dealing with people in occupations that require trust issues (e.g., [cybersecurity](computers-cysec.md), quality control, [law enforcement](legal-safety.md)), as well as people with [pastimes](purpose.md) revolving around [survival](hardship-disaster.md). They're all finding useful [purposes](purpose.md) for [past trauma](hardship-ptsd.md), so they may misuse it.
+APPLICATION: Be careful when dealing with people in occupations that require trust issues (e.g., [cybersecurity](computers-infosec.md), quality control, [law enforcement](legal-safety.md)), as well as people with [pastimes](purpose.md) revolving around [survival](hardship-disaster.md). They're all finding useful [purposes](purpose.md) for [past trauma](hardship-ptsd.md), so they may misuse it.
 
 The journey to find something "trustworthy" is fruitless. Post-modern philosophers speculate with many ideas on how to do it, but never get it right because trust glues *all* our [understanding](mind-understanding.md) together. At its core, we can't verify where or what our subconscious thoughts are.
 

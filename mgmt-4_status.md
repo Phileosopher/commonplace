@@ -43,6 +43,11 @@ For most industries, you'll get more work out of them relative to their hourly r
 - Four-day weeks are a good idea when the project is long-term (e.g., [software developers](computers-programming.md), [actuaries](math-stat.md)), but not for short-term tasks that require a person's physical presence (e.g., retail, construction).
 - Do *not* use a four-day week for tasks that only need a human being physically present (e.g., security guard, cashier).
 
+If you have an international team, aim for the follow-the-sun method.
+
+- Essentially, the shifts will naturally correspond to sunlight times in various time zones.
+- This is critical because night shift does weird things to [most natural sleep cycles](sleep-cycles.md).
+
 ## Checking status
 
 If you have the right team, you can simply tell people what to do and expect them to create results.
@@ -205,7 +210,7 @@ Protect the organization's assets.
 - Install [GPS](logistics-navigation.md) tags on everything that could be stolen.
 - Use [cloud storage and backup](computers-distsys-cloud.md) to prevent data loss from hard drive failures.
 - Teach everyone [basic computer skills](computers.md), or keep them away from computers as much as possible.
-- Practice [basic cybersecurity](computers-cysec.md) including password policies, antivirus software, and a VPN.
+- Practice [basic cybersecurity](computers-infosec.md) including password policies, antivirus software, and a VPN.
 
 Clearly demarcate roles to prevent any one person (including yourself) to have full control.
 

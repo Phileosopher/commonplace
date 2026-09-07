@@ -19,7 +19,7 @@ Along with combining processors, some virtualization settings can combine multip
 
 Virtual machines are run by a "hypervisor", which can either be Level 1 or Level 2. Level 1 hypervisors are run directly by the [BIOS](computers-boot.md), while Level 2 hypervisors work inside the [OS](computers-os.md). Level 1 is ideal if you want speed, but Level 2 is easier to set up.
 
-A hypervisor can allow you to manage many computers at once if you need. For example, VMware has vSphere and vSAN. This may include [group policies](computers-cysec-compliance.md), managing [memory](computers-memory.md) or [processor](computers-cpu.md) use, or running [updates](computers-software-maintenance.md).
+A hypervisor can allow you to manage many computers at once if you need. For example, VMware has vSphere and vSAN. This may include [group policies](computers-infosec-compliance.md), managing [memory](computers-memory.md) or [processor](computers-cpu.md) use, or running [updates](computers-software-maintenance.md).
 
 ## Emulators
 
@@ -41,4 +41,4 @@ However, there are multiple issues that come with their simplicity:
 
 1. You can assign virtual resources ([CPU](computers-cpu.md), [RAM](computers-memory.md), memory, [bandwidth](computers-networks.md)) that aren't actually corresponding to reality. For example, you may set a VM to have 150 GB of hard drive when there's only 40 GB of free space. You won't know that these resources are getting overloaded until you do, and something will crash. In a [business environment](computers-distsys-enterprise.md), this can cost money from being an unreliable service provider.
 2. Since it's so easy to spin up a VM, it's also easy to lose track of all the VMs and what VM does what. At that point, it creates a "VM sprawl", where it's difficult to remember which VM tracks what. The only solution to this is to plan ahead and keep good [documentation](language-writing-documentation.md) on the matter.
-3. There's an inherent [cybersecurity issue](computers-cysec-pentest.md) that comes through a "VM escape". A hacker can use exploits to break out of the VM box and gain access to the primary system.
+3. There's an inherent [cybersecurity issue](computers-infosec-pentest.md) that comes through a "VM escape". A hacker can use exploits to break out of the VM box and gain access to the primary system.

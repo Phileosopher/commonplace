@@ -1,5 +1,5 @@
 
-## Job-seeking when you have a criminal background
+# Job-seeking when you have a criminal background
 
 Your [data reputation](people-image-modern.md) will often follow you into the job market.
 
@@ -24,7 +24,7 @@ When hunting, you can often narrow your results by focusing on keywords that ref
 There are only three ways to sidestep this issue:
 
 1. Connect *much* more with networking than any [formal job hunting](jobs-4_hunt.md) with strangers.
-2. Become *very* good at a [profession](professionals.md) to where an additional fee per month doesn't matter.
+2. Become *very* good at a [profession](professionals-how.md) to where an additional fee per month doesn't matter.
 3. Focus more on [entrepreneurship](entrepreneur-1_what.md) than being an employee.
 
 Your best defense will be by increasing the time since your last conviction.

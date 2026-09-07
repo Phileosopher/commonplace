@@ -187,7 +187,7 @@ Since military conflicts move at the speed of a leader's ego, it can often take 
 
 The composition of the military force strongly determines how their morale maintains itself.
 
-- If the military is heavily reliant on [technology](technology.md), successfully sabotaging that technology will terrify the military (e.g., [hacking](computers-cysec.md)).
+- If the military is heavily reliant on [technology](technology.md), successfully sabotaging that technology will terrify the military (e.g., [hacking](computers-infosec.md)).
 - Mercenaries are happy to fight as long as they're paid, so any form of cutting off their money supply will make them abandon their post.
 - Conscripted soldiers are more loyal than mercenaries, but they have families to return home to. Assuming a side has been [trustworthy](mind-trust.md) with their war prisoners, they will win easily by offering soldiers a chance to return home without consequence.
 - Higher-rank officers seek political influence, so they can often be coerced if they're given a high-rank role or plenty of wealth if they choose to defect.

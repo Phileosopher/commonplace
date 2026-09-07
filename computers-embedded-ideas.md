@@ -10,7 +10,7 @@ To start with, you could easily make a self-sufficient, fully-functioning [perso
 
 Direct use:
 
-- Practice [PenTesting](computers-cysec-pentest.md)
+- Practice [PenTesting](computers-infosec-pentest.md)
 - Record and stream [video](engineering-screen.md)
 - Play [electronic games](fun-games-cs.md)
 
@@ -67,17 +67,17 @@ Automotive backup camera
 
 [Cloud](computers-distsys-cloud.md) synchronized files
 
-[VPN](computers-cysec.md) server
+[VPN](computers-infosec.md) server
 
 Local Tor router
 
-[Firewall](computers-cysec.md)
+[Firewall](computers-infosec.md)
 
 Private [password manager](encryption.md) hosting
 
 [DNS server](computers-browser.md) hosting
 
-[Facial-recognition or voice-recognition](computers-cysec-authentication.md) lockbox
+[Facial-recognition or voice-recognition](computers-infosec-authentication.md) lockbox
 
 ## [Enterprise](computers-distsys-enterprise.md)-grade projects
 

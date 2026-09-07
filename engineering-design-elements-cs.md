@@ -114,7 +114,7 @@ Try to keep all fill-in forms brief and clear:
 - Less effort from the user is better, and the user can often skip *many* elements (names, phone numbers, email confirmations). Some can even be auto-generated (e.g., temporary passwords emailed to the user) or pulled from a social network API.
 - Provide "input masks" that inhibit incorrect entry and use the input box's size to give clear implications.
 - "Autocomplete" the information if it's frequent enough.
-- If an input has any rules, explicitly communicate them nearby without any extra required input before the user enters the information (e.g., [password](computers-cysec-authentication.md) rules, character limits).
+- If an input has any rules, explicitly communicate them nearby without any extra required input before the user enters the information (e.g., [password](computers-infosec-authentication.md) rules, character limits).
 - If the input is a fixed-width verification code (e.g., 4 digits), validate as soon as the final number was entered instead of giving a "Submit" button.
 - Frequently use a "none" or "other" selection, since a 0.01% edge case becomes substantial with many users, or simply have a yes/no question that opens up the selection options.
 
@@ -127,7 +127,7 @@ A computer also must communicate *back* much more than most other products:
   - Be cautious with modals, since mobile device browsers often don't work well with them.
   - Avoid confirmation modals (e.g., "Do you want to continue?"), since users have a habit of quickly clicking through them.
 - "Customer assurance widgets" give a visual indicator the computer is doing something (e.g., percentage indicators, progress bars, animated loading screen), but *only* if it's more than about 0.5-1 seconds. If it takes longer (~5-10 seconds), indicate further information to the user.
-- The software must ask for [permissions](computers-cysec-authentication.md) relative to both when it is absolutely necessary *and* proportional to the user's trust of the software.
+- The software must ask for [permissions](computers-infosec-authentication.md) relative to both when it is absolutely necessary *and* proportional to the user's trust of the software.
 - Clearly indicate any algorithmic results that work in the interests of the user, and hide the rest.
 - However, if the software keeps over-communicating (e.g., too many notifications, too many emails) it should reflect *less* communication from under-interaction.
 - Indicate a download button very distinctly and clearly with color, and with a percentage indicator for anything above a few kilobytes to show progress.

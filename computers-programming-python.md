@@ -3,9 +3,11 @@
 
 A high-level language. It's universally accepted, and dominates all across the world. Like [BASIC](computers-programming-basic.md) once was, it's great for beginners to learn, but comes with drawbacks that beginners won't really care about.
 
-The philosophy behind Python is to create something elegant, simple and clear.
+The philosophy behind Python is to create something elegant, simple and clear. For that reason, the language is very readable and simple to understand.
 
-It's very, very powerful, and the language of choice for heavy-math implementations like [machine learning](computers-ai-ml.md). But, it doesn't scale well:
+Beyond simpler things like [web development](computers-software-webdev.md) it's very, very powerful, and the language of choice for heavy-math implementations like [machine learning](computers-ai-ml.md).
+
+However, Python doesn't scale well:
 
 - The packaging is bad when there are lots of cross-cutting dependencies.
 - There's no concurrency designed into the language.

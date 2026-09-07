@@ -28,7 +28,7 @@ Beyond imposing a black substance onto a paper medium, there are various other p
 - Color printing allows color-based cartridges alongside black. Unlike the [screen](engineering-screen.md), printers use reflected light instead of visible light. So, instead of combining emitted wavelengths with additive colors (red/blue/green), printers use subtractive primary colors instead to *reflect* wavelengths (cyan/magenta/yellow).
 - "Duplex printing" will print a page on both sides. This isn't *strictly* necessary, but can be a severe logistical headache if you're trying to print out a lot of content (e.g., print odd-numbered pages, then load up the pages again and print even-numbered pages).
 - [Network](computers-networks.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
-- Secure printing allows a [password-protected](computers-cysec-authentication.md) print job, which may be important in a large office.
+- Secure printing allows a [password-protected](computers-infosec-authentication.md) print job, which may be important in a large office.
 - For larger printers, including a decent-enough [scanner](computers-ocr.md).
 - If it comes with the functionality of a scanner, it technically has a copier feature as well. However, it's simply printing a scanned (and spooled) copy instead of how copier technology directly imposes a scanned image.
 - While it's not as popular anymore, including a [fax machine](computers-networks.md).
@@ -56,7 +56,7 @@ The workings inside a printer are vastly complicated, which is why printers are 
 
 Updating printers is difficult, since it requires the physical constraints of hardware design, unlike [software](computers-software.md). And unlike software, updates and feedback only roll out at the speed of people buying the new version, so there's no chance to [publicly test](computers-software-redesign.md) printers before a new printer design is thoroughly approved. The extra complexities of printer hardware compared to a [mouse](computers-mouse.md) or [keyboard](computers-keyboard.md) mean they're always behind the reliability of most other I/O devices.
 
-If the printer is connected to a central network (and *especially* if that network is connected to [the internet](computers-sofware-webdev.md)), lagging [security updates](computers-cysec.md) can be a severe problem. Even when a printer doesn't hold on to personal information, it can still have malware installed directly onto its firmware.
+If the printer is connected to a central network (and *especially* if that network is connected to [the internet](computers-sofware-webdev.md)), lagging [security updates](computers-infosec.md) can be a severe problem. Even when a printer doesn't hold on to personal information, it can still have malware installed directly onto its firmware.
 
 However, a long time ago, printers were *far* more flammable. This came from a combination of paper dust, the older dot-matrix printer ribbons, and the fact that some printer cleaning solutions were combustible. A simple spark or enough heat from a heavy printer workload was enough to ignite the device.
 

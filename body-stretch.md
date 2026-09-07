@@ -3,11 +3,16 @@
 
 In most cases, stretching is a critical part of protecting your body.
 
-- [Staying active](body-exercise.md) is critical, but aging almost guarantees that repetitive actions can create a type of brittleness in the body.
+- [Staying active](body-exercise.md) is critical, but aging almost guarantees that repetitive actions can create a type of brittleness that stretching counteracts.
 
 Stretching reduces the risk of long-term injury by expanding how far tendons, ligaments, and muscles can move.
 
 - Trust your impulses you've had as a child and stretch whenever you've been sitting down for 10-20 minutes.
+
+Your lifestyle, no matter what, benefits from stretching.
+
+- If you're active, stretching will keep your body limber instead of it conforming to the repetitive tasks you do over time (e.g., bowlegging from soccer/football).
+- If you're sedentary and sit a lot, stretching prevents your back and spine from shifting out of alignment.
 
 A few vital muscles are more likely to cause problems when they're not stretched out:
 
@@ -23,14 +28,19 @@ A few vital muscles are more likely to cause problems when they're not stretched
 
 Aim for a daily stretch routine that covers your whole body:
 
-- Stretch your arms out to the side.
-- Lift your arms above your head.
-- Grab your hip with one arm, then lift your arm above your head and past it, then repeat for the other side.
-- Stand straight with your legs together and reach to the floor.
-- Spread your legs and keep them straight, then reach to each leg.
-- Grab a leg behind your back and lift it as high as you can, then repeat for the other leg.
-- Crouch low with your legs resting on your knees and lift your ankles.
-- Crouch low with your hands clasped inside your knees and extend your arms and knees outward.
+1. Roll your head while standing still.
+2. Lift your arms above your head.
+3. Stretch your arms out to the side.
+4. Grab your hip with one arm, then lift your other arm above your head and past it, then repeat for the other side.
+5. Place one foot firmly behind you, then bend your front knee and extend your arm:
+   - Direct your palm away from you with fingers upward and pull back on your fingers ("Iron Man")
+   - Direct your palm away from you with fingers downward and pull back on your fingers ("Spiderman")
+   - Direct your palm toward you downwards and pull back on your fingers
+6. Stand straight with your legs together and reach to the floor.
+7. Spread your legs and keep them straight, then reach to each leg.
+8. Grab a leg behind your back and lift it as high as you can, then repeat for the other leg.
+9. Crouch low with your legs resting on your knees and lift your ankles.
+10. Crouch low with your hands clasped inside your knees and extend your arms and knees outward.
 
 Limber up to increase your energy:
 

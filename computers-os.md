@@ -40,6 +40,11 @@ Because tech-savvy people and tech-retarded people have completely different opi
 
 A program is a set of instructions that the computer can run.
 
+Beyond core programs necessary to keep the computer going (and are therefore broadly part of the operating system), there are two other kinds of programs:
+
+- Utility programs that are non-essential but assist with the operating system (e.g., [antivirus](computers-infosec.md), disk scanners)
+- Applications, which are what the user actually uses
+
 When a program [creates variables and runs functions](computers-programming.md), the operating system can run allocate a memory stack for the program ("stack memory allocation"). Then, when the program ends, the operating system will deallocate that memory.
 
 The other option is to store program memory in a heap with all the other programs ("heap memory allocation"). This is easier to make (and used to be the *only* way to run an operating system), but can cause memory leaks if the program's programmer forgot to release the memory before terminating the program.
@@ -60,7 +65,7 @@ There are many default programs built into most general-purpose operating system
 - Notifications to indicate events from the system or relevant updated information from across a [network](computers-networks.md).
 - A shortcut system that allows quick access to programs, documents, and various scripts. In a [console-based GUI](computers-cli.md), quick-reference help documentation on the commands and their syntax.
 - A "clipboard" system that allows copying something, then pasting it somewhere else.
-- To prevent [malicious actors](computers-cysec-pentest.md), a built-in scanner/verification process to [authenticate](computers-cysec-authentication.md) the validity of a program that's about to run.
+- To prevent [malicious actors](computers-infosec-pentest.md), a built-in scanner/verification process to [authenticate](computers-infosec-authentication.md) the validity of a program that's about to run.
 
 ## GUI
 

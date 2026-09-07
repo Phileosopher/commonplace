@@ -16,7 +16,7 @@ However, governments don't always want *you* specifically:
 
 ## Before it happens
 
-Since you'll leave clues with everyone you've spoken with, as well as all your [digital activity](computers-cysec.md), the absolute worst way to leave is throwing everything in a suitcase and running.
+Since you'll leave clues with everyone you've spoken with, as well as all your [digital activity](computers-infosec.md), the absolute worst way to leave is throwing everything in a suitcase and running.
 
 Following you in real life takes more work than following you via computer systems, so you're safest if you minimize your digital trail first:
 

@@ -1,7 +1,7 @@
 
 # What computer games are
 
-The electronic gaming industry is *huge*. It's been pulling in more money than movies for some time now, and as technological implementations like ever-increasing [processing power](computers-cpu.md) and [VR](computers-vr.md) become more affordable, it's only a matter of time before games become the primary medium of electronic entertainment.
+The electronic gaming industry is *huge*. It's been pulling in more money than movies for some time now, and as technological implementations like ever-increasing [processing power](computers-cpu.md) and [VR](computers-xr.md) become more affordable, it's only a matter of time before games become the primary medium of electronic entertainment.
 
 Once technology opens up AR (augmented reality) interfaces, game design directly corresponds to real-world implementations. Further, the technology that feeds into games (e.g., [graphics](engineering-graphics.md) software) often feeds into other more practical outputs, such as [3D printing](engineering-printers.md) and [general-purpose AI](computers-ai.md).
 

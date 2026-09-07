@@ -13,7 +13,7 @@ Many of the instructions online will have "$" or "#" at the beginning of the com
 
 You will frequently need to enter sudo at the beginning of any system process.
 
-- This is "superuser do", and requires you enter your password to authenticate [the highest permission possible on the computer](computers-cysec-authentication.md).
+- This is "superuser do", and requires you enter your password to authenticate [the highest permission possible on the computer](computers-infosec-authentication.md).
 
 ## Keyboard tweaks
 

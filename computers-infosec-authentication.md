@@ -1,7 +1,7 @@
 
 # Authentication
 
-The history of passwords traces back to military messaging. In a [war](people-conflicts-war.md), military leaders must communicate, but without the enemy seeing that communication. The same philosophy holds true with protecting computer information, and is a critical subdomain of [keeping computers safe](computers-cysec.md).
+The history of passwords traces back to military messaging. In a [war](people-conflicts-war.md), military leaders must communicate, but without the enemy seeing that communication. The same philosophy holds true with protecting computer information, and is a critical subdomain of [keeping computers safe](computers-infosec.md).
 
 Most operating system security consists of sequential layers of "authentication". More authentication factors means more complexity.
 
@@ -11,6 +11,8 @@ There is, however, a major risk of *too much* security. It is very easy to creat
 
 ## Factors
 
+The concept of multi-factor authentication (MFA) is to prevent only one thing allowing unauthorized access.
+
 There are three "factors" to give evidence that someone is who they say they are.
 
 - Knowledge: something they know (e.g., a password or other "secret")
@@ -19,15 +21,23 @@ There are three "factors" to give evidence that someone is who they say they are
 
 They all have downsides:
 
-- Someone can guess knowledge (especially with [social engineering](computers-cysec-socialengineering.md)).
+- Someone can guess knowledge (especially with [social engineering](computers-infosec-socialengineering.md)).
 - Someone can duplicate what someone possesses, or at least enough to fool a computer.
 - Nobody can take someone's inherence very easily, but it can't be updated easily if they ever *do* succeed at stealing it (i.e., there's no easy way to rebuild fingerprints or reconstruct a face).
+
+In particular, *everything* someone is that is unchanging (i.e., biometrics like facial recognition and fingerprints) are a terrible idea to use for absolutely anything that's not extremely top-secret.
+
+- Essentially, there will be severe security standards for top-secret projects, which will include the systems that authenticate people.
+- However, for more "mundane" authentication (e.g., personal banking), the standards will *not* be as high and the experts won't be as meticulous.
+- The result of this is that the biometric data *will* get [hacked](computers-infosec-pentest.md), and there is absolutely no way to reset that information.
 
 To that end, most authentication starts with knowledge (often through passwords) and possession.
 
 For additional security, a system may use more than one authentication factor. It's typically a password and a phone code, but could be security questions and a specific computer, or a fingerprint and password.
 
 The best authentication is through a human being observing something natural (like a person they see), but it's also the slowest method.
+
+Very frequently, old authentications (such as a proprietary sign-on) can open the attack surface to a secondary and less-common breach (e.g., old password found, old secondary account hacked).
 
 ### Knowledge: Passwords
 
@@ -40,13 +50,13 @@ While using an arcane combination of letters, numbers, and symbols ("Y3ll0wB@1ly
 
 However, this policy must also require renaming the "default" passwords. Very often, there are automatic passwords that the manufacturer sets, and those require zero guesswork and a few web searches for hackers to discover.
 
-To store the information, it should be in ciphertext, where the password is inaccessible. If a computer ever cross-references the password with *anything*, it's likely waiting to [be compromised](computers-cysec-pentest.md).
+To store the information, it should be in ciphertext, where the password is inaccessible. If a computer ever cross-references the password with *anything*, it's likely waiting to [be compromised](computers-infosec-pentest.md).
 
 However, user decisions are the best solution for password integrity. Every user should routinely change all their passwords, *especially* admin accounts.
 
 Be careful with any 4-digit PIN.
 
-- It may seem like a 1 in 10,000 chance for a hacker, but [there are ways to deduce it down](computers-cysec-authentication-pin.jpg).
+- It may seem like a 1 in 10,000 chance for a hacker, but [there are ways to deduce it down](computers-infosec-authentication-pin.jpg).
 
 ### Possession: Checksum
 

@@ -39,7 +39,7 @@ In software, [the UI](engineering-design.md) can hide away most features, so the
 
 The more time software developers work on features, the less they're working on the core function of the software, and this contributes to the eventual decay of the software as a whole.
 
-One of the most significant sources of slowdown and [cybersecurity risks](computers-cysec.md) comes from using an off-the-shelf [framework](computers-programming.md) for an application:
+One of the most significant sources of slowdown and [cybersecurity risks](computers-infosec.md) comes from using an off-the-shelf [framework](computers-programming.md) for an application:
 
 - That framework will likely be sufficient (even to easily [scale](computers-distsys-enterprise.md)), but over time the developers of *that* framework can often add arbitrary features that will severely slow it down (and therefore the dependent project).
 - Even without a framework, a sufficiently complex framework-free application will have an ad-hoc, [informally-specified](language-writing-documentation-cs.md), [bug-ridden](computers-software-redesign.md), slow implementation of half of a framework.
@@ -53,7 +53,7 @@ Over time, a software can develop a strong "user base", which means the software
 
 However, more features create more avenues of maintenance. The [nature of specialization](jobs-specialization.md) means that the software will slowly advance to several possible states:
 
-1. The software is finished. Outside of [security patches](computers-cysec.md) or [OS updates](computers-os.md), there is no further need to work on the software.
+1. The software is finished. Outside of [security patches](computers-infosec.md) or [OS updates](computers-os.md), there is no further need to work on the software.
 2. The software isn't as good as it used to be. All the features have bogged it down, or some features interfere with the software's core use.
 3. The software is still very good, but it has been acquired by developers who don't care to maintain it. It doesn't receive critical updates and becomes unsafe or unwieldy compared to alternatives.
 

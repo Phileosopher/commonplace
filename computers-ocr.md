@@ -48,7 +48,7 @@ Broadly speaking, there are several major standards for scanned document files:
 The PDF protocol was designed by Adobe to replace all the usefulness of paper, and contains a *vast* collection of features:
 
 - Bookmarks for referencing locations.
-- [Password-protection](computers-cysec-authentication.md) and [encryption](encryption.md) of the file itself.
+- [Password-protection](computers-infosec-authentication.md) and [encryption](encryption.md) of the file itself.
 - [Metadata](computers-files.md) storage, for just about anything.
 - Multiple layers for annotations, OCR, form fills, signatures, write-protection, and read-protection.
 - Hidden text (functionally similar to [HTML's](computers-sofware-webdev.md) [image](engineering-graphics.md) alt text).

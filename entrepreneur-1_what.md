@@ -41,7 +41,7 @@ Finally, they generally must be humble enough to accept what they don't know.
 
 - If they're older, they'll need to follow the trends that younger people adopt, meaning they'll have to change their ways.
 - If they're younger, they'll need to take the experience and wisdom of older generations.
-- They'll have to touch *many* [specialized domains](jobs-specialization.md), so they'll need to learn when they must simply trust [professionals](professionals.md).
+- They'll have to touch *many* [specialized domains](jobs-specialization.md), so they'll need to learn when they must simply trust [professionals](professionals-who.md).
 
 ## Skills
 

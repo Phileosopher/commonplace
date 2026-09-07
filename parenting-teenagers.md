@@ -80,6 +80,13 @@ You probably won't like their new assertions for independence:
 - While you can sometimes stop them from what you see as bad decisions, they'll likely find a way (since they've seen your approach for over a decade) and may despise you for trying.
 - Most of the time, they're *still* terrible at [communicating](language-speaking.md) their needs and desires, now with the extreme flow of hormones from puberty instead of simply not having words to describe their feelings.
 
+They will likely do something you don't approve of.
+
+- They will often have something they're trying to hide from you (e.g., drugs, pornography, bad grades).
+- Your first impulse will often be to ask, "Why would you do that?", which is more of an accusation than a question.
+  - They'll usually do everything they can to defend themselves, which will be the shortest answer to make them go away and they'll hide it better the next time.
+  - Instead, state "please help me understand what happened", and let them answer.
+
 To maintain their innocence, inform them as much as possible about *everything* in the world:
 
 - It's counter-intuitive, but they can preserve their innocence when they're educated without the awful experiences that usually come with that education.

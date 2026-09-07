@@ -1,16 +1,6 @@
 
 # Enterprise systems
 
-As a natural product of [economics](money-economics.md), Large things cost more than small things. There are various reasons why "enterprise" computers cost more than consumer-grade computers:
-
-- A relatively fast computer for personal use is often running at full capacity when a business is using it for something heavy (like a [website](computers-sofware-webdev.md) or hosting app data).
-- Consumer computers are typically designed with the understanding that people won't use it at full capacity very frequently, though that's frequently an exception for [playing games](computers-software-gamedev.md). This means that things like heat management and more error-correcting code are *much* more important in businesses than for consumers.
-- When consumer computers "crash", they'll be inconvenienced and might lose data (assuming it's not [cloud-synced](computers-distsys-cloud.md)). When business computers crash, a company will usually lose money.
-
-Consumer computers tend to have prettier-looking cases, but are less efficient and powerful. They also easily cost 1/4 a business computer that's roughly the same specifications.
-
-While it's technically *possible* to run everything in a business on a distributed [Raspberry Pi array](computers-embedded.md), it's typically more labor-intensive for the technicians, so it's not likely saving money in most cases.
-
 Even in not-for-profits, the scale that most organizations need computers is so vast that "enterprise" is a broad catch-all concept.
 
 ## History
@@ -24,6 +14,18 @@ But, not everyone had to run a computer to run 24/7, so it made much more sense 
 Since the computers were vast and had been parallel processing, it made sense to have multiple calculations from different sources happening at once. This was called "time-sharing".
 
 Now, ever since the internet became popular in the mid-1990's, most modern large-scale computer needs are designed for the heavy data management back-end operations and front-end management of public-facing [internet websites](computers-sofware-webdev.md).
+
+## High-Power Computers
+
+As a natural product of [economics](money-economics.md), Large things cost more than small things. There are various reasons why "enterprise" computers cost more than consumer-grade computers:
+
+- A relatively fast computer for personal use is often running at full capacity when a business is using it for something heavy (like a [website](computers-sofware-webdev.md) or hosting app data).
+- Consumer computers are typically designed with the understanding that people won't use it at full capacity very frequently, though that's frequently an exception for [playing games](computers-software-gamedev.md). This means that things like heat management and more error-correcting code are *much* more important in businesses than for consumers.
+- When consumer computers "crash", they'll be inconvenienced and might lose data (assuming it's not [cloud-synced](computers-distsys-cloud.md)). When business computers crash, a company will usually lose money.
+
+Consumer computers tend to have prettier-looking cases, but are less efficient and powerful. They also easily cost 1/4 a business computer that's roughly the same specifications.
+
+While it's technically *possible* to run everything in a business on a distributed [Raspberry Pi array](computers-embedded.md), it's typically more labor-intensive for the technicians, so it's not likely saving money in most cases.
 
 ## Large Computer Cases
 
@@ -61,7 +63,10 @@ However, the extra value and availability of that data means it *must* have at l
 
 - Synchronize all the data across multiple hard drives, to avoid the chance that a hard drive fails with that critical data.
 - Synchronize all the data across multiple locations, just in case a freak tornado or political insurrection destroys the data center.
-- Routinely keep copies in "cold storage" off the network, just in case the servers get [hacked](mind-creativity-hacking.md).
+- Routinely keep copies at a backup site:
+  - Hot site: fully operational and ready to be used in the event of a severe adverse event like a natural disaster or [hack](mind-creativity-hacking.md).
+  - Warm site: partially equipped for a disaster, but may require additional setup before it can be operational.
+  - Cold site: not equipped, but reserved for use along with "cold storage" off the network.
 - If the organization is large enough, synchronize across multiple data centers across the world to increase data transfer speeds for the customers.
 
 ## Computes
@@ -87,7 +92,7 @@ While [networking concepts](computers-networks.md) apply the same in both consum
 - IP addresses on a network can get complicated, so networks often need "IP address management" (IPAM) software to track them.
 - Most of the updates and management of the computers will be "out-of-band" to make life easier for the people running the updates. This will require an "intelligent platform management interface" (IPMI) that tracks everything across a [distributed system](computers-distsys.md).
 - Maintaining a "backbone" network that's relatively high-speed (with nothing but expensive routers in it), with the lower-speed computer connections linking to the backbone network.
-- [Cybersecurity](computers-cysec-compliance.md) becomes an extremely complicated [design](engineering-design.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](mind-creativity-hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_what.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
+- [Cybersecurity](computers-infosec-compliance.md) becomes an extremely complicated [design](engineering-design.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](mind-creativity-hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_what.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
 
 The room with the servers is often known as the "main distribution frame", while the telecommunications room (with the network switches) may often be in *another* room called the "intermediate distribution frame".
 
@@ -95,7 +100,7 @@ To improve network connection across long distances, most large companies use "c
 
 There are two major design philosophies for building a CDN:
 
-1. Enter deep - pioneered by Akamai, which involves closely connecting with *thousands* of endpoints, more expensive but more reliable.
+1. Enter deep - pioneered by Akamai, which involves closely connecting with *thousands* of endpoints, more expensive and resource-intensive but more reliable.
 2. Bring home - a more popular approach, which connects with Internet Exchange Points (IXPs) to deliver longer-distance from more centralized locations.
 3. Some hybrid of the two, which is often what large tech companies end up doing (e.g., bring home for most major metropolitan areas, but enter deep for rural communities).
 
@@ -105,7 +110,7 @@ To load-balance, the easiest solution can be to route the end user to the neares
 
 [Cloud implementations](computers-distsys-cloud.md) are often popular now for minimizing latency from long-distance internet connections and making CDNs, and there are several tradeoffs when using them:
 
-- [Security and compliance](computers-cysec-compliance.md) issues, which can include trust issues with [Big Tech](computers-bigtech.md).
+- [Security and compliance](computers-infosec-compliance.md) issues, which can include trust issues with [Big Tech](computers-bigtech.md).
 - Optimizing for [UX](engineering-design.md), including making the experience as fast as possible for the user.
 - Costs, where sometimes a mainframe is more expensive when it's sitting idle than simply renting out hosting from somewhere else.
 
@@ -125,7 +130,7 @@ Ideally, they *should* be using the same "environment", since different environm
 
 To accommodate all the changes, and the need to make sure everything runs correctly, everyone agrees to a "service-level agreement" (SLA) that conforms to a "service-level objective" (SLO).
 
-## Failing
+## Failing/Complexities
 
 The trouble with maintaining three environments, though, is that the conditions for each of them might not be precisely the same. Those edge cases will make a dramatic difference if anything goes wrong.
 
@@ -135,16 +140,67 @@ This failure, mixed with the complexities of *many* various integrated systems, 
 
 - They will absolutely *need* other software-as-a-service (SaaS) to maintain their sanity.
 
-## Decentralized
+All of these additional complexities require the [specializations](jobs-specialization.md) endemic to [large groups](groups-large.md), which create [entire institutions for computer management](mgmt-cs.md).
 
-While it's still not developed much, the conventional host/client relationship (i.e., big computers sending out to comparatively little consumer computers) has a different sort of protocol to contend with: [the P2P protocol](computers-distsys-torrent.md).
+Further, the conventional host/client relationship (i.e., big computers sending out to comparatively little consumer computers) is easier than [peer-to-peer connections](computers-distsys-p2p.md), which can add even *more* complexities to the arrangement.
 
-## Pricing
+## Scope of Service
 
 If you're managing computers, you'll have various customers.
 
 - Some will want to host their low-profile project for their family and friends, while others will have profoundly large computing needs.
 - Some will pay the same amount every month, while others will want your service as a "redundant" backup plan if theirs fails.
+
+Categorically, the variants of providing computer services are often framed as "X-as-a-service":
+
+- Infrastructure (IaaS): base resources like virtual servers, storage, and networking
+  - The customer manages the OS, middleware, and applications
+  - e.g., Amazon EC2, Google Compute Engine, Microsoft Azure
+- Platform (PaaS): gives a framework and pre-configured platform
+  - This is specifically tailored for software developer customers deploying an app
+  - e.g., Google App Engine, Heroku, Microsoft Azure App Services
+- Function (FaaS) or serverless computing: runs single-purpose code functions triggered by specific events
+  - The customer simply deploys it, and the provider deals with all the scaling and infrastructure issues.
+  - e.g., AWS Lambda, Google Cloud Functions
+- Software (SaaS): complete, ready-to-use subscription products
+  - The provider manages *everything*.
+  - This requires the least tech-savvy, and services most people.
+  - e.g., Gmail, Salesforce
+
+Further, there are many specialized services based on specific needs:
+
+- Backup and Recovery (BaaS): storing a backup for crtical information
+- Disaster Recovery (DRaaS): hosting critical external IT in case of a major outage
+- Backend or Mobile Backend (BaaS): pre-made [cloud](computers-distsys-cloud.md) components like database management, [user authentication], and push notifications
+- Container (CaaS): gives a container for the customer
+  - e.g., Google Kubernetes Engine, Amazon ECS
+- Desktop (DaaS): gives a [virtual environment](computers-distsys-vm.md) for a full-desktop remote experience
+  - e.g., Amazon WorkSpace, VMware, Horizon Cloud
+
+In particular, software services (usually SaaS) come in several standardized varieties, and many business models are designed around keeping that software going:
+
+- Marketing and Sales: [marketing](marketing.md) support
+  - e.g., Google Ads
+  - Customer Relationship Management (CRM): [marketing](marketing.md) support specifically for [customer service](people-customerservice.md)
+  - Content Management System (CMS): maintains [websites](computers-software-webdev.md)
+  - e.g., Salesforce, chatbots
+- Supply Chain Management (SCM): [logistics](logistics.md) support
+  - e.g., SAP
+  - Point of Sale (POS): specifically managing retail [sales](marketing-sales.md)
+  - Transportation Management System (TMS): specifically managing [specific drivers](autos-driving.md)
+- Enterprise Resource Planning (ERP): unifying everything together and supporting [project management](mgmt-2_projects.md)
+  - e.g., Oracle, SAP
+  - Business Intelligence (BI): makes [predictions](mind-imagination.md) through [analysis](logic.md)
+  - Document Management System (DMS): maintains [documents](language-writing-documentation.md)
+- Human Resources Management (HRM): automating [hiring and employee support](mgmt-3_teams.md)
+- Financial Management System (FMS): [accounting](money-accounting.md)
+  - e.g., QuickBooks/Intuit
+  - Transaction Processing System (TPS): tracks transactions, usually associates with POS as well
+- Learning Management System (LMS): [education](education-how.md) support
+- Electronic Health Records (EHR): [healthcare](body-health.md) support
+- It's worth noting that these are *not* exclusive, and one of them frequently bleeds into serving roles in everything else.
+
+## Over-promising
 
 There is a hidden risk with any sufficient "unlimited" plan for absolutely every service provider.
 
@@ -167,4 +223,4 @@ However, the bad marketing promise has 2 possible solutions:
 1. Set a hard and non-negotiable limit for every public pricing model. This allows the service provider to accurately gauge the cost and never worry about changing their promises later. It gives full flexibility, but keeps everyone honest and won't ruin the customers' lives later.
 2. Charge per-item, per-piece, at a *very low profit margin. This often requires the customers to be abnormally tech-savvy unless you bill the customer for tech support.
 
-To specialize with different customers, set up a "dedicated" plan and a "shared" plan. The dedicated customers will have more direct access to everything, while the enthusiasts and small business owners can use the shared tier.
+To specialize with different customers, the answer is to set up a "dedicated" plan and a "shared" plan. The dedicated customers will have more direct access to everything, while the enthusiasts and small business owners can use the shared tier.

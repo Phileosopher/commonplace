@@ -168,3 +168,5 @@ For Linux OS (only tested so far on Ubuntu), enable the "Compose" key in the key
 [Firefox keyboard shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)
 
 [Mac keyboard shortcuts](https://support.apple.com/en-us/102650)
+
+[Gmail keyboard shortcuts](https://support.google.com/mail/answer/6594)

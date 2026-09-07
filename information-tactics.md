@@ -280,7 +280,7 @@ The Over-Information Age has effectively reversed the constraints:
 
 - Within 3 minutes, a casual life improvement can get 300 votes from others on social media, with a 10-15 minute video or blog post adding extra emphasis to the experience.
 - The endless pipeline of news, updates, emails, notifications, and distractions can agitate us into taking action almost immediately if any of that information happens to be relevant.
-- We can learn just about anything almost immediately, which can easily build a chain of endlessly developing amateur skills in something without polishing that understanding or task into [mastery](professionals.md).
+- We can learn just about anything almost immediately, which can easily build a chain of endlessly developing amateur skills in something without polishing that understanding or task into [mastery](professionals-how.md).
 - [Information technology](computers.md) allows one person to perform the work of 20 people from 100 years ago, which can add value through better results but also diminishes the entire experience.
 
 Our inherently social nature, mixed with the ubiquity of [social media](computers-networks-social.md), have passively engineered us to perform off-the-cuff communication, which shortcuts the neocortex.

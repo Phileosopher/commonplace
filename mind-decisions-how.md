@@ -150,7 +150,7 @@ The closeness of your connection with that person has an effect on the kind of a
 
 - Asking close friends or family will almost guarantee they have their own interests.
   - For example, if you have a friend who likes you, they will not want you to [move away](home-moving.md).
-- Asking complete strangers usually guarantees an uninvolved experience, as long as you don't give [personally identifiable information](computers-cysec-osint.md).
+- Asking complete strangers usually guarantees an uninvolved experience, as long as you don't give [personally identifiable information](computers-infosec-osint.md).
 - The safe middle ground is asking casual friends (e.g., in your [workplace](jobs-7_transition.md))
 
 Thus, all together, consider each word of advice with the following context:

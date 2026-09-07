@@ -358,7 +358,7 @@ If it's more than yourself, describe the employees who'll work there and what th
 - The types of labor (skilled, unskilled, professional)
 - The qualities of the current staff who will be assigned to it
 - Where and how the organization finds employees, how they will train them, and their requirements
-- Whether the organization will use contract workers or [professionals](professionals.md) alongside employees
+- Whether the organization will use contract workers or [professionals](professionals-who.md) alongside employees
 - Tasks assigned to each worker and how their responsibilities will change over time
 - Schedules and written procedures for [managing employees](mgmt-1_why.md)
 
@@ -424,7 +424,7 @@ In tech startups, one of the most distinctive domains of business plans comes th
 
 ### Professional/Consulting Support
 
-Clarify the company's primary [professionals](professionals.md):
+Clarify the company's primary [professionals](professionals-who.md):
 
 - [Attorney](legal-safety.md)
 - [Accountant](money-accounting.md)

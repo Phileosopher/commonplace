@@ -127,7 +127,7 @@ Mauled by bears (2 Kings 2:23-24).
 
 Debt/tax paid off (2 Kings 4:1-7, Matthew 17:24-27).
 
-Provides direct [intelligence](computers-cysec-osint.md) (2 Kings 6:12).
+Provides direct [intelligence](computers-infosec-osint.md) (2 Kings 6:12).
 
 Protection from fire (Daniel 3:10-27).
 

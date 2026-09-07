@@ -11,6 +11,12 @@ We still use barcodes (e.g., homogenous retail products) and magnetic ink (e.g.,
 
 Almost everything else has either moved to keyboard-based input or is supplemented with it. Even completely screen-based interfaces (e.g., mobile devices) often use an on-screen keyboard.
 
+## Long-term health
+
+Anyone who sits at a computer all day has a [major health risk](body-health.md), and keyboards are a huge contributor to that.
+
+The ideal ergonomic placement of a keyboard is for the person's hands to be at rest. Therefore, counter to many keyboard configurations, the best place for the keyboard to be is sloped *downward* from the user.
+
 ## Closing circuits
 
 When you press a key on a keyboard, you're closing a circuit. That circuit sends an electrical pulse to the [CPU](computers-cpu.md) with a binary code representing a number. This is reproduced digitally if the keyboard is on a screen.
@@ -46,7 +52,7 @@ Further, multiple other features are *often* on a keyboard, though they're not r
 
 There are other keyboards, such as for stenography, and there are plenty of weird designs, but the QWERTY model seems to have stuck in the public mind as good enough.
 
-- There are other keyboards that run similarly (DVORAK and AZERTY), but the added value they provide is so negligible, if any, compared to [convention](habits.md), that they haven't caught on anywhere.
+- There are other keyboards that run similarly (DVORAK and AZERTY), but the added value they provide is so negligible, if any, compared to [convention](habits.md), that they haven't caught on anywhere. And, the dominant issue will be someone adapting to *two* [standards](standards-computers.md).
 
 It's worth noting that *all* keys can be re-mapped.
 

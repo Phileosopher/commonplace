@@ -114,7 +114,7 @@ To speed up networks by avoiding all that useless data transfer, engineers desig
 Wireless networks add a few complications:
 
 1. [Wireless technologies](engineering-radio.md) are extremely volatile, and seemingly unrelated things can disrupt wireless signals. So, while they're merely a matter of activating hardware to set up (as opposed to running cables), they're a headache to troubleshoot.
-2. Most of the [cybersecurity concerns](computers-cysec.md) with wireless networks comes from the physics-based reality that a Wi-Fi signal can only exist as a network hub.
+2. Most of the [cybersecurity concerns](computers-infosec.md) with wireless networks comes from the physics-based reality that a Wi-Fi signal can only exist as a network hub.
 
 Unlike the other 6 layers, Layer 2 has two sub-layers:
 
@@ -169,7 +169,7 @@ IP addresses have an amusing story behind them:
    - 64 bits are the network ID on the front, and the other 64 bits are the interface ID, which makes the information obvious at a glance.
 4. Selling companies on transitioning from IPv4 to IPv6 has been *very* difficult, so it creates strange bottlenecks and technical issues throughout the internet as the scarcity of IPv4 addresses keeps growing.
 5. Marketers developed the "Internet of Things" (IoT) to sell IPv6 to consumers. This meant simply that all sorts of devices, from fridges to cars to slow cookers, got an IP address.
-6. While there are tremendous opportunities of having special-use devices that operate as independent network assets, it created tremendous [cybersecurity risks](computers-cysec.md) as well.
+6. While there are tremendous opportunities of having special-use devices that operate as independent network assets, it created tremendous [cybersecurity risks](computers-infosec.md) as well.
 
 On Layer 3, computers individually look at packets without any context to a broader channel of information, meaning that they're "connectionless".
 
@@ -220,7 +220,7 @@ There are two methods for how a computer establishes a session:
 - Client and server model - The application requesting the information is called the "client" and initiates a request for information from the "host", and most of the information travels in one direction.
 - Request and response model - The information travels back-and-forth constantly, with each computer asking for information and the other one responding with it or stating it doesn't have it.
 
-[P2P](computers-distsys-torrent.md) is a relatively newer standard that involves a request and response model where *all* the computers are sending and receiving information simultaneously.
+[P2P](computers-distsys-p2p.md) is a relatively newer standard that involves a request and response model where *all* the computers are sending and receiving information simultaneously.
 
 Depending on the protocol, the data will transfer differently:
 
@@ -240,7 +240,7 @@ This mostly has to do with [character encoding](computers-keyboard.md) along wit
 
 The PDU at the Presentation layer is the data formatted for delivery (if outgoing) or presentation (if incoming).
 
-Often, the issues on the Presentation layer are tied to bad [operating system](computers-os.md) drivers or permissions issues involving the user's access level, and sometimes [malware](computers-cysec-malware.md).
+Often, the issues on the Presentation layer are tied to bad [operating system](computers-os.md) drivers or permissions issues involving the user's access level, and sometimes [malware](computers-infosec-cysec-malware.md).
 
 ## Layer 7: aplication
 
@@ -326,7 +326,7 @@ Because of how much TCP works with IP, the two pair into a frequently used term 
 - Transport Layer - Layer 4
 - Application Layer - Layers 5-7
 
-For [cybersecurity reasons,](computers-cysec.md) some information must be [encrypted](encryption.md) across the internet. While this is *usually* done on Layer 3, it can also be done on Layer 2 (such as L2TP).
+For [cybersecurity reasons,](computers-infosec.md) some information must be [encrypted](encryption.md) across the internet. While this is *usually* done on Layer 3, it can also be done on Layer 2 (such as L2TP).
 
 Further, some protocols run across *multiple* layers. [Mobile](engineering-radio.md) carrier [protocols](standards-computers.md) run across L1, L2, and L3:
 

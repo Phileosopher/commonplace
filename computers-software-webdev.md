@@ -21,7 +21,7 @@ Most network [protocols](standards-computers.md) work over the internet. Since i
 8. Others like Svelte, Solid, and HTMX were made to fix React onward.
 9. About 75% of the websites still run on jQuery.
 
-To add to the above complexity, there are also [cybersecurity](computers-cysec.md) concerns from literally the entire planet. Every website essentially needs a [signed certificate](computers-cysec-authentication.md) to be trustworthy. Even then, it's absolutely crucial to develop [healthy web browsing habits](computers-cysec.md).
+To add to the above complexity, there are also [cybersecurity](computers-infosec.md) concerns from literally the entire planet. Every website essentially needs a [signed certificate](computers-infosec-authentication.md) to be trustworthy. Even then, it's absolutely crucial to develop [healthy web browsing habits](computers-infosec.md).
 
 ## Hardware
 
@@ -40,7 +40,7 @@ Most web servers run on Apache [Linux](computers-os-unix.md) in an "AMP server" 
 
 Ever since the "Internet of Things", just about every computer has an "IP address". This means they have a code (IPv4 and/or IPv6) to distinguish them from all the other ones.
 
-The "public IP address" is usually the internet-facing "router" or "gateway device" that the computer is connecting through, though it can be a [VPN's IP](computers-cysec.md) if you have one. Underneath that, there are multiple "private IP addresses" assigned to every computer on that network.
+The "public IP address" is usually the internet-facing "router" or "gateway device" that the computer is connecting through, though it can be a [VPN's IP](computers-infosec.md) if you have one. Underneath that, there are multiple "private IP addresses" assigned to every computer on that network.
 
 There are 3,706,452,992 possible public IPv4 addresses, and IPv6 has some technical hangups. Part of it comes from the fact that IPv4's dotted-quad notation is on the upper threshold of [standard human memorization](mind-memory.md), while IPv6 is absurdly hard to memorize. To that effect, IPv4 addresses have become [somewhat of a tradable commodity](money-economics.md) due to scarcity.
 

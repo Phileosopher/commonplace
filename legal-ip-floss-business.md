@@ -10,7 +10,7 @@ Selling software without any free options creates more work for [marketing](mark
 The nature of software gives *many* ways to market and expose people to a free product:
 
 - Release "bundleware" with added software included during the software's installation (most notably in [Windows-based](computers-os-windows.md) software).
-  - The free software will often include unwanted junk like [browser toolbars](computers-sofware-webdev.md), [antivirus software](computers-cysec-malware.md), and [adware](computers-cysec-malware.md).
+  - The free software will often include unwanted junk like [browser toolbars](computers-sofware-webdev.md), [antivirus software](computers-infosec-cysec-malware.md), and [adware](computers-infosec-cysec-malware.md).
   - Generally, this requires [dark patterns](engineering-design.md) to provoke unknowing users to download the extra software.
 - Load the product interface with paid advertisements from vendors.
   - This is largely becoming unpopular ever since the [online ad market started shifting](marketing.md).
@@ -32,7 +32,7 @@ The nature of software gives *many* ways to market and expose people to a free p
 
 Contrary to most non-technical intuition, completely closed-source software can often sabotage long-term profits:
 
-- The majority of highly intelligent people who *could* improve the software [from their particular specialization](jobs-specialization.md) won't see how the software is designed, and software [bugs](computers-software-redesign.md) will eventually lag over any open-source alternative. Thus, most intelligent people viewing the code will reverse-engineer or [pentest](computers-cysec-pentest.md) it.
+- The majority of highly intelligent people who *could* improve the software [from their particular specialization](jobs-specialization.md) won't see how the software is designed, and software [bugs](computers-software-redesign.md) will eventually lag over any open-source alternative. Thus, most intelligent people viewing the code will reverse-engineer or [pentest](computers-infosec-pentest.md) it.
 - The [forbidden fruit effect](philosophy-lawsaxioms.md) means that software developers are more likely to [reverse-engineer](mind-creativity-hacking.md) it, which means they'll easily "clone" the software. The intelligence requirements of doing this means they'll likely create a better version of it.
 - Software intellectual property is *very* difficult to enforce, and requires extra legal expenses to maintain it, as well as the chances of a [legal precedent](legal-lawsaxioms.md) of *not* enforcing that intellectual property concluding in a lost suit.
 - While intellectual property can protect ideas, it's only partially effective. If anything is legitimately groundbreaking, the original creator only has a few years of innovation before the idea is blatantly copied.
@@ -52,7 +52,7 @@ Tech companies that create [computer hardware](computers-hardware.md) will often
 
 Building a personal or closed-source company project into an open-source one doesn't take *too* much [documentation](language-writing-documentation-cs.md):
 
-1. Scan the entire codebase for any "[secrets](computers-cysec-authentication.md)".
+1. Scan the entire codebase for any "[secrets](computers-infosec-authentication.md)".
 2. If a company, replace internal names and emails with public ones.
 3. Write the contribution guidelines (in CONTRIBUTING.md).
 4. Write templates for [bug reports](computers-software-redesign.md) and [pull requests](computers-software-versionctrl.md).
@@ -74,8 +74,8 @@ Human nature mixed with freely distributed software means it's constantly tweake
    - Lousy UX can sometimes turn off average users who are accustomed to high-grade [marketing](marketing.md) built into the software, but the open-source subculture (such as [GNU/Linux](computers-os-unix.md) fans) often won't care if the software does their work better.
 4. Some of the most talented software developers in the world build open-source.
    - While [finding a bug](fix-cs.md) is often easy, open-source software allows a qualified developer to localize the code that creates the bug, then create code that [submits a pull request](computers-software-versionctrl.md) to fix it.
-   - Since *everyone* is looking at the codebase, it allows more accountability, which can dramatically improve how [safe](computers-cysec.md) the software is from bad actors.
+   - Since *everyone* is looking at the codebase, it allows more accountability, which can dramatically improve how [safe](computers-infosec.md) the software is from bad actors.
 
-While a [hacker](mind-creativity-hacking.md) *could* insert [malicious code](computers-cysec-malware.md) into open-source software, they'd have to submit a pull request that had to get approved. A developer who worked very hard to build software will *not* approve something that turns it into malware or bricks it. However, a bad actor has the full capacity to fork and release a different version, though it may be difficult for the tech community to trust its legitimacy (i.e., "What makes *that* software better than what we know about already?").
+While a [hacker](mind-creativity-hacking.md) *could* insert [malicious code](computers-infosec-cysec-malware.md) into open-source software, they'd have to submit a pull request that had to get approved. A developer who worked very hard to build software will *not* approve something that turns it into malware or bricks it. However, a bad actor has the full capacity to fork and release a different version, though it may be difficult for the tech community to trust its legitimacy (i.e., "What makes *that* software better than what we know about already?").
 
-Often, code might *not* be open-source within a company. If that's the case, a developer who worked at that company may not be free to publish it legally. It doesn't stop many of them, however, from [*illegally* publishing it](computers-cysec-pentest.md) (usually anonymously). Most software developers avoid this conundrum by establishing one of the above-stated open-source licenses before writing any code, even if they don't publish until after they leave the company.
+Often, code might *not* be open-source within a company. If that's the case, a developer who worked at that company may not be free to publish it legally. It doesn't stop many of them, however, from [*illegally* publishing it](computers-infosec-pentest.md) (usually anonymously). Most software developers avoid this conundrum by establishing one of the above-stated open-source licenses before writing any code, even if they don't publish until after they leave the company.

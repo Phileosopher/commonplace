@@ -177,7 +177,7 @@ Watch for silent [power moves](power-influence.md):
 
 Their entire domain will consist of a type of arrogance and conceit.
 
-- Ironically, it usually only takes one [professional](professionals.md) or [autistic](mind-neurodivergence-autism.md) to undo *years* of effort.
+- Ironically, it usually only takes one [professional](professionals-how.md) or [autistic](mind-neurodivergence-autism.md) to undo *years* of effort.
 
 Since the world hasn't given them what they want for a long time, and they have tremendous [anger](mind-feelings-anger.md) over it.
 

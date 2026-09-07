@@ -79,6 +79,8 @@ As we grow, our purposes accommodate others' purposes as well. The [power](power
 
 When we're young, our lack of knowledge means we don't [understand](mind-understanding.md) the challenges we may have to face, which means our [feelings](mind-feelings.md) from how daunting a task can be won't interfere with [imagining](mind-imagination.md) what we wish to [build](results.md). Unless we maintain a [habit](habits.md) of constant curiosity, this passion burns off as we [age](maturity.md), but we become more effective because our purposes have more grounding in experience.
 
+Over time, as we start building skills in imagining things correctly, we can start aligning the purpose for a specified use. That use will oftne create tremendous consequences once we [become proficient at it](professionals-how.md).
+
 APPLICATION: [Young people](maturity.md) tend to explore, while older people tend to exploit.
 
 FURTHER APPLICATION: As we age, our purposes become more intentional and less inspirational. This isn't necessarily a good or bad thing, but means we're more likely to stop hoping for good things and run the risk of pushing against [social progress](people-trends.md).

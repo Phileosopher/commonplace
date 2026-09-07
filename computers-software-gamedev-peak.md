@@ -28,7 +28,7 @@ Gaming computers are the most expensive consumer-grade computers on the market, 
 
 1. The [visual elements](engineering-design.md) are usually far more [vast](engineering-graphics.md), and the designers need to worry about both animation *and* static elements.
 2. The [audio](computers-speakersmic.md) must be synchronized to the visual experience, so it has to be correctly designed, from the sound effects to the soundtrack.
-3. Games require *immediate* feedback from the input peripherals (such as the [keyboard](computers-keyboard.md) or [mouse](computers-mouse.md), and now [VR](computers-vr.md)). While people can endure a 1-second delay in many other programs, 0.1 seconds is enough to make a janky game.
+3. Games require *immediate* feedback from the input peripherals (such as the [keyboard](computers-keyboard.md) or [mouse](computers-mouse.md), and now [VR](computers-xr.md)). While people can endure a 1-second delay in many other programs, 0.1 seconds is enough to make a janky game.
 4. For many games, you need an elaborate [mathematical framework](computers-programming-algorithms.md) to keep all the visual and audio elements working in tandem. This is *much* more than most other programs.
 5. Across the internet, the demand for rapid-response [networking](computers-networks.md) in many genres is a perpetual need, for *both* player input and [visual output](engineering-screen.md).
 6. In multiplayer games that need computer players (e.g., a 2v2 game with 3 humans), the [AI](computers-ai.md) has to have enough logic to permit the player to feel like the "bot" is human-like.
@@ -81,7 +81,7 @@ And, a rollback netcode conversation:
 
 Games are a unique medium compared to books, audio, and movies because it's the only medium that directly interacts *back* with the user's interaction.
 
-- The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-vr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](mind-decisions.md)).
+- The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-xr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](mind-decisions.md)).
 
 Game [UX](engineering-design.md) should be non-intrusive, where the user will feel or observe what they should do *without* explicit instruction. To avoid text boxes with instructions or written signage, there are several tools to guide the player:
 

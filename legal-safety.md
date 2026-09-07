@@ -521,7 +521,7 @@ When investigating the opposition in a civil case, you usually can't prove that 
 
 Often, in other unrelated domains (e.g., hairstylist licensing), this legal process will be the same thing, but with more [good faith](https://gainedin.site/good-faith/) involved.
 
-You can often use [open investigation](computers-cysec-osint.md) to find if the judge is taking bribes:
+You can often use [open investigation](computers-infosec-osint.md) to find if the judge is taking bribes:
 
 - Examine how long the judge has been on the bench.
 - Request the judge's mandated financial disclosure forms from the state.

@@ -191,6 +191,8 @@ Virus - malware that masquerades as legitimate software
 
 Visual language - a visual dynamic shared among an organization
 
+VLAN - virtual LAN, a logical separation of physically connected computers
+
 VM - virtual machine/virtualization, splitting a computer to make it feel like more than one computer at the same time, allows people to split up one powerful computer instead of using many weaker ones and use multiple operating systems without partitioning hard drives
 
 VM escape - using an exploit to break out of a VM into the rest of a computer system
@@ -264,6 +266,8 @@ Write tolerance - the number of times that you can write to a drive before it fa
 ## X
 
 XIP - execute in place, a file system feature where a CPU can load a file from long-term storage instead of loading it to RAM first
+
+XR - extended reality, a catchall term for VR, AR, and MR
 
 ## Y
 

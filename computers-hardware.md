@@ -49,7 +49,7 @@ Except for [logic gate primitives](computers-alu.md), anything can be assembled 
 
 In simple terms, computers are vast collections of [logic gates](computers-alu.md) that build into ever-more complicated things. When combined, working with them is extremely trivial.
 
-Designers are *constantly* improving computers, but the gains in improvement are starting to become incremental (similar to the [autos](autos.md) that came before it). Even though they can become much faster, they're not really adding much to the experience anymore for a typical user, and even a low-tier desktop computer is more than enough for most non-[gaming](computers-software-gamedev.md)/design computer needs until [VR headsets](computers-vr.md) or [AI](computers-ai.md) become a popular trend to everyday people.
+Designers are *constantly* improving computers, but the gains in improvement are starting to become incremental (similar to the [autos](autos.md) that came before it). Even though they can become much faster, they're not really adding much to the experience anymore for a typical user, and even a low-tier desktop computer is more than enough for most non-[gaming](computers-software-gamedev.md)/design computer needs until [VR headsets](computers-xr.md) or [AI](computers-ai.md) become a popular trend to everyday people.
 
 ## Input
 

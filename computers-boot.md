@@ -50,7 +50,7 @@ Once UEFI came around, they redesigned how hard drives store information with GP
    - each partition entry has the following:
      - The starting memory location of that partition.
      - The size of that partition.
-     - A 32-bit cyclic redundancy check (CRC32) [checksum](computers-cysec-authentication.md).
+     - A 32-bit cyclic redundancy check (CRC32) [checksum](computers-infosec-authentication.md).
    - While there are 32 entries, there could be more, which makes it a *very* scalable situation, as well as getting rid of the need for extended or logical drives.
 4. The partitions themselves in LBA 34 onward.
 5. Backup partition entries in LBA -33 through LBA -2, just in case they fail.
@@ -72,7 +72,7 @@ Either way, while you can often mess around with the operating system without do
 
 One interesting aspect is that a BIOS/UEFI is a base-level stripped-down operating system meant for simple tasks. This means that there is a *lot* of legacy [code](computers-software.md) in there, and it's ridiculously slow with respect to clock cycles. If you ever wonder why booting takes a while after you press the power button, it's because the manufacturers don't care to delete the 99% of code that's irrelevant.
 
-This *does* represent a [cybersecurity risk](computers-cysec-pentest.md), which is why UEFI's Secure Boot can sign the boot with a [cryptographic key](encryption.md), and why Windows computers tend to use Trusted Platform Module (TPM). It's possible (and a good idea) to harden Linux computers with Secure Boot.
+This *does* represent a [cybersecurity risk](computers-infosec-pentest.md), which is why UEFI's Secure Boot can sign the boot with a [cryptographic key](encryption.md), and why Windows computers tend to use Trusted Platform Module (TPM). It's possible (and a good idea) to harden Linux computers with Secure Boot.
 
 ## Bootloader
 

@@ -234,7 +234,7 @@ Many antivirus programs (especially free ones) are often full of security vulner
 
 ## You may get a virus
 
-Even tech-savvy people sometimes get a virus or are [hacked](computers-cysec-pentest.md), especially when the virus spreads on a secured network.
+Even tech-savvy people sometimes get a virus or are [hacked](computers-infosec-pentest.md), especially when the virus spreads on a secured network.
 
 The best solution is to have backups of everything:
 

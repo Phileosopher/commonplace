@@ -5,6 +5,12 @@ To understand is to grasp [reality](reality.md) by interpreting and deriving [me
 
 All forms of [logic](logic.md), [math](math.md), [beauty](values-quality.md), [grouping](values.md), and [social groups](groups-small.md) compose together to create our understanding. We usually can't handle the [uncertainty](unknown.md) from not knowing, so we far more often tend to misunderstand than *not* understand.
 
+Our understanding isn't always the same, though, and there are three major ways we understand:
+
+- Ethos: we [trust](mind-trust.md) someone else has authority on information, so we believe something to be true.
+- Pathos: we [feel](mind-feelings.md) that something is true based on sentiments and sensations.
+- Logos: we have [facts](reality.md) and [logic](logic.md) to validate what we know.
+
 Understanding is a form of [power](power.md). Like [any other type of power](power-types.md), the pursuit of understanding quickly becomes [evil](morality-evil.md) if it isn't directed to a [purpose](purpose.md) that *isn't* a form of power.
 
 The [power](power.md) that comes from understanding can be deadly. The way we use [values](values.md) literally reshapes [entire countries](politics-systems.md), and we must stay vigilant of the people we may harm with extra information. Pay close attention to the [personal lives](people-goodlife.md) of the people who wield the values they hold to.

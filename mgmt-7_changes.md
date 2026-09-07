@@ -91,6 +91,19 @@ The only way to keep a massive group together (i.e., [above 150 people](groups-l
 - Try to prevent each organization ever breaking past 60 people.
 - By breaking it apart, each entity is able to work for themselves, but also able to pull from the vast resources of the collective entity.
 
+The extra work requires multiple [specializations](jobs-specialization.md) to keep up:
+
+- Chief Executive Officer (CEO): centralized [autocrat](politics-systems.md)
+- Chief Financial Officer (CFO): [accounting](money-accounting.md), [budget](money-3_budget.md), and [investing](money-investing.md) specialist
+- Chief Marketing Officer (CMO): [marketing](marketing.md) specialist
+  - This is an elevation of the Product Manager role
+- [Tech leadership](mgmt-cs.md) including CIO and CTO
+
+It is critical to understand each leader's span of control.
+
+- To avoid confusion, each worker should ideally report to as few people as necessary, which is often only one person.
+- Most [conflicts](people-conflicts-bad.md) arise when everyone's duties and responsibilities aren't clear, and then something breaks.
+
 Large groups often become [defective](mgmt-badsystems.md) because the senior leadership can't lead leaders.
 
 - Training a leader needs constant and dedicated input, feedback, encouragement, and guidance.

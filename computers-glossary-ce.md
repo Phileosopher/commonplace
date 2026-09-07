@@ -91,7 +91,7 @@ Clone - software term for "copying", usually large-scale
 
 Closed-source - the source code of a software program is inaccessible to the public, in contrast to open source
 
-Cloud - remotely accessible computers, often meant for enterprise use
+Cloud - remotely accessible computers, often meant for enterprise use, contrast with on-prem
 
 Cluster - a small computer that runs on a clusterboard as part of a distributed system
 
@@ -289,7 +289,7 @@ Deprecated - technology that's no longer being maintained
 
 Depth of field - the nearest and farthest range that a lens can clearly focus at one time
 
-Determinism - a philosophy that things are pre-planned, and a standard for making computer programs (especially games) behave predictably
+Determinism - a philosophy that things are pre-planned, and a standard for making computer programs (especially games) behave predictably, *not* the case with machine learning
 
 Device controller - a specific-function chip designed to manage the specific tasks pertaining to various peripherals
 

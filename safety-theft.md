@@ -43,7 +43,7 @@ Always answer anyone who knocks on your door at night:
 - Always turn your light on before opening the door.
 - Carefully examine their face, which makes them less likely to rob you.
 
-Make sure you've [virus-scanned](computers-cysec.md) your computer and are [safely using the internet](safety-security.md).
+Make sure you've [virus-scanned](computers-infosec.md) your computer and are [safely using the internet](safety-security.md).
 
 ## Pickpocketing
 

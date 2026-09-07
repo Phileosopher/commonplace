@@ -29,6 +29,18 @@ It requires specific goals from the very beginning.
 
 This system doesn't handle unexpected problems very well.
 
+### V-Model
+
+This is a variation of the Waterfall Model, but with many more steps and quite a lot more rigorous.
+
+## Spiral Model
+
+The model adopts other process models, but is focused on minimizing risks.
+
+The "spiral" is the circular movement "outward" from variously-staged prototypes into a final product, with the idea being that there are many rigorous phases that must be finalized before moving onto the next phase.
+
+While this is *highly* risk-focused, it can definitely extend project timelines and budgets farther than most situations would find comfortable.
+
 ## Objectives and Key Results (OKR)
 
 The system is designed to achieve clearly-understood purposes:
@@ -126,6 +138,26 @@ Sprints themselves are divided into a few stages:
    - The meeting is both about [finding problems](https://adequate.life/fix/) and introducing [creative ideas](mind-creativity-how.md).
 
 More info on its defects: [The Scream Guide to Scrum Anti-Patterns](https://www.scribd.com/document/606134290/The-Scream-Guide)
+
+## DevOps
+
+A specific approach within [IT management](mgmt-cs.md) that combines the development and operations teams to automate and streamline the software delivery process.
+
+- While it allows for more frequent and faster releases, it requires a *lot* more communication.
+
+The system has at least three major systems that are supposed to run similarly:
+
+1. Test: The place to experiment
+2. Staging: The place to finalize everything to be ready for everyone to use it
+3. Production: The place where everyone uses it with actual risks if something fails
+
+There may also be systems for development or various variations for different contexts.
+
+It does have downsides:
+
+- Extra complexity between the major systems (test, production, etc.) means they *need* to look like each other for the system to actually work.
+- The increasing complexity of everything together means it's much harder to make [system-wide changes](mgmt-7_changes.md), including adding new tools.
+- Since the team members are communicating more, there's a higher chance that management won't be as in control over everything.
 
 ## Holacracy
 

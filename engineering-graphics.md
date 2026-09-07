@@ -57,6 +57,15 @@ Some standard sizes are described by encoded jargon:
 - 5120x2880 - 5K
 - 7680x4320 - 8K or 8K UHD
 
+Interestingly, the human eye can only interpret 94 PPD (pixels per degree) in grayscale, 89 PPD in red-green, and only 53 PPD in yellow-violet. In practice, what this means is:
+
+- Standard computer use: at a 30" viewing distance on a standard 27" monitor, a standard 1080p screen is 47.2 PPD.
+  - At 30" viewing distance on a 27" monitor, the max usefulness possible is a 4K screen.
+  - At 30" viewing distance, 5K only becomes useful beyond 35" and 8K only becomes useful beyond 59"
+- Standard television use: a 120" viewing distance on a 40" TV with a 1080p screen is 92.1 PPD.
+  - A 120" viewing distance on an 80" TV with 2160p is 90.7 PPD.
+- In other words, get a 2K television and a 4K computer screen, and you have everything your eyes could ever use.
+
 Rastered graphics are great for accurately capturing information, but they don't scale well and take more memory to encode compared to vector information.
 
 ### Scalable vector graphics

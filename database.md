@@ -5,7 +5,38 @@
 
 There are many ways to store data, but the longest-standing method for most situations is to use relational databases.
 
+## EAV model
+
+The entity-attribute-value model represents a space-efficient way of storing sparse, or ad-hoc, data values.
+
 ## Relational databases
+
+Relational databases use a few concepts of scope for the [data](data.md), though people can often misstate them frequently in a conversation:
+
+- Entity: a distinguishable real-world thing
+- Attribute: a characteristic of an entity, with 8 possible non-exclusive types:
+  - Simple vs Composite
+    - Simple: a basic datum
+    - Composite: two or more attributes combined
+  - Single vs Multivalued
+    - Single Valued: only one value per entity instance, typically to give a unique identity to each entity
+    - Multivalued: more than one value for an entity instance
+  - Derived vs Stored
+    - Derived: calculated from other attributes in the database and not physically stored
+      - It pulls the information from somewhere else in the database
+    - Stored: physically within the database and not calculated
+  - Key: a means to identify the attribute in a database
+  - Complex - a combination of composite and multivalued attributes
+- Record: a collection of attributes
+- File: the entire database with all its records
+
+The relational database model uses several components together:
+
+- Tables: rows and columns to store data
+- Relationships: connections between tables that link data
+- Keys: unique identifiers that preserve the data and relationships
+- Queries: commands that retrieve and manipulate the data
+- Normalization: organization techniques that reduce redundancy
 
 A simple relational database will look like a standard two-dimensional "table":
 

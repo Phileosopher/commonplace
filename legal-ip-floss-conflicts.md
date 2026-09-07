@@ -61,9 +61,9 @@ However, the beauty of *any* open-source project is that absolutely anyone can f
 Sometimes, irrespective of the relationship with the original creator, it may be wise to fork the software.
 
 - To expand on an open-source project with very few recent updates, fork the project and start your own, or find other people who have made a more recent project that does effectively the same thing.
-- If the software is used for anything sensitive, it needs attention on it to maintain [security patches](computers-cysec-compliance.md).
+- If the software is used for anything sensitive, it needs attention on it to maintain [security patches](computers-infosec-compliance.md).
 - The licensing may bind you into constraints you may not want (e.g., can't sell the software without also releasing the code), and a fork may provide opportunities to change that.
-- If the software is used for particularly high-attention things (e.g., [illegal activities](computers-distsys-torrent.md)), it may make sense to clone a copy of the software to prevent complete removal of the software for the public to use.
+- If the software is used for particularly high-attention things (e.g., [illegal activities](computers-distsys-p2p-torrent.md)), it may make sense to clone a copy of the software to prevent complete removal of the software for the public to use.
 
 ## Legal conflicts
 

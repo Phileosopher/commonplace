@@ -30,6 +30,15 @@ Create an organizational chart.
   3. The typical weaknesses those strengths would likely have.
 - Indicate the measurements for succeeding or failing at that role.
 
+Broadly, there are several major ways to form the leadership structure:
+
+- Hierarchical: Everyone reports to one supervisor, all the way up a tree-shaped format to the top autocrat.
+- Flat: Everyone reports to the top autocrat without any intermediate people.
+  - This is by far the worst without [technology](technology.md) and the reason we need [middle managers](mgmt-middle.md).
+  - However, every new innovation (e.g., [machine learning](computers-ai-ml.md)) removes the need for extra hierarchical layers.
+- Matrix: Each individual worker has two specific scopes of duty (e.g., project and functional), and reports differently to each.
+  - This seems clever, but requires high-quality communication with both managers over any given worker.
+
 In general, every role will specialize into 4 possible functions:
 
 1. Acquisition - growing and getting more (sales, [marketing](marketing.md), business development, etc.)
@@ -222,7 +231,7 @@ Even one person in a ten-person team will drag down everyone's collective produc
 Your first impulse as a manager who sees problems will be to micromanage.
 
 - While micromanagement can fix some things in the short-term, it creates an uncomfortable work environment.
-- You may need to micromanage a low-skill team (e.g., fast food, construction), but [legitimate professionals](professionals.md) should *never* be disrespected over their free decisions.
+- You may need to micromanage a low-skill team (e.g., fast food, construction), but [legitimate professionals](professionals-how.md) should *never* be disrespected over their free decisions.
 
 The [personality disposition of a manager](mgmt-1_why.md) means you may easily err in overstepping your boundaries:
 

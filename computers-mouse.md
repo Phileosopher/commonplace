@@ -79,4 +79,4 @@ However, when a touchpad is designed for accessibility (e.g., [mouth-based](http
 
 Naturally, like [everything else about games](computers-software-gamedev.md), people playing computer games have all sorts of sophisticated needs, so the best computer mice are typically gaming-grade. Many of them have additional customizable buttons, fantastic ergonomics, and often with gimmicks like lights or additional error-checking.
 
-While there are many elaborate alternatives to the mouse, it probably will persist until [VR](computers-vr.md) becomes a more prominent interface device. Even then, the mouse will always have its use, just like the barcode.
+While there are many elaborate alternatives to the mouse, it probably will persist until [VR](computers-xr.md) becomes a more prominent interface device. Even then, the mouse will always have its use, just like the barcode.

@@ -36,7 +36,7 @@ A file can hold a *lot* of metadata, but not all metadata about that file is sto
 
 File metadata often varies based on the file system, but it usually has at least most of the following:
 
-- File [permissions](computers-cysec.md), as well as the file's owner, and "access control lists/entries" that indicate which users can do what (i.e., write/read/rename/delete)
+- File [permissions](computers-infosec.md), as well as the file's owner, and "access control lists/entries" that indicate which users can do what (i.e., write/read/rename/delete)
 - "Timestamps" for when it was created, when it was last accessed, and when the *metadata* was last changed
 - Extended attribute metadata that may not comply with any preset standards
 - Alternate data streams and forks, where the file can hold multiple different versions of mostly similar information
@@ -126,7 +126,7 @@ File systems exist within various [standards](standards-computers.md), most of t
 
 - Hard links - essentially, a fixed directory name for the file, most files *need* at least one of these.
 - Symbolic links - aka symlinks, a representational name for a file located elsewhere that ends up saying "see [ACTUAL MEMORY LOCATION]".
-- Journaling - keeping a record file in long-term memory of tasks the CPU still has to do, very useful if the task is interrupted and can't continue, can sometimes *only* journal the metadata, a critical part of [cybersecurity](computers-cysec.md).
+- Journaling - keeping a record file in long-term memory of tasks the CPU still has to do, very useful if the task is interrupted and can't continue, can sometimes *only* journal the metadata, a critical part of [cybersecurity](computers-infosec.md).
 - File change log - keeps a record of many changes to various files, can be localized to system files or apply to *all* files.
 - Case-sensitivity - Some operating systems (like [Unix-based ones](computers-os-unix.md)) are case-sensitive ("file.txt" *isn't* "File.txt"), while others (like [Windows](computers-os-windows.md)) are not ("file.txt" is the same as "FiLe.TXt"). Occasionally, a case-insensitive file system will still *preserve* the case-sensitivity.
 - XIP - execute in place, where a CPU can load a file directly from long-term storage instead of migrating it to RAM first.
@@ -151,7 +151,7 @@ Another convenience of a hierarchical file system is that "moving" a file on the
 
 It's worth being aware of what a file is doing when you're copying, moving, and deleting:
 
-- When you delete a file, the file is still there, but it gets marked for overwriting whenever the operating system needs more storage. Unless you actively use deletion software, [it'll still be there](computers-cysec-compliance.md) if the operating system never overwrites it.
+- When you delete a file, the file is still there, but it gets marked for overwriting whenever the operating system needs more storage. Unless you actively use deletion software, [it'll still be there](computers-infosec-compliance.md) if the operating system never overwrites it.
 - If you're copying a file *anywhere*, it's duplicating the code.
 - If you're moving a file to the same drive, it's changing some references (and, depending on partitioning, copying and marking the code for deletion).
 - If you're moving a file to a different drive, it's duplicating the code and then marking the original for deletion.

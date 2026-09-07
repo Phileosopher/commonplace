@@ -20,6 +20,16 @@ For every manager, communication is your priority.
 - It may be your impulse to *do* something, but everyone *else* is supposed to act in direct response to what you say.
 - You're responsible to either delegate a task, or to clearly inform what you intend to do before doing it.
 
+Stay clearly attentive to which type of [decisions](mind-decisions.md) anyone makes:
+
+1. Strategic decisions are big-picture goals about what to do next.
+   - For all organizations, the leader at the top must *always* agree with every strategic decision.
+   - This doesn't mean they *make* those decisions, but every single one of those decisions must funnel through them, since they will be held responsible for whatever happens.
+2. Tactical decisions are shorter-term actions to make strategic decisions happen.
+   - Insubordinate managers will make alternate strategic decisions but [reframe it](people-image-distortion.md) as tactical ones.
+3. Technical decisions are individual choices that people make to serve the tactical decisions.
+   - Insubordinate workers will try to make tactical decisions to thwart strategic ones.
+
 Unless it's a legitimate emergency, never make it a first principle to tell people *what* to do.
 
 - When told to do something, people tend to immediately react negatively or ask why, even if they perform the task.
@@ -81,7 +91,7 @@ In particular, [meetings](mgmt-5_communication-meetings.md) require their own se
 The [general rules for writing emails](language-writing.md) apply, but are magnified from how many emails managers have to send.
 
 - Typically, a 45-second phone call or voicemail message is *much* more effective at delivering any urgent information.
-- Email is *not* [secure](computers-cysec.md), so never send critical or sensitive information with it.
+- Email is *not* [secure](computers-infosec.md), so never send critical or sensitive information with it.
   - If you must send important information over the internet, reference a different system that's more secure (e.g., [cloud storage](computers-distsys-cloud.md)).
 
 To make it easier for everyone, have all the emails searchable by *all* the members in a centralized database.

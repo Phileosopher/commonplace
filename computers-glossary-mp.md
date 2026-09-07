@@ -189,7 +189,7 @@ OMR - optical mark recognition, informally called scantron, a method of computer
 
 Onboarding - the UX from first initializing software that stores configuration information and starts differently the second time onward
 
-On-prem - on-premises, having a computer that you can physically touch
+On-prem - on-premises, having a computer that you can physically touch, contrast with cloud
 
 One-to-one correspondence - one instruction creates one machine code instruction, the major limitation of low-level languages
 

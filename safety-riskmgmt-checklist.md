@@ -85,7 +85,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
   - [Accountant](money-accounting.md) - tax advisor, accountant, estate manager, and auditor
   - [Mechanic](autos.md)
   - [Business advisors](mgmt-1_why.md)
-- Have [some type of business relationship](professionals.md) for every [specialization](jobs-specialization.md) you may need that you're not an expert in yourself.
+- Have [some type of business relationship](professionals-who.md) for every [specialization](jobs-specialization.md) you may need that you're not an expert in yourself.
 - Your service providers are [aware of the grander purpose](https://gainedin.site/idiot/) of why they perform the service.
 
 ## Protecting From Conflicts
@@ -100,8 +100,8 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 ## Protecting From Malicious People
 
-- Keep your computer [safely maintained](computers-cysec.md).
-- Keep your personal information private, from [scammers](computers-cysec-socialengineering.md) and [Big Tech](computers-bigtech.md).
+- Keep your computer [safely maintained](computers-infosec.md).
+- Keep your personal information private, from [scammers](computers-infosec-socialengineering.md) and [Big Tech](computers-bigtech.md).
 - Keep a portable firearm, with experience using it.
 - Always have a bodycam and [auto](autos.md) dashcam equipped.
 

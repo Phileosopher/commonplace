@@ -1,7 +1,7 @@
 
 # How to be safe with computers
 
-[Cybersecurity](computers-cysec.md) is doing several things:
+[Cybersecurity](computers-infosec.md) is doing several things:
 
 1. Putting a box around the hardware/network, giving the trusted/verified computers and people access.
 2. The untrusted/unverified computers/people are denied access.
@@ -13,10 +13,10 @@ However, [trust](mind-trust.md) isn't strictly binary.
 - Some things (such as anything public on the internet) are far more valuable/useful than other things (such as [trade secrets](legal-ip.md) or core [operating system](computers-os.md) files)
 - People forget passwords and [hard drives](computers-memory.md) break down.
 
-There are many [security philosophies](computers-cysec.md) that bind a good security policy together, but it's worth noting that cybersecurity isn't really a subject of computer science as much as protecting computers from bad stuff happening, which means moving the box of trust around with two battlefronts at once:
+There are many [security philosophies](computers-infosec.md) that bind a good security policy together, but it's worth noting that cybersecurity isn't really a subject of computer science as much as protecting computers from bad stuff happening, which means moving the box of trust around with two battlefronts at once:
 
 1. Safety *of* the information, which usually involves making duplicates of things ("redundancy") for when the computers fail.
-2. Safety *from* bad people misusing computer information, which usually involves verifying people and devices ("[authentication](computers-cysec-authentication.md)").
+2. Safety *from* bad people misusing computer information, which usually involves verifying people and devices ("[authentication](computers-infosec-authentication.md)").
 
 It's important to understand that [hacking comes in a variety of forms](mind-creativity-hacking.md), so it's not simply theft or destruction and all mid-level IT-skilled people can technically "hack". Most of the time, a "hacker" in popular culture is a PenTester.
 
@@ -24,11 +24,11 @@ It's important to understand that [hacking comes in a variety of forms](mind-cre
 
 Safety and performance have tradeoffs beyond a certain point, but there are many simple-enough ways to protect yourself from most [cyberattacks](mind-creativity-hacking.md).
 
-As a general concept, [computers are extremely versatile](computers-hardware.md). The engineers who first designed computers never expected that the computer needed to be *forbidden* to do some things. But, like dynamite and the aeroplane, computers are highly effective weapons. Unfortunately, a reliable [lock](computers-cysec-authentication.md) doesn't always protect computers.
+As a general concept, [computers are extremely versatile](computers-hardware.md). The engineers who first designed computers never expected that the computer needed to be *forbidden* to do some things. But, like dynamite and the aeroplane, computers are highly effective weapons. Unfortunately, a reliable [lock](computers-infosec-authentication.md) doesn't always protect computers.
 
 ### Simple Things
 
-The easiest way to make your computers safer is to reduce the "attack surface" by cutting down the possible "attack vectors". One of those ways is to "harden" a computer by [turning everything off you're not using](computers-cysec.md).
+The easiest way to make your computers safer is to reduce the "attack surface" by cutting down the possible "attack vectors". One of those ways is to "harden" a computer by [turning everything off you're not using](computers-infosec.md).
 
 By renaming default "credentials" that come with most hardware, hackers can't easily gain high-level access to computers (e.g., username "admin" with password "admin").
 

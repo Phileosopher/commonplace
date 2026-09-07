@@ -87,7 +87,7 @@ While most people will do fine with a 2.1 speaker system, the audio quality can 
 
 The quality of the played sound, however, is almost hard-limited by the quality of the original recording. While some [algorithms](computers-programming-algorithms.md) *can* improve the sound experience, true audiophiles are divided between the highest-possible-quality recording (e.g., remastered songs) or most accurate recording (e.g., vinyl records) for the most complete listening experience.
 
-For a legitimately advanced experience, the audio must reflect the precise *location* of where the sound should be. Most [modern games](computers-software-gamedev.md) and [VR experiences](computers-vr.md) use "binaural processing" to reproduce the relative location of a sound source, which updates as the user changes their direction or distance from the object.
+For a legitimately advanced experience, the audio must reflect the precise *location* of where the sound should be. Most [modern games](computers-software-gamedev.md) and [VR experiences](computers-xr.md) use "binaural processing" to reproduce the relative location of a sound source, which updates as the user changes their direction or distance from the object.
 
 ## File format
 

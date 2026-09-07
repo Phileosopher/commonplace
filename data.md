@@ -51,6 +51,7 @@ Integers (int)
 - Comes from putting Boolean numbers together (counting up as 0, 1, 10, 11, 100, 101, 110, etc.).
 - As of writing this, they can be anything between positive and negative 2,147,483,648 (2^21 because of [how bits work](computers-alu.md)).
 - They can be fully operated on (e.g., [add/sub/mult/div](math-cs.md)).
+- BigInt is when the number is really large.
 
 Floats/Doubles
 
@@ -84,6 +85,8 @@ Enumerated type
 - They're useful to clearly demarcate certain values.
 - Technically, other data types like Boolean logic are frequently enumerated types, depending on how the [programming language](computers-languages.md) sets it up.
 
+## Complex data
+
 There are many, many, many more classifications of data, which typically comply to a wide variety of [industry standards](standards-computers.md), and these data primitives can assemble into many more advanced [data structures](data-structures.md).
 
 Most additional data types are *not* standardized as much as the above primitives, for several reasons:
@@ -94,8 +97,16 @@ Most additional data types are *not* standardized as much as the above primitive
 
 Even then, data types can often be standardized more locally, such as in a programming language (e.g., graphs exist as a standard in the Datalog [programming language](computers-languages.md)).
 
-- Objects, which are abstractly meant to hold a standardized form
+- Objects, which are abstractly meant to hold a standardized form of "key-value pair" with at least two datum.
 - [Structures](data-structures.md), which represent a modular and scalable form
+
+Many times, however, there *are* standard-enough data formats present throughout the industry:
+
+- [Audio](computers-speakersmic.md): MP3, WAV
+- Image: JPG, GIF
+- [Video](engineering-graphics.md): MP4, AVI
+  - Technically, a video is actually a stream of synchronous moving visuals and an audio standard
+- Office suite: DOC/ODT, XLS/ODS, PPT/ODP
 
 ## To what end?
 

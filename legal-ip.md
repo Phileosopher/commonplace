@@ -126,7 +126,7 @@ While it's not legally the case, it can be *[morally](morality.md)* argued that 
 To own a copyrighted material, most people aren't aware they're consenting to an implicit [contract](people-contracts.md) to consume the material and *not* distribute it.
 
 - Place shifting, or space shifting, allows media to be "shifted" from one media to another (e.g., streaming online versus locally streaming). This is perfectly legal, but often allows the consumer more control over it (such as pirating the content after they've downloaded it).
-- It's illegal to distribute most copyrighted content, and can land a sufficiently prolific distributor (e.g., via [torrent](computers-distsys-torrent.md)) in a civil case.
+- It's illegal to distribute most copyrighted content, and can land a sufficiently prolific distributor (e.g., via [torrent](computers-distsys-p2p-torrent.md)) in a civil case.
 - Copyright *violation* is ubiquitous, and technically applies to literally anyone who duplicates media (i.e., they have a computer on the internet and access content).
 - Copyright *enforcement*, however, is a question of how much a corporation wants to spend on legal fees. The entity will only send attorneys after someone they perceive as a financially advantageous target to remove.
 - Technically, the presence of [the internet](computers-sofware-webdev.md) makes copyright impossible to enforce via conventional models of legally defined distribution, since each computer *must* copy the intellectual property (i.e., download it) to formally use it, making re-distribution completely trivial (e.g., copy-paste a file).
@@ -300,7 +300,7 @@ Copyright trolls are just as bad as patent trolls:
 
 - It's definitely possible to create a license over *some* public domain IPs, then sue people over usage.
 - Derivative works are copyrighted on their own, and came later. It's not uncommon for a public domain work to have *specific* permutations of that work be copyrighted about the newer content (aka "thin copyright").
-- There's a *lot* of effort to take down copyrighted property, typically by invoking the [Digital Millennium Copyright Act of 1998](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act). DMCA don't really *stop* [piracy](computers-distsys-torrent.md), but does make more work for lawyers, and is trivially easy to anonymously submit a request.
+- There's a *lot* of effort to take down copyrighted property, typically by invoking the [Digital Millennium Copyright Act of 1998](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act). DMCA don't really *stop* [piracy](computers-distsys-p2p-torrent.md), but does make more work for lawyers, and is trivially easy to anonymously submit a request.
 - [Large organizations can join efforts](politics-monopolies.md) to take away older copyrighted content, which can create large class-action lawsuits aimed at shutting down public libraries, with the legal force equivalent of a small country.
 
 Anyone with a basic level of computer proficiency and willingness to research can stop trolls when they're attacked by them.
@@ -328,7 +328,7 @@ Many of the legal battles between organizations can dramatically change entire i
 - [2023-09 Unity updated its pricing to charge royalties for game developers making above a certain income threshold](https://web.archive.org/web/20230912135629/https://blog.unity.com/news/plan-pricing-and-packaging-updates). After a public pushback, they bumped the threshold to a higher number.
 - [2023-10 Apple uses their license to exploit trademark law by printing their logo on all their parts](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/).
 
-Enough data suggests that a vast majority of individuals download [pirated copies of copyrighted content](computers-distsys-torrent.md), though the legislation around the culture means nobody openly talks about it.
+Enough data suggests that a vast majority of individuals download [pirated copies of copyrighted content](computers-distsys-p2p-torrent.md), though the legislation around the culture means nobody openly talks about it.
 
 - Individual consumers are impossible to crack down on due to sheer volume, and their content is often perfectly legal to consume even when it's pirated (due to DRM they're lawfully circumventing), so [enforcement](people-rules.md) can only work against distributors of the content.
 - The attempts to stop piracy work effectively like prohibition rules had nearly a century ago: it gets driven underground and people keep doing it.

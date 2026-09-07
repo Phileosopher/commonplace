@@ -32,7 +32,7 @@ Modem IPv4 default (generally):
 25
 
 - Protocol: TCP SMTP, IPv4/6
-- unsecured, [botnets](computers-cysec-pentest.md) use it for spam, use port 587 instead
+- unsecured, [botnets](computers-infosec-pentest.md) use it for spam, use port 587 instead
 
 67
 
@@ -47,7 +47,7 @@ Modem IPv4 default (generally):
 161
 
 - Protocol: UDP SNMP, IPv4/6
-- vulnerable to [DDoS attacks](computers-cysec-pentest.md)
+- vulnerable to [DDoS attacks](computers-infosec-pentest.md)
 
 445
 
@@ -206,7 +206,7 @@ Microsoft NetMeeting
 
 - TCP ports 389, 1720, 1731
 
-### [Authentication](computers-cysec-authentication.md) ports
+### [Authentication](computers-infosec-authentication.md) ports
 
 Kerberos
 

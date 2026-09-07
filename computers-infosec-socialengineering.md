@@ -22,11 +22,11 @@ There are many forms of social engineering:
 
 "Ransomware" is software designed to block off information until someone pays money. By transferring the money through [cryptocurrency](computers-blockchain.md), it can be difficult to trace the transaction.
 
-"Malvertising" is advertising designed to look like another legitimate product, but is actually [malware](computers-cysec-malware.md).
+"Malvertising" is advertising designed to look like another legitimate product, but is actually [malware](computers-infosec-cysec-malware.md).
 
 ## Identity Theft
 
-Typically, in a modernized society, hackers only need *very* few pieces of information to [authenticate](computers-cysec-authentication.md) themselves as someone else:
+Typically, in a modernized society, hackers only need *very* few pieces of information to [authenticate](computers-infosec-authentication.md) themselves as someone else:
 
 - Someone's full name, date of birth, and social security number are enough to fraudulently get a new [credit card](money-2_debt.md), [get insurance](money-insurance.md), secure a loan, and many other activities.
 - A few pieces of information from social media can guess someone's [password](encryption.md) security questions.
@@ -35,7 +35,7 @@ Typically, in a modernized society, hackers only need *very* few pieces of infor
   - Apply for anything that requires proof of identity documentation with the government (e.g. working with children)
   - Activate a SIM card (and get an internet connection traceable to you, not them)
   - Create fake physical passports from a template, with the correct passport number (which they can use for many things such as crossing a border or opening a bank account)
-- Without [multifactor authentication](computers-cysec-authentication.md), a password could allow someone to log in to a computer remotely or use that password/email combination on any other website.
+- Without [multifactor authentication](computers-infosec-authentication.md), a password could allow someone to log in to a computer remotely or use that password/email combination on any other website.
 
 On average, it takes 800 hours to resolve identity fraud.
 
@@ -43,7 +43,7 @@ On average, it takes 800 hours to resolve identity fraud.
   - Excellent services will also include proper identity theft [insurance](money-insurance.md).
 - Don't get ID theft protection that only monitors credit reports, since several popular services (like [Credit Karma](https://www.creditkarma.com/) or the credit reporting company themselves) will monitor credit for free.
 
-"Sim swapping" is when a hacker can acquire a phone number's [two-factor authentication](computers-cysec-authentication.md) by authorizing a cell carrier with fraudulent information to migrate that phone number to another phone.
+"Sim swapping" is when a hacker can acquire a phone number's [two-factor authentication](computers-infosec-authentication.md) by authorizing a cell carrier with fraudulent information to migrate that phone number to another phone.
 
 ## Victim profiles
 

@@ -4,7 +4,7 @@
 To prevent the [lawsuits](legal-safety.md) and [implicit contracts](people-contracts.md) that would derive from a natural agreement to use a software product, the software released under open-source licenses are always "as is". There is *no* promise of future performance, and the terms of use aren't certain or complete.
 
 - It means that it's the *users'* responsibility regarding use of the software, and the consequences that may come from it.
-- The same software used for completely ethical [PenTesting](computers-cysec-pentest.md) can be used for [hacking](mind-creativity-hacking.md), and [archiving data for security reasons](computers-cysec.md) will use the same software as [internet piracy](computers-distsys-torrent.md), with no legal consequences for the developer who made the software.
+- The same software used for completely ethical [PenTesting](computers-infosec-pentest.md) can be used for [hacking](mind-creativity-hacking.md), and [archiving data for security reasons](computers-infosec.md) will use the same software as [internet piracy](computers-distsys-p2p-torrent.md), with no legal consequences for the developer who made the software.
 
 For users who consume the product, most software licenses reside within the broader "end user license [agreement](people-contracts.md)", or EULA, often bundled with the software itself.
 

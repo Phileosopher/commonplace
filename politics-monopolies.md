@@ -125,7 +125,7 @@ Microsoft owns over 75% of the operating system market.
 
 Most [accounting](money-accounting.md) software for small and midsize businesses is Intuit's Quickbooks.
 
-Most [cybersecurity](computers-cysec.md) and [large-scale enterprise](computers-distsys-enterprise.md) software is owned by Thoma Bravo.
+Most [cybersecurity](computers-infosec.md) and [large-scale enterprise](computers-distsys-enterprise.md) software is owned by Thoma Bravo.
 
 ## Information - Specific
 
@@ -147,7 +147,7 @@ Most military intelligence is managed by Booz Allen Hamilton Holding Corporation
 
 Most financial [investment](money-investing.md) documents are sent by Broadridge Financial Services.
 
-A giant chunk of [cybersecurity identity management](computers-cysec-authentication.md) is run by Ping Identity and ForgeRock.
+A giant chunk of [cybersecurity identity management](computers-infosec-authentication.md) is run by Ping Identity and ForgeRock.
 
 Most loan origination software (i.e., what banks use to make [loans](money-2_debt.md)) is run by ICE and Black Knight.
 

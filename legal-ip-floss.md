@@ -37,7 +37,7 @@ A software's "source code" is either open or closed based on how accessible the 
 
 - Closed-source software is free for people to freely download, but the source code is at least somewhat private.
   - By contrast, open-source software is at least *somewhat* free to download, distribute, and modify.
-- Only [authorized people](computers-cysec-authentication.md) can see the inner workings of the closed-source code, which makes [fixing bugs](computers-software-redesign.md) the sole responsibility of the developer, and [exploits](mind-creativity-hacking.md) are more likely.
+- Only [authorized people](computers-infosec-authentication.md) can see the inner workings of the closed-source code, which makes [fixing bugs](computers-software-redesign.md) the sole responsibility of the developer, and [exploits](mind-creativity-hacking.md) are more likely.
 - In open-source software, anyone can see the code that creates the output (even while any [databases](database.md) and personal information are off-limits).
 
 The legal and technical freedom to use the software needs more specificity than simply "freedom":
@@ -106,11 +106,11 @@ If the developer's work was relatively easy, but depends on *other* work, then t
 When [larger companies](mgmt-5_communication.md) use open-source from an outside developer, they *must* be aware of the risks, and it's their responsibility to take action:
 
 - They're consenting to a weak [implicit contract](people-contracts.md), with little to no promises on either side.
-- They are adopting a copy of the software as-is, which may mean they're potentially trusting the [security](computers-cysec.md) and [reliability](computers-cysec-compliance.md) of their company's infrastructure to an overworked parent or college student.
+- They are adopting a copy of the software as-is, which may mean they're potentially trusting the [security](computers-infosec.md) and [reliability](computers-infosec-compliance.md) of their company's infrastructure to an overworked parent or college student.
 - The only way the relationship will become more mutually advantageous requires equipping the open-source developer. This may include moral support, publicity, and *always* requires funding.
 - When it works well, the users support the maintainers, and the maintainers support the users, and everyone wins.
 - When it doesn't, the developers often experience [severe hardship](hardship.md) and the project falls apart. This can be an especially tragic story because the developer will frequently toil selflessly for *years* without recognition or assistance before giving up. Other times, they're a victim of an unfortunate situation where more money to pay legal fees or medical bills could have resolved or assisted them.
-- Occasionally, a developer may completely snap and intentionally destroy their project, such as delivering an update that bricks their system, sending [malware](computers-cysec-malware.md) through their software, or deleting their codebase. This only occurs through severe mental illness, which is often (but not always) from the stress caused by a lack of [personal human support](people-friends.md).
+- Occasionally, a developer may completely snap and intentionally destroy their project, such as delivering an update that bricks their system, sending [malware](computers-infosec-cysec-malware.md) through their software, or deleting their codebase. This only occurs through severe mental illness, which is often (but not always) from the stress caused by a lack of [personal human support](people-friends.md).
 
 With all the risks associated, it's not really much of a surprise that [FLOSS creates conflicts](legal-ip-floss-conflicts.md).
 
@@ -136,7 +136,7 @@ Beyond open software and data, one of the most popular open-source developments 
 
 Even when *everything* is open, distributors must stay aware of whether software or operating systems are presently compatible with their hardware. Failure to do so will result in the users being adversely affected and general dissatisfaction with the product. When it comes time to [blame someone](people-image-distortion.md), distributors [have historically been labeled at-fault for the failure](https://dont-ship.it/).
 
-## FLOSS Trends
+## FLOSS trends
 
 Anytime a popular closed-source version of a software becomes popular, *someone* will want to recreate an open-source version of it:
 
@@ -149,7 +149,9 @@ Often, when the tech-related economy starts dipping (often because [a tech trend
 
 At the same time, open-source is the dumping ground for anything Big Tech has to shed due to [antitrust lawsuits](politics-monopolies.md) or [company downsizing](mgmt-7_changes.md) (e.g., the history of [Linux](computers-os-unix.md)). As every large tech company [invariably fails](mgmt-badsystems.md), *something* has to maintain what it held up, and that role eventually becomes open-source if it was popular enough.
 
-## Future FLOSS Trends
+However, since maintaining *very* old software can be tedious (especially when nobody uses it anymore), it's not too uncommon to see the discontinuance of open-source maintenance of very old hardware, similar to any other [version management issues](computers-software-versionctrl.md).
+
+## Future FLOSS trends
 
 A few decades ago, most operating systems and software were closed-source, but most software is at least *partially* open-source. In fact, for almost any technology older than a few years, there's an open-source alternative.
 

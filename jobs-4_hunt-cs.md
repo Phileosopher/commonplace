@@ -22,7 +22,7 @@ Good colleges will give you access to many side projects you can explore, which 
 
 Of course, if you're not interested in a long college experience, you can often take a competence-based college like [WGU](https://www.wgu.edu/) after taking as many cheap college courses elsewhere to expand your understanding. When a college counts that coursework, you may only need to take 6-12 months of actual college.
 
-Most employers don't really care about anything beyond a 4-year degree, though some parts of the industry (like [cybersecurity](computers-cysec.md)) obsess about it. If you need to, get an [ABET-accredited online program](https://www.abet.org/accreditation/find-programs/) to bypass most of the tedium.
+Most employers don't really care about anything beyond a 4-year degree, though some parts of the industry (like [cybersecurity](computers-infosec.md)) obsess about it. If you need to, get an [ABET-accredited online program](https://www.abet.org/accreditation/find-programs/) to bypass most of the tedium.
 
 You can also attend an accelerated course called a "bootcamp". Most of them cost money, though some (e.g., [freeCodeCamp](https://www.freecodecamp.org/)) are completely free.
 

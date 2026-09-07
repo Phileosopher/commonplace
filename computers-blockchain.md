@@ -16,7 +16,7 @@ So what happens if there's a discrepancy with no clear difference to make a ruli
 
 To accommodate this situation, one of the records must be wrong, but we need computer rules to automate which one is. In this case, one of the computers has a higher authority than the other, and the other file is discarded. This is known as a "centralized ledger".
 
-Now, imagine combining the balancing of [peer-to-peer networking](computers-distsys-torrent.md) into this. Instead of 1 central server holding *all* the information, you'd need to add another layer of complexity. This is where "blockchain" comes in.
+Now, imagine combining the balancing of [peer-to-peer networking](computers-distsys-p2p.md) into this. Instead of 1 central server holding *all* the information, you'd need to add another layer of complexity. This is where "blockchain" comes in.
 
 To keep track of the changes, each [database record](database.md) is divided into manageable chunks of binary information called a "block". The records are strung together by cryptographic hashes on the beginning and end of the blocks:
 
@@ -63,7 +63,7 @@ While this is happening, the computer is also instructed to cross-reference the 
 - etc.
 - Computer A finds out Computer C is wrong, but all the other ones are correct, so it syncs the correct information and achieves "critical consensus".
 
-The nonces add onto other nonces, over and over, making data transfer mathematically arcane and horrifyingly inefficient. This entire setup is *very* [cyber-secure](computers-cysec.md), and creates very little room for hacking or error, but uses tons of electricity and processing power.
+The nonces add onto other nonces, over and over, making data transfer mathematically arcane and horrifyingly inefficient. This entire setup is *very* [cyber-secure](computers-infosec.md), and creates very little room for hacking or error, but uses tons of electricity and processing power.
 
 One of the most glaringly obvious hacks against a blockchain comes through what's called a "51% attack". It requires rapidly adding enough nodes with the same fraudulent blocks that they represent over 50% of the nodes. At that point, the fully democratic system will conform everything toward the fraudulent block(s).
 
@@ -112,7 +112,7 @@ Another popular crypto is Ethereum, which differentiates from Bitcoin because it
 
 1. In 2014, [a hacker](mind-creativity-hacking.md) stole $50 million dollars of ETC from a startup that used Ethereum.
 2. Though the hacker got hacked by seven other hackers, the code implied that it was possible that the hacker was entitled to the ether.
-3. There was an attempt to make a soft [fork](computers-software-versionctrl.md) (that would keep it all together), but it didn't work because of a [security vulnerability](computers-cysec.md) with the consensus system, so the Ethereum Foundation had to create a hard fork called ETH.
+3. There was an attempt to make a soft [fork](computers-software-versionctrl.md) (that would keep it all together), but it didn't work because of a [security vulnerability](computers-infosec.md) with the consensus system, so the Ethereum Foundation had to create a hard fork called ETH.
 4. ETC became Ethereum Classic, sustained on [GitHub's ethereumproject](https://github.com/ethereumproject), while the Ethereum Foundation has [Twitter's ethereumproject](https://twitter.com/ethereumproject)..
 
 Sometimes, multiple blockchain protocols can merge together. This can be especially useful to prevent a 51% attack.
@@ -194,11 +194,11 @@ The more vocal advocates for crypto often imply that the lack of central control
 
 ### Privacy concerns
 
-The [aspect of privacy](computers-cysec.md) is also a concern with some blockchain implementations. In many respects, scanning and encoding every human eyeball (like with Worldcoin) or every fingerprint creates a tremendous risk to the natural anonymity we are all accustomed to. Thus, some activists like [Edward Snowden](https://web.archive.org/web/20211101005702/https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto) are vehemently opposed to this type of implementation.
+The [aspect of privacy](computers-infosec.md) is also a concern with some blockchain implementations. In many respects, scanning and encoding every human eyeball (like with Worldcoin) or every fingerprint creates a tremendous risk to the natural anonymity we are all accustomed to. Thus, some activists like [Edward Snowden](https://web.archive.org/web/20211101005702/https://decrypt.co/84277/snowden-slams-sam-altman-worldcoin-eyeball-scan-for-crypto) are vehemently opposed to this type of implementation.
 
-At the same time, its effectiveness only applies to the degree that it works. Very often, databases can be corrupted, and people can [hack](mind-creativity-hacking.md) anything that can make them money (such as, for example, using fake [biometric data](computers-cysec-authentication.md) if there's a cash reward for submitting your personal biological information).
+At the same time, its effectiveness only applies to the degree that it works. Very often, databases can be corrupted, and people can [hack](mind-creativity-hacking.md) anything that can make them money (such as, for example, using fake [biometric data](computers-infosec-authentication.md) if there's a cash reward for submitting your personal biological information).
 
-While it's true that cryptocurrency is its own computerized accountant (instead of a bank), this comes at the risk that it's a dumb computer that has *no* intuition to [authenticate](computers-cysec-authentication.md) you versus someone else with a photo of you and your password.
+While it's true that cryptocurrency is its own computerized accountant (instead of a bank), this comes at the risk that it's a dumb computer that has *no* intuition to [authenticate](computers-infosec-authentication.md) you versus someone else with a photo of you and your password.
 
 ### Hacks/crimes
 

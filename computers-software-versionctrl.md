@@ -28,7 +28,7 @@ In long-term software where there's a certain level of public exposure for that 
 
 ## Control software
 
-To keep track of changes while creating software, most programmers like to use a version control system such as Microsoft's [GitHub](https://github.com) or Apache's [SubVersion](https://subversion.apache.org/).
+To keep track of changes while creating software, most programmers like to use a version control system such as git or Apache's [SubVersion](https://subversion.apache.org/).
 
 Version control systems let software engineers figure out when code was updated, so they can trace where they may have made a mistake.
 
@@ -54,13 +54,13 @@ If the source code is maintained by someone else, then a programmer can submit a
 
 In a strictly practical sense, a Git version control is simply a [file folder](computers-files.md), but with a hidden .git folder that keeps logs of *all* the changes, including alternate versions of everything that has changed. A developer can also have a .gitignore file with [regular expression](computers-programming.md) conditions that prevent certain files from being tracked by Git.
 
-However, there are [security issues](computers-cysec.md) with Git. Since it keeps track of *every* change, information that may be accidentally uploaded to a public repository may effectively stay there indefinitely, even if it gets deleted. However, it has become more [encrypted](encryption.md) over time.
+However, there are [security issues](computers-infosec.md) with Git. Since it keeps track of *every* change, information that may be accidentally uploaded to a public repository may effectively stay there indefinitely, even if it gets deleted. However, it has become more [encrypted](encryption.md) over time.
 
 ### GitHub
 
 [GitHub](https://github.com/) came in 2008 as a public Git repository that also served as a type of [social media](computers-networks-social.md), which pushed it into widespread adoption.
 
-While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_what.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](computers-bigtech.md).
+While Git is a completely open-source experience, Git*Hub* is a private organization that began as [a startup](entrepreneur-1_what.md) to host Git instances. It scaled upward to become like almost any other [large-scale company](mgmt-1_why.md), then was bought out by Microsoft in 2018 to become another part of [Big Tech](computers-bigtech.md), though GitHub has retained some level of autonomy.
 
 Beyond being a form of social media, GitHub's most advantageous offering is GitHub Copilot, which scraped *all* the GitHub code to create an [AI-assisted model](computers-ai.md) to help with coding.
 
@@ -78,6 +78,15 @@ For whatever reason, the developer can "fork" the version. This new version is i
 One of the most common ways to fork is to "checkout" a previous version. It allows rolling back to a previous version without committing. That second version can be committed separately without affecting the master/main. When/if the developer wants to "merge" them together, they simply have to run a [console](computers-cli.md) command.
 
 Forks, however, need to be "merged" together, and it is *not* a straightforward experience. It's not always clear when the last code edit was done, and by whom, especially across time zones. This holds true as well for any changed dependencies as well.
+
+## Multiple versions
+
+In larger systems, known-good versions are far more trouble to change to future versions. For this reason, the best way to deploy is to use at least a three-phase arrangement:
+
+1. Prototype: a chance to experiment with everything in beta.
+2. Test: everything broadly works and is linked to test information.
+3. Production: The service is live and usable by everyone (also called "blue" in blue/green deployments).
+4. New (optional): A new version of the Production system (also called "green" in blue/green deployments).
 
 ## Phasing out
 

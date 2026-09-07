@@ -81,7 +81,7 @@ There are *many* places where encryption is necessary or, at least, a very good 
 
 - The [operating system](computers-os.md) often needs encryption, especially core files. Sometimes an entire drive's data must be encrypted.
 - Anytime something sends across [the internet](computers-sofware-webdev.md), it needs to be secure, since anyone can theoretically intercept it.
-- All aspects of [cybersecurity](computers-cysec.md) involve some form of encryption, if not outright destruction, of data and data-bearing devices.
+- All aspects of [cybersecurity](computers-infosec.md) involve some form of encryption, if not outright destruction, of data and data-bearing devices.
 
 ## Forms
 
@@ -152,7 +152,7 @@ The base64 encoder and decoder uses the "secure socket layer" (SSL) [protocol](s
 
 ## Attacks
 
-Cryptanalysis uses a variety of techniques to break ciphers. It's worth noting that, while everyone who is cryptanalyzing is [hacking](mind-creativity-hacking.md) (and many are [PenTesting](computers-cysec-pentest.md)), very few hackers or PenTesters will cryptanalyze.
+Cryptanalysis uses a variety of techniques to break ciphers. It's worth noting that, while everyone who is cryptanalyzing is [hacking](mind-creativity-hacking.md) (and many are [PenTesting](computers-infosec-pentest.md)), very few hackers or PenTesters will cryptanalyze.
 
 It is impossible to have an indecipherable message. All encryption can be broken with a brute force attack. However, it's not sensible to apply resources toward it. Why spend 30,000 hours of computer processing cracking a password that will give the attacker $100 of payout or evidence of a misdemeanor? This is one of the strengths of [blockchain](computers-blockchain.md) cryptocurrency.
 

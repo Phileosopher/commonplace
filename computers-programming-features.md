@@ -21,6 +21,18 @@ Some languages are really, *really* specific (e.g., HTML, CSS). Think of them as
 
 One noteworthy reality is that there's no hard "box" around any of the languages. For example, someone *could* make a computer game with CSS and HTML, but they'd make better use of their time and effort to simply learn JavaScript or C. But, some people do it for fun or are insanely stubborn.
 
+## Garbage collection
+
+"Garbage collection" is a critical consideration for anything that doesn't terminate after a single task, since memory will eventually become scarce if there's a "memory leak".
+
+Not all languages automatically do this, though, so it is a very important, *very* essential thing to keep in mind.
+
+## Dynamic typing
+
+All data comes in [various types](data.md). This may need to change. Some languages like JS automatically infer the change and can be forgiving, but others like [C#](computers-programming-c#.md) and [C++](computers-programming-c++.md) need explicit retyping of data (static typing).
+
+- Dynamic typing really isn't as much a *feature* as it is a tradeoff of convenience, since misidentified data types create headaches that are difficult for a software engineer to identify.
+
 ## Libraries
 
 There are a *lot* of people who work with computers. The beauty of [specialization](jobs-specialization.md) is that someone can build something, then someone else can use it later. Unlike real-life tools, code doesn't really cost money to reproduce.

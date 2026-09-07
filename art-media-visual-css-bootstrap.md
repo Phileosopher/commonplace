@@ -143,7 +143,7 @@ There are other visuals for form validation
 
 ## Input groups
 
-it allows multiple elements to sit on one line
+it allows multiple elements to sit on one line.
 
 - input-group class makes all the inputs side-by-side with rounded edges around the whole thing
   - can also be input-group-sm and input-group-lg
@@ -152,7 +152,7 @@ it allows multiple elements to sit on one line
 
 ## Specific components
 
-There are a LOT of components, far too many to count
+There are a LOT of components, far too many to count.
 
 - However, there are some that keep emerging more than others
 
@@ -208,14 +208,3 @@ Modals
 - IMPORTANT: add a button inside the modal with data-bs-dismiss="modal" and data-bs-target="#(the modal's id)" to dismiss the modal
 - Can add fade class to make it nicer
 - Can demarcate modal-header, modal-body, modal-footer
-
-[LEFT OFF AT 51:54](https://www.youtube.com/watch?v=Jyvffr3aCp0)
-
-- collapse
-- navbars
-- color utilities
-- stack utilities
-- border utilities
-- display utilities
-- spacing utilities
-- flexbox utilities

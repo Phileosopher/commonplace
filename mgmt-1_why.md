@@ -230,7 +230,7 @@ When nobody leads by asking questions that provoke change, NLM [culture](people-
 - Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](people-contracts.md) or expressing [certainty](mind-understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
 - Dense and meaningless jargon, which shows both a lack of [understanding](mind-understanding.md) and unwillingness to own that lack of understanding.
 - Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](results.md) within those projects.
-- Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals.md) when they may be held accountable on it.
+- Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals-how.md) when they may be held accountable on it.
 - Often dismally [unaware](mind-awareness.md) of how everyone else [sees them](people-image-why.md).
 
 Great management can't be trained because the managers must *choose* to be authentic and behave maturely.

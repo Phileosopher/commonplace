@@ -1,6 +1,12 @@
 
 # PHP
 
+PHP (aka "HyperText Processor") was originally called "personal home page", and is a *very* [web-centric](computers-software-webdev.md) language.
+
+The language has a strange quality of "fixing" errors because it has fallback code in case things fail. This makes it *very* robust, but also more difficult to [debug](computers-software-redesign.md).
+
+## Specific snippets
+
 ```php
 /* FAVICON HEADER CODE */
 add_action('wp_head', 'favicon');

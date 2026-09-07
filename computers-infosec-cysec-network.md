@@ -71,7 +71,7 @@ There are multiple types of VPN protocol:
 
 - OpenVPN uses specific client software to set up, secure if it's set up correctly, and can be used on any TCP/UDP port.
 - WireGuard is newer than OpenVPN, far more secure than OpenVPN, and performs better, though hasn't been adopted as much as OpenVPN because of how much work OpenVPN takes to set up. Unfortunately, some vendors (like Apple) have problems with the app even if the protocol works well.
-- IPSec is a suite of network protocols that works natively with many [operating systems](computers-os.md), so it doesn't need third-party apps. It encrypts the entire packet with an [authentication](computers-cysec-authentication.md) header (AH) and an encapsulating security protocol (ESP) that seals the information.
+- IPSec is a suite of network protocols that works natively with many [operating systems](computers-os.md), so it doesn't need third-party apps. It encrypts the entire packet with an [authentication](computers-infosec-authentication.md) header (AH) and an encapsulating security protocol (ESP) that seals the information.
   - Cisco and Microsoft partnered in 2005 to create Internet Key Exchange version 2 (IKEv2), which improved in speed, security, stability, CPU use, and re-connectivity compared to other VPNs at the time.
   - A [leaked NSA presentation](https://web.archive.org/web/20141229051901/http://www.spiegel.de/media/media-35529.pdf) implies that L2TP and IKE were compromised, but it's hard to tell for sure.
 - PPTP (Point-to-Point Tunneling Protocol) is one of the oldest protocols, but it's outdated and *not* secure.

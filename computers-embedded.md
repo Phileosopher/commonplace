@@ -34,6 +34,13 @@ Even though they originally designed these low-spec computers for [teaching](edu
 
 Due to the price point and accessibility for tinkering, there are [many potential uses](computers-embedded-ideas.md) for these embedded computers.
 
+However, in a tight market, be careful what you're paying for when buying them used.
+
+- Pay close attention to the circuit board.
+  - Not all generations of the system are the same, and many people will sell similar-looking products that are cheaper.
+- Look at the actual market value before buying.
+- If you can, run it before you buy it, since they can fail in many different ways.
+
 ## The embedded computer's design
 
 Both the Pi and Arduino have GPIO ("general-purpose input-output") pins, which creates a modular way to connect peripherals.

@@ -8,6 +8,12 @@ There's a distinct difference between front-end and back-end development, though
 - "Back-end" development is working heavily with [databases](database.md) and [algorithms](computers-programming-algorithms.md), typically with lots of [math](math-cs.md).
   - Back-end work often culminates in nothing more than an [API](computers-programming-features.md).
 
+Categorically, there are three major types of software:
+
+1. [Operating systems](computers-os.md) that make the computer function
+2. Utility software, which supports the operating system's functioning
+3. Applications, which are the things non-tech people actually use
+
 ## Mindset
 
 Anyone working with code must have a few specific skills:
@@ -72,6 +78,19 @@ For each function, a programmer should design it first:
 8. Document - after making the function, create [documentation](language-writing-documentation-cs.md) to clarify how to use the function, using sample data to give examples.
 
 ## Building
+
+There is a Software Development Life Cycle (SDLC) that every developer goes through, even if it's one person thinking something in their head:
+
+1. Analysis: using [logic](logic.md) to find out how a computer can fix a problem.
+   - This defines the scope of the software, as well as [specifications](standards.md) the software will likely need.
+2. Design: building a framework for the software.
+   - While it may include [data visualizations](data-viz.md) like [UX](engineering-design-cs.md) wireframes and may even include prototypes, it can be as simple as pseudocode in a bunch of files.
+3. Implementation: building the actual software.
+   - This is where [coding](computers-programming.md) happens, including the [IDE](computers-software-ide.md) and [VCS](computers-software-versionctrl.md).
+   - Incidentally, it's also the greatest value-added place for code-based [machine learning models](computers-ai-ml.md).
+4. Testing: checking for [bugs, issues, and performance problems](computers-software-redesign.md).
+   - Like [editing](language-writing.md), the least exciting part of the job, but also arguably the most important to create outstanding [results](results.md).
+   - At this point, it is *absolutely critical* to [document everything](language-writing-documentation-cs.md) for the user.
 
 Usually, computer code has already been built, at least partially. Most developers consult [Stack Overflow](https://stackoverflow.com/) for 98% of their questions and copy-paste code, or search an online "repository", then "refactor" the code for their purposes. It's often not perfect, but works well-enough.
 

@@ -27,7 +27,7 @@ APPLICATION: strip the query onward, and you've just cut off some information to
 
 Client computers submit a request to a host/server computer with a URL, an endpoint path off that URL, and one of several possible methods:
 
-- GET - ask for information from a specified location (sent in the URL directly and therefore *not* [securely sent](computers-cysec.md))
+- GET - ask for information from a specified location (sent in the URL directly and therefore *not* [securely sent](computers-infosec.md))
 - POST - send data to a server to create or update a resource
 - PUT - send data to a server to create or update a resource, but the information is "idempotent" (i.e., it won't create multiple instances of the resource if sent multiple times)
 - HEAD - same as GET, but won't return any information, great for [testing](computers-software-redesign.md)
@@ -69,7 +69,7 @@ The server/host computer interprets the information, then sends a response back 
   - **308 Permanent Redirect** to a given URI, which is the same thing as 301 but doesn't allow the client's HTTP method to change.
 - 400s - the client computer has an error
   - **400 Bad Request** because there was an apparent, but uncertain, client error
-  - **401 Unauthorized** is similar to 403, but [authentication](computers-cysec-authentication.md) wasn't provided or has failed
+  - **401 Unauthorized** is similar to 403, but [authentication](computers-infosec-authentication.md) wasn't provided or has failed
   - **402 Payment Required** was reserved for future use, but hasn't been implemented
   - **403 Forbidden** means it was a valid request, but the host is refusing to act on it
   - **404 Not Found** means the requested resource couldn't be found, but that's it
@@ -129,7 +129,7 @@ To fill in the gap, some tech people created a "search engine", which is softwar
    - Rank the sites upward when they link to many sources beyond their site.
    - Downgrade sites when people simply "bounce" onto the page and off again.
 
-Most search engines are so powerful that they tend to "web scrape" entire websites as well. This is particularly egregious [in the case of extremely large groups](computers-cysec.md).
+Most search engines are so powerful that they tend to "web scrape" entire websites as well. This is particularly egregious [in the case of extremely large groups](computers-infosec.md).
 
 ## Search engine optimization
 
@@ -137,7 +137,7 @@ Since businesses want to make lots of money, there's an entire division of [mark
 
 1. Add your domain to all the major webmaster consoles (e.g., Google, Yandex, Bing, etc.).
 2. Generate an XML site map and submit it on those consoles.
-3. Add an [SSL certificate](computers-cysec.md) and make sure it's sending secure information.
+3. Add an [SSL certificate](computers-infosec.md) and make sure it's sending secure information.
 4. Add links all over the site that link to other parts of the site (~3-4 links every 1500 words).
 5. Do absolutely *everything* you can to improve [web/app accessibility](engineering-design.md).
    - Make sure your [UI](engineering-design.md) is properly color-matched.
@@ -158,7 +158,7 @@ Obviously, some less-than-legitimately-motivated people have wanted to exploit t
 
 Most typical users interact with the internet through a "web browser", which is software specifically designed to handle a wide variety of internet content including pictures, [videos](engineering-screen.md), and [games](computers-software-gamedev.md).
 
-While some web browsers emphasize [cybersecurity](computers-cysec.md) and others emphasize speed, they almost always do just about the same thing: give a safe and fast web-browsing experience that also *doesn't* download bloated, broken or [malicious](computers-cysec-malware.md) code.
+While some web browsers emphasize [cybersecurity](computers-infosec.md) and others emphasize speed, they almost always do just about the same thing: give a safe and fast web-browsing experience that also *doesn't* download bloated, broken or [malicious](computers-infosec-cysec-malware.md) code.
 
 Most information displayed on a web browser is "HyperText Markup Language" (HTML), which is more of a markup language than a proper [scripting language](computers-languages.md). It pairs with "Cascading Style Sheets" (CSS) that give visual style, as well as a scripting language (which is often JavaScript).
 
@@ -167,7 +167,7 @@ Amusingly, CSS was designed to address constraints within HTML, and JavaScript w
 To keep track of a browser (such as logging in), the "host" will frequently send files called "cookies" to save specific information (like your login or shopping cart) inside the browser cache within the user's computer.
 
 - This is *very* convenient, since it can allow someone to stay logged-in, tailor the website to specific types of users, or keep track of information about the web browser to make the browsing experience more seamless.
-- However, stored cookies can also lead to [privacy issues](computers-cysec.md), especially when third-parties (like advertising companies) can track behavior *across* websites or when [hackers](mind-creativity-hacking.md) track where you're browsing.
+- However, stored cookies can also lead to [privacy issues](computers-infosec.md), especially when third-parties (like advertising companies) can track behavior *across* websites or when [hackers](mind-creativity-hacking.md) track where you're browsing.
 
 The Tor [protocol](standards-computers.md) and its browser adds layers of anonymity to the web-browsing experience, which means more layers of complexity.
 
@@ -175,9 +175,9 @@ The Tor [protocol](standards-computers.md) and its browser adds layers of anonym
 
 While the [user experience](engineering-design.md) of mobile devices often separates the experience of internet-browsing into a wide variety of "apps", most of those apps are simply various specialized web browsers inside the [operating system](computers-os.md) (e.g., Electron app).
 
-Differently sized screens and inputs are *not* trivial issues! The wide variety of [screen implementations](engineering-screen.md) means the user could be using a [mouse](computers-mouse.md) and [keyboard](computers-keyboard.md) on an office machine, their cell phone or tablet with their fingers, or an interactive [VR headset](computers-vr.md). To make it simpler, developers sidestep the pixel measurement in lieu of a root em (or "rem") measurement based on a basic font size (typically 16 pixels).
+Differently sized screens and inputs are *not* trivial issues! The wide variety of [screen implementations](engineering-screen.md) means the user could be using a [mouse](computers-mouse.md) and [keyboard](computers-keyboard.md) on an office machine, their cell phone or tablet with their fingers, or an interactive [VR headset](computers-xr.md). To make it simpler, developers sidestep the pixel measurement in lieu of a root em (or "rem") measurement based on a basic font size (typically 16 pixels).
 
-At one time, near the year 2000, almost every internet-enabled computer was working on about a 1024×768 [screen](engineering-screen.md). Now, they can range from 480×320 through to 3840×1080 (and growing), with all sorts of odd rectangular shapes (with [VR](computers-vr.md) and [driverless autos](computers-autos.md) adding even more variety). This adds a layer of challenge to good web design, but has a few simple tricks:
+At one time, near the year 2000, almost every internet-enabled computer was working on about a 1024×768 [screen](engineering-screen.md). Now, they can range from 480×320 through to 3840×1080 (and growing), with all sorts of odd rectangular shapes (with [VR](computers-xr.md) and [driverless autos](computers-autos.md) adding even more variety). This adds a layer of challenge to good web design, but has a few simple tricks:
 
 - Make elements move and resize relative to the screen edges, such as with a percentage or with a *float* command.
 - Use fluid grids to keep everything in place as things move around.

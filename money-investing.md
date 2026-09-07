@@ -15,7 +15,7 @@ We technically "invest" when we [lose weight](body-diet.md), [organize](organiza
 
 ## Don't invest full-time
 
-Start by build your wealth on your [expertise](professionals.md).
+Start by build your wealth on your [expertise](professionals-how.md).
 
 - When you don't have much money, you will receive dramatically more gains in learning specific trade-based knowledge and experience than in the returns the market can give you.
 - Investing by [borrowing loans](money-2_debt.md) (made popular by Kiyosaki's Rich Dad, Poor Dad) will dip heavily into your returns, and exposes you to plenty of risk.

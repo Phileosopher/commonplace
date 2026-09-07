@@ -119,7 +119,7 @@ The implication of this is vast. It means that you can store an unlimited amount
 
 ### Hash-based structures
 
-By using various [cryptographic techniques](encryption.md), you can add many layers of complexity to a data structure with hashes. This is often for [data security](computers-cysec.md).
+By using various [cryptographic techniques](encryption.md), you can add many layers of complexity to a data structure with hashes. This is often for [data security](computers-infosec.md).
 
 One frequent hash-based data structure is a Merkle Tree:
 

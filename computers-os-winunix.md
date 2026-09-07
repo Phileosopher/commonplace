@@ -85,7 +85,7 @@ Getting a new Windows program is a specific process:
 3. You can now use the program at your leisure.
 4. If you need to update, download the new version and install, which will be a complete rewrite of the old program.
 
-The upside is that it's easy to understand for downloading. The downside is that updates (such as [security updates](computers-cysec.md)) require the user to pay attention unless it's specifically a Microsoft-supported product (like Microsoft Office).
+The upside is that it's easy to understand for downloading. The downside is that updates (such as [security updates](computers-infosec.md)) require the user to pay attention unless it's specifically a Microsoft-supported product (like Microsoft Office).
 
 The best way to get a Linux program is a little more involved at the beginning:
 

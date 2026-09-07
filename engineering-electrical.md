@@ -311,3 +311,21 @@ One of the newest developing technologies for batteries is called a hydrogen fue
 5. The hydrogen protons travel across the PEM and bond with the oxygen, producing water (H~2~O), then move out of the system.
 
 One significant issue with hydrogen fuel cells is in finding a reliable and affordable source of pure hydrogen for the inputs.
+
+## Solar and wind
+
+Since solar and wind energy are effectively unlimited, many people feel it's the future of energy. However, they both come with issues.
+
+Wind power, in particular, has several problems:
+
+- Wind is, by its very nature, volatile, so over-generation with reliable and extreme battery storage is critical.
+- The biome heavily affects wind flow, so most places don't have a great setup for it unless they're in a plain or well-placed gorge.
+- Since wind power is literally one of the destroying elements of nature, it will also wear down the [turbine](engineering-engines.md).
+- Whenever a part fails on the turbine, the region downwind can have parts and fluids spread across it for *miles*.
+
+Solar power also has a biome issue (needs plenty of sunlight) and is also volatile (needs nice weather), though it's far less violent on the parts.
+
+- The problem with solar panels, though, is that dust can often set on the panels and requires constant cleaning.
+- Further, solar panels are very expensive to make, so they become very expensive to replace when they fail.
+
+However, the future viability of solar, as well as the general culture that accompanies [autonomous living](home-homestead.md), has created solarpunk culture around rigging up all sorts of interesting arrangements with solar cells.

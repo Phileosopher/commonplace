@@ -5,7 +5,7 @@ A "network" is a bunch of computers put together. They're loosely connected, and
 
 There is a vast body of network [standards](standards-computers.md) published and maintained through [the IETF](https://datatracker.ietf.org/). They distill into many RFCs (Request For Comment) that indicate precisely how a computer should be programmed to manage various protocols.
 
-[Cybersecurity](computers-cysec.md) is the general set of practices of what computers should *not* take as input, since other computers and people aren't always worth trusting.
+[Cybersecurity](computers-infosec.md) is the general set of practices of what computers should *not* take as input, since other computers and people aren't always worth trusting.
 
 ## History
 
@@ -28,6 +28,7 @@ For a long time through the 1990s, until broadband internet, the capacity for da
 
 There are different types of conventional network "topologies" to connect computers with other computers:
 
+- Point-to-point - Direct connection between two computers.
 - Bus - One straight line: A connected to B, B to C, C to D
   - The first computer network, where *all* the information from one computer went to *all* the computers at once.
   - Engineers actually had to install a "terminator" just to prevent data from bouncing back and bringing the whole network down!
@@ -41,6 +42,7 @@ There are different types of conventional network "topologies" to connect comput
 - Mesh - Since redundancy is the perfect fault tolerance, have more than one of the computers on the network have more than one connection.
   - Partially meshed topologies have 2+ computers each with 2+ connections to other computers.
   - Fully meshed topologies have *all* the computers connected directly to *all* the other computers. Expensive, but safe.
+- Tree - Effectively a combination of star and bus, connecting to a central source that feeds to the internet.
 
 Generally, any network topology that values complete "redundancy" should have 2 backup connections for every connection. This can be expensive depending on how it's implemented, so most [enterprise IT](computers-distsys-enterprise.md) only keeps 1 unless they're [very large](computers-bigtech.md).
 
@@ -52,9 +54,21 @@ Due to the complexity of a computer network, there is [a specific set of layers]
 
 "Local area networks" (LANs) are the sections of the network that you have more direct control over. It's the first historical foray into networked computers. Most LANs use shared resources, such as file servers.
 
-An "IP address" is a unique identifier designed specifically for that computer. The "Internet of Things" is clever [marketing](marketing.md)-speak for "every computer has an IP address". IoT would be harmless, but it opens up many [cybersecurity](computers-cysec.md) risks from the added connectivity.
+A "virtual LAN" (VLAN) is simply a logical separation of physically associated computers.
 
-Besides having private IP addresses on that local network, wireless networks have a "service set identifier" (SSID) as an ID for users to find it. It can be "Family Wi-Fi" or "PETA Van", but can also be "!" or "#". If it isn't [password-protected](computers-cysec-authentication.md), anyone who knows it or can scan wireless networks will be able to access it.
+An "IP address" is a unique identifier designed specifically for that computer. The "Internet of Things" (IoT) is clever [marketing](marketing.md)-speak for "every computer has an IP address". IoT would be harmless, but it opens up many [cybersecurity](computers-infosec.md) risks from the added connectivity.
+
+- In a sense, the largest [cybersecurity](computers-infosec.md) risk comes through the excessive [marketing](marketing.md) that has brought out many [home automation](home-smart.md) options.
+- Further, IoT can generate *tons* of useless data, which requires correctly managing.
+
+In a simplified sense, IoT has four phases that work just like almost every other computer:
+
+1. Input: gathers data through devices and sensors
+2. Connectivity: transmits that data via a network
+3. Data processing: new information derived from that data
+4. Output: presentation through the user interface
+
+Besides having private IP addresses on that local network, wireless networks have a "service set identifier" (SSID) as an ID for users to find it. It can be "Family Wi-Fi" or "PETA Van", but can also be "!" or "#". If it isn't [password-protected](computers-infosec-authentication.md), anyone who knows it or can scan wireless networks will be able to access it.
 
 In a telephone system, one implementation of a LAN is a PBX (private branch exchange). When it's customer-facing, it typically has pre-recorded audio with it to communicate what the users can press. However, a phone is still simply a computer interface with a dialpad-only input and audio-only output.
 
@@ -94,7 +108,7 @@ Two specific traits give carriers that control networks a *lot* of [power](power
 
 There are only 3 ways to keep carriers accountable to prevent abuse:
 
-1. [Use end-to-end encryption](encryption.md), which is a matter of [each person responsibly making those decisions](computers-cysec.md).
+1. [Use end-to-end encryption](encryption.md), which is a matter of [each person responsibly making those decisions](computers-infosec.md).
 2. [Enact laws to prevent their misuse](people-rules.md), which requires [government intervention](groups-large.md).
 3. [Maintain a competitive free market](money-economics.md), which requires government *non*-intervention.
 

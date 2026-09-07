@@ -416,7 +416,7 @@ The most frequent indicator of fraud is promising high return with low risk.
 The best way to avoid scams is to educate yourself thoroughly before committing to anything.
 
 - Before speaking details with any investment advisor, make sure they have FINRA oversight.
-- Practice [healthy cybersecurity](computers-cysec.md) with all your computers, *before* logging into your investments, and make sure you're at the right website.
+- Practice [healthy cybersecurity](computers-infosec.md) with all your computers, *before* logging into your investments, and make sure you're at the right website.
 - Don't trust someone who just because you're connected on social media.
 
 Avoid bad investing strategies and philosophies.

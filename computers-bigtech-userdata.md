@@ -73,7 +73,7 @@ Google/Alphabet
 Academia
 
 - [2021-05 60% of school apps are sharing user data to unknown recipients](https://web.archive.org/web/20210504122807/https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/).
-- [2021-02 Eproctoring is highly invasive and biased](https://web.archive.org/web/20210210023554/https://www.baneproctoring.com/), and online exam software like [ProctorU](https://web.archive.org/web/20211109123611/https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/) and [Respondus](https://web.archive.org/web/20210908204840/https://privacymatters.today/) are highly invasive [spyware](computers-cysec-malware.md).
+- [2021-02 Eproctoring is highly invasive and biased](https://web.archive.org/web/20210210023554/https://www.baneproctoring.com/), and online exam software like [ProctorU](https://web.archive.org/web/20211109123611/https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/) and [Respondus](https://web.archive.org/web/20210908204840/https://privacymatters.today/) are highly invasive [spyware](computers-infosec-cysec-malware.md).
 
 ByteDance
 
@@ -92,7 +92,7 @@ Microsoft
 
 Other companies
 
-- Avast (the [antivirus](computers-cysec-malware.md) company) is [tracking users' entire web history as of 2020](https://web.archive.org/web/20200501123622/https://palant.info/2019/10/28/avast-online-security-and-avast-secure-browser-are-spying-on-you/).
+- Avast (the [antivirus](computers-infosec-cysec-malware.md) company) is [tracking users' entire web history as of 2020](https://web.archive.org/web/20200501123622/https://palant.info/2019/10/28/avast-online-security-and-avast-secure-browser-are-spying-on-you/).
 - [2020-02 Wacom drawing tablets send application data to Google for the entire laptop they're connected to](https://web.archive.org/web/20211220082137/https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/).
 - [2020-10 Dropbox telemetry can't be disabled](https://web.archive.org/web/20230427083033/https://www.dropboxforum.com/t5/Integrations/Why-So-Much-Telemetry/td-p/455961/page/3).
 - [2021-02 Disqus is a comment system that injects third-party trackers and sells visitors' data](https://web.archive.org/web/20210205042131/https://supunkavinda.blog/disqus).

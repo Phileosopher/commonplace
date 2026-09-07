@@ -42,7 +42,7 @@ Some are designed to *really* cater to new Linux users:
 
 - [Zorin OS](https://zorin.com/) for Windows users
 
-A few are for [PenTesting](computers-cysec-pentest.md):
+A few are for [PenTesting](computers-infosec-pentest.md):
 
 - [Kali Linux](https://www.kali.org/)
 - [Pentoo](https://pentoo.ch/)
@@ -51,10 +51,10 @@ A handful make Linux into a portable media center:
 
 - [Kodi](https://kodi.tv/)
 
-A few others were made for [computer security](computers-cysec.md):
+A few others were made for [computer security](computers-infosec.md):
 
 - [Qubes](https://www.qubes-os.org/) uses [virtualization](computers-distsys-vm.md)
-- [Tails](https://tails.boum.org/) uses [anonymity](computers-cysec.md)
+- [Tails](https://tails.boum.org/) uses [anonymity](computers-infosec.md)
 
 Some are designed to be lower-profile or portable:
 

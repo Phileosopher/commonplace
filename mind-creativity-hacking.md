@@ -6,7 +6,7 @@ Specifically with computers, the word "hack" has a few specific meanings:
 1. Illegally gain access to a computer system.
 2. Improvise a solution to a hardware/software limitation, often implied as a [creative](mind-creativity.md) solution.
 
-Hacking has gotten a bad name, partly due to the cultural implications of the first definition. Both [malware](computers-cysec-malware.md) and [social engineering](computers-cysec-socialengineering.md) can serve to completely destroy society by some of the most intelligent and immoral individuals, and the large-scale [fear](mind-feelings-fear.md) (often advanced *by* the hackers themselves) means most people are typically uneducated about the positive side of that brilliance.
+Hacking has gotten a bad name, partly due to the cultural implications of the first definition. Both [malware](computers-infosec-cysec-malware.md) and [social engineering](computers-infosec-socialengineering.md) can serve to completely destroy society by some of the most intelligent and immoral individuals, and the large-scale [fear](mind-feelings-fear.md) (often advanced *by* the hackers themselves) means most people are typically uneducated about the positive side of that brilliance.
 
 Historically, modern hacker culture was inspired by a child playing with a toy whistle from a Cap'n Crunch cereal box that produced a 2600-Hz tone. He figured out that it was the same tone that accessed AT&T's phone network, and was able to get free long distance calls with it. It developed a culture of "phone phreaks", who developed a cottage industry of "blue boxes" that reproduced the whistle's tone for a short time.
 
@@ -36,7 +36,7 @@ Hacks can come from a *wide* moral spectrum of motivations, ranging from good ("
 
 But, from the public's perspective, there are 3 major classes of hacker:
 
-1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming.md), often includes [PenTesters](computers-cysec-pentest.md).
+1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming.md), often includes [PenTesters](computers-infosec-pentest.md).
 2. Unconventional [Fixing](https://adequate.life/fix/) - typically an [engineering](engineering.md) solution that either transforms mundane objects into clever fixes or fixes problems most people have blindly accepted [habitually](habits.md).
 3. New Perspectives - building mind-bending experiences that redefine how we see reality, typically only attainable by a [genius savant](mind-neurodivergence-autism.md).
 

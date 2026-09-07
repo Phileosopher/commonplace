@@ -39,7 +39,7 @@ At some point, your small organization will *eventually* travel down several pos
 2. You'll scale upward to compete with the changing conditions and the need to safely manage your resources against a growing market.
 3. You'll [sell the organization](entrepreneur-7_exit.md), and probably start again with another [idea](entrepreneur-2_idea.md).
 
-Even if you prefer to work alone, a successful business *needs* [other professionals'](professionals.md) help.
+Even if you prefer to work alone, a successful business *needs* [other professionals'](professionals-who.md) help.
 
 - There are simply too many [specializations](jobs-specialization.md) that you can't do otherwise, and doing all of them at once makes you merely adequate in all of them.
 

@@ -124,7 +124,7 @@ Back-End Development
 
 - Uses everything on the Front-End Development side, minus the design tools, plus database programming like SQL or NoSQL server.
 - Game developers add game-specific software like GameFroot, Flowlab, Splender, and Construct.
-- DevOps ramp up the experience with build tools like Gradle and Apache, package managers like Npm and Mache, and CI/CD tools like Jenkins.
+- [DevOps](mgmt-2_projects-theories.md) ramp up the experience with build tools like Gradle and Apache, package managers like Npm and Mache, and CI/CD tools like Jenkins.
 
 Data Analysis and Data Science
 
@@ -135,7 +135,7 @@ Data Analysis and Data Science
 
 Cybersecurity
 
-- Network [security](computers-cysec.md) monitors like Splunk or Argus.
+- Network [security](computers-infosec.md) monitors like Splunk or Argus.
 - [Encryption](encryption.md) tools like VeraCrypt and TrueCrypt.
 - [Vulnerability](mind-creativity-hacking.md) scanners like Nikto and Burp Suite.
 

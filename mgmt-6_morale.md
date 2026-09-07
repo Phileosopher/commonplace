@@ -234,7 +234,7 @@ Cash bonuses always work, but aren't the only way to reward people.
 - Give a company car or car program that provides [insurance](money-insurance.md) and [maintenance](autos.md).
 - Give gifts for certain life landmarks like marriage or a new baby.
 - Give them discounted or free [insurance](money-insurance.md).
-- Pay for their [financial](money-1_why.md)/[investing](money-investing.md) consultation services, [legal assistance](legal-safety.md), or [identity theft protection](computers-cysec.md).
+- Pay for their [financial](money-1_why.md)/[investing](money-investing.md) consultation services, [legal assistance](legal-safety.md), or [identity theft protection](computers-infosec.md).
 - Give significant discounts on company products.
   - Partner with affiliates in other industries to share discounts with each other.
 - Give tickets to events like concerts or amusement parks.

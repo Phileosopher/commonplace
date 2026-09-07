@@ -1,7 +1,7 @@
 
 # The COBOL programming language
 
-One of the oldest languages alongside FORTRAN, Lisp and ALGOL, created in 1959.
+One of the oldest languages alongside FORTRAN, [Lisp](computers-programming-lisp.md) and ALGOL, created in 1959.
 
 The language processes information *fast*, which is why about 70% of financial transactions are *still* written in COBOL.
 

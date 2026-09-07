@@ -134,7 +134,7 @@ However, for anyone who finds Windows irritating enough, Linux has reached a sta
 
 At the same time, Windows isn't inherently defective.
 
-- The built-in Windows Defender [antivirus software](computers-cysec.md) is well-designed, and none of the other antivirus software products are particularly necessary if you're [avoiding dodgy websites and not running malicious software](safety-computers.md).
+- The built-in Windows Defender [antivirus software](computers-infosec.md) is well-designed, and none of the other antivirus software products are particularly necessary if you're [avoiding dodgy websites and not running malicious software](safety-computers.md).
 - All the programs will run, even when various dumb processes create tremendous memory overhead.
 
 It's relatively easy to tweak and improve the Windows OS to make it run more efficient, even if the interface often requires odd UI gymnastics and registry tweaks to pull off:
