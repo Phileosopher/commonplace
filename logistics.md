@@ -26,7 +26,7 @@ The flow of a payload is always similar pattern:
 
 The pace and severity of the work depends *very* heavily on the role:
 
-- The designers of the logistical system have the tremendous mental burden of assessing the flow of objects and [engineering](engineering.md) it to maximize productivity, similarly to [software design](computers-software.md).
+- The designers of the logistical system have the tremendous mental burden of assessing the flow of objects and [engineering](engineering.md) it to maximize productivity, similarly to [software design](cs-software.md).
 - The logistics dispatcher has the harrowing, fast-paced task of directing vehicle operators, which typically involves intuitively balancing loads and potential future needs the systems designer may not have considered.
 - Warehouse and storage workers have a comparatively boring task of filling up and emptying containers within the replenishing system. The same applies to the steward/concierge/conductor role, but with the additional aspect of [customer service](people-3_respect.md).
 - The operator of the vehicle (train, ship, truck) has a relaxing and somewhat antisocial role of safely navigating their vehicle to avoid the worst possible conditions caused by weather and other vehicles.
@@ -162,7 +162,7 @@ Most transfer systems are *very* efficient.
 Any improvements to a transfer system are *highly* reproducible.
 
 - Even at scale, reliable logistical systems that capture all possible issues can scale as well.
-- Most [computer design](computers.md), as well as their [distributed systems](computers-distsys.md), were inspired by with logistics.
+- Most [computer design](computers.md), as well as their [distributed systems](cs-distsys.md), were inspired by with logistics.
 
 ### Cargo Requirements
 
@@ -230,7 +230,7 @@ For that reason, carriers can [insure against it](money-insurance.md) or resell 
 
 When there are multiple conveyors, the entire string of logistical arrangements is called a supply chain, and it's a relatively newer concept compared strictly to logistics (similar to [UX versus interface/control mechanisms](engineering-design.md), or [customer relationship management versus sales](marketing.md)).
 
-Good supply chain management is a key [management](mgmt-2_projects.md) concept, especially regarding projects. In the world of computers, this abstracts to managing [network flow](computers-networks.md) of information within [distributed systems](computers-distsys.md).
+Good supply chain management is a key [management](mgmt-2_projects.md) concept, especially regarding projects. In the world of computers, this abstracts to managing [network flow](cs-networks.md) of information within [distributed systems](cs-distsys.md).
 
 Supply chains can break down, so they need several *more* aspects beyond the elegant simplicity of high-quality logistics:
 
@@ -340,7 +340,7 @@ Optimized Production Technology (OPT) hunts for bottlenecks, then maximizes them
 
 - Considers account priorities and capacities, then calculates the near-optimum schedule and sequence of operations for each system.
   - The entire system must be fine-tuned and predetermined from the beginning.
-  - It's a [computer system](computers.md) that takes inputs, then tests various workloads and spots bottlenecks in capacity, then uses an [algorithm](computers-programming-algorithms.md) to more efficiently schedule individual jobs to prevent theoretical bottlenecks.
+  - It's a [computer system](computers.md) that takes inputs, then tests various workloads and spots bottlenecks in capacity, then uses an [algorithm](cs-langs-algorithms.md) to more efficiently schedule individual jobs to prevent theoretical bottlenecks.
 - Uses a set of "management coefficients", which are weighted [functions](math-algebra.md) that presume a fixed batch size and use a wide variety of important criteria for data analysis:
   - Ideal product mix, due dates, necessary safety stocks, use of bottleneck machines
   - Inventory levels, product structures, routing, setup/operation timings for *every* procedure of each component, production/transit efficiency, transfer system/plant capacity, work in process, substitutions, overlapping batches, subcontracts, safety stocks
@@ -361,7 +361,7 @@ Flexible Manufacturing Systems (FMS) is a *highly* [computerized system](compute
 - They have built-in production planning routines, parts-programming routines, materials-handling routines for parts/tools/accessories, and inventory/stock control.
 - Further, they also have subroutines like alternatively routed batches, statistical quality monitoring and control, and balancing assembly tasks among individual FMS stations.
 - Most of FMS involves the manager deciding performance criteria and constraints, then letting the computer prioritize and schedule individual batches/deliveries.
-- While the system works great with computers (and especially well with [artificial intelligence](computers-ai.md)), it has absolutely no use within a hybrid of human/machine workers.
+- While the system works great with computers (and especially well with [artificial intelligence](cs-ai.md)), it has absolutely no use within a hybrid of human/machine workers.
 
 ### Breakdown
 
@@ -384,6 +384,6 @@ If communication breaks down, it can create a vast range of unpredictability:
 The domain of energy dominance is one of the most significant [political battles](power.md) of modern society.
 
 - If someone has control of all the means to convey things, they operate as an incessant middle for just about everything.
-- Amazon's corporate growth has been through serving the middle of just about everything, but angled toward a [business](business.md) perspective (e.g., [retail](marketing.md), [computer hosting](computers-distsys-cloud.md)).
+- Amazon's corporate growth has been through serving the middle of just about everything, but angled toward a [business](business.md) perspective (e.g., [retail](marketing.md), [computer hosting](cs-distsys-cloud.md)).
 
 In [war](people-conflicts-war-why.md), supply chains become *highly* focused on time management. Every aspect of delivering even the smallest components becomes intensely critical toward a war effort. It's a gigantic reason why wars are so expensive, along with the fact that supply chain disruption is also a *major* component of military strategy (i.e., it needs extra defense and ideally redundancy).

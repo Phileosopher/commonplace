@@ -1,0 +1,131 @@
+
+# The essence of machine learning
+
+Machine learning is a type of [AI](cs-ai.md) that has taken off in popularity since its inception.
+
+Starting around 2017, a programmer thought it would make a lot of sense to create a recursive [algorithm](cs-software-algorithms.md). In other words:
+
+1. An algorithm is a set of [rules](people-rules.md).
+2. Make an algorithm that creates its own rules from the incoming [data](data.md).
+
+This has proven to be sufficiently successful, and the AI boom is in full swing as of the early 2020s with this development.
+
+## Categories
+
+Machine learning has several basic groups of utilization:
+
+- Large Language Models (LLMs) reproduce natural human language
+- Generative AI (Gen AI) produce new content based on trained data, such as video or images
+
+There are more, but the technology is new enough that, as of 2026, that's all the named ones right now.
+
+## Data in, data out
+
+The effective consequence of a machine learning algorithm is that it will have "averaged-out" data from all the incoming information it has received.
+
+- Send 100,000 photos of dogs through the algorithm, it will be able to make a pretty decent picture of a dog and detect a dog photo about 80% of the time.
+- Pass everything made by William Shakespeare, and it will be able to generate content that sounds like his writing.
+- Run every Hollywood movie through it, and it'll be able to reproduce a decent-looking movie by itself.
+
+The constraints, in light of this, are obvious:
+
+- It isn't going to create anything that hasn't been done many times before.
+- It's still a dumb computer still, so it's just following rules and does *not* develop any type of intuition.
+- Any assertions to the contrary are typically one of two things:
+  1. [Trends](people-trends.md) spurting up by self-interested individuals who want to sell something.
+  2. [Religiousness about what technology can do](https://gainedin.site/machines/).
+
+However, the constraint comes through its averaging. Computers are [logic machines](logic-cs.md), so they simply operate everything as a calculation. This means that a person has to curate the content if they want a higher quality than average.
+
+However, machine learning is excellent for *very* specific tasks which are highly similar across each iteration:
+
+- Detecting if a photo is of a specific animal (e.g., a cat), which also allows it to regenerate a decent-enough photo on command. It would need re-training for something else, though (e.g., a dog).
+- Whether a sentence is appropriate or vulgar, which allows it to generate its own sentences as well. It would need re-training for each different writing style, though.
+- Reviewing [business contracts](people-contracts.md) for compliance and [risk assessment](safety-riskmgmt.md), which can also mean building them as well. It would need re-training for each purpose, though.
+- Observing [trends](people-trends.md) across [data](database.md), which *theoretically* can allow the algorithm to make future predictions.
+- Observing an incredibly boring and repetitive thing, then detecting variances in it (e.g., factory quality control).
+
+## Big data
+
+The AI [trend](people-trends.md) arose through many [Big Tech corporations](cs-bigtech.md) passing through [the entire internet](cs-software-webdev.md) into their training models.
+
+Naturally, machine learning models trained on the internet will give the same sort of information that the internet gives (i.e., bad information).
+
+One lesser-known aspect of machine learning is that the current computing for it requires a *lot* of processing power. As of 2024, an AI-generated image required an average of 92 cents to generate.
+
+The trend, however, is in full swing, partly because of OpenAI CEO Sam Altman's [exceptional salesmanship](marketing.md), and partly because [many people believe computers can become sentient](https://gainedin.site/machines/).
+
+## Bias and hallucination
+
+Part of the marketability for machine learning comes through how it derives information.
+
+Historically, whenever a computer doesn't know or can't access something, it has responded with specific non-information:
+
+- "Bad command or filename"
+- "File not found"
+- "Value required for form submission"
+
+In the case of machine learning, most of the advancements have come through what is called "hallucination", which is jargon for "make something up".
+
+Since it shares information as if it were legitimate (since it's drawing from [statistics](math-stat.md)), people aren't able to tell the difference unless they check the information themselves. That [certainty](mind-understanding-certainty.md) provokes the user to [bias](mind-bias.md) toward thinking the computer is providing legitimate information.
+
+Further than that, the associations toward anthropomorphic bias (i.e., imagining the computer is "thinking") make people imagine the computer had actual thoughts to come to that answer.
+
+In other words, "Give me X information" is actually saying "Give me information that sounds like X would". It works well for generating templates, but needs fact-checking before being submitted.
+
+The situation becomes even more opaque through the algorithm being tailored to give enthusiastic, wordy, ingratiating language in response to *any* prompt. There are some [prompts](cs-ai-ml-prompts.md) that can cut down on the garbage, but it doesn't completely fix the issue.
+
+The problem isn't a bug, either, and comes from technical limits of the models themselves:
+
+- Simple queries won't give a reasonable higher-context answer.
+- Queries that are *too* specific will hallucinate or completely fail.
+- The answers are non-deterministic (i.e., they're different every time), and are absurdly difficult or impossible to [debug](cs-software-redesign.md).
+- It has no capacity to [learn](mind-understanding-learn.md), so it can't [change like people do](people-changes.md).
+
+## The social response to it
+
+Due to a combination of laziness and poor research, most users during the AI boom have severely misused the product:
+
+- Office workers have been known to send awfully-worded, vague emails that leave the recipients thoroughly confused.
+- In [schools](education.md), children are often generating essays and turning them in. At the same time, teachers are grading those generated essays with machine learning as well.
+- A few ~~stupid~~ brave individuals have used a machine learning algorithm in lieu of an attorney.
+- Corporations have used the algorithms to imply the [decisions](mind-decisions.md) were entirely tied to a factual set of information, though many [lawsuits](legal-lawsaxioms-civil.md) will slowly clarify [laws](people-rules.md) against that sort of thing.
+- While generic code can be quickly generated by veteran [programmers](cs-software.md), some people imagine they don't need to understand syntax by simply "vibe coding". While the algorithm may be able to create a [front-end appearance](engineering-design.md) of a working product, it can't sufficiently build a [database](database.md) or make everything work together correctly.
+
+An early 2025 study has confirmed that machine learning users are generally *so* low-context that they have absolutely no [memory](mind-memory.md) of the information they were passing through the algorithm. This means people don't actually [learn](education.md) anything with machine learning assistance.
+
+There is also a hairy issue present regarding training and language model data. In effect, the computer is deriving another created work entirely from [protected intellectual property](legal-ip.md).
+
+- It is a severely complicated question over whether that's permissible or not, and governments have had varying rules on that concept.
+- It's also extra levels of complicated when it can be proven that the training data was [originally pirated](cs-distsys-p2p-torrent.md).
+
+## Social response + hallucination
+
+AI-generated content often sits squarely inside the uncanny valley. Sometimes, [creative](mind-creativity.md) people can use it, but most AI-generated things are mediocre or garbage.
+
+- The result of this is that creative people become very skillful at prompt engineering, and the work moves from fine-tuning inside software to fine-tuning paragraphs to achieve a desired generation.
+
+Further, the fact that machine learning needs "training data", it has poisoned its own data by flooding the internet with poor-quality content.
+
+- The only sensible solution to this is to use less training data, with more processing and rumination over it, but this takes more time.
+
+Since it's still a dumb computer, any attempts to manually override the algorithm to stop it from outputting certain information often ends in disaster:
+
+- Google tried to make more non-white people and females in its algorithm to be more [inclusive](politics-leftism.md), but ended up making the United States Founding Fathers black-skinned.
+- Asking a machine learning algorithm how to make weapons (e.g., mustard gas, napalm) will bring up a denial, but asking how to *avoid* making those weapons will give all the necessary information.
+- Requesting information on a subject will lean toward the organization's [bias](mind-bias.md), but not if the user makes the algorithm role-play as someone else.
+
+## More information
+
+Research papers:
+
+- [OpenReview](https://openreview.net/)
+
+Deep learning:
+
+- [Deep-Learning](https://github.com/ElizaLo/Deep-Learning)
+- [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)
+
+Deep reinforcement learning:
+
+- [Deep_Reinforcement_Learning](https://github.com/Machine-Learning-Tokyo/Deep_Reinforcement_Learning)

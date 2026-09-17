@@ -15,7 +15,7 @@ There are *many* components listed in the brain, but some classifications have w
 - Broadly, the brain is composed of two hemispheres and a cerebral cortex.
   - The right hemisphere operates the left side of the body, but also works like a parallel processor.
     - It thinks in images and [feelings](mind-feelings.md) and only perceives the present moment.
-  - The left hemisphere operates the right side of the body, but also works like a serial [processor](computers-cpu.md).
+  - The left hemisphere operates the right side of the body, but also works like a serial [processor](cs-cpu.md).
     - It thinks in endless details through linear [logic](logic.md) and only focuses on the past and future.
     - It also represents where we distinguish consciousness and presence.
   - The two hemispheres do communicate through the corpus callosum, but they operate entirely independently of one another.

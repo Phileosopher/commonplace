@@ -182,7 +182,7 @@ Complete openness to discussing [speculative](mind-imagination.md) elements that
 Confronting others over broader-reaching spiritual matters that have zero day-to-day significance.
 
 - They have obsessed heavily with some aspect of [theology](theology.md) (e.g., [the Millennial Kingdom](https://theologos.site/millennium/), [the Rapture](theology-end.md), [creation science](https://theologos.site/god-sight/)) and have transferred their lousy, [unloving](people-love.md) attitude to spiritual matters.
-- The internet makes this situation particularly easy to abuse, especially on [message boards](computers-networks-social.md).
+- The internet makes this situation particularly easy to abuse, especially on [message boards](cs-networks-social.md).
 
 Jealousy over another person's spiritual status.
 

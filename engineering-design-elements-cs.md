@@ -1,7 +1,7 @@
 
 # Universal standards for specific designed computer elements
 
-There are *many* elements to consider for interacting with a computer. Most of them are automatically designed into most [operating systems](computers-os.md) or [web browsers](computers-sofware-webdev.md), but anyone with patience to learn can often tweak, add, or remove them.
+There are *many* elements to consider for interacting with a computer. Most of them are automatically designed into most [operating systems](cs-os.md) or [web browsers](cs-sofware-webdev.md), but anyone with patience to learn can often tweak, add, or remove them.
 
 Many elements abide by the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/), which set standards that allow *anyone*, even colorblind or visually impaired, to easily use the computer.
 
@@ -45,7 +45,7 @@ As much as possible, separate out the information with a clear demarcation and s
 
 ## Colors
 
-Since most interaction with a computer is [screen-based](engineering-screen.md), color is *vitally* important for communicating information on the [front-end](engineering-graphics.md) and [across the internet](computers-sofware-webdev.md), more than most other non-computer design:
+Since most interaction with a computer is [screen-based](engineering-screen.md), color is *vitally* important for communicating information on the [front-end](engineering-graphics.md) and [across the internet](cs-sofware-webdev.md), more than most other non-computer design:
 
 - Use the colors from the source images to define the color theme and "gradients" of the site
 - Contrast the colors between the text and the background to make it as readable as possible, which may include adding color overlays or gradations over the photo before imposing text.
@@ -86,7 +86,7 @@ The farther the distance the user has to travel, the less reliable their selecti
 
 The buttons and selections should be seamless on *all* varieties of input peripherals the user may use:
 
-- [Mouse-only](computers-mouse.md) interfaces don't work well with swipe-based interaction, touchscreens don't have any sort of mouse-over function, and [audio-only](computers-speakersmic.md) can be *very* challenging to give prompt feedback without the user interrupting.
+- [Mouse-only](cs-mouse.md) interfaces don't work well with swipe-based interaction, touchscreens don't have any sort of mouse-over function, and [audio-only](engineering-audio.md) can be *very* challenging to give prompt feedback without the user interrupting.
 - Keep the most frequently selected options as easy to access as possible.
 - The length of time the user has been using the software should reflect with the selections, and more frequently used *advanced* options should move to an easily accessible portion of the interface as the user keeps interacting with it.
 - Do *not* move things the user may potentially select, especially if the content is partially loaded.
@@ -114,7 +114,7 @@ Try to keep all fill-in forms brief and clear:
 - Less effort from the user is better, and the user can often skip *many* elements (names, phone numbers, email confirmations). Some can even be auto-generated (e.g., temporary passwords emailed to the user) or pulled from a social network API.
 - Provide "input masks" that inhibit incorrect entry and use the input box's size to give clear implications.
 - "Autocomplete" the information if it's frequent enough.
-- If an input has any rules, explicitly communicate them nearby without any extra required input before the user enters the information (e.g., [password](computers-infosec-authentication.md) rules, character limits).
+- If an input has any rules, explicitly communicate them nearby without any extra required input before the user enters the information (e.g., [password](cs-infosec-authentication.md) rules, character limits).
 - If the input is a fixed-width verification code (e.g., 4 digits), validate as soon as the final number was entered instead of giving a "Submit" button.
 - Frequently use a "none" or "other" selection, since a 0.01% edge case becomes substantial with many users, or simply have a yes/no question that opens up the selection options.
 
@@ -127,7 +127,7 @@ A computer also must communicate *back* much more than most other products:
   - Be cautious with modals, since mobile device browsers often don't work well with them.
   - Avoid confirmation modals (e.g., "Do you want to continue?"), since users have a habit of quickly clicking through them.
 - "Customer assurance widgets" give a visual indicator the computer is doing something (e.g., percentage indicators, progress bars, animated loading screen), but *only* if it's more than about 0.5-1 seconds. If it takes longer (~5-10 seconds), indicate further information to the user.
-- The software must ask for [permissions](computers-infosec-authentication.md) relative to both when it is absolutely necessary *and* proportional to the user's trust of the software.
+- The software must ask for [permissions](cs-infosec-authentication.md) relative to both when it is absolutely necessary *and* proportional to the user's trust of the software.
 - Clearly indicate any algorithmic results that work in the interests of the user, and hide the rest.
 - However, if the software keeps over-communicating (e.g., too many notifications, too many emails) it should reflect *less* communication from under-interaction.
 - Indicate a download button very distinctly and clearly with color, and with a percentage indicator for anything above a few kilobytes to show progress.
@@ -137,7 +137,7 @@ Any feedback systems should be *very* well-articulated (error messages, further 
 - Clearly demarcate *where* the user is in the software system.
 - If there are any "empty states", indicate clearly that there's no additional information (e.g., "you have no credit cards on file").
 - The user should *always* know what they should do next.
-- Be careful with toggle switches (i.e., sliding checkboxes), since they give poor feedback compared to checkboxes (since they're pulling from [network](computers-networks.md) information instead of sending that information *after* the user submits it).
+- Be careful with toggle switches (i.e., sliding checkboxes), since they give poor feedback compared to checkboxes (since they're pulling from [network](cs-networks.md) information instead of sending that information *after* the user submits it).
 
 "Validation error" messages should give their response *very* near where the user made their selection.
 
@@ -148,7 +148,7 @@ Any feedback systems should be *very* well-articulated (error messages, further 
 
 Other selection features ought to be industry-standard, but often aren't:
 
-- Avoid the browser's default file upload feature, since it varies wildly on the [browser](computers-sofware-webdev.md).
+- Avoid the browser's default file upload feature, since it varies wildly on the [browser](cs-sofware-webdev.md).
 - For physical things with a relatively analog control scheme (e.g., 1 to 100), physical knobs and dials are almost universally superior to buttons on a screen. This, however, does add extra work for [project management](mgmt-2_projects.md).
 - Have settings available for advanced and experienced users, with all the options available the most advanced user would ever need. If a setting might break something, prompt the user.
 - Instead of directing permission requests directly to the operating system's prompt when the software needs it, have the user make an opt-in selection within the software with a lock-out if it's *absolutely* necessary.
@@ -159,9 +159,9 @@ Other selection features ought to be industry-standard, but often aren't:
 
 Media (especially visual media) in computers must be managed carefully:
 
-- Present most typical media in as downsampled a format as possible to save on [bandwidth](computers-networks.md) and loading.
+- Present most typical media in as downsampled a format as possible to save on [bandwidth](cs-networks.md) and loading.
 - "Media queries" that resize elements appropriately relative to the [screen size](engineering-screen.md) or other elements.
-- Clear text or other types of media as a fallback if that media can't present itself (e.g., [sound](computers-speakersmic.md) has been muted, poor internet connection).
+- Clear text or other types of media as a fallback if that media can't present itself (e.g., [sound](engineering-audio.md) has been muted, poor internet connection).
 - Maintain standard requirements for common user disability use cases (the most obvious being deaf, blind, and amputee).
 
 Keep icons consistent across the medium or page:
@@ -185,7 +185,7 @@ Many good ideas in typography aren't common, but should be:
 - Keep headings and small passages of text aligned to the center, but larger bodies of text should be left-aligned. If they're "justified", the "kerning" creates an uneven flow.
 - To keep text legible, increase the line height as the font size decreases.
 
-Most UX design revolves around [web development](computers-sofware-webdev.md), so make sure the hyperlink is accessible:
+Most UX design revolves around [web development](cs-sofware-webdev.md), so make sure the hyperlink is accessible:
 
 - Make links that directly point to the content you want the users to access.
 - If the hyperlinks are designed to be easily accessible, use a user-friendly URL: `https://site.com/content` instead of `https://site.com/page?page_id=730/u/ycur`.

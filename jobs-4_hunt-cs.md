@@ -5,7 +5,7 @@ All [the general rules about job-searching](jobs-4_hunt.md) apply completely in 
 
 ## What to create
 
-In the tech industry, a successful job-search will *also* include building and creating. It should focus more in actual achievement than simply understanding [languages](computers-languages.md), [frameworks](computers-programming.md), and [tech jargon](glossary-computers.md):
+In the tech industry, a successful job-search will *also* include building and creating. It should focus more in actual achievement than simply understanding [languages](cs-langs.md), [frameworks](cs-langs.md), and [tech jargon](glossary-computers.md):
 
 - Keep on building out your [portfolio](jobs-3_image-cs.md) with good-looking projects.
 - Learn [better programming](programming-tech.md) and more programming languages, but only to build your projects.
@@ -22,7 +22,7 @@ Good colleges will give you access to many side projects you can explore, which 
 
 Of course, if you're not interested in a long college experience, you can often take a competence-based college like [WGU](https://www.wgu.edu/) after taking as many cheap college courses elsewhere to expand your understanding. When a college counts that coursework, you may only need to take 6-12 months of actual college.
 
-Most employers don't really care about anything beyond a 4-year degree, though some parts of the industry (like [cybersecurity](computers-infosec.md)) obsess about it. If you need to, get an [ABET-accredited online program](https://www.abet.org/accreditation/find-programs/) to bypass most of the tedium.
+Most employers don't really care about anything beyond a 4-year degree, though some parts of the industry (like [cybersecurity](cs-infosec.md)) obsess about it. If you need to, get an [ABET-accredited online program](https://www.abet.org/accreditation/find-programs/) to bypass most of the tedium.
 
 You can also attend an accelerated course called a "bootcamp". Most of them cost money, though some (e.g., [freeCodeCamp](https://www.freecodecamp.org/)) are completely free.
 

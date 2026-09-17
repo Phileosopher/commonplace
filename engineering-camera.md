@@ -31,11 +31,11 @@ Exposure determines how much the camera lets light in, which is determined by 3 
 
 1. Shutter speed, which is the amount of time light can hit the sensor, measured in seconds. This can range from 1/1000 s to 1 s.
 2. Aperture, which is the size of a circular hole that lets light in, measured in f-stops (which is the ratio of the lens focal length divided by the lens diameter). This ranges from f/16 all the way to f/2. Wider apertures make the images feel softer, while narrower apertures sharpen the image at the risk of being darker.
-3. In digital cameras, cameras use an [ISO standard](standards-computers.md) that represents a light sensor sensitivity scale that ranges from 100 to 25,600. There's a base ISO that conforms to the specification the camera came with, but it can be configured upward to gather more light, at the risk of generating noise in the image.
+3. In digital cameras, cameras use an [ISO standard](cs-standards.md) that represents a light sensor sensitivity scale that ranges from 100 to 25,600. There's a base ISO that conforms to the specification the camera came with, but it can be configured upward to gather more light, at the risk of generating noise in the image.
 
 - Doubling any of them adds a "stop" of light (e.g., 1/500 s to 1/250 s is a stop, and 1/250 s to 1/125 s is another stop).
 
-Manual focus lenses require tuning by the photographer, but autofocus adapts the focus to the objects in the frame. The [algorithms](computers-programming-algorithms.md) in most modern cameras are good enough that autofocus is almost always better for anything but still photography.
+Manual focus lenses require tuning by the photographer, but autofocus adapts the focus to the objects in the frame. The [algorithms](cs-langs-algorithms.md) in most modern cameras are good enough that autofocus is almost always better for anything but still photography.
 
 Action cameras (e.g., GoPro) are configured for an intentionally rapid shutter speed (which avoids any motion blur). To compensate, the aperture and light sensor are higher.
 
@@ -55,7 +55,7 @@ An object will create "motion blur" if something is moving particularly fast or 
 
 ## Image post-processing
 
-Most artifacts can be at least partially compensated by software after the initial capture, but many artists intentionally disable those features (such as for movies), and even many [graphics developers](engineering-graphics.md) (especially for [games](computers-software-gamedev.md)) try to *recreate* those artifacts!
+Most artifacts can be at least partially compensated by software after the initial capture, but many artists intentionally disable those features (such as for movies), and even many [graphics developers](engineering-graphics.md) (especially for [games](cs-software-gamedev.md)) try to *recreate* those artifacts!
 
 In fact, post-processing has been how smartphones utterly *destroyed* the dedicated camera market. It's logistically impossible for a millimeter-deep lens distance to compete with several inches of space, and smartphone cameras have had to compensate by making weird-looking non-spherical lenses to refract the light. But, post-processing can effectively remove many of the issues which may potentially present in non-spherical lens photos.
 

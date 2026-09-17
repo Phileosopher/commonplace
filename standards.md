@@ -23,7 +23,7 @@ However, there *are* some standards that have stood the test of time:
 - Micro (µ): 0.000001 or 10^-6
 - Nano (n): 0.000000001 or 10^-9
 - Pico (p): 0.000000000001 or 10^-12
-- Even then, [computer memory](computers-memory.md) is a bit fiddly, since it may be 2^10 increments (i.e., 1,024 per step instead of 1,000).
+- Even then, [computer memory](cs-memory.md) is a bit fiddly, since it may be 2^10 increments (i.e., 1,024 per step instead of 1,000).
 
 ## Issues with standards
 

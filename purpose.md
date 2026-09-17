@@ -5,7 +5,7 @@ Purpose is an orientation toward accomplishing some sort of [expected](mind-imag
 
 All things in the universe, barring a [Creator](religion.md), has no inherent purpose or meaning. We impose that onto our [perception](people-image-why.md) of [reality](reality.md) from [stories](stories-why.md) we [create](creations.md) in our minds. In fact, we can *only* perceive reality with a purpose first, with the only "true" perspective coming from [training](habits.md) ourselves to be [scientific](science.md).
 
-The existence of a self-determined purpose, usually involving survival, is a major indicator that something is a living being, though it can be [programmed](computers-ai-ml.md).
+The existence of a self-determined purpose, usually involving survival, is a major indicator that something is a living being, though it can be [programmed](cs-ai-ml.md).
 
 One of the key differences between humans and any other animal is the sophistication of our purposes. We can make elaborate purposes based on [trust](mind-understanding-certainty.md) in *very* long-term estimations of the future.
 

@@ -149,7 +149,7 @@ Inventors will also lovingly consider the people who repair things as much as th
 - Interchangeable parts like bolts and latches will fit in *many* places, meaning most people with a junk drawer can find what they need.
 - There's no planned obsolescence to mandate people to get more of something, so some technologies can stay reliable for decades.
 
-Some technologies, naturally, go obsolete. This would render job roles obsolete as well (e.g., [autonomous vehicles](computers-autos.md) removes the need for drivers). At that point, several things would happen almost at once:
+Some technologies, naturally, go obsolete. This would render job roles obsolete as well (e.g., [autonomous vehicles](cs-autos.md) removes the need for drivers). At that point, several things would happen almost at once:
 
 - The creator of the invention would propose alternative roles to assist in the transition.
 - The community of people around that worker, out of gratitude for the importance of their past role, would assist that person to another role they'd like.

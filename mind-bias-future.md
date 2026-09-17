@@ -81,7 +81,7 @@ Validity illusion - we overestimate our ability to accurately analyze data to in
 
 ## Bad Cynicism
 
-AI effect - we discredit the behavior of an [artificial intelligence](computers-ai.md) computer program because we claim it's not *real* intelligence
+AI effect - we discredit the behavior of an [artificial intelligence](cs-ai.md) computer program because we claim it's not *real* intelligence
 
 External agency illusion - we assume our satisfaction comes from external factors and not our [decisions](mind-decisions.md)
 

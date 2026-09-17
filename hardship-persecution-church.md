@@ -149,7 +149,7 @@ Persecution is practically measurable on a chart, and falls into the same predic
 Beyond intentionally targeting Christians, persecution tends to happen through several major vectors:
 
 1. Border "guards" will inspect possessions and demand you unlock your phone. They'll spend 1-3 minutes visually reviewing what's in your phone, and will often look for something to demand financial compensation over.
-2. Monitoring internet traffic by looking for keywords (e.g., "bible", "Jesus"), which can expand vastly into synonyms or aided by [artificial intelligence](computers-ai.md).
+2. Monitoring internet traffic by looking for keywords (e.g., "bible", "Jesus"), which can expand vastly into synonyms or aided by [artificial intelligence](cs-ai.md).
 3. If they find a high-profile person who disagrees with them or their methods, using a search warrant about something (which may have *nothing* to do with the subject in question) to very thoroughly investigate them and all their connections, and possibly sentence them to prison/death even without finding anything.
 
 Even the devil makes mistakes:

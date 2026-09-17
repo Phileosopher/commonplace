@@ -104,6 +104,10 @@ People generally want you to succeed *up to* their level, but preferably a littl
 
 - Expect loneliness until you find people confident enough to accept your new attitude.
 
+For this reason, you should learn to become unreliable to others' expectations.
+
+- Success requires doing what you know is right, even when others would prefer you didn't.
+
 ## B. Focus on what you can control
 
 ### 4. Only focus on decisions you can make

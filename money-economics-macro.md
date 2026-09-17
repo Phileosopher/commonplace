@@ -34,7 +34,7 @@ Generally, people will try to avoid a government's taxes, and often hire excepti
 
 - Lie about it and not pay it ("tax evasion").
 - Avoid certain taxable activities.
-- Shift how they get their income (e.g., start a corporation or trust, use [cryptocurrency](computers-blockchain.md)).
+- Shift how they get their income (e.g., start a corporation or trust, use [cryptocurrency](cs-blockchain.md)).
 - Move the income somewhere else (e.g., move to another country).
 
 There are several unfortunate realities of taxation that combine themselves into a paradox for *every* government:
@@ -93,7 +93,7 @@ Whatever form of money a government takes, it must be 5 things:
 2. Durable - can withstand many trades without breaking apart (e.g., *not* bread).
 3. Recognizable - can't be counterfeited and, therefore, severely drop in value (e.g., *not* car wash tokens).
 4. Portable - can allow people to bring it around with them to trade (e.g., *not* paper towels).
-5. Scarce - there's a limited amount of it so that people would find it has value (e.g., *not* [computer storage space](computers-memory.md)).
+5. Scarce - there's a limited amount of it so that people would find it has value (e.g., *not* [computer storage space](cs-memory.md)).
 
 The "standard" for paying back was once gold or silver, but most nations' notes for the past century or so have been "fiat" (faith) currency. There are several reasons for this:
 

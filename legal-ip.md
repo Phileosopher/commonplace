@@ -51,7 +51,7 @@ A copyright is an exclusive right for an original work, and implicit for a wide 
 
 - Written works (e.g., books, plays, sheet music)
 - Artwork of any sort (e.g., paintings, photographs, music)
-- Computer software code (since it's the "written" work of someone making [computer logic](computers-software.md)), though there are [much more effective licenses for it](legal-ip-floss.md).
+- Computer software code (since it's the "written" work of someone making [computer logic](cs-software.md)), though there are [much more effective licenses for it](legal-ip-floss.md).
 
 Copyright never covers ideas (which is the domain of the other IPs), but instead protects the *expression* of those ideas.
 
@@ -100,7 +100,7 @@ Even worse, the successors who inherit copyright (e.g., [impotent corporations](
 
 - Re-releasing incessantly, to the point of sabotaging the product's [brand](marketing.md).
 - Making truly awful followup media (e.g., sequels, spinoffs) that violates the vision of the original creator.
-- Poorly editing or rendering through new technology (e.g., [machine learning algorithms](computers-ai-ml.md)), which may include overwriting the prior content entirely via digital distribution.
+- Poorly editing or rendering through new technology (e.g., [machine learning algorithms](cs-ai-ml.md)), which may include overwriting the prior content entirely via digital distribution.
 - Spending more effort and money on legally protecting the property than adding value to it (i.e., [copyright trolls](https://www.eff.org/issues/copyright-trolls)).
 
 ### Fair use permits copyrighted works for specific use
@@ -115,9 +115,9 @@ Fair use also allows for commentary, criticism, and news reporting.
 
 Since it doesn't make any money, most fan fiction is under fair use.
 
-The fair use clause is hazy, and publishers [don't always honor it](computers-bigtech.md).
+The fair use clause is hazy, and publishers [don't always honor it](cs-bigtech.md).
 
-Many technologies (e.g., [AI](computers-ai.md)) can still "create" something very similar that's still fair use.
+Many technologies (e.g., [AI](cs-ai.md)) can still "create" something very similar that's still fair use.
 
 While it's not legally the case, it can be *[morally](morality.md)* argued that anything that advances the public good should be fair use.
 
@@ -126,11 +126,11 @@ While it's not legally the case, it can be *[morally](morality.md)* argued that 
 To own a copyrighted material, most people aren't aware they're consenting to an implicit [contract](people-contracts.md) to consume the material and *not* distribute it.
 
 - Place shifting, or space shifting, allows media to be "shifted" from one media to another (e.g., streaming online versus locally streaming). This is perfectly legal, but often allows the consumer more control over it (such as pirating the content after they've downloaded it).
-- It's illegal to distribute most copyrighted content, and can land a sufficiently prolific distributor (e.g., via [torrent](computers-distsys-p2p-torrent.md)) in a civil case.
+- It's illegal to distribute most copyrighted content, and can land a sufficiently prolific distributor (e.g., via [torrent](cs-distsys-p2p-torrent.md)) in a civil case.
 - Copyright *violation* is ubiquitous, and technically applies to literally anyone who duplicates media (i.e., they have a computer on the internet and access content).
 - Copyright *enforcement*, however, is a question of how much a corporation wants to spend on legal fees. The entity will only send attorneys after someone they perceive as a financially advantageous target to remove.
-- Technically, the presence of [the internet](computers-sofware-webdev.md) makes copyright impossible to enforce via conventional models of legally defined distribution, since each computer *must* copy the intellectual property (i.e., download it) to formally use it, making re-distribution completely trivial (e.g., copy-paste a file).
-- This gets worse with auto-generated [AI](computers-ai.md), which can use copyrighted content and "create" new works based on an [algorithm](computers-programming-algorithms.md).
+- Technically, the presence of [the internet](cs-sofware-webdev.md) makes copyright impossible to enforce via conventional models of legally defined distribution, since each computer *must* copy the intellectual property (i.e., download it) to formally use it, making re-distribution completely trivial (e.g., copy-paste a file).
+- This gets worse with auto-generated [AI](cs-ai.md), which can use copyrighted content and "create" new works based on an [algorithm](cs-langs-algorithms.md).
 
 Very frequently, copyright holders would prefer people simply rent their service instead of outright buy the property.
 
@@ -139,10 +139,10 @@ Very frequently, copyright holders would prefer people simply rent their service
   - For example, [Roald Dahl e-book distributors forced censored versions onto readers](https://archive.fo/OSLQN).
 - More technology available to distribute copyrighted works means [large organizations](groups-large.md) can control more of the experience (i.e., [Wagner's Law](philosophy-lawsaxioms.md)).
 
-For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of pressure](computers-bigtech.md) with internet-based services to move to a content-moderated platform instead of a system based on downloading or distribution.
+For that reason, many [large entities](politics-monopolies.md) exert a [*lot* of pressure](cs-bigtech.md) with internet-based services to move to a content-moderated platform instead of a system based on downloading or distribution.
 
-- [Digital content](computers-software.md) is constantly changing, along with intellectual property, so legal situations often give it a *shorter* lifespan than content with physical copies.
-- While digital content is easier to distribute, it's also easier to destroy (simply by deleting it), so it's far more volatile without being securely stored across a [distributed system](computers-distsys.md).
+- [Digital content](cs-software.md) is constantly changing, along with intellectual property, so legal situations often give it a *shorter* lifespan than content with physical copies.
+- While digital content is easier to distribute, it's also easier to destroy (simply by deleting it), so it's far more volatile without being securely stored across a [distributed system](cs-distsys.md).
 - Even when content is distributed, most digital content contains Digital Rights Management (DRM) that curtails the free use of the content.
 
 Copyright gives property holders the license to profit, but also gives those holders the ability to impede freedom.
@@ -300,7 +300,7 @@ Copyright trolls are just as bad as patent trolls:
 
 - It's definitely possible to create a license over *some* public domain IPs, then sue people over usage.
 - Derivative works are copyrighted on their own, and came later. It's not uncommon for a public domain work to have *specific* permutations of that work be copyrighted about the newer content (aka "thin copyright").
-- There's a *lot* of effort to take down copyrighted property, typically by invoking the [Digital Millennium Copyright Act of 1998](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act). DMCA don't really *stop* [piracy](computers-distsys-p2p-torrent.md), but does make more work for lawyers, and is trivially easy to anonymously submit a request.
+- There's a *lot* of effort to take down copyrighted property, typically by invoking the [Digital Millennium Copyright Act of 1998](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act). DMCA don't really *stop* [piracy](cs-distsys-p2p-torrent.md), but does make more work for lawyers, and is trivially easy to anonymously submit a request.
 - [Large organizations can join efforts](politics-monopolies.md) to take away older copyrighted content, which can create large class-action lawsuits aimed at shutting down public libraries, with the legal force equivalent of a small country.
 
 Anyone with a basic level of computer proficiency and willingness to research can stop trolls when they're attacked by them.
@@ -328,7 +328,7 @@ Many of the legal battles between organizations can dramatically change entire i
 - [2023-09 Unity updated its pricing to charge royalties for game developers making above a certain income threshold](https://web.archive.org/web/20230912135629/https://blog.unity.com/news/plan-pricing-and-packaging-updates). After a public pushback, they bumped the threshold to a higher number.
 - [2023-10 Apple uses their license to exploit trademark law by printing their logo on all their parts](https://blog.giovanh.com/blog/2023/10/26/apples-trademark-exploit/).
 
-Enough data suggests that a vast majority of individuals download [pirated copies of copyrighted content](computers-distsys-p2p-torrent.md), though the legislation around the culture means nobody openly talks about it.
+Enough data suggests that a vast majority of individuals download [pirated copies of copyrighted content](cs-distsys-p2p-torrent.md), though the legislation around the culture means nobody openly talks about it.
 
 - Individual consumers are impossible to crack down on due to sheer volume, and their content is often perfectly legal to consume even when it's pirated (due to DRM they're lawfully circumventing), so [enforcement](people-rules.md) can only work against distributors of the content.
 - The attempts to stop piracy work effectively like prohibition rules had nearly a century ago: it gets driven underground and people keep doing it.
@@ -388,8 +388,8 @@ Different groups can be very influential to advance open licensing:
 In a vast number of ways, [open-source licensing](legal-ip-floss.md) is paving the way for new hybrids of usage rights:
 
 - The [Public Money, Public Code](https://publiccode.eu/) movement demands that government-funded software should have [open-source code](legal-ip-floss.md).
-- [AI](computers-ai.md) and [machine learning](computers-ai-ml.md) scrape data, then reproduce a derivative work. In principle, this is in direct violation of the duplication aspect of copyright, which is *also* somewhat an issue in Creative Commons licensing as well.
+- [AI](cs-ai.md) and [machine learning](cs-ai-ml.md) scrape data, then reproduce a derivative work. In principle, this is in direct violation of the duplication aspect of copyright, which is *also* somewhat an issue in Creative Commons licensing as well.
 
-In many ways, the new emergence of [generative AI](computers-ai-ml.md) has had constraints on copyright law.
+In many ways, the new emergence of [generative AI](cs-ai-ml.md) has had constraints on copyright law.
 
 - While it's still unfolding as of 2024, courts seem to generally favor machine learning training as "fair use", and styles can't be copyrighted.

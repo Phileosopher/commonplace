@@ -294,7 +294,7 @@ Work tenaciously to avoid things that will sabotage hope:
 - Don't read post-modern philosophy, since it has no constructive value that builds toward anything.
 - Since it may discourage you, don't read or watch anything you have a hard time understanding.
 - Don't consume any depressing media that doesn't develop toward something inspirational by the end.
-- Avoid social venues that center on any of the above (e.g., [social media](computers-networks-social.md), substance abusers, some churches).
+- Avoid social venues that center on any of the above (e.g., [social media](cs-networks-social.md), substance abusers, some churches).
 
 Since you're in the problem, don't think about solving it until you're out of it.
 

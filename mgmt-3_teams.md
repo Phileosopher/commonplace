@@ -35,7 +35,7 @@ Broadly, there are several major ways to form the leadership structure:
 - Hierarchical: Everyone reports to one supervisor, all the way up a tree-shaped format to the top autocrat.
 - Flat: Everyone reports to the top autocrat without any intermediate people.
   - This is by far the worst without [technology](technology.md) and the reason we need [middle managers](mgmt-middle.md).
-  - However, every new innovation (e.g., [machine learning](computers-ai-ml.md)) removes the need for extra hierarchical layers.
+  - However, every new innovation (e.g., [machine learning](cs-ai-ml.md)) removes the need for extra hierarchical layers.
 - Matrix: Each individual worker has two specific scopes of duty (e.g., project and functional), and reports differently to each.
   - This seems clever, but requires high-quality communication with both managers over any given worker.
 
@@ -43,7 +43,7 @@ In general, every role will specialize into 4 possible functions:
 
 1. Acquisition - growing and getting more (sales, [marketing](marketing.md), business development, etc.)
 2. Delivery - getting things to where they need to be ([logistics](logistics.md), customer support, etc.)
-3. Development - improving the outputs (product development, [engineering](engineering.md), [maintenance](https://adequate.life/fix/), [programming](computers-programming.md), etc.)
+3. Development - improving the outputs (product development, [engineering](engineering.md), [maintenance](https://adequate.life/fix/), [programming](cs-langs.md), etc.)
 4. Operations - broadly supporting the organization ([finance](money-accounting.md), [HR](business.md), [IT](https://trendless.tech/fix/), recruiting, etc.)
 
 Create a [budget](money-3_budget.md) for each role:
@@ -323,3 +323,14 @@ If you've made a hiring mistake, learn from it and move on.
 - Make your relationship with future candidates better than what you had.
 
 If you keep letting go of qualified workers after projects terminate, consider a [project-based](mgmt-2_projects.md) hiring arrangement for future hires.
+
+## Staying in touch
+
+Whether you fire someone, lay them off, or they leave, it's a good idea to maintain rapport with them.
+
+- As a [professional](professionals-how.md), there is nothing good in trying to harm them, since their own dumb decisions will create self-harm later.
+
+Barring a particularly hostile situation, call them up to check in on them about 6 months after they quit.
+
+- Besides getting a feel for what sorts of things your workers will travel off to (and also increasing your skills at hiring people), you also get a unique insight into your organization's dysfunction.
+  - Frequently, people will brutally state things later, after they don't care about your professional reference and have no risks of adverse consequences for stating it.

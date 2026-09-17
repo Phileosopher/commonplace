@@ -45,7 +45,7 @@ Most of the time, religions provide [logical paradoxes](philosophy-paradoxes.md)
 - Zen kōans are simple paradoxes designed to self-contradict (e.g., "the still and running water").
 - Islamic teaching tends to use calls for war at times and calls for peace at others.
 - Christianity's assertions require stepping out of the context of this life (e.g., "he who wishes to gain his life must lose it").
-- [Atheism](https://trendless.tech/scientism/) asserts that we should only focus on what we can scientifically prove, but also that we can scientifically prove there is no god.
+- [Atheism](https://gainedin.site/scientism/) asserts that we should only focus on what we can scientifically prove, but also that we can scientifically prove there is no god.
 
 The answer to a religion is often in trusting something that necessarily must exist beyond our present [understanding](mind-understanding.md).
 

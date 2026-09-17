@@ -140,7 +140,7 @@ One specific way to track the health of a business is through the inventory turn
 - Tracking the time between each individual item being bought and sold (or at least an average across products) can detect issues with inventory.
 - If it's too high, shrink is almost guaranteed, meaning the company will lose assets.
 - If it's too low, *any* [logistical bump](logistics.md) could disrupt timely delivery, meaning the company will lose [clientele](marketing.md).
-- The easiest (and most intensive) way to track inventory is to use a perpetual inventory system that updates on *every* transaction (which typically needs [computers with scanners](computers-ocr.md) to assist).
+- The easiest (and most intensive) way to track inventory is to use a perpetual inventory system that updates on *every* transaction (which typically needs [computers with scanners](cs-ocr.md) to assist).
 
 ## Liabilities
 

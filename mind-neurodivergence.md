@@ -91,6 +91,21 @@ The personality clusters are aligned with how we can specifically fail at workin
 - [Cluster B](mind-neurodivergence-clusterb.md) personality disorders have a [memory retention](mind-memory.md) problem (i.e., bad memory management).
 - [Cluster C](mind-neurodivergence-clusterc.md) personality disorders breaks into several domains based on an issue with [imagining things](mind-imagination.md) (i.e., managing expectations).
 
+These come from extreme psychological problems that come from four different systems that underpin our personalities:
+
+- Alarm system ([fear](mind-feelings-fear.md), anxiety, disgust, worry, defensive aggression, [guilt](mind-feelings-shame.md))
+  - Too much stimulation devolves into neurotic mindsets, Cluster B borderline, Cluster C, and paranoid disorders.
+  - Too little stimulation devolves into Cluster B antisocial and Cluster A schizoid issues.
+- Incentive system (physical needs, exploration, play, sex, status)
+  - Too much stimulation develops into Cluster B histrionic or Cluster B antisocial
+  - Too little stimulation develops into detached thinking, Cluster A, and avoidant
+- Affiliation system ([attachment](people-friends.md), pair-bonding, caregiving, reciprocity, coalition)
+  - Too much stimulation can develop excessive agreeability, codependence, and avoidant qualities
+  - Too little stimulation can develop antagonism, Cluster B paranoid, and schizoid issues.
+- Control system ([Foresight](mind-imagination.md), [long-term goals](success-3_goals.md), hoarding, persistence, impulse inhibition)
+  - Too much stimulation can create an obsessive personality.
+  - Too little stimulation creates disinhibition as well as Cluster B antisocial, borderline, or histrionic.
+
 ## Dyslexia/Dyscalculia/Dyspraxia
 
 An inability or difficulty with procedurally processing [logical](logic.md) information throught a specific medium:

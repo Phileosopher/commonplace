@@ -11,6 +11,8 @@ Bowden's Law - After failing a test based on a theory, it's always possible to t
 
 Dead Sea Effect - The quality of technical workers in a group is often inversely proportional to their time in the organization.
 
+Demeter's Law - The best groups come from each individual only knowing a portion of the whole, and with everyone only communicating with their nearby associates.
+
 First Adopters Rule - The first pioneers to something new will reap the greatest rewards, with decreasingly fewer rewards by future adopters all the way down to when the space is filled up.
 
 Gibrat's Law - Groups grow proportionally, no matter their size.
@@ -20,8 +22,6 @@ Graham's Addiction Axiom - In any [free market](money-economics.md), products be
 Hickam's Dictum - For multiple issues, several simple explanations are better than an odd circumstance that explains all of them.
 
 Hutber's Law - Improvements in a system hide other parts that are decaying.
-
-Law of Demeter - The best groups come from each individual only knowing a portion of the whole, and with everyone only communicating with their nearby associates.
 
 Gall's Law - A complex system that works always comes from a simple system that works.
 
@@ -99,6 +99,8 @@ Putt's Law - Managers don't understand technical matters, and technical people d
 
 Reilly's Law of Retail Gravitation - People tend to consume at the largest supplier.
 
+Ringelmann Effect - Individuals become less productive as a group's size grows.
+
 Rothbard's Law - Everyone has a specific, specialized weakness.
 
 Zapruder Effect - With enough people witnessing an event, there is enough information and talent to reconstitute the truth of the event from many angles.
@@ -110,6 +112,8 @@ Akin's Seventh Law of Spacecraft Design - At the beginning of an effort, the per
 Box's Law / All Models Are Wrong - All system models are wrong, but some are useful.
 
 Brooks' Law - Adding more people to a late [creative](mind-creativity.md) project stalls it further.
+
+Bus Factor - There is an indisputable minimum number of members necessary for a project to succeed.
 
 Cheops Law - Everything is built late or over budget.
 
@@ -132,6 +136,8 @@ Norman Augustine's Eighth Law - Cost estimates are typically performed by people
 Norman Augustine's Twelfth Law - Building bad products costs more in the long term.
 
 Parkinson's Law of Triviality/Sayre's Law - We feel the intensity of something proportional to its insignificance, so groups spend most of their resources on unimportant details.
+
+Pesticide Paradox - Using the same tests repeatedly makes those tests less effective over time.
 
 Poisson's Law of Large Numbers - The more samples measured, the closer the average represents an accurate estimation.
 
@@ -165,6 +171,8 @@ Fleeting Demographic Rule - Most things are safe to repeat after a few years of 
 Frege's Principle - The meaning of a complex idea/expression is each meaning of its simpler expressions and the rules that combine it.
 
 Gell-Mann Amnesia Effect - People will disbelieve a publication, but will believe the next article in that publication if they're not an expert in it.
+
+KISS Principle - Things should be expressed as simple as possible.
 
 NASCAR Theory - If nothing exciting is going on, people will find enjoyment in watching other people risk dying.
 
@@ -238,7 +246,7 @@ Avatar Paradox - When a product becomes so successful that everyone consumes it,
 
 Briffault's Law - Women's [choices](mind-decisions.md) in men determine what [families](people-family.md) are made.
 
-Broken Windows Theory - Visible signs of crime or destruction (like broken windows) lead to further and worse of them.
+Broken Windows Effect - Visible signs of crime or destruction (like broken windows) lead to further and worse of them.
 
 Clarke's First Law - An old scientist is probably right about things that he says are possible, but probably wrong about those he says aren't.
 

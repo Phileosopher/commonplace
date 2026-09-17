@@ -3,12 +3,12 @@
 
 Beyond the in-person interviews endemic to most coding jobs, there is also a nasty set of interviews tied to technical understanding.
 
-Ironically, a technical interview does *not* test one's capacity for [software development](computers-software.md). Instead, it's a rigor of 30-60 minutes to solve a coding question that is supposed to demonstrate how well you understand [data structures](data-structures.md) and [algorithms](computers-programming-algorithms.md).
+Ironically, a technical interview does *not* test one's capacity for [software development](cs-software.md). Instead, it's a rigor of 30-60 minutes to solve a coding question that is supposed to demonstrate how well you understand [data structures](data-structures.md) and [algorithms](cs-langs-algorithms.md).
 
 Thus, since it's standard practice in most companies to use a technical interview for software developers, practicing for a coding interview is vital for getting a job, even if it has little to do with the job itself.
 
 - Be careful, though, that they're not exploiting your free labor.
-- Also be careful that the recruiter isn't [socially engineering](computers-infosec-socialengineering.md) you to steal your identity.
+- Also be careful that the recruiter isn't [socially engineering](cs-infosec-socialengineering.md) you to steal your identity.
 
 ## Technical Interviews
 
@@ -22,7 +22,7 @@ There are *way* too many questions to practice in advance, so instead focus on q
 
 Focus heavily on *topics* more than *answers*. You can usually find how a concept connects, then find an answer from existing knowledge you already have.
 
-One of the downsides of the technical interview is that you usually get to choose your [language](computers-languages.md).
+One of the downsides of the technical interview is that you usually get to choose your [language](cs-langs.md).
 
 - This sounds like a good thing, but the engineer interviewing you may *not* be familiar with a particular language, and won't be able to help you if you get stuck somewhere.
 - The easy solution to this is research beforehand online about what languages that engineer *does* know, and only use those.
@@ -35,7 +35,7 @@ During the interview, think out loud. It demonstrates that you actually *are* th
 
 System design interviews are another unique aspect of the tech industry, though they're not as ubiquitous as coding challenges.
 
-They'll test your skills at understanding [how programs and systems are designed](computers-software.md), and there's really no way to prepare directly for them. All you can do is [understand the core mechanics of how a computer system works](https://trendless.tech/primitives/), and then answer the questions they give.
+They'll test your skills at understanding [how programs and systems are designed](cs-software.md), and there's really no way to prepare directly for them. All you can do is [understand the core mechanics of how a computer system works](https://trendless.tech/primitives/), and then answer the questions they give.
 
 Even when you have *tons* of experience designing systems, the interview is testing your ability to articulate how those systems work in [plain language](language.md). It helps to watch videos and read books on those subjects, even with tons of hands-on experience.
 

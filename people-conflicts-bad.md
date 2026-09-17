@@ -18,21 +18,28 @@ Pay close attention to micro-expressions.
   - Micro glare: a direct stare with head tilted back, often signals a desire to dominate
   - Frozen smile: a smile that doesn't match the rest of the face
 
-Stay aware that there are several unchangeable value systems most people keep about the world:
+Stay aware that there are several unchangeable (and largely false) value systems most people keep about the world:
 
-1. The Power Game
+1. Power games
    - Everything in this world is about [power](power.md), control, and dominance.
    - There are no [friends](people-friends.md), only useful tools.
    - Everyone has a secret agenda, and everyone seeks their own interests.
    - These people are utterly dangerous to coexist with, and you should expect them to [abuse](hardship-abuse.md) you in the future if you do anything different.
-2. The Harmonious Ideal
+   - Watch for [narcissistic abuse](hardship-abuse-narcissist.md) to find them.
+2. The harmonious ideal
    - The world has truths, and everyone should conform to them.
    - Everyone, if [educated](education.md) enough or given a particular set of inputs, will want to [change](people-changes.md).
    - Even if there are [evil](morality-evil.md) people, enough effort will remove them from the system.
-3. The Survival Mindset
+   - Watch for [neoliberal/leftist views](politics-leftism.md) to find them.
+3. Survival mindset
    - While the world has truths, many people don't wish to honor them or conform to them.
    - People will do whatever they [feel](mind-feelings.md) like, irrespective of what is true.
    - There is no hope to rehabilitate anything long-term, since evil people will corrupt and destroy it later.
+   - Watch for [survivalist attitudes](hardship-disaster-1_short.md) to find them.
+4. Predefined [bias](mind-bias.md)
+   - Whatever a person has [felt](mind-feelings.md) must be true, even if evidence arrives later to disprove it.
+   - Their judgment is already set, even if they haven't openly articulated it.
+   - Watch for double standards between themselves and others, or between two similar contexts, to find them.
 
 ## Ego defense tactics
 

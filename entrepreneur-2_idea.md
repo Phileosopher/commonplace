@@ -157,8 +157,8 @@ Once you're ready, either start small by [freelancing](entrepreneur-4_freelancin
 
 ## Tech business ideas
 
-The speed that computers run means that most of the limits in building your own business is mostly based on how well you can [develop software](computers-software.md), along with the ability to [keep computers running](computers-distsys-enterprise.md) for the necessary services the software needs.
+The speed that computers run means that most of the limits in building your own business is mostly based on how well you can [develop software](cs-software.md), along with the ability to [keep computers running](cs-distsys-enterprise.md) for the necessary services the software needs.
 
 Even for existing technologies, large organizations will often maintain legacy codebases, even if optimization would dramatically improve everything.
 
-Thus, since [all computer code can be improved](computers-software-redesign.md), tech entrepreneurship always has room for freelancers and people who are willing to explore a new way to use computers.
+Thus, since [all computer code can be improved](cs-software-redesign.md), tech entrepreneurship always has room for freelancers and people who are willing to explore a new way to use computers.

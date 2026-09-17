@@ -29,7 +29,7 @@ We're automatically associated with a few groups from our upbringing:
 
 While we all naturally identify with at least some of our [culturally](people-culture.md) established groups, we make [decisions](mind-decisions.md) later that identify with *other* scopes of living:
 
-- [Risk-averse](safety.md) people tend to identify with [accountants](money-accounting.md), [insurance](money-insurance.md), [cybersecurity](computers-infosec.md), and [bureaucrats](bureaucracy.md).
+- [Risk-averse](safety.md) people tend to identify with [accountants](money-accounting.md), [insurance](money-insurance.md), [cybersecurity](cs-infosec.md), and [bureaucrats](bureaucracy.md).
 - Social people identify with salespeople and [marketers](marketing.md).
 - People who value [fun](fun.md) will identify with electronic gamers.
 - Physically active people identify with athletes or [sports](fun-sports.md).

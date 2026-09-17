@@ -112,7 +112,7 @@ Auditors, like claims adjusters, do *not* believe in mere coincidences, and they
 - Unqualified opinions indicate that the information is sound.
 - Qualified opinions indicate they have a "qualification" that demonstrates a problem with the information.
 
-There are also specific audits for [ESG](politics-leftism.md) and [cryptocurrency](computers-blockchain.md), but they're new enough [trends](people-trends.md) that there's not as much precedent as a standard audit.
+There are also specific audits for [ESG](politics-leftism.md) and [cryptocurrency](cs-blockchain.md), but they're new enough [trends](people-trends.md) that there's not as much precedent as a standard audit.
 
 ## Mergers/acquisitions
 
@@ -152,7 +152,7 @@ An IPO is pricier and more complicated compared to a merger/acquisition, so a re
    - Those other companies were privately held, but are now part of a mega-merger with other companies.
 3. After a few purchases of those other companies, the corporation operates like any other corporation.
    - The legitimate value of the SPAC is based on the performance of those other companies, give or take how well they were [managed](mgmt-1_why.md) during the entire time up to that point.
-   - SPACs are particularly popular among industries that lean heavily into [intellectual property](legal-ip.md), such as [software](computers-software.md) or pharmaceuticals.
+   - SPACs are particularly popular among industries that lean heavily into [intellectual property](legal-ip.md), such as [software](cs-software.md) or pharmaceuticals.
 
 ## Breakups
 
@@ -183,7 +183,7 @@ Using shell companies offloads expenses or revenue onto subsidiary companies.
   3. The publicly traded entity will make obscene profit, creating an [investing](money-investing.md) boom (e.g., Enron).
 - This can also be reversed to avoid taxation, with shell companies in more tax-favored situations receiving the revenues.
 
-In [unregulated](people-rules.md) [cryptocurrency](computers-blockchain.md), traders can use wash trading (inspired by wash subscribing in [marketing](marketing.md)) to magnify the value of their assets:
+In [unregulated](people-rules.md) [cryptocurrency](cs-blockchain.md), traders can use wash trading (inspired by wash subscribing in [marketing](marketing.md)) to magnify the value of their assets:
 
 1. Make a cryptocurrency that mines across at least a few servers.
 2. Perform many, many trades (often with fees) with yourself, which makes it look wildly [popular](people-trends.md).

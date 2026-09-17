@@ -85,7 +85,7 @@ Sentence method (only on ordered content):
 1. Write every new thought, fact, or topic on a separate line.
 2. As you consume, you'll understand the flow of ideas.
 
-The Stucky method:
+The [velcrotic](https://stucky.tech/method) method:
 
 1. Stockpile everything you ever want to learn on a subject.
 2. Grab an article and write an off-the-cuff summary of the information as briefly as possible.

@@ -36,13 +36,13 @@ Multiple information technologies across history have gotten us here, but the [I
 6. Moving pictures let us capture and share human existence in its most raw form, and television made it commonplace and even more accessible.
 7. Electronic games and animation permit us to express fantasy to each other in a tangible medium.
 8. The internet has removed the need for much money to do all the above, first for writing, then for everything else.
-9. [Virtual reality and augmented reality](computers-xr.md) bring the entire experience together, limited only by [imagination](mind-imagination.md).
+9. [Virtual reality and augmented reality](cs-xr.md) bring the entire experience together, limited only by [imagination](mind-imagination.md).
 
 The only thing even *close* to being similar is the invention of the [automotive](autos.md). Our minds are configured to handle the information flow of walking speed at 2-3 mph, and horseback riding maxed out around 25-30 mph. Driving a car that can easily surpass 60 mph is a dramatic normalization of what would be considered an overwhelming experience.
 
 ### The Over-Information Age
 
-In the mid-1990s, some geeks built a vast rat's nest of [networked computers](computers-networks.md) called "the internet". Once the [trend](people-trends.md) caught on, every member of society on all tiers of [social status](people-classes.md) could access everything as soon as they could get to a computer.
+In the mid-1990s, some geeks built a vast rat's nest of [networked computers](cs-networks.md) called "the internet". Once the [trend](people-trends.md) caught on, every member of society on all tiers of [social status](people-classes.md) could access everything as soon as they could get to a computer.
 
 By the 2010s, nearly anyone with a portable computer (e.g., a cell phone) and a reliable internet connection had *instant* access to *far* more information than kings had a century ago.
 
@@ -52,10 +52,10 @@ This trend has Balkanized many established, long-standing monoliths of informati
 - Why ask a friend about their hobby? You can find just as much information on literally *thousands* of hobbies on numerous message boards or online videos.
 - Why pay for college when the information is freely available online? For many industries, colleges only exist to [communicate competence](jobs-specialization.md) to specific [social networks](groups-large.md).
 - Why consult [scientific journals](science.md)? The information is on SciHub, floating around online elsewhere, or you can simply ask the writer directly for a copy of a paper.
-- Why go shopping anywhere? You can just buy things online, and once [VR/AR](computers-xr.md) is perfected, you can even *test* the product online for the most part.
+- Why go shopping anywhere? You can just buy things online, and once [VR/AR](cs-xr.md) is perfected, you can even *test* the product online for the most part.
 - Since COVID-19, why go to church? You can practice your [religious observance](religion.md) from the comfort of your own home.
 
-Our present social trend is the Over-Information Age, and I anticipate this era will continue well into the 2050s. [AI](computers-ai.md) adds *much* more semi-decent information on top of what we already have, and a glut of ever-increasingly high-speed computers only magnifies the means to manipulate, store, and transmit information.
+Our present social trend is the Over-Information Age, and I anticipate this era will continue well into the 2050s. [AI](cs-ai.md) adds *much* more semi-decent information on top of what we already have, and a glut of ever-increasingly high-speed computers only magnifies the means to manipulate, store, and transmit information.
 
 The Over-Information Age consists of each individual person possessing many lightweight connections across the world, irrespective of geography but dependent on [technology](technology.md), and comparatively few in-person interactions with their predecessors.
 
@@ -77,7 +77,7 @@ In this era, there's a *lot* of information available, on pretty much everything
 
 For various reasons, most information doesn't have much value:
 
-- People don't apply much [common sense](mind-understanding.md) to the subject, or are repeating what everyone else says (which can get *much* worse when [AI](computers-ai.md) assists with the [creative](mind-creativity.md) process).
+- People don't apply much [common sense](mind-understanding.md) to the subject, or are repeating what everyone else says (which can get *much* worse when [AI](cs-ai.md) assists with the [creative](mind-creativity.md) process).
 - The creator has intentionally made the information inadequate to provoke people to pay more [money](money-1_why.md) to get the complete information.
 - The creator's [bias](mind-bias.md) overshadows the truth.
 - The goal of the content is to [influence](power-influence.md) people by [distorting the truth](people-image-distortion.md).

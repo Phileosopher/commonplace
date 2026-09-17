@@ -82,7 +82,7 @@ Unless you're a substantially-sized organization, trying to sue for damages agai
 *Always* keep multiple payment options available, along with multiple payment processors.
 
 - Even if you need extra fees for processing, always offer cash and card payments.
-- If your business is at all modern, use phone-based payment options (e.g., [cryptocurrency](computers-blockchain.md), Cash App).
+- If your business is at all modern, use phone-based payment options (e.g., [cryptocurrency](cs-blockchain.md), Cash App).
 - You're losing money every day a client can't pay.
 - Try to use a less-popular payment processor, since large-scale payment managers (e.g., PayPal, Stripe) will *not* prioritize you if something goes wrong on their end.
 - If you're charged different fees for different payment processors, consider adding the cost directly into the product itself.

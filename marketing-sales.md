@@ -193,7 +193,7 @@ However, too much customer service can be devastating to an organization.
 
 - Social media does *not* reflect real life.
   - The intuition is that an angry message reflects 1,000 hidden angry messages.
-  - However, usually, 1 angry message means 4 people are angry enough to be outraged, and the [algorithm](computers-programming-algorithms.md) favors "engagement" irrespective of *how* people responded or interacted.
+  - However, usually, 1 angry message means 4 people are angry enough to be outraged, and the [algorithm](cs-langs-algorithms.md) favors "engagement" irrespective of *how* people responded or interacted.
   - With proper documentation, most companies can publicly communicate the exchange *back* on social media and let the public see the situation for themselves.
 - Healthy referral marketing can become sabotaged by all the extra work (and [bias](mind-bias.md)) from maintaining business relationships with the most [unlikable and unpleasant](people-personality.md) consumers.
 - Successful customer service scales in effort to the importance of the consumer to the organization.

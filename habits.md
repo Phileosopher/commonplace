@@ -13,7 +13,11 @@ Habits are a type of neurological [story](stories-why.md) with a relatively simp
    - Recursively, most of the programmed steps are additional habits.
 3. A **reward** as another dopamine flow that sits at the end of a method.
    - The reward could be *anything* real or imagined, including a feeling or sense of duty.
-   - That reward comes through a [belief](mind-understanding-certainty.md) that the current incident will play out the same way we encoded a prior experience in our [memory](mind-memory.md).
+   - Rewards are time-focused:
+     - Past: reflective (looking into [memory](mind-memory.md) to recall the effort to get something)
+     - Present: raw chemical pleasure of the thing itself
+     - Future: substantive ([imagining](mind-imagination.md) the future about how the reward could fulfill some [purpose](purpose.md))
+4. The sense of reward creates another trigger for the future, which frames a [belief](mind-understanding-certainty.md) that a repeated triggerwill play out the same way and create a similar reward later.
 
 Another way to see habits is as the transition our conscious [decisions](mind-decisions.md) to the subconscious.
 

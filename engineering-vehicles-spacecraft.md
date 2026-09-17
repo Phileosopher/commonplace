@@ -17,7 +17,7 @@ There are 3 major orbits for a satellite, relative to the Earth:
 - Low Earth Orbit (LEO)
   - 160-1600 km above the earth
   - To cover the entire earth, requires at least 20 satellites
-  - Every signal takes 0.0005-0.005 seconds to travel at the speed of light, meaning 0.001-0.01 seconds for a successful [SYN-ACK signal](computers-networks.md)
+  - Every signal takes 0.0005-0.005 seconds to travel at the speed of light, meaning 0.001-0.01 seconds for a successful [SYN-ACK signal](cs-networks.md)
 - The range between 1600-10,000 km is dangerous for electronic components because of the Van Allen radiation belt, so no satellites orbit there.
 - Medium Earth Orbit (MEO)
   - 10,000-20,000 km above the earth
@@ -43,7 +43,7 @@ Each satellite must be *very* reliable, above 99.9%, since [maintenance](https:/
 
 ## Satellite data
 
-Beyond GPS coordinates, satellites can also serve as [network nodes](computers-networks.md) for data.
+Beyond GPS coordinates, satellites can also serve as [network nodes](cs-networks.md) for data.
 
 - Unlike cabling or [cellular towers](engineering-radio.md), the only hardware costs for satellites come from launching the network into space.
 - While a satellite connection can be anywhere in the world, the data transfer speeds for satellites are much lower than other technologies, and can be obstructed by cloud cover, aircraft, and foliage.
@@ -52,7 +52,7 @@ Beyond GPS coordinates, satellites can also serve as [network nodes](computers-n
 
 For redundancy's sake, satellites tend to have many transponders at once pointing in any given direction.
 
-Since data satellites need to send and receive information, the satellites usually form into a [grid network](computers-networks.md), and typically with redundancies. This grid can connect relatively seamlessly with other data networks, such as [cellular networks](engineering-radio.md).
+Since data satellites need to send and receive information, the satellites usually form into a [grid network](cs-networks.md), and typically with redundancies. This grid can connect relatively seamlessly with other data networks, such as [cellular networks](engineering-radio.md).
 
 Since data satellites have a predictable amount of latency, they can be reverse-engineered for trilateration, even when they're not officially designed for the purpose.
 
@@ -101,4 +101,4 @@ Man-made satellites become space junk when they're done. While they don't indivi
 
 When LEO satellites re-enter Earth's atmosphere, they'll burn up. The debris [will *typically* burn up completely in a high-velocity cremation](https://www.space.com/6349-satellites-fall.html), but there are other possibilities we haven't experienced yet.
 
-Since satellites can be used proficiently for *both* data and navigation, the people who control those satellites [have a bit more power](computers-networks.md) than cellular carriers, and deactivating GPS systems is a very real part of [wartime tactics](people-conflicts-war-why.md).
+Since satellites can be used proficiently for *both* data and navigation, the people who control those satellites [have a bit more power](cs-networks.md) than cellular carriers, and deactivating GPS systems is a very real part of [wartime tactics](people-conflicts-war-why.md).

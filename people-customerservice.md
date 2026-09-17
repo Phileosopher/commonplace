@@ -24,7 +24,7 @@ The quality of a customer's interaction starts with the information available to
 Then, once they are either frustrated or they've exhausted all useful information, the workers' availability and knowledge determines how they'll feel.
 
 - Once an organization is large enough that it has more than one site, it *must* have a written and centralized system.
-- With computers, the easiest system for keeping track of customers is often as a [database](database.md) with employee-specific [permissions](computers-infosec-authentication.md).
+- With computers, the easiest system for keeping track of customers is often as a [database](database.md) with employee-specific [permissions](cs-infosec-authentication.md).
 
 There are two major ways to manage the customer's ongoing relationship:
 
@@ -47,7 +47,7 @@ The solution is to make sure everyone links the non-automatic information:
 
 Whenever possible, stay [legally safe](legal-safety.md) by keeping a record of everything said, promised, and performed.
 
-Insincere customer service (e.g., via [machine learning](computers-ai.md)) is worse for a [brand](marketing.md) than none.
+Insincere customer service (e.g., via [machine learning](cs-ai.md)) is worse for a [brand](marketing.md) than none.
 
 - People will hate they had to wait on hold, but they will severely resent a conversation with a computer when they need to speak to a person.
 
@@ -165,7 +165,7 @@ Learn to be more consistent than accommodating.
 
 At some point, a customer may start becoming irate and make threats.
 
-- Often, their threats are meaningless, but the types of people who cause lots of trouble are also more likely to post their information on [social media](computers-networks-social.md).
+- Often, their threats are meaningless, but the types of people who cause lots of trouble are also more likely to post their information on [social media](cs-networks-social.md).
 - The best solution is to do what you can to help them within your power, then later confront any falsehoods they indicate on social media with clear facts about their alleged encounter, preferably with proof.
 
 Avoid words that may provoke adverse feelings, such as "canceled", "declined", "failed", and "broken".

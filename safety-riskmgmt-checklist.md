@@ -6,6 +6,16 @@ This is a list of everything necessary to [manage risks](safety.md) that may com
 - Everything can be categorized as various risk factors, along with actions that could be taken to manage those risks.
 - Categorically, the risk mitigation comes through first decreasing the [likelihood](math-stat.md), but then in decreasing the severity of the damage when the risk invariably occurs.
 
+Risk assessment processes have a standardized set of tasks:
+
+1. Identify the important assets that need protecting.
+2. Identify the risks that could happen.
+3. Consider how likely each of those risks could happen.
+4. [Estimate](mind-imagination.md) what would happen if each of those risks happened.
+5. Figure out how to decrease the likelihood or severity of each of those risks.
+6. Consider how reasonable those risk-management actions are.
+7. Do a cost-benefit analysis to be sure the efforts are worth doing.
+
 [Organizational needs](mgmt-1_why.md) tend to practice this list as well, but *way* more in-depth with entire departments managing them:
 
 - Occupational risk - the risk of doing something in the first place
@@ -19,7 +29,7 @@ This is a list of everything necessary to [manage risks](safety.md) that may com
 - Global risk - the dangers from worldwide events
 - Competitive risk - issues that may come from competitors acting against the entity's interests
 
-Most of this checklist revolves around the [security](safety-security.md) from avoiding and reducing risk, since preventing risks is *much* less work than trying to resolve them once they've happened.
+Most of this checklist revolves around the [security](safety-security.md) from avoiding and reducing risk, since preventing risks is *much* less work and cheaper than trying to resolve them once they've happened.
 
 ## General
 
@@ -100,8 +110,8 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 
 ## Protecting From Malicious People
 
-- Keep your computer [safely maintained](computers-infosec.md).
-- Keep your personal information private, from [scammers](computers-infosec-socialengineering.md) and [Big Tech](computers-bigtech.md).
+- Keep your computer [safely maintained](cs-infosec.md).
+- Keep your personal information private, from [scammers](cs-infosec-socialengineering.md) and [Big Tech](cs-bigtech.md).
 - Keep a portable firearm, with experience using it.
 - Always have a bodycam and [auto](autos.md) dashcam equipped.
 

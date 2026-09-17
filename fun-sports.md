@@ -127,7 +127,7 @@ Many other children's and bar games are variations on very small mock combat:
 - Bloody knuckles
 - Power slap
 
-Most popular [video games](computers-software-gamedev.md) for e-sports that aren't strictly racing are mock combat arrangements, typically as thematic variations on first-person or third-person shooters.
+Most popular [video games](cs-software-gamedev.md) for e-sports that aren't strictly racing are mock combat arrangements, typically as thematic variations on first-person or third-person shooters.
 
 ## Cue Sports & Croquet
 

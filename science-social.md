@@ -19,4 +19,4 @@ There are *many* social sciences, and they all have a limited scope of influence
 - What is the purpose of living?
 - Why does the placebo effect work?
 - Why are 9 out of 10 people right-handed?
-- Can we make an [AI](computers-ai.md) that'll sustain a believable human-like conversation?
+- Can we make an [AI](cs-ai.md) that'll sustain a believable human-like conversation?

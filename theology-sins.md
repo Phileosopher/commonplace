@@ -51,6 +51,7 @@ Due to the metaphysical nature of reality conforming to a relationship with god,
 All followers of Christ are responsible for removing sin from their lives by submitting themselves to God.
 
 - Submission is a constant and disciplined reliance on the Holy Spirit, and requires [many habits](spiritual-exercises.md) to maintain.
+- While this isn't a mainstream idea, some Catholic theology goes farther to "felix culpa", or "blessed fall", which expresses that there is a *positive* benefit to our sins.
 
 ## Some Hebrew laws don't transfer precisely to now
 

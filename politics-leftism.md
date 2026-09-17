@@ -88,7 +88,7 @@ APPLICATION: Attacking someone because they attacked you is two wrong actions, o
 
 APPLICATION: Larger cities tend to create more leftward thinking. This isn't because of intelligence, but because city-dwellers are so [specialized](jobs-specialization.md) that they've normalized trusting large institutions like governments and corporations for everything they need.
 
-APPLICATION: The religious nature of neo-Marxism slowly shifts it to a form of neo-paganism. With [futurism](https://trendless.tech/trends/) involved, it may include [AI](computers-ai.md) worship.
+APPLICATION: The religious nature of neo-Marxism slowly shifts it to a form of neo-paganism. With [futurism](https://trendless.tech/trends/) involved, it may include [AI](cs-ai.md) worship.
 
 ## The system's failure
 

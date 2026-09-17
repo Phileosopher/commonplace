@@ -31,12 +31,19 @@ To keep the engine running well, routinely change the oil.
 - If you have a place to change the oil, it only takes about an hour if you don't know what you're doing.
 - Since engine oil comes *from* the ground, you can dispose of old engine oil by digging a hole in the ground and filling it with fine gravel, then covering it up after you're done.
 
+Stay mindful of parasitic battery drain.
+
+- Many batteries are fine, but will drain due to systems that still run even when the vehicle is turned off.
+- When possible, try to ensure all systems aren't running (e.g., door is fully closed, lights are completely off).
+
 You can also often improvise solutions:
 
 - Many medium-sized dents can be removed with a high-quality plunger.
 - In small cars, pantyhose can temporarily serve as a fan belt.
 - Use a spackle gun to hold brake calipers.
 - Screw straight pieces of metal onto the wheel hub on both sides and use a measuring tape to do an alignment yourself.
+- Many features will break down over time, and if you don't use them you can usually remove them without any issue.
+  - However, be careful if those features are connected back to the car's ECU, since many cars will require some sort of data just to keep the vehicle running.
 
 Try to buy replacement parts with a lifetime warranty, and keep the receipts in a safe place.
 
@@ -55,6 +62,8 @@ Only replace the tires when you need to.
   - Uneven crosses across the tires means a suspension issue.
 
 Buy the specialized tools you need, since a $200 tool is less than a $500 mechanic's repair, and you can use it later.
+
+- If your air conditioner is partly vented (i.e., it doesn't give high-quality air), you can recharge it with a kit.
 
 Battery terminals with side posts need a bit more tightening than you may think, usually a few more rotations.
 
@@ -80,21 +89,21 @@ In an emergency situation, you can strike a starter on the solenoid portion (the
 The newer design features in autos have created issues for many drivers:
 
 - [UX](engineering-design.md) that favors adaptive panels over buttons can create risks when the driver is trying to change a configuration while driving.
-- [Auto-assist AI](computers-autos.md) which doesn't work correctly can create risks for drivers.
+- [Auto-assist AI](cs-autos.md) which doesn't work correctly can create risks for drivers.
 - Automation designed to make life easier can, sometimes, make life more difficult (e.g., automatically re-locking doors after a few seconds).
 
 New technologies designed by a [dysfunctional corporation](mgmt-badsystems.md) will give new ways to make life more difficult.
 
 The best solution is to deactivate those features whenever possible:
 
-- Deactivate any [network-based components](computers-networks.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
+- Deactivate any [network-based components](cs-networks.md), such as [GPS](logistics-navigation.md) or [cellular network](engineering-radio.md) communication.
 - Disable any automated features, such as auto-locking or auto-closing.
 - Disable the driving assists, or diminish them to alert-only status.
 
 The design of the vehicle may make deactivating features difficult or impossible, and you might have to find a [clever hack](mind-creativity-hacking.md) to deactivate them.
 
-- Delete or modify parts of the [computer code](computers-software.md) that run subsystems.
-- Reinstall an [open-source](legal-ip-floss.md) [operating system](computers-os.md) created by a developer community to run your vehicle.
+- Delete or modify parts of the [computer code](cs-software.md) that run subsystems.
+- Reinstall an [open-source](legal-ip-floss.md) [operating system](cs-os.md) created by a developer community to run your vehicle.
 - Retrofit the vehicle's engine to a non-computerized system.
 
 Watch for overheating.

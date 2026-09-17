@@ -35,7 +35,7 @@ Conventional journalism tries to condense the facts as much as possible:
 Due to [marketing](marketing.md) reasons, the temptation to [distort the image of the truth](people-image-distortion.md) is far too great to ignore.
 
 - It all starts with the headline and "lede" (introductory line of the story), but the opening of the story creates the flow and mood of the entire article.
-- In an [information overload](information.md) society, shorter and emotional will win on [social media](computers-networks-social.md) over facts.
+- In an [information overload](information.md) society, shorter and emotional will win on [social media](cs-networks-social.md) over facts.
 
 The easiest way is to see an example. For this example, we'll use the quote of a CEO in the automotive industry to talk about new [technologies](technology.md) in cars that may use tracking:
 
@@ -75,7 +75,7 @@ Most journalists, sadly, give the industry a bad name.
 
 - Many of them simply wait for their talking points.
   - At one point, they'd sit by the fax machine and get the headlines and talking points they were supposed to portray.
-  - In recent years, many of them turned to [social media](computers-networks-social.md) for their "breaking news" (Twitter was one example for about a decade).
+  - In recent years, many of them turned to [social media](cs-networks-social.md) for their "breaking news" (Twitter was one example for about a decade).
 
 ## Presenting the information
 

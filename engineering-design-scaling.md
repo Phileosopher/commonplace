@@ -84,7 +84,7 @@ Most of the time, UX developers follow safe fashions, but frequently they'll [ru
 There are plenty of examples of bad fashions:
 
 - Using touchscreens instead of buttons in [automotives](autos.md).
-- Having [internet-connected](computers-networks.md) devices that don't need to be connected to the internet.
+- Having [internet-connected](cs-networks.md) devices that don't need to be connected to the internet.
 - Aggressively auto-connecting Bluetooth when the user doesn't want it.
 - Giving "popular choices" that are *clearly* not popular.
 - Washing out the visual contrast for style reasons, but making it somewhat unreadable.
@@ -114,5 +114,5 @@ The obsession with "user engagement" (i.e., [addiction](addiction.md)) makes "us
 - Creating a feeling of urgency with relative timestamps (e.g., "3 hours ago" instead of "6:15 PM").
 - Making an endless loop of behavior with infinite scrolling instead of a "More" button or link.
 - A fake points system with icons that reinforce the experience with interaction and feedback.
-- Tweaking the system to promote or bury certain user-made content, either through hidden [algorithms](computers-programming-algorithms.md) or at the developer's/company's whim.
+- Tweaking the system to promote or bury certain user-made content, either through hidden [algorithms](cs-langs-algorithms.md) or at the developer's/company's whim.
 - Making leaving the service frustratingly difficult, or requiring a human being to finalize the process.

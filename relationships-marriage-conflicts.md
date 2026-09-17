@@ -7,9 +7,14 @@ Conflicts are normal, and increase as the relationship grows:
 - People *constantly* miscommunicate their thoughts and expectations.
 - While venting or complaining, people may feel anger at the listener's lack of sympathy.
 
+As a general rule, men are far less sensitive to confrontation than women.
+
+- Typically, men who employ [the direct approach](people-conflicts-negotiation.md) can create arguments.
+- At the same time, women who speak *around* the topic will often not convey what they're trying to communicate.
+
 ## Have the right attitude
 
-Marital conflicts are also a necessary foundation to strengthen us.
+Marital conflicts are a necessary foundation to strengthen us.
 
 - While arguments are less healthy than [crucial conversations](people-conflicts-crucial.md), they're far healthier than silence.
   - Silence, in particular, is emotionally starving the other person.

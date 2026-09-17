@@ -197,8 +197,8 @@ The one exception to this situation is *trade* unions.
 
 You should always have several things, and leave ASAP if you see one of them missing:
 
-- [Bug tracking](computers-software-redesign.md), to have more information to [fix things](https://adequate.life/fix/).
-- [Source control](computers-software-versionctrl.md), to maintain when things fail.
+- [Bug tracking](cs-software-redesign.md), to have more information to [fix things](https://adequate.life/fix/).
+- [Source control](cs-software-versionctrl.md), to maintain when things fail.
 
 While not a complete deal-breaker, be very careful of the commitments you make without examining the code and documentation first.
 
@@ -207,5 +207,5 @@ While not a complete deal-breaker, be very careful of the commitments you make w
 Any of the following is a fortunate and somewhat rare thing:
 
 - You can work uninterrupted for long periods, since business demands will stop everything.
-- You have a dedicated [QA staff](computers-software-redesign.md) to make sure everything works.
+- You have a dedicated [QA staff](cs-software-redesign.md) to make sure everything works.
 - The project is for something you actually [believe in](values.md).

@@ -17,7 +17,7 @@ At least with Latin/Cyrillic characters, each type possesses several components 
 - Tracking: the adjusted spacing between all characters in a block of text.
   - Tracking is either "monospaced" (where each character is using the same width) or "proportional" (where each character uses differing widths relative to the size of the letter).
   - Monospaced type are still used frequently for what is known as "ASCII art", which uses different characters to portray a minimalist image.
-  - [Programmers](computers-programming.md) prefer monospaced because it makes it easier to read and [debug](computers-software-redesign.md) code.
+  - [Programmers](cs-langs.md) prefer monospaced because it makes it easier to read and [debug](cs-software-redesign.md) code.
 - Leading: the vertical space between lines of text.
 - Serif: for the sake of readability, a type can have small lines at the end of characters, or not (sans serif).
   - Serif fonts are convenient for reading text, but the pixelation of [screens](engineering-graphics.md) mean that sans serif fonts are ideal for computers.

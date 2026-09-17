@@ -42,7 +42,7 @@ To compensate for OLED, LED now uses "quantum dots" (small pixels only a few nan
 
 Many limited-use computers, like clock radios or air conditioner controllers, don't need much for a visual display, so engineers settle for cheap, large panels shaped for simple character expression (typically LCD) and illuminated by a backlight.
 
-Since about 2010, computer screens and televisions have been functionally the same. The only difference, beyond the television having its own fully functioning proprietary [computer](computers-hardware.md) inside it, is that the television [tracks more user data and may advertise products for users to purchase](computers-bigtech.md).
+Since about 2010, computer screens and televisions have been functionally the same. The only difference, beyond the television having its own fully functioning proprietary [computer](cs-hardware.md) inside it, is that the television [tracks more user data and may advertise products for users to purchase](cs-bigtech.md).
 
 One relatively newer technology with tons of promise is e-ink. It uses negatively charged black pigment and positively charged white pigment on a type of paper, which will jump to the top of the screen based on the charge. This is easier on the eyes because someone is viewing pigmentation (like with [printed](engineering-printers.md) paper) instead of visible light. Most of its screen implementations also *feel* like paper. The only downside is that paper is relatively cheap, while these paper-like devices would cost at least 100x the price of a notepad even if it was made as cheaply as possible.
 
@@ -60,7 +60,7 @@ Typically, computers run at 59-60 FPS (frames per second) because most people wo
 
 The "sampling" of images (or "frames") typically stays at about 60 per second (Hz) in most modern computers, though the internal refresh rate of plasma TVs can go up to 600 Hz.
 
-120 FPS is a preferable rate for high-intensity activities (e.g., [VR headsets](computers-xr.md)). However, it has the tendency to give people headaches and nausea if they're conditioned to 60 FPS devices and are perceptive enough.
+120 FPS is a preferable rate for high-intensity activities (e.g., [VR headsets](cs-xr.md)). However, it has the tendency to give people headaches and nausea if they're conditioned to 60 FPS devices and are perceptive enough.
 
 ## Reusable
 
@@ -73,7 +73,7 @@ Since the screen is an array, and modern ones typically have a backlight, comput
 
 ## Ports
 
-The screens all work off a few port [standards](standards-computers.md).
+The screens all work off a few port [standards](cs-standards.md).
 
 - 15-pin VGA was finicky, but was the standard for most computers up until the mid-2000s.
 - HDMI is generally designed to max out at 1080p, but can be used for larger.

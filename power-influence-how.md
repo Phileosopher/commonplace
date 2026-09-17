@@ -135,3 +135,17 @@ However, charming people must be [ethical](morality.md).
 - The other side of charm is to hold yourself accountable.
   - When you fail or have limits, radically and openly own them.
 
+## Legitimately love others
+
+While many people appear to [love](people-love.md) other people, it's simply a performance.
+
+- Most people can feel that insincerity, even if they can't consciously detect it.
+
+By honestly, sincerely caring about people, people will usually care back.
+
+- The risk, however, is that many people (such as [Cluster B personality](mind-neurodivergence-clusterb.md)), will try to exploit it.
+- Plus, actually caring about people is [emotionally](mind-feelings.md) draining.
+
+The simplest way to love others is to honor the unspoken sacrifices others have made.
+
+- Everyone does this to some capacity, especially after people have [died](hardship-death.md).

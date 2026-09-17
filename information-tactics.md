@@ -114,7 +114,7 @@ Large media organizations frequently use an abundance of information to overwhel
 
 - Their reasoning is that if you're overwhelmed, you'll trust them because they clearly have much to say on the subject.
 - The most profound version of this comes from an abundance of poorly gathered [data](database.md).
-- [AI-assisted](computers-ai.md) media makes this tactic even *more* powerful.
+- [AI-assisted](cs-ai.md) media makes this tactic even *more* powerful.
 
 There are many, many ways to [distort image](people-image-distortion.md), and [technology](technology.md) *constantly* opens more possibilities.
 
@@ -265,7 +265,7 @@ Unfortunately, we are often given the conclusions and effects, but must dig deep
 - Everyone can agree an event happened, but it's more difficult to define its connections with other events.
 - Further, the more [political](politics-conservativeliberal.md) something is, the more likely there will be missing or bad information mixed in.
 
-This entire process of finding the key information is a highly critical skill, especially with [trends](people-trends.md) toward auto-generated [machine learning](computers-ai-ml.md).
+This entire process of finding the key information is a highly critical skill, especially with [trends](people-trends.md) toward auto-generated [machine learning](cs-ai-ml.md).
 
 ## 6: Create intentionally
 
@@ -283,7 +283,7 @@ The Over-Information Age has effectively reversed the constraints:
 - We can learn just about anything almost immediately, which can easily build a chain of endlessly developing amateur skills in something without polishing that understanding or task into [mastery](professionals-how.md).
 - [Information technology](computers.md) allows one person to perform the work of 20 people from 100 years ago, which can add value through better results but also diminishes the entire experience.
 
-Our inherently social nature, mixed with the ubiquity of [social media](computers-networks-social.md), have passively engineered us to perform off-the-cuff communication, which shortcuts the neocortex.
+Our inherently social nature, mixed with the ubiquity of [social media](cs-networks-social.md), have passively engineered us to perform off-the-cuff communication, which shortcuts the neocortex.
 
 The sheer supply of information will create an [economic devaluation](money-economics.md), but off-hand information means that much of that excessive information will be *bad* information. That thing you wanted to say will become more semi-decent noise for others to sift through.
 
@@ -348,15 +348,15 @@ Our [technological](technology.md) tools are *very* effective at managing raw in
 
 - Starting with [the idea of the memex in 1945](https://en.wikipedia.org/wiki/Memex), we can use a wide variety of [productivity and tracking systems](success-4_routine.md) to directly collect and sort all our information.
 - Wellness apps can fulfill every conceivable need, ranging from [sleeping](sleep.md) to [eating](cooking.md) to [working out](body-exercise.md) to [making friends](people-friends.md).
-- Even further, [human nature](humanity.md) is predictable enough that [software algorithms](computers-programming-algorithms.md) can find intervals connected to our [habits](habits.md) and prepare *just* before we have a need or want.
-- [Artificial intelligence](computers-ai.md), such as [machine learning](computers-ai-ml.md), heavily expands on any previous algorithms' scope and can learn behaviors simply by observing tens of thousands of iterations.
+- Even further, [human nature](humanity.md) is predictable enough that [software algorithms](cs-langs-algorithms.md) can find intervals connected to our [habits](habits.md) and prepare *just* before we have a need or want.
+- [Artificial intelligence](cs-ai.md), such as [machine learning](cs-ai-ml.md), heavily expands on any previous algorithms' scope and can learn behaviors simply by observing tens of thousands of iterations.
 
 However, these tools have built-in limitations:
 
 - Productivity systems help you accomplish what you want to do, but they don't tell you *what* to do.
 - Wellness apps can fulfill our needs and help us survive, but thriving requires [meaning](meaning.md), which ironically requires the responsibility we may have otherwise found by *not* having the wellness apps.
 - An algorithm can be configured to predict what we want, but not whether it's a good idea for the context.
-- Machine learning algorithms act according to averaged-out behaviors, so exclusively trusting the algorithm will lead to a very average experience by an entity with zero understanding of how or why those things exist. [Machine learning](computers-ai.md) strips away context from each sentence, which will only make complete paragraphs worse than before.
+- Machine learning algorithms act according to averaged-out behaviors, so exclusively trusting the algorithm will lead to a very average experience by an entity with zero understanding of how or why those things exist. [Machine learning](cs-ai.md) strips away context from each sentence, which will only make complete paragraphs worse than before.
 
 We typically trust the social media algorithms to sift through them, but we need more well-managed information, not just a better way to sift it.
 

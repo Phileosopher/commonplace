@@ -29,7 +29,7 @@ Information filtering
 - Selective attention - we filter out things when they're focused on other things
 - Spark effect - we are more likely to take actions when they're small
 - Survivorship bias - we neglect things that don't make it past a selection process
-- Tesler's Law of Conservation of Complexity - everything has a certain amount of complexity you can't remove, and making it simpler only makes it more complicated
+- Tesler's Law of Conservation of Complexity - everything has a certain amount of complexity you can't remove
 - Visual hierarchy - there's a natural order of how we see things
 
 Information presentation
@@ -140,6 +140,5 @@ Consequences
 - Observer-expectancy effect - researchers' biases affect the participants of an experiment
 - Pareto principle - 80% of the results come from 20% of the causes
 - Peak-end rule - we judge an experience by its peak and how it ends, *not* as the sum of our experiences
-- Postel's law - ideal scenarios come from receiving liberally and sending carefully
 - Second-order effect - unintended second-level consequences ripple from decisions
 - Self-serving bias - we tend to take credit for positive events and blame others for negative ones

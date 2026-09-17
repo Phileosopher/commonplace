@@ -173,7 +173,11 @@ To simplify, here's the blunt and stripped-down version of the same 5 Solae with
 
 These Solae are an archaic model of Christianity, though they're a deep exploration of [theology](theology.md).
 
-Their usefulness, however, is partially limited among Christians. As it stands, the things that divide Christians since the 19th century have become more cultural than ideological, offset by specific theological stances that severely divide core denominations (such as the spiritual scope of a Pope's power).
+- The ideas within them predate the Reformation (e.g., Origen, Ambrose, Basil the Great, Jerom, Cyril of Jerusalem, Athanasius).
+
+Their usefulness, however, is partially limited among Christians.
+
+- As it stands, the things that divide Christians since the 19th century have become more cultural than ideological, offset by specific theological stances that severely divide core denominations (such as the spiritual scope of a Pope's power).
 
 This one distinction distills to two extremes on a spectrum:
 

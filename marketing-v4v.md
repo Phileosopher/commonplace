@@ -86,7 +86,7 @@ There is an art to it, but it is absolutely necessary.
 
 Selling the information directly doesn't work and doesn't make sense.
 
-- To sell computer information means it can be reproduced indefinitely (and [is frequently pirated like crazy](computers-distsys-p2p-torrent.md)).
+- To sell computer information means it can be reproduced indefinitely (and [is frequently pirated like crazy](cs-distsys-p2p-torrent.md)).
 
 The concept assumes 3 major presumptions about the transaction:
 
@@ -109,7 +109,7 @@ Many creators are [unbanked](money-accounting-banks.md) either because the organ
 
 Since there are no intermediaries, the model removes the possibility of censorship.
 
-- Further, by using [cryptocurrency](computers-blockchain.md), the producers have the ability to contribute no matter what happens.
+- Further, by using [cryptocurrency](cs-blockchain.md), the producers have the ability to contribute no matter what happens.
 
 ## No deplatforming
 

@@ -114,7 +114,7 @@ Many industries are *always* looking for people willing to work:
 
 - Custodial work and cleaning jobs like window cleaning and pressure washing
 - Security guard roles
-- [Driving, of almost any kind](autos.md) ([though it may be replaced by technology someday](computers-autos.md))
+- [Driving, of almost any kind](autos.md) ([though it may be replaced by technology someday](cs-autos.md))
 - General labor
 - Landscaping and lawn maintenance
 - Garbage collection

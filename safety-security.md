@@ -65,7 +65,7 @@ One way to protect against invasion is to have multiple barriers, with degrees o
   - city walls in layers toward the center where the government is located
   - multiple firewalls with different [encryption protocols](encryption.md) for each layer
 - However, every new security layer creates more complexity, which can often expand the attack window.
-  - In particular, new complexities remove the [intuitive](mind-feelings.md) aspects of human behavior, which permits more [social engineering](computers-infosec-socialengineering.md).
+  - In particular, new complexities remove the [intuitive](mind-feelings.md) aspects of human behavior, which permits more [social engineering](cs-infosec-socialengineering.md).
 
 ## Security specializations
 
@@ -73,7 +73,7 @@ The domains of security break apart into many other subdomains:
 
 - [Law enforcement](legal-safety.md) protects against the violation of a culture's [rules](people-rules.md).
 - Private security protects against their [clients](people-contracts.md) or their possessions.
-- [Cybersecurity](computers-infosec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](computers-infosec-compliance.md).
+- [Cybersecurity](cs-infosec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](cs-infosec-compliance.md).
 - Personal security involves protecting yourself and your possessions.
 - Locks and their mechanisms protect against breaches of physical things.
 - Most domains of [risk management](safety-riskmgmt.md) are [specialized](jobs-specialization.md) towards at least *some* aspect of the philosophies driving a security mindset.
@@ -106,7 +106,7 @@ In particular, events that are both incredibly devastating and extremely unlikel
 It's difficult to gauge the effectiveness of a security system, for several reasons:
 
 1. If it's obvious that they exist, their very existence may deter bad actors.
-2. Their system will only be proven effective when the risk is too great to take the chance. This can be offset partially by intentionally hiring bad actors to attempt an infiltration (e.g., [Pentesters](computers-infosec-pentest.md)), but that's only dependent on the intelligence and skill of those infiltrators.
+2. Their system will only be proven effective when the risk is too great to take the chance. This can be offset partially by intentionally hiring bad actors to attempt an infiltration (e.g., [Pentesters](cs-infosec-pentest.md)), but that's only dependent on the intelligence and skill of those infiltrators.
 
 ## Security hardware
 

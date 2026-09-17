@@ -136,13 +136,13 @@ Busywork
 Creating
 
 - [Art](values-quality.md)
-- [Software design](computers-programming-basics.md)
+- [Software design](cs-software.md)
 - [Engineering](engineering.md)
 - Performance arts/music
 - Knit/crochet/quilt
 - Decorate
 - Photography
-- [Web design](computers-software-webdev.md)
+- [Web design](cs-software-webdev.md)
 
 [Educate](education.md) people
 

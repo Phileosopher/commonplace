@@ -27,7 +27,7 @@ Always leave a few comments, on *any* project:
 
 ## Git Commits
 
-To keep track of what you change, it's *critical* to maintain good notes, especially [when things break](computers-software-maintenance.md). Thankfully, Git has the feature built-in with mandatory notes for "commits".
+To keep track of what you change, it's *critical* to maintain good notes, especially [when things break](cs-software-maintenance.md). Thankfully, Git has the feature built-in with mandatory notes for "commits".
 
 There are a few important ways to write good Git commits:
 
@@ -36,7 +36,7 @@ There are a few important ways to write good Git commits:
 - Use a direct, to-the-point tone of [writing](language-writing.md) (avoid kinda, I think, maybe, et al.).
 - Specify what commit type you're making:
   - feat - new feature comes with the changes
-  - fix - fixed a [bug](computers-software-redesign.md)
+  - fix - fixed a [bug](cs-software-redesign.md)
   - chore - changes that aren't fixes/features that don't modify src or test files
   - refactor - redesigned code
   - docs - updates to documentation such as README
@@ -50,14 +50,14 @@ There are a few important ways to write good Git commits:
 
 ## Changelogs
 
-When [software gets updated](computers-software-versionctrl.md), people need to understand what happened and why. While it's tempting to dump system logs into it (such as a git log), the purpose of a "changelog" or "release notes" is to allow a technical person to understand what changed without having to observe the source code directly.
+When [software gets updated](cs-software-versionctrl.md), people need to understand what happened and why. While it's tempting to dump system logs into it (such as a git log), the purpose of a "changelog" or "release notes" is to allow a technical person to understand what changed without having to observe the source code directly.
 
 There are several things to *always* do in a changelog:
 
 - Specify any changes that significantly change. Keep track of them in a streaming format (usually with the latest version change at the top, and adding new versions above it). Avoid informing much about minor changes that don't affect the user.
 - Keep the information simple for the users. They never need to know exactly what lines of code changed, but they do need to know how it changes the way they interact with the software.
 - To avoid confusion on dates, use the date convention of YYYY-MM-DD, which goes from largest to smallest order.
-- As of 2022, there is no reliable [universal standard](standards-computers.md) for changelogs.
+- As of 2022, there is no reliable [universal standard](cs-standards.md) for changelogs.
 - If a version was "yanked", it's still important to indicate the changes if the version was publicly released, often by putting [YANKED] after the version number.
 - It's perfectly fine to rewrite changelogs. Just make sure that it's clarifying or adding information, such as unspecified releases, and make sure to not devote *too* much time to it when you should be doing something more productive.
 

@@ -68,7 +68,7 @@ You are under no obligation to stop for police or answer their questions unless 
 
 Every court hearing is [inherently biased](mind-bias.md).
 
-- Except for forensics (i.e., [science](science.md) for legal purposes), each person in a court is human.
+- Except for [forensics](safety-security-forensics.md) that can generate factual evidence, each person in a court is human and the evidence itself is often skewed.
 - Many cases *never* make it to trial because they're resolved with a settlement or plea bargain, which means it becomes a complicated [negotiation](people-conflicts-negotiation.md) about specific provable facts that align with various regulations.
 - Though the judge or jury decide the case if it goes to trial, everyone in the case affects the verdict by their pull with those deciding people, and the ruling is at the judge's discretion.
 - In some incredibly infamous instances, a strictly philosophical disagreement has exiled good men or sentenced them to death.
@@ -521,7 +521,7 @@ When investigating the opposition in a civil case, you usually can't prove that 
 
 Often, in other unrelated domains (e.g., hairstylist licensing), this legal process will be the same thing, but with more [good faith](https://gainedin.site/good-faith/) involved.
 
-You can often use [open investigation](computers-infosec-osint.md) to find if the judge is taking bribes:
+You can often use [open investigation](cs-infosec-osint.md) to find if the judge is taking bribes:
 
 - Examine how long the judge has been on the bench.
 - Request the judge's mandated financial disclosure forms from the state.
@@ -565,6 +565,6 @@ Living a [good life](people-goodlife.md) often requires operating *outside* the 
 
 Fight for a worthwhile fight.
 
-- You have the resources to fight 1 battle reliably: against fraud, against [Big Tech](computers-bigtech.md), against [country-sized corporations](politics-monopolies.md), against a government.
+- You have the resources to fight 1 battle reliably: against fraud, against [Big Tech](cs-bigtech.md), against [country-sized corporations](politics-monopolies.md), against a government.
 - You may not win that battle, and even when you do, the prize for it may not be worth it.
 - Choose wisely.

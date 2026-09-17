@@ -41,7 +41,7 @@ This representation means that "standard" computer numbers have the same ubiquit
 
 ## Calculations
 
-"Combinatorics" is the math of counting up and down, and is a frequent part of computer science because [assembly code](computers-programming-assembly.md) is almost always simply counting.
+"Combinatorics" is the math of counting up and down, and is a frequent part of computer science because [assembly code](cs-langs-specific-assembly.md) is almost always simply counting.
 
 At its most basic, a computer can calculate basic arithmetic:
 
@@ -58,9 +58,9 @@ Every portion of the information in a calculation has a "state", which is simply
 
 To manage more than a moment-by-moment calculation, computers use "pushdown automation", which is running through calculations one after the other on a "stack". By using pushdown automation with memory, you've successfully created a Turing machine.
 
-The 2-based numbering system places a unique limit on computer [memory](computers-memory.md). Instead of limits set at 10, 100, 1,000, and so on, they limit at 2, 4, 8, 16, 32, 64, 128, 256, 512, etc. The consequences of this are that some constraints are unintuitive without looking at memory registers.
+The 2-based numbering system places a unique limit on computer [memory](cs-memory.md). Instead of limits set at 10, 100, 1,000, and so on, they limit at 2, 4, 8, 16, 32, 64, 128, 256, 512, etc. The consequences of this are that some constraints are unintuitive without looking at memory registers.
 
-[Advertised](marketing.md) technology will use base-2 numbers in their branding (e.g., 32-bit graphics, 128-bit encryption, Nintendo 64), but most [computer interfaces](engineering-design.md) abstract away the constraints by the time the software is [finished](computers-software-versionctrl.md).
+[Advertised](marketing.md) technology will use base-2 numbers in their branding (e.g., 32-bit graphics, 128-bit encryption, Nintendo 64), but most [computer interfaces](engineering-design.md) abstract away the constraints by the time the software is [finished](cs-software-versionctrl.md).
 
 ## Modulus
 
@@ -78,11 +78,11 @@ Normally, people start intuitively at 1 when counting:
 
 - 1, 2, 3, 4, 5...
 
-Because of [how computers count](computers-alu.md), the first number for computers is 0. Thus, counting goes:
+Because of [how computers count](cs-alu.md), the first number for computers is 0. Thus, counting goes:
 
 - 0, 1, 2, 3, 4...
 
-Without being aware of this, programmers can often create [logic errors](computers-software-redesign.md) that differ by 1. Generally, it's worth paying close attention to *any* number that is off by 1, since the computer won't know any better.
+Without being aware of this, programmers can often create [logic errors](cs-software-redesign.md) that differ by 1. Generally, it's worth paying close attention to *any* number that is off by 1, since the computer won't know any better.
 
 ## Algebra
 
@@ -92,11 +92,11 @@ The beauty of algebra is that it can be used to represent all sorts of lines in 
 
 ## Calculus
 
-[Calculus](math-calc-cs.md), in a sense, is the reverse of algebra. Instead of giving the computer a formula and being able to create lines from it, calculus gives a set of points in space and asks what the formula is. This has profound implications for fields such as [machine learning](computers-ai-ml.md).
+[Calculus](math-calc-cs.md), in a sense, is the reverse of algebra. Instead of giving the computer a formula and being able to create lines from it, calculus gives a set of points in space and asks what the formula is. This has profound implications for fields such as [machine learning](cs-ai-ml.md).
 
 ## Statistics
 
-When reality's complexities apply, it's far more important to work with likelihoods and probabilities, which is the [realm of statistics](math-stat-cs.md). Most practical computer applications in [large-scale systems](computers-distsys-enterprise.md) need to operate with statistics more than anything else.
+When reality's complexities apply, it's far more important to work with likelihoods and probabilities, which is the [realm of statistics](math-stat-cs.md). Most practical computer applications in [large-scale systems](cs-distsys-enterprise.md) need to operate with statistics more than anything else.
 
 ## Randomness
 
@@ -107,10 +107,10 @@ One of the most unusual experiences between real-world math and computer math is
 
 Getting random things for computer applications, therefore, is *not* trivial.
 
-- This spans a vast range of problems, from [game design](computers-software-gamedev.md) to [encryption](encryption.md).
+- This spans a vast range of problems, from [game design](cs-software-gamedev.md) to [encryption](encryption.md).
 
-One of the easiest ways to create this solution is with an [algorithm](computers-programming-algorithms.md) called a linear congruential generator (LCG), which is a simple-enough linear calculation that creates near-random numbers. It requires [the Hull-Dobell Theorem's 3 rules](https://en.wikipedia.org/wiki/Linear_congruential_generator) for the formula to work.
+One of the easiest ways to create this solution is with an [algorithm](cs-langs-algorithms.md) called a linear congruential generator (LCG), which is a simple-enough linear calculation that creates near-random numbers. It requires [the Hull-Dobell Theorem's 3 rules](https://en.wikipedia.org/wiki/Linear_congruential_generator) for the formula to work.
 
 ## Functions
 
-All mathematical functions represent inside a computer and present as an [algorithm](computers-programming-algorithms.md).
+All mathematical functions represent inside a computer and present as an [algorithm](cs-langs-algorithms.md).

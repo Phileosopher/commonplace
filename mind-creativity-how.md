@@ -141,7 +141,7 @@ If it's at all possible, *don't* focus on the problem for a while:
 As much as possible, consolidate the number of "containers" for your ideas and information:
 
 - Keep all the scraps of brainstorming-related paper in one box or cabinet.
-- Use only one digital service or [cloud storage system](computers-distsys-cloud.md).
+- Use only one digital service or [cloud storage system](cs-distsys-cloud.md).
 - [Organize](organization.md) the ideas loosely into where they're supposed to go.
 
 You will be going back-and-forth over the information a *lot*, so don't obsess too heavily about precisely organizing anything.

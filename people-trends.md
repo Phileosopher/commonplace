@@ -196,6 +196,6 @@ Generally, cycles never break, and are critical to [understand](mind-understandi
 
 The speed of a trend is directly connected to how fast [information](information.md) travels. Therefore, within [the information age](history-eras.md), trends will adopt faster than before.
 
-APPLICATION: At one time, consuming was a one-way [habit](habits.md) loop of experiencing, then modifying afterward. But, now with the [Over-Information Age](information.md) trend, people can review and criticize beforehand (by [researching](information.md)), but also during and afterward (by reviewing their [memory](mind-imagination.md) and commenting on [social media](computers-networks-social.md)). This probably won't go away anytime soon, either.
+APPLICATION: At one time, consuming was a one-way [habit](habits.md) loop of experiencing, then modifying afterward. But, now with the [Over-Information Age](information.md) trend, people can review and criticize beforehand (by [researching](information.md)), but also during and afterward (by reviewing their [memory](mind-imagination.md) and commenting on [social media](cs-networks-social.md)). This probably won't go away anytime soon, either.
 
 APPLICATION: The average lifespan of a civilization was about 400 years. After the fall of the Roman Empire, it's been closer to about 300 years. With [technology](technology.md) allowing instant [information access](people-conversation.md), it may lower itself to 200.

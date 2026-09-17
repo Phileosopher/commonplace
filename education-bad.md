@@ -70,6 +70,10 @@ APPLICATION: Fixing a bad teaching system is difficult, but possible:
 - If the students start failing, the teachers aren't covering the information well enough, and the school must either trim the curriculum or get new teachers.
 - Ignore what other schools are doing. Ignore money-making activities that aren't central to the core curriculum and focus of the school (e.g., [sports teams](fun-sports.md)).
 
+Unfortunately, schools often add to the dysfunction by measuring grades.
+
+- This creates the perverse incentive (and [Goodhart's Law](groups-large-lawsaxioms.md)) of teachers trying to score students as high as possible, irrespective of their academic aptitude.
+
 One of the most significant ways a school can become dysfunctional is through trying to specialize into too many roles at once:
 
 - Teaching marketable skills for people to get [jobs](jobs-1_why.md).

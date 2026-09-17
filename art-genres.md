@@ -5,11 +5,33 @@ There are certain predictable elements that must always exist in any expected ty
 
 - Any significant violations of these genres will diverge into a subgenre of comedy or thriller, depending on the whether the creator is aiming for [fear](mind-feelings-fear.md) or amusement.
 
-## Comedy
+## Poetry
+
+The constraint of rhyme and rhythm to maintain a [story](stories.md).
+
+- Can be objective or subjective.
+  - Objective poetry can be narrative or dramatic.
+    - Narrative poetry groups into several domains:
+      - Ballads (usually revolving around something glorious)
+      - Epics (very large stories with many scenes)
+      - Metrical romance (usually about [romantic love](people-love.md))
+  - Subjective poetry groups based on its lyrical focus:
+    - Elegy is built around serious reflection and usually lament [the dead](hardship-death.md)
+    - Sonnet is a fixed structure with a rhyming scheme
+    - Ode gives elaborate structure that glorifies an event or individual
+    - Dramatic monologue is the free-form stream of consciousness of a character
+    - Hymn is for the purpose of adoration or prayer
+    - Epithalamium is specifically to celebrate [a bride on her way to her marital chamber](relationships-weddings.md)
+
+## Drama
+
+A portrayal of the [emotions](mind-feelings.md) contained within the human experience.
+
+### Comedy
 
 Set the character in a familiar setting that most of the audience will relate to.
 
-Make the world not work correctly in some way.
+Make the world not work correctly in some way, but played for [humor](humor.md).
 
 - This can either be towards familiarity (i.e., relatable to our world) or surrealism (i.e., absurdly exaggerated from our world)
 
@@ -18,6 +40,12 @@ Subgenres are effectively commentary on other tropes:
 - Action comedy (e.g., Last Action Hero)
 - Science fiction comedy (e.g., Hitchhiker's Guide to the Galaxy)
 - Fantasy comedy (e.g., Discworld)
+
+### Tragedy
+
+The reverse of a comedy, where the character's journey ends with a [loss](hardship.md).
+
+- It can merge as a tragicomedy, where there is humor in that loss, though typically only from the audience's point of view.
 
 ## Action
 

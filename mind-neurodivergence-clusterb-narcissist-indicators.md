@@ -1,5 +1,5 @@
 
-# Context-sensitive indicators of narcissism
+# Context-sensitive indicators of narcissism and narcissistic behavior
 
 These are the indicators of narcissism.
 
@@ -53,6 +53,11 @@ They are continuously preoccupied with getting others to attend to them, pay att
 
 - Their core goal is to see you react to them in some way, which gives them validation that they have made a difference in something.
 - Their solution for feeling out of control will be to try exerting [some form of control](power-types.md) over others.
+
+One of the ways to [feel](mind-feelings.md) this denial is because you won't be able to "feel" them.
+
+- This is more intuitive than factual, but is an odd quirk where it feels like they didn't resonate or identify anything you just said somehow, even when they can repeat exactly what you said.
+- We can usually [develop reciprocity](people-friends.md) with people all the time, but they're simply imitating what everyone else does naturally.
 
 ## Social environment
 
@@ -137,7 +142,7 @@ Their personalities mean they're more likely to gravitate toward certain hobbies
   - Any of the above if it makes money
   - DJ
   - [Sales/marketing](marketing.md)
-  - Stock/[cryptocurrency](computers-blockchain.md) trading
+  - Stock/[cryptocurrency](cs-blockchain.md) trading
 - It's worth noting that the issue on all these is *why* they do it, not simply that they do it.
 
 ## Nonverbal cues

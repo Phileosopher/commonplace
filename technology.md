@@ -9,7 +9,7 @@ Most modern use of the word is referring to "high-tech" things or, more specific
 - A toothbrush, a bristle maker, plastic molds, and a packing machine.
 - Engine design software, machining tools, a forge, coal mining equipment, and a lever.
 
-The layers of tools create a "chain" that can't be easily broken. For example, a [computer's hardware](computers-hardware.md) requires *many* prerequisite technologies that work their way into many [specializations](jobs-specialization.md):
+The layers of tools create a "chain" that can't be easily broken. For example, a [computer's hardware](cs-hardware.md) requires *many* prerequisite technologies that work their way into many [specializations](jobs-specialization.md):
 
 1. Mining sand
 2. Mining copper
@@ -64,7 +64,7 @@ APPLICATION: Whatever someone does for a living profoundly changes how they [thi
 
 We tend to [expect](mind-imagination.md) more out of ourselves and others when we're using technology. Since we [trusted](mind-trust.md) it more than we realized, we tend to feel lost and helpless when that technology fails.
 
-Typically, people treat a technological thing as a separate entity with a separate [essence](humanity.md). A [created](creations.md) thing, however, can only operate under the [purpose](purpose.md) of its creator or user. Even if it's taught to learn for itself (e.g., [artificial intelligence](computers-ai.md)), it'll still only learn within the scope of its instructions and never [self-determine](mind-decisions.md).
+Typically, people treat a technological thing as a separate entity with a separate [essence](humanity.md). A [created](creations.md) thing, however, can only operate under the [purpose](purpose.md) of its creator or user. Even if it's taught to learn for itself (e.g., [artificial intelligence](cs-ai.md)), it'll still only learn within the scope of its instructions and never [self-determine](mind-decisions.md).
 
 We also tend to separate technology from the rest of nature. Even though we're using natural resources, steel and plastic often [feel](mind-feelings.md) "fake" by comparison from how [well-crafted](values-quality.md) they are. This is only an illusion based on our interpretation of [order](unknown.md).
 
@@ -138,7 +138,7 @@ When a technology is [purposed](purpose.md) as a [weapon](people-conflicts-war-w
 
 When people become aware of the fragility of technology, they tend to become [terrified](mind-feelings-fear.md). This resonates in popular [culture](people-culture.md), usually in the broad genre of "[apocalypse](hardship-disaster-2_long-stay.md)" [stories](stories-why.md). What they don't see is that various [specializations](jobs-specialization.md) can converge together again in a crisis and that humanity is *very* [resourceful](mind-creativity.md), so [the unknown](unknown.md) provides both good *and* bad [consequences](results.md).
 
-People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](mind-decisions.md). Even with [machine learning](computers-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
+People also often [fear](mind-feelings-fear.md) that technology could create its own [purpose](purpose.md) against humanity (e.g., Terminator movies). But, no [created](creations.md) thing makes its own [decisions](mind-decisions.md). Even with [machine learning](cs-ai-ml.md), the creation is following complex instructions, so its decisions are never truly independent.
 
 Technology can never fully replace human [creativity](mind-creativity.md) unless it were able to synthesize [feelings](mind-feelings.md)-based [logic](logic.md) like we do. Without it, the fastest computer can only stay confined to [conventional](habits.md) methods.
 
@@ -164,7 +164,7 @@ APPLICATION: In a [perfect society](politics-perfectsociety.md), technology woul
 
 As technology develops, it makes some roles obsolete, especially through automation. Automation frees up people from tasks and, at the same time, there are as-of-yet unseen [purposes](purpose.md) those people can [fulfill](results.md) instead.
 
-APPLICATION: At one point, surveying land and trigonometry were the critical skills for most disciplines in the age of Rockefeller. As of right now, in the information age, it's [statistics](math-stat.md). In 100 years, it may be [game theory](math-gametheory.md) for [AI](computers-ai.md).
+APPLICATION: At one point, surveying land and trigonometry were the critical skills for most disciplines in the age of Rockefeller. As of right now, in the information age, it's [statistics](math-stat.md). In 100 years, it may be [game theory](math-gametheory.md) for [AI](cs-ai.md).
 
 People tend to use technology to define their [understanding](mind-understanding.md) of the world. For this reason, the in-depth masters of a technology are subjected and relegated to the [fashions](people-trends.md) of their time (e.g., computer enthusiasts honor [their machine gods](https://gainedin.site/machines/)).
 

@@ -55,7 +55,7 @@ Each of the elements in a table is called a "field". You can make a list by putt
 
 The level of lists determines how many "dimensions" of data you have. The above is only 2D, but it can go as far as you need, with each field becoming its own data table.
 
-More database complexity becomes more difficult to manage. Every new dimension to a database creates exponentially more need for [memory](computers-memory.md), and can become exponentially more difficult to [search through](computers-programming-algorithms.md). To that end, it makes sense to shave down databases whenever possible.
+More database complexity becomes more difficult to manage. Every new dimension to a database creates exponentially more need for [memory](cs-memory.md), and can become exponentially more difficult to [search through](cs-langs-algorithms.md). To that end, it makes sense to shave down databases whenever possible.
 
 ### Primary key
 
@@ -90,9 +90,9 @@ To that end, there are several major steps to great database design.
 
 ## SQL
 
-SQL stands for Structured Query Language. It's a [language](computers-programming.md) designed to let anyone (not just technical people) deal with [data](data.md) by using "queries". A query is requesting for data, but then can change the data after requesting it.
+SQL stands for Structured Query Language. It's a [language](cs-langs.md) designed to let anyone (not just technical people) deal with [data](data.md) by using "queries". A query is requesting for data, but then can change the data after requesting it.
 
-Most people get daunted by the fact that SQL is a programming language, but [their fear is a bit overblown](computers-programming.md). SQL is relatively easy to understand, though it may take an afternoon or two to fully feel out the concept.
+Most people get daunted by the fact that SQL is a programming language, but [their fear is a bit overblown](cs-langs.md). SQL is relatively easy to understand, though it may take an afternoon or two to fully feel out the concept.
 
 It's worth noting that the term "SQL" the database isn't the same as "SQL" the server. Microsoft SQL Server happens to be one of a variety of languages that use SQL, but there are other "relational database management systems" (RDMS) including postgreSQL, MySQL, AQL, Datalog, and DMX.
 
@@ -187,7 +187,7 @@ There are several ways to design a database. You can "normalize" it with less re
 - Phone #
 - Email
 
-This is fine to cut down on [memory](computers-memory.md), but it takes a long time for the computer to read through it all. In this situation, it'd have to read through the Name, Address, ZIP code, and Age fields on *every single applicable record* just to get to the Birthday. That adds up if you do it 8,000,000 times.
+This is fine to cut down on [memory](cs-memory.md), but it takes a long time for the computer to read through it all. In this situation, it'd have to read through the Name, Address, ZIP code, and Age fields on *every single applicable record* just to get to the Birthday. That adds up if you do it 8,000,000 times.
 
 Instead, we can "denormalize" the data to make it take up more room, but make it easier to access:
 
@@ -214,7 +214,7 @@ In short, NoSQL refers to any data that isn't held strictly in a relational data
 
 At one time, SQL databases were a great idea to hold lots of information, back when the cost of storing data was more expensive than the cost of having developers work on it. However, now that we can hold comparatively huge amounts of information cheaply, NoSQL makes more sense.
 
-When you scale up to [enterprise-grade](computers-distsys-enterprise.md) databases, NoSQL makes even more sense, since developers have more options to store data without being bound by the old relational database rules.
+When you scale up to [enterprise-grade](cs-distsys-enterprise.md) databases, NoSQL makes even more sense, since developers have more options to store data without being bound by the old relational database rules.
 
 ## More information
 

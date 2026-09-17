@@ -153,9 +153,9 @@ Aim for affordable-enough pricing.
 
 While most [business plans](entrepreneur-3_plan.md) require plenty of assets, tech entrepreneurs in particular alway need more computers and tools.
 
-- For things like [distributed hosting](computers-distsys.md) or far-reaching [telecommunications networks](computers-networks.md), you will need a *lot* of hardware.
+- For things like [distributed hosting](cs-distsys.md) or far-reaching [telecommunications networks](cs-networks.md), you will need a *lot* of hardware.
 - If it's a technician or maintenance role, you'll need a wide variety of tools beforehand.
-- However, for something like [software development](computers-software.md), you'll only need software tools besides a few computers, and most of them have [open-source](legal-ip-floss.md) alternatives.
+- However, for something like [software development](cs-software.md), you'll only need software tools besides a few computers, and most of them have [open-source](legal-ip-floss.md) alternatives.
 
 ## 4. Marketing Plan
 
@@ -416,7 +416,7 @@ Create an organizational chart:
 
 If multiple people will run the organization, clarify the board of directors.
 
-In tech startups, one of the most distinctive domains of business plans comes through [version control](computers-software-versionctrl.md).
+In tech startups, one of the most distinctive domains of business plans comes through [version control](cs-software-versionctrl.md).
 
 - By releasing products to the public in alpha or beta, you have the luxury of selling a product that's *not* complete and *not* tested.
 - It gives you the freedom to start making money on it while receiving a wealth of information via bugfix and feature requests.

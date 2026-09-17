@@ -141,7 +141,7 @@ Many political issues have very few grounds for a Christian to make an opinion o
 
 - Gun rights
 - Recreational drug use or legalization (except *maybe* 1 Peter 5:8)
-- [Privacy](computers-bigtech.md) rights
+- [Privacy](cs-bigtech.md) rights
 - The [economy](money-economics.md)
 - [Climate change](politics-leftism.md) (except that God has full control of it all)
 - Government decisions and spending

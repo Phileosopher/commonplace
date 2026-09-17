@@ -107,7 +107,7 @@ A few directly represent extremes of mental illness:
 - Ogres and orcs are deformed humans, often representing physical manifestations of [evil](morality-evil.md) people.
   - Mutants in science fiction represent the capacity for [technology](technology.md) to turn us [evil](morality-evil.md).
 
-A golem is the symbol of [technologically](technology.md) creating automation that reproduces human behavior. This includes Frankenstein's monster, and goes all the way to its modern implementation of [artificial intelligence](computers-ai.md).
+A golem is the symbol of [technologically](technology.md) creating automation that reproduces human behavior. This includes Frankenstein's monster, and goes all the way to its modern implementation of [artificial intelligence](cs-ai.md).
 
 Some beings simply depict the [unknown](unknown.md):
 

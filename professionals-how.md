@@ -24,3 +24,9 @@ For the sake of [communicating](people-conversation.md) as well as successfully 
 2. Communicate that they did the task back to the person who told them to do it.
 3. If necessary, communicate that task to other relevant people (e.g., CC on an email).
 4. If necessary or a [legal risk](legal-safety.md) otherwise, record that task being performed and communication about it.
+
+## Avoid overextending
+
+Scope creep is very common, which is from practicing in such a way that you end up drawing in related tasks not related to your specialization.
+
+Unfortunately, it's very easy to not realize what you really don't know. For that reason, stick with what you know.

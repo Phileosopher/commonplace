@@ -36,7 +36,7 @@ Standards do make life easier, but they take training to memorize and understand
 - [Genetic engineering](engineering-biological.md)
 - [Factory design](engineering-factory.md)
 - [Waste management](engineering-waste.md)
-- [Computer science](computers-hardware.md)
+- [Computer science](cs-hardware.md)
 
 Further, many other domains have flavors of engineering associated with them:
 

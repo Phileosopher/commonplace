@@ -3,7 +3,7 @@
 
 Electricity was discovered by observing the electric eel. It etymologically combines "electrum" from Latin and "ēlektron" from Greek. This word was synonymous with was a naturally occurring alloy of gold and silver called "amber".
 
-There are a vast range of [standards](standards.md) for electrical code, and they move around based on new developments and implementations. However, given that the technology is about 200 years old, they're nowhere *near* as volatile as [computer standards](standards-computers.md)
+There are a vast range of [standards](standards.md) for electrical code, and they move around based on new developments and implementations. However, given that the technology is about 200 years old, they're nowhere *near* as volatile as [computer standards](cs-standards.md)
 
 Electricity and magnetism are *very* connected.
 
@@ -24,7 +24,7 @@ Electricity travels from one point to another through a conductor that has a cer
 
 Water itself is a poor conductor, but small impurities like salt, acid, and solvents can make water convert from being an insulator into a conductor. This holds true as well for anything that can get wet, such as dry wood or dry skin.
 
-Alternating current (AC) travels *much* farther than direct current (DC), and is generally safer simply from the fact that electrocution will make the victim's muscles seizure instead of contract. However, most small-scale electrical components that use batteries use AC, and [most computers](computers-cpu.md) use AC for their signals because they're more predictable.
+Alternating current (AC) travels *much* farther than direct current (DC), and is generally safer simply from the fact that electrocution will make the victim's muscles seizure instead of contract. However, most small-scale electrical components that use batteries use AC, and [most computers](cs-cpu.md) use AC for their signals because they're more predictable.
 
 Static electricity can also cause a shock, but not usually as severely. It comes from electron buildup, usually from friction, without any grounding.
 
@@ -38,7 +38,7 @@ There are usually fuses placed in a box to precisely detect where the assembly w
 
 The most basic division of wire and cable technology is based on voltage:
 
-- 300V: signaling, controls, [wired communications](computers-networks.md)
+- 300V: signaling, controls, [wired communications](cs-networks.md)
 - 600V: the most widely used, typically for power and light circuits
 - 2kV-25kV: medium-voltage electrical power distribution circuits
 
@@ -72,7 +72,7 @@ The voltage classifications aren't universally standard, so the IEC and ANSI/NEC
 - Extra Low Voltage (ELV)
   - IEC: below 50V AC or 120V DC
   - Applications include low-power devices like battery systems and control circuits.
-  - This also dovetails closely with [computer signals](computers-networks.md), where the electricity is meant as information instead of power generation.
+  - This also dovetails closely with [computer signals](cs-networks.md), where the electricity is meant as information instead of power generation.
 - Low Voltage (LV)
   - IEC: 50V-1kV AC or 120V-1.5kV DC
   - ANSI/NEC: up to 600V AC
@@ -150,7 +150,7 @@ To prevent ground faults, many places where there may be an undesirable conducto
 2. Weather-resistance to maintain the cable (e.g., waterproofing, heat)
 3. Shielding to prevent the cable from causing risks to others
 4. Risks from degradation to the environment (e.g., lead).
-5. In the case of [signals](computers-networks.md), shielding to prevent interference *with* the conduit (e.g., electromagnetic).
+5. In the case of [signals](cs-networks.md), shielding to prevent interference *with* the conduit (e.g., electromagnetic).
 
 Cables are, therefore, composed of several components:
 
@@ -290,13 +290,13 @@ Most everyday batteries are a few broad classes of solid metals, and most of the
 
 The specific metals necessary for batteries are rare earth metals that require unique mining techniques to extract. Even though lithium batteries are 100% recyclable, they are often discarded. Some regions [illegalize](people-rules.md) discarding batteries, which can be a problem [at scale](groups-large.md).
 
-Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](computers-programming-algorithms.md) implementation of the Coulomb counter:
+Battery indicators require a specialized "integrated circuit" (IC) that tracks battery usage. One of the simplest battery indicators is an [algorithmic](cs-langs-algorithms.md) implementation of the Coulomb counter:
 
 1. Measures the current charge.
 2. Measures the available charge later.
 3. It uses a simple calculation to figure out how much charge is left (e.g., it started with 10 amps, there are 4 amps now, and it's discharging 1 amp per hour, so it's at 40%).
 
-Battery technology develops relatively slowly compared to the things it tends to power. Typically, better [software programming](computers-software.md) that saves on memory management increases battery life more than actual battery improvements.
+Battery technology develops relatively slowly compared to the things it tends to power. Typically, better [software programming](cs-software.md) that saves on memory management increases battery life more than actual battery improvements.
 
 Batteries are *very* versatile, and can serve to benefit a household by preparing for a [short-term disaster](hardship-disaster-2_long-stay.md), glean energy from an engine's movement, or be quickly and easily manufactured as a replaceable supply material for small-scale electrical needs.
 

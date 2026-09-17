@@ -160,7 +160,7 @@ Learn to navigate only by sight, landmarks, and the sky.
 
 [Predict the weather](science-earth-weather.md) without any technology.
 
-Use an advanced [text editor](computers-software-ide.md) like vim.
+Use an advanced [text editor](cs-software-ide.md) like vim.
 
 Learn to swim, or learn new strokes.
 

@@ -1,7 +1,11 @@
 
 # Terms and Conditions
 
-NOTE: These are my terms and conditions to demonstrate several points at once:
+Last updated: September 15, 2026
+
+## Non-Binding Premable
+
+These are my terms and conditions to demonstrate several points at once:
 
 1. I want to be [legally safe](legal-safety.md) as a service provider and essayist.
 2. I wish to [educate](education.md) people on how straightforward legality can be when parsed correctly.
@@ -16,11 +20,9 @@ Please also consult related policies of service providers I use:
 
 If you wish to take any action, you must contact me first about any discrepancies between these terms and that policy, and give me enough time to take timely action.
 
-Last updated: August 2, 2025
-
 ## Interpretation
 
-When the word's initial letter is capitalized, the word is underlined, and is not part of a hyperlink, that word has a meaning defined under the following conditions. The word will be the same meaning whether it is expressed as singular or plural.
+When the word's initial letter is capitalized, that word has a meaning defined under the following conditions. The word will be the same meaning whether it is expressed as singular or plural. Nothing in this document is binding whatsoever if this Interpretation section is not included.
 
 For the purposes of all following agreements:
 
@@ -43,7 +45,7 @@ For the purposes of all following agreements:
 - **Personal Data** is any information that relates to an identified or identifiable individual.
 - **Service** refers to several possible objects (also referred to as "Application" or "Website"):
   - A software program provided by Me downloaded by You to a Device. This can be directly through <https://stucky.tech/creations>, one of My created websites, or a Third-Party Service such as an app store or online software repository.
-  - A website directly accessible from <https://stucky.tech/creations>. This does not include links to Content that is not exclusively My property (for example, advertisements) or any Third-Party Services. These websites include, but are not limited to: <https://adequate.life>, <https://gainedin.site>, <https://theologos.site>, <https://entertaining.space>, <https://notageni.us>, and <https://trendless.tech>.
+  - A website directly accessible from <https://stucky.tech/creations>. These websites include with their subdomains, but are not limited to: <https://adequate.life>, <https://gainedin.site>, <https://theologos.site>, <https://entertaining.space>. This does not include links to Content that is not exclusively My property (for example, advertisements) or any Third-Party Services.
 - **Service Provider** means any natural or legal person who processes the data on behalf of Me. It refers to third-party companies or individuals employed by Me to:
   - To facilitate the Service.
   - To provide the Service on behalf of Me.
@@ -62,7 +64,7 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 
 By accessing or using the Service You agree to be bound by these Terms. If You disagree with any part of these Terms, You may not access the Service, though you are free to contact me under the Contact Me section to dispute these Terms.
 
-By using the Service, You represent that you are over the age of consent. I do not permit those under the age of consent to use the Service, though I am under no legal obligation or capacity to enforce it, except when otherwise required explicitly by applicable law.
+By using the Service, You represent that you are over the age of consent. I do not permit those under the age of consent to use the Service, though I am under no legal obligation or capacity to enforce it, except when otherwise required explicitly and by applicable law backed by the United States Constitution.
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the [Privacy Policy](terms-privacy.md) section of this Agreement. [My Privacy Policy section](terms-privacy.md) describes My policies and procedures on the collection, use and disclosure of Your Personal Data when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -78,10 +80,12 @@ This Agreement may have been translated if I have made them available to You on 
 
 I have licensed, not sold, the Service to You for use strictly in accordance with the terms of this Agreement. The content and trademarks on my Services, unless otherwise noted, are My exclusive intellectual property. I grant You a revocable, non-exclusive, non-transferable, limited license to download, install and use the Service strictly in accordance with the terms of this Agreement.
 
-The license that I have granted You for the Service is dependent upon your purpose for your activity:
+The license that I have granted You for the Service is dependent upon whether it is computer code, and your purpose for your activity:
 
-1. Your personal, non-commercial purposes: for non-commercial purposes, Your use is bound by the Creative Commons [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license. You are free to reuse, republish, and reprint its content (examples include archiving, web scraping, and modifying it). This includes decrypting, reverse compiling, and reverse engineering any of My software.
-2. Your personal, commercial purposes: for commercial purposes, Your use is bound by the Creative Commons [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You are free to reuse, republish, and reprint its content (examples include archiving, web scraping, and modifying it), but You must honor additional limits:
+1. All forms of usage for any computer code where you have received direct written consent: for all usage with my consent, you are bound by the [3-Clause BSD License](https://opensource.org/license/BSD-3-clause).
+2. All forms of usage for any computer code where you have not received written consent by Me: for all usage without My consent, you are bound by the GNU [General Public License, or GPL](https://www.gnu.org/licenses/gpl-3.0.en.html).
+3. Your personal, non-commercial purposes for anything that is not computer code: for non-commercial purposes, Your use is bound by the Creative Commons [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license. You are free to reuse, republish, and reprint its content (examples include archiving, web scraping, and modifying it). This includes decrypting, reverse compiling, and reverse engineering any of My software.
+4. Your personal, commercial purposes for anything that is not computer code: for commercial purposes, Your use is bound by the Creative Commons [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). You are free to reuse, republish, and reprint its content (examples include archiving, web scraping, and modifying it), but You must honor additional limits:
    1. You must attribute Me as the original creator of the work. I prefer receiving written consent first and consider it ethical, but do not require it.
    2. You must provide the same CC BY-SA license upon your work to permit others to do the same.
    3. You are not permitted to decrypt, reverse compile, or reverse engineer My software without My express permission. Please contact Me if you wish to do so.
@@ -91,6 +95,8 @@ The license that I have granted You for the Service is dependent upon your purpo
 If I have indicated a narrower scope elsewhere, that scope supersedes the scope of this Agreement. If the work was created in the course of Performed Service to another entity, this expresses as their intellectual property rights as well as this Agreement, subject to interpretation and the situation itself.
 
 If I use any intellectual property that is not my creative work (e.g., photos, videos), that content is subject to all applicable intellectual property laws. If My content violates intellectual property law, I am required to receive a cease and desist notification via the Contact Me section before further legal action is taken.
+
+Any of these licenses can be superseded by a specific agreement You and I make in good faith.
 
 ## Fair Use Disclaimer
 
@@ -160,7 +166,7 @@ The information contained on the Service is for general educational and informat
   - Investment advice from a FINRA-approved financial advisor.
 - The information is also not intended to incite an insurrection or otherwise create any political unrest.
 
-Should you decide to act on any information on the Service, You do so at Your own risk.
+Should you decide to act on any information on the Service, You do so at Your own risk. The Service is provided without Warranty in perpetuity, and this condition applies to the Service's use by all other parties.
 
 I will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by the Service or the contents of the Service. This exemption of liability will apply for all consequential, special or similar damages arising out of or in connection with Your access, use, or inability to access or use the Service or its contents. This exemption of liability applies whether in an action of contract, negligence or other tort, even if advised of the possibility of such damages.
 

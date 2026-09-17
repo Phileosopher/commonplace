@@ -57,6 +57,8 @@ Faith - Intellectual belief along with relational trust or commitment, a direct 
 
 Father - the Person of the Godhead who is omniscient and omnipotent
 
+Felix culpa - "blessed fall", the view that God has allowed sin to have a collectively positive benefit on humanity
+
 Futurism - The eschatological view that God's prophecies, especially in John's Revelation, will happen in the future
 
 Gap creationism - An Old Earth creationism view that there were distinct gaps between each "day" in Genesis

@@ -12,7 +12,7 @@ Throughout all good design, a few traits perpetually resonate:
 3. Things to do and things that happen are readily visible.
 4. There are obvious associations between action and purpose.
 5. Both natural and artificial constraints are intentionally exploited as a [type of power](power-types.md) (rather than as a hindrance or challenge).
-6. When all else fails, creates [standards](standards-computers.md) to nail things down.
+6. When all else fails, creates [standards](cs-standards.md) to nail things down.
 
 We tend to need both order and variety. Too much [order](mind-understanding-certainty.md) feels boring and oppressive, while too much [variety](people-changes.md) feels chaotic and unpleasant. While the definitions are *very* distinctive, the balance resonates within all design.
 
@@ -95,7 +95,7 @@ Choice overload can be a very frequent problem, and every [decision](mind-decisi
 3. Avoid *any* unnecessary friction which could make decision-making more difficult for the user.
    - Make categories as meaningful as possible for the customer.
    - When a decision is likely, pre-select for them to allow them more convenience.
-   - Personalize the experience for them, but not so much that they [feel their privacy was violated](computers-bigtech.md).
+   - Personalize the experience for them, but not so much that they [feel their privacy was violated](cs-bigtech.md).
 4. Delay optional or difficult tasks.
    - Remove the least-selected items completely, especially when there's no distinctive difference between elements.
 
@@ -106,7 +106,7 @@ The easiest way to figure out what the design communicates is to squint your eye
 One of the most important components of design is to give reliable, rapid feedback.
 
 - The user *must* know their action mattered, or what they should have done instead.
-- The best way to give feedback is with constraints, such as graying out or concealing a button, locking off something mechanically, or limiting permissible [text input](computers-keyboard.md) into a textbox.
+- The best way to give feedback is with constraints, such as graying out or concealing a button, locking off something mechanically, or limiting permissible [text input](cs-keyboard.md) into a textbox.
 
 UX doesn't only apply to visual elements:
 
@@ -125,7 +125,7 @@ In the absence of being able to reliably communicate, [documentation](language-w
 
 Make sure to record the documentation *before* wrapping up the project or closing everything in. After the concrete has hardened, the software has been compiled, the network is live, and the engineers have left, there should be plenty of information to indicate how everything works inside.
 
-If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](computers-networks.md)), make sure the content is legible:
+If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](cs-networks.md)), make sure the content is legible:
 
 - Avoid using similar symbols (e.g., S vs. 5).
 - Group the elements out with standardized characters (e.g., 513-424-0945, 8/192.168.0.1).

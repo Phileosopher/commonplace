@@ -45,6 +45,8 @@ Benford's Law of Controversy - [Passion](mind-feelings.md) and available [inform
 
 Diminishing Intent Law - If someone doesn't act quickly with an idea, the idea will be lost.
 
+First Principles Basis - We understand things better when we break a complex problem into basic blocks.
+
 Hume's Law - No statement of "what is" can ever describe "what ought to be".
 
 Kidlin's Law - Writing down a problem clearly and specifically solves half of it.
@@ -77,7 +79,7 @@ Seer-Sucker Theory - No matter how much evidence shows that prophets/seers are l
 
 Serial Position Effect - People more easily remember the first and last things in a series.
 
-Tesler's Law of Conservation of Complexity - Everything has a certain amount of complexity that you can't remove.
+Tesler's Law of Conservation of Complexity - Everything has a certain amount of complexity that you can't remove, and making it simpler only makes it more complicated.
 
 Tobler's First Law of Geography - Everything is related to everything else, about as much as they're close to each other.
 
@@ -117,11 +119,13 @@ Frankl's Inverse Law - When someone can't find a deep sense of meaning, they dis
 
 Gérson's Law - The most advantageous decision will disregard [ethics](morality.md).
 
+Gilb's Law - Even a lousy measurement is better than no measurement, the opposite reality contrasting Goodhart's Law.
+
 Gilbert's Law - The person who decides to perform a task is always responsible to find the best way to accomplish it.
 
 Goal-Gradient Effect - The closer someone is to a goal, the faster they approach it.
 
-Goodhart's Law / Perverse Incentive / McNamara Fallacy / Cobra Effect - When a goal becomes a measurement, that measurement isn't a good goal anymore.
+Goodhart's Law / Perverse Incentive / McNamara Fallacy / Cobra Effect - When a goal becomes a measurement, that measurement isn't a good goal anymore, the opposite reality contrasting Gilb's Law.
 
 Jakob's Law - When people interact with something, they treat it like other things they're familiar with.
 

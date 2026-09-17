@@ -7,7 +7,7 @@ The world of computer work is *very* broad, even without including hardware-base
 
 All the rules of [setting goals for job-hunting](jobs-1_why.md) apply: know what you want, have a plan, make long-term goals.
 
-However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](people-trends.md). Aiming for front-end [web development](computers-sofware-webdev.md) is a mostly different set of technologies and skills than developing [games](computers-software-gamedev.md) or building [hardware](computers-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
+However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](people-trends.md). Aiming for front-end [web development](cs-sofware-webdev.md) is a mostly different set of technologies and skills than developing [games](cs-software-gamedev.md) or building [hardware](cs-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
 
 There are [a very large range of roles to choose from](jobs-cs-list.md).
 
@@ -20,7 +20,7 @@ You might want to crawl into an unimportant role somewhere to pursue [what you *
 
 The most important thing (tied closely to your [personality](people-personality.md)) is *enjoying* the work:
 
-- Most hardware/software diagnostics require knowing how to [resolve problems](fix-cs.md) with existing solutions. If you like following instructions to make customers happy, it's a great match for you.
+- Most hardware/software diagnostics require knowing how to [resolve problems](cs-fix.md) with existing solutions. If you like following instructions to make customers happy, it's a great match for you.
 - For software development, you *must* love doing very hard logic puzzles alone in front of a computer for many hours. Try playing programming-based games (e.g., Spacechem, Factorio) to see if you can do it for fun.
 - If you don't like programming, the tech industry still has many support roles, but you still should understand the intricacies of [how computers work](computers.md) to function well in the industry.
 
@@ -35,12 +35,12 @@ Not all technologies give equal opportunities:
 - Using *ancient* languages (like Lisp or COBOL) is highly valuable for specific roles and "[soft understanding](https://trendless.tech/primitives/)", but there aren't many jobs for them.
 - Try to avoid dying stars (like Perl and Objective-C) unless you have something very specific in mind, since you'll have to learn new "syntax" later as it becomes more niche-focused over time.
 - Established old giants like Java and C++ won't go anywhere, but they're not as interesting as newer languages. They're best for job security, but they don't receive the [creative](mind-creativity.md) improvements other languages may receive.
-- Novel languages are *constantly* getting made (and you could even [make your own](computers-languages.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](computers-programming.md).
-- Some roles are *highly* technical, but don't pay as well (e.g., [hardware engineering](computers-cpu.md)). Others aren't *nearly* as technical, but can pay very well for the work you're doing (e.g., [UX](engineering-design.md)).
+- Novel languages are *constantly* getting made (and you could even [make your own](cs-langs.md)), but you'll be learning a *lot* of them. Thankfully, there's [overlap](cs-langs.md).
+- Some roles are *highly* technical, but don't pay as well (e.g., [hardware engineering](cs-cpu.md)). Others aren't *nearly* as technical, but can pay very well for the work you're doing (e.g., [UX](engineering-design.md)).
 
 The breadth of what you must know varies on the type of work you're performing:
 
-- A vast majority of software roles are 1-skill roles, where you must know how to program in a [specific language](computers-languages.md) mixed with "implementations" of that language.
+- A vast majority of software roles are 1-skill roles, where you must know how to program in a [specific language](cs-langs.md) mixed with "implementations" of that language.
 - Hardware roles often require more variety to accommodate the various types of hardware you'll encounter, though hardware engineering can be deeply specific.\
 - Most social roles require [social skills](people-3_respect.md) alongside the technical skills.
 - Senior-level work often requires a more varied set of skills, since it's both social and technical.
@@ -48,13 +48,13 @@ The breadth of what you must know varies on the type of work you're performing:
 There's also a trust factor worth considering in hunting for a role.
 
 - Generally, you'll want to get an entry-level job in just about any role connected to what you want, then work from there.
-- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](mind-trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](computers-programming.md).
+- Contrary to any online video, you can*not* get into a six-figure job without prior experience, especially in a [trust-based](mind-trust.md) domain such as [cybersecurity](safety-security.md) or [full-stack development](cs-langs.md).
 
 ## Start Learning
 
 There are *tons* of guides to learn any given technology, and most of them are free. Many of them cost a few thousand dollars. If your [personality](people-personality.md) is self-starting enough, free courses like [freeCodeCamp](http://freecodecamp.org/) will give you the same quality educational experience.
 
-Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](computers-programming.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
+Over time, you'll be able to consult a "tech stack" for most issues, which is a story you'll keep adding to. As long as your [coding skills](cs-langs.md) keep expanding, your [success](success-1_why.md) will transition through a general trade-based pattern:
 
 ### 1. Coder
 
@@ -64,7 +64,7 @@ Hobbyist programmer, probably not getting paid.
 ### 2. Junior Developer
 
 <1 year as a professional software developer, still learning how to get things done.
-"I'm still not sure about all the [debugging](computers-software-redesign.md) tools yet."
+"I'm still not sure about all the [debugging](cs-software-redesign.md) tools yet."
 
 ### 3. Intermediate Developer
 
@@ -79,7 +79,7 @@ Very skilled and knowledgeable where others tend to ask them for advice, and is 
 ### 5. Lead Developer
 
 Has a clear enough understanding of how everything works that they communicate with other business units.
-"Yes, we can probably build that [API](computers-programming-features.md), but it'll take at least 2-3 months."
+"Yes, we can probably build that [API](cs-langs-features.md), but it'll take at least 2-3 months."
 
 ### 6. Tech Leader
 
@@ -100,13 +100,13 @@ There's no *end* to the certifications you could get, but either study for *exac
   - Microsoft (MCP, MCSE, etc.)
   - Amazon (AWS Certified Solutions Architect, AWS Certified Developer, etc.)
 
-If you're paying full-price, a college degree is prohibitively expensive relative to what you can learn online with free videos and courses, and the [habits](habits.md) from being a self-starter and [problem-solver](computers-software.md) are *far* more important than the [pedigree from a piece of paper](jobs-college.md).
+If you're paying full-price, a college degree is prohibitively expensive relative to what you can learn online with free videos and courses, and the [habits](habits.md) from being a self-starter and [problem-solver](cs-software.md) are *far* more important than the [pedigree from a piece of paper](jobs-college.md).
 
 It doesn't really matter which courses, certifications, or tutorials you take as much as how well you apply it. Great tech work uses intuition to sift large piles of esoteric information to accomplish a practical purpose. However, your turnaround time until you can start working can be as short as a few *months* if you're dedicated and building passionately.
 
 Unfortunately, [tech trends](people-trends.md) are *constantly* moving, so only learn what you intend to use, as you need it.
 
-One important "soft skill" specific to the tech world is detecting when certain technologies are variations of other [established technologies](people-trends.md) (e.g., machine learning, natural language processing, and deep learning are all types of [AI](computers-ai.md)). This allows you to *rapidly* attach ideas together.
+One important "soft skill" specific to the tech world is detecting when certain technologies are variations of other [established technologies](people-trends.md) (e.g., machine learning, natural language processing, and deep learning are all types of [AI](cs-ai.md)). This allows you to *rapidly* attach ideas together.
 
 Each domain has its own general software and tools. While [tech trends](people-trends.md) keep moving around and [open-source equivalents](legal-ip-floss.md) slowly take over, the core abstractions stay the same.
 
@@ -120,7 +120,7 @@ As a new initiate to tech, you're a victim of the frustration paradox (you don't
 
 Breaking into any industry is hard, but the tech industry has a few additional troubles:
 
-- Technology is an *absurdly* broad field, with very little legitimate crossover between most skills: [front-end development](engineering-graphics.md) doesn't necessarily mean someone understands how a [database](database.md) works, [machine learning](computers-ai-ml.md) skills usually won't cross over to [game development](computers-software-gamedev.md). For this reason, managers look for a *very* specific set of skills.
+- Technology is an *absurdly* broad field, with very little legitimate crossover between most skills: [front-end development](engineering-graphics.md) doesn't necessarily mean someone understands how a [database](database.md) works, [machine learning](cs-ai-ml.md) skills usually won't cross over to [game development](cs-software-gamedev.md). For this reason, managers look for a *very* specific set of skills.
 - Larger tech companies require 3 [dialogue-based interviews](jobs-5_interview.md) for most software development roles, and *one* interview is already an inherently stressful experience. Further, [technical interviews](jobs-5_interview-technical.md) are a harrowing experience unique to the software industry.
 - Most managers in most tech companies simply aren't willing to invest the energy and time into a junior developer, so you're *very* low-demand, even if 1-2 years of experience would make them climb over themselves to get you on their team.
 
@@ -137,7 +137,7 @@ Carefully consider where you apply:
 
 Finally, take *any* offer you get. You can reconsider your career again in 6 months when you're more experienced and know what to watch for.
 
-One myth that needs debunking: [AI](computers-ai.md) will *not* replace the software developer. It may make the programmer's life easier, but [the original aspects of human creativity](mind-creativity.md) are impossible to replicate with machine learning.
+One myth that needs debunking: [AI](cs-ai.md) will *not* replace the software developer. It may make the programmer's life easier, but [the original aspects of human creativity](mind-creativity.md) are impossible to replicate with machine learning.
 
 Of course, you can always try what 1/4 of the people who learn to code do and [freelance](entrepreneur-4_freelancing.md) or build a [startup](entrepreneur-2_idea.md) to carve a path into the industry. If you're not sure if that's for you, try *working* at a startup to learn about it.
 
@@ -153,7 +153,7 @@ Get advice from a friend or family member who has tech industry experience. Or, 
 
 When you first start out, junior software development is a bit of a demotion, both in pay and status, if you have a few years of experience in something else. It's worth the sacrifice if it's something you want to do, but it might be disorienting if you're older than 25 or [in a management position](mgmt-1_why.md).
 
-The culture runoff from [Big Tech](computers-bigtech.md) corporations is *not* healthy. Many of them craft their [image](people-image-why.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on your manager.
+The culture runoff from [Big Tech](cs-bigtech.md) corporations is *not* healthy. Many of them craft their [image](people-image-why.md) and [branding](marketing.md) to foster a cult-like admiration that implies their company (and other massive companies) is the pinnacle of a rewarding career. In reality, it's basically the same thing as working for any other [large organization](groups-large.md). Some places (like Amazon) are hellscapes that bleed you dry, others (like Microsoft) are mindless product mills, and a few (like Google or Facebook) will give mixed experiences depending on your manager.
 
 No job really has permanent job security, but tech workers have *zero* stability. The constantly changing technologies and industry changes, on *top* of natural changes from the world economy and geopolitical events, mean it's unwise to expect a role (or a [workplace culture](people-culture.md) you may grow to love) will ever last more than 2-5 years.
 
@@ -174,7 +174,7 @@ Remote work has some non-negotiable benefits:
 And, naturally, remote work has downsides:
 
 - It's harder to maintain a balance between work and personal time.
-- A spotty [internet connection](computers-sofware-webdev.md) can *destroy* productivity.
+- A spotty [internet connection](cs-sofware-webdev.md) can *destroy* productivity.
 - It's *much* easier to procrastinate and not get projects done on time.
 - When you have high-maintenance family and friends (e.g., [babies](parenting-babies.md) or [children](parenting-children.md)), it's harder to stay focused.
 - You'll have a harder time [making connections](people-friends.md) with your coworkers, which may deteriorate your [quality of life](mind-feelings-happiness-focus.md) if you're not proactively finding connections elsewhere.
@@ -194,7 +194,7 @@ If you're older than 30, expect [cultural pushback](people-trends.md) wherever y
 
 Look for little niches that can be *very* lucrative. Instead of competing against 100 other people with that skill set, you'll likely only compete against 10.
 
-Of course, most of your software development skills *will* become obsolete, and it becomes tedious having to re-learn [new syntax](computers-languages.md) every year or two. Most software developers (~60%, or ~3x the average for other industries) tend to move into roles like [tech management](mgmt-1_why.md) or something else completely unrelated to software development.
+Of course, most of your software development skills *will* become obsolete, and it becomes tedious having to re-learn [new syntax](cs-langs.md) every year or two. Most software developers (~60%, or ~3x the average for other industries) tend to move into roles like [tech management](mgmt-1_why.md) or something else completely unrelated to software development.
 
 Thankfully, your experience isn't useless. One soft skill that only comes through experience is to know what you really want out of your work, which boils down to how well you prefer to be people-focused and how independent/team-based you want to be:
 

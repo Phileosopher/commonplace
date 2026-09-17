@@ -7,7 +7,7 @@ As a wave, light moves back-and-forth. If it only moved 1 time back-and-forth in
 
 As the frequency increases, the wavelength decreases. The relationship between them is directly correlated, demonstrated by the physics calculation of (wavelength x frequency = speed of light). For the sake of [engineering](engineering.md), frequency is used the most.
 
-The Doppler effect is the relative shift in frequencies due to speed differences. It also applies to other waves (e.g., [sound](computers-speakersmic.md)), and shows when sending and receiving radio signals operate at different speeds. This is essentially how radar speed guns work, where it reads the relative variance between its transmitted and received frequencies.
+The Doppler effect is the relative shift in frequencies due to speed differences. It also applies to other waves (e.g., [sound](engineering-audio.md)), and shows when sending and receiving radio signals operate at different speeds. This is essentially how radar speed guns work, where it reads the relative variance between its transmitted and received frequencies.
 
 One of the most frequently used implementations of radio is for detecting and determining distance from somewhere else, also known as "radar". Most [geolocation](logistics-navigation.md) uses multiple radio towers with variations of radar protocols to more precisely determine a device's location than simple satellite coordination.
 
@@ -50,7 +50,7 @@ Shortwave broadcasts will *always* be useful because they're often the only way 
 
 ## Wireless information
 
-One of the newest forms of wireless transmission is through the IEEE's 802.11 [standard](standards-computers.md).
+One of the newest forms of wireless transmission is through the IEEE's 802.11 [standard](cs-standards.md).
 
 At first, the transmitter/receiver configuration ("transceiver") were "single-input single-output" (SISO) with a one-at-a-time approach, but slowly became "single-user multiple-input multiple-output" (SU-MIMO) and finally became "multiple-user multiple-input multiple-output" (MU-MIMO).
 
@@ -94,14 +94,14 @@ At the same time, streaming devices needed separate standards:
 - 802.11ay is a high-data, long-distance standard for a wide variety of uses.
   - 8×8 MU-MIMO, 8.64 MHz channel bandwidth, >45 GHz bands
 
-[IoT](computers-networks.md) had to have a separate sub-GHz spectrum for their low-data long-range needs:
+[IoT](cs-networks.md) had to have a separate sub-GHz spectrum for their low-data long-range needs:
 
 - 802.11af was for Television Very High Throughput (TVHT)
   - 4×4 DL-MU-MIMO, 6/7/8 MHz channel bandwidths, <1 GHz band
 - 802.11ah is a licensing-exempt standard (meaning anyone can use it without notifying a governing authority).
   - 4×4 DL-MU-MIMO, 1/2/4/8/16 MHz channel bandwidths, <1 GHz band
 
-Furthermore, [autonomous vehicles](computers-autos.md) have *their* standards as well to accommodate continuous bandwidth:
+Furthermore, [autonomous vehicles](cs-autos.md) have *their* standards as well to accommodate continuous bandwidth:
 
 - 802.11p was Wi-Fi-based car-to-car communication to allow intelligent traffic services.
   - 1-to-1 SISO, 10 MHz channel bandwidth, 5.9 GHz band

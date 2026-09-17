@@ -4,13 +4,13 @@
 To prevent the [lawsuits](legal-safety.md) and [implicit contracts](people-contracts.md) that would derive from a natural agreement to use a software product, the software released under open-source licenses are always "as is". There is *no* promise of future performance, and the terms of use aren't certain or complete.
 
 - It means that it's the *users'* responsibility regarding use of the software, and the consequences that may come from it.
-- The same software used for completely ethical [PenTesting](computers-infosec-pentest.md) can be used for [hacking](mind-creativity-hacking.md), and [archiving data for security reasons](computers-infosec.md) will use the same software as [internet piracy](computers-distsys-p2p-torrent.md), with no legal consequences for the developer who made the software.
+- The same software used for completely ethical [PenTesting](cs-infosec-pentest.md) can be used for [hacking](mind-creativity-hacking.md), and [archiving data for security reasons](cs-infosec.md) will use the same software as [internet piracy](cs-distsys-p2p-torrent.md), with no legal consequences for the developer who made the software.
 
 For users who consume the product, most software licenses reside within the broader "end user license [agreement](people-contracts.md)", or EULA, often bundled with the software itself.
 
 There are many [licensing options](people-contracts.md) specifically for publishing open-source software:
 
-- The GNU "General Public License" ([GPL](https://www.gnu.org/licenses/)) is a very permissive license, and the source for all the other GNU licenses.
+- The GNU "General Public License" ([GPL](https://www.gnu.org/licenses/)) is a very permissive license framed by the Free Software Foundation (FSF), and the source for all the other GNU licenses.
   - It's completely copyleft/hereditary/viral.
   - You can make money off your code, but others can modify it and profit off it as well.
   - The only clarification is that it's not the original author's fault for defects that someone introduces later on.
@@ -27,8 +27,8 @@ There are many [licensing options](people-contracts.md) specifically for publish
 - The Perl Foundation's [Artistic License 2.0](https://www.perlfoundation.org/artistic-license-20.html) is completely GPL-compatible.
 - The [Apache License, version 2.0](https://www.apache.org/licenses/LICENSE-2.0) is almost the same as the GPL, but its relationship is complicated.
   - Apache-licensed software is compatible with GPLv3, but GPLv3 software does *not* work with Apachev2, mostly because Apache gives more legal constraint on warranties and indemnity.
-  - Apachev2 is better for [large-scale projects](computers-distsys-enterprise.md).
-- The Berkeley Software Distribution (BSD, a now-obsolete [Unix-like OS](computers-os-unix.md) that has been overtaken by FreeBSD) has a GPL-compatible license.
+  - Apachev2 is better for [large-scale projects](cs-distsys-enterprise.md).
+- The Berkeley Software Distribution (BSD, a now-obsolete [Unix-like OS](cs-os-unix.md) that has been overtaken by FreeBSD) has a GPL-compatible license.
   - It comes in a [2-clause](https://opensource.org/licenses/BSD-2-Clause/) or [3-clause](https://opensource.org/licenses/BSD-3-Clause) version, and that 3rd clause distinguishes whether the user must request for permission to attribute anything to the original creator.
 - [The Unlicense](https://opensource.org/license/unlicense/) and [The MIT License](https://opensource.org/licenses/MIT) are attempts to simplify GPL.
   - The standard MIT license requires another developer to require attribution to the original creator and the fact that it's MIT licensed.
@@ -54,7 +54,14 @@ There are many [licensing options](people-contracts.md) specifically for publish
 
 Without any of those licenses in place, a software developer must ask permission first before modifying, distributing, or selling any derivative work. Historically, many developers did *not* do that, but it was certainly illegal.
 
-The freedom that comes with open-source does *not* mean inherent altruism. Developers and corporations often use open-source to gain more attention to themselves, then sell closed-source software as an entirely different package, often with their open-source code inside the *closed-source* software.
+The freedom that comes with open-source [does *not* mean inherent altruism](legal-ip-floss-business.md). Developers and corporations often use open-source to gain more attention to themselves, then sell closed-source software as an entirely different package, often with their open-source code inside the *closed-source* software.
+
+As far as *making* open-source software, every developer must do the following:
+
+1. If necessary, secure themselves against other interested parties (like their employer) with a copyright waiver to specify the license.
+2. Add a copyright notice to each file.
+3. Add a file called COPYING with the full license text to the software.
+4. Add a reference to the license in each file.
 
 In general, to summarize:
 
@@ -62,7 +69,7 @@ In general, to summarize:
 - If you want complete freedom for everyone, but don't want anyone to make money off the code directly, use the GPL or MIT License.
 - If you want complete freedom for developers to use your code beyond the "free" space, use the LGPL.
 - If you want complete freedom for anyone to use it in any way they please, use the BSD License.
-- If it's a [large-scale project](computers-distsys-enterprise.md), use the Apache license.
+- If it's a [large-scale project](cs-distsys-enterprise.md), use the Apache license.
 
 Many times, specific enforcement for licenses require lots of legal fees, which is why most open-source developers will often need [not-for-profit organizations](mgmt-npo.md) to back them.
 

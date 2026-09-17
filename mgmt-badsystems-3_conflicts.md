@@ -26,7 +26,7 @@ Smaller groups *do* have [options to fight back](people-conflicts-war-why.md), b
 A select few individuals can take a large-scale [social risk](entrepreneur-why.md) against the bad system's purposes. By answering one of the bad system's [stated](people-image-why.md) [purposes](purpose.md) more effectively using recently developed [technology](technology.md) or [cross-cultural](people-culture.md) [understanding](mind-understanding.md), that person can start a [trend](people-trends.md) that can unseat the current leaders' [power](power.md):
 
 - North American colonists [fought](people-conflicts-war-why.md) and won against the British Empire by using Native Americans' guerilla warfare tactics.
-- [Microsoft](computers-os-windows.md) sold a non-exclusive license to IBM, meaning other hardware companies could sell Microsoft software on cheaper hardware.
+- [Microsoft](cs-os-windows.md) sold a non-exclusive license to IBM, meaning other hardware companies could sell Microsoft software on cheaper hardware.
 - [Military tactics](people-conflicts-war-why.md) *always* shift when a new [technology](technology.md) makes transporting things quicker or [safer](safety.md).
 
 It's worth noting that the likelihood of any one of the smaller groups succeeding is infinitesimal. However, with enough of the hundreds or thousands of efforts, *someone* will succeed at their [risk-taking](entrepreneur-why.md).

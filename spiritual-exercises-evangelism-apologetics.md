@@ -77,5 +77,5 @@ Do *not* let yourself fall into a rhetorical trap.
 There are definitely approaches to specific value systems:
 
 - [Islam](spiritual-exercises-evangelism-apologetics-islam.md)
-- Atheism, both about [God](god-proof.md) and [the Bible](bible-proof.md)
+- [Atheism](spiritual-exercises-evangelism-apologetics-atheism.md), both about [God](god-proof.md) and [the Bible](bible-proof.md)
 - [Pantheism](spiritual-exercises-evangelism-apologetics-pantheism.md)

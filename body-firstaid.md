@@ -320,10 +320,37 @@ Drink plenty of water to prevent dehydration.
 
 Treat the burns to help them heal faster:
 
-- Gently rub the burns with vinegar
-- Apply Right Guard men's spray-on deodorant
-- Apply aloe vera plant sap or freeze it into aloe vera ice cubes
-- Rub Earl Grey tea bags into it
+- Gently apply any of a variety of things:
+  - Vinegar
+  - Aloe vera plant sap (or freeze into aloe vera ice cubes)
+  - Earl Grey tea bags
+  - Honey (a thin layer)
+  - Coconut oil
+  - Baking soda mixed with water to create a paste
+  - Right Guard men's spray-on deodorant
+  - Essential oils:
+    - Lavender
+    - Roman chamomile
+    - Melaleuca
+    - Plantain-infused oil
+- Soak in an oatmeal bath:
+  1. Put two handfuls of plain oats in an old sock or cloth bag, then wet thoroughly.
+  2. Squeeze the milky liquid into bath water.
+  3. Soak in the bath for 15-20 minutes.
+- Soak in a milk bath
+
+After a burn, stay hydrated:
+
+- Take an electrolyte mix.
+- Eat high-water fruits and vegetables:
+  - Celery
+  - Citrus
+  - Cucumbers
+  - Lettuce
+  - Strawberries
+  - Tomatoes
+  - Watermelon
+  - Zucchini
 
 For severe burns:
 

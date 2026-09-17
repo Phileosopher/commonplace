@@ -41,6 +41,13 @@ Many times, they'll disrespect and violate boundaries, but then use language to 
 
 ## How to mitigate the damage
 
+By the time you've noticed any damage, they've likely already partially destroyed your [reputation](people-image.md).
+
+- They will describe your character to others, but without specific information (e.g., unstable, dramatic, violent)
+  - To gain credibility, predicting your reaction before you have one (e.g., he's going to freak out, she'll deny everything, he'll make himself the victim)
+- This will mean people who don't know you that well will react to a false version of you (and with less [good faith](https://gainedin.site/good-faith/) than would be appropriate).
+- The easiest way to detect this is through them behaving in a guarded way against you.
+
 You stop them abruptly by not reacting to their chaos.
 
 - Further, your ability to openly communicate with others will also shield *others* from being drawn into the narcissist's chaos.

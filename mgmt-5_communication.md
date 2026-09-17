@@ -91,8 +91,8 @@ In particular, [meetings](mgmt-5_communication-meetings.md) require their own se
 The [general rules for writing emails](language-writing.md) apply, but are magnified from how many emails managers have to send.
 
 - Typically, a 45-second phone call or voicemail message is *much* more effective at delivering any urgent information.
-- Email is *not* [secure](computers-infosec.md), so never send critical or sensitive information with it.
-  - If you must send important information over the internet, reference a different system that's more secure (e.g., [cloud storage](computers-distsys-cloud.md)).
+- Email is *not* [secure](cs-infosec.md), so never send critical or sensitive information with it.
+  - If you must send important information over the internet, reference a different system that's more secure (e.g., [cloud storage](cs-distsys-cloud.md)).
 
 To make it easier for everyone, have all the emails searchable by *all* the members in a centralized database.
 
@@ -352,9 +352,9 @@ Making procedures themselves is an ongoing process of [technical documentation](
 
 ### Communicating with technology
 
-Computers, by their nature, are *highly* ordered. While this can be very convenient (and [scalable](computers-distsys.md)), it represents an inhumanity that's the exact *opposite* of [what nature provides](reality.md).
+Computers, by their nature, are *highly* ordered. While this can be very convenient (and [scalable](cs-distsys.md)), it represents an inhumanity that's the exact *opposite* of [what nature provides](reality.md).
 
-Thus, while [well-designed systems](computers-software.md) can satisfy 90% of everyone's needs (or 95% with [clever design](engineering-design.md), or 99% in the case of [AI implementations](computers-ai.md)), there must be a redundant fallback that *isn't* a computer.
+Thus, while [well-designed systems](cs-software.md) can satisfy 90% of everyone's needs (or 95% with [clever design](engineering-design.md), or 99% in the case of [AI implementations](cs-ai.md)), there must be a redundant fallback that *isn't* a computer.
 
 Without any fallback, the system will slowly devolve into yet another Big Tech system, with minimal [customer service](people-customerservice.md) and new [tech startups](entrepreneur-1_what.md) that will attempt to fill the gap with more technology.
 

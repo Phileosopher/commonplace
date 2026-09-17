@@ -35,6 +35,11 @@ If you have children in the situation, you *must* avoid mixing them further into
 
 - The older a child experiences parental separation, the harder they'll take it.
 
+Contrary to popular opinion, divorce itself is *not* the determining factor for how well children handle life later.
+
+- The key detail is how the children observe their parents [dealing with conflict](people-conflicts.md).
+- The scope of divorce simply happens to be with people who are fundamentally [awful at handling conflicts](people-conflicts-bad.md).
+
 The situation is between you and your spouse, so explicitly and constantly clarify a few things:
 
 1. It's not their fault in any way.

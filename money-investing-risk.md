@@ -20,7 +20,7 @@ People don't tend to consider their risks *not* connected with loss, which means
 - Prices move overnight, and there might not be enough time to exit illiquid positions.
 - Rules change, and things might become illegal.
 - Rules change, and financial institutions/brokers may no longer invest in an asset from [breaking news](stories-storytellers.md).
-- People make typographical errors, and computer code that runs the transactions themselves sometimes has [bugs](computers-software-redesign.md).
+- People make typographical errors, and computer code that runs the transactions themselves sometimes has [bugs](cs-software-redesign.md).
 
 Loss and risk are a natural and mostly uncontrollable part of investing, so your ability to *not* react to it determines your financial state.
 
@@ -416,7 +416,7 @@ The most frequent indicator of fraud is promising high return with low risk.
 The best way to avoid scams is to educate yourself thoroughly before committing to anything.
 
 - Before speaking details with any investment advisor, make sure they have FINRA oversight.
-- Practice [healthy cybersecurity](computers-infosec.md) with all your computers, *before* logging into your investments, and make sure you're at the right website.
+- Practice [healthy cybersecurity](cs-infosec.md) with all your computers, *before* logging into your investments, and make sure you're at the right website.
 - Don't trust someone who just because you're connected on social media.
 
 Avoid bad investing strategies and philosophies.
@@ -456,7 +456,7 @@ Lottery tickets aren't an investment.
 
 Brokered mortgage notes are necessary when banks refuse to lend to that person.
 
-[Blockchain](computers-blockchain.md) is a unique commodity of [encrypted](encryption.md), solved [math](math.md) problems.
+[Blockchain](cs-blockchain.md) is a unique commodity of [encrypted](encryption.md), solved [math](math.md) problems.
 
 - Blockchain implementations are largely unregulated and have little legitimate government-recognized value.
 - Avoid blockchain for long-term investing, and be prepared to sell quickly.

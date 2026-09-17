@@ -1,7 +1,7 @@
 
 # How data structures work
 
-To store information, engineers have a variety of possible techniques to work with data in [memory](computers-memory.md).
+To store information, engineers have a variety of possible techniques to work with data in [memory](cs-memory.md).
 
 At its base, there are [data primitives](data.md). They are combined to create more elaborate structures of data.
 
@@ -34,7 +34,7 @@ Array sizes are permanently set when you first make them. Thus, you'll have to t
 
 It's usually a good idea to make bigger arrays than you think you'll need when it's a small program, but watch out if you're making something large-scale! A few dozen extra index lines can *really* add extra memory "bloat" if it's implemented 1,000,000 times!
 
-To list this information, the array stores it in an "index", which is just a numbered list. However, unlike anywhere else, because of [how bits work](computers-alu.md), the number starts at 0:
+To list this information, the array stores it in an "index", which is just a numbered list. However, unlike anywhere else, because of [how bits work](cs-alu.md), the number starts at 0:
 
 - [0] Item A
 - [1] Item B
@@ -47,7 +47,7 @@ Arrays can only hold one type, so they often must be defined beforehand, such as
 
 Since you can do something over and over in an array (such as pull data from index 0, then index 1, and so on), arrays are known as "iterable".
 
-Arrays can be sorted by some other value (such as alphabetical or numerical order) or unsorted. Generally, [searching algorithms](computers-programming-algorithms.md) work much faster on sorted data.
+Arrays can be sorted by some other value (such as alphabetical or numerical order) or unsorted. Generally, [searching algorithms](cs-langs-algorithms.md) work much faster on sorted data.
 
 ### Records
 
@@ -77,7 +77,7 @@ A list doesn't need to have the same data types in it.
 
 Lists aren't ideal for data processing, since working with various types of data can create issues. A list of words and numbers, for example, would return errors on the words, or would treat the numbers as if they were text.
 
-If you use an [algorithm](computers-programming-algorithms.md), you can make the list "sorted", which makes it workable. Otherwise, it's simply an "unsorted list".
+If you use an [algorithm](cs-langs-algorithms.md), you can make the list "sorted", which makes it workable. Otherwise, it's simply an "unsorted list".
 
 If you put the list with references at the end to other locations (instead of setting it in the same place in memory), you can create a "linked list".
 
@@ -119,7 +119,7 @@ The implication of this is vast. It means that you can store an unlimited amount
 
 ### Hash-based structures
 
-By using various [cryptographic techniques](encryption.md), you can add many layers of complexity to a data structure with hashes. This is often for [data security](computers-infosec.md).
+By using various [cryptographic techniques](encryption.md), you can add many layers of complexity to a data structure with hashes. This is often for [data security](cs-infosec.md).
 
 One frequent hash-based data structure is a Merkle Tree:
 

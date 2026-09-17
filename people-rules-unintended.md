@@ -416,6 +416,6 @@ Dirty jet fuel (2023)
 Search dominance (2024)
 
 1. Google's search dominance was being challenged by ChatGPT.
-2. Google developed a [machine learning model](computers-ai-ml.md) that would give summaries of Google search queries off the internet.
+2. Google developed a [machine learning model](cs-ai-ml.md) that would give summaries of Google search queries off the internet.
 3. Machine learning isn't intelligent, and only uses the training data it receives.
 4. Google's model made false statements off the internet as if they were fact such as Barack Obama being Muslim, how to cook with gasoline, eating rocks, and adding glue to pizza.

@@ -27,7 +27,7 @@ It requires specific goals from the very beginning.
 - It works on hard deadlines and treats every task as "final".
 - Any failures from previous process steps roll into later process tasks.
 
-This system doesn't handle unexpected problems very well.
+This system doesn't handle unexpected problems very well, but is great for when you need clear documentation and lots of control.
 
 ### V-Model
 
@@ -58,7 +58,7 @@ One of the downsides of the system is that on the individual level the entire pr
 
 ## Agile methodology
 
-The original idea was from [software development](computers-programming.md), where the goals and possible risks aren't always easy to understand.
+The original idea was from [software development](cs-langs.md), where the goals and possible risks aren't always easy to understand.
 
 - The system revises every development stage as the situation changes.
 

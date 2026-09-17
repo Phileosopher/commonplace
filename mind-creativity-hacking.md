@@ -6,7 +6,7 @@ Specifically with computers, the word "hack" has a few specific meanings:
 1. Illegally gain access to a computer system.
 2. Improvise a solution to a hardware/software limitation, often implied as a [creative](mind-creativity.md) solution.
 
-Hacking has gotten a bad name, partly due to the cultural implications of the first definition. Both [malware](computers-infosec-cysec-malware.md) and [social engineering](computers-infosec-socialengineering.md) can serve to completely destroy society by some of the most intelligent and immoral individuals, and the large-scale [fear](mind-feelings-fear.md) (often advanced *by* the hackers themselves) means most people are typically uneducated about the positive side of that brilliance.
+Hacking has gotten a bad name, partly due to the cultural implications of the first definition. Both [malware](cs-infosec-cysec-malware.md) and [social engineering](cs-infosec-socialengineering.md) can serve to completely destroy society by some of the most intelligent and immoral individuals, and the large-scale [fear](mind-feelings-fear.md) (often advanced *by* the hackers themselves) means most people are typically uneducated about the positive side of that brilliance.
 
 Historically, modern hacker culture was inspired by a child playing with a toy whistle from a Cap'n Crunch cereal box that produced a 2600-Hz tone. He figured out that it was the same tone that accessed AT&T's phone network, and was able to get free long distance calls with it. It developed a culture of "phone phreaks", who developed a cottage industry of "blue boxes" that reproduced the whistle's tone for a short time.
 
@@ -36,7 +36,7 @@ Hacks can come from a *wide* moral spectrum of motivations, ranging from good ("
 
 But, from the public's perspective, there are 3 major classes of hacker:
 
-1. Observe and Exploit - building and destroying with [terminals](computers-cli.md) and [code](computers-programming.md), often includes [PenTesters](computers-infosec-pentest.md).
+1. Observe and Exploit - building and destroying with [terminals](cs-cli.md) and [code](cs-langs.md), often includes [PenTesters](cs-infosec-pentest.md).
 2. Unconventional [Fixing](https://adequate.life/fix/) - typically an [engineering](engineering.md) solution that either transforms mundane objects into clever fixes or fixes problems most people have blindly accepted [habitually](habits.md).
 3. New Perspectives - building mind-bending experiences that redefine how we see reality, typically only attainable by a [genius savant](mind-neurodivergence-autism.md).
 
@@ -100,7 +100,7 @@ Saving money:
 
 Adding features:
 
-- [surfsonar](https://foobarbecue.github.io/surfsonar/): embedding sonar into a surfboard with a [Raspberry Pi](computers-embedded.md)
+- [surfsonar](https://foobarbecue.github.io/surfsonar/): embedding sonar into a surfboard with a [Raspberry Pi](cs-embedded.md)
 - [HomeMirror](https://github.com/HannahMitt/HomeMirror): make a programmable home mirror with an old Android cell phone
 
 Reviving old technology:
@@ -118,11 +118,11 @@ Thoughtful gestures:
 
 We *all* wonder silly things on occasion, such as "What would happen if Abraham Lincoln met Genghis Khan?" These are practical questions that hackers were legitimately able to answer.
 
-Most of the brilliant ideas on [this page](computers-fun.md) and [this page](https://entertaining.space/) *also* fit this profile.
+Most of the brilliant ideas on [this page](cs-fun.md) and [this page](https://entertaining.space/) *also* fit this profile.
 
 Breaking perceptual expectations:
 
-- [Bizarre and Unusual Uses of DNS](https://archive.fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/) - FOSDEM 2023 summarizing many ways [DNS](computers-sofware-webdev.md) has been reused
+- [Bizarre and Unusual Uses of DNS](https://archive.fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/) - FOSDEM 2023 summarizing many ways [DNS](cs-sofware-webdev.md) has been reused
 - [Zoomquilt](https://zoomquilt.org/) - an infinitely zooming image
 - [Grant Woolard](https://www.youtube.com/user/grantwoolard) - smashing unrelated songs together
 - [Adult Swim's Keith Crofford](https://www.adultswim.com/etcetera/) - mastering the art of being unsettling
@@ -139,13 +139,13 @@ Re-using old things for new purposes:
 
 - [David Irvine's Re-Directed Art](http://www.gnarledbranch.com/) - thrift store art made awesome, [also here](https://www.redbubble.com/people/gnarledbranch/) and [here as well](https://society6.com/thegnarledbranch)
 - [Turning an old Amazon Kindle into an eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/) - liberating the Kindle
-- [Receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/) - making [software debugging](computers-software-redesign.md) more physically interactive
+- [Receipt printer for GitHub issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/) - making [software debugging](cs-software-redesign.md) more physically interactive
 
 Adding purposes to existing things:
 
-- [SmartEarrings](https://peripherii.com/) - earrings that are also [headphones](computers-speakersmic.md)
-- [Nettle Magic Project](https://github.com/nettlep/magic) - cards that can be tracked instantly with a [barcode](computers-ocr.md)
-- [DNS Toys](https://www.dns.toys/) - silly ways to use the [DNS system](computers-sofware-webdev.md)
+- [SmartEarrings](https://peripherii.com/) - earrings that are also [headphones](engineering-audio.md)
+- [Nettle Magic Project](https://github.com/nettlep/magic) - cards that can be tracked instantly with a [barcode](cs-ocr.md)
+- [DNS Toys](https://www.dns.toys/) - silly ways to use the [DNS system](cs-sofware-webdev.md)
 
 [Design](engineering-design.md)/[UX](engineering-design.md):
 
@@ -166,7 +166,7 @@ Adding design to otherwise overlooked experiences:
 Changing what everyone expects to stay the same:
 
 - [Super Mail Forward](https://medium.com/emails-hteumeuleu/super-mail-forward-an-email-that-evolves-as-you-forward-it-84466596f30d) - emails that change as they're forwarded
-- [Peggi:](https://ianthehenry.com/posts/peggi/) a DIY chording [keyboard](computers-keyboard.md)
+- [Peggi:](https://ianthehenry.com/posts/peggi/) a DIY chording [keyboard](cs-keyboard.md)
 - [TOTP tokens on my wrist](https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/) - getting one-time passcodes on an old watch
 
 Reinventing for the purpose of learning:
@@ -199,11 +199,11 @@ Inventing something entirely new:
 
 - [Semaphore](https://github.com/everythingishacked/Semaphore) - typing with your entire body
 - [EEG Cat Ears](https://i2nk.co/mindwave-cat-ears) - scanning brainwaves to operate a novelty hat
-- [Haxophone](https://github.com/jcard0na/haxo-hw) - A [Raspberry Pi](computers-embedded.md) implementation that's similar, but not entirely like, a saxophone
+- [Haxophone](https://github.com/jcard0na/haxo-hw) - A [Raspberry Pi](cs-embedded.md) implementation that's similar, but not entirely like, a saxophone
 
 Thoughtful gestures:
 
-- [Yayagram](https://web.archive.org/web/20230330010530/https://twitter.com/mrcatacroquer/status/1386318806411325440) - [voice-chat](computers-speakersmic.md) out and [thermal printer](engineering-printers.md) in over Telegram
+- [Yayagram](https://web.archive.org/web/20230330010530/https://twitter.com/mrcatacroquer/status/1386318806411325440) - [voice-chat](engineering-audio.md) out and [thermal printer](engineering-printers.md) in over Telegram
 - [1990 letter from donor complaining about two false columns, discovered 2024 during demolition](https://www.theartnewspaper.com/2024/08/27/sainsbury-wing-contractors-find-1990-letter-from-donor-anticipating-their-demolition-of-false-columns)
 
 Exploring overlooked domains:

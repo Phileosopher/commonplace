@@ -46,7 +46,7 @@ However, most historical records consist of the surviving trash from the past.
 - Many times, academic and intellectual works were "purged" in wars.
 - Other times, natural disasters destroyed archives.
 - For that reason, some of the most reliable sources of information comes from trash piles, former sewage dumps, and other discarded locations.
-- Further, the poor quality of historical archives requires a *lot* of [forensic work](security-forensics.md).
+- Further, the poor quality of historical archives requires a *lot* of [forensic work](safety-security-forensics.md).
 
 ## History's relatability
 
@@ -58,7 +58,7 @@ One entertaining reality is that history is very closely connected to today's [h
 
 Another way to see history is as a completely different [culture](people-culture.md), but you know what ended up happening to them.
 
-Most ideas present in ancient cultures were nowhere near as fixed in peoples' minds as our [science-minded](https://trendless.tech/scientism/) modern thinking would lead us to believe.
+Most ideas present in ancient cultures were nowhere near as fixed in peoples' minds as our [science-minded](https://gainedin.site/scientism/) modern thinking would lead us to believe.
 
 - Very typically, they were willing to accept a [religious](religion.md) acceptance that they didn't know things.
 - Their world was far more tangible than the [Information Age](history-eras.md), so the truth and knowledge wasn't as relevant as relationships with other people.

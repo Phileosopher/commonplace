@@ -98,7 +98,7 @@ The messenger must be charming:
 - Keeps a [mystery](unknown.md) around them by omitting or hiding information, making themselves relatively scarce by comparison to others, and evoking a small amount of [fear](mind-feelings-fear.md).
 - When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](people-image-distortion.md)) enough to imply a [trend](people-trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](people-rules.md).
 
-This charm is easy to reproduce by anyone and even over [social media](computers-networks-social.md), and it evokes a type of hypnosis (which is effectively them [meditating](mind-awareness-meditation.md) on you):
+This charm is easy to reproduce by anyone and even over [social media](cs-networks-social.md), and it evokes a type of hypnosis (which is effectively them [meditating](mind-awareness-meditation.md) on you):
 
 1. Draw someone's exclusive attention to you, which will likely come through you making a request of some sort (e.g., "may I have your attention, please!").
 2. Give them many small actions to do which don't really mean anything (e.g., "turn your feet to the left now", "raise your hand").

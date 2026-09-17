@@ -1,0 +1,6 @@
+
+# The C# programming language
+
+C# is Windows' attempt to improve on Java, and has very little to do with [C](cs-langs-specific-c.md) technically (though it shares the name). Because of how easy it is to program compared to straight C, many high-end [games](cs-software-gamedev.md) are programmed in C#.
+
+It's built on the .NET framework, and its use cases are now more [Windows-leaning](cs-os-windows.md).

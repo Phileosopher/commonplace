@@ -138,7 +138,7 @@ A fund can have a group of essentially *anything* the fund manager wants, and so
 - Global X Millennials Thematic ETF (MILN) - millennial consumer habits.
 - Buzz US Sentiment Leaders ETF (BUZ) - social media's most frequently mentioned stocks.
 - ETFMG Video Game Tech ETF (GAMR) - [electronic games](0ttwip_game-dev.md).
-- AI Powered Equity ETF (AIEQ) - run by an [AI bot](computers-ai.md).
+- AI Powered Equity ETF (AIEQ) - run by an [AI bot](cs-ai.md).
 - Becky ETF - tracks white American teenage girls' consumer habits.
 - The Inverse Cramer ETF (SJIM) and The Long Cramer ETF (LJIM) - tracks everything *against* Jim Cramer's Mad Money TV show recommendations.
 
@@ -284,7 +284,7 @@ Cons:
 
 ### Currencies
 
-Any means to store or transfer wealth, including [cryptocurrency](computers-blockchain.md).
+Any means to store or transfer wealth, including [cryptocurrency](cs-blockchain.md).
 
 High risk, low-to-high returns (depending on timing), low taxes, low fees.
 
@@ -321,7 +321,7 @@ Cons:
 
 ### Web domains
 
-The URLs that could be used to [host websites](computers-sofware-webdev.md).
+The URLs that could be used to [host websites](cs-sofware-webdev.md).
 
 Medium risk, high returns, low taxes, high fees.
 

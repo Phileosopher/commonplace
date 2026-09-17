@@ -99,7 +99,7 @@ Auto insurance
 
 Crime insurance
 
-- Any identity theft protection should include *some* type of crime insurance, or it's not worth the expense compared to changing [cyber safety habits](computers-infosec.md).
+- Any identity theft protection should include *some* type of crime insurance, or it's not worth the expense compared to changing [cyber safety habits](cs-infosec.md).
 
 Disability insurance
 

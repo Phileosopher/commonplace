@@ -42,7 +42,7 @@ No matter how human you are, and no matter how well you [craft your image](peopl
 
 - Learn to [integrate your shadow](people-personality.md) and humbly understand your place in the hierarchy.
 - Being an executive is a bit like being a monarch, where everyone imagines they can do it better but don't realize the stress and limitations required within the role.
-- Executive and magisterial roles are *very* abstracted from humanity, and have more in common with a [strategy video game](computers-software-gamedev.md) than any legitimate [human connection](people-boundaries.md).
+- Executive and magisterial roles are *very* abstracted from humanity, and have more in common with a [strategy video game](cs-software-gamedev.md) than any legitimate [human connection](people-boundaries.md).
 
 From 2nd-level middle management and higher (i.e., no longer working alongside the workers), everyone quickly becomes a [data point](database.md).
 

@@ -314,7 +314,7 @@ At some point as you scale, you won't simply need tractors and labor.
   - Regulating fertilizer usage to maintain the soil
   - Accommodating for any [weather changes](science-earth-weather.md) through all of it
 - To gather data, you'll need plenty of sensors, [wireless technology](engineering-radio.md), and [GPS information](logistics-navigation.md).
-- On a more advanced level, modern farming involves high-end specialized [robotics](computers-robotics.md) that use soil data to precisely plant seeds.
+- On a more advanced level, modern farming involves high-end specialized [robotics](cs-robotics.md) that use soil data to precisely plant seeds.
 
 For large-scale farming, you do *not* need to own the land it's on, and can often lease it for much less.
 

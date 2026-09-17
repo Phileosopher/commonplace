@@ -57,10 +57,17 @@ Many treatments are *very* accessible:
 - Spend time outside in the sun 1 hour a day
 - Supplements, vitamins, and electrolytes
 
+## Don't neglect treatments if you need them
+
 Obviously, you'll need [intensive treatments](body-treatments.md) eventually (especially since we are all [on the way to death](hardship-death.md)), but it's in your interests to [live in a way that avoids them for as long as possible](body-health-habits.md).
 
 - Many people simply neglect their health entirely, especially women.
 - While many other trends may have merit (e.g., home births), they need the foundation of a healthy lifestyle to be a sufficient improvement.
+
+Modern technology can often make treatments non-invasive or low-risk.
+
+- Heart surgeries can often use a stent without needing to open the ribcage.
+- Parkinson's Disease can now be resolved with ultrasound that targets specific areas in the brain.
 
 ## Consider your age
 

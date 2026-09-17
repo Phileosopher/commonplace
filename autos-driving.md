@@ -17,7 +17,7 @@ In general, there are [engineering](engineering.md) tradeoffs for operating each
 - Better handling means more parts that are usually more expensive.
 - More fuel efficiency means less power.
 - Older vehicles are known-good, but also often rock at every bump in the road.
-- Newer vehicles often have better sound-dampening, but often have [manufacturer-designed constraints](computers-bigtech.md).
+- Newer vehicles often have better sound-dampening, but often have [manufacturer-designed constraints](cs-bigtech.md).
 
 Before driving, make sure the vehicle is [maintained](autos-maintenance.md).
 

@@ -10,6 +10,8 @@ Unfortunately, the concept is very dense for most non-mathematical minds.
 
 - People typically dive into a subject, but that subject is cumulatively built on many other subjects, and one "simplified" video tutorial can lead to 5 Wikipedia pages and 3 other videos just to even conceptualize the concept.
 
+The easiest way to write mathematical language is with LaTeX code, which creates tremendous writing power when incorporated inside a computer. Skilled writers can effective create entire formatted books and presentations with LaTeX alone.
+
 ## Complexity
 
 In the same way that language can be made infinitely complex, math can be made infinitely complex.

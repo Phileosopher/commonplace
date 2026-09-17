@@ -86,7 +86,7 @@ At the same time, pay attention to the [economy](money-economics.md).
 - Generally, you will find more job security with things that connect with [the fallen state of man](morality-evil.md):
   - Healthcare (since people [get sick](body-health.md) and [die](hardship-death.md))
   - Law enforcement and lawyers (since people [break laws](legal-crimes.md))
-  - [Security](safety-security.md) and [cybersecurity](computers-infosec.md)
+  - [Security](safety-security.md) and [cybersecurity](cs-infosec.md)
   - [Debt](money-2_debt.md) collectors
   - Social work and [mental health](mind-feelings.md) services
 

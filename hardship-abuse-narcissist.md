@@ -31,6 +31,11 @@ Staying around the abuse can be exhausting.
 - This entire experience of following their constantly shifting [image](people-image-why.md) is exhausting to maintain ("duplicity fatigue")
   - That exhaustion, sadly, is part of the manipulation mechanism for the abuser.
 
+Conceptually, narcissistic abuse can create "empathy without compassion".
+
+- Through familiarity, an abuser can emotionally identify exactly how someone else will feel, react, interpret things, or understand things, but the difference will be in their inability to feel compassion for the other person.
+- This can empower an abuser to predict their victim, then respond in a way that maximizes their suffering, and feel nothing for their victim while they do it.
+
 Even with [good boundaries](people-boundaries.md), narcissistic behavior will erode it.
 
 - This is because boundaries tend to change slowly [as we change as people](people-changes.md), so it's hard to notice.

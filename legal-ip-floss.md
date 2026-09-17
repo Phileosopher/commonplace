@@ -10,7 +10,7 @@ In many ways, developers are passively taking a type of [political stance](power
 The scope of [artistic expression](mind-creativity.md) often shines much more in open-source than closed-source.
 
 - Unless they're maintaining a critical piece of software infrastructure, developers are free to build, play, and abandon whatever they feel like.
-- These creations may even include *massive* projects such as [games](computers-software-gamedev.md), or [compilers](computers-compilers.md), [machine learning](computers-ai-ml.md), or entire [operating systems](computers-os.md).
+- These creations may even include *massive* projects such as [games](cs-software-gamedev.md), or [compilers](cs-langs-compilers.md), [machine learning](cs-ai-ml.md), or entire [operating systems](cs-os.md).
 
 ## Copyright vs. Software
 
@@ -27,17 +27,17 @@ But, unlike human minds that read ideas and interpret an approximate concept, so
 
 To that end, software licensing is *much* more constricting and specific than copyright.
 
-But, don't simply release your software to the public domain without a sufficient license, or someone else could license it (or something like it) and then sue *you*. This is [more frequent than you'd realize](computers-bigtech.md).
+But, don't simply release your software to the public domain without a sufficient license, or someone else could license it (or something like it) and then sue *you*. This is [more frequent than you'd realize](cs-bigtech.md).
 
 ## Free Use
 
-One of the major pioneers of the free software movement was Richard Stallman. He presented an extreme viewpoint of *completely* free software, embodied in the GPL (see below). There have been many personal criticisms leveled against him (mostly about his demeanor or hygiene), but most of that (along with his extreme views) can be simply explained by his [high-functioning autism](mind-neurodivergence-autism.md).
+One of the major pioneers of the free software movement was Richard Stallman. He presented an extreme viewpoint of *completely* free software, embodied in the [GPL](legal-ip-floss-licenses.md). There have been many personal criticisms leveled against him (mostly about his demeanor or hygiene), but most of that (along with his extreme views) can be simply explained by his [high-functioning autism](mind-neurodivergence-autism.md).
 
 A software's "source code" is either open or closed based on how accessible the "code base" is to the public:
 
 - Closed-source software is free for people to freely download, but the source code is at least somewhat private.
   - By contrast, open-source software is at least *somewhat* free to download, distribute, and modify.
-- Only [authorized people](computers-infosec-authentication.md) can see the inner workings of the closed-source code, which makes [fixing bugs](computers-software-redesign.md) the sole responsibility of the developer, and [exploits](mind-creativity-hacking.md) are more likely.
+- Only [authorized people](cs-infosec-authentication.md) can see the inner workings of the closed-source code, which makes [fixing bugs](cs-software-redesign.md) the sole responsibility of the developer, and [exploits](mind-creativity-hacking.md) are more likely.
 - In open-source software, anyone can see the code that creates the output (even while any [databases](database.md) and personal information are off-limits).
 
 The legal and technical freedom to use the software needs more specificity than simply "freedom":
@@ -45,7 +45,7 @@ The legal and technical freedom to use the software needs more specificity than 
 1. Freedom to run the program as you wish, for any purpose.
 2. Freedom to study the program to see how it works, and change it to do your computing as you wish. To accomplish this, you must be able to access the source code.
 3. Freedom to redistribute copies to help others.
-4. Freedom to distribute copies of *your* modified versions to others. This gives the whole community a chance to benefit from the changes.
+4. Freedom to distribute copies of *your* modified versions to others for any reason. This gives the whole community a chance to benefit from the changes.
 
 However, there are *other* freedoms that users can do, which may or may not infringe on everyone else's freedoms:
 
@@ -64,11 +64,11 @@ How freely you release your code should be driven by your motivations of what yo
 
 - If you deeply care solely about making money, releasing code to the public is a bad idea.
 - If you're trying to learn and want feedback, open-source allows others to draw attention to your failures, as well as fix them.
-- To be influential among [programmers](computers-programming.md), public code is an excellent way to create meaningful impact and influence, since others can adapt it to their needs.
+- To be influential among [programmers](cs-langs.md), public code is an excellent way to create meaningful impact and influence, since others can adapt it to their needs.
 - To [educate others](education.md), open-source is the most hands-on way to do it.
 - Sometimes, the software resolves a *major* problem you have, and mass-adoption of that software would make *your* life easier.
 
-Copyright is very constricting for others' freedom relative to [the involvement many developers want to see](computers-software-versionctrl.md), and there are other options:
+Copyright is very constricting for others' freedom relative to [the involvement many developers want to see](cs-software-versionctrl.md), and there are other options:
 
 - Public domain forbids absolutely nothing.
 - Permissive licenses forbid very little, but typically revolve around attribution.
@@ -77,9 +77,27 @@ Copyright is very constricting for others' freedom relative to [the involvement 
 
 However, the [licensing can get complicated](legal-ip-floss-licenses.md) to make this happen, and [the business models](legal-ip-floss-business.md) aren't always so straightforward.
 
+## Business advantages
+
+The business advantages for open-source outweigh the risks.
+
+Many researchers have found superior benefits:
+
+- The extra eyes on the source code from various developers makes it more [secure](cs-infosec.md).
+- The code is free to acquire.
+- The maintainer is guaranteed to be transparent, so they're held accountable [in case they do something bad](mgmt-badsystems.md).
+- The open license means the code usually works well with other systems.
+- Everything scales better.
+- The open code makes it easier to [adapt it](cs-software-versionctrl.md).
+
+The downsides are far smaller:
+
+- There's [no easy way to make money on software licenses](legal-ip-floss-business.md).
+- It's nearly impossible to [protect your ideas contained in the source code](legal-ip.md).
+
 ## Scaling
 
-When all things are equal, open-source [scales better](computers-distsys.md) for end-users.
+When all things are equal, open-source [scales better](cs-distsys.md) for end-users.
 
 - You don't need to purchase a license for each device.
 - The support is more scattered, but a sufficiently talented software developer can fix an open-source software themselves, without waiting for the company to get to it. This is *desperately* important when time is critical, such as in a [startup](entrepreneur-1_what-cs.md).
@@ -91,12 +109,12 @@ The extra complexity of larger projects means developers can mix-and-match licen
 Getting funding to be an open-source developer is *not* easy.
 
 - They typically are paid *far* less than standard [Big Tech workers](https://trendless.tech/your-job-sucks/), with some of them even at risk of [homelessness](hardship-homeless.md).
-- Most of them must either [work an unrelated job](jobs-2_goals-cs.md) or use [clever](mind-creativity.md) financing solutions (such as charging to [operate servers](computers-distsys.md) with their software) to pay the bills.
+- Most of them must either [work an unrelated job](jobs-2_goals-cs.md) or use [clever](mind-creativity.md) financing solutions (such as charging to [operate servers](cs-distsys.md) with their software) to pay the bills.
 - Eventually, if the project continues to grow, they *will* need a more direct source of funding, and should consider ways to either turn their project into an [entrepreneurial product](entrepreneur-1_what-cs.md) or give it up for others to maintain.
 
 If the developer's work was relatively easy, but depends on *other* work, then they may simply deflect all donations to those developers' efforts instead.
 
-[Large-scale](computers-distsys-enterprise.md) open-source projects require tons of resources, so developers at some point of growth *must* get funding for the project to stay continuously up-to-date:
+[Large-scale](cs-distsys-enterprise.md) open-source projects require tons of resources, so developers at some point of growth *must* get funding for the project to stay continuously up-to-date:
 
 - The developer receives contributions from other people to keep supporting his work (e.g., donation button on their website, crowdsourcing).
 - The developer or organization has to convert the product to something people pay for (see above).
@@ -106,11 +124,11 @@ If the developer's work was relatively easy, but depends on *other* work, then t
 When [larger companies](mgmt-5_communication.md) use open-source from an outside developer, they *must* be aware of the risks, and it's their responsibility to take action:
 
 - They're consenting to a weak [implicit contract](people-contracts.md), with little to no promises on either side.
-- They are adopting a copy of the software as-is, which may mean they're potentially trusting the [security](computers-infosec.md) and [reliability](computers-infosec-compliance.md) of their company's infrastructure to an overworked parent or college student.
+- They are adopting a copy of the software as-is, which may mean they're potentially trusting the [security](cs-infosec.md) and [reliability](cs-infosec-compliance.md) of their company's infrastructure to an overworked parent or college student.
 - The only way the relationship will become more mutually advantageous requires equipping the open-source developer. This may include moral support, publicity, and *always* requires funding.
 - When it works well, the users support the maintainers, and the maintainers support the users, and everyone wins.
 - When it doesn't, the developers often experience [severe hardship](hardship.md) and the project falls apart. This can be an especially tragic story because the developer will frequently toil selflessly for *years* without recognition or assistance before giving up. Other times, they're a victim of an unfortunate situation where more money to pay legal fees or medical bills could have resolved or assisted them.
-- Occasionally, a developer may completely snap and intentionally destroy their project, such as delivering an update that bricks their system, sending [malware](computers-infosec-cysec-malware.md) through their software, or deleting their codebase. This only occurs through severe mental illness, which is often (but not always) from the stress caused by a lack of [personal human support](people-friends.md).
+- Occasionally, a developer may completely snap and intentionally destroy their project, such as delivering an update that bricks their system, sending [malware](cs-infosec-cysec-malware.md) through their software, or deleting their codebase. This only occurs through severe mental illness, which is often (but not always) from the stress caused by a lack of [personal human support](people-friends.md).
 
 With all the risks associated, it's not really much of a surprise that [FLOSS creates conflicts](legal-ip-floss-conflicts.md).
 
@@ -120,19 +138,19 @@ Generally, back-end programming is designed to feed information into other softw
 
 Most people outside the tech industry don't realize it, but *how* a back-end developer licenses their software has a severe impact on the industry. In particular, GPL code leans everything toward completely public code, but can become *very* difficult to clarify where any particular code (or its derivatives) begin or end being "free".
 
-While it doesn't draw all the attention of front-end software, back-end software has more power. A closed-source back-end is essentially [how Big Tech maintains its control](computers-bigtech.md), and is the basis for most political bluster.
+While it doesn't draw all the attention of front-end software, back-end software has more power. A closed-source back-end is essentially [how Big Tech maintains its control](cs-bigtech.md), and is the basis for most political bluster.
 
-But, this back-end/front-end dichotomy [travels backward several degrees](https://trendless.tech/understanding/), and one of the most significant ways this shows itself is through the implementation of open [protocols](standards-computers.md).
+But, this back-end/front-end dichotomy [travels backward several degrees](https://trendless.tech/understanding/), and one of the most significant ways this shows itself is through the implementation of open [protocols](cs-standards.md).
 
-- Even when there are plenty of closed-source frameworks or front-end software, protocols are the farthest possible upstream system before getting to [computer hardware](computers-hardware.md).
+- Even when there are plenty of closed-source frameworks or front-end software, protocols are the farthest possible upstream system before getting to [computer hardware](cs-hardware.md).
 - The presence of an open protocol allows ambitious developers to circumvent any frameworks which may be closed off to them.
 - Many technology standards are *not* open (e.g., ISO standards), which adds a heavy financial burden that prevents innovation and reduces transparency.
 - If a hardware designer is particularly confident in what they're building, they'll make their own *hardware* standards open. Over time, this can create a tremendously loyal community, and [adoption](people-trends.md) can make it industry-standard.
 
-Beyond open software and data, one of the most popular open-source developments in [CPU design](computers-cpu.md) comes through a completely open software architecture called [RISC-V](https://riscv.org/), which superseded the open-architecture movement OpenRISC held for a while.
+Beyond open software and data, one of the most popular open-source developments in [CPU design](cs-cpu.md) comes through a completely open software architecture called [RISC-V](https://riscv.org/), which superseded the open-architecture movement OpenRISC held for a while.
 
 - You can even make it at home yourself, and it's a very appealing approach for many hardware [startups](entrepreneur-1_what-cs.md).
-- However, there are *many* other open standards that have not been created that RISC-V must rely on, such as [memory](computers-memory.md) controllers and interfaces, USB, and [PCI](computers-motherboard.md).
+- However, there are *many* other open standards that have not been created that RISC-V must rely on, such as [memory](cs-memory.md) controllers and interfaces, USB, and [PCI](cs-motherboard.md).
 
 Even when *everything* is open, distributors must stay aware of whether software or operating systems are presently compatible with their hardware. Failure to do so will result in the users being adversely affected and general dissatisfaction with the product. When it comes time to [blame someone](people-image-distortion.md), distributors [have historically been labeled at-fault for the failure](https://dont-ship.it/).
 
@@ -140,16 +158,16 @@ Even when *everything* is open, distributors must stay aware of whether software
 
 Anytime a popular closed-source version of a software becomes popular, *someone* will want to recreate an open-source version of it:
 
-- The [GNU/Linux operating system](computers-os-unix.md), as well as FreeBSD, are derived from the technically-closed-source Unix.
+- The [GNU/Linux operating system](cs-os-unix.md), as well as FreeBSD, are derived from the technically-closed-source Unix.
 - Just about every software application, including calculators and word processing, now has an open-source alternative.
-- Most [games](computers-software-gamedev.md) have been modded with open-source plugins that improve or fix the game, and the entire *codebase* of some popular games have been entirely rebuilt as open-source (e.g., Elder Scrolls games, Command & Conquer).
-- Even many [enterprise-grade software](computers-distsys-enterprise.md) have been successfully reproduced as open-source.
+- Most [games](cs-software-gamedev.md) have been modded with open-source plugins that improve or fix the game, and the entire *codebase* of some popular games have been entirely rebuilt as open-source (e.g., Elder Scrolls games, Command & Conquer).
+- Even many [enterprise-grade software](cs-distsys-enterprise.md) have been successfully reproduced as open-source.
 
 Often, when the tech-related economy starts dipping (often because [a tech trend](people-trends.md) failed spectacularly), open-source becomes less common. Gigantic open-source corporations may release projects as entirely closed-source, or create closed-source modules.
 
-At the same time, open-source is the dumping ground for anything Big Tech has to shed due to [antitrust lawsuits](politics-monopolies.md) or [company downsizing](mgmt-7_changes.md) (e.g., the history of [Linux](computers-os-unix.md)). As every large tech company [invariably fails](mgmt-badsystems.md), *something* has to maintain what it held up, and that role eventually becomes open-source if it was popular enough.
+At the same time, open-source is the dumping ground for anything Big Tech has to shed due to [antitrust lawsuits](politics-monopolies.md) or [company downsizing](mgmt-7_changes.md) (e.g., the history of [Linux](cs-os-unix.md)). As every large tech company [invariably fails](mgmt-badsystems.md), *something* has to maintain what it held up, and that role eventually becomes open-source if it was popular enough.
 
-However, since maintaining *very* old software can be tedious (especially when nobody uses it anymore), it's not too uncommon to see the discontinuance of open-source maintenance of very old hardware, similar to any other [version management issues](computers-software-versionctrl.md).
+However, since maintaining *very* old software can be tedious (especially when nobody uses it anymore), it's not too uncommon to see the discontinuance of open-source maintenance of very old hardware, similar to any other [version management issues](cs-software-versionctrl.md).
 
 ## Future FLOSS trends
 
@@ -183,7 +201,7 @@ But, the influence of open-source goes farther than its actual basis, and the co
 
 There need to always be freedom advocates willing to obsess about everyone's freedom.
 
-- Literally, every new proprietary technology needs open-source advocates to defend public use of it (e.g., [robotics](computers-robotics.md), [quantum computers](computers-quantum.md), [DNA programming](computers-biological.md)).
+- Literally, every new proprietary technology needs open-source advocates to defend public use of it (e.g., [robotics](cs-robotics.md), [quantum computers](cs-quantum.md), [DNA programming](cs-biological.md)).
 - The [degradation into a defective society](mgmt-badsystems.md) that violates [individual liberties](people-boundaries-why.md) comes through nobody taking action against those risks when they arise.
 - [Far too often](humanity-universals.md), people tend to react to the crisis *after* it has become severe, instead of facing the issues when they can be easily resolved.
 

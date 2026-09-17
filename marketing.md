@@ -277,7 +277,7 @@ The product itself can convey through multiple avenues as well:
 - Sending straight to the customer:
   - Direct through mail-order, website, or a catalog
   - Company sales staff
-  - Digital download or over the internet via [cloud service](computers-distsys-cloud.md)
+  - Digital download or over the internet via [cloud service](cs-distsys-cloud.md)
 - Sending through a third party:
   - Through a retail store
   - Through a wholesaler
@@ -331,7 +331,7 @@ Unfortunately, in our [over-information society](information.md), many marketing
    - Therefore, adding any secondary group affiliation (e.g., [political views](politics-conservativeliberal.md)) is probably adding a minority view onto a minority view.
 3. Any [newly trending](people-trends.md) additions to the product can easily deter customers.
    - Only early adopters will want the new trend, and the early majority will be skeptical until it has been proven to work.
-   - The nature of trends means the product's association with a trend will eventually alienate the *entire* majority (e.g., "[AI](computers-ai-ml.md)-enhanced").
+   - The nature of trends means the product's association with a trend will eventually alienate the *entire* majority (e.g., "[AI](cs-ai-ml.md)-enhanced").
 
 "User engagement" is the marketing industry's buzzword for [addiction](addiction.md).
 
@@ -373,7 +373,7 @@ The simplest ways to detect marketing abuse are by observing "glittering general
   - Most people on [dating](relationships-marriage.md) profiles are fun-loving, relaxed, exciting people looking for a good time.
   - Most [résumés](jobs-3_image.md) are submitted by action-focused, hard-working, team-oriented people.
   - Universities are always offering programs committed to fulfilling personal, academic, and professional goals.
-  - Every new framework for [web development](computers-sofware-webdev.md) is fast, scalable, modular, and responsive.
+  - Every new framework for [web development](cs-sofware-webdev.md) is fast, scalable, modular, and responsive.
 - Generally, a title has a certain meaning with a bestowed importance, but advancing the more positive image of a nicer title can make the title meaningless over time:
   - Cell phone plans have Unlimited, Unlimited Plus, Unlimited Forever, and Unlimited Prestige
   - A member can be Platinum, Platinum Plus, or Platinum Blue.

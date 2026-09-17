@@ -177,7 +177,7 @@ Within only five years, a new dialect can emerge, and fifty years is enough time
 
 APPLICATION: Any attempt at a universal language is impossible to maintain. Even if it were possible to implement, it would permute into a vast range of dialects within weeks of being implemented.
 
-FURTHER APPLICATION: The only way we could create a language-perfect [AI](computers-ai.md) is to have one that can accurately recognize its audience, *not* simply restate information relative to previous statements.
+FURTHER APPLICATION: The only way we could create a language-perfect [AI](cs-ai.md) is to have one that can accurately recognize its audience, *not* simply restate information relative to previous statements.
 
 This isn't confined to spoken language, and can apply to body language or timing as well.
 

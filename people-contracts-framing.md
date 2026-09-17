@@ -86,7 +86,7 @@ Document *everything* that might be potentially pertinent.
   - Get a signed waiver for any risks they're assuming themselves, or for any declinations or exceptions to the standard agreement.
   - If *you're* declining an agreement, clearly document exactly *why* you are and what can still be arranged.
 - Do it as soon as possible (i.e., minutes later), since you'll likely forget key details by the next day.
-- It doesn't have to be typed, but it must be legible, and preferably stored in a [well-organized](organization.md) location (with [backups](computers-distsys.md)).
+- It doesn't have to be typed, but it must be legible, and preferably stored in a [well-organized](organization.md) location (with [backups](cs-distsys.md)).
 - The validity of the documentation depends heavily on the consistency of your records:
   1. Freehand notes on blank paper (e.g., sticky notes, notepads) give complete freedom for vagueness when recording it, and it's difficult to prove anything was discussed.
   2. Standardized forms (e.g., checklists, call surveys) are more consistent, but still difficult to prove.
@@ -99,7 +99,7 @@ Document *everything* that might be potentially pertinent.
     - Store voicemails electronically.
     - Text messages require a date/time and actual contact information (i.e., phone # for SMS or phone/email for MMS).
   - Email is formal written communication, so do *not* speak badly about others or admit to an error.
-    - Treat [OCR/ICR scans](computers-ocr.md) and faxes like email attachments.
+    - Treat [OCR/ICR scans](cs-ocr.md) and faxes like email attachments.
   - Save any files (e.g., PDFs) as formal documentation.
   - Take screenshots of anything that may be relevant.
 

@@ -115,7 +115,7 @@ If that person starts denying reality to "prove" something, they're removing pre
 - If something is outside their [understanding](mind-understanding.md), it doesn't exist or must be purged.
 - In their [conflicts with others](people-conflicts-why.md), they presume they're 100% correct, and will often shift their thoughts if they've been [logically](logic.md) convinced.
 
-APPLICATION: Magical thinking exists proportionally to how self-trusting someone is, which frequently comes with intelligence. Thus, there are *tons* of magical thinkers in fields with intelligent people like [politics](politics-systems.md), [academia](mind-understanding.md), and [computer programming](computers-programming.md) who won't acknowledge additional elements of [reality](reality.md) that they can't [know](mind-understanding.md):
+APPLICATION: Magical thinking exists proportionally to how self-trusting someone is, which frequently comes with intelligence. Thus, there are *tons* of magical thinkers in fields with intelligent people like [politics](politics-systems.md), [academia](mind-understanding.md), and [computer programming](cs-langs.md) who won't acknowledge additional elements of [reality](reality.md) that they can't [know](mind-understanding.md):
 
 - Many doctors believe the body's healing processes to be strictly mechanical and often neglect the psychosomatic [power](power.md) we possess through our [happiness](mind-feelings-happiness.md) and beliefs.
 - Most scientists are religiously [atheist](religion.md), but claim to be non-religious.

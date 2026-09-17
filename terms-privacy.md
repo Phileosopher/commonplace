@@ -1,6 +1,8 @@
 
 # Privacy Policy
 
+This Privacy Policy is an extension of the Terms and Conditions outlined at <https://stucky.tech/notes/terms.md>. As an extension of a document, this document is effective the date of the parent document's date.
+
 This Privacy Policy section describes:
 
 - My policies and procedures on the collection, use and disclosure of Your information when You use the Service.

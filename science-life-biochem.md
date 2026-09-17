@@ -3,7 +3,7 @@
 
 Life as we understand it uses [DNA](science-life-biochem.png), which stands for deoxyribonucleic acid, with molecules arranged in a double-helix structure.
 
-DNA is made of a very specific chain of nucleotide base pairings of A-T (adenine-thymine) and C-G (cytosine-guanine). This creates 4 permutations (each of the two flipped back-and-forth), which makes [all life information effectively a type of computer](computers-biological.md).
+DNA is made of a very specific chain of nucleotide base pairings of A-T (adenine-thymine) and C-G (cytosine-guanine). This creates 4 permutations (each of the two flipped back-and-forth), which makes [all life information effectively a type of computer](cs-biological.md).
 
 Each DNA strand is arranged into extremely long strands, with 2 strands in a chromosome. Different forms of life have different numbers of chromosomes, with humans having 23 and all life ranging from 1 to 1200 chromosomes, though it's not apparent by looking at any living creature how many chromosomes it has. The very last chromosome determines [gender differences](people-gender.md) with X and Y chromosomes, and the rest are called autosomes.
 

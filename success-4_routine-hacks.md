@@ -289,7 +289,7 @@ Use to-do list software to check off and group your tasks.
 
 Hold yourself accountable with time-tracking software.
 
-Synchronize your information across your devices with web apps or [cloud storage](computers-distsys-cloud.md).
+Synchronize your information across your devices with web apps or [cloud storage](cs-distsys-cloud.md).
 
 Take photos of all relevant information (e.g., schedules, numbers, trade-specific details).
 
@@ -300,9 +300,9 @@ Download any software you think could help you:
 
 Learn computer shortcuts for common software:
 
-- [Operating systems](computers-keyboard-shortcuts.md)
-- [Web browsing](computers-browser-shortcuts.md)
-- [Microsoft Office](computers-keyboard-shortcuts-office.md)
+- [Operating systems](cs-keyboard-shortcuts.md)
+- [Web browsing](cs-browser-shortcuts.md)
+- [Microsoft Office](cs-keyboard-shortcuts-office.md)
 - Adobe software
 - [Web searching](https://supple.com.au/tools/google-advanced-search-operators/)
 
@@ -319,7 +319,7 @@ Buy a second or third computer monitor to cut down on switching between tasks.
 Optimize your technology:
 
 - Prop up your phone to save your wrists, or find software on your main computer to manage notifications.
-- You can fix 95% of [computer issues](fix-cs.md) by either cycling Airplane Mode or restarting it.
+- You can fix 95% of [computer issues](cs-fix.md) by either cycling Airplane Mode or restarting it.
 - Let your computer update overnight to prevent interrupting your workday.
 - If your phone's storage is almost full, you can usually get rid of many, many junk files.
 - Diving into computer settings gives exponential ways to improve productivity.

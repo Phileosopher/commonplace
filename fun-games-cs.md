@@ -1,9 +1,9 @@
 
 # What computer games are
 
-The electronic gaming industry is *huge*. It's been pulling in more money than movies for some time now, and as technological implementations like ever-increasing [processing power](computers-cpu.md) and [VR](computers-xr.md) become more affordable, it's only a matter of time before games become the primary medium of electronic entertainment.
+The electronic gaming industry is *huge*. It's been pulling in more money than movies for some time now, and as technological implementations like ever-increasing [processing power](cs-cpu.md) and [VR](cs-xr.md) become more affordable, it's only a matter of time before games become the primary medium of electronic entertainment.
 
-Once technology opens up AR (augmented reality) interfaces, game design directly corresponds to real-world implementations. Further, the technology that feeds into games (e.g., [graphics](engineering-graphics.md) software) often feeds into other more practical outputs, such as [3D printing](engineering-printers.md) and [general-purpose AI](computers-ai.md).
+Once technology opens up AR (augmented reality) interfaces, game design directly corresponds to real-world implementations. Further, the technology that feeds into games (e.g., [graphics](engineering-graphics.md) software) often feeds into other more practical outputs, such as [3D printing](engineering-printers.md) and [general-purpose AI](cs-ai.md).
 
 ## History
 
@@ -130,7 +130,7 @@ From about 2010 and onward, almost all the new games became either high-budget "
 
 AAA games throw a *ton* of budget behind games they expect will safely sell, typically by releasing sequels of prior successful games:
 
-- They tend to simply be an [improved version](computers-software-versionctrl.md) of the previous game, with borrowed "game mechanics" from other games.
+- They tend to simply be an [improved version](cs-software-versionctrl.md) of the previous game, with borrowed "game mechanics" from other games.
 - For [marketing reasons](marketing.md), the game would add easily-implementable gimmicks or [hacks](mind-creativity-hacking.md) to advertise a feature:
   - Endless Customization! - add hundreds of useless features to the starting character interface
   - X Hours of Gameplay! - spread out the world with tons of relatively empty space to travel through
@@ -169,7 +169,7 @@ Indie games, by contrast, are made by no more than a few dozen developers, but a
   - Casual/Life Simulation (e.g., Stardew Valley)
   - Other genre-defying experiences (e.g., Hotline Miami, Papers Please)
 
-While [web-based](computers-sofware-webdev.md) PC game platforms in the late-2010s (e.g., Steam, GOG) have leveled the competitive playing field a bit, there's still a stark discrepancy between the risk-taking [artist](mind-creativity.md) indie game developers and the mass-produced corporate AAA game development team.
+While [web-based](cs-sofware-webdev.md) PC game platforms in the late-2010s (e.g., Steam, GOG) have leveled the competitive playing field a bit, there's still a stark discrepancy between the risk-taking [artist](mind-creativity.md) indie game developers and the mass-produced corporate AAA game development team.
 
 ## Console eras
 
@@ -220,6 +220,6 @@ For a long time, PC titles were lagging behind video games' graphics. Mostly, th
 Now, PC gaming has effectively taken over the dedicated graphical experience of video games, for multiple reasons:
 
 - [Graphics](engineering-graphics.md) technology has largely slowed down now that it's reached a hard limit. More cores are possible, but ~3.8 GHz is a core's electrical limit before the heat sink is no longer economically feasible. This makes the technology generally more homogenous for developers to build.
-- PCs have certain advantages over consoles including personal freedom in choice of gaming peripheral, the multi-use nature of a PC versus dedicated gaming hardware, online download services like [Steam's](http://store.steampowered.com/), [GOG's](http://gog.com/), and [Epic Games'](http://epicgames.com/) that give a wider variety of playable titles than a console could provide, and even the freedom to [emulate](computers-distsys-vm.md) game consoles directly.
+- PCs have certain advantages over consoles including personal freedom in choice of gaming peripheral, the multi-use nature of a PC versus dedicated gaming hardware, online download services like [Steam's](http://store.steampowered.com/), [GOG's](http://gog.com/), and [Epic Games'](http://epicgames.com/) that give a wider variety of playable titles than a console could provide, and even the freedom to [emulate](cs-distsys-vm.md) game consoles directly.
 - The power of typical graphics cards peripherals for PCs are more-or-less the same price/power ratio as many game consoles.
 - All the developers use mostly the same tools for different platforms, so console-exclusive titles are slowly becoming a fading trend from the lost profits that could have come from porting to PC, though Nintendo has still been holding out as of 2023.

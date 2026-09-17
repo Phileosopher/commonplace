@@ -10,13 +10,13 @@ No particular computer is trustworthy, either. "Whitelisting" MAC addresses or I
 Therefore, to keep data safe, it must often be routinely encrypted and decrypted:
 
 1. Output the data wherever it's at.
-2. Encrypt the information, typically with an encryption [algorithm](computers-programming-algorithms.md).
+2. Encrypt the information, typically with an encryption [algorithm](cs-langs-algorithms.md).
 3. Transfer or store the information.
 4. When needed, decrypt the information.
 
-Unencrypted "plaintext" information is usually readable without any further effort, but encrypted data (or "ciphertext") looks like completely random information.
+Unencrypted "plaintext" information is usually readable without any further effort, but encrypted data (or "ciphertext") looks like completely random information. By inputting an "encryption key", the data can be converted into plaintext.
 
-Since the encryption is often using math calculations to convert binary data, encrypted data viewed in a text file often shows weird [non-alphabetic characters](computers-keyboard.md). (e.g., 01000100 for the character "D" may convert to 10101100 for the character "¬").
+Since the encryption is often using math calculations to convert binary data, encrypted data viewed in a text file often shows weird [non-alphabetic characters](cs-keyboard.md). (e.g., 01000100 for the character "D" may convert to 10101100 for the character "¬").
 
 Cryptography makes it relatively more work to hack anyone, since anyone can gain access to anyone's information without it.
 
@@ -79,9 +79,9 @@ Or, to put another way, the effort is less devoted to creating a perfectly unbea
 
 There are *many* places where encryption is necessary or, at least, a very good idea:
 
-- The [operating system](computers-os.md) often needs encryption, especially core files. Sometimes an entire drive's data must be encrypted.
-- Anytime something sends across [the internet](computers-sofware-webdev.md), it needs to be secure, since anyone can theoretically intercept it.
-- All aspects of [cybersecurity](computers-infosec.md) involve some form of encryption, if not outright destruction, of data and data-bearing devices.
+- The [operating system](cs-os.md) often needs encryption, especially core files. Sometimes an entire drive's data must be encrypted.
+- Anytime something sends across [the internet](cs-sofware-webdev.md), it needs to be secure, since anyone can theoretically intercept it.
+- All aspects of [cybersecurity](cs-infosec.md) involve some form of encryption, if not outright destruction, of data and data-bearing devices.
 
 ## Forms
 
@@ -100,11 +100,13 @@ However, computers can use several possible types of encryption systems:
   - Good for verifying information like "checksums", messages, and digital signatures.
   - In hashes, the original data is never directly used after it's encoded.
   - Unfortunately, sending a key to decrypt information is also sending the means to encrypt it as well.
-- Assymetric/public key: one key encrypts, and another decrypts.
+- Assymetric/public-key: one key encrypts, and another decrypts.
   - e.g., Computer 1 encodes ABC into XYZ with Key 1, Computer 2 uses Key 2 to decode XYZ back into ABC.
-  - Very useful for internet transfers (on [Layer 6](computers-networks.md)), since *anyone* can freely access the encryption key as long as the decryption key is private. TLS and SSL are the most popular internet encryption [protocols](standards-computers.md).
+  - Very useful for internet transfers (on [Layer 6](cs-networks.md)), since *anyone* can freely access the encryption key as long as the decryption key is private.
 
 These "ciphers" can be mixed and matched to create hybrid ciphers.
+
+There are [many specific encryption algorithms for various needs](encryption-algorithms.md).
 
 ## Popular Ciphers
 
@@ -123,38 +125,11 @@ Modern iterations use the Merkle--Damgård construction, but add other elements 
 
 Key derivation functions (KDFs) become meta by encrypting the key itself with a different key. This creates another layer of complexity to break through.
 
-## Encryption algorithms
-
-There are many types of encryption [algorithms](computers-programming-algorithms.md) available now:
-
-- Message-Digest Algorithm was made in 1989, and has iterated from MD2 to MD6. MD4 was compromised through collision attacks and MD6 was compromised by differential attacks. MD5 is still the de facto standard even though it's cryptographically insecure.
-- Secure Hash Algorithm descended from MD4 by the NSA in 1993. It's a one-way encryption algorithm. SHA-2 has SHA-224, SHA-256, SHA-384, and SHA-512. SHA-3 has equivalent encoding, but more advanced. SHA-2 is more widely adopted right now, but SHA-3 is mean to directly substitute SHA-2.
-- AES was developed by the NSA to replace DES (see above), and is now at AES-256. It's a symmetric encryption standard.
-- John Daemen made a few algorithms (3-Way, BaseKing, and NOEKEON). While they were very efficient, they were susceptible to related-key attacks.
-- RIPEMD was made in 1996, and based on the principles from MD4. RIPEMD-160 hasn't been broken yet.
-- There are others: Whirlpool, BLAKE, Tiger, RadioGatún, PANAMA, and GOST, to name a few. They're constantly being developed, [a bit like programming languages](computers-languages.md), so there's no need to cover an exhaustive list here.
-
-SHA-1 is decent, but not great.
-
-- It's useful for non-critical situations.
-- The public key can make a digest, but can't decrypt one.
-
-MD5 is another popular algorithm.
-
-The base64 encoder and decoder uses the "secure socket layer" (SSL) [protocol](standards-computers.md) to send cryptographic data.
-
-- The private key is the only one that decrypts, while the public key always encrypts.
-- There are 2 kinds of public keys:
-  1. Made-up public keys for general use.
-  2. 3rd-party authorized public keys (e.g., GoDaddy, Comodo, Verisign, etc.).
-     - These second public keys are "digital certificates", or "signed private keys".
-     - It can be $100-200 or $1000-2000 to get your certificate formally signed.
-
 ## Attacks
 
-Cryptanalysis uses a variety of techniques to break ciphers. It's worth noting that, while everyone who is cryptanalyzing is [hacking](mind-creativity-hacking.md) (and many are [PenTesting](computers-infosec-pentest.md)), very few hackers or PenTesters will cryptanalyze.
+Cryptanalysis uses a variety of techniques to break ciphers. It's worth noting that, while everyone who is cryptanalyzing is [hacking](mind-creativity-hacking.md) (and many are [PenTesting](cs-infosec-pentest.md)), very few hackers or PenTesters will cryptanalyze.
 
-It is impossible to have an indecipherable message. All encryption can be broken with a brute force attack. However, it's not sensible to apply resources toward it. Why spend 30,000 hours of computer processing cracking a password that will give the attacker $100 of payout or evidence of a misdemeanor? This is one of the strengths of [blockchain](computers-blockchain.md) cryptocurrency.
+It is impossible to have an indecipherable message. All encryption can be broken with a brute force attack. However, it's not sensible to apply resources toward it. Why spend 30,000 hours of computer processing cracking a password that will give the attacker $100 of payout or evidence of a misdemeanor? This is one of the strengths of [blockchain](cs-blockchain.md) cryptocurrency.
 
 There are different attack models for defending against a cryptanalysis. One of the most popular is a chosen plaintext attack (CPA), which presume that the attacker can get a ciphertext for any plaintext, which is almost always the case if they can get a public key.
 

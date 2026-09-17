@@ -6,10 +6,10 @@ The printer is a much older output than the [computer screen](engineering-screen
 Printer output uses nearly the same internal framework as screen output:
 
 1. The CPU sends information stored in memory through an "interpreter" to a "print spooler" process.
-2. The print spooler breaks down the print instructions, line by line, and runs it through the [printer device driver](computers-os.md).
+2. The print spooler breaks down the print instructions, line by line, and runs it through the [printer device driver](cs-os.md).
 3. The printer itself receives the driver-translated information and carries out its ink/toner output.
 
-It's worth noting that "print" is still the term for a [console output](computers-cli.md), and from the software's perspective the two are effectively the same, since they both travel out to a device driver that handles what happens next.
+It's worth noting that "print" is still the term for a [console output](cs-cli.md), and from the software's perspective the two are effectively the same, since they both travel out to a device driver that handles what happens next.
 
 ## Hardware
 
@@ -27,11 +27,11 @@ Beyond imposing a black substance onto a paper medium, there are various other p
 
 - Color printing allows color-based cartridges alongside black. Unlike the [screen](engineering-screen.md), printers use reflected light instead of visible light. So, instead of combining emitted wavelengths with additive colors (red/blue/green), printers use subtractive primary colors instead to *reflect* wavelengths (cyan/magenta/yellow).
 - "Duplex printing" will print a page on both sides. This isn't *strictly* necessary, but can be a severe logistical headache if you're trying to print out a lot of content (e.g., print odd-numbered pages, then load up the pages again and print even-numbered pages).
-- [Network](computers-networks.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
-- Secure printing allows a [password-protected](computers-infosec-authentication.md) print job, which may be important in a large office.
-- For larger printers, including a decent-enough [scanner](computers-ocr.md).
+- [Network](cs-networks.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
+- Secure printing allows a [password-protected](cs-infosec-authentication.md) print job, which may be important in a large office.
+- For larger printers, including a decent-enough [scanner](cs-ocr.md).
 - If it comes with the functionality of a scanner, it technically has a copier feature as well. However, it's simply printing a scanned (and spooled) copy instead of how copier technology directly imposes a scanned image.
-- While it's not as popular anymore, including a [fax machine](computers-networks.md).
+- While it's not as popular anymore, including a [fax machine](cs-networks.md).
 - Multiple trays to allow printing different paper sizes or types, which can also include a multipurpose tray.
 - Toner/ink page counter, which can *also* serve to cost more money long-term in wasted toner/ink (see below).
 
@@ -40,7 +40,7 @@ Color printers, in particular, have anti-counterfeit feature that generates very
 But, most of the features are simply extra padding for the quality of a printer. Instead, watch for legitimate performance metrics to determine the printer's quality:
 
 - Duty cycle - the number of pages (typically thousands or tens of thousands) before it needs routine servicing.
-- Memory - how much on-board [memory](computers-memory.md) it has, which determines how many print jobs it can store in its queue.
+- Memory - how much on-board [memory](cs-memory.md) it has, which determines how many print jobs it can store in its queue.
 - Speed - raw printing speed, which can also include the time for it to warm up.
 - Reliability - the number of paper jams relative to the number of pages it prints.
 
@@ -54,13 +54,13 @@ The workings inside a printer are vastly complicated, which is why printers are 
 - The entire process of heating toner and blowing off excess is an orchestra of moving parts.
 - Large-scale printers must feed the paper through an elaborate pathway to accommodate a waist-high entry and exit point.
 
-Updating printers is difficult, since it requires the physical constraints of hardware design, unlike [software](computers-software.md). And unlike software, updates and feedback only roll out at the speed of people buying the new version, so there's no chance to [publicly test](computers-software-redesign.md) printers before a new printer design is thoroughly approved. The extra complexities of printer hardware compared to a [mouse](computers-mouse.md) or [keyboard](computers-keyboard.md) mean they're always behind the reliability of most other I/O devices.
+Updating printers is difficult, since it requires the physical constraints of hardware design, unlike [software](cs-software.md). And unlike software, updates and feedback only roll out at the speed of people buying the new version, so there's no chance to [publicly test](cs-software-redesign.md) printers before a new printer design is thoroughly approved. The extra complexities of printer hardware compared to a [mouse](cs-mouse.md) or [keyboard](cs-keyboard.md) mean they're always behind the reliability of most other I/O devices.
 
-If the printer is connected to a central network (and *especially* if that network is connected to [the internet](computers-sofware-webdev.md)), lagging [security updates](computers-infosec.md) can be a severe problem. Even when a printer doesn't hold on to personal information, it can still have malware installed directly onto its firmware.
+If the printer is connected to a central network (and *especially* if that network is connected to [the internet](cs-sofware-webdev.md)), lagging [security updates](cs-infosec.md) can be a severe problem. Even when a printer doesn't hold on to personal information, it can still have malware installed directly onto its firmware.
 
 However, a long time ago, printers were *far* more flammable. This came from a combination of paper dust, the older dot-matrix printer ribbons, and the fact that some printer cleaning solutions were combustible. A simple spark or enough heat from a heavy printer workload was enough to ignite the device.
 
-Printers becoming more efficient is also not very cost-beneficial to corporations that sell printers. Toner is more expensive per-ounce than blood or silver, and is the profitable aspect of most printers, so creating [exclusionary right-to-repair-violating design](computers-bigtech.md) and generally inefficient toner use is the best way to make more money.
+Printers becoming more efficient is also not very cost-beneficial to corporations that sell printers. Toner is more expensive per-ounce than blood or silver, and is the profitable aspect of most printers, so creating [exclusionary right-to-repair-violating design](cs-bigtech.md) and generally inefficient toner use is the best way to make more money.
 
 In many ways, printers *can* become more reliable, but there's no financial incentive to do so, especially now that society has trended more toward *paperless* information transfer. Most printers tend to be awfully designed, but try to compensate with as many built-in features as a [marketing trick](marketing.md) to imply additional value.
 
@@ -90,12 +90,12 @@ The term 3D printing has gone through some permutations. At one time, it referre
 The process is a relatively straightforward approach:
 
 1. Use CAD software to create a desired output form, which is often using the same or similar CAD software as most [graphics technology](engineering-graphics.md).
-2. Output the CAD software's information into an STL [file](computers-files.md) (for stereo lithography), which will store data of the CAD model's surfaces.
+2. Output the CAD software's information into an STL [file](cs-files.md) (for stereo lithography), which will store data of the CAD model's surfaces.
 3. That CAD STL file will frequently have errors, and there are a *lot* of error-correcting procedures to fix the *many* possible failures (e.g., warping, curling, holes, lines, vibrations), as well as structural risks (bridging failure, walls caving in, etc.). This often includes building other supports around the object:
    - Rafts are entire layers that sit below the build.
    - Brims are preferable to rafts, and simply extend from the edge of the build to enable the build to stick to the bed.
    - Skirts are created around the object, but not directly touching it, to prepare the extruder for the first layer and slow down the cooling of the lowest layers.
-4. The CAD file converts to G-code, a [programming language](computers-languages.md) that instructs where the printer should move in physical space with [Cartesian coordinates](math-algebra.md), layer-by-layer.
+4. The CAD file converts to G-code, a [programming language](cs-langs.md) that instructs where the printer should move in physical space with [Cartesian coordinates](math-algebra.md), layer-by-layer.
 5. Convert that CAD file into instructions for the printer using proprietary code that corresponds with the printer.
 6. The printer creates the form, one step at a time (typically layer-by-layer), typically by extruding a polymer "filament" and using UV light to harden and congeal it.
 7. Post-process to fix more errors (e.g., clumping, elephant's foot, lines on the side).
@@ -127,7 +127,7 @@ The technology continues to improve as well. While polymer plastics are the best
 2. With metals and ceramics, multi-material printing with different material types is also on the horizon.
 3. 4D printing involves forming an object based on its desired future form (i.e., changing shape over time with temperature or some other stimulation like pressure).
 4. As printers become more effective, they'll soon be able to create large structures like bridge components and houses, which will *radically* define [logistics](logistics.md): simply send over raw materials and the printer to a hard-to-navigate site.
-5. Printers can print increasingly smaller sizes ([at 25 nanometers long right now](https://interestingengineering.com/science/scientists-can-now-print-metal-objects-that-are-only-25-nanometers-long)), meaning it may *radically* redefine the manufacture of electronic components, such as [processors](computers-cpu.md) or [memory](computers-memory.md), in the not-too-distant future.
+5. Printers can print increasingly smaller sizes ([at 25 nanometers long right now](https://interestingengineering.com/science/scientists-can-now-print-metal-objects-that-are-only-25-nanometers-long)), meaning it may *radically* redefine the manufacture of electronic components, such as [processors](cs-cpu.md) or [memory](cs-memory.md), in the not-too-distant future.
 
 Within a century, it won't be uncommon to see [startups](entrepreneur-1_what.md) building many materials with a 3D printer, and it may happen as early as 2040.
 

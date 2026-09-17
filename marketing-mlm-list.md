@@ -34,7 +34,7 @@ This is only a partial list of [MLM entities](marketing-mlm.md), with constant r
 - Wakaya Perfection - nutrition
 - Younique - beauty products
 
-Utility markets and [telecom](computers-networks.md)
+Utility markets and [telecom](cs-networks.md)
 
 - 5Linx - telecom equipment
 - ACN Inc. - telecom, energy, merchant services

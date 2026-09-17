@@ -41,7 +41,7 @@ There are some clear warning signs, though, that you may be working for a [unive
     - Abusing you or a coworker including sexual remarks, yelling, threatening, name-calling, teasing maliciously, or publicly shaming.
 - Your organization (or at least a business unit of it) is managed by [cult members](people-culture-cults.md).
   - On a lighter level, many tech companies [interview](jobs-5_interview-cs.md) for what they call a "culture fit", which is directed toward building a small crowd of like-minded people.
-- Your manager is intimately tracking your performance without informing you (especially frequent in [large tech corporations](computers-bigtech.md)).
+- Your manager is intimately tracking your performance without informing you (especially frequent in [large tech corporations](cs-bigtech.md)).
   - Massive companies often drive people into the ground, frequently promising stock options for employees who stay a year and burning workers out over a few months.
   - They may place you unexpectedly on a performance improvement program (PIP) where they closely track you, and it can be *very* difficult to get off (if not completely impossible).
 - The company doesn't have much money for supplies, infrastructure, and pay raises, but upper-tier [management](mgmt-1_why.md) lives lavishly.
@@ -51,15 +51,15 @@ And then, of course, are the *tech*-specific ways management can fail spectacula
 
 - Your manager cares more about someone reporting to them than any legitimate technical excellence.
   - A [fix](https://adequate.life/fix/) usually creates more work for managers, and they don't want to think about the "technical debt" they've already incurred.
-  - When you propose any improvements or potential issues in the code or methods (and [no code is exempt from needing improvement](computers-software-maintenance.md)), the response is that it's not broken, so not worth fixing.
+  - When you propose any improvements or potential issues in the code or methods (and [no code is exempt from needing improvement](cs-software-maintenance.md)), the response is that it's not broken, so not worth fixing.
   - The more egregious version of this is that a (junior role) can't question the (senior role) code, or that they're misguided about the problem.
 - Someone is the expert in [specific information](https://trendless.tech/understanding/), and they're not sharing it with the rest of the team.
   - This is often a senior engineer worried about job security, so by default not sharing how things work with anyone else will make them the expert in the matter.
   - To hide what they're doing, they'll also frequently create arbitrarily complex code or arcane systems that make it difficult to follow what they did.
-- The "key performance indicators" (KPI) are something arbitrary that doesn't really add value, such as how many [Linux kernel patches](computers-os-unix.md), [pull requests submitted](computers-software-versionctrl.md), or [patents made](legal-ip.md).
+- The "key performance indicators" (KPI) are something arbitrary that doesn't really add value, such as how many [Linux kernel patches](cs-os-unix.md), [pull requests submitted](cs-software-versionctrl.md), or [patents made](legal-ip.md).
 - The management requires that all learning is *off* the clock.
 - The company *requires* everyone use its proprietary system, since everyone would *want* to use it if it was decent.
-  - Often, tech companies will use that proprietary system for [additional surveillance](computers-bigtech.md).
+  - Often, tech companies will use that proprietary system for [additional surveillance](cs-bigtech.md).
 - Sometimes, your role might be *every single aspect* of IT and computers.
 
 ## Big company culture
@@ -68,7 +68,7 @@ The culture of large tech companies typically abuses the intelligence and work e
 
 Large organizations don't like [change](mgmt-7_changes.md) *nearly* as much as smaller organizations, mostly because there's no reason to reconfigure a system that adequately works. For [young tech people](https://trendless.tech/trends/), this can be unusually traumatic since all their ambitions are unheard, or any attempts they make toward contributions are unrecognized.
 
-In *gigantic* organizations (such as [Big Tech](computers-bigtech.md)), the management hierarchy is absurd, with some developers having upwards of 6-12 layers of managers. A Big Tech organization, specifically, is less of a [large, monolithic entity](groups-large.md) and more of a shared label, with each team having a separate [subculture](people-culture.md) and effectiveness. This somewhat functioning environment *does* get work done, but it's debatable how much.
+In *gigantic* organizations (such as [Big Tech](cs-bigtech.md)), the management hierarchy is absurd, with some developers having upwards of 6-12 layers of managers. A Big Tech organization, specifically, is less of a [large, monolithic entity](groups-large.md) and more of a shared label, with each team having a separate [subculture](people-culture.md) and effectiveness. This somewhat functioning environment *does* get work done, but it's debatable how much.
 
 You may have *had* a great job, but then your amazing little company gets *acquired* by a Big Tech corporation. At that point, throw any loyalty out the window, since the creator is [singing to the bank](entrepreneur-7_exit.md) and probably doesn't care anymore.
 
@@ -76,13 +76,13 @@ You may have *had* a great job, but then your amazing little company gets *acqui
 
 You might *think* you're doing something [meaningful](meaning.md) on a team, but your work could be part of a feature factory:
 
-1. There's plenty of celebration about "shipping", but no discussion about the impact the work makes. The projects are large batches of tasks instead of [incremental changes](computers-software-redesign.md).
+1. There's plenty of celebration about "shipping", but no discussion about the impact the work makes. The projects are large batches of tasks instead of [incremental changes](cs-software-redesign.md).
 2. The team isn't tangibly measuring the impact of their work, or the product management team is selectively sharing their measurements, and there's no feedback. The measurements aren't connected to desirable business/customer outcomes, but the project is focused on fulfilling a deadline to close a specific [deal](people-contracts.md).
-3. Teams are based around feature or project assignments, *not* on missions or legitimate goals. The management's priorities are about deciding *what* gets worked on more than whether something is the *right* thing to work on. The team won't see the results of their work in research, problem exploration, experimentation, or [validation](computers-software-redesign.md).
+3. Teams are based around feature or project assignments, *not* on missions or legitimate goals. The management's priorities are about deciding *what* gets worked on more than whether something is the *right* thing to work on. The team won't see the results of their work in research, problem exploration, experimentation, or [validation](cs-software-redesign.md).
 4. The management rarely acknowledges failures. This usually means not removing features, with the primary measurement of success coming from making more features, not creating results.
-5. The product managers don't spend time analyzing the quality of their decisions or comparing their expectations of improvements with actual users' opinions. The developers will have to pass tests, but the product managers won't, and the team will simply move to the next project without any [adjustments](computers-software-maintenance.md) required from the aftermath of that change. The management won't care about the long-term benefits or risks of the decisions or work.
+5. The product managers don't spend time analyzing the quality of their decisions or comparing their expectations of improvements with actual users' opinions. The developers will have to pass tests, but the product managers won't, and the team will simply move to the next project without any [adjustments](cs-software-maintenance.md) required from the aftermath of that change. The management won't care about the long-term benefits or risks of the decisions or work.
 
-Other times, you may be working on something that nobody *wants*, often because an executive threw lots of money at a new tech concept they knew nothing about. [Cloud storage](computers-distsys-cloud.md) and [machine learning](computers-ai-ml.md) are great examples of this kind of work.
+Other times, you may be working on something that nobody *wants*, often because an executive threw lots of money at a new tech concept they knew nothing about. [Cloud storage](cs-distsys-cloud.md) and [machine learning](cs-ai-ml.md) are great examples of this kind of work.
 
 Generally, when the industry is hot with [a new trend](https://trendless.tech/trends/), the collective amount of useless work is prolific, and less when the economy is hurting.
 
@@ -116,7 +116,7 @@ Be careful about staying in the industry, though, since quite a few people acros
 It's not wise to imagine your situation will become better on its own. Badly managed companies tend to fire employees for terrible reasons:
 
 - Being given a physically impossible deadline, then fired for not fulfilling it.
-- Getting fired as a junior developer because an app failed once without an [end-to-end test](computers-software-redesign.md).
+- Getting fired as a junior developer because an app failed once without an [end-to-end test](cs-software-redesign.md).
 - Taking care of a tragic personal problem (such as your spouse's brain cancer).
 - Getting fired as a group in a video chat meeting.
 

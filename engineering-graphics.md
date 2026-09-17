@@ -9,7 +9,7 @@ The first graphical interface was called Sketchpad, and [was created by Ivan Sut
 
 There are two major approaches to displaying graphics on a screen:
 
-- "Vector graphics" - running an electron horizontally across a screen using [algebra](math-algebra-cs.md) to leave a line (like with oscilloscopes), which is how the old [Atari arcade games](computers-software-gamedev.md) worked, and is very effective even with low-powered computers to create 3D effects.
+- "Vector graphics" - running an electron horizontally across a screen using [algebra](math-algebra-cs.md) to leave a line (like with oscilloscopes), which is how the old [Atari arcade games](cs-software-gamedev.md) worked, and is very effective even with low-powered computers to create 3D effects.
 - "Raster graphics" - making a grid matrix of pixels, which is how screens have been rendered ever since.
 
 When rastering to different sizes of pixel (e.g., 1024x768 resized to 1920x1080), the resolution can create weird feedback called "aliasing" that forms jagged edges (informally called jaggies). To prevent jaggies, graphics software often has "anti-aliasing", which comes in a few forms:
@@ -29,9 +29,9 @@ When rastering to different sizes of pixel (e.g., 1024x768 resized to 1920x1080)
 
 Pixelated screens have been the standard since the 1980s because of their versatility. By using a grid, absolutely anything can render without too much trouble. It also happens to be how the data expresses on [printers](engineering-printers.md), so it's easy to migrate from one to the other.
 
-The [screen](engineering-screen.md) pulls information from a "screen [memory](computers-memory.md) map", which is a designated part of the RAM set aside for screen information.
+The [screen](engineering-screen.md) pulls information from a "screen [memory](cs-memory.md) map", which is a designated part of the RAM set aside for screen information.
 
-Each pixel color is contained in memory. This is a *lot* of information compared to other peripherals like the [keyboard](computers-keyboard.md) or [mouse](computers-mouse.md). A 1024x768 screen (the standard screen size c. 2005) requires 786,432 pixels.
+Each pixel color is contained in memory. This is a *lot* of information compared to other peripherals like the [keyboard](cs-keyboard.md) or [mouse](cs-mouse.md). A 1024x768 screen (the standard screen size c. 2005) requires 786,432 pixels.
 
 For a synchronized experience, each screen is maintained on an "aspect ratio", which allows screens to give a comparable image even when different screens have differing amounts of pixels:
 
@@ -97,7 +97,7 @@ A video in its purest form, is a stream of a *lot* of raw data. Compressor/decom
 
 Codecs are either "lossy" or "lossless", proportional to how much data is lost during compression.
 
-To keep video files together, they're played synchronously in a container, often alongside [audio codecs](computers-speakersmic.md). It works a bit like a virtual machine, but with *extremely* specific specifications. Some of the most popular containers are MP4, MKV, AVI, FLV, and WEBM.
+To keep video files together, they're played synchronously in a container, often alongside [audio codecs](engineering-audio.md). It works a bit like a virtual machine, but with *extremely* specific specifications. Some of the most popular containers are MP4, MKV, AVI, FLV, and WEBM.
 
 The pixellation of the [camera](engineering-camera.md) represents the upper threshold of a recording, though post-processing software can fill in pixels to give a smoother image.
 
@@ -114,14 +114,14 @@ Legitimate computed color gets far more complex, and is far more relative than m
 The actual numbers used to represent colors have no inherent meaning, and it goes back to the physics of light.
 
 - Our eyes perceive brightness on an exponential, not incremental, scale. Therefore, doubling the number of photons would *not* feel like the brightness doubled.
-- There are a variety of [standards](standards-computers.md) available to represent this: linear progression, exponential progression, or a hybrid of both.
+- There are a variety of [standards](cs-standards.md) available to represent this: linear progression, exponential progression, or a hybrid of both.
 - The numerical barriers for these colors are defined as "color spaces". Computers do *not* represent the full range of colors, and simply create constraints for the sake of what's most convenient.
-- "Unbounded" color values are free to be more precise compared to bounded values, but they're a little more fiddly to work with [memory](computers-memory.md) constraints.
+- "Unbounded" color values are free to be more precise compared to bounded values, but they're a little more fiddly to work with [memory](cs-memory.md) constraints.
 - The "color temperature" is a tweak that allows colors to represent more toward red-leaning (warm) or blue-leaning (cool).
 
 Each colored pixel has 3 lights (red, blue, green) that shine at varying intensities, which can combine via additive light to form any color.
 
-- These varieties of color are based on the number of bits stored in [memory](computers-memory.md) for that purpose: more variations require more memory.
+- These varieties of color are based on the number of bits stored in [memory](cs-memory.md) for that purpose: more variations require more memory.
 
 The 3 most popular color configurations right now are 16-bit, 24-bit, and 32-bit.
 
@@ -132,7 +132,7 @@ The 3 most popular color configurations right now are 16-bit, 24-bit, and 32-bit
 The memory required for pixelated color becomes daunting to imagine:
 
 - At 32-bit color, each of those 3 colors in each pixel has 32 bits, making 96 bits per pixel and 75,497,472 bits total.
-- With a 64-bit word width in [memory](computers-memory.md), that means the computer needs 1,179,648 registers to store 1 screen.
+- With a 64-bit word width in [memory](cs-memory.md), that means the computer needs 1,179,648 registers to store 1 screen.
 - The average refresh rate of a computer is about 60 Hz, which means 70,778,880 registers *per second* of use.
 - A faster refresh rate means even *more* memory use.
 
@@ -149,9 +149,9 @@ Thankfully, even though the colors have no precise numerical basis, Grassmann's 
 
 Memory management is a big deal with high-intensity graphics needs.
 
-Many large-scale [enterprise](computers-distsys-enterprise.md) endeavors require pre-rendering (e.g., Pixar animations). In this case, the rendering is dropped into a queue that many computers in a [distributed system](computers-distsys.md) pull from, and the computers run nonstop for many, many days.
+Many large-scale [enterprise](cs-distsys-enterprise.md) endeavors require pre-rendering (e.g., Pixar animations). In this case, the rendering is dropped into a queue that many computers in a [distributed system](cs-distsys.md) pull from, and the computers run nonstop for many, many days.
 
-But, the largest consumer-grade need, by far, is for playing [games](computers-software-gamedev.md), with "computer-aided design" (CAD) software lagging behind by a significant margin from not needing a half-second update for absolutely everything. These often need "dedicated graphics cards" that plug into the motherboard, since an integrated graphics controller inside a CPU's chipset won't cut it.
+But, the largest consumer-grade need, by far, is for playing [games](cs-software-gamedev.md), with "computer-aided design" (CAD) software lagging behind by a significant margin from not needing a half-second update for absolutely everything. These often need "dedicated graphics cards" that plug into the motherboard, since an integrated graphics controller inside a CPU's chipset won't cut it.
 
 Thus, there are many tricks to maximize the hardware. Many of them were [hacks](mind-creativity-hacking.md) designed with the constraints of the time, and have often become dated as a result.
 
@@ -171,7 +171,7 @@ One of the short-lived divergences from wireframe modeling involved using "voxel
 
 To compensate for the increased load in graphics, one clever workaround was to use "raycasting", which draws lines out from the 3D-modeled perspective of the user, then only renders the portion of the world that the user actually sees. This can also be coupled with the illusion of "motion blur" caused by [cameras](engineering-camera.md) to further cut down on graphics processing requirements.
 
-All this additional 3D modeling became labor-intensive for the CPU. So, instead of rendering the graphics inside the software, it became critical to have the rendering handed off to another source. That extra source is either through a separate graphics chip or through an [emulated](computers-distsys-vm.md) graphics chip that pulled from the same CPU.
+All this additional 3D modeling became labor-intensive for the CPU. So, instead of rendering the graphics inside the software, it became critical to have the rendering handed off to another source. That extra source is either through a separate graphics chip or through an [emulated](cs-distsys-vm.md) graphics chip that pulled from the same CPU.
 
 Instead of outright rendering largely chaotic things that would be hard to render (like fire or a bomb explosion), most of those use a "particle system" to create "particle effects", which reproduce the experience with predefined random 3D movement instead of having a fixed appearance frame-to-frame.
 

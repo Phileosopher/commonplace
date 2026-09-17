@@ -124,7 +124,7 @@ Get a more comfortable, efficient, or elegant desk and chair:
 
 ## Working from home
 
-A work-from-home arrangement is *very* nice, especially in job roles such as [business](business.md) or [software development](computers-software.md).
+A work-from-home arrangement is *very* nice, especially in job roles such as [business](business.md) or [software development](cs-software.md).
 
 - If the role allows it, it's a win/win for the employer and the worker, since they save on office space and maintenance while you get to be home.
 - However, most people working from home have a tendency to overwork themselves.
@@ -141,7 +141,7 @@ Have a strategy to avoid the increased distractions:
 
 - Set boundaries with family and friends.
 - Plan what and when you'll eat before starting work.
-- If you use a work computer for home activities, explicitly split the roles between the two with software constraints or a [dual-boot operating system](computers-os.md).
+- If you use a work computer for home activities, explicitly split the roles between the two with software constraints or a [dual-boot operating system](cs-os.md).
 
 Make sure you're done when you're done:
 

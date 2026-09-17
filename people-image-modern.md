@@ -19,7 +19,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Financial purchases with any card associated to your name
    - [Insurance](money-insurance.md)
    - [School](education.md) attendance
-   - [Telecom](computers-networks.md) and utility agreements (e.g., cell phone, cable TV)
+   - [Telecom](cs-networks.md) and utility agreements (e.g., cell phone, cable TV)
    - Hospital and [healthcare](body-health.md) visits
    - Official [employment](jobs-1_why.md)
    - Government records, including tax filings and driver's license/vehicle registration
@@ -66,7 +66,7 @@ To that end, your reputation involves a few arcane tasks:
    - Treat them like government [bureaucracies](bureaucracy.md), where you're more responsible than they are for any mistakes they make.
    - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-contracts.md) with another organization and terminate that one.
 3. Watch for the people who abuse this knowledge.
-   - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](computers-infosec.md).
+   - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](cs-infosec.md).
    - There are [*many* laws](legal-lawsaxioms.md) around most situations where this information could be misused, so it's not common.
 
 This situation means most casual (and typically cost-effective) interactions are simply your name running by on a [database](database.md):

@@ -132,7 +132,7 @@ Many certifications outside of college have *much* more use:
 - There are a few that are guaranteed to be useful in their domains:
   - Vehicle operator (truck, sailing, aircraft, etc.)
   - Lower-tier medical (e.g., CNA, MA, phlebotomy)
-  - [cybersecurity](computers-infosec.md)
+  - [cybersecurity](cs-infosec.md)
 
 ## Hunting for schools
 

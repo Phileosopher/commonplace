@@ -256,7 +256,7 @@ Each power source has benefits and drawbacks.
 - Solar cells and wind turbines are very conspicuous, need frequent maintenance, and give volatile energy.
 - Hydroelectric generators require a water source.
 - Thermal generators require a heat source.
-- If you have the time, you can [convert an old car into a powerful generator](https://news.ycombinator.com/item?id=37610230) with an [Arduino Nano](computers-embedded.md) attached to a generator (preferably with a gearbox to avoid overloading the system).
+- If you have the time, you can [convert an old car into a powerful generator](https://news.ycombinator.com/item?id=37610230) with an [Arduino Nano](cs-embedded.md) attached to a generator (preferably with a gearbox to avoid overloading the system).
 
 No matter what, make sure that *any* electrical assembly you create is safe:
 
@@ -381,7 +381,7 @@ Water runoff is a common reality of large tracts of land, and you can assist aga
 We generally need enough [technology](technology.md) to communicate with others, which tends to simply be a phone line and internet.
 
 - However, you can find *many* [domains of expertise](jobs-specialization.md) available for free on the internet, making it almost completely necessary if you depend on it for your lifestyle.
-- In particularly remote areas, [cellular networks](computers-networks.md) are limited or nonexistent, and your only internet option is often satellite networks.
+- In particularly remote areas, [cellular networks](cs-networks.md) are limited or nonexistent, and your only internet option is often satellite networks.
 
 Further, the availability of information on the internet makes internet access *critical* for [fixing things](https://adequate.life/fix/) and [creative ideas](mind-creativity.md) for *all* the above.
 

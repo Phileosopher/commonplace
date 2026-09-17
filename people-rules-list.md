@@ -57,6 +57,10 @@ Avoid body language tics that may annoy others:
 - Stomach rumbling (push the stomach as far out as possible to stop it)
 - An inappropriate erection (flex a muscle for 60 seconds to stop it)
 
+Avoid body language cues that may risk crossing boundaries:
+
+- Don't lean on anything that you don't own
+
 Avoid body language cues that imply rejection:
 
 - Crossed arms or legs

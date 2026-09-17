@@ -36,7 +36,7 @@ With [technology](technology.md), we can [recreate](creations.md) the experience
 - The experience of running errands or doing [tasks](habits.md).
 - Trying to accomplish multiple smaller goals at once.
 - [Achieving and overcoming](success-1_why.md) challenges, especially [unlikely](math.md) ones.
-- The proxy character [learning](mind-understanding.md) from prior experiences (often simulated with "experience points" in [electronic games](computers-software-gamedev.md)).
+- The proxy character [learning](mind-understanding.md) from prior experiences (often simulated with "experience points" in [electronic games](cs-software-gamedev.md)).
 
 Like [humor](humor.md), games help us to cope. It's a small system designed to [symbolize](symbols.md) the greater reality we're in. It creates a type of [closure](stories-why.md) in the unfamiliar [reality](reality.md) that surrounds us. However, while humor is a deconstruction of [disorder](unknown.md), games are an extreme form of order.
 

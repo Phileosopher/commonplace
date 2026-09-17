@@ -28,7 +28,7 @@ Generally, the gauge of the rails (distance between them) is set to be nearer (4
 
 1. Composite materials in tires that engage from the axles to the road which can withstand tends of thousands of miles of a wide variety of terrains.
 2. In newer autos, [computers](computers.md) that regulate an engine's timing and all the components, as well as often embedding a tablet computer into the dashboard, complete with internet connectivity.
-3. If there are any autonomous features like self-parking, it also includes [advanced AI](computers-autos.md).
+3. If there are any autonomous features like self-parking, it also includes [advanced AI](cs-autos.md).
 
 However, in some ways, electric vehicles are inferior technology to the standard ICE automotive:
 

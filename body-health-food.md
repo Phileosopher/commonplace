@@ -118,7 +118,7 @@ While [Big Medi/Pharma](https://gainedin.site/here-modern/) may prolong your lif
   - Pink eye is irritating and highly infectious, but doesn't typically pose any legitimate health risks.
   - After the first wave of COVID-19, herd immunity has meant that it doesn't typically pose any legitimate health risks.
   - However, the culture often obsesses about the <1% likely event that *could* pose a health risk.
-  - The culture can also be magnified in unhealthy ways if the focus shifts more toward [transhumanism](computers-biological.md) than [fixing things](https://adequate.life/fix/) to preserve the quality of life.
+  - The culture can also be magnified in unhealthy ways if the focus shifts more toward [transhumanism](cs-biological.md) than [fixing things](https://adequate.life/fix/) to preserve the quality of life.
 - The ideal arrangement is to rely on them as little as possible, for as long as possible.
 - However, as you [age](maturity.md), you will likely depend on them more, and that dependence may save your life.
 

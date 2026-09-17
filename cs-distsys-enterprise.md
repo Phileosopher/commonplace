@@ -1,0 +1,229 @@
+
+# Enterprise systems
+
+Even in not-for-profits, the scale that most organizations need computers is so vast that "enterprise" is a broad catch-all concept.
+
+## History
+
+In the past, the needs for computers were far more niche. At first, every computer was so large and expensive that the only cost-effective solution was in performing extremely heavy number-crunching in the [scientific](science.md) domains.
+
+However, over time, the business world started waking up to how they could dramatically speed up their [accounting reports](money-accounting.md), and computers became important in many business applications by the mid-1970s.
+
+But, not everyone had to run a computer to run 24/7, so it made much more sense to rent out time to use the computer instead.
+
+Since the computers were vast and had been parallel processing, it made sense to have multiple calculations from different sources happening at once. This was called "time-sharing".
+
+Now, ever since the internet became popular in the mid-1990's, most modern large-scale computer needs are designed for the heavy data management back-end operations and front-end management of public-facing [internet websites](cs-sofware-webdev.md).
+
+## High-Power Computers
+
+As a natural product of [economics](money-economics.md), Large things cost more than small things. There are various reasons why "enterprise" computers cost more than consumer-grade computers:
+
+- A relatively fast computer for personal use is often running at full capacity when a business is using it for something heavy (like a [website](cs-sofware-webdev.md) or hosting app data).
+- Consumer computers are typically designed with the understanding that people won't use it at full capacity very frequently, though that's frequently an exception for [playing games](cs-software-gamedev.md). This means that things like heat management and more error-correcting code are *much* more important in businesses than for consumers.
+- When consumer computers "crash", they'll be inconvenienced and might lose data (assuming it's not [cloud-synced](cs-distsys-cloud.md)). When business computers crash, a company will usually lose money.
+
+Consumer computers tend to have prettier-looking cases, but are less efficient and powerful. They also easily cost 1/4 a business computer that's roughly the same specifications.
+
+While it's technically *possible* to run everything in a business on a distributed [Raspberry Pi array](cs-embedded.md), it's typically more labor-intensive for the technicians, so it's not likely saving money in most cases.
+
+## Large Computer Cases
+
+Server-grade computers are often meant to be more reliable, and are therefore often far pricier.
+
+Server racks have very [industry-specific](cs-standards.md) dimensions:
+
+- Width - 17.75 inches wide drawer, with a panel on front that's 19 inches, and inside a housing that can be up to 3 feet wide.
+- Height - 1U is 1.75 inches, and a full-size rack is 48U or sometimes 42U (or, informally, a 7-foot rack), with a half-rack being 22U or 27U.
+- Depth - 50 inches at the maximum, but can be as small as 0 inches. More depth means more room for cables. 29 inches is a standard size.
+
+Each rack pulls out like a drawer, with a lid on it. That way, you can theoretically hold 48 fully separate motherboards in one rack. Of course, weight can be an issue, which is why racks come as 2-post or 4-post to accommodate affordability versus a heavier build.
+
+Thankfully, if you're starting out, a clever [hack](mind-creativity-hacking.md) allows you to [make one with an IKEA coffee table](https://wiki.eth0.nl/index.php/LackRack).
+
+## Large Rooms
+
+Large-scale servers require a *lot* of electricity to run. At the top end, it requires industrial-grade zoning privileges and a power grid that can withstand the constant voltage requirement. This is especially true for CPU-intensive work such as [cryptocurrency mining](cs-blockchain.md).
+
+These rooms need adequate cooling, which often requires plenty of ventilation. Huge companies with data centers use warehouse-sized rooms called colocations or "colos".
+
+To maximize air conditioning use (and cut down on heat), the servers are arranged in a cold/hot aisle configuration:
+
+1. Servers are placed into Row 1.
+2. Other servers are placed into Row 2 behind Row 1, with the back ends (where the fans blow out heat) facing Row 1's back end, making a hot aisle between the two.
+3. More servers are put into Row 3 behind Row 2, with the front ends facing Row 2's front end, making a cold aisle between the two.
+4. Repeat for all servers.
+5. Have fans or air conditioners blow down all the hot aisles to get rid of the hot air from the computes.
+
+## Storage
+
+[Cloud synchronization](cs-distsys-cloud.md) is a good idea for consumer-facing purposes, but there are many situations in "Enterprise File Sharing and Sync" (EFSS) where the data is rarely retrieved. In those situations, the "sync interval" can be every hour or even every day without any real risk.
+
+However, the extra value and availability of that data means it *must* have at least a few more redundancies than a typical consumer "use case":
+
+- Synchronize all the data across multiple hard drives, to avoid the chance that a hard drive fails with that critical data.
+- Synchronize all the data across multiple locations, just in case a freak tornado or political insurrection destroys the data center.
+- Routinely keep copies at a backup site:
+  - Hot site: fully operational and ready to be used in the event of a severe adverse event like a natural disaster or [hack](mind-creativity-hacking.md).
+  - Warm site: partially equipped for a disaster, but may require additional setup before it can be operational.
+  - Cold site: not equipped, but reserved for use along with "cold storage" off the network.
+- If the organization is large enough, synchronize across multiple data centers across the world to increase data transfer speeds for the customers.
+
+## Computes
+
+Consumers tend to use computers sporadically, where they may have some heavy computations for something like a [game](cs-software-gamedev.md) or [graphics](engineering-graphics.md) development, but won't use it at least 14 hours of the day. Enterprise-grade computers are *constantly* running, especially as [a tech business grows](entrepreneur-6_scaling-cs.md).
+
+Since enterprise computers are often multitasking, they need more "time-sharing" than typical software development needs. Across multiple computes, at least one of the CPUs will end up being a "load balancer" to maintain the work across computes, and sometimes across multiple sites.
+
+To that end, multicore processors aren't the most cost-effective solution, since a core burning out in a 6-core processor would waste 5 cores. For that reason, an industry-standard [hack](mind-creativity-hacking.md) is to use GPUs in an array, since they only run 1 processor thread.
+
+For diagnostic reasons, the motherboard often integrates a "baseboard management controller" (BMC), which is basically another computer (a "subsystem") build right onto the motherboard. Then, when the processor fails, the BMC can log exactly what happened.
+
+## Graphics
+
+While software now makes the visual components of [graphics development](engineering-graphics.md) very easy, large-scale rendering often takes tremendous amounts of work to get correct.
+
+For pre-rendered work (such as Pixar movies), the graphics rendering is run through nonstop compute hardware and memory for each scene. Then, each "frame" was "composited" into the final product. Because of all that processing, the heat generation is typically immense, and cooling becomes a major logistical factor.
+
+## Networks
+
+While [networking concepts](cs-networks.md) apply the same in both consumer and enterprise, there are some additional hurdles:
+
+- IP addresses on a network can get complicated, so networks often need "IP address management" (IPAM) software to track them.
+- Most of the updates and management of the computers will be "out-of-band" to make life easier for the people running the updates. This will require an "intelligent platform management interface" (IPMI) that tracks everything across a [distributed system](cs-distsys.md).
+- Maintaining a "backbone" network that's relatively high-speed (with nothing but expensive routers in it), with the lower-speed computer connections linking to the backbone network.
+- [Cybersecurity](cs-infosec-compliance.md) becomes an extremely complicated [design](engineering-design.md) issue, since there are *far* more users, both malicious and innocent. Nothing is ever *entirely* [hack-proof](mind-creativity-hacking.md), but hiding that fact will become a full-time job in a mid-sized company. At one time, cybersecurity could make-or-break [a startup](entrepreneur-1_what.md), since software development used to require *very* [creative](mind-creativity.md) solutions.
+
+The room with the servers is often known as the "main distribution frame", while the telecommunications room (with the network switches) may often be in *another* room called the "intermediate distribution frame".
+
+To improve network connection across long distances, most large companies use "content delivery networks" (CDNs), which save a "cached" copy of the content for easy access for the user near the "network edge". These are particularly necessary because there's an inherent latency from long-distance that comes from the speed of light.
+
+There are two major design philosophies for building a CDN:
+
+1. Enter deep - pioneered by Akamai, which involves closely connecting with *thousands* of endpoints, more expensive and resource-intensive but more reliable.
+2. Bring home - a more popular approach, which connects with Internet Exchange Points (IXPs) to deliver longer-distance from more centralized locations.
+3. Some hybrid of the two, which is often what large tech companies end up doing (e.g., bring home for most major metropolitan areas, but enter deep for rural communities).
+
+To string together CDNs, mainframes often use "exchange points" to hold as middle-points between the original site and the network edge.
+
+To load-balance, the easiest solution can be to route the end user to the nearest geographically proximate location, but that doesn't account for the number of hops or latency. Instead, it's more effective (but more to manage) to adjust based on real-time measurements.
+
+[Cloud implementations](cs-distsys-cloud.md) are often popular now for minimizing latency from long-distance internet connections and making CDNs, and there are several tradeoffs when using them:
+
+- [Security and compliance](cs-infosec-compliance.md) issues, which can include trust issues with [Big Tech](cs-bigtech.md).
+- Optimizing for [UX](engineering-design.md), including making the experience as fast as possible for the user.
+- Costs, where sometimes a mainframe is more expensive when it's sitting idle than simply renting out hosting from somewhere else.
+
+## Testing
+
+[Debugging and testing](cs-software-redesign.md) is just as applicable as with smaller software projects, but the stakes are dramatically higher if anything fails. One missed exit from a [function](cs-langs.md) can cause thousands of people to have their app crash simultaneously in a live environment, and a misplaced comma may mean deleting many clients' data. On the far end, this can lead to some *very* unpleasant [lawsuits](people-contracts.md).
+
+To accommodate this reality, enterprise-grade projects use 3 servers:
+
+1. Prototype server - an experimentation playground, where the developers can easily tweak, modify, and test code.
+2. Test server - a close reproduction of the live environment, but with dummy [APIs](cs-software.md) for complete debugging and testing.
+3. Live server - the server that users actually interact with.
+
+Ideally, they *should* be using the same "environment", since different environments across them can make software development troublesome, especially between the test and live servers. This can mean each seemingly simple element within a smaller software can become autonomous APIs in entirely different network closets or datacenters.
+
+## Approval
+
+To accommodate all the changes, and the need to make sure everything runs correctly, everyone agrees to a "service-level agreement" (SLA) that conforms to a "service-level objective" (SLO).
+
+## Failing/Complexities
+
+The trouble with maintaining three environments, though, is that the conditions for each of them might not be precisely the same. Those edge cases will make a dramatic difference if anything goes wrong.
+
+When things *do* go wrong, panic is likely, proportionally to [what you don't understand](mind-understanding.md). However, while your imagination may create fantastic stories of anxiety and catastrophe, the problem can usually be solved by [diligently reviewing the likely sources of the issue](fix-computers.md).
+
+This failure, mixed with the complexities of *many* various integrated systems, means that every web developer can't be just one person.
+
+- They will absolutely *need* other software-as-a-service (SaaS) to maintain their sanity.
+
+All of these additional complexities require the [specializations](jobs-specialization.md) endemic to [large groups](groups-large.md), which create [entire institutions for computer management](mgmt-cs.md). Altogether, this may mean [organizations](groups-large.md) serving as "managed service providers" (MSPs) or simply managing [security](cs-infosec-compliance.md) as "managed security service providers" (MSSPs).
+
+Further, the conventional host/client relationship (i.e., big computers sending out to comparatively little consumer computers) is easier than [peer-to-peer connections](cs-distsys-p2p.md), which can add even *more* complexities to the arrangement.
+
+## Scope of Service
+
+If you're managing computers, you'll have various customers.
+
+- Some will want to host their low-profile project for their family and friends, while others will have profoundly large computing needs.
+- Some will pay the same amount every month, while others will want your service as a "redundant" backup plan if theirs fails.
+
+Categorically, the variants of providing computer services are often framed as "X-as-a-service":
+
+- Infrastructure (IaaS): base resources like virtual servers, storage, and networking
+  - The customer manages the OS, middleware, and applications
+  - e.g., Amazon EC2, Google Compute Engine, Microsoft Azure
+- Platform (PaaS): gives a framework and pre-configured platform
+  - This is specifically tailored for software developer customers deploying an app
+  - e.g., Google App Engine, Heroku, Microsoft Azure App Services
+- Function (FaaS) or serverless computing: runs single-purpose code functions triggered by specific events
+  - The customer simply deploys it, and the provider deals with all the scaling and infrastructure issues.
+  - e.g., AWS Lambda, Google Cloud Functions
+- Software (SaaS): complete, ready-to-use subscription products
+  - The provider manages *everything*.
+  - This requires the least tech-savvy, and services most people.
+  - e.g., Gmail, Salesforce
+
+Further, there are many specialized services based on specific needs:
+
+- Backup and Recovery (BaaS): storing a backup for crtical information
+- Disaster Recovery (DRaaS): hosting critical external IT in case of a major outage
+- Backend or Mobile Backend (BaaS): pre-made [cloud](cs-distsys-cloud.md) components like database management, [user authentication], and push notifications
+- Container (CaaS): gives a container for the customer
+  - e.g., Google Kubernetes Engine, Amazon ECS
+- Desktop (DaaS): gives a [virtual environment](cs-distsys-vm.md) for a full-desktop remote experience
+  - e.g., Amazon WorkSpace, VMware, Horizon Cloud
+- Enterprise File Synchronization and Sharing (EFSS): for file-focused transfers and synchronization
+- Integration Platform (iPaaS): API-specific connections, which are mostly for [network calls](cs-networks.md)
+- User (UaaS): sells [marketing data](people-image-modern.md) from users to third parties
+
+In particular, software services (usually SaaS) come in several standardized varieties, and many business models are designed around keeping that software going:
+
+- Marketing and Sales: [marketing](marketing.md) support
+  - e.g., Google Ads
+  - Customer Relationship Management (CRM): [marketing](marketing.md) support specifically for [customer service](people-customerservice.md)
+  - Content Management System (CMS): maintains [websites](cs-software-webdev.md)
+  - e.g., Salesforce, chatbots
+- Supply Chain Management (SCM): [logistics](logistics.md) support
+  - e.g., SAP
+  - Point of Sale (POS): specifically managing retail [sales](marketing-sales.md)
+  - Transportation Management System (TMS): specifically managing [specific drivers](autos-driving.md)
+- Enterprise Resource Planning (ERP): unifying everything together and supporting [project management](mgmt-2_projects.md)
+  - e.g., Oracle, SAP
+  - Business Intelligence (BI): makes [predictions](mind-imagination.md) through [analysis](logic.md)
+  - Document Management System (DMS): maintains [documents](language-writing-documentation.md)
+- Human Resources Management (HRM): automating [hiring and employee support](mgmt-3_teams.md)
+- Financial Management System (FMS): [accounting](money-accounting.md)
+  - e.g., QuickBooks/Intuit
+  - Transaction Processing System (TPS): tracks transactions, usually associates with POS as well
+- Learning Management System (LMS): [education](education-how.md) support
+- Electronic Health Records (EHR): [healthcare](body-health.md) support
+- It's worth noting that these are *not* exclusive, and one of them frequently bleeds into serving roles in everything else.
+
+## Over-promising
+
+There is a hidden risk with any sufficient "unlimited" plan for absolutely every service provider.
+
+1. Any service providing unlimited storage/domains/sites/bandwidth cannot literally fulfill that role, and make a [marketing](marketing.md) risk:
+   - This is effectively the economics of the all-you-can-eat buffet.
+   - First, they are hoping that their customers will not test the limits of that unlimited condition.
+   - Second, they are trusting that enough clients will *not* heavily use the service enough to offset the cost.
+   - Third, they may try to use [design patterns](engineering-design.md) that steers the customer away from the more expensive portions of their service.
+2. To offset that impossible promise, they sell the product at a premium to the 80% Pareto distribution who *won't* use the promised service to the fullest of its ability.
+   - This is essentially what [insurance companies](money-insurance-how.md) do.
+   - e.g., if 20% of users effectively consume $100/month in direct expenses and the other 80% consume $1/month, they break even at $20.80/user, so it makes sense to set it at $30/month.
+3. As long as many people use the product without taking full advantage of the "unlimited" service, things are fine. However, if for whatever reason more people use that unlimited service, the pricing will have to change.
+4. It's also not always easy to compete with pricing, since other hosting providers are promising the same thing.
+5. Over time, prices go up and covered services go down, or they will go out of business.
+
+This problem is part of the back-end reason why [FLOSS culture](legal-ip-floss.md) emphatically emphasizes "protocols over platforms".
+
+However, the bad marketing promise has 2 possible solutions:
+
+1. Set a hard and non-negotiable limit for every public pricing model. This allows the service provider to accurately gauge the cost and never worry about changing their promises later. It gives full flexibility, but keeps everyone honest and won't ruin the customers' lives later.
+2. Charge per-item, per-piece, at a *very low profit margin. This often requires the customers to be abnormally tech-savvy unless you bill the customer for tech support.
+
+To specialize with different customers, the answer is to set up a "dedicated" plan and a "shared" plan. The dedicated customers will have more direct access to everything, while the enthusiasts and small business owners can use the shared tier.

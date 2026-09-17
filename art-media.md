@@ -8,7 +8,7 @@ In some ways, the medium is not *that* important:
   - [Writing](language-writing.md) permits complete flexibility with imagination and ideas.
   - Audio connects closest to subconscious feelings and thoughts.
   Performance arts make the entire experience interactive with the audience.
-  - [Software](computers-software.md) (especially [games](computers-software-gamedev.md)) is the fullest form of audience involvement possible.
+  - [Software](cs-software.md) (especially [games](cs-software-gamedev.md)) is the fullest form of audience involvement possible.
   - [Creating social systems](mgmt-1_why.md) permits *other* people to be creative.
 - Frequently, your talent in one medium can spill over to other media.
 
@@ -198,4 +198,4 @@ Website/Software Design: presenting an advanced, ordered structure for the user 
 
 - Digital Art + Change
 
-[Game Development](computers-software-gamedev.md): presenting a specific type of Software Design that focuses strictly on the user's [feelings](mind-feelings.md)
+[Game Development](cs-software-gamedev.md): presenting a specific type of Software Design that focuses strictly on the user's [feelings](mind-feelings.md)

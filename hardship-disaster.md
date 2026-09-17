@@ -64,7 +64,7 @@ We tend to preoccupy ourselves with unlikely events and ignore likely ones, and 
 - Specific viruses that uniquely mutate/kill humanity (e.g., The Walking Dead).
 - Tyrannical government that radically changes the [sociopolitical landscape](groups-large.md) (e.g., Nineteen Eighty Four, Brave New World).
 - Global thermonuclear [war](people-conflicts-war-why.md) (e.g, Doctor Strangelove, Fallout).
-- [AI](computers-ai.md)/robots that become sentient and rapidly decide to destroy humanity (e.g, Terminator).
+- [AI](cs-ai.md)/robots that become sentient and rapidly decide to destroy humanity (e.g, Terminator).
 - Extraterrestrials that invade earth (e.g, War of the Worlds, Independence Day).
 - Absurdly violent natural disasters (e.g, 2012, The Day After Tomorrow).
 - Huge interstellar events that render earth barely inhabitable (e.g, The Wandering Earth).
@@ -144,7 +144,7 @@ Manage risks with a wide variety of easily adaptable tools:
   - Metalworking, knife-making, gunsmithing
   - Glassblowing, pottery
   - Sewing embroidery, leather crafting, toy making
-  - Amateur electronics, robotics, [computer programming](computers-programming.md)
+  - Amateur electronics, robotics, [computer programming](cs-langs.md)
   - Farming or hunting
 - Get small, easily tradable, permanently useful commodities, such as hard liquor, lighters, ammunition, and cigarettes.
   - Liquor (particularly vodka) also has antiseptic and herbal medicinal properties.
@@ -155,7 +155,7 @@ Avoid the over-hyped survival pitfalls:
   - Ads about buying a commodity are because people make money from it.
   - Keeping bars of precious metal at your house is a *very* real risk to where [insurance](money-insurance.md) companies won't adequately cover it, so keep them in bank safe deposit boxes (~$20/year) if you trust banks.
   - Gold is difficult to break apart for staples like bread, so only use it to store and move money large-scale.
-- Cryptocurrencies, since you should [know what they are](computers-blockchain.md) before investing in them.
+- Cryptocurrencies, since you should [know what they are](cs-blockchain.md) before investing in them.
 - Commodities and futures, which [are legitimate investments](money-investing.md), but you can *really* lose money if you don't know what you're doing.
 
 While you have time, make a critical decision *right now* to stay or go in a long-term disaster:

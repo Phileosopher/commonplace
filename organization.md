@@ -301,7 +301,7 @@ Filing cabinets and paperwork:
 - Keep all necessary papers, records, identification, and passwords in one place, preferably near your desk.
 - Categorize files as much as you need to quickly access everything.
 - Your system should mean each document can only be in one location.
-- You can get rid of most of your documents with a flatbed scanner and either an external hard drive or free [cloud](computers-distsys-cloud.md) drive account.
+- You can get rid of most of your documents with a flatbed scanner and either an external hard drive or free [cloud](cs-distsys-cloud.md) drive account.
 - Shred or burn obsolete documents when they have information you wouldn't want a stranger to know.
   - You can usually shred most things after 7-10 years.
   - If you're at all uneasy about old documents, scan before shredding.

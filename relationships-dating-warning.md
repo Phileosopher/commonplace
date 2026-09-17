@@ -24,6 +24,13 @@ Unable to be honest:
 - Any [lying](people-lying.md) or [unawareness](mind-awareness.md) now will only get worse at the relationship persists.
 - This can represent emotionally as well through pulling back after closeness.
 
+Can't permit you to express your feelings:
+
+- Openly express how you feel, what you're thinking, and what you're concerned about, then watch how they respond.
+  - If an argument starts, then take note of it.
+  - Try again a few more times and see if an arugment starts again.
+- If someone is consistently starting an argument when you're being vulnerable, that person will [abuse you](hardship-abuse.md) later.
+
 Constantly seeking compliments or affirmation:
 
 - Sometimes, it subtly expresses through an awkward silence after expressing an accomplishment.

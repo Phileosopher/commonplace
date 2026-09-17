@@ -46,7 +46,7 @@ Narcissism has two major forms and some sub-forms:
 - Covert/introverted/fragile narcissism is a public image of shame and self-hatred, but there is a feeling of entitlement they secretly believe they deserve.
   - Malignant narcissism captures more antisocial behaviors such as sadism, revenge, aggression, and paranoia.
 - There is also a high-functioning exhibitionist narcissism, but it doesn't have a clinical diagnosis because it's technically a functioning way to live.
-  - People in this domain tend to spend excessive time on [social media](computers-networks-social.md) and [maintaining their image](people-image.md).
+  - People in this domain tend to spend excessive time on [social media](cs-networks-social.md) and [maintaining their image](people-image.md).
 
 Most kings, [cult leaders](people-culture-cults.md), and [religious leaders](religion.md) are highly influential narcissists.
 

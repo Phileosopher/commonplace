@@ -5,7 +5,7 @@
 
 Most companies will go through 3 interviews while hiring a tech worker (a software developer or two, and a manager), but larger companies often go through 6 interviews.
 
-- This is an *insane* waste of time, but exists as a [cultural](people-culture.md) afterbirth of how [computer work requires *constant* re-re-verification](computers-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable [taking risks](safety-riskmgmt.md).
+- This is an *insane* waste of time, but exists as a [cultural](people-culture.md) afterbirth of how [computer work requires *constant* re-re-verification](cs-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable [taking risks](safety-riskmgmt.md).
 
 To save time, ask before interviewing how many interviews you should expect. If the company's representative can't give you a straight answer, you might be applying to a [bad company](jobs-suck-cs.md).
 
@@ -31,7 +31,7 @@ The technical interviews are [a complete class of their own](jobs-5_interview-te
 
 ## Human interviews
 
-In-person interviews can be challenging. This is often not because of the interview itself, but because you may have had several technical *and* in-person interviews, with a behavioral interview in the mix, before you got to one that talks about [system design](computers-software.md).
+In-person interviews can be challenging. This is often not because of the interview itself, but because you may have had several technical *and* in-person interviews, with a behavioral interview in the mix, before you got to one that talks about [system design](cs-software.md).
 
 Make about 10 stories ahead of time that explicitly indicate how you succeeded. Have two versions available:
 

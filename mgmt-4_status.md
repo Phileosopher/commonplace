@@ -40,7 +40,7 @@ People almost never work as much as they say they do.
 
 For most industries, you'll get more work out of them relative to their hourly rate if you give them a smaller 4-day work week.
 
-- Four-day weeks are a good idea when the project is long-term (e.g., [software developers](computers-programming.md), [actuaries](math-stat.md)), but not for short-term tasks that require a person's physical presence (e.g., retail, construction).
+- Four-day weeks are a good idea when the project is long-term (e.g., [software developers](cs-langs.md), [actuaries](math-stat.md)), but not for short-term tasks that require a person's physical presence (e.g., retail, construction).
 - Do *not* use a four-day week for tasks that only need a human being physically present (e.g., security guard, cashier).
 
 If you have an international team, aim for the follow-the-sun method.
@@ -208,9 +208,9 @@ Let them choose their computer upgrades.
 Protect the organization's assets.
 
 - Install [GPS](logistics-navigation.md) tags on everything that could be stolen.
-- Use [cloud storage and backup](computers-distsys-cloud.md) to prevent data loss from hard drive failures.
+- Use [cloud storage and backup](cs-distsys-cloud.md) to prevent data loss from hard drive failures.
 - Teach everyone [basic computer skills](computers.md), or keep them away from computers as much as possible.
-- Practice [basic cybersecurity](computers-infosec.md) including password policies, antivirus software, and a VPN.
+- Practice [basic cybersecurity](cs-infosec.md) including password policies, antivirus software, and a VPN.
 
 Clearly demarcate roles to prevent any one person (including yourself) to have full control.
 

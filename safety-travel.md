@@ -11,7 +11,7 @@ Add safeguards to your possessions.
 
 If you’re leaving your country, learn ahead of time what foreign internet service providers and customs agents can access on your phones and personal devices.
 
-- Assess ahead of time what devices and data you *must* bring, and how you plan to connect to the internet and access your important information (e.g., [private VPN](computers-infosec-cysec-network.md), [authentication flash drive](computers-infosec-authentication.md))
+- Assess ahead of time what devices and data you *must* bring, and how you plan to connect to the internet and access your important information (e.g., [private VPN](cs-infosec-cysec-network.md), [authentication flash drive](cs-infosec-authentication.md))
 Evaluate your personal threat model and make an informed risk decision about what devices and data to bring with you, and how you plan to connect to the internet and authenticate to your accounts while traveling (private VPN? Yubikey?)
 
 Throughout your trip, try to stay low-profile.

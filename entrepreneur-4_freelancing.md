@@ -29,13 +29,13 @@ As you work on a small-scale, you'll be able to adapt your long-term plans to co
 
 If you're trying to make a living off a hobby, you will very likely *not* succeed if that hobby is:
 
-1. Whatever people do anyway for [fun](fun.md) (e.g., [video games](computers-software-gamedev.md), reading [stories](stories-why.md)).
+1. Whatever people do anyway for [fun](fun.md) (e.g., [video games](cs-software-gamedev.md), reading [stories](stories-why.md)).
    - However, you can still make a living on the tedious experience of *making* things that are fun.
 2. Easy to do (e.g., writing articles about movies, giving lectures on a video).
    - If you want to make a living at easy things, do something that's very hard with them.
 3. Abstract enough to be impractical (e.g., [philosophy](philosophy.md), [art appreciation](creations.md)).
    - You can make a living at it if you can find a [practical use](purpose.md) for the abstract idea.
-4. Low-demand (e.g., medieval-period armor fabrication, [VR headset](computers-xr.md) consultation).
+4. Low-demand (e.g., medieval-period armor fabrication, [VR headset](cs-xr.md) consultation).
    - The idea may be sound, but [premature](people-trends.md).
 
 Unless it's a hobby you enjoy, your side hustle is only worth your time relative to other things you could do:
@@ -68,7 +68,7 @@ Specialized skills:
 
 - Work on [cars](autos.md)
 - Repair electronics
-- [Fix computers](fix-cs.md)
+- [Fix computers](cs-fix.md)
 - Clothing alterations and tailoring
 - Brew or distill [beer/liquor](fun-alcohol.md)
 - [Travel](fun-vacations.md) consultant or tour guide
@@ -96,7 +96,7 @@ Artistic and [creative](mind-creativity.md) skills:
 - Sell stock photography
 - [Teach](education.md) with web videos, podcast or blog.
 - Sell a subscription service for paying members.
-- [Build an app](computers-sofware-webdev.md).
+- [Build an app](cs-sofware-webdev.md).
 
 Rent a room in your [home](home-maintenance.md) or secondary property:
 

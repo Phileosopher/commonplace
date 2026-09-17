@@ -69,7 +69,7 @@ Irrespective, the cumulative algebra education continues:
 
 ## Logarithms
 
-While most people are familiar with exponents, many elements of [computing](computers.md) (such as [crypto mining](computers-blockchain.md)) use logarithms, which are the *opposite* of exponents. While an exponent becomes dramatically higher with each iteration (e.g., 3, 9, 27, 81, etc.) logarithms become decreased with each iteration as it progresses infinitely toward that number (e.g., 0.6, 0.8, 0.9, 0.95, etc.).
+While most people are familiar with exponents, many elements of [computing](computers.md) (such as [crypto mining](cs-blockchain.md)) use logarithms, which are the *opposite* of exponents. While an exponent becomes dramatically higher with each iteration (e.g., 3, 9, 27, 81, etc.) logarithms become decreased with each iteration as it progresses infinitely toward that number (e.g., 0.6, 0.8, 0.9, 0.95, etc.).
 
 ## Linear Algebra
 

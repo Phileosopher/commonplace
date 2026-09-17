@@ -25,6 +25,8 @@ Every person is a tripartite being with a body, a soul, and a spirit.
 - God is in essence a soul (Leviticus 26:11, Psalm 11:5, Isaiah 42:1).
 - But, God is also a spirit (John 4:24).
 - The [secular world](https://gainedin.site/scientism/) mostly demarcates a type of body/soul/spirit distinction as the id, ego, and superego.
+  - Their distinction, however, places the superego as part of the soul, with nothing particularly demarcated about any type of spirit.
+  - While it isn't theologically conclusive, science has shown that we emit some type of visible light that vanishes when we [die](hardship-death.md).
 
 To attain fullness in Christ, we must manage all three components of ourselves (Romans 12:1-2 1 Thessalonians 5:23).
 

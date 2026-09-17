@@ -262,7 +262,7 @@ Brainstorm ways to serve others with the things you naturally do for [fun](fun.m
   - Music
   - Writing
   - Video and sound production/editing
-  - [Computer programming](computers-programming.md)
+  - [Computer programming](cs-langs.md)
 - Share your personal hobbies with other believers.
 
 ## Improving relationships with others

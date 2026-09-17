@@ -58,7 +58,7 @@ Exclusionary rule - evidence collected or analyzed in violation of a defendant's
 
 - Good-faith exception - an exception to exclusionary rule: evidence can be admitted if it's collected in violation of an individual's constitutional rights, *but* the police officer believed their actions were legal
 - Independent source doctrine - an exception to exclusionary rule: evidence initially discovered during or in the course of an unlawful search can still be lawful if it was later obtained independently by lawful activities later
-- Mosaic theory - for assessing 4th Amendment violations (i.e., [privacy violations](computers-bigtech.md)), a government bureau's information collection is treated as an aggregate "mosaic" rather than on an individual per-agency or per-investigator basis
+- Mosaic theory - for assessing 4th Amendment violations (i.e., [privacy violations](cs-bigtech.md)), a government bureau's information collection is treated as an aggregate "mosaic" rather than on an individual per-agency or per-investigator basis
 - Open-fields doctrine - a search without a warrant of the area outside a property owner's dwelling and immediate area doesn't constitute a violation of the 4th Amendment
 - Plain view doctrine - an exception to exclusionary rule: an officer is permitted to seize evidence and contraband found in plain view during a lawful observation
 - Third-party doctrine - people who voluntarily provide information to third parties (e.g., banks, phone companies, email servers, internet service providers, social media companies) have no reasonable expectation of privacy of that information, so governments don't need a warrant to obtain it

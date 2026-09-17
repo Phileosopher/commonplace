@@ -10,7 +10,7 @@ Every discipline is configured to address a specific portion of living:
 - [Accountants](money-accounting.md) keep financial records.
 - Farmers and ranchers tend to [nature](reality.md) to create [food](livestock.md) for others.
 - [Attorneys](legal-lawsaxioms.md) maintain and enforce [boundaries](people-boundaries-why.md) and [potential conflicts](people-conflicts.md) between people.
-- [Computer programmers](computers-software.md) create [logic](logic.md)-based [automation](computers-programming.md).
+- [Computer programmers](cs-software.md) create [logic](logic.md)-based [automation](cs-langs.md).
 - Mechanics and technicians [repair](https://adequate.life/fix/) various types of [technology](technology.md).
 - [Scientists](science.md) [conclude](logic.md), [measure](math.md), and record [reality](reality.md).
 - Media professionals [create](creations.md) and [perform](results.md) [stories](stories-why.md).

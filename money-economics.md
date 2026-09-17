@@ -57,7 +57,7 @@ People use money for a few reasons:
 - It's a measurable and "portable" type of [power](power-types.md), so it's easy to keep around and stockpile (except for the risks from inflation).
 - For the sake of [control](power.md) and organizational [understanding](mind-understanding.md), [government taxation](money-accounting.md) policies are typically based on money transactions.
 
-Governments can print money, but they're not the only organizations who can. [Blockchain technology](computers-blockchain.md), for example, is the backbone of cryptocurrency. In that situation, the scarcity is the mathematically regulated number of blocks contained on a chain, instead of a government's [control](people-rules.md) over supply.
+Governments can print money, but they're not the only organizations who can. [Blockchain technology](cs-blockchain.md), for example, is the backbone of cryptocurrency. In that situation, the scarcity is the mathematically regulated number of blocks contained on a chain, instead of a government's [control](people-rules.md) over supply.
 
 A country *has* to print more money constantly to keep up with the growth of a country, and it's in the best interests of a government to have an overstated value of their currency, so inflation is a natural result. However, too much printing and there will be runaway inflation as the value of each "denomination" goes down. It's a delicate balancing act.
 
