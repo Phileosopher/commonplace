@@ -3,7 +3,7 @@
 
 You can use a computer locally on-premises("on-prem") or, with the power of the [internet](cs-networks.md), you can use it remotely.
 
-If you use it remotely, your information is remotely accessible, or in the "cloud".
+If you use it remotely, your information is remotely accessible, or in the "cloud". It's simply someone else's computer.
 
 Cloud services can be public, private, or a hybrid. Public cloud shares the service across multiple users for a variety of reasons, while private is often for [security](cs-infosec.md) reasons to protect the information.
 

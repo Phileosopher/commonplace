@@ -49,7 +49,7 @@ However, machine learning is excellent for *very* specific tasks which are highl
 
 The AI [trend](people-trends.md) arose through many [Big Tech corporations](cs-bigtech.md) passing through [the entire internet](cs-software-webdev.md) into their training models.
 
-Naturally, machine learning models trained on the internet will give the same sort of information that the internet gives (i.e., bad information).
+Naturally, machine learning models trained on the internet will give the same sort of information that the internet gives (i.e., usually good but often bad information).
 
 One lesser-known aspect of machine learning is that the current computing for it requires a *lot* of processing power. As of 2024, an AI-generated image required an average of 92 cents to generate.
 

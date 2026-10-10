@@ -207,7 +207,7 @@ Most [small groups](groups-small.md) can sit latent for *decades* without becomi
 Some of these groups are patently obvious to anyone on the outside:
 
 - [Violent](people-conflicts-war-why.md) extremist groups (e.g., terrorists)
-- Cartels and organized crime (e.g., mafia)
+- Cartels and organized [crime](legal-crimes.md) (e.g., mafia)
 - [Human traffickers](people-slavery.md)
 - [Charming](influence.md) [religious](religion.md) leaders and [human potential](politics-leftism.md) leadership
 - [Multi-level marketing](marketing-mlm.md)
@@ -228,11 +228,23 @@ Generally, the public only notices cults when they violate [basic human rights](
 - Engagement in [questionable arrangements](people-contracts.md) with others.
 - *Severely* [inappropriate behavior](morality-taboo.md) to advance the cult's cause.
 
+The thought reform of the group, however, isn't static, and Robert Lifton defined 8 criteria for extreme thought reform:
+
+1. Milieu control: controlling what a person sees, hears, reads, and writes
+2. Mystical manipulation (aka planned spontaneity): making the cult's teaching the one true source of information
+3. Demand for purity: asserting that all things affiliated with the group are [morally](morality.md) good, so much that things outside the group are absolutely evil
+4. Confession: provoking self-surrender in the members through their devoted confession of sins, which will make them abandon their past pre-cult life in the process
+5. Sacred science: the cult's sacredness means it's entirely true, so questioning or criticizing those assumptions is prohibited
+6. Loading the language: members learn to repeat jargon that shuts down all further thought on a matter
+7. Docrine over person: anytime anything feels wrong, the member is provoked to feel they or their doubts are the problem, and not the doctrine
+8. Dispensing of existence: When the morality of the group is absolute, then all those not in the group are bound up in evil, not enlightened, not saved, and don't have the right to exist
+
 Once a cult has fully indoctrinated members, they will [decide](mind-decisions.md) to perform acts of violence on their own:
 
 - Killing people who [didn't deserve it](morality-justice.md), sometimes while making it a [public spectacle](stories-storytellers.md).
 - Operating a vehicle (e.g., [auto](autos.md), plane) to crash into buildings or crowds of people.
 - Using weapons (e.g., guns, bombs) to attack a public place (e.g., school, convention center).
+- At its farthest, with enough control, they can often [start a war](people-conflicts-war.md).
 
 ## Permitted
 

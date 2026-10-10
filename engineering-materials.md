@@ -87,3 +87,9 @@ To [make it yourself](https://www.youtube.com/watch?v=ZVcT1b1NH_4), you'll need 
 6. Weld a washer to the bottom of the pipe, then screw two nuts onto the outside to firmly secure it.
 7. Make a handle by welding another nut to a drilled-out 16" hole, then welding another ergonomic grasp to the other side of the handle.
 8. After securing the handle, you can make as much B40 mesh as you want with a "meat grinder" motion.
+
+## Materials science
+
+Materials science is essentially combining various materials and seeing if there's any result from them.
+
+- It, therefore, becomes a type of [accounting](money-accounting.md) over the many thousands of various materials.

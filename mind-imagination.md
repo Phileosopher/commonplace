@@ -22,7 +22,7 @@ Anything that isn't real is the domain of [fictional stories](stories-why.md). B
 
 ## Predictions and expectations
 
-Predictions are stories we have [reason](logic.md) to [believe](mind-understanding-certainty.md) will happen. By the time we're adults, we tend to subconsciously say "no" to all the impossible or unlikely things and localize our thoughts to the possibilities that exist within [reality](reality.md) alone.
+Predictions are stories we have [reason](logic.md) to [believe](mind-understanding-certainty.md) will happen. By the time we're adults, we tend to subconsciously [say "no"](people-conflicts-no.md) to all the impossible or unlikely things and localize our thoughts to the possibilities that exist within [reality](reality.md) alone.
 
 When we're children, we make sweeping generalizations with very little accuracy. [Adults](maturity.md) tend to predict things with more case-by-case focus (barring [trauma](hardship-ptsd.md)), but slowing down thoughts to consider [bias](mind-bias.md) still takes tremendous [discipline](morality.md).
 

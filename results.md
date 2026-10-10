@@ -77,6 +77,8 @@ To perform well is to be [successful](success-1_why.md), but a successful person
 
 APPLICATION: People tend to credit successes to themselves, and failures to their environment. Attributing failures to oneself requires humility, but pays well in [succeeding](success-1_why.md), and attributing successes to others is often a [meaningful](meaning.md) experience in itself.
 
+Further, results aren't always guaranteed from decisions. Many times, the right decision creates bad results, and the judgment will heavily depend on the observer's [axiology](values.md).
+
 The [quality](values-quality.md) of a successful [creation](creations.md), though, is usually defined by difficult-to-measure components. Beyond the period's [fashions](people-trends.md) and existing [technologies](technology.md) that make the task seem trivial, a well-received creation must feel "[human](humanity.md)" and sincere through many, many tiny imperfections placed throughout its work. It also must defy present [trends](people-trends.md) without breaking too many [taboos](morality-taboo.md).
 
 Going from awful to adequate takes *much* more work than going from adequate to successful:

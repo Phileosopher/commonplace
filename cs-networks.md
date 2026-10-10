@@ -48,6 +48,8 @@ Generally, any network topology that values complete "redundancy" should have 2 
 
 ## Protocols/layers
 
+At its most basic, a computer needs an IP address, subnet mask, gateway, and DNS server to connect to a typical network.
+
 Due to the complexity of a computer network, there is [a specific set of layers](cs-networks-layers.md) to understand how network information is sent.
 
 ## LANs

@@ -27,10 +27,18 @@ To make the device waterproof, standard waterproofing engineering applies for mo
 
 Computers process with DC ("direct current") instead of AC ("alternating current"). But, your typical household plug runs on AC, which tends to fluctuate all over the place.
 
-A "power supply" serves two roles:
+A "power supply unit" (PSU) serves two roles:
 
 1. Convert AC power to DC.
 2. regulate the flow of electricity for what the computer needs ("continuous wattage"), measured as a wattage rating.
+
+Conversion creates heat, which wastes wattage. Fr this reason there is an 80 PLUS certification to ensure a PSU works efficiently enough at various loads:
+
+- Bronze:   82%+ efficiency at 20% load, 85% at 50% load, and 82% at 100% load.
+- Silver:   85%+ efficiency at 20% load, 88% at 50% load, and 85% at 100% load.
+- Gold:     87%+ efficiency at 20% load, 90% at 50% load, and 87% at 100% load.
+- Platinum: 90%+ efficiency at 20% load, 92% at 50% load, and 89% at 100% load.
+- Titanium: 90%+ at 10% load, 92% efficiency at 20% load, 94% at 50% load, and 90% at 100% load.
 
 Conveniently, batteries are designed to hold DC power already. Depending on how the circuit runs into the computer, batteries are separate power supplies because they regulate the wattage.
 
@@ -160,6 +168,10 @@ Laptops and mobile devices are a weird exception to modularity. Their form facto
 3. If it was popular enough, buy an aftermarket part from a part vendor that specializes in it.
 4. Pull apart a similar or exact model elsewhere to replace that component.
 5. Accept defeat and throw it away.
+
+Almost any computer designed for [gaming](fun-games-cs.md) or [deep learning](cs-ai-ml.md) will add a high-powered "[graphics](engineering-graphics.md) processing unit" (GPU) to it.
+
+- Amazingly, modern top-end GPUs can be so heavy that they can crack the motherboard from gravity alone.
 
 ## I/O Chains
 

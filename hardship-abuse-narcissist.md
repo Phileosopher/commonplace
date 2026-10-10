@@ -10,6 +10,7 @@ In particular, people with [Cluster B personality disorder](mind-neurodivergence
   3. The entire thing is so extreme that it sounds like a dramatization in itself.
   4. Many of them aren't aware of the codependency that develops with trauma bonding, so they think the victim could always simply leave.
 - Further, there is a higher statistical likelihood of Cluster B among [leaders](mgmt-1_why.md), so many of them will have zero compassion on the abuse they do elsewhere.
+- It's a reasonable assertion to state that nearly every work of fiction associated with psychological horror is a theme variation on narcissistic abuse.
 
 If you've *ever* been close to a narcissist, they will cause trouble for you:
 
@@ -26,10 +27,17 @@ Staying around the abuse can be exhausting.
 
 - From the outside, most people don't understand that narcissistic abuse preys on people who have a combination of [high empathy](mind-feelings.md) mixed with [bad boundaries](people-boundaries.md).
   - Most people don't put up with [their awful behavior](people-conflicts-narcissist.md), but these people, for whatever reason, do.
-- Being a victim, therefore, requires trying to stay attentive to their vacillating [identity](people-identity.md).
+- A narcissistic abuse victim, therefore, is trying to stay attentive to their vacillating [identity](people-identity.md).
   - To the victim, they think they're helping them, but they're simply useful to the abuser's [purposes](purpose.md).
-- This entire experience of following their constantly shifting [image](people-image-why.md) is exhausting to maintain ("duplicity fatigue")
+- This entire experience of following their constantly shifting [image](people-image-why.md) is exhausting to maintain ("duplicity fatigue").
   - That exhaustion, sadly, is part of the manipulation mechanism for the abuser.
+    - While many potential abusers with a personal identity crisis may abuse others, they will cease if they realize how much they're hurting other people.
+    - The abuser, however, will use that exhaustion to exploit their personal agenda.
+
+Usually, a relationship with narcissistic abuse will have a great-looking [public image](people-image.md).
+
+- THis is by design, since the abuser doesn't want anyone else to see the [evil](morality-evil.md) they do when nobody else is around.
+- Further, the victim is usually oblivious to the mistreatment until [they've been discarded](hardship-abuse-narcissist-stages.md).
 
 Conceptually, narcissistic abuse can create "empathy without compassion".
 
@@ -85,6 +93,13 @@ Be prepared for the narcissist's triangulation or "flying monkeys" (a term refer
 - The narcissist's [capacity for influence](power-influence.md) heavily determines how many flying monkeys they have and who will believe them.
   - This can become disastrous across society when some of those people are in positions of legitimate authority (e.g., police officer, judge)
 
+Narcissistic abuse from [your family](hardship-family.md) (especially parents) often creates wounds that last a lifetime.
+
+- Depending on their role in your life, you will often reproduce their patterns in your own life later.
+  - There's a high likelihood you'll find [conflicts](people-conflicts.md) later in life that [resemble their behaviors](people-conflicts-narcissist.md).
+  - If they were an opposite-sex caregiver, there's a good chance you'll find a [relationship](relationships-dating.md) with someone the same pathology.
+- The best thing you cna do is to learn to heal before making your way into the rest of the world, *especially* if you've experienced any adult [hardship](hardship.md) that reproduces what you saw in childhood.
+
 ## Healing afterward
 
 Recovering from the abuse is complex, and it takes time.
@@ -109,6 +124,24 @@ The only healing from narcissistic abuse comes through both finding our worth, a
   - Your value is non-negotiable, simply because you were a lovingly created being.
 - That value extends outward to understanding everyone else has value as well.
   - Each person is a broken, damaged soul who is worthy of being loved.
+
+The stress they created with you will create severe [health issues](body-health.md) that you'll ned time to recover from.
+
+- The constant sense of threat and violence will create many psychological issues that may take years to recover from:
+  - Chronic [anxiety](mind-feelings-anger.md)
+  - [Sleep issues](sleep-insomnia.md)
+  - [Brain fog](mind-awareness.md) and [uncertainty/doubt](mind-understanding-certainty.md) issues
+  - [Depression](hardship-depression.md)
+  - [Identity](people-identity.md) crisis, proportionally to the "psychological homicide" they've experienced
+- There are also physiological consequences of this:
+  - Chronic fatigue
+  - Digestive issues or nausea
+  - High blood pressure
+  - Body tension and muscle pain
+  - More severe issues like diabetes, heart disease, and cancer
+- This can extend to social issues
+  - Frequently [apologizing](hardship-forgiveness.md), even when they know they didn't do anything wrong.
+  - Intentional nondisclosure of important issues, facts, and [feelings](mind-feelings.md).
 
 The complex issue, however, is that every step you take without the narcissistic abuser will inevitably represent breaking free of a type of [addiction](addiction.md) to that familiar abuse.
 
@@ -136,6 +169,12 @@ When breaking from the abuser, your relationships with others will become more c
   - Sadly, most people find ignoring issues more convenient when they aren't [aware enough](mind-awareness.md) to make a clear decision, especially when it doesn't affect them directly.
 - However, at the same time, while *you* may have missed the warning signs, other people often see them.
   - You will often not *see* those people rejecting your past abuser, but that person is slowly making enemies wherever they go.
+
+[Forgiveness](hardship-forgiveness.md) can be very difficult after narcissistic abuse, especially [if it was a parent](hardship-family.md).
+
+- Most people don't articulate [the distinction between forgiveness types](hardship-forgiveness.md), and it's impossible to exonerate or even forbear someone who is unable to recognize the wrong they've committed.
+- Further, before someone has emotionally released, most narcissistic abuse victims will need to understand they *were* [victims of abuse](hardship-abuse.md).
+  - This is simply to give credibility to their experience, which is the foundation for moving on.
 
 ## Making decisions afterward
 
@@ -185,8 +224,23 @@ Their behavior is the direct cause of most [family hardship](hardship-family.md)
 - Most narcissists are *very* severe parents, often [disciplining their children](parenting-children-boundaries-rules.md) far more than loving them.
 - When there isn't any formal discipline in the home, the children are exposed to severe [chaos and disorder](unknown.md).
 
-Being raised by a narcissist can severely affect someone's [personality](people-personality.md).
+Narcissistic parents maintain a few consistent patterns toward their children that severely affect someone's [personality](people-personality.md) later in life.
 
+- Most narcissistic parents will become jealous toward their own children as the children grow up.
+  - This is becuase they feel threatened by the children developing talents, attention, or success the parent can't maintain.
+  - The parent will frequently try to undermine or belittle their child to maintain superiority.
+- As the child grows, the parent will become competitive with their children, often interpreting them as rivals more than dependents.
+  - This will often arise as trying to outperform their child, which can stifle the child's self-esteem and growth.
+- The parent will often take credit for their child's achievements.
+  - This will subtly express as a product of their own efforts, which denies the child a sense of individual accomplishment.
+- That parent will also spend more time trying to impress strangers' children more than caring for their own child.
+  - This will often represent as showing more interest in other children's achievements or well-being to appear admirable to outsiders.
+- In all of this, they will expect the children to be grateful for their sacrifices.
+  - This means constant acknowledgement and appreciation for those sacrifices, regardless of the emotional harm they've caused.
 - A child raised in that environment will come to believe that they can only receive love conditionally based on what they do, and are never worthy of love for their intrinsic nature.
-- Beyond anything else, narcissist parents create an inherent risk that their children become narcissists as they [mature](maturity.md).
-- Many other [neurodivergences](mind-neurodivergence.md) can arise, such as [autism](mind-neurodivergence-autism.md) (through feeling entirely unloved to the point of severe [distrust](mind-trust.md)) or Tourette's Syndrome (through bottled-up repressed behavior).
+- Generally, the child's response to the narcissistic abuse will define how their [personality](people-personality.md) forms.
+  - Their Conscientiousness will form extreme characteristics if they see through their parent's lies.
+  - Their Agreeableness will develop more highly if they see the social risks that come with a damaged image.
+  - The scope of their emotional involvement with their parent will determine their Neuroticism.
+  - Beyond anything else, narcissist parents create an inherent risk that their children become narcissists as they [mature](maturity.md).
+  - Many other [neurodivergences](mind-neurodivergence.md) can arise, such as [autism](mind-neurodivergence-autism.md) (through feeling entirely unloved to the point of severe [distrust](mind-trust.md)) or Tourette's Syndrome (through bottled-up repressed behavior).

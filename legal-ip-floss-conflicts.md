@@ -18,7 +18,7 @@ Most maintainers need to hear that it's perfectly fine for them to do the follow
 
 If it's public-facing, open-source software developers will get plenty of unwarranted hate for what they do, especially if their software becomes popular.
 
-- Many times, the maintainers are often so [autistic](https://adequate.life/autism) that they don't realize they can simply [set good boundaries](people-boundaries.md) and say "no" to others' demands.
+- Many times, the maintainers are often so [autistic](https://adequate.life/autism) that they don't realize they can simply [set good boundaries](people-boundaries.md) and [say "no"](people-conflicts-no.md) to others' demands.
 - Some developers [enjoy some levity with it](https://notepad-plus-plus.org/news/v843-unhappy-users-edition/), but there are often many toxic people who send unpleasant messages.
 
 While the codebase is completely public and open, open-source [version control](politics-systems.md) forms into several competing views:
@@ -38,6 +38,8 @@ While the codebase is completely public and open, open-source [version control](
    - This is basically #2, but with more constraints, since too many pull requests can cause burnout for developers.
    - [Features](cs-software-maintenance.md) require extra work to implement, and then require more work to maintain.
    - Usually, the pull requests are constrained to *only* [bug fixes](cs-software-redesign.md).
+
+These views are irreconcileable, and create a spectrum ranging from puritanical demagogues who demand all aspects of software, hardware, and everything else be free, over to mindless maintainers who are just trying to find a decent solution for their company's issues.
 
 Open-source projects are *not* exempt from politics and [social decay](mgmt-badsystems.md).
 
@@ -64,6 +66,11 @@ Sometimes, irrespective of the relationship with the original creator, it may be
 - If the software is used for anything sensitive, it needs attention on it to maintain [security patches](cs-infosec-compliance.md).
 - The licensing may bind you into constraints you may not want (e.g., can't sell the software without also releasing the code), and a fork may provide opportunities to change that.
 - If the software is used for particularly high-attention things (e.g., [illegal activities](cs-distsys-p2p-torrent.md)), it may make sense to clone a copy of the software to prevent complete removal of the software for the public to use.
+
+It's also a myth that open-source is built by volunteers.
+
+- About 80% of the people who make open-source code are paid to do it.
+- The code *is* publicly accessible, but that doesn't take away from the fact that people have to make a living.
 
 ## Legal conflicts
 
@@ -102,3 +109,16 @@ The reality about software developers is many of them (especially anyone who wan
 - Legal battles are unpleasant, and it's very difficult to visualize anyone who [engages in lawfare](legal-safety.md) against software developers that make software free to the public as anything *but* an [antagonistic](stories-why.md) or [evil](morality-evil.md) entity.
 - The [win/win solution](people-conflicts.md) is to give substantial wealth to those developers: if a tool generated a few hundred million dollars for a company, give a few million to that developer.
 - However, barring that, some software-based lawyers [near the end of their life](legacy.md) would be *thrilled* to lend their time to winning legal battles that promote free software.
+
+## Big Tech conflicts
+
+With an open format, [Big Tech doesn't like the transparency](cs-bigtech.md). For this reason, they'll often represent [everything wrong with large, bad systems](mgmt-badsystems.md).
+
+- Making their [standards](cs-standards.md) absurdly arcane.
+- Changing their standards on a regular basis.
+- Over-engineering new features into their standards.
+- Closing off everyone from free access.
+
+Further, Big Tech will often [politically](politics-conservativeliberal.md) recruit governments to wall off open standards whenever possible.
+
+The most effective solution is early education to the public, which makes people smarter consumers in general and prevents the overreach from reaching [monopoly status](politics-monopolies.md).

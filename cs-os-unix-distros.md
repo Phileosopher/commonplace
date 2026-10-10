@@ -1,6 +1,12 @@
 
 # The distros of Linux
 
+One of the most prominent issues with the Unix-like OS (i.e., Linux) is that the scope of choice is *far* too vast for most normal people.
+
+- There are literally 10 distros for every need.
+- The variety is nice when you're a tech enthusiast, but most people just want "something that installs and works".
+- However, after getting past the package manager and desktop environment, most of it becomes the same abstraction.
+
 Each GNU/Linux distro is configured and adapted to specific preferences or functions.
 
 - A distro is simply a config that made sense for a software engineer and then got popular enough to gain traction in the community.
@@ -11,6 +17,14 @@ Broadly each distro comes from several possible families:
 - The second most common is from RHEL, which uses the package manager rpm and rpm packages.
 - openSUSE also uses YaST with the zypper command line, and the packages are *entirely* version-specific.
 - Arch is highly stripped-down, with not much except the kernel and the Pacman package manager.
+- It's important to know the "family" of Linux you're in because there are often related solutions.
+  - e.g., Kubuntu/Ubuntu will pretty much work w/ most Debian-family things, but others may need other steps to get it done
+  - When troubleshooting, the following sequence is relatively common:
+    1. Search online for a specific distro need (e.g., websearch "(specific proprietary) audio driver Ubuntu")
+    2. Find a reference to something in a different distro (e.g,. a fix for a Fedora-based issue)
+    3. Search for a command alternative for your distro
+    4. Run 2/3 of the commands on #3 that may apply
+    5. Run #2 but with the alternatives applicable to your distro
 
 Interestingly, many of the distros are actually designed as secondary mechanisms to solve [version control](cs-software-versionctrl.md) issues:
 

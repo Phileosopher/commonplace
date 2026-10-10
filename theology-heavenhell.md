@@ -1,9 +1,20 @@
 
 # The theological realities of heaven and hell
 
+There are some very clear images of what every person will experience when they die.
+
+- When someone dies, angels escort them to the afterlife right away (Luke 16:22).
+- At that point, they immediately enter God's presence (2 Corinthians 5:6-8).
+- They're still conscious and in control of their thoughts, feelings, speech, and memories (Luke 16:19-31).
+
 ## Given facts about heaven
 
 There is [a derived ideal contained in the Millennium](https://theologos.site/millennium/), and by association the eternity it leads into.
+
+- In effect, it transcends description in every possible positive explanation.
+- They do share in worship angels and other believers in the presence of God and Christ (Revelation 4-5).
+- They will recognize and communicate with other believers who preceded them to eternity (Luke 9:28-36).
+- They're definitely aware to some degree of the activities and events here (Revelation 6:9-10).
 
 ## Given facts about hell
 
@@ -18,6 +29,7 @@ The attributes of hell, according to the Bible, are relatively straightforward:
 There is quite a bit of theology contained within Luke 16:19-31 that addresses a certain type of afterlife picture:
 
 1. All people went to a shared place with a divide in it (i.e., "Sheol" or "Hades").
+   - There is also "paradise" elsewhere to refer to the people who go to be with Jesus when they die.
 2. When Jesus came, He unlocked the gates of Hades, then took the believers from before that time to be with Him.
 3. Everyone else is waiting to be thrown into the lake of fire.
 

@@ -72,7 +72,7 @@ Since they're skimming search results, use proper keywords, industry-relevant te
 
 Avoid overused and abused jargon:
 
-- analytical, creative, driven, effective, expert, innovative, organizational, patient, responsible, strategic
+- analytical, creative, detail-oriented/attention to detail, driven, effective, expert, innovative, organization, patient, problem-solving, quick learner, responsible, strategic, teamwork, time management
 - Since jargon words change over time, adapt your terms to avoid sounding stale.
 
 ### Upload a good-looking profile photo

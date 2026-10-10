@@ -37,11 +37,15 @@ The effort to invest into AI was led throughout the 1970s and 1980s in Japan, bu
 
 We're a very long way off from reproducing human behavior. Since [feelings](mind-feelings.md) are so messy, computers must be programmed to observe events and then appear like they're reacting to them. This often involves mind-numbing amounts of [calculus](math-calc-cs.md) and [statistics](math-stat-cs.md), but will always feel inauthentic to us because it'll miss idiosyncratic aspects of intuitive context.
 
-Even with all the benefits of [machine learning](cs-ai-ml.md), AI can be ridiculously stupid, which is heightened by the gap between expectations and reality.
+Even with all the benefits of [machine learning](cs-ai-ml.md), AI can be ridiculously stupid, which is heightened by the gap between expectations and reality. Its training must come from a *lot* of content, and even then it won't accurately reproduce reality or predict the way people can.
 
 The early 2020s have seen tons of hype about machine learning "creating" new works, such as music or paintings, but it really isn't. It's simply creating neural network rules to define general patterns that exist in those works, then mixes-and-matches them to create something in the predictable range of expected actions. For example, some specific racial/ethnic facial features *never* mesh together (and we intuitively [understand](mind-understanding.md) it), so looking very closely at [This Person Does Not Exist](https://thispersondoesnotexist.com/) will show small discrepancies to make most of the photos feel unnatural.
 
+There has been concern about AI being used to manipulate people. However, many of those people were already easily manipulable, and people learn *very* quickly when they hear of that sort of thing.
+
 Making computers *seem* human is a daunting task, but the discussion has somewhat shifted to the question of how to make computers feel *familiar*. Computers can answer elaborate, complicated questions instantly, so appearing human requires putting well-timed pauses into the response. Even then, it's arbitrarily slowing down the system to make it look like it's thinking with a brain, and it's still the same dumb computer doing what it was precisely instructed.
+
+Since AI can't make legitimately well-thought decisions (and simply statistically likely ones), there is always the need for a person to navigate decisions to accommodate the manifold edge cases of every context imaginable. This creates job security in almost every capacity, even when 99% of the work becomes completely automated.
 
 ## Complete limits
 

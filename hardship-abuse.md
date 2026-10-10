@@ -31,7 +31,7 @@ Instead, focus on yourself and your safety:
 - Let go of what you can't control.
 - Find [goals](success-3_goals.md) and [purposes](purpose.md) that have *nothing* to do with those who abused you.
 
-Keep yourself safe:
+Keep yourself safe from further abuse:
 
 - Learn to handle [conflicts](people-conflicts-inner.md) with your abuser as they arise.
 - Find ways to create distance from anyone who abuses you.
@@ -42,3 +42,8 @@ Watch that you're not doing the same:
 
 - Abuse victims tend to become abusers themselves, so without making further changes on your own you'll likely become an abuser later.
 - In particular, [narcissistic abuse](hardship-abuse-narcissist.md) is the most difficult to self-identify.
+
+If you work on yourself, you will have [more awareness and control over your feelings](mind-awareness-feelings.md).
+
+- This means that, if you seek the truth, you'll gain wisdom in how to better build connections with people in the future.
+- This is a painful journey, but always worth it.

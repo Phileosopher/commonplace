@@ -9,7 +9,9 @@ In most of the world, the procedure for maintaining a reputation has been mostly
 4. That second-degree person's performance determines what you say about them later, and they become a future source for tasks you'll need done.
 5. If needed, they'd sequester you for a few months to be certain you didn't have a weird disease or were running from the law.
 
-However, in a [computer-heavy](computers.md) society where the data is unusually [trustworthy](mind-trust.md), your reputation is *not* what you think it is:
+## Contrasting the modern image
+
+In a [computer-heavy](computers.md) society where the data is unusually [trustworthy](mind-trust.md), your reputation is *not* what you think it is:
 
 1. When you receive a government-issued identification card, that government has created a legal entity that has your name in all-capital letters (a "legal fiction").
    - This entity is nothing more than a documented name with a few linking concepts like date of birth, city of birth, driver's license number, etc.
@@ -56,18 +58,12 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - [Debts](money-2_debt.md) can last 7 years, or 10 years in the case of a bankruptcy.
    - [Criminal history](legal-crimes.md) can last 7 years, 10 years, or a lifetime depending on the situation.
 
-To that end, your reputation involves a few arcane tasks:
+There *are* exceptions to this arrangement:
 
-1. Make sure those relevant reports capture advantageous things you do:
-   - Take out loans in *your* name, not anyone else's (i.e., where you pay back someone else who borrows).
-   - Use established institutional entities for your activities whenever possible (e.g., a large bank like Chase or Wells Fargo instead of a transfer service like PayPal or Western Union).
-   - When it doesn't matter much, use "standard" institutional services (e.g., mainstream large-scale [insurance](money-insurance.md), large branded banks).
-2. Keep your reputation clear with large entities.
-   - Treat them like government [bureaucracies](bureaucracy.md), where you're more responsible than they are for any mistakes they make.
-   - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-contracts.md) with another organization and terminate that one.
-3. Watch for the people who abuse this knowledge.
-   - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](cs-infosec.md).
-   - There are [*many* laws](legal-lawsaxioms.md) around most situations where this information could be misused, so it's not common.
+- The wealthiest class can afford to travel across the country to meet people in-person.
+- The poorest class tend to be rejected by the formal system or perform extra-legal activities, meaning they *can't* run reports on people and must instead trust on in-person interaction.
+
+## The consequences of a modern image
 
 This situation means most casual (and typically cost-effective) interactions are simply your name running by on a [database](database.md):
 
@@ -76,11 +72,6 @@ This situation means most casual (and typically cost-effective) interactions are
 - [Health](body-health.md) information is accessible through the Medical Information Bureau.
 - There are numerous other [trade-specific](jobs-specialization.md) reports, ranging from [academic](education.md) records to bank accounts open in your name.
 - The reports never give a *complete* picture, and instead provide information that may be relevant for that [professional](professionals-who.md) to do their job.
-
-There *are* exceptions to this arrangement:
-
-- The wealthiest class can afford to travel across the country to meet people in-person.
-- The poorest class tend to be rejected by the formal system or perform extra-legal activities, meaning they *can't* run reports on people and must instead trust on in-person interaction.
 
 However, about 90% of the USA runs on this reputation-by-legal-fiction, meaning you are a database entry to them, with [customer service requirements](people-customerservice.md) to prevent that walking dataset from moving to another provider.
 
@@ -100,25 +91,49 @@ But, there are also major risks with it:
 - The information tracks correlation, but not causation. It is very easy to cause trouble for yourself without realizing it:
   - Having an argument with an awful neighbor who escalates by calling the police on you and lying about you could give you the same reputation as someone who legitimately causes trouble.
 
-The entire system is portable, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-health.md), or [tax](money-accounting.md) information.
+The entire system is as portable as connectedness to the internet, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-health.md), or [tax](money-accounting.md) information.
 
 - It does mean that most professionals are keenly aware of details of your background that may be relevant to them before you are.
 - There's zero grace if you screw up, since any chance to explain your situation will *only* work with one person at a time.
   - Even one missed payment, on *anything*, can harm your score, and there's nothing you can do about it except earn it back with future payments.
   - If you ever incur a [criminal record](legal-safety.md) of any sort, the only way to fix it is to wait out your probation/parole then move to another state/region, and that *still* won't fix it.
-- The only way to fully fix a tarnished record is with better decisions and time.
-  - The improved evidence won't erase the record of what happened, but it'll make your future engagements work out fine once those older records fall off.
-  - Expect your record to improve at 3, 5, 7, or 10 years to the date of the infraction.
-- Since they don't need to contact you, they won't put much effort into it until they have to.
+- Since the organizations running reports don't need to contact you to find out information, they won't put much effort into it until they have to.
   - If they reach out 2-3 times, they've legally fulfilled *their* requirement to contact you, and will act according to a [compliance-based](people-rules.md) form of their best interests.
   - Always [keep your address current](home-moving.md), access your email at least weekly, and check your voicemail at least a few times a week.
+- This also creates many practical implications:
+  - You can use the internet and online banking for nearly every routine activity.
+  - While they may charge a fee, you can withdraw money from almost *any* bank besides the one that has the money.
 
-This also creates many practical implications:
+## Maintaining your modern image
 
-- You can use the internet and online banking for nearly every routine activity.
-- While they may charge a fee, you can withdraw money from almost *any* bank besides the one that has the money.
+To that end, your reputation involves a few arcane tasks:
+
+1. Make sure those relevant reports capture advantageous things you do:
+   - Take out loans in *your* name, not anyone else's (i.e., where you pay back someone else who borrows).
+   - Use established institutional entities for your activities whenever possible (e.g., a large bank like Chase or Wells Fargo instead of a transfer service like PayPal or Western Union).
+   - When it doesn't matter much, use "standard" institutional services (e.g., mainstream large-scale [insurance](money-insurance.md), large branded banks).
+2. Keep your reputation clear with large entities.
+   - Treat them like government [bureaucracies](bureaucracy.md), where you're more responsible than they are for any mistakes they make.
+   - If they've incurred fees against you, pay them off and rapidly arrange another equivalent [agreement](people-contracts.md) with another organization and terminate that one.
+3. Watch for the people who abuse this knowledge.
+   - The largest risk comes through identity theft, so much of your ability to get *many* things done is dependent on how well you perform [basic cybersecurity practices](cs-infosec.md).
+   - There are [*many* laws](legal-lawsaxioms.md) around most situations where this information could be misused, so it's not common.
+
+The only way to fully fix a tarnished record is with better decisions and time.
+
+- The improved evidence won't erase the record of what happened, but it'll make your future engagements work out fine once those older records fall off.
+- Expect your record to improve at 3, 5, 7, or 10 years to the date of the infraction.
+
+## Opposing this arrangement
 
 [Culturally](people-culture.md), many people [identify](people-identity.md) themselves by their discrete, arbitrary measurement.
 
 - The scoring is based on the approval of the people who may render a [mutual benefit](people-contracts.md) to you.
 - There is *no* [direct meaning](people-goodlife.md) from having a great insurance score, credit score, or health score.
+
+There is, unfortunately, no way to opt out of this, at least right now in the United States and Europe.
+
+- Even if you decline every tracked element, your affiliation with others will create the surveillance necessary to gather the information someone may want.
+- The only civil resistance to this form of tracking is the "sovereign citizen movement", which is a loose minority coalition of various antagonistic individuals who do not want to have their documented personhood associated with their physical personhood.
+  - Unfortunately, the movement is an accurate sentiment directed toward inaccurate truths, since their claim is based on a misrepresentation of common law, namely that they aren't subject to any government statutes unless they consent to them.
+  - More realistically, the fact that governments have the market cornered on killing people is the dominant reason any alleged resistance is likely not worth the sacrifice for them.

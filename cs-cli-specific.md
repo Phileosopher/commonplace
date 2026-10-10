@@ -25,6 +25,7 @@ To find all the parameters/options, consult the [documentation](language-writing
 - fasthelp
 - (command) -h
 - (command) --help
+- This is particularly helpful when you have limited internet access
 
 ## Interface conveniences
 
@@ -37,13 +38,18 @@ Clear the screen:
 - □: clear
 - ⊞: cls
 
+View all available commands:
+
+- □: compgen -c
+
+View all available aliases:
+
+- □: "compgen -a" or "help alias" or "alias -p"
+
 Indicate a command type and where it's located:
 
 - □: type (command)
-
-Indicate the computer's local date and time:
-
-- date
+- □: which (command)
 
 Pattern-matching:
 
@@ -68,6 +74,60 @@ Pattern-matching:
 End the terminal session:
 
 - quit or exit
+
+Reboot the computer to BIOS:
+
+- □: sudo systemctl reboot --firmware-setup
+- ⊞: shutdown /r /fw /t 0
+
+## Computer status
+
+Indicate the computer's local date and time:
+
+- date
+
+View OS info:
+
+- □: uname -r
+
+View CPU info:  
+
+- □: lscpu
+
+View memory info:
+
+- □: lsblk
+- □: free
+- □: mem (total RAM)
+- □: swap
+
+View disk usage of a folder:
+
+- □: du
+
+View active processes:  
+
+- □: top (real-time)
+- □: ps -ef --forest (snapshot)
+
+View running services:
+
+- □: service --status-all
+  - A + means it's running, a - means it's stopped, and ? means it's not currently known.
+  - service (servicename) status gives mroe information.
+
+View system journal:
+
+- □: journalctl
+
+View active logs:  
+
+- □: dmesg
+  - This is an overwhelming amount of information, so it's best to scope it with grep
+
+Count text in a file:  
+
+- □: wc (-l for lines, -w for words, -c for characters)
 
 ## Navigation
 
@@ -150,6 +210,49 @@ Quick-edit a text file:
 - □: nano (file)
 - ⊞: edit (file)
 
+Set links:
+
+- □: ln (existingtarget) (linkname)
+  - Hard links are treated effectively like files for the sake of moving and renaming.
+  - The option "-s" makes a symlink.
+
+## User accounts
+
+View current user ID and groups:
+
+- □: id
+- □: groups
+
+View members of a group:
+
+- □: groupmems (group)
+
+View recent user logins:
+
+- □: last
+- □: lastb (for bad logins)
+
+Escalate privileges:
+
+- □: sudo (command) for a single command
+- □: "su -" for root (use sparingly)
+
+Add user/group:
+
+- □: useradd (username)
+- □: groupadd (group)
+- □: passwd (username)
+
+Remove user:
+
+- □: userdel (username)
+- □: groupdel (group)
+
+Change ownership:
+
+- □: chown (username):(groupname) (file)
+- □: chgrp (group) (file)
+
 ## Networking
 
 Display general network config:
@@ -158,6 +261,11 @@ Display general network config:
 - ⌘: ifconfig
 - ⊞: ipconfig
 
+Manage wireless networks:
+
+- □: iwlist
+- □: iwconfig
+
 Show network statistics:
 
 - netstat
@@ -165,6 +273,7 @@ Show network statistics:
 Measure how long network connections take:
 
 - ping (IP address)
+  - without specifying a limit, persists until you kill the terminal or press CTRL+C
 
 Show where packets are dropping:
 
@@ -178,6 +287,12 @@ Check which IP protocols are enabled:
 
 - show ip protocols
 
+Securely copy (SSH+copy):
+
+- □: scp (file1) (destinationdirectory)
+  - It's very versatile and can route with hosts and specify ports.
+  - [example syntax](https://hypexr.org/linux_scp_help.html)
+
 ## Inter-OS
 
 Enable Windows Subsystem for Linux (WSL) and virtualization:
@@ -186,3 +301,9 @@ Enable Windows Subsystem for Linux (WSL) and virtualization:
 dism /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism /online /enable-feature /featurename:VirtualMachinePlatform /all
 ```
+
+## Scripting
+
+Keep a process running even after reboot:
+
+- □: nohup (command)

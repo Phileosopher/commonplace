@@ -227,7 +227,7 @@ Each person has a preferred mix of certain expressions of love.
    - If you can't find the right one, give three smaller gifts that are serious, humorous, and homemade.
 4. Acts of service - actions that make life less stressful or more enjoyable:
    - Acts of service can be anything, including chores, planning, professional services, or unpleasant tasks.
-   - Since people must sacrifice control for you to help, respect when others say "no".
+   - Since people must sacrifice control for you to help, respect when others [say "no"](people-conflicts-no.md).
 5. Physical affection - showing connection through touch:
    - Touch can include grazing contact, holding hands, hugging, and anything physically intimate.
    - Affection varies wildly by [culture](people-3_respect.md), so observe that person's context and background.

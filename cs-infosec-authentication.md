@@ -102,3 +102,13 @@ While it's not *specifically* authenticating an individual, one key filtering me
 - This naturally gets more complicated as [machine learning](cs-ai-ml.md) gets better.
 
 One other downside is that many [big tech companies](cs-bigtech.md) use CAPTCHA data to increase visual recognition for their machine learning, so there's a statistical likelihood that the user is trying to detect an edge case, such as a hard-to-see traffic light. This overall destroys the [user experience](engineering-design-cs.md).
+
+## Validating on a network
+
+One common implementation uses an authentication, authorization, and accounting (AAA) server, which uses a Remote Authentication Dial In User Service (RADIUS) server to hold credentials:
+
+1. The RADIUS server sits on a secure network and the client (e.g., a network switch) has the same shared secret as the RADIUS server.
+2. A supplicant (an outside device) connects to the RADIUS client and blocks network traffic until validated.
+3. The supplicant transmits a valid credential, which the client then forwards to the RADIUS server.
+4. The RADIUS server validates the creedential and issues an Access-Accept.
+5. The client opens the supplicant's network channel for regular traffic.

@@ -62,7 +62,7 @@ We need odd geopolitical circumstances:
 - Wars will intensify and risks of war will increase.
 - Famines and earthquakes are sporadic right now, but we're waiting for more dramatic disasters, and more frequently.
 - People will feel very [safe](safety.md), even with the natural disasters happening, which will likely be from ubiquitous disaster-alleviating [technology](technology.md) implemented everywhere (1 Thessalonians 5:3).
-- We will see a *major* merger of all religions at that time that shares a mutual hatred against Christians and Jews.
+- We will see a *major* merger of all religions at that time that shares a mutual hatred against Christians and Jews, or at least a preparation for it (Revelation 17).
 
 We would need to transition into a single world government:
 
@@ -88,7 +88,7 @@ The Jewish people haven't seen their Messiah:
 
 - There's a partial hardening of their hearts for the completion of the Gentiles' salvation (Romans 11:25-26).
 - As of right now, there's an evangelistic effort toward the Jews through groups like [One For Israel](https://www.oneforisrael.org/).
-- Many Jews have come to believe they may have missed when their Messiah may have come, so they're scouring [all the old prophecies](theology-salvation-prophecies.md) for Him.
+- Many Jews have come to believe they may have missed when their Messiah may have come, so they're scouring [all the old prophecies](bible-prophecies.md) for Him.
 
 Many people compare the world's current sin to Noah's time (Matthew 24:37), but many of them lack sufficient imagination on how bad things can get. With a little bit of [imagination](mind-imagination.md), here are a few states we haven't seen:
 
@@ -247,3 +247,8 @@ Many people like to assert that none of the details matter about Jesus returning
 
 - However, that attitude isn't healthy, since the resurrection is a huge part of why believers live.
 - In many ways, [ethics](morality.md) is applied eschatology because we live out what we believe will happen.
+
+Sadly, many Christians actually *look forward* to Jesus returning as a means to mitigate their suffering.
+
+- The early Church actually prayed that Jesus would *not* come back soon, since there were still souls that needed saving.
+- Modern Christian culture has entirely missed this message, which is why theologies like dispensationalism rapture are so heavily taught in many churches.

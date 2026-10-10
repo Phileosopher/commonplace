@@ -5,13 +5,29 @@ These methods are applicable to *all* [leaders](groups-small.md). The only limit
 
 It's worth noting that laws and policy are never fully followed.
 
-As far as motivation, law-makers are seeking:
+As far *why* lawmakers create these actions, they have several longstanding philosophies to choose from, and they're not always built around administering [justice](morality-justice.md). They always revolve around a few consistent penal philosophies:
+
+- Deterrence: the lawbreaker is severely and publicly harmed to prevent future actions.
+  - Specific deterrence is to motivate the lawbreaker against acting again (e.g., heavy fines for theft).
+  - General deterrence uses that lawbreaker to make an example for others who may potentially break that law later (e.g., heavy fines for theft on public record).
+- Incapacitation: The lawbreaker is severely harmed to prevent future actions.
+  - However, unlike deterrence, the lawbreaker is physically inhibited from acting again (e.g., cutting off a hand for theft).
+- Retribution: deliver punishment in proportion to the crime (e.g., death penalty for murder).
+- Rehabilitation: deliver no punishment, but instead force the lawbreaker to undergo a means of preventing their future behaviors.
+  - This philosophy only maintains itself on the [moral philosophy](morality.md) that people do bad things strictly because systems encourage the action, and not through their own individual moral failings (e.g., drug rehab for drug possession).
+  - Rehabilitation alone, however, doesn't resolve [abuse](hardship-abuse.md) caused by the lawbreakers.
+- Reparations ("restorative justice"): the lawbreaker must indemnify their victim (e.g., paying money back to the victim of a theft).
+  - While this has some reasonable efficacy, it also comes at some level of social expectation that victims [forgive](hardship-forgiveness.md) their abusers.
+
+As far as motivation, lawmakers are have their own interests for delivering punishments:
 
 1. To instill [fear](mind-feelings-fear.md) against an action for the purpose of deterring people.
 2. They wish to profit off the breaking of the law (e.g., [sin taxes](money-accounting-taxes.md))
 3. They need a decent excuse to punish or profit regarding something else.
 
 These methods are ordered by least to most approximate severity.
+
+- More recently in history, these have has rebranded as rehabilitation more than punishment, but the actions are effectively the same.
 
 ## "Fear Points"
 

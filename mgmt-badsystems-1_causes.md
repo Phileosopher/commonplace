@@ -80,7 +80,7 @@ Often, since the leadership won't particularly care about the unspoken masses of
 
 Usually, the worst systems are made of *multiple* bad leadership decisions that feed into each other, and often across multiple leaders who didn't know what the previous leader had been doing or how to run an organization [wisely](mind-understanding.md).
 
-Frequently, bad systems are [legally](people-rules.md) forbidden or have too much to lose to say "no", so they find methods to make people give up without them having to say it:
+Frequently, bad systems are [legally](people-rules.md) forbidden or have too much to lose to [say "no"](people-conflicts-no.md), so they find methods to make people give up without them having to say it:
 
 - Creating a [bureaucratic system](bureaucracy.md) of different departments that can redirect people endlessly until they give up.
 - Creating internal organizational [rules](people-rules.md) vague enough or unenforceable enough that organization members can flout at any time, but permits the member to say "company policy" for an undisclosed [purpose](purpose.md).

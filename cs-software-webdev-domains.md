@@ -1,6 +1,18 @@
 
 # Web domains & DNS
 
+DNS is *not* perfect, and there have been multiple efforts to replace it:
+
+- ENS: [Ethereum](cs-blockchain.md) Name Service
+- GNS: [GNU](legal-ip-floss.md) Name System
+- Handshake
+
+However, because domains are so engrained into [human psychology](mind-bias.md), DNS will stick around.
+
+- It's not reasonable to assume it'll *never* change, but it has already been a household concept to have (something).com between 1995-2025, so it'll take a decade or so to see public adoption of a different naming convention.
+
+## Domains
+
 When you type in SomeWebsite.com, each of the domains has a "top level domain" (TLD):
 
 - .com
@@ -21,6 +33,19 @@ Below that, there are second-level domains (e.g. **somewebsite**.com). Further t
 
 The "fully qualified domain name" (FQDN), which is often the "uniform resource locator" (URL) (e.g., `https://somewebsite.com`), should eventually connect to an IP address somewhere.
 
+But, not all domains are equal:
+
+- Some of them require existing conditions to be qualified as a domain (e.g., .org, .us).
+- They all have a maintenance fee, both to the registrar for servicing it and to ICANN directly:
+  - Most sites like .com and .net are ~$10-20 annually.
+  - Others cost more (.ai is ~$90, .inc is >$1,000 and climbing).
+  - Some are cheaper or free (.xyz is $12, .tk is free).
+- To that end, many people who [scam](cs-infosec-socialengineering.md), [hack](cs-infosec-pentest.md), and [host pirated content](cs-distsys-p2p-torrent.md) like using cheap/free, disposable domains, which may affect a domain as a [marketable](marketing.md) address when legitimate organizations block the entire domain extension.
+- Some domains (e.g., .de) will validate *before* registration is approved.
+- Some domains require more information (e.g., .us requires submitting a connection to [your legal fiction](people-image-modern.md)).
+
+## DNS servers
+
 The domain information connects back to a system called DNS ("domain name service"), which has "resource records" located in "zone files" that specify where resources are located:
 
 - There are many, *many* DNS records, but the bare-bones specifications mostly exist as [standards](cs-standards.md) in [RFC 1035](https://www.rfc-editor.org/rfc/rfc1035).
@@ -34,10 +59,19 @@ The domain information connects back to a system called DNS ("domain name servic
 - NS - name server record, which indicates who the "authoritative" registrar is.
   - The domain resides at a registrar, which is often *not* where the computer files are hosted.
 - PTR - pointer to a canonical name.
+  - It's basically the opposite of an A record, or reverse DNS, and gives a domain associated with an IP address.
   - The client will typically look for an index.html or index.php file at that location.
 - TXT - was originally designed for human-readable text, but has devolved to a miscellaneous junk drawer for machine-readable data.
+  - Most notably, email systems use Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM), and Domain-Based Message Authentication, Reporting, and Conformance (DMARC) through specialized TXT entries.
 
 The software (usually the web browser) makes DNS requests, which are answered with DNS records. DNS configurations connect to most of the issues over whether a website works or not.
+
+While it's popular to have DNS servers routed to large-scale mainstream organizations (e.g., CloudFlare), some [security-minded](cs-infosec.md) people may want to have their router act as a DNS server.
+
+- This is a bad idea because routers aren't always reliable, and the router effectively becomes a proxy server.
+- Instead, the better thing to do, if you actually want a DNS server of your own, is to have dedicated hardware for that purpose (e.g., [Raspberry Pi-Hole](cs-embedded.md)).
+
+## Bouncing across computers
 
 To access most websites, a computer will [access](cs-networks.md) several computers that sit potentially across the world:
 
@@ -59,13 +93,6 @@ To access most websites, a computer will [access](cs-networks.md) several comput
    - The difference expresses most simply as the domain being either http:// or https://.
    - SSL is very fast, and TLS [is rather slow by comparison](https://istlsfastyet.com/).
 
-The entire DNS has had some improvements as well over decades of use:
-
-1. Core DNS was made in the 1980s when the internet was smaller, so the 1990s saw DNS Security Extension (DNSSEC), which adds [encryption based on public key cryptography](encryption.md) to DNS standards.
-2. VPNs route traffic to a given website through their IP address, but the DNS resolver still sees the raw IP address of the original client computer, even if it's using DNSSEC.
-3. DNS over HTTPS (DoH) and DNS over TLS (DoT) have [encrypted](encryption.md) the information to the DNS resolver, but the resolver can still see the site the client is trying to visit.
-4. Oblivious DNS over HTTP (ODoH) obscures what the DNS resolver sees.
-
 The DNS *might* be a simple reference from a domain to a specific IP address, but it can (and often does) get *much* more complicated:
 
 - somewebsite.com - the www is removed, mostly for cosmetic reasons.
@@ -75,13 +102,11 @@ The DNS *might* be a simple reference from a domain to a specific IP address, bu
 
 Whenever there's a change at the primary DNS location, the DNS will "propagate" to all the other DNS records. This can often take a few days, which can be an *eternity* if the DNS records were incorrectly configured.
 
-But, not all domains are equal:
+## Continuous improvements
 
-- Some of them require existing conditions to be qualified as a domain (e.g., .org, .us).
-- They all have a maintenance fee, both to the registrar for servicing it and to ICANN directly:
-  - Most sites like .com and .net are ~$10-20 annually.
-  - Others cost more (.ai is ~$90, .inc is >$1,000 and climbing).
-  - Some are cheaper or free (.xyz is $12, .tk is free).
-- To that end, many people who [scam](cs-infosec-socialengineering.md), [hack](cs-infosec-pentest.md), and [host pirated content](cs-distsys-p2p-torrent.md) like using cheap/free, disposable domains, which may affect a domain as a [marketable](marketing.md) address when legitimate organizations block the entire domain extension.
-- Some domains (e.g., .de) will validate *before* registration is approved.
-- Some domains require more information (e.g., .us requires submitting a connection to [your legal fiction](people-image-modern.md)).
+The entire DNS has had some improvements as well over decades of use:
+
+1. Core DNS was made in the 1980s when the internet was smaller, so the 1990s saw DNS Security Extension (DNSSEC), which adds [encryption based on public key cryptography](encryption.md) to DNS standards.
+2. VPNs route traffic to a given website through their IP address, but the DNS resolver still sees the raw IP address of the original client computer, even if it's using DNSSEC.
+3. DNS over HTTPS (DoH) and DNS over TLS (DoT) have [encrypted](encryption.md) the information to the DNS resolver, but the resolver can still see the site the client is trying to visit.
+4. Oblivious DNS over HTTP (ODoH) obscures what the DNS resolver sees.

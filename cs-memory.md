@@ -168,7 +168,7 @@ To store *lots* of information for a long time, there are several specific optio
 
 - Compact discs (CDs) are coated polycarbonate plastic with optical (i.e., laser-readable) information permanently burned onto them, with a thin layer of aluminum to reflect the information. Some are read-only (CD-R) and others are read/write (CD-RW). While they can get scratched, the ink from a permanent marker can also erode the reflective coating over years.
 - Hard disk drives (HDDs) are cheap, even if they're slower than SSDs, and are often bigger capacity. Like their granddaddy floppy drives, they use magnetic signals to store information. Unlike floppies, HDDs use a neodymium magnet as a pivoting actuator (rather than hardware in the floppy drive itself).
-  - HDDs and SSDs have historically used Serial Advanced Technology Attachment (SATA) cables, but some SSDs use Non-Volatile Memory express (NVMe) to connect straight to the motherboard for improved speed.
+  - HDDs and SSDs have historically used Small Computer System Interface (SCSI) and then Serial Advanced Technology Attachment (SATA) cables, but some SSDs use Non-Volatile Memory express (NVMe) to connect straight to the motherboard for improved speed.
 - Tape drives are still popular for huge amounts of relatively unimportant data (such as soil measurements or trivial user data).
 
 Regarding how computers view memory logically, any long-term media is functionally the same as RAM, but much slower and often *much* bigger, as well as treated differently by the [operating system](cs-os.md). In fact, many operating systems convert hard drives into "swap space", which creates "virtual memory" for the [CPU](cs-cpu.md) to work with more memory.
@@ -196,8 +196,9 @@ For long-term storage, it's not always safe to only have one place to hold the m
 - For cold storage, it's safest to use at least 12-24 drives in a RAID array, possibly higher.
 - In a data center, the vast size of the project can mean hundreds or even thousands of drives.
 
-RAID configurations are based on redundant information ("parity") and spreading the information across multiple drives ("striping"):
+Redundant Array of Independent Disks (RAID) configurations are based on redundant information ("parity") and spreading the information across multiple drives ("striping"):
 
+- All of the following are abstracted into one singular logical disk space for the user.
 - RAID 0 has striping, but no parity:
   - DISK1 - A1, A3, A5, A7
   - DISK2 - A2, A4, A6, A8
@@ -212,11 +213,21 @@ RAID configurations are based on redundant information ("parity") and spreading 
   - DISK3 - C1, C2, Cp, C4
   - DISK4 - D1, D2, D3, Dp
   - This is a tradeoff: it isn't as fast or large as RAID 0 (from the parity bits) or as safe as RAID 1.
-- RAID 10 is a hybrid of RAID 1 and RAID 0:
-  - RAID 0: 2 disks
-    - RAID 1 with 2 disks (DISK1 and DISK2)
-    - RAID 1 with 2 disks (DISK3 and DISK4)
+- RAID 6 is RAID 5, but wtih double-parity:
+  - DISK1 - Data001, Data005, Parity1, Parity2
+  - DISK2 - Parity1, Parity2, Data003, Data008,
+  - DISK3 - Data007, Parity1, Parity2, Data004
+  - DISK4 - Parity2, Data002, Data006, Parity1
+  - It writes worse than RAID 5, but allows 2 disks to fail and not lose data.
+- RAID 1+0 (or RAID 10) is a hybrid of RAID 1 and RAID 0:
+  - RAID 0: 2 logical disks with no striping or parity
+    - RAID 1 with 2 physical disks with parity (DISK1 and DISK2)
+    - RAID 1 with 2 physical disks with parity (DISK3 and DISK4)
   - This solution is the best for large-scale endeavors because there's always a copy of the data if any individual drive fails.
+- RAID 0+1 isn't as common as RAID 10, but exists as well:
+  - RAID 1: 2 logical disks with parity
+    - RAID 1 with 2 physical disks with no striping or parity (DISK1 and DISK2)
+    - RAID 1 with 2 physical disks with no striping or parity (DISK3 and DISK4)
 
 For read-only external media like CDs, the best way to store a backup is to make a .iso archive file. Most modern operating systems can pull up that file as a [virtual drive](cs-distsys-vm.md).
 

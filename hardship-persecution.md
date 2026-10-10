@@ -16,6 +16,12 @@ There are only a few ways a large organization can abuse you:
 - At the most extreme, they'll publicly kill people to make an example to others.
   - However, because of the media attention, modern tyrants tend to quietly send people to "re-education centers" and torture people into converting, then kill them if they don't.
 
+The most sinister and prevalent form of persecution, however, comes in the organization's or the public's silence.
+
+- By not even acknowledging the [evil](morality-evil.md) occurring, they empower it to continue.
+- Further, everyone who doesn't take action can feel safe because they didn't "do" anything to empower the situation.
+- However, they are also morally culpable through inaction, even if they weren't facilitating the violence directly.
+
 As much as possible, try to stay alive:
 
 - Barring [a Christian faith that treats persecution as a blessing](hardship-persecution-church.md), surviving is crucial to fighting back.

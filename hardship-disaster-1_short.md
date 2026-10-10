@@ -36,6 +36,13 @@ Always sleep with at least some of your clothes on, just in case you have to act
 
 ## Keep supplies ready
 
+Stay mindful of governments that try to destroy economic value.
+
+- If you keep money in a bank, they can legally cancel debts, which can easily remove many investments you didn't realize were eligible for cancellation.
+- When you own equities in companies, those companies are only as safe as the governments that respect their continued operation or ownership.
+- While it's a terrible [investing](money-investing.md) strategy, hoarding actual assets you can use in an emergency is ideal.
+  - However, avoid hard-to-divide assets like gold or silver, and aim instead for easily tradable and long-lasting commodities like hard liquor and cigarettes.
+
 Keep everything you need in a relatively earthquake-safe, flood-safe location:
 
 - Inside a closet

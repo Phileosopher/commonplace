@@ -39,6 +39,8 @@ A compilation of silly, nerdy stuff worth memorializing: [EntertainingSpace](htt
 
 [Infinite Mac](https://macos8.app/) - macOS from a simpler time.
 
+[HyperCard Simulator](https://hcsimulator.com/) - macOS HyperCard: a simpler time.
+
 [WinXP](https://winxp.now.sh/) - Windows XP in JavaScript's React platform.
 
 [daedalOS](https://dustinbrett.com/) - Windows XP by some guy who did it better in the browser.
@@ -114,6 +116,10 @@ Run "tracert bad.horse" in a CLI (reference to [Doctor Horrible's Sing-Along Blo
 [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/) - Because Perl somehow makes everything valid.
 
 [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Not-that-useful packages.
+
+[esolangs](https://github.com/angrykoala/awesome-esolangs) - Languages built around weird ideas.
+
+- [Hurl, the Exceptional language](https://hurl.wtf/) - The only control flow is exception handling.
 
 [Repokémon](https://cheeaun.github.io/repokemon/) - GitHub repositories with Pokémon names.
 

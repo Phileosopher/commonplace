@@ -108,7 +108,9 @@ Water about once a week, either via rainfall, irrigation, or manually.
 - Water the roots, not the plant itself.
 - Water in the morning for the plants to absorb it before it evaporates.
 - Don't water at night or fungus might grow.
-- If the soil is too alkaline and the plants need more acid, mix vinegar into the water.
+- Test the pH of the soil by placing baking soda and vinegar on the dirt.
+  - You'll see bubbles with the vinegar if it's alkaline, and bubbles with the baking soda if it's acidic.
+  - To add more acid mix vinegar in when watering, and to add more base mix baking soda in before watering.
 
 Watering stakes make watering easier
 

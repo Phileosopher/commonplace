@@ -173,11 +173,26 @@ IP addresses have an amusing story behind them:
 
 On Layer 3, computers individually look at packets without any context to a broader channel of information, meaning that they're "connectionless".
 
-Layer 3 issues are often caused by faulty hardware in the router or one of the computers (or simply a faulty configuration), as well as an incorrectly configured IP address. Because manual IP management is such a pain (especially [at scale](cs-distsys-enterprise.md)), many of these tie to automatic IP address systems like the [DHCP protocol](cs-standards.md). Even then, sometimes you *do* want a static IP address instead of DHCP.
+Layer 3 issues are often caused by faulty hardware in the router or one of the computers (or simply a faulty configuration), as well as an incorrectly configured IP address.
+
+Because manual IP management is such a pain (especially [at scale](cs-distsys-enterprise.md)), many of these tie to automatic IP address systems like the [DHCP protocol](cs-standards.md):
+
+- DHCP uses Discover, Offer, Request, Acknowledge (DORA) to assign DHCP leases of IP addresses.
+- Sometimes, it makes sense to have static IPs, so DHCP servers can use reservations for certain MAC addresses.
+
+Even then, sometimes you *do* want a static IP address instead of DHCP.
 
 To prevent signals from bouncing around forever in an infinite loop between 3 nodes, there's a "time to live" (TTL) that indicates how many "hops" until the signal drops. In fact, the "tracert" [CLI command](cs-cli.md) works by sending a packet with a TTL of 1 and getting a report from it, then a TTL of 2 with a report, and so on.
 
-[Web domains](cs-sofware-webdev.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some tech-savvy internet users in the late 1980s found domains in web browsers to be *more* trouble than working with IPs.
+Generally, IPv4 addresses point to ISPs these days with a routing from it to a separate local IPv4 address and IPv6 is the standard for actual devices.
+
+- In practice, this means that most IPv4 addresses are technically the private address ranges:
+  - Class A: 10.0.0.0 to 10.255.255.255 (prefix /8, for massive networks)
+  - Class B: 172.16.0.0 to 172.31.255.255 (prefix /16, less common because it's less convenient to remember)
+  - Class C: 192.168.0.0 to 192.168.255.255 (prefix /24, very common because it's in most SOHO and home networks)
+  - APIPA: 169.254.0.1 to 169.254.255.254
+
+[Web domains](cs-sofware-webdev-domains.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some tech-savvy internet users in the late 1980s found domains in web browsers to be *more* trouble than working with IPs.
 
 Most issues on the Network layer and higher can be resolved with [command-line tools](cs-cli.md) like ping and trace to resolve IP issues.
 

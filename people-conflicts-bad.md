@@ -40,6 +40,9 @@ Stay aware that there are several unchangeable (and largely false) value systems
    - Whatever a person has [felt](mind-feelings.md) must be true, even if evidence arrives later to disprove it.
    - Their judgment is already set, even if they haven't openly articulated it.
    - Watch for double standards between themselves and others, or between two similar contexts, to find them.
+   - [Females](people-gender.md), in particular, have more bias based on how they feel.
+     - Frequently, they'll use a "credentialed shield" to assert expertise when they really know nothing.
+     - They will also often use the collective authority with the plural "we" over things that are merely their opinion.
 
 ## Ego defense tactics
 
@@ -269,7 +272,7 @@ False dilemma: forcing a binary situation that doesn't actually exist.
 - Straw man: rephrases a past statement as something else entirely.
   - Sadly, this approach can be due to poor logic skills, poor [listening](language-speaking-listening.md) skills, or [intentional manipulation](people-image-distortion.md).
 
-### Indirectly assists with the issue
+### Indirectly helps resolve the issue
 
 Suppression: consciously delaying emotions to effectively cope with them.
 
@@ -297,7 +300,7 @@ Altruism: relieving guilt and anxiety by helping others.
 - e.g., a recovered addict volunteers at a drug recovery center.
 - e.g., a wealthy but lonely donor funds scholarships for orphans.
 
-## Halting the pattern
+## Halting bad patterns
 
 Most people who have normalized defense mechanisms know how to provoke others' [feelings](mind-feelings.md) on command.
 
@@ -345,7 +348,17 @@ When you hear a passive-aggressive insult framed as a question:
    - In some cases, they may backpedal and imply they're asking their question in good faith (i.e., gaslighting).
 6. If they continue to be vague or deceptive (which they likely will), remove yourself from the situation.
 
-If you need to stop a subversive control tactic mid-conflict:
+When you have something important to say:
+
+- Don't give your view until you've done three specific things:
+  1. You say their main point back to them better than they framed it.
+  2. You've stated what you agree with in that point.
+  3. Indicate what you've learned from them.
+- Anatol Rapoport established this concept, and it works well.
+  - The purpose is to ensure they understand you understand, since many people don't realize other people know what they're trying to say already.
+- This only works if the person is trying to express truth, and more hostility will mean they're simply trying to make you look bad.
+
+If you must stop a subversive control tactic mid-conflict:
 
 1. Set a clear boundary by stopping the interruption graciously and firmly.
    - Slow down your words to dramatically enhance what you're trying to say.
@@ -364,6 +377,13 @@ If you need to stop a subversive control tactic mid-conflict:
    - This is for the 2% of the people who can't respect your boundaries.
    - Make sure they receive the satisfaction of having the last word.
 
+If they try to associate you with a label:
+
+- Often, if they give you a label that defines a class of people, it will be to stigmatize you.
+- You can usually reframe that label by adding positive values inherent to that label.
+  - By doing this, you don't deny their accusation, but add more [meaning](meaning.md) to it.
+- This has worked with *many* labels with people who know how to manipulate it.
+
 When you catch them projecting:
 
 1. Carefully pay attention to accusations they make that are their own issue (e.g., "you're not being very nice")
@@ -380,6 +400,11 @@ When they disrespect you:
 4. Say "thank you", and carry on.
    - You don't need to be specific.
    - You're thanking them for revealing their true character, but you don't have to tell them that.
+
+When they're [biased](mind-bias.md) against you as an enemy:
+
+- They're going to argue with you no matter what you say, how you say it, or in what capacity you say it.
+  - In fact, they see your attempts to [logically reason](logic.md) with them as a [moral](morality.md) temptation they must resist.
 
 ## Hostile environments
 

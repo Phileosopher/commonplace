@@ -19,6 +19,8 @@ Generally, since some of the measures can cost a lot of money and don't affect p
 
 - However, a well-maintained infosec policy can be more effective at protecting an organization than an [insurance policy](money-insurance.md).
 
+Broadly, the collective system that protects the computers is called Unified Threat Management (UTM).
+
 The weakest link in every single cybersecurity system are the employees:
 
 - Unlike computers, [humans](humanity.md) make non-deterministic mistakes all the time.

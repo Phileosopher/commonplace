@@ -1,6 +1,8 @@
 
 # How to clean various surfaces
 
+Make high-quality washing soda by baking baking soda in a pan at 350° for about 30 minutes.
+
 ## Washing the dishes
 
 Dishwashing solutions:
@@ -9,6 +11,8 @@ Dishwashing solutions:
 - Mix a cup of washing soda, a cup of borax, 1/2 cup salt, and 1/2 cup of lemon juice in a bottle.
 - Wash with straight vinegar.
 - Mix baking soda and water in a cloth.
+  - Mix 1/2 cup with 2 tbsp dish soap into 2 cups water to make dishwashing fluid.
+  - When applying to polymerized material, add 1/2 cup washing soda and add 5-6 tbsp hydrogen peroxide and 1 tsp dish soap, then mix and let sit for ~30 minutes before wiping off.
 
 Dirty sponge/dishcloth:
 

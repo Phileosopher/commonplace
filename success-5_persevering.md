@@ -95,7 +95,7 @@ Extra effort really isn't that hard:
 - It *does*, however, require [creativity](mind-creativity.md) to consider *how* to apply your extra effort to create the best results.
 - It also often requires bravery to do things nobody else is doing.
 
-You will have to say "no" to progressively more things as your efforts start yielding results:
+You will have to [say "no"](people-conflicts-no.md) to progressively more things as your efforts start yielding results:
 
 - Beyond [monetary](money-1_why.md) costs, we *frequently* have to pay for things with our time, which becomes more scarce proportionally to how much we succeed.
 - Hand off work if all the following apply:
@@ -547,5 +547,10 @@ It's often better to *not* succeed before age 25:
 
 - Historically, people who are young and attain success often think they're invincible or that many rules in life don't apply to them.
 - Failing as a younger person often gives insight over [what is most meaningful to pursue](meaning.md).
+
+It's also often better to *not* gain the first place in anything.
+
+- When you win, [you become complacent](success-6_humility.md), but *nearly* winning makes you more motivated to try harder the next time.
+- Do your best, and don't expect that you'll win.
 
 Once you've succeeded, your greatest challenge is [staying successful](success-6_humility.md).

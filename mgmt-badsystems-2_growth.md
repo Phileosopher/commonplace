@@ -29,6 +29,7 @@ Very frequently, a bad system has the means to continue growing through question
 - Disregarding any [ethical considerations](morality.md) and taking advantage of the lettering of vaguely worded or poorly considered [laws](people-rules.md) to perform activities that are *not* in the spirit of its design.
 - Underpaying the people in the group, often by implying the roles are tremendous [career-starting](jobs-1_why.md) opportunities or that the person can "grow with the company".
 - [Distorting the truth](people-image-distortion.md) about a product in a way that either hides the harm it may cause or [advertises](marketing.md) a feature the product in no way can remedy. This can include coining the [term](language.md) for a new disease (e.g., halitosis) or bribing/deterring [scientists](science.md) to prevent research.
+- Using a [moral](morality.md) "means justify the ends" approach to institutionalize and advance varying degrees of [evil](morality-evil.md).
 
 As they defeat progressively more competitors and gain more [power](power.md), a large system can operate at *enormous* scale, meaning they can act more efficiently than their competitors:
 

@@ -5,9 +5,11 @@ The printer is a much older output than the [computer screen](engineering-screen
 
 Printer output uses nearly the same internal framework as screen output:
 
-1. The CPU sends information stored in memory through an "interpreter" to a "print spooler" process.
+1. The CPU sends information stored in memory through an "interpreter" to a "print spooler" process through a Page Description Language (PDL).
 2. The print spooler breaks down the print instructions, line by line, and runs it through the [printer device driver](cs-os.md).
 3. The printer itself receives the driver-translated information and carries out its ink/toner output.
+
+As far as PDLs, XPS is Windows-oriented, PostScript is image-friendly, and PCL is great for most general office use.
 
 It's worth noting that "print" is still the term for a [console output](cs-cli.md), and from the software's perspective the two are effectively the same, since they both travel out to a device driver that handles what happens next.
 

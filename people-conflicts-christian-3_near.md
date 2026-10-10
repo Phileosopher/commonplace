@@ -102,7 +102,7 @@ Jesus doesn't *technically* need to eternally exist, but must be God:
 
 Dispensationalism - there are different "ages" where God interacted (and will interact) with people differently, and when Jesus came He completely divorced the meaning of "Israel" and Hebrew.
 
-- Before Christ, the hope *was* in the [coming Messiah](theology-salvation-prophecies.md).
+- Before Christ, the hope *was* in the [coming Messiah](bible-prophecies.md).
 - The Holy Spirit is the [down payment](people-contracts.md) for [the coming Age](https://theologos.site/millennium/) (2 Corinthians 1:21-22).
 - Not all Israel is "Israel" (Romans 9:6-8).
 - The natural implication, therefore, is that modern-day Israelis are no longer part of God's plans.

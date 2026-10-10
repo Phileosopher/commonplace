@@ -45,6 +45,8 @@ Periodic Law - If you order elements by their atomic number, their chemical and 
 
 Proust's/Constant Composition/Definite Proportions Law - Any given chemical compound will have the same proportion of each chemical.
 
+Seebeck Effect - When two different conductors at different temperatures connect, they create an electric current.
+
 Square-Cube Law - When something scales proportionally in surface area, it scales exponentially in volume.
 
 Third Law of Thermodynamics - Chaos is easier to predict as activity ceases.

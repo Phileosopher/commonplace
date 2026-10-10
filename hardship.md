@@ -1,6 +1,10 @@
 
 # How to overcome hardship
 
+Most of the act of enduring hardship is built around long-term endurance.
+
+- For whatever reason you create, you *must* have a reason to live.
+
 ## How do I cope?
 
 Life can be brutally unfair:
@@ -29,7 +33,93 @@ While you may be suffering severely, try to avoid making the pain "dirty":
   2. We frequently have a hard time releasing control of things.
 - Whenever possible, precisely split the components between the "clean" and "dirty" parts of the pain.
 
-## What about others?
+## Understand who you are
+
+You're the chaotic accumulation of various experiences and responses:
+
+- Everything you started with and had no control over:
+  - Race, ethnicity, and family's geographical location
+  - Specific family of origin and health
+  - Dispositional elements like personality and preferences
+  - Natural talents and weaknesses
+  - Culture of origin including [habits](habits.md), traditions, and rituals
+- Every experience you've been through, good or bad
+- Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
+  - Further, the things you've [learned](mind-understanding.md) from those experiences.
+- [Habits](habits.md) you've accumulated from all the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
+- Nobody is quite like you, so nobody else matters much for comparison.
+
+Thus, you are not a "static" existence:
+
+- You're a changing, dynamic person, with the thing called "You" being a vast set of experiences made by various iterations of "Past You".
+  - Your muscles are constantly breaking down or healing.
+  - You can't have the same thought twice.
+- You have less in common with the version of you 10 years ago than with your peers.
+- Every [decision](mind-decisions.md) you make from this point dictates who "Future You" can become.
+
+If you don't remove "static" thinking, you're guaranteed to become (and stay) a "victim":
+
+- Difficulties have hit you, and you're now reaping severely painful consequences.
+- Even though it might not have been your fault, you're still responsible to change from it.
+- You must replace your "victim" identity with a more powerful one like "overcomer", "persevering", "conqueror", "adaptable", "changing" or "resilient".
+
+Ignorant people will judge you for your hardship, and you must decide to either define yourself by how much your closest friends love you, or how little your enemies hate you.
+
+Life is guaranteed to be difficult, but we get to [choose](mind-decisions.md) what version of difficult we can experience.
+
+Give yourself plenty of grace:
+
+- Your experience was devastating, and it'll interfere with your ability to perform familiar things.
+- Don't make [plans](success-3_goals.md) or expect much from yourself, at least until the initial wave of emotional shock wears off.
+
+### Hardship management models
+
+You're free to build your own approach, but there are several well-established mindsets that persevere.
+
+Nassim Taleb's anti-fragility is the idea of how hardship can rebuild us.
+
+- Antifragile thinking begins with noticing failures and risks first, then *presuming* adverse things will happen.
+- The world is built of 3 categories:
+  - Fragile things break under stress.
+  - Robust things resist stress.
+  - Antifragile things will actually improve because of stress ([hormesis](engineering-materials.md)).
+- From beginning to end, things go through 5 major steps:
+  1. Fragility: the places where stress would break the system.
+     - This is often where too much depends on a single resource, assumption, or plan.
+  2. Stressors: applied, small forms of controlled stress toward the fragile points.
+     - The system should adapt under manageable pressure.
+  3. Downside: failure from the stress should be survivable.
+  4. Optionality: the failure gives multiple paths forward.
+     - Recovery is determined by how many unexpected opportunities exist.
+  5. Learning: each stressor reveals a weakness.
+     - Small stressors show scarce resources, hidden assumptions, and bad plans.
+
+[Stress](mind-feelings-happiness-stress.md) inoculation is about deliberate practice.
+
+- The idea is to employ "graduated exposure", which is seeking out manageable challenges before the harder ones arrive.
+  - This isn't always possible, but the idea is to make the trouble easier when it comes.
+- Its approach is straightforward:
+  1. Start by identifying the specific thing you find difficult or tend to avoid.
+     - This must be very, very precise (e.g., "[public speaking](education-how.md)" is too broad, but "performing [group interviews](jobs-5_interview.md)" isn't).
+  2. Build a ladder of increasing difficulty, starting with something that is *almost* comfortable and working toward the full challenge.
+     - These skills aren't always easy to distinguish, and often grouping them by difficulty can be helpful itself through giving hope that you can attain it.
+     - In the case of emotional duress (e.g., [death](hardship-death.md), [persecution](hardship-persecution.md)), aim to experience [stories](stories.md) of others who have gone through that type of experience.
+  3. Perform each step and reflect on what you noticed.
+     - Ask what was harder and what was easier, then use that to shape the next step.
+  4. Take your time and avoid skipping steps.
+     - Jumping to the hardest thing and powering through is a certain way to become discouraged and, possibly, [depressed](hardship-depression.md).
+
+The Resilience Triangle represents 3 dimensions for how we recover from disruption.
+
+1. Robustness is how well you absorb the initial impact of the trauma.
+   - This can be trained through having a [risk management](safety-riskmgmt.md) mindset over everything, but you can't be prepared for *everything*.
+2. Resourcefulness is how effectively you respond once you've experienced the disruption.
+   - Much of this is based on how [creative](mind-creativity-how.md) you can be and the support of your [friends](people-friends.md), as well as your [productivity](success-4_routine.md) in applying the answers.
+3. Rapidity is how quickly you return to full-functioning status.
+   - This is more a matter of timing, so it's more a consequence of the other two, but it represents the tangible [results](results.md) you would want to see.
+   - Often, rushing rapidity instead of building robustness and resourcefulness first can often reproduce the same issues later.
+
+## What about other people?
 
 If others judge you, treat their behavior as part of the package of your current hardship.
 
@@ -69,6 +159,14 @@ In [the unknown](unknown.md), look for God:
 - Only God can restore your situation, so focus on [releasing what happened to you](hardship-ptsd-release.md).
 
 ## You may not be prepared to recover
+
+Often, it's not possible to be [happy](mind-feelings-happiness.md).
+
+- When hardship happens, some people can brush it off.
+  - If you can't, that's absolutely okay, and you may be over-reacting to your inability to think like someone else.
+- The only risk of our misery leading to other issues only comes when we experience sustained, long-term [depression](hardship-depression.md).
+  - However, you're not at risk of that situation if you're finding little moments of joy or peace in the middle of a protracted season of legitimate suffering.
+- In particular, tradition-heavy holidays (e.g., Christmas) can be more difficult through how we have a natural tendency to compare ourselves with others.
 
 Our [personality](people-personality.md) defines our threshold for awful experiences.
 
@@ -115,45 +213,6 @@ Resisting vices and reckless behavior takes willpower to maintain, so replenish 
 
 - Find a healthy community that can support and guide you.
 - Give all your cares to [God as you understand Him](religion-answers.md).
-
-## Understand who you are
-
-You're the chaotic accumulation of various experiences and responses:
-
-- Everything you started with and had no control over:
-  - Race, ethnicity, and family's geographical location
-  - Specific family of origin and health
-  - Dispositional elements like personality and preferences
-  - Natural talents and weaknesses
-  - Culture of origin including [habits](habits.md), traditions, and rituals
-- Every experience you've been through, good or bad
-- Each [decision](mind-decisions.md) you've made, with each one creating some type of [consequence](results.md).
-  - Further, the things you've [learned](mind-understanding.md) from those experiences.
-- [Habits](habits.md) you've accumulated from all the above, which you only have partial control over when you're [aware](mind-awareness.md) of them.
-- Nobody is quite like you, so nobody else matters much for comparison.
-
-Thus, you are not a "static" existence:
-
-- You're a changing, dynamic person, with the thing called "You" being a vast set of experiences made by various iterations of "Past You".
-  - Your muscles are constantly breaking down or healing.
-  - You can't have the same thought twice.
-- You have less in common with the version of you 10 years ago than with your peers.
-- Every [decision](mind-decisions.md) you make from this point dictates who "Future You" can become.
-
-If you don't remove "static" thinking, you're guaranteed to become (and stay) a "victim":
-
-- Difficulties have hit you, and you're now reaping severely painful consequences.
-- Even though it might not have been your fault, you're still responsible to change from it.
-- You must replace your "victim" identity with a more powerful one like "overcomer", "persevering", "conqueror", "adaptable", "changing" or "resilient".
-
-Ignorant people will judge you for your hardship, and you must decide to either define yourself by how much your closest friends love you, or how little your enemies hate you.
-
-Life is guaranteed to be difficult, but we get to [choose](mind-decisions.md) what version of difficult we can experience.
-
-Give yourself plenty of grace:
-
-- Your experience was devastating, and it'll interfere with your ability to perform familiar things.
-- Don't make [plans](success-3_goals.md) or expect much from yourself, at least until the initial wave of emotional shock wears off.
 
 ## Don't let feelings define you
 

@@ -10,7 +10,16 @@ All the [general rules of good design](engineering-design.md) apply, but compute
 - Understandable: users must be able to understand the information
 - Robust: a wide range of technologies accessing the information must be able to interpret the content.
 
-To that end, simpler is almost always better.
+To that end, simpler is almost always better, especially with computers.
+
+To illustrate the point, here is the exact list of evertything wrong outlined in the first edition of "The Design of Everyday Things":
+
+- Make things invisible. Widen the Gulf of Execution: give no hints to the operations expected. Establish a Gulf of Evaluation: give no feedback, no visible results of the actions just taken. Exploit the tyranny of the blank screen.
+- Be arbitrary. Computers make this easy. Use nonobvious command names or actions. Use arbitrary mappings between the intended action and what must actually be done.
+- Be inconsistent: change the rules. Let something be done one way in oen mode and another way in another mode. This is especially effective where it is necessary to go back and forth between the two modes.
+- Make operations unintelligible. Use idiosycratic language or abbreviations. Use uninformative error messages.
+- Be impolite. Treat erroneous actions by the user as breaches of contract. Snarl. Insult. Mumble unintelligible verbiage.
+- Make operations dangerous. Allow a single erroneous action to destroy invaluable work. Make it easy to do disastrous things. But put warnings in the manual; then, when people complain, you can ask, "But didn't you read the manual?"
 
 ## Rules
 

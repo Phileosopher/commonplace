@@ -1,7 +1,7 @@
 
 # What Big Tech is doing
 
-NOTE: I'm not a journalist, and my citations are neither exhaustive nor comprehensive. The infractions go back farther than I'm writing here, and they will go farther into the future than I'll ever write. This is just to show the scope within a window of time as someone in the "biz" about what I've run across, and for brevity's sake I cut off the news at the end of 2023.
+NOTE: I'm not a journalist, and my citations are neither exhaustive nor comprehensive. The infractions go back farther than I'm writing here, and they will go farther into the future than I'll ever write. This is just to show the scope within a window of time as someone in the "biz" about what I've run across, and for brevity's sake and my sanity I cut off the news somewhere around 2023-2024.
 
 [Hackers](mind-creativity-hacking.md) aren't the only groups that individual users should be concerned about. Large organizations have tremendous information power.
 

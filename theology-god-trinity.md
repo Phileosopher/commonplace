@@ -71,6 +71,14 @@ From the framing of our understanding, God could have been *anything*, but He ch
 
 - This means that God's design, from the beginning of creation, was for humanity to have [a relationship with Him](theology-godandman-humanity.md).
 
+Further, there are other theological implications of the Trinity doctrine necessary to reflect [God's inherent nature](theology-god.md):
+
+- Since the three persons have each other, God didn't begin by loving us, but instead shares the love they have already (Acts 17:25, John 17:21-26).
+- The very fact that we can't understand the Trinity itself forces us into a perpetual positive relationship with [the unknown](unknown.md) (Romand 11:33-36, Isaiah 40:18).
+- A Trinity allows God alone to plan our salvation, come to save us, die, raise Himself from the dead, and dwell in us to complete our salvation (1 Peter 1:2, Ephesians 1:3-18).
+- Our prayers come to the Father, through the Son, through the Spirit, which makes the experience of prayer inherently communal (John 14:13-14, Ephesians 2:18).
+- The unity of [the Church](theology-church.md) comes as an example of how the three Persons interact (John 17:21-23).
+
 ## More information
 
 [On the Holy Trinity; Doctrinal Treatises; Moral Treatises - Compilation](https://www.ccel.org/ccel/schaff/npnf103.html)

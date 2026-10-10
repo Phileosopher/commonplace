@@ -41,6 +41,8 @@ The amount of latency, and relative speed of the satellite, requires a *lot* of 
 
 Each satellite must be *very* reliable, above 99.9%, since [maintenance](https://adequate.life/fix/) and hardware upgrades are nearly nonexistent or prohibitively expensive.
 
+- However, we can't predict solar storms more than a few days in advance, and any sufficiently large storm will take many satellites offline.
+
 ## Satellite data
 
 Beyond GPS coordinates, satellites can also serve as [network nodes](cs-networks.md) for data.

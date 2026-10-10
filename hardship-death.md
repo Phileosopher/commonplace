@@ -265,6 +265,9 @@ Keep all your paperwork [organized](organization.md) for the people who will hav
 
 Make sure to consider and communicate situations where you're incapacitated or missing, but not necessarily dead.
 
+- It's not uncommon for large medical institutions to prolong your life as long as possible, even when it's a miserable existence.
+- Having directives in place ahead of time can make the process more painless later, especially if you have dementia by the time it occurs.
+
 It's a blessing if your last days and weeks are relaxing:
 
 - Since death is *always* premature, you're the only one with any power to bring your life to a pleasant close.

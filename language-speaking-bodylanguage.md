@@ -21,6 +21,10 @@ Your body will clarify your words:
 - Your body language communicates a contextual story about your attitude, involvement, and feelings.
 - Since they're *your* feelings, don't try to imitate other speakers.
 
+More than anything, your microexpressions will give away more than you would ever realize.
+
+- We often subconsciously express our feelings within 1/25 to 1/5 of a second, and other people can observe thme if they're paying attention.
+
 Avoid tense or jittery movements:
 
 - Even when you have an itch or discomfort, severely limit how much you move your body in small ways.
@@ -123,3 +127,51 @@ Practice effective gestures:
   - Prompting gestures draw a response from the listener.
     - It's usually showing what they should do, such as a high-five or applauding.
 - Don't repetitively perform any small gestures, since they'll distract people.
+
+## Learn to read language as well
+
+While body language can vary by culture, facial expressions are [universal human characteristics](humanity-universals.md).
+
+There are 7 major body language cues, no matter the [culture](people-culture.md):
+
+- Surprise
+  - Eyebrows: raised and curved
+  - Brow: skin below the brow is stretched
+  - Forehead: horizontal wrinkles across the forehead
+  - Eyes: eyelids opened wide with white of the eye showing above and below
+  - Mouth: jaw drops open and teeth parted, but no tension or mouth stretching
+  - The most prominent microexpression is through an eyebrow flash
+- Fear
+  - Eyebrows: raised and drawn together, often in a flat line
+  - Forehead: wrinkles are in the center between the eyebrows instead of across the forehead
+  - Eyes: upper eyelid is raised (prominent white), but the lower lid is tense and drawn up (obscured white)
+  - Mouth: open and lips are slightly tensed or stretched and drawn back
+  - The most prominent microexpression is through widened eyes, but it can also show through an opened mouth
+- Disgust
+  - Eyes: narrowed
+  - Nose: wrinkled
+  - Cheeks: raised
+  - Mouth: upper lip raised, with upper teeth possibly exposed
+  - The most distinctive microexpression is through squinting
+- Anger
+  - Eyebrows: lowered and drawn together, with vertical lines between them
+  - Mouth: lower lip tensed, lips may be pressed together or in a square shape
+  - Eyes: hard stare or bulging
+  - Nose: dilated nostrils, potentially
+  - Jaw: jutting out
+  - The clearest microexpression is through lowered eyebrows
+- Joy
+  - Eyes: eyelid may show wrinkles or be tense, crow's feet on outside of eyes
+  - Lips: wrinkle from outer nose to outer lip
+  - Cheeks: raised
+  - Mouth: may be parted and teeth exposed
+  - Genuine smiles often use the orbicularis oculi muscle around the eyes, which creates the crow's feet, but it amy only mean smile intensity rather than genuineness.
+- Sadness
+  - Brow: inner corners of eyebrow are drawn in and then up, skin below eyebrows has the inner corner up
+  - Lips: lower lip pouts out, corners of lips are drawn down
+  - Jaw: lifted up
+  - Sadness microexpressions are longer-lasting, but are difficult to correctly identify because of their subtlety.
+    - However, the best place to look is the inner eyebrows for that small inner pull upward.
+- Contempt/Hate
+  - Mouth: one side is raised
+  - Contempt microexpressions can be *very* valuable to recognize, especially since many people try to mask when they hate someone.

@@ -43,7 +43,10 @@ However, the absence of virtue *does* represent itself on a general spectrum by 
 
 ## Awareness and evil
 
-We [understand](mind-understanding.md) many of our needs from birth and must be [taught](mind-understanding.md) others', so everyone is born selfish. Selfishness merely requires *not* thinking about anyone else. This is technically evil, but [normative](people-culture.md) enough that we give plenty of grace for it.
+Selfishness merely requires *not* thinking about anyone else.
+
+- We [understand](mind-understanding.md) many of our needs from birth and must be [taught](mind-understanding.md) others', so everyone is born selfish.
+- This is technically evil, but [normative](people-culture.md) enough that we give lots of grace for it.
 
 APPLICATION: Every child is born with the capacity to be evil, so society will *always* have a problem with evil as long as it keeps having children. The only way to change it is to reconstruct our entire [formation](humanity.md) from our conception before birth. All we can do is either [socially engineer](people-rules.md) [justice](morality-justice.md) to curb it, or inspire people through [faith](mind-understanding-certainty.md) to [change](people-changes.md) for [something beyond themselves](morality.md).
 
@@ -51,7 +54,7 @@ As we [grow](maturity.md), continuing to care more about ourselves than others w
 
 Our adaptation toward evil starts *very* early on. Starting at about 6 months old, we start abusing others' [boundaries](people-boundaries-why.md). Some people may debate an infant's [understanding](mind-understanding.md), but it's perfectly clear they don't [care about](people-love.md) anyone but themselves.
 
-When we become [aware](mind-awareness.md) of evil [habits](habits.md), we are more likely to stop them. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](people-image-distortion.md) further.
+When we become [aware](mind-awareness.md) of evil [habits](habits.md), we are more likely to stop immoral behavior. This isn't always true, though, since we must have at least some [love](people-love.md) of others to even consider it. Often, we can use that awareness to [hide their evil](people-image-distortion.md) further.
 
 APPLICATION: People are sometimes [unaware](mind-awareness.md) of their evil, so we must seek to [inform](people-conversation.md) them before taking action against them. This doesn't always work, though, and we must use good [rules](people-rules.md) to keep ourselves [safe](safety.md).
 
@@ -61,13 +64,18 @@ Many people falsely believe evil decisions are products of stupidity. While evil
 
 APPLICATION: Evil isn't wise, but intelligence can compensate for it, and some of the most evil people on the planet are so intelligent that they hide it well.
 
+However, we can also use [reasoning](logic.md) to justify that certain moral standards don't apply to us.
+
+- Some popular justifications include that someone else was performing the actual evil, nobody is actually being harmed, and that someone's situation is uniquely special to everyone else's.
+- However, when using *any* gauge from society or [religion](religion.md), people constantly self-delude themselves into believing themselves exempt from standard moral precepts ("moral disengagement").
+
 ## Decisions
 
 Evil decisions require [power](power.md) to perform it. Otherwise, the only evil a person can commit is within their [imagination](mind-imagination.md).
 
 Every single person has the capacity for evil by making a few key [immoral](morality.md) [decisions](mind-decisions.md), then committing them to [habit](habits.md):
 
-1. Ignore when [other people say "no"](people-conflicts-why.md), which requires intentionally not [observing them](people-image-why.md).
+1. Ignore when [other people say "no"](people-conflicts-no.md), which requires intentionally not [observing them](people-image-why.md).
 2. Attack anyone who enforces their [rights](morality-justice.md) or questions your [privileges](results.md).
 3. Withhold from anyone who needs anything.
 4. Exercise every privilege as far as you [feel](mind-feelings.md) like.
@@ -89,7 +97,7 @@ APPLICATION: Everyone is about 20-50 key [decisions](mind-decisions.md) away fro
 
 On the other hand, being good requires trained [virtue](morality.md) that goes against our impulses:
 
-1. Respect others' [boundaries](people-boundaries-why.md) and honor their right to say "no" about their [rights](morality-justice.md).
+1. Respect others' [boundaries](people-boundaries-why.md) and honor their right to [say "no"](people-conflicts-no.md) about their [rights](morality-justice.md).
 2. Maintain respect for others when they disregard your privileges.
 3. Give to others when they require things more than you.
 4. Only exercise your rights.

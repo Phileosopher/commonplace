@@ -28,6 +28,7 @@ We learn well when we enjoy what we're studying, so try to make learning fun (or
 - Make a summarized format of all the material.
 - Connect what you learn to practical matters in the rest of your life.
 - Try studying [with friends](people-friends.md) to enjoy it more.
+- Do *not* try cramming before the test if you actually want to *know* the information.
 
 If you want to deeply understand the information, add variety:
 
@@ -89,6 +90,12 @@ Consider the time of day for studying:
 - If you study in the morning, your mind is uncluttered, but studying in the evening means you'll [meditate](mind-awareness.md) on it while you sleep.
 
 ### Before you start
+
+Break up your routine:
+
+- Brush your teeth with your non-dominant hand.
+- Travel a different route to where you're studying.
+- Go somewhere new to study.
 
 Eat a healthy meal to peak your blood sugar beforehand:
 
@@ -173,7 +180,11 @@ If you start drifting or getting frustrated, casually read ahead to get a feel f
 
 ## After the study session
 
+When you're done, perform a little celebration to [establish a habit](habits.md) to prime success.
+
 If you have time, sleep to encode the ideas into memory.
+
+When sleeping, inhale rosemary essential oil to trigger your memory circuitry.
 
 Review your notes within 24 hours:
 

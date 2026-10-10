@@ -82,6 +82,8 @@ Used items tend to turn far less profit as new ones.
 
 Many companies generate far more profit from the [banking products](money-2_debt.md) derived *from* their product than the product itself!
 
+Learn to consistently [reject](people-conflicts-no.md) things that aren't in your long-term interests.
+
 ### Watch for marketing tactics designed to make you overspend
 
 Building rapport through personality:

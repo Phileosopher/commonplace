@@ -435,7 +435,7 @@ Be careful giving ultimatums:
     - The anecdote must be true, or you're outright [lying](people-lying.md).
   - You're intensifying something you may not have felt *that* strongly about, but nobody can argue against it.
 
-People typically need to say "no", so don't take it personally:
+People typically need to [say "no"](people-conflicts-no.md), so don't take it personally:
 
 - "No" is how we maintain the way things always have been, which means they feel unsafe and need to assert control.
   - Getting them to say "no" about something increases the chances they'll say "yes" later.
@@ -460,7 +460,7 @@ If they give a final offer, don't fight it:
   - Payment arrangements
   - Additional items or agreements
 
-Don't say "no" directly:
+Don't [say "no"](people-conflicts-no.md)" directly:
 
 - You can usually bring out more shared dialogue by showing skepticism.
 - Frame your rejection as a question to force the discussion to bring more dialogue.

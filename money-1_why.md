@@ -141,7 +141,7 @@ Learning about money is one of the most significant investments you can make.
 Understanding money management is easy, but we need self-discipline to properly do it:
 
 - Determination: focus creates success through changing a lifestyle.
-- Long-term-oriented: We consume more and invest less when we don't say "no" to our present self.
+- Long-term-oriented: We consume more and invest less when we don't [say "no"](people-conflicts-no.md) to our present self.
 - Optimistic: you must believe you'll attain your goals and things will work out because you're defining your future.
 - Realistic: "get rich quick" is only possible with tremendous sacrifice, and you probably won't hit your goals.
 - Practical: certain chances to save money can dramatically sabotage opportunities.

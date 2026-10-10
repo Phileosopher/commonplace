@@ -9,6 +9,26 @@ Auto parts have a predictable lifespan.
 
 Often, you can be fortunate to spot an issue *before* it becomes a crisis by [interpreting warning lights](autos-lights.jpg) on the dashboard.
 
+- Maintaining a vehicle can dramatically magnify *any* vehicle to last multiple hundreds of thousands of miles.
+- In general, you're trying to prevent the following:
+  - Unnecessary vibration
+  - Excessive heat (often caused by friction)
+  - Defective parts that affect other parts
+  - Components striking other components unnecessarily
+
+Make better driving [habits](habits.md):
+
+- Warm up the vehicle by driving, not by idling.
+  - This was true for carbureted cars, but modern cars need better heat management.
+  - It only needs 30 seconds for the oil to warm up, then drive off gently until it warms up.
+- Aim for top-tier fuel according to the specification, which prevents deposits and buildup, and can often clean off deposits.
+- Park in the shade or a garage to prevent heat from damaging the car.
+- Use the parking brake every time to prevent the weight damaging the parking pawl within the transmission.
+- [Drive gently](autos-driving.md) to avoid more damage to the vehicle's systems (e.g., suspension, brakes, engine).
+- Listen carefully and pay attention to any variations or noises that come from the vehicle.
+
+## Maintenance schedule
+
 Small routine needs
 
 - Car lamp - 6 months
@@ -121,7 +141,10 @@ Unless the manufacturer specifies otherwise, premium gas makes no difference in 
 Always stay on top of routine maintenance:
 
 - Keep the battery terminals clean.
-- Change the oil about every 7K-10K miles or when it looks dirty.
+- Change the oil about every 7.5K-10K miles or when it looks dirty.
+  - The 3K mile length is a myth, and most modern engines on synthetic oil.
+  - At the same time, if you drive many short trips, in a dusty or hot climate, or keep it frequently running and parked or in traffic, it's more like 5K miles.
+  - Make sure you use the specified oil according to the manual, and that it's API-conformant.
 - The air filter and spark plugs are easy and cheap to replace, so replace them at any sign of wear.
 
 Inspect the fluids monthly and keep them filled:
@@ -137,9 +160,13 @@ Inspect the fluids monthly and keep them filled:
   - Keep unopened oil in the trunk in case it needs to be topped off.
   - Use stop leak, lifter quiet, and high-mileage treatment after every oil change.
 - Brake fluid
+  - Flush it every 2-3 years to prevent damage to the brake system, irrespective of how far you've driven.
+  - Brake fluid is designed to absorb water, but also lowers its boiling point, which can create spongy braking.
 - Power steering fluid
 - Transmission fluid
   - Replace the transmission fluid about every 100K miles.
+  - "Lifetime" transmission fluid means the lifetime of the warranty.
+  - When servicing, try to get a gradual drain and fill instead of a high-pressure flush that could damage components.
 
 ## When you can't fix it
 

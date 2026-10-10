@@ -76,7 +76,7 @@ Unsolicited kindness could be a scam:
 Unsolicited kindness could also be theft:
 
 - If you seem confused at a cash machine, a man will help you out but will memorize your PIN for when he picks your pocket later.
-- Someone will drop a ring in front of you and ask if it's yours, then will inspect it when you say no and say it's real gold, then will charge more than it's worth to sell it.
+- Someone will drop a ring in front of you and ask if it's yours, then will inspect it when you say "no" and say it's real gold, then will charge more than it's worth to sell it.
 - A pickpocket will warn you about people stealing cell phones and wallets, then watch where you instinctively grab for an accomplice to pick your pockets later.
 
 Watch for pickpockets in packed areas like trains, concerts, and train stations.

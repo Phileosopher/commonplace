@@ -127,11 +127,20 @@ Even in relatively mundane chip-making manufacturing plants, the technology to m
 2. Blast the drops with an incredibly precise 25-kilowatt ultraviolet laser. The laser is so precise that it can hit a penny from the moon, which will evaporate the droplets into a small flat cloud.
 3. Fire a second shot that bounces the beam off a series of mirrors that directs the tin onto a silicon wafer. This will directly draw the transistors and other features onto the chip.
 
+There are two major philosophies toward processor architectures:
+
+- Reduced Instruction Set Computing (RISC): uses a smaller set of simple instructions that can be executed quickly
+  - This reduces the cycles per instruction, but becomes slower with more instructions per program.
+- Complex Instruction Set Computing (CISC): uses a larger set of complex instructions to perform more operations with a single command
+  - This cuts down on the number of instructions per program, but creases the number of cycles per instruction.
+  - Most standard Intel desktops use this architecture.
+- Advanced RISC Machine (ARM): a low-cost, low-power solution for building RISC with more convenience for smaller form factor implementations
+  - Most smaller and modern devices use this architecture (e.g., graphics cards, laptops, mobile phones).
+  - To make it faster, the design includes a system-on-chip (SoC) system that keeps device driver controllers within the CPU.
+
 ## Looking ahead
 
-This section was updated in 2025.
-
-Now that [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has stopped due to the limits of electrons, the future of CPUs is in [quantum computers](cs-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
+Now that [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has slowed due to the limits of electrons, the future of CPUs is in [quantum computers](cs-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
 
 Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 

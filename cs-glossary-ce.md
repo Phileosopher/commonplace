@@ -229,6 +229,8 @@ Cyberterrorism - using computers to evoke public or government-targeted FUD
 
 ## D
 
+Daemon - background processes that stay inactive until they're invoked
+
 Dark mode - a color scheme that emphasizes darker colors, typically useful for users in darker rooms but is strictly a matter of preference
 
 Dark pattern - UX/UI tricks to motivate users to perform differently than they otherwise would have decided

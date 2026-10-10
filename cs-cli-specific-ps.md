@@ -8,3 +8,11 @@ However, now everything is done via PowerShell. It's far more powerful, though t
 However, MS-DOS batch and script files are still useful in edge cases, at least for smaller tasks.
 
 [Powershell Cheat Sheet](cs-cli-specific-ps.png)
+
+## Specific commands
+
+Virtual machine management:
+
+- New-VM
+- Set-VM
+- Connect-VMNetworkAdapter

@@ -48,6 +48,10 @@ Ham radio operators are the only people allowed to use devices that go across *m
 
 Shortwave broadcasts will *always* be useful because they're often the only way to communicate in [an emergency](hardship-disaster-1_short.md).
 
+- One convenient trick that's easier with short-wave is to bounce it off the temperature inversion of the atmosphere (or duct), which can greatly increase range.
+- This ducting effect can also cause issue with radar (radar ducting), which generates distortion on the reflected image from the reflected signals.
+- However, ham radio operation is expensive, so many of the operators end up doing nothing but talking with each other about ways to prepare for the apocalypse.
+
 ## Wireless information
 
 One of the newest forms of wireless transmission is through the IEEE's 802.11 [standard](cs-standards.md).

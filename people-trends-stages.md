@@ -135,7 +135,7 @@ At this stage, most [creative](mind-creativity.md) efforts that change the trend
 
 The result of all this is that it becomes very, very boring, and all the innovators find more interesting things to do.
 
-APPLICATION: To be anti-fragile, we must *never* accept something as a "loss". Setbacks, limits, scarcity, challenges, and obstructions are all parts of [reality](reality.md), but the only failure comes through [believing](mind-understanding-certainty.md) a [risk](entrepreneur-why.md) is defined by its [results](results.md) more than its [effort](purpose.md). A society that maintains this attitude can repeatedly rise above *anything* (e.g., the Renaissance came from surviving the Black Plague, America's Greatest Generation came from the Great Depression and World War II).
+APPLICATION: To be [anti-fragile](hardship.md), we must *never* accept something as a "loss". Setbacks, limits, scarcity, challenges, and obstructions are all parts of [reality](reality.md), but the only failure comes through [believing](mind-understanding-certainty.md) a [risk](entrepreneur-why.md) is defined by its [results](results.md) more than its [effort](purpose.md). A society that maintains this attitude can repeatedly rise above *anything* (e.g., the Renaissance came from surviving the Black Plague, America's Greatest Generation came from the Great Depression and World War II).
 
 Every [organization](groups-large.md) that benefits from a trend wants to keep a trend at this stage. Many [organizations](groups-large.md) convert to [bad systems](mgmt-badsystems.md) or arise in this stage.
 

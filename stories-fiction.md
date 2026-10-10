@@ -1,5 +1,5 @@
 
-# Specific information about fiction stories
+# Specific facts about fiction stories
 
 ## Driving force
 
@@ -86,59 +86,6 @@ Blake Snyder observed that every story effectively works through at least one of
       3. A [sin](morality.md) that brought the monster
 
 The [genre](art-genres.md) will heavily constrain which narrative forms are permissible.
-
-## Narration
-
-Fictional stories are also known as "narrative".
-
-- Narrative comes from its root "narrate", which means giving an account of events.
-- This goes back to the historical concept of a person sharing a story, often in the evening with a fire burning.
-- While information is presented in text is higher-quality, it doesn't change the exploration into [the unknown](unknown.md) that captured the attention of people thousands of years ago.
-
-Every fictional account has to [feel](mind-feelings.md) like it is associated with [reality](reality.md).
-
-- Any clear breaks in reality must either be implicitly explainable as [humor](humor.md) or speculative (i.e., science fiction, fantasy, or horror).
-- Without that speculative explanation or humor, the entire story can only represent as an unreliable narrator.
-
-Using an unreliable narrator is very convenient.
-
-- It allows a degree of separation to cover any plot holes.
-- The story can represent with more fluidity, since it's bound by the [personality](people-personality.md) of the fictional character instead of reality itself.
-
-There are multiple forms of unreliable narrator:
-
-1. Missing information
-   - This is the easiest to create, and simply requires imagining the character to be inexperienced.
-     - This is most easily done by referencing and permuting [an earlier personal life stage](maturity.md).
-   - Watson (Sherlock Holmes): present for the event, but not as perceptive as the protagonist
-   - Katniss Everdeen (The Hunger Games): present for the event and is the protagonist, but they don't fully understand what's happening
-   - Jonathan Harker (Dracula): absolutely clueless about logical consequences of their experience and doesn't know which details are significant
-   - Murderbot (Murderbot Diaries): describes details, but without feelings of any sort.
-2. Attempting truth, but adding incorrect information
-   - This requires a delicate touch of distortion, since you have to step a few paces away from the truth.
-     - It also requires enough comfort with [uncertainty](mind-understanding-certainty.md) that you can project the discomfort through the narrator's inadequacy to know.
-     - Lemony Snicket (A Series of Unfortunate Events): not present for the event, reconstructs the facts on later research that may be wrong or incomplete
-3. Subconsciously misunderstanding the truth
-   - The distortion has to be present, but always toward the narrator's singular [purpose](purpose.md) of coping with the facts.
-   - Ted Moseby (How I Met Your Mother): present for the event, but misremembers or forgets details and nostalgia has embellished parts of the story to make it unbelievable
-   - Goob (Meet the Robinsons): emotional [bias](mind-bias.md) distorts their judgment over actual events
-   - Rose Quartz (Steven Universe): present for the event, but depicts a [narcissistic](mind-neurodivergence-clusterb-narcissist.md) view where events made them appear better than the truth
-   - Tyler Durden (Fight Club): suffering from hallucinations, but doesn't know it
-   - Pi (Life of Pi): has suffered a [traumatic experience](hardship-ptsd.md) and turns it into a wonderful tale to cope with it
-4. Consciously distorting the truth
-   - This requires understanding the truth, then also clearly understanding the narrator's direct agenda for concealing it.
-   - Big Brother (Nineteen Eighty-Four): revises history to portray raw propaganda
-
-In mixed media (e.g., movies, video games), there are multiple avenues to provide degrees of unreliable narration.
-
-- Stream a mainline story, then add a secondary narrator later with a revision (e.g., the propaganda, then the resistance)
-- In the flow of the story, give an alternative take on events (e.g., the game's journey, then adding bits of recorded/printed media throughout the game)
-- As a second story altogether (e.g., the sequel with a second version of events)
-
-In the case of a mature [genre](art-genres.md), it's almost necessary to provide unreliable narration.
-
-- The genre awareness of the audience makes a conventional story boring to them.
-- However, an unreliable narrator allows for a conventional story to become interesting.
 
 ## Inspiration
 

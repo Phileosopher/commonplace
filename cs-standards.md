@@ -7,6 +7,8 @@ Engineers representing all the largest organizations, therefore, must constantly
 
 This isn't to say that slang and dialects don't adapt in the human development of new technologies. In fact, it's frequently the case that figuring out *why* most standards are named what they are quickly becomes a deep dive into a technical history lesson.
 
+To make it more complex, these standards need consistent updating to conform to new requirements (e.g., faster networks, more data transfer).
+
 ## Standard-setters
 
 Here are some of the more notable organizations that set computer-related standards (as of 2021), with some of their more notable contributions.

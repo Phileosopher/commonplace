@@ -35,7 +35,7 @@ Further, the more complexity in the system, the more risks inherent to the syste
 
 1. [Organization](cs-infosec-compliance.md): security strategy, disaster recovery, security auditing, risk assessment, security policies, legal compliance
 2. [Network](cs-networks.md): [authentication methods](cs-infosec-authentication.md), routers, proxy/VPN servers, IDS, firewalls, [encryption](encryption.md) of transmitted information
-3. Application: more authentication, user roles and accounts, data encryption
+3. Application: more authentication, [user roles and accounts](cs-infosec-permissions.md), data encryption
 4. End user: security education, more authentication methods, antivirus software, more data encryption
 
 ## Authentication
@@ -45,6 +45,14 @@ It's critical to use some type of verification for a program, and there are [man
 ## Network hardening
 
 Making a [computer network](cs-networks.md) involves adding communication features between computers. By contrast, [network hardening](cs-infosec-cysec-network.md) involves *removing or disabling* all unnecessary features authorized users won't use.
+
+The actual methods for hardening are often very, very common-sense:
+
+- Turn off things you don't use, especially if they're internet-facing.
+- Enable a firewall.
+- Use [good passwords](cs-infosec-authentication.md).
+- Keep all software [up to date](cs-software-versionctrl.md).
+- Be suspicious of *everything* that's even remotely unusual.
 
 ### Specific network hardening tricks
 

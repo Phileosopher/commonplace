@@ -58,7 +58,7 @@ The Bible has been more attacked throughout history than any other book, but con
 
 ## History has already proven many Bible prophecies
 
-[Hundreds of prophecies](theology-salvation-prophecies.md) were directly fulfilled by Jesus alone.
+[Hundreds of prophecies](bible-prophecies.md) were directly fulfilled by Jesus alone.
 
 Many passages predicted Israel's status:
 
@@ -76,7 +76,7 @@ Babylon was considered impenetrable at the time, but the Bible predicted its fal
 
 Isaiah predicted that Cyrus would overtake Babylon and liberate the Jews exiled at the time (Isaiah 44:28, 45:1,13).
 
-Jesus' coming had [*hundreds* more prophecies fulfilled](theology-salvation-prophecies.md).
+Jesus' coming had [*hundreds* more prophecies fulfilled](bible-prophecies.md).
 
 ## Claimed contradictions usually overlook a few things
 

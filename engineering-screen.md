@@ -22,7 +22,14 @@ Cathode ray tube (CRT) screens were more popular at one time.
 
 Plasma screens use tiny pockets of mercury gas, which turn to plasma when ionized by electricity and emit ultraviolet rays, which run through 3 different colors of phosphor cells to create an image. Each pixel in a plasma screen is emitting its own light, so it doesn't need a backlight.
 
-"Liquid crystal display" (LCD) screens uses long horizontal fluorescent tubes as a "backlight". The voltage for each pixel rotated it to allow light to pass through. It became reliable enough that it surpassed CRT sales by 2007.
+"Liquid crystal display" (LCD) screens uses long horizontal fluorescent tubes as a "backlight". The voltage for each pixel rotated it to allow light to pass through. It became reliable enough that it surpassed CRT sales by 2007. There are now three subsets of their design:
+
+- In-plane switching (IPS): the crystals are parallel to the screen, which make the light and color consistent
+  - The tradeoff is that their response time is a little delayed, which can affect fast-paced [gaming](fun-games-cs.md)
+- Twisted Nematic (TN): the crystals twist 90 degrees between the electrodes to control light passing through
+  - They have better refresh rates than IPS, but have poorer color reproduction and limited viewing angles
+- Vertical alignment (VA): the crystals are aligned vertically and tilt when electrified to control light passage
+  - They're a middle between IPS and TN.
 
 "Light-emitting diode" (LED) displays are precisely the same as LCD screens, except that they use many small LEDs instead of fluorescent lamps. LEDs themselves are essentially semiconductors. The term is mostly a [marketing](marketing.md) term, since it's mostly the same technology as LCDs, though the LEDs can be coated in plastic and used in arrays separately (such as sports stadium or bus station signs).
 

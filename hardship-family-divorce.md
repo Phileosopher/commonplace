@@ -83,18 +83,62 @@ Ideally, you'll be able to settle an agreement with them.
 - Many times a settlement is possible, but it *will* be a compromise that both of you won't completely like.
   - Don't waste time or legal fees on any type of settlement if they're completely unwilling to shift on their preferences.
 
-### High-conflict divorces
+Even if you have religious objections to divorce, a long-term absence usually merits a legal separation.
+
+- By filing for legal separation, you get all the legal benefits of a divorce, but without a formalized divorce.
+- Further, if you or your ex seek divorce later, it becomes easier to do because everything was already sorted through during the legal separation.
+
+## High-conflict divorces and children
+
+Be careful what you say to your ex after they've filed for divorce.
+
+- Some things will give them an opportunity for further abuse.
+  - Don't tell them your plans once the divorce is finalized.
+  - Even if you still love them, don't tell them, since they'll weaponize it against you.
+  - Don't indicate that you have any timetable, since they will do everything to keep you legally linked to them.
+- Other things will give them an incentive to stalk you and get revenge later.
+  - Do *not* tell them you're pleased this is happening.
+  - Don't blame them, even if it was their fault.
+  - Avoid threatening to take them for everything they have.
 
 If the divorce is high-conflict, expect it to go longer than you'd ever prefer.
 
-- Court battles are long, messy, and unpleasant for almost everyone.
+- Court battles are long, messy, and unpleasant for almost everyone except the high-conflict individual.
+
+Children often learn to silently adapt to the trauma.
+
+- They stop askingquestions because they realize what they say can't change the outcome.
+- They learn to behave correctly for each parent's home and in court settings.
+- The [uncertainty](mind-understanding-certainty.md) and [emotional pain](hardship-ptsd.md) is so severe that they often learn to hide their true feelings and ignore what they need.
+
+If your ex is a [Cluster B personality](mind-neurodivergence-clusterb.md), they will almost certainly weaponize your relationship with your children.
+
+- They see your children as an extension of themselves, so they will got great lengths to ensure they are fully obedient to everything they demand.
+- This will make the situation increasingly dangerous as the children find their own path through the world.
+  - Even if you wish to keep the peace, your children are guaranteed to have a difficult and different time than you due to the uniqueness of your divorce compared to you or your ex's experience.
+- Get therapy for your children.
+  - Many parents miss the symptoms of traumatized children because the children have taken the role of parent with their guardian ("emotional parentification").
+  - They need to know they are safe, loved, and worth it, and that will require *years* of therapy to unwind what they're thinking and feeling from what they've been taught to think and suppress.
 
 Coparenting during and after divorce is simply not possible with a high-conflict ex.
 
 - Instead, it's better to pursue "parallel parenting" or "protective parenting", which is the mindset that the other person is either uninvolved or a threat to your children's well-being.
-- Be [very careful what you say](legal-safety.md) to your ex, since *anything* you say can and may be read publicly by a judge later.
+- Be [very careful what you say](legal-safety.md) to or about your ex, since *anything* you say can and may be read publicly by a judge later.
 - Sharing a calendar will make more information they can use against you later in court.
-- Showing up at events together "for the children" will make a host of issues later for them.
+- Showing up at events together "for the children" will make a host of issues later for your children.
+- Be very careful of options provided by courts that aren't aware of the situation.
+  - When a court gives an option, many well-meaning parents will take a short-term advantageous solution at the expense of a long-term benefit (e.g., custody only on weekends and pay all child support).
+    - Then, the high-conflict parent actions will violate the court-established arrangement, but enough to get away with it (e.g., never showing up on time for custody exchanges).
+    - By the time well-intended victims realize the pattern, years sometimes transpire with no remedy, and they never thought to keep records of what happened.
+- In particular, be careful about any therapy with both parents involved.
+  - Therapy will be another option for your ex to weaponize the system.
+    - Often, the therapist will become sympathetic through alleged desire to self-improve, and the therapist will often volunteer information they otherwise wouldn't have given.
+    - Further, they will use the therapist's advisement to frame that things are going well.
+    - By the time the therapist sees the lies, the parent will then allege the therapist is biased and request another one, which can reset the cycle.
+  - Reunification therapy only works when the present parent wants to see the estranged parent reconnect.
+    - Unfortunately, it's 18-24 weeks of therapy one hour a week, which is more time for an abusive parent to exploit their custody.
+  - Further, any involvement by them with a therapist will teach them how to coach their children over what they should and shouldn't say.
+    - Plus, if they subpoena the therapist to testify in court, the child will no longer feel safe to share details with the therapist if it changes the conditions for custody that the child doesn't want.
 
 Men, more than women, are extremely vulnerable during divorces.
 
@@ -107,11 +151,36 @@ Men, more than women, are extremely vulnerable during divorces.
   - Most institutions are poorly prepared for the trauma men face, and often will either ignore them or misdiagnose the problem.
   - Many women are trained to believe that all women must be believed about all allegations.
 
+Judges aren't stupid, and your situation is usually something they've seen before.
+
+- Even in the case of [a separation](hardship-separation.md), they will observe facts beyond simply the stories they hear.
+- In particular, they focus on specific domains:
+  - Which parent is legitimately placing the child's needs first?
+  - What does that parent say about the other parent?
+  - Even while it's difficult, which parent supports contact between the child and the other parent?
+  - Is that parent consistent between what they say and what they've done?
+  - Is that parent aware of the child's specific needs (e.g., routines, [schooling](education.md), [health](body-health.md), [emotional wellbeing](mind-feelings.md))?
+  - How does that parent behave during court proceedings?
+  - How does a parent handle alegations by the other parent?
+  - How willing will that parent follow orders?
+  - What is the quality of the evidence that parent is presenting?
+  - How does that parent approach any resolution?
+- At this point, given how many high-conflict mothers use the Silver Bullet strategy, it's now a high-risk proposition for most contexts.
+  - In the short-term vistation may be restricted pending review, temporary orders may change, and the litigation becomes more adversarial.
+  - However, there are *many* long-term consequences of unsubstantiated, exaggerated, or disproven claims:
+    - That person loses credibility with the court.
+    - The custody findings will be adverse for them.
+    - The court will order evaluations.
+    - That person will pay more attorney fees or sanctions.
+    - That person will damage coparenting relationships and their child's emotional wellbeing.
+
 Watch for any false allegations your ex makes against you.
 
 1. Note any repeated allegations, since they may be guilty of those actions.
 2. Ask for all information during the discovery process through things like depositions, document production requests, interrogatories, and subpoenas.
 3. Find out as much information possible to support the fact that they are, in fact, doing the behaviors they accuse you of doing.
+   - Stay grounded and document everything.
+   - Disregard emotion and focus on behaviors, patterns, evidence, and stability.
 
 Carefully consider the [story](stories-why.md) they make against you with their allegations.
 
@@ -124,6 +193,28 @@ Carefully consider the [story](stories-why.md) they make against you with their 
   - Over time, the truth will show itself, even if your ex has exposed almost everyone to [narcissistic abuse](hardship-abuse-narcissist-stages.md).
 
 Once you can counter their arguments with facts about them, and your present story repudiates their allegations, you have a better chance of winning your case.
+
+- However, even with guardians ad litem, child advocates, and social services, there's a reasonable chance that courts will overlook the actual best interests of your child.
+- Learn to [accept the uncertainty](hardship.md) and do what you can.
+
+Be careful how you speak about your ex toward your children.
+
+- Stay calm, even when it hurts.
+  - If they've been [psychologically manipulated](hardship-abuse-narcissist.md), they'll often state things that are unfair or mean.
+  - Avoid reacting emotionally, which requires [learning to find inner peace](mind-awareness.md).
+- Don't criticize the other parent, even when their behavior is justified.
+  - Children deep-down want the fantasy of a complete reunification of their mother and father, and they will only shift from that during [adolescence](parenting-teenagers.md).
+- Learn to [listen](language-speaking-listening.md) more than speak.
+  - More than anything, children who have been manipulated need to feel heard more than anything else.
+  - You don't have to agree with anything they say, but you can use [empathy](mind-awareness-feelings.md) to echo how they would feel in light of the events they understand.
+- Stay neutral and focused on them.
+  - If they say something critical about the other parent, acknowledge the feelings without agreeing or disagreeing.
+  - If there are truths you want to convey to them, you can always promise to discuss the details with them when they're older, then set that date in your calendar.
+- Keep your message simple and consistent.
+  - Use short, reassuring statements like "I love you", "I'm here for you", "That won't change", and "I understand" more than anything more complex.
+- Don't force closeness or immediate reconciliation.
+  - By the time you're attempting to reconnect, they likely have learned how to sever or compartmentalize the other parent just to survive, so they may do it to you as well.
+  - Be patient with the process, and focus on protecting your long-term bond with them.
 
 ## Rebuilding
 

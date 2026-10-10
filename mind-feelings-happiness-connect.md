@@ -118,7 +118,7 @@ Disruptive behaviors against healing environments come from multiple sources:
    - Even with complete enlightenment, an adult child will rarely fix their childhood home.
 5. Rigid and constrictive [religious](religion-answers.md), [political](politics-conservativeliberal.md), or social beliefs.
    - Inability or feeling unable to think or act with a sense of personal autonomy or independence.
-   - Can't say "no", hear "yes" or "thank you", laugh at themselves, or be straightforward with themselves.
+   - Can't [say "no"](people-conflicts-no.md), hear "yes" or "thank you", laugh at themselves, or be straightforward with themselves.
 6. Sexual or emotional unfaithfulness.
 
 ### An unhealthy environment *can* become a healing one

@@ -173,9 +173,12 @@ Many times, this expresses through the victim doing things for the abuser.
   - Proofreading their writing
 - This can also mean they'll apologize first, hide their flaws from others, and manage anything they don't want to deal with.
 - While this may *look* like [love](people-love.md) from an outside perspective, it's almost entirely one-sided.
-  - Except in the case of [parenting](parenting-children.md), there should be some level of give-and-take as part of the [social contract of human interaction](people-contracts.md).
+  - Except in the case of [a parent toward their child](parenting-children.md), the [social contract of human interaction](people-contracts.md) means there should always be some level of give-and-take between both people.
   - Often, they'll either pretend to do equivalent tasks to their victim or assist at the last minute of the task to appear helpful.
   - They will also often behave as if they are maintaining their lifestyle to outsiders (e.g., appearing to budget the money when company arrives).
+- Frequently, the victim will learn to feel [shame](mind-feelings-shame.md) over the fact that they even have needs their abuser should address.
+  - The abuser will reinforce this behavior by only giving loving behavior when the victim diminishes their needs.
+    - At the far end, the victim will even think they're [fully satisfied](mind-feelings-happiness.md) while they are suppressing how utterly miserable and neglected they are.
 
 While the victim feels used and abused (even if they're not aware), this is the high point for the abuser, and they will often try to maintain this state or reproduce it in others.
 
@@ -200,6 +203,18 @@ While it happened subtly before, the abuser ramps up the [conditioned response](
   - Sexual coercion
   - Public humiliation
 - The abuser's desired result is for the victim to admit that resistance isn't worth the effort.
+
+To keep the victim aligned with the abuser's goals, the abuser simultaneously performs three different attacks at once:
+
+- These attacks alone would be traumatic, but all three together create an impossible scenario:
+  1. Breaching autonomy: the victim is unable to make independent decisions, and must have the abuser's consent (sometimes with negotiation) to make those decisions.
+  2. Degrading identity: the victim comes to expect any opinions, interests, and preferences that differ from their abuser will be dismissed or mocked
+  3. Violating self-worth: the victim comes to believe they were fortunate to be tolerated at all by their abuser, and that they have no implicit worth.
+- While a person's willpower may be able to withstand all three attacks, they are almost guaranteed to develop a [neurodivergence](mind-neurodivergence.md) from the trauma.
+
+The reason this can persist is because the abuser will also maintain a *very* well-established public image that everything is going well.
+
+- Most of the abuser's efforts will be in either maintaining others' view of their personal life, or in making the victim's behaviors represent mental unwellness.
 
 At some specific point in time, the victim has now started to recognize the abuser's tactics.
 
@@ -265,6 +280,8 @@ Assuming the victim doesn't respond with the rebellion in Stage 5, the victim wi
 
 When the abuser sees they're losing [influence](power-influence.md) that can't be regained, they'll move to Stage 8.
 
+- This will almost certainly happen *before* the victim becomes fully aware of the abuse they've normalized.
+
 ## 8. Destruction and erasure (aka "discard")
 
 The abuser is trying to form a bond where they are the hurt child and the victim is a type of parent.
@@ -314,6 +331,8 @@ If the abuser is intelligent or experienced, they can exploit behaviors in their
 
 At this point, the victim's best decision is to [learn to heal](hardship-abuse-narcissist.md)
 
+- Since the discard will be so sudden, the victim will almost certainly have to heal afterward.
+
 ## Recap
 
 To put in very unsophisticated terms:
@@ -324,7 +343,7 @@ To put in very unsophisticated terms:
 4. They make themselves God to you.
 5. They punish you for resisting.
 6. You give up.
-7. They keep at it until you wake up.
+7. They keep at it until you start realizing what they're doing.
 8. They destroy everything they can about you and then ghost you.
 
 In all of this, the following are at risk of the abuser stealing or destroying:

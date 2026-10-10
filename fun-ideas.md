@@ -83,6 +83,7 @@ Celebrate April Fool's Day with pranks:
   - Put a veggie tray on an office break room table inside a cake or doughnut box.
   - Replace a phone handle with a banana.
   - Put scotch tape on the bottom of a computer mouse.
+  - Take a photo of your face against a glass and print it, then tape it inside a large jar and place it in the fridge.
 - Tease your friends and family:
   - Paint a bar of soap with clear nail polish to keep it from lathering.
   - Cut out a spider and put it underneath a lampshade to create a silhouette.

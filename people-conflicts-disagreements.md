@@ -291,7 +291,7 @@ Watch for [dysregulation](mind-awareness-dysregulation.md) in yourself:
   - They are often behaving on the precedent of their childhood backgrounds.
 - If you see someone else in a dysregulated state, maintain *extremely* consistent boundaries to prevent their misbehavior from harming you.
 
-Never say "no" more than once: state [healthy boundaries](people-respect.md) the first time, then enforce them if someone tests it again.
+Never [say "no"](people-conflicts-no.md) more than once: state [healthy boundaries](people-respect.md) the first time, then enforce them if someone tests it again.
 
 If you feel [your rights](people-boundaries-why.md) are being violated, take personal responsibility that *you* put yourself in that situation:
 

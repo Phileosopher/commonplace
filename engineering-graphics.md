@@ -101,6 +101,10 @@ To keep video files together, they're played synchronously in a container, often
 
 The pixellation of the [camera](engineering-camera.md) represents the upper threshold of a recording, though post-processing software can fill in pixels to give a smoother image.
 
+Uncompressed, the bandwidth can be calculated simply by multiplying the number of pixels by the color range (e.g., 32-bit), then multiplying *that* by the refresh rate.
+
+- Uncompressed HD video at 60 fps needs 4.5 Gbps, while 4K at 60 fps requires 8.91 Gbps.
+
 Some containers, such as WMV, can include built-in [DRM](legal-ip.md).
 
 ## Color

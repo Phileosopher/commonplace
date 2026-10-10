@@ -7,6 +7,22 @@ Dysregulation is a state where some of our body isn't responding to signals from
 - We usually can't detect dysregulation directly, but can often see small behaviors in ourselves or others' reactions to us that allude to it.
 - The only way to clear out dysregulation is to change and remove negative thoughts that have become [habits](habits.md).
 
+If you are *not* dysregulated when it's not the right time or place, you are an unusually mentally healthy person.
+
+- Most people are in some capacity dysregulated, which is the source of most [unhealthy interpersonal conflicts](people-conflicts-bad.md).
+
+To be entirely dysregulation-free, you will have full executive function:
+
+- You'll be entirely ability to [say "no"](people-conflicts-no.md) to both yourself and others.
+- Your [feelings](mind-feelings.md) will be entirely within your control.
+- You'll be cognitively flexible, meaning you'll be able to quickly and easily [switch tasks](success-4_routine.md) and [solve problems](mind-creativity-how.md).
+- Your [working memory](mind-memory.md) will work optimally.
+- You'll have near-complete [self-awareness](mind-awareness.md).
+- You're able to find [motivation](purpose.md) and start tasks.
+- You'll be able to plan and [make long-term goals](success-3_goals.md).
+- You'll have natural skills at [organizing](organization.md) and using [logic](logic.md).
+- You will be able to combine any of the above skills into combinations to accomplish whatever you want.
+
 There are multiple signs of dysregulation:
 
 - Feeling spaced-out, at a loss for words, or unaware where you are.
@@ -16,6 +32,7 @@ There are multiple signs of dysregulation:
 - Emotions are "too much" or out of line with what other people seem to feel.
 - In a rage or severe sense of urgency to express what bothers you.
 - Can't feel part of your body such as your hands, mouth, face, nose, or feet.
+- Digestive issues or compromised immune system.
 
 Dysregulation *does* have its time and place:
 

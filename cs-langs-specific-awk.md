@@ -9,3 +9,13 @@ Awk treats each line of text as a record and splits it into fields, with whitesp
 Like [bash](cs-cli-specific-bash.md), options and arguments are separated by spaces.
 
 "print" outputs, but "printf" makes a clean tabular output.
+
+## Syntax
+
+```awk
+BEGIN{actions} #will run time before reading the input data
+
+/pattern or condition/ {actions} #will run for each line of input
+
+END{actions} #will run after processing the input
+```

@@ -1,7 +1,7 @@
 
 # How a computer boots itself up
 
-NOTE: To get hands-on with the BIOS, pressing manufacturer-contextual Esc/F2/F10 repeatedly while the computer is starting will typically bring you to the interface for the BIOS of most computers. Sometimes it's a different key, but there's always something to get you there.
+NOTE: To get hands-on with the BIOS, pressing manufacturer-contextual Esc/F2/F10 repeatedly while the computer is starting will typically bring you to the interface for the BIOS of most computers. Sometimes it's a different key, but there's always a key or command to get there.
 
 Computers have evolved over the years to the point that an [operating system](cs-os.md) is a standard feature. But, before the operating system even starts, there are a few elements that must activate first:
 

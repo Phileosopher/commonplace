@@ -266,38 +266,12 @@ Your system should be subordinate to getting things actually *done*:
 - The system must simplify how you actually *do* things, and shouldn't be any more complex than you need.
 - This is a [creative process](mind-creativity.md), so the entire system *will* move around as your mind adapts to productivity.
 
-## Boldly say "no"
-
-You have a right to firmly and graciously say "no".
-
-In fact, saying "no" is the only way to create time in your schedule.
-
-Saying "no" is always harder than it sounds:
-
-- The word "no" is a boundary you or someone else could dislike.
-- People with low [emotional intelligence](people-3_respect.md) are usually offended by the word "no".
+Boldly [say "no"](people-conflicts-no.md) to anything that gets in the way of what you value.
 
 Declining tasks is easy if you know your priorities:
 
 - Saying "no" to something is saying "yes" to something else.
 - Rebuild your goals for new purposes, but never do anything outside them.
-
-The alternatives to saying "no" are worse:
-
-- Evading people creates false expectations.
-- Saying "yes" ensures you never have enough time.
-- Compromising is often a variation of saying "yes".
-
-You have many polite ways to say "no":
-
-- I have too much on my plate right now./I can't fit anything else into my schedule.
-- I don't know when I can do it, but I know someone who can help you right now.
-- I can help you tomorrow, but here are some resources that can help you today.
-- Please ask me in a week/month/year.
-- I would, but only if you're okay with me dropping (task) to do it.
-- Can we talk about this later?/Can you please ask me later?
-- I wish I could help, but I'm trying to cut back.
-- I want to help, but I would like to focus on your task without distractions.
 
 Say "yes" to what you want by saying "no" more:
 

@@ -32,6 +32,12 @@ Conventional journalism tries to condense the facts as much as possible:
   - Describe the course of events that led up to the current event.
   - Most of the time, yellow journalists will express events as if they were in a vacuum (e.g., a "lone gunman").
 
+If you're trying to draw attention and details than how the story forms, use the journalists' Inverted Pyramid:
+
+1. Start with the most newsworthy information: Who? What? When? Where? Why? How?
+2. Give important reinforcing details
+3. Provide other general and background information
+
 Due to [marketing](marketing.md) reasons, the temptation to [distort the image of the truth](people-image-distortion.md) is far too great to ignore.
 
 - It all starts with the headline and "lede" (introductory line of the story), but the opening of the story creates the flow and mood of the entire article.

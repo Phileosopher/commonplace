@@ -116,6 +116,8 @@ Attenuation - signal fade, usually by distance or waves going through dense mate
 
 Attitude adjustment - satellite thrusts that maintain a desired orbit trajectory
 
+AUP - acceptable use policy, the terms someone accepts to use a computer service
+
 Authentication - a computer labeling a user/computer as safe, meaning it'll take at least some instructions from it, uses different authentication factors
 
 Authentication factors - types of authentication: something you know, something you have, and something you are

@@ -159,6 +159,17 @@ A persuasive story which changes minds on its own will express the same regardle
 
 APPLICATION: Since every influencer is advancing a [story](stories-why.md), it's critical to understand the character roles being expressed in that person's story. With expert skill influencing across other [domains](power-types.md) the influencer doesn't have, a few well-placed words can often swap roles out.
 
+## Persuading to action
+
+Provoking people to act is a separate class of influence that goes beyond their thoughts into [creating actual results](results.md).
+
+- The method for doing so, therefore, is far more advanced than simply changing ideas, and relies heavily on [how purpose is formed](purpose.md).
+
+Instead of telling them "go do this", tell them to "be the doer of this".
+
+- In general, telling people what to "do" provokes them to view the speaker as a type of [parent](parenting-children.md).
+- By contrast, telling them to "be" something implies they can be [part of a group](groups-small.md)
+
 ## Influencing vs. following
 
 The ability to guide [thoughts](logic.md) and [feelings](mind-feelings.md) gives *much* more [power](power.md) than merely guiding [actions](results.md), which is why people who pursue [leadership roles](groups-small.md) give plenty of [value](purpose.md) to influence.

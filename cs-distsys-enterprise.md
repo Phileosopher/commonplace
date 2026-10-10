@@ -126,9 +126,15 @@ To accommodate this reality, enterprise-grade projects use 3 servers:
 
 Ideally, they *should* be using the same "environment", since different environments across them can make software development troublesome, especially between the test and live servers. This can mean each seemingly simple element within a smaller software can become autonomous APIs in entirely different network closets or datacenters.
 
-## Approval
+## Contracts
 
-To accommodate all the changes, and the need to make sure everything runs correctly, everyone agrees to a "service-level agreement" (SLA) that conforms to a "service-level objective" (SLO).
+The [contracts](people-contracts.md) for a service provider go both ways.
+
+To accommodate all the changes, and the need to make sure everything runs correctly, the service provider agrees to a "service level agreement" (SLA) that conforms to a "service level objective" (SLO).
+
+- Often, the SLA includes the Rule of Nine, which gives a percentage of X% uptime, with X being the number of nines to add to the service (e.g., Four Nine's is 99.99% uptime).
+
+At the same time, the client consents to an "acceptable use policy" (AUP) that indicates what they can and can't do with the system.
 
 ## Failing/Complexities
 
@@ -156,6 +162,7 @@ Categorically, the variants of providing computer services are often framed as "
 - Infrastructure (IaaS): base resources like virtual servers, storage, and networking
   - The customer manages the OS, middleware, and applications
   - e.g., Amazon EC2, Google Compute Engine, Microsoft Azure
+  - Hardware (HaaS): the customer is informed about what, exactly, they're running things on
 - Platform (PaaS): gives a framework and pre-configured platform
   - This is specifically tailored for software developer customers deploying an app
   - e.g., Google App Engine, Heroku, Microsoft Azure App Services
@@ -172,6 +179,7 @@ Further, there are many specialized services based on specific needs:
 - Backup and Recovery (BaaS): storing a backup for crtical information
 - Disaster Recovery (DRaaS): hosting critical external IT in case of a major outage
 - Backend or Mobile Backend (BaaS): pre-made [cloud](cs-distsys-cloud.md) components like database management, [user authentication], and push notifications
+  - Database (DBaaS): preconfigured databases
 - Container (CaaS): gives a container for the customer
   - e.g., Google Kubernetes Engine, Amazon ECS
 - Desktop (DaaS): gives a [virtual environment](cs-distsys-vm.md) for a full-desktop remote experience

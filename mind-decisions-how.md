@@ -9,7 +9,21 @@ We also are required to make *many* decisions throughout each day, and most of t
 
 Therefore, this is a set of techniques on how to deduce which decisions are important.
 
-## 1. Check for dysregulation
+## 1. Rule out that deciding is wasting time
+
+Use the Hard Choice Model:
+
+1. Ask how significant the decision's outcome will be (Impact).
+2. Ask how easy it is to compare other options (Comparison difficulty).
+3. Those two questions will create four possibilities:
+   - Low impact, easy to compare: No Brainer, so decide quickly.
+   - Low impact, hard to compare: Apples vs. Oranges, focus on what's important and use your current priorities
+   - High impact, easy to compare: Big choice, so take time to gather information and build confidence.
+   - High impact, hard to compare: Hard choice, so take your time and run experiments to mitigate risk.
+
+In short, if the decision important, do *not* neglect it or make an impulsive decision on it.
+
+## 2. Check for dysregulation
 
 Examine the emotional triggers you may be encountering for any [dysregulation](mind-awareness-dysregulation.md) you're unaware of.
 
@@ -30,13 +44,13 @@ When you're not that upset, ask if you're in a crisis.
 - If it's a crisis, you're probably under-reacting and may need to intentionally resist your impulses.
 - If it's not a crisis, [meditate](mind-awareness-meditation.md) to ground yourself and see if any other issues arise.
 
-## 2. Get your philosophy in order
+## 3. Get your philosophy in order
 
 By having a general idea of how you would respond in the event of most [thought experiments](philosophy-paradoxes.md), you'll be more prepared for difficult decisions later.
 
 While real life doesn't give experiences *near* the complexity of thought experiemnts, understanding them gives a framework for how you would want to proceed.
 
-## 3. If the decision has any urgency, ask if you're being pressured to make the decision
+## 4. If the decision has any urgency, ask if you're being pressured to make the decision
 
 Many people will try to force a decision on you (e.g., [narcissists](mind-neurodivergence-clusterb-narcissist.md)).
 
@@ -51,7 +65,7 @@ Stay mindful that *not* doing something is also a decision.
 - Most [stressful](mind-feelings-happiness-stress.md) situations arise through how we feel forced to act.
 - Many popular [stories](stories-why.md) reinforce this, since writing and performing dramatic experiences is far more difficult when the main character can simply spend time to think about what they'll do next.
 
-## 4a. If it's urgent, make the single most important, small decision possible
+## 5a. If it's urgent, make the single most important, small decision possible
 
 The best approach in a pressured decision is to postpone the decision.
 
@@ -76,7 +90,7 @@ However, if you *must* act, only handle the emergency-based portion of the decis
   3. How will I feel about this decision in 10 months?
   4. How will I feel about this decision in 10 years?
 
-## 4b. If it's not urgent, prepare yourself to gather research
+## 5b. If it's not urgent, prepare yourself to gather research
 
 The purpose of your research is to be fully [certain](mind-understanding-certainty.md) over what you will decide.
 
@@ -86,13 +100,13 @@ This decision-making process [can sometimes become complex](mind-decisions-calcu
 
 Since the [uncertainty](unknown.md) is its own form of stress, start to research as soon as possible.
 
-## 5. List every possible decision you actually have
+## 6. List every possible decision you actually have
 
 This will be an exercise in [creativity](mind-creativity-how.md), so go wild with all the decisions.
 
 - Again, you're trying to build [certainty](mind-understanding-certainty.md), so consider the most [ridiculous](humor.md), [dangerous](safety.md), or impractical options.
 
-## 6. Eliminate all immoral options
+## 7. Eliminate all immoral options
 
 Cross off everything on your list that you know is immoral.
 
@@ -110,7 +124,7 @@ However, do *not* presume that your conscience is precisely accurate.
   - e.g., it is immoral to lie, except for lying to save someone's life.
 - If you're not sure if it's immoral, keep it on the list, but with a clarification.
 
-## 7. Examine future consequences
+## 8. Examine future consequences
 
 Second-order thinking:
 
@@ -136,7 +150,7 @@ If the situation is particularly complex, draw connection circles for each syste
 5. Keep drawing arrows until you've captured everything that happens in that system
 6. Look for feedback loops (arrows that travel in a circle).
 
-## 8. Ask others
+## 9. Ask others
 
 There is tremendous wisdom in seeking advice.
 
@@ -171,7 +185,7 @@ Along with other people, there is wisdom in consulting God.
 - If you're certain about these spiritual beings, you're making an unwise decision by *not* [consulting them](mind-decisions-christian.md)!
 - The risks from the [unknown](unknown.md) do involve the possibility of them *deceiving* us, but [that's another discussion altogether](spiritual-warfare.md).
 
-## 9. Check the internet
+## 10. Check the internet
 
 The internet usually has articles for nearly every possible circumstance.
 
@@ -181,7 +195,7 @@ The benefit of the internet is that, barring an [illegal](legal-crimes.md) decis
 
 - Only consider the advice without any context to where it came from, though.
 
-## 10. Make a clear decision
+## 11. Make a clear decision
 
 Once you've done your research and asked around, you really can't do anything else except decide.
 
@@ -189,7 +203,7 @@ If there is still no risk to postponing, make a semi-commitment and wait.
 
 - Often, time can reveal things that you can't research any other way.
 
-## 11. Find peace with the decision
+## 12. Find peace with the decision
 
 It's impossible to make a truly [risk](safety.md)-free decision, and you can only do what you're capable of doing.
 

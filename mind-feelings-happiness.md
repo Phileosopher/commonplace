@@ -1,7 +1,7 @@
 
 # Happiness and why it matters
 
-Joy, or "happiness", is simply the absence of [desire](purpose.md):
+Joy, or "happiness", is simply the absence of [desire](purpose.md), or "rest":
 
 - We're not as concerned about "happiness" as much as "avoiding pain".
 - Most of the time, we want to change something to avoid being [in pain](hardship.md) or [bored](mind-creativity.md).
@@ -20,6 +20,8 @@ We often attribute good things to joy, but [mentally well people](mind-feelings-
 We tend to experience joy more over things that [appear](people-image-why.md) to be new or [meaningful](meaning.md).
 
 The pursuit of happiness has a risk, though: if we live only in a state of joy too far, the pursuit of the feeling (or [the substance that gives it](addiction-substances.md)) becomes [addiction](addiction.md).
+
+- Many people will persist in "positive thinking", even when it's more appropriate to [grieve](mind-feelings-sadness.md) or [be angry](mind-feelings-anger.md).
 
 Happiness comes through our recognition of [value](values-quality.md), and there are three "happy lives" that can typically fulfill our desires:
 
@@ -65,6 +67,12 @@ Pleasant things by themselves don't connect to inner happiness:
   - [Success](success-1_why.md) may provoke happiness, but it never guarantees it.
 - Any other enjoyable experience or series of experiences (concert, movie, game, song, or anything else) fades.
 - Further, anything that *does* give satisfaction will provide a [diminishing return](money-economics.md) the more you do it.
+
+There are different forms of inner peace, which are all dependent on how we see the world:
+
+- Time away from the [duties](success-4_routine.md) we're obligated to do, usually by feeling free to *not* do something productive.
+- Connection with [art](art.md) and [nature](reality.md).
+- [Solitude or stillness](mind-awareness-meditation.md) that gives us peace.
 
 Each person is solely responsible for their happiness, and nobody else can change it:
 

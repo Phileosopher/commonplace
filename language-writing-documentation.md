@@ -14,6 +14,10 @@ Technical documentation can be extremely difficult from how advanced the writing
 1. How bad things will get if the thing stops working.
 2. The scarcity of alternative approaches that don't use that particular piece of technology.
 
+To avoid the in-the-weeds over *how* something works, most organizations implement standard operating procedures (SOPs) that indicate *what* to do.
+
+- The reasoning is that someone who performs an SOP long enough will form a [habit](habits.md) that ensures the same activity (and presumably the same results) will happen.
+
 Whenever the [design of the interface/hardware](engineering-design.md) doesn't communicate the concept explicitly (which is *extremely* common), the user needs the software engineer to communicate exactly what the user can do and precisely how to do it.
 
 - For this reason, technical people need to understand [how to write well](language-writing.md) or get assistance from others who are skilled at it.
@@ -24,13 +28,21 @@ The absence of good technical writing sabotages the entire community around the 
 - Non-technical people in positions of [leadership](mgmt-1_why.md) and [decision-making](mind-decisions.md) will have trouble knowing exactly what to do in many situations, which means they won't be as willing to support advantageous decisions for that project, such as extra funding.
 - Non-technical people outside the project won't be as quick to adopt the product, especially when it's an [open-source](legal-ip-floss.md) or [not-for-profit](mgmt-npo.md) project.
 
+If your content is highly technical, demarcate and sequence your concepts as lists:
+
+1. Most information can be distilled into lists, and it orders the information more articulately.
+2. By using lists, you can communicate *lots* of information without overwhelming the reader.
+3. The secret to lists is that they permit the reader to skip them quickly if they already understand the concept.
+
 ## Timing
 
 The more complex the documentation is, the more quickly it will be out-of-date. To that end, there should *always* be a date indicating the last revision of the document.
 
 At the very lowest, review all active documentation at least once a year. Besides checking for errors or updates, also search for ways to consolidate and merge documents, remove obsolete instructions, and relocate documents as needed.
 
-## Forms
+## Documentation types
+
+### Forms
 
 One subdivision of technical documentation is forms that users or clients fill in.
 
@@ -44,7 +56,7 @@ While forms are convenient for gaining information, every single new entry on a 
 
 To alleviate the risks of badly designed forms, it's important to review and clean up every form at *least* once every 5-10 years.
 
-## Guides
+### Guides
 
 Generally, there should be several levels of guides:
 
@@ -53,7 +65,7 @@ Generally, there should be several levels of guides:
 3. The technician guide, which indicates how to [fix](https://adequate.life/fix/) the product or [take remedial action](people-customerservice.md). It should either have diagrams for complex elements or indicate where to find them.
 4. The user guide, which should have simple instructions and simple pictures. It should be understandable by a moderately intelligent and literate 10-year-old.
 
-## Procedures
+### Procedures
 
 There are only a few good reasons to create procedures:
 

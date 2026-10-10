@@ -1,23 +1,20 @@
 
 # How managers maintain morale
 
-Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](people-changes.md) can make-or-break an organization's morale.
+The one thing that must maintain culture, more than anything else, is establishing and maintaining [standards](people-rules.md).
+
+- Weak managers will cave in [crucial conflicts](people-conflicts-crucial.md), which will destroy everyone's motivation to keep going.
+
+Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](people-changes.md) will change the standards.
 
 - Depending on how you came into the role and what the members [imagine](mind-imagination.md) you'll do, your presence will both motivate *and* demotivate them.
 
 In practice, healthy member management is hands-off, a bit like [gardening](plants.md).
 
-- You can keep adjusting and tweaking small things, but anything dramatic will send at least some workers into a temporary state of shock.
+- You can keep adjusting and tweaking small things, but any dramatic [changes](mgmt-7_changes.md) will send at least some workers into a temporary state of shock.
 - Too many changes all at once will make them feel [uncomfortable](habits.md), and their [work](results.md) will suffer.
-- If you keep making changes after you've done too much, they'll leave.
-
-Informal [mentoring](education.md) is *far* more effective than formalized mentoring to create results.
-
-- *They* should be coming to *you* with questions, and if not:
-  - You're likely lecturing them about something they either already know or don't care about.
-  - They don't feel [safe](safety.md) talking with you.
-- If you have a tendency to give unsolicited input, encourage them to interrupt you if they don't want to hear it.
-- If people feel valued, they're more likely to share the organization's vision.
+  - This is because the standards their [habits](habits.md) have acclimated to are now forced to change as well.
+- If you keep making changes without making new standards they can [consent to](people-contracts.md), they'll leave.
 
 ## Conditioned response
 
@@ -70,6 +67,14 @@ Workers are highly motivated by competence.
 
 - Having genuine [understanding](mind-understanding.md) of a subject will earn their respect more than any management system or incentive structure.
 - Often, [knowing your own limits and capabilities](mind-awareness.md) compared to them will earn a tremendous amount of respect with them.
+
+Informal [mentoring](education-how.md) is *far* more effective than formalized mentoring to create results.
+
+- *They* should be coming to *you* with questions, and if not:
+  - You're likely lecturing them about something they either already know or don't care about.
+  - They don't feel [safe](safety.md) talking with you.
+- If you have a tendency to give unsolicited input, encourage them to interrupt you if they don't want to hear it.
+- If people feel valued, they're more likely to share the organization's vision.
 
 It's impossible to fake it with anyone you'd *want* to manage.
 

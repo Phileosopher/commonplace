@@ -145,7 +145,7 @@ There is an endless supply of information on everything, but not of your time.
   - Never keep more than 4 weeks' worth of content available.
 - Your time [having fun](fun.md) and with your [family](people-family.md) is far more important than simply knowing more information.
 
-Learn to say "no" to more information.
+Learn to [say "no"](people-conflicts-no.md) to more information.
 
 - Every new piece of information provides less [meaning](meaning.md) than the last (i.e., diminishing return).
 - When we start feeling boredom or fatigue, we *must* stop adding more information to our present pile.

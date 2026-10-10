@@ -5,6 +5,8 @@ We need at least some of all five components to produce satisfaction in our live
 
 ## Positive Emotion - any small pleasure
 
+Press your tongue to the roof of your mouth (which activates the vagus nerve).
+
 Consume something fun:
 
 - Look at cute things, like small animals or babies.
@@ -55,6 +57,8 @@ Use stress relievers that release endorphins:
 - Forgive a lingering grudge.
 
 ## Engagement - focus on the present
+
+[Drive](autos-driving.md) the speed limit.
 
 Do something physical:
 

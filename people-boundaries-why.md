@@ -155,7 +155,7 @@ APPLICATION: Nothing is technically free, and receiving *anything* is technicall
 
 ## Privacy
 
-Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to say "no" to others' [understanding](mind-understanding.md).
+Privacy is a specific type of [safety](safety.md) with others. Most protections give others safety to [do things](results.md), but privacy is the specific safety of *not* having others access something, which may include [communicating](people-conversation.md) information. It's the ability to [say "no"](people-conflicts-no.md) to others' [understanding](mind-understanding.md).
 
 The information individuals may obstruct from others is a very specific list, though people may interpret *anything* as private depending on their [culture](people-culture.md):
 

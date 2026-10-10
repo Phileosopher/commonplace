@@ -67,6 +67,11 @@ What you test the software on matters tremendously. If you use a high-spec compu
 
 The only way to thoroughly be prepared for publishing software is with an "end-to-end test", where you run *everything* live, and at the scale you expect to see. This is often difficult to set up individually, but [enterprise-grade](cs-distsys-enterprise.md) development practically needs it.
 
+The attack surface is almost are several things that most developers do *not* think about:
+
+1. What happens when someone enters any of the 1,111,998 possible [Unicode characters](cs-keyboard.md) that are *not* on a keyboard?
+2. What will happen if someone mashes a *lot* of keys on the keyboard? Does this include key combinations (e.g., CTRL, ALT, CTRL+ALT)?
+
 ## Optimizing
 
 Computer programs are often extremely slow when they're first designed. This comes from the fact that the programmer is simply trying to [make something that works](programming-tech.md) more than making something efficient.

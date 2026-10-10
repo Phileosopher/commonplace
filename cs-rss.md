@@ -63,4 +63,6 @@ Most news outlets and independent podcasters have RSS feeds for their articles, 
 
 Evernote: <https://www.evernote.com/pub/{USERNAME}/{NOTEBOOK}/feed>
 
+GitHub commits: <https://github.com/{USERNAME/{REPOSITORY}/commits.atom>
+
 eBay searches: add "&_rss=1" to the end of a search URL

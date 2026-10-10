@@ -16,7 +16,21 @@ There are three broad classes of things we can understand:
    - Technical understanding requires conscious thought, and isn't that applicable to anything else, though it's far more [useful](purpose.md) than general understanding (e.g., technical specs). Thankfully, it can cross domains if we [convert it](philosophy.md) to general understanding.
    - Outside certain unique [personalities](people-personality.md), we gain technical understanding through firsthand experience, *then* build out our general understanding via [intuition](mind-feelings.md) or [desire](purpose.md).
 
-Further, we tend to climb a type of ladder of understanding that builds on itself cumulatively.
+As far as the basis for our *[certainty](mind-understanding-certainty.md)* in understanding, we end up possessing it through three major vectors:
+
+- Pathos: how we [feel](mind-feelings.md) and intuit something ("romantic" or "Dionysian")
+- Logos: understanding of the [logic](logic.md) itself ("classical" or "Apollonian")
+  - Far less common in general, but the deepest understanding.
+- Ethos: our trust of someone else's pathos or logos.
+  - This is the domain of [religion](religion.md), but also of all [influencers](power-influence.md)
+
+As a general rule, most people are [influenced](power-influence-how.md) more by pathos and ethos than by logos.
+
+## The ladder of understanding
+
+We tend to climb a type of ladder of understanding that builds on itself cumulatively.
+
+- To ascend this ladder, we must constantly be exploring things in between the thresholds of stuff we can do without help, and the things we need complete help to understand.
 
 A. Awareness
 
@@ -32,12 +46,14 @@ C. Feeling
 
 - We have an [emotional](mind-feelings.md) connection to that thing and grasp it beyond merely a concept to the point that we can feel its [practical use](purpose.md).
 - Skills are conscious adequacy: we understand it enough to feel broadly sufficient at it (i.e., past the "frustration paradox").
+- Carl Jung called this the "Eve" stage of wisdom.
 
 D. Familiarity
 
 - We understand the necessary [values](values.md) of that thing well enough that we can [separate it](logic.md) into its components and understand which ones matter most for [various purposes](purpose.md).
 - Skills are interchangeable adequacy: we've broken it apart and can work on our weakest points.
 - This is the foundation for the "steel man" approach, which involves being able to fully explain to our opponent in a [conflict](people-conflicts.md) exactly what they think and why.
+- Carl Jung called this the "Helen" stage of wisdom.
 
 APPLICATION: There are far too many [unknown](unknown.md) things with elements we can't know to reliably reach the end of understanding anything. For that reason, knowledge is only worth gaining if we can direct ourselves to a tangible [purpose](purpose.md).
 
@@ -52,6 +68,7 @@ F. Integration
 - Skills are unconscious competence: our muscle memory does it well [without our conscious thought](habits.md), and we often even [identify](people-identity.md) with it.
 - Once we've integrated understanding, we judge other ideas and methods from this basis of understanding.
 - If we can stay in this domain, we continue mastery on the subject.
+- Carl Jung called this the "Mary" stage of wisdom.
 
 APPLICATION: What you think isn't as unique as how *far* you think. To fully understand the capacity for just about anything, take it to its farthest and most ridiculous [logical conclusion](logic.md). Most people are [afraid](mind-feelings-fear.md) of what they may discover.
 
@@ -61,6 +78,7 @@ G. Simplification
 - Literally *all* the understanding is a reflexive skill, connected both as a mental and muscular experience.
 - Unfortunately, at this level we won't be able as much to [explain](people-conversation.md) or [teach](education.md) it, and it becomes *much* easier for our skills to fade.
 - At its farthest, we often attribute a complete understanding at this level to [deities](religion.md) and heavily [identify](people-identity.md) with our performance with it.
+- Carl Jung called this the "Sophia" stage of wisdom, though his focus was more on how people interact with the rest of the world.
 
 APPLICATION: To fully understand something, we should be able to use [language](mind-awareness.md) that defines something, then be able to define its opposite.
 

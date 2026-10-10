@@ -9,6 +9,8 @@ The autonomic response to sadness is through crying, which is a physical represe
 
 - Crying is how we use our eyes to explain what our [language](language.md) can't capture.
 - This is actually healing, since it opens up the possibility for another model to replace it.
+- The tears from emotional crying also also release natural hormones that help regulate stress and reduce pain.
+- Crying is also a social signal for others to connect with you.
 
 ## Chronic sadness
 

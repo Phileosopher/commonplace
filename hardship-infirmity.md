@@ -11,9 +11,32 @@ Don't compare yourself to everyone else:
 
 - It's easy to envy others' convenient and carefree lives.
 - At the same time, those people have likely not learned the discipline you've mastered, and will have a harder time [succeeding](success-5_persevering.md) at *many* non-health-related activities as you.
+- Further, there are people who have a *much* worse and more painful situation than you do.
+
+While it's not entirely precise, the McGill Pain Index can give you some context for how badly your pain holds in comparison to many other afflictions:
+
+- 11: tension headache
+- 14: sprain
+- 15: laceration
+- 17: cut
+- 18: fracture, arthritis
+- 19: toothache
+- 22: bruise, nerve pain after shingles
+- 25: phantom limb pain
+- 26: non-terminal cancer
+- 28: chronic back pain
+- 29: chronic migraine
+- 30: fibromyalgia, enometriosis (up to 45), adenomyosis (up to 45)
+- 32: prepared child birth, ankylosing spondylitis
+- 36: unprepared child birth
+- 39: amputation of a digit
+- 42: kidney stones
+- 44: trigeminal neuralgia
+- 46: complex regional pain syndrome
 
 Chronic pain is severely difficult, and can become magnified if you think about the future:
 
+- One of the most intense magnifications of physical pain comes through how loudly it informs us of our [death](hardship-death.md).
 - We can only take one day at a time, so [focus on "now"](mind-awareness.md).
 - Try to find comfort when the pain subsides, since it proves that long-term pain isn't guaranteed.
 - Don't expect anyone else to understand, but be [grateful](mind-feelings-happiness-gratitude.md) that they care enough to try.

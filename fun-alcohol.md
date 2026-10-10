@@ -44,7 +44,7 @@ Store alcohol in an airtight container:
 
 If you still want to be with your friends but don't want to drink, declare yourself the designated driver:
 
-- Being the designated driver can still be fun, especially because you know how to say "no" to something that'll hurt you long-term.
+- Being the designated driver can still be fun, especially because you know how to [say "no"](people-conflicts-no.md) to something that'll hurt you long-term.
 - If you tell a bartender you're the designated driver, they'll often give you food or soda for free.
 
 Avoid overpaying for alcohol:

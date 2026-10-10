@@ -283,10 +283,15 @@ The number one indicator of [divorce](hardship-family-divorce.md) is when both p
 - In other words, they're speaking to self-protect, but *not* to build or maintain any sort of relationship with their partner.
 - And, more specifically, the most clear indicator is a smirk of contempt by one of the spouses.
 
-Sometimes, a wife will be [planning for divorce](hardship-family-divorce.md) *years* before the husband even thinks it's a possibility.
+Often, a wife will be [planning for divorce](hardship-family-divorce.md) *years* before the husband even thinks it's a possibility.
 
 - Women will frequently provoke a husband to [anger](mind-feelings-anger.md), then use any violence by that husband as justification for her divorce.
   - This can often pair with marriage or pastoral counseling, as well as [understanding precise legal language](legal-safety.md) to get an edge in a divorce court.
 - Most men with plotting wives over-trust their spouses and have a hard time accepting their wife is plotting to leave him until it's too late (often after the divorce).
   - Frequently, she will use an escalation (and may even time one) to gain the most leverage (e.g., waiting longer for alimony, having an excuse to take the children away).
   - To that end, men must be extra alert about the behaviors from their wives.
+
+If both partners have any legitimate [relationship with God](https://theologos.site/devotion-chaos/), they have no excuse for divorce.
+
+- Many Christians only seek divorce for selfish reasons, since they want the easy way out.
+- The ability to [love](people-love.md), [forgive](hardship-forgiveness.md), and [coexist](people-boundaries.md) are all possible when someone has an active relationship with Jesus Christ.

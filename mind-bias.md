@@ -208,6 +208,8 @@ Leveling and sharpening - we omit information from stories (leveling) and add de
 
 Magical thinking/Tinker Bell effect - we make and believe stories that explain coincidences
 
+Meat paradox - we enjoy eating meat, but only when we interpret the animal's pain as lesser or justified
+
 Modality effect - we remember things based on how they're presented
 
 Pragmatic fallacy - we assume something is true because we observe practical effects on people that may be tied to that thing

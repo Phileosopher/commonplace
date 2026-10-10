@@ -44,10 +44,18 @@ Parents often play siblings against each other.
 - The parent will speak about the child more often than *to* the child (i.e., using a third person or "triangulation").
 - The parent will withhold [love](people-love.md) from one child while publicly showering the other one with it.
 
-If you've been hurt by a parent, don't wait for them to change:
+If you've been hurt by a parent, don't wait for them to change.
 
 - They obviously created the environment you were in, with all its specific patterns, and they didn't change *that* time.
 - They may not have loved you, but it's more likely that they gave at least a decent effort while failing at [their responsibilities](parenting-children.md).
+
+You can still honor your parent's role without ever honoring the person.
+
+- Many people misuse Exodus 20:12 in the Bible to justify continued [narcissistic abuse](hardship-abuse-narcissist.md).
+  - This means giving credit to the role as a structured [value](values.md) for the origination of our basis.
+- That parent may not serve the role of father or mother, but to discredit them fully is to absolutely destroy the entire *institution* of fatherhood or motherhood.
+  - All submission to any authority without our full knowledge is effectively reproducing what we do with our fathers, and [is guaranteed one way or another](mind-understanding.md).
+  - All human connection is grounded on what we are supposed to have with our mothers, which is necessary for [any human love whatsoever](people-love.md).
 
 If your emotional scarring is severe, spend time completely away from them:
 
@@ -60,6 +68,14 @@ Whatever issues you don't work through *will* express in your [romantic relation
   - [Bad parenting](parenting-children-bad.md) is guaranteed to create limited or nonexistent impulse control.
 - Most people don't tend to learn impulse control later in life, so they will often propagate or magnify their parents' role modeling during [hardship](hardship.md).
   - However, [choosing to change key habits](habits.md) can reverse the family cycle.
+
+Stay mindful of the "safe" parent.
+
+- Often, a parent will continue to permit an abusive parent's behavior and keep their children around that environment.
+  - When their child asks what's going on, the parent says they're "protecting" the child and that child is safe with them.
+  - However, the child will be confused because they'll wonder why the "safe" parent is also permitting the child around the abusive parent's actions.
+- In practice, the enabling parent wants something else from the abusive parent, and they're simply trying to justify it to their child.
+  - This will frequently leave children *very* confused for many years, and the children will often normalize [abuse](hardship-abuse.md) in the process.
 
 ## How to deal with an unwanted pregnancy
 
@@ -95,7 +111,7 @@ If you don't believe you'll give the baby a good home, look into giving the chil
 
 If you've *had* an abortion, don't [destroy your self-value](hardship-worthlessness.md) about it:
 
-- Very likely, someone [lied to you](people-lying.md) about what an abortion really is.
+- Very likely, someone [lied to you](people-lying.md) about what an abortion really is (i.e., institutionalized murder).
 - In a sense, you were the instrument of someone else's agenda.
 - If you had known that "fetus" was a baby, with what you know now, would you have had an abortion all over again?
   - If so, you're likely [the victim of your own toxic self-deception](hardship-worthlessness.md).

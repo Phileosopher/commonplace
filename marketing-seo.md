@@ -239,5 +239,5 @@ Do *not* ask people privately to share content on social media because it forces
 
 - If they liked it already, they would probably share it.
 - If they *don't* share, they'll appear disorganized.
-- They can say no and seem rude.
+- They can [say "no"](people-conflicts-no.md) and seem rude.
 - Instead, tell them about it and how it may interest them, then let them look at it at their leisure.

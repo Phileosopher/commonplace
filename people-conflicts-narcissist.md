@@ -17,7 +17,7 @@ However, after the first encounter, you can usually learn to observe [indicators
 
 ## The context that draws attention to you
 
-You will likely incur their attention and subsequent conflict by doing any of the following:
+You will likely incur their attention and subsequent conflict by doing anything that draws attention from them:
 
 - Expressing [hardship](hardship.md) that doesn't involve them or outpaces the hardship they're using to garner pity.
 - You're [succeeding](success-1_why.md) or beginning to succeed more than they are.
@@ -40,6 +40,14 @@ Many times, they'll disrespect and violate boundaries, but then use language to 
   - You can say "I have the right to react to disrespect."
 
 ## How to mitigate the damage
+
+In general, they don't respond to criticism, and will directly attack you.
+
+- However, they *do* respond well to admiration.
+- Therefore, they are *very* easy to manipulate:
+  1. Give them plenty of compliments about how amazing they are.
+  2. When they fail at the stated compliments, express confusion about their misbehavior.
+  3. Very quickly, they will stop whatever they're doing to "fix" the image they think you have of them.
 
 By the time you've noticed any damage, they've likely already partially destroyed your [reputation](people-image.md).
 

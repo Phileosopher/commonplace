@@ -172,6 +172,17 @@ Don't neglect the title:
 - The title of your work is the first exposure to what you're building, so use it to draw attention from the people you expect to read it.
 - In some ways, the title is telling them there's more information without providing any details.
 
+To [persuade](power-influence-how.md), write practical "what if...?" questions:
+
+1. **What Is**, which is either the present reality or a fictional analogy of it.
+2. **What Should Be**, with its difference contrasted to **What Is** as far as possible.
+3. Repeat **What Is** and **What Should Be**, building tension by swinging between both progressively faster.
+   - This should build emphasis through a predictable theme.
+4. One more **What Is**, then a **New Bliss**.
+   - **New Bliss** is the most accurate message of the story, or **What Should Be**.
+   - A **New Bliss** with enough emotional energy will often change a reader's life.
+   - The best **New Bliss** pulls from the audience's previous memories and inspirational knowledge.
+
 ## Writing is an art
 
 Like any [art](art.md), writing has rules, exceptions to rules, specific cases for everything, and requires constant criticism.

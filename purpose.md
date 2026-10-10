@@ -59,7 +59,22 @@ We tend to pursue our physical needs, then move to psychological ones. Often bef
 - Competence - the ability to be [important](people-identity.md) about something
 - Relatedness - a chance to [connect with others](people-friends.md) and be part of something larger than ourselves, usually through [love](people-love.md) or [influence](power-influence.md)
 
-Our stubbornness is how much we maintain a purpose and refuse to relinquish it for another purpose, and is sometimes called "grit". It can often be magnified by our ability to detect others' desires that contradict ours.
+There are three major sources for someone to do anything, and most motivations are a hybrid of all three:
+
+1. Personal motivations: intrinsic desires that don't rely on the environment to give feedback
+2. Social motivations: extrinsic desires that rely on others' approval
+3. Structural motivations: extrinsic desires that rely on environmental feedback
+
+Further, we have to also [believe](mind-trust.md) that we actually *can* do those things, which compiles into how we frame our efforts:
+
+1. Personal: we must believe we can surpass our limits, and will find a way to desire otherwise undesirable things.
+2. Social: we must believe we can find strength in other people helping us, and will try to [influence others](power-influence-how.md) to our viewpoint.
+3. Structural: we must believe we can change our environment, and will try to design rewards and demand [accountability](meaning.md) to that end.
+
+Our personal motivations reflect upon stubbornness.
+
+- Stubbornness, which is sometimes called "grit", is how much we maintain a purpose and refuse to relinquish it for another purpose.
+- It can often be magnified by our ability to detect others' desires that contradict ours.
 
 Needs are often easy to detect and find motivation to pursue, and wants are extrapolations off those needs. Wants are generally far more difficult to fulfill because they have higher requirements than needs and may not be as closely connected to the [results](results.md) someone may wish to attain.
 

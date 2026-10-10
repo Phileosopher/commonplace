@@ -267,7 +267,7 @@ Rebuild each connection into an image:
 Our minds use [stories](stories-why.md) to understand the world, so make everything into silly, elaborate stories:
 
 - To remember lists of things, convert it into a silly story.
-- We remember the story to the degree we [feel](mind-feelings.md) it.
+- We remember the story to the degree we [feel](mind-feelings.md) it (method of loci, or "memory palace").
 - Use as much variety in your story as possible to spread the experience across many sensory perceptions:
   - Bizarreness
   - Personal connection to events in the story
@@ -279,3 +279,14 @@ Our minds use [stories](stories-why.md) to understand the world, so make everyth
 - For memorizing car, hair, sweetener, milk, Yale University, and dinosaur:
   - I was driving in my car, but then my hair set on fire. I pulled to the side of the road but ran over a small packet of sweetener right before I crashed into a gigantic truck of milk right outside Yale University. The driver was a dinosaur who drank the milk as he screamed at me.
 - This method seems ridiculous, but has been scientifically proven as the easiest way to remember random facts.
+  - It is also how ancient [speakers](education-how.md) could deliver speeches that lasted for hours without using notes.
+
+## Don't worry too much
+
+Every time you feel you must remember something, it takes up space in your mind.
+
+- This can interfere with the ability to do new things, since you feel obligated to hold onto that memory.
+
+Learn to [meditate](mind-awareness-meditation.md) and release what you can't control.
+
+- You can't hold onto all the information, so give it up.

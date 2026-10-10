@@ -104,7 +104,7 @@ At some point, you'll reach a workload critical mass.
   - You won't have enough time to [improve your efficiency](success-4_routine.md).
   - You won't have enough time to [train someone else](mgmt-3_teams.md).
 - It's a precariously dangerous place to be, since *any* increase in work (e.g., extra project needs, more work required than expected, contract renegotiation) can push you into a cascade of failing to fulfill obligations sequentially one after the other.
-- Before that point, you will need to hire a new employee or draw boundaries and say "no" to some things.
+- Before that point, you will need to hire a new employee or draw boundaries and [say "no"](people-conflicts-no.md) to some things.
   - However, saying "no" to your customers is a quick way to lose them.
 
 Employees are, by far, *the* most expensive increase to costs in a startup.
@@ -172,3 +172,11 @@ As you scale upward, you'll assume increasing levels of [managerial responsibili
 
 - The [scrappy personality](entrepreneur-1_what.md) that got you here may or may not work in a manager capacity.
 - Closely observe the shifts, and [leave](entrepreneur-7_exit.md) as soon as you feel uncomfortable with the new role.
+
+## Scaling a tech entrepreneurship
+
+You may have [an amazing business idea](entrepreneur-2_idea.md), and may have even been working it as a [side hustle](entrepreneur-4_freelancing.md), but how do you prove that this thing will make enough money that someone would want to invest?
+
+To start with, you need to prove that you're legitimate. Very often, [scams prey on new trends like blockchain](https://www.howeycoins.com/index.html). This is where your [social skills](people-why.md) become important.
+
+But, more importantly, you must demonstrate that you'll make the "venture capitalists" money or, in a "not-for-profit" (NPO), legitimately change something for the better. You might get lucky and become a "unicorn" (with a company value surpassing $1 billion), but it's more likely that you'll have a long, hard road ahead.

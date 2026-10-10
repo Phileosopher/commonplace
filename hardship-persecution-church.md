@@ -328,4 +328,8 @@ Further, there most certainly is a double standard people hold against Christian
 - Communist dictators have historically claimed homosexuality is a perversion, vice, or disease, but Christians' opinions are often treated with more severity.
 - Christian opinions on abolition and pro-life positions tend to receive far more negative media attention than violent protesters and criminals.
 
+It is worth maintaining a [tradition](habits.md) for the persecuted.
+
+- November 1st of every year is International Day of Prayer for Persecuted Christians
+
 As a Christian, even if you suffer losses from standing against [evil](morality-evil.md), He *will* repay all losses you experience in His name [when He returns](theology-end.md) (Matthew 19:29).

@@ -61,6 +61,10 @@ A. White Tie is the finest clothing possible:
   - Always have a pocket square with a different color than the tie.
 - Women should wear long, elegant evening gowns with a matching set of gloves.
 - Even among [the elite](people-classes.md), a $650 outfit ($350 suit, $100 watch, $150 other accessories) is all anyone would ever conceivably need.
+- Tying a tie doesn't have to be hard:
+  1. Lay the tie along your forearm, palm upwards with the extra portion hanging off.
+  2. Drape the tie around your forearm downward to make three separate rings around your forearm and tie.
+  3. Pull the first ring, then pull the second ring in through the first ring, then pull your hand out and straighten out.
 
 B. Black Tie is most common for weddings, funerals, and other important occasions:
 

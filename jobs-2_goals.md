@@ -115,7 +115,7 @@ You'll never be fully prepared for a job search, so plan ahead and push forward:
 
 - Job-seeking always comes with risks, but a career change is almost always a good decision.
 - Accept the inevitable changes that come, including things you couldn't have expected.
-- You're always safe if you know how to safely say "no".
+- You're always safe if you know how to safely [say "no"](people-conflicts-no.md).
 
 Remove any distractions from your search:
 

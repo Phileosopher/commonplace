@@ -3,6 +3,11 @@
 
 Bash is the interpreter, so the terminal emulator is just for the GUI experience, since they all process the same.
 
+If for some reason you want a different shell, use "chsh" and specify the new shell's path.
+
+- Complex text process is much better with something like awk, perl, or ruby.
+- For XML or HTML, something like XPath/XSLT will work better.
+
 ## Oddities and quirks
 
 Case-sensitivity, like everything else in [Unix-likes](cs-os-unix.md), is a big deal, as opposed to [Windows](cs-os-windows.md) conventions where case doesn't matter. While this allows for more organization (e.g., a variable can be all-caps for visual demarcation) it also opens up the risk of more developer error.
@@ -10,82 +15,6 @@ Case-sensitivity, like everything else in [Unix-likes](cs-os-unix.md), is a big 
 Quotes in bash are interpreted different. Using '' makes *everything* into a non-expanded string, but "" makes strings with shell expansion on some elements.
 
 - To protect a string with "", add \ before the character (somewhat similar to [regular expressions](cs-langs-specific-regex.md)).
-
-## Built-in commands
-
-/bin
-
-- bash
-- cat
-- chmod
-- cp
-- date
-- echo
-- grep
-- gunzip
-- gzip
-- hostname
-- kill
-- less
-- ln
-- mkdir
-- more
-- mount
-- mv
-- nano
-- open
-- ping
-- ps
-- pwd
-- rm
-- sh
-- su
-- tar
-- touch
-- umount
-- uname
-
-/etc
-
-- crontab
-- cups
-- fonts
-- fstab
-- host.conf
-- hostname
-- hosts
-- hosts.allow
-- hosts.deny
-- init
-- init.d
-- issue
-- machine-id
-- mtab
-- mtools.conf
-- nanorc
-- networks
-- passwd
-- profile
-- protocols
-- resolv.conf
-- rpc
-- securetty
-- services
-- shells
-- timezone
-
-/sbin
-
-- fdisk
-- fsck
-- getty
-- halt
-- ifconfig
-- init
-- mkfs
-- mkswap
-- reboot
-- route
 
 ## Input/output
 
@@ -211,8 +140,9 @@ Disregard specific future commands:
 
 ## Search
 
-Searching inside a bash terminal can uses [regular expressions](cs-langs-specific-regex.md) with grep.
+Searching inside a bash terminal can uses [regular expressions](cs-langs-specific-regex.md) with grep (which stands for "global regular expression print").
 
+- grep was originally in the ed text editor, but was so useful that it was made into a separate bash utility.
 - It's a good idea to almost *always* use the -E handle to enable advanced regular expressions characters.
 
 ### sed
@@ -228,3 +158,13 @@ sed '/^\[/d' config.ini
 ### awk
 
 On an even *more* advanced level, [Awk](cs-langs-specific-awk.md) has more idiosyncrasies.
+
+## More info
+
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+
+[Special Characters](https://tldp.org/LDP/abs/html/special-chars.html)
+
+[BashPitfalls](https://mywiki.wooledge.org/BashPitfalls) and [BashWeaknesses](https://mywiki.wooledge.org/BashWeaknesses)
+
+[BashFAQ](https://mywiki.wooledge.org/BashFAQ)

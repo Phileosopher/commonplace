@@ -63,6 +63,14 @@ It's worth noting that the data on a technologically advanced vehicle is stored 
 - The manufacturers don't tend to care, and the user tends to be unprepared for this circumstance.
 - Thus, it's wisest to either not use the built-in vehicle services or to delete the information before selling or scrapping the vehicle.
 
+Contrary to most intuition, autonomous trucking on highways in the middle of nowhere is *not* as difficult a challenge as autonomous taxis in big cities.
+
+- While [geolocation](logistics-navigation-gps.md) is the same, there's more real-time data from big cities (all the other connected vehicles, Wi-Fi network radar) than a single vehicle's sensors alone.
+- Trucks have a *much* longer window of time for them to come to a stop (~100-300 meters).
+- The controls for towing a trailer have more complexities than simply driving a small passenger vehicle.
+- Since freeways are boring, there are fewer "interesting" things happening, meaning less data to [train models](cs-ai-ml.md).
+- Altogether, trucks on highways will actually be the *last* adaptation of driverless technology, and we'll first see entirely driverless cars on highways and trucks in cities first.
+
 ## EVs
 
 Electric vehicles (EVs) are unrelated to autonomous vehicles, but they're often discussed at the same time because they're [new technology](people-trends.md).
@@ -84,6 +92,12 @@ Another AV issue comes through [insurance](money-insurance.md) issues. The AV's 
 Finally, the existence of AV making decisions creates [situational ethics](morality.md) issues that had once been pure chance. An AV can swerve to prioritize saving the driver, saving the passengers, saving the most vulnerable people (e.g., motorcyclists or pedestrians), or causing the least property damage, so [which should it prioritize](philosophy-paradoxes.md)?
 
 Even without *any* autonomy, the CAN bus is supposed to be "air-gapped", but all the extra features for the sake of convenience (e.g., headlights accessible via a phone app) have made automotives some of the most [insecure](cs-infosec.md) hardware on the planet.
+
+There are also far-reaching political repercussions of autonomous vehicles:
+
+- The labor costs for drivers will go away. People won't need to own vehicles, since the market will adapt and people will simply rent them as they need them.
+- The vehicles will have to be endlessly online, so the risks for [hacking](cs-infosec-pentest.md) will be perpetual. Auto manufacturers have shown so far that they don't care much about their IT or network hardening.
+- Reduced employment and less ownership means less government taxation, meaning a diminished revenue stream from the government.
 
 ## More information
 

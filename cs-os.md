@@ -7,7 +7,7 @@ Thus, a computer should be ready to handle *anything* that the person wants to d
 
 Altogether, the actual implementation of an OS is a keyboard (stdin or Channel 0) which sends processes to then present on a [screen](engineering-screen.md) (stdout or Channel 1).
 
-- In one sense, it's the philosophical finish line for all [software development](cs-software.md).
+- In one sense, it's the philosophical finish line for all [software development](cs-software.md), with other implementations (like [games](fun-games-cs.md)) simply mapping other inputs instead with the keyboard as a fallback.
 - This always uses a [CPU](cs-cpu.md) with its [memory](cs-memory.md) cache, and most of time will output final work to hard drive memory. Errors can pass to a different output (stderr or Channel 2).
 - Since it's an implementation, stdin and stdout can be redirected.
 
@@ -20,6 +20,12 @@ Because of their ubiquity, the most popular operating systems more-or-less set t
 
 ## Kernel design
 
+There are several major approaches to designing an operating system.
+
+- The firmware approach (e.g., Apple, Android) gives the entire OS as a a single image for a specific device. Any adaptations to that device are essentially ports to other similar devices.
+  - The downside of the firmware approach is that it very quickly becomes a proprietary lockdown by the hardware vendors, meaning that most development in that domain starts with [reverse-engineering](cs-infosec-pentest.md) to get what's necessary.
+- The modular approach (e.g, Windows, Linux) gives the base components and a bunch of good-enough drivers to get everything working. From there, further drivers can be installed as appropriate to the system.
+
 At the bottom of the OS is the kernel, which contains the drivers for the [hardware](cs-hardware.md).
 
 There are two major approaches to OS design that represent a spectrum:
@@ -27,7 +33,7 @@ There are two major approaches to OS design that represent a spectrum:
 - A "microkernel" only manages what it has to: [CPU](cs-cpu.md), [memory](cs-memory.md), and IPC ("inter-process communication"). They are extremely portable and take up very little memory. Only specific processes run as "superuser". However, the hardware needs more "device drivers" to run peripherals, the processes will have to wait in line to get information, and the processes won't be able to access other processes.
 - A "monolithic kernel" is also managing the CPU, memory, and IPC, but also includes managing the drivers, files, and "system calls". Everything runs in supervisor mode, and the OS takes more memory. However, it's faster, and the programs can easily handle hardware.
 
-[Windows](cs-os-windows.md) and Mac are hybrid kernels that mix both of the architecture designs, while [Linux](cs-os-unix.md) is strictly monolithic.
+[Windows](cs-os-windows.md) and [Mac](cs-os-apple.md) are hybrid kernels that mix both of the architecture designs, while [Linux](cs-os-unix.md) is strictly monolithic.
 
 In a broad sense, there are 6 layers to most operating systems, though this isn't a hard rule, and many layers merge together:
 
@@ -37,6 +43,8 @@ In a broad sense, there are 6 layers to most operating systems, though this isn'
 4. Process management - prioritizes the various tasks based on multiple possible algorithms.
 5. I/O buffer - keeps close track of what the user is inputting *and* what's getting outputted.
 6. User programs - the myriad programs that run on top of everything else, typically according to the user's preference.
+
+Most of the continuously running programs are called daemons, which are inactive until they're invoked.
 
 However, even with a shaved-down system where the layers are merged together will always have an outermost layer for user programs and an innermost layer for the hardware. Each of the layers will be able to access the things *below* it, but not above.
 
@@ -66,6 +74,10 @@ The other option is to store program memory in a heap with all the other program
 Whenever a program is running, it creates at least one task in the operating system (a "process"). Some processes only start when the user interacts with it, but many processes (such as the clock) run *constantly* on a rhythm in the background.
 
 Each process starts *from* a [file](cs-files.md), but many processes write *to* files or call *other* processes. Processes can "pipeline" data to another process and grab more input data. Since *all* the processes are pipelining, the entire computer can look a bit like a factory assembly line.
+
+In a microkernel arrangement like [Windows](cs-os-windows.md), programs contain the executable code, but monolithic kernels (like [Unix](cs-os-unix.md)) rely on other software to actually run the binaries and acquire dependencies.
+
+At one time, dependencies were a pain, since the user had to install the program, then find the dependencies and install those as well. Now, most package managers will install all the dependencies alongside the software you want to run.
 
 ### Utility software
 

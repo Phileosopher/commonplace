@@ -12,6 +12,10 @@ As a general set of rules:
 - Don't worry as much about [computer networks](cs-networks.md) that "soft" shutdown things as much as things that properly turn power off and on.
 - Every new network-connected device is another opportunity for a [hacker](cs-infosec-pentest.md).
 
+It's also worth having everything running off a server in a quiet, out-of-the-way location.
+
+- You need something that easily connects with everything, but is also your self-owned data.
+
 ## Power outlets
 
 Remote-controlled
@@ -88,3 +92,8 @@ Motorized shades/blinds
 Robot vacuum
 
 - Can be very convenient, but also runs the chance of [giving a map of the floor plan of your home to Big Tech](cs-bigtech.md)
+
+Media client
+
+- Runs streaming media to your TV from your home server
+- While many people use media servers for this function, it's not ideal because the server will be bogged down with other actions and will also create noise.

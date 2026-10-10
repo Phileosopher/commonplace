@@ -29,7 +29,9 @@ The culture of Unix and Linux holds together with a philosophical framework driv
 
 OS frameworks that originated from Unix all have a similar-enough experience to make the user [feel at home](engineering-design.md) when swapping back-and-forth between them, including using many of the same [commands](cs-cli.md). To that end, the broad catchall term is "Unix-likes", though many people simply say "Linux".
 
-Even [Apple](cs-os-apple.md) uses a Unix framework, for both macOS and iOS, but its key difference is that it's a hybrid of a ["monolithic kernel" and "microkernel"](cs-os.md), while Linux is *strictly* a monolithic kernel.
+The most prevalent non-Linux Unix system right now is the family of BSD operating systems (e.g., FreeBSD, NetBSD, OpenBSD), but there are others like AIX, HP-UX, Iris, and Solaris.
+
+Even [Apple](cs-os-apple.md) uses a BSD Unix framework, for both macOS and iOS, but its key difference is that it's a hybrid of a ["monolithic kernel" and "microkernel"](cs-os.md), while Linux is *strictly* a monolithic kernel.
 
 ## Usage
 
@@ -39,16 +41,144 @@ However, unlike [Windows](cs-os-windows.md), Linux has *also* become more consis
 
 The largest failure within Linux is tied to its [UX](engineering-design.md). For the most part, its [GUI](engineering-graphics.md) commands convert to [console commands](cs-cli.md), meaning any sufficient experience with Linux often requires accessing a terminal. This creates [a learning curve beyond the aptitude of some people](computers.md).
 
-## Linux tips
+## Kernel design
 
-Here are a few tips to avoid making awful mistakes while using Linux:
+There is a hierarchy of processes based on parent processes that run further child processes.
 
-- If there's any stock software the OS came with (such as a [file manager](cs-files.md) or software-based [keyboard](cs-keyboard.md)), *do not uninstall it*. If you want something new, simply install the new one and use it.
-- Don't bother trying to run a common Windows-based software that has a Linux alternative (e.g., Microsoft Office). You *can* use the Windows-based interface (called "Wine"), but you'll usually have a better time with a Linux-based alternative if the software is even remotely popular.
-- Most of the Linux-based [UI](engineering-design.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
-- Websearch frequently what you don't know. Your lack of knowledge isn't new, and there's usually an answer somewhere about it.
+- The first process is PID 1, which is more often than not systemd, which triggers almost everything else.
 
-Most "original equipment manufacturers" (OEMs) that come with [Windows](cs-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot. Usually, you'll first need to find a way into the BIOS, then boot from a USB drive. If you're dual-booting, you may need to select your OS from the boot menu *every time*.
+### Filesystem
+
+/bin and /sbin store binaries and system binaries (bash, cat, chmod, ping, echo, etc.).
+
+- /sbin/init is the first process Linux officially runs, though it usually links to systemd.
+
+/boot stores the kernel itself as well as all the [boot-available](cs-boot.md) elements:
+
+- config
+- initrd: a RAM disk image that loads a temporary root filesystem into memory during startup
+- System-map or System.map: memory address locations for kernel symbol names
+- vmlinuz: the proper kernel in compressed format and usable with virtual memory
+
+/proc is a virtual filesystem in memory that reflects running processes, kernel config, and system hardware.
+
+- /proc/cpuinfo
+- /proc/meminfo
+- /proc/modules: lists modules loaded into the kernel
+- /proc/sys: kernel config settings, classified into subdirectories
+  - Most of them only contain 0 or 1 values, with a few exceptions
+
+/dev gives device files/nodes for all connected hardware devices.
+
+- Block devices have data read and written in blocks (e.g., [physical memory](cs-memory.md))
+- Character devices read and write data sequentially, one character at a time (e.g., [keyboard](cs-keyboard.md))
+- These can be distinguished in "ls -l" by b or c as the first letter
+- There are also some other special files for specific [programming](cs-software.md) purposes:
+  - /dev/zero outputs as many zeroes as needed
+  - /dev/null discards all information sent to it
+  - /dev/urandom generates pseudo-random numbers
+
+/sys came from kernel 2.6 onward as an improvement on /proc/sys.
+
+/var stores variable data that accumulates over time
+
+- /var/log holds most system logs
+  - These logs are rotated to avoid memory overuse
+- /var/cache has "cached" program data.
+- /var/lib has data that gets modified when programs are run.
+- /var/lock has "lock files" that track resources getting used.
+- /var/opt has variable data for installed "packages".
+- /var/spool has tasks waiting to get processed (/var/spool/cron, /var/spool/cups, /var/spool/mail).
+- /var/tmp has temporary files saved between reboots.
+
+/etc stores system config files (fonts, hosts, services, timezone, machine-id, etc.):
+
+- "x" represents shadow passwords.
+- /etc/passwd
+  - 7 colon-delimited fields with basic user information including [UID and GID](cs-infosec-permissions.md)
+  - (username):(password):(UID):(GID):(GECOS):(homedirectory):(shellpath)
+  - GECOS is a CSV list of user information, which stands for General Electric Comprehensive Operating System, and became a type of digital rolodex in the late 20th century.
+  - The shell path is the shell program automatically launched when the user first logs in (usually /bin/bash).
+- /etc/group
+  - 4 colon-delimited fields with basic information about groups and members.
+  - (groupname):x:(GID):(memberlist)
+- /etc/shadow
+  - 9 colon-delimited fields with [hashed](encryption.md) user passwords.
+  - It's stored as [encrypted](encryption.md)
+  - (username):(password):(datelastchanged):(minpasswordage):(maxpasswordage):(passwordwarningperiod):(passwordinactivityperiod):(accountexpirationdate):(reserved)
+- /etc/gshadow
+  - 4 colon-delimited fields.
+  - (groupname):x:(groupadmins):(groupmembers)
+  - The hashed group passwords are for temporary membership.
+- /etc/sudoers
+  - Who can use "sudo" and how, with /etc/sudoers.d supplementing info
+
+/tmp has files that aren't expected to persist between invocations of a program.
+
+- By contrast, /var/tmp should *not* clear between reboots.
+
+/run contains runtime variable data such as .pid files.
+
+- It used to be in /var/run, which sometimes symlinks to /run.
+
+/usr is read-only, with both data and binaries.
+
+- /usr/bin has most user commands.
+- /usr/include has code files for the C language.
+- /usr/lib has obj, bin, and lib files for coding and packages.
+- /usr/local has local software (context-depending).
+- /usr/share has unchanging data that everything uses.
+  - /usr/share/man has manual pages.
+
+/home is often organized separately (such as a separate drive partition or drive) and tends to have user data.
+
+There are also others:
+
+- /lib has libraries and kernel modules.
+- /mnt has mount files for temporary file systems.
+- /opt has optional software applications.
+- /root is the "root user" directory.
+
+## Permissions
+
+There are 9 characters that represent read/write/execute permissions:
+
+- drwxrwxrwt
+- The first character indicates normal file (-), directory (d), symlink (l), socket (s), or character device (c)
+- The next three triads are grouped for users, groups, and others respectively.
+  - Read permissions (r)
+  - Write permissions (w)
+  - Execute permissions (x)
+    - There is also a restricted deletion flag (sticky bit) to prevent deletion except by the owner (t)
+    - There is also an Set GID (SGID) bit that grants the process resulting from execution the privileges of the file's group (s)
+- This also can represent as octal values:
+  1. Read = 4
+  2. Write = 2
+  3. Execute = 1
+  4. The sum of the three represents the value:
+     - e.g., "chmod 760 example.txt" makes full r/w/x on the owner, r/w on the group, and nothing on others.
+
+## Configurations
+
+Routine maintenance jobs use the cron utility.
+
+- The syntax is straightforward:
+  - MIN HR DOM MON DOW CMD
+    - MIN: 0-59, minute to do the task
+    - HR: 0-23, hour to do the task
+    - DOM: 1-31, the day of the month
+    - MON: 1-12, the month
+    - DOW: 0-6, the weekday
+    - CMD: the command to execute
+    - Any of the fields with "*" mean to do it all the time regarding that element.
+    - Multiple values are comma-separated with no space (e.g., 4,7).
+    - Continuous values are dash-separated with no space (e.g., 09-18).
+- There are other features:
+  - @yearly/@monthly/@daily will do it at midnight of 1/1, the first of the month, or every day respectively.
+  - @reboot once the machine has booted
+  - MAIL="(user)" sends the output to a different user.
+- You can only schedule every minute max, and not every second.
+- Further, you can save your cron file, then run crontab on it instead of having to change it manually.
 
 ## More information
 

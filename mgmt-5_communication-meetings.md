@@ -129,6 +129,13 @@ Brainstorming meetings:
 6. If there are any risks, openly discuss them.
 7. Have everyone vote by ranking the options or writing a 1-10 scale for each idea.
 
+To foster good discussion, provoke more feedback than simply "what are your thoughts?":
+
+1. Summarize in one sentence the entire presentation.
+2. Indicate you need everyone to understand the impact of the presentation or decision.
+3. Select someone who asked questions or commented in the middle of the presentation.
+   - If nobody responded, ask a member who has very little [shame](mind-feelings-shame.md) about stating obvious things.
+
 For brainstorming meetings with *much* more back-and-forth dialogue, use the Stepladder Technique:
 
 1. Ask all the members to think of a suitable solution to the task or problem long enough beforehand for them to establish an opinion about it.

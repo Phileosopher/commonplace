@@ -96,4 +96,18 @@ Frequent anger can have a negative effect on our mental and physical health.
 
 - Even if we suppress it, the effects still express in our minds and bodies.
 
-If anger persists, it develops the secondary feeling of bitterness as [purposes](purpose.md) demonstrate they can't be performed. The only way to resolve bitterness is through [release](hardship-forgiveness.md) of whatever that person believes they can [control](purpose.md).
+If anger persists, it develops the secondary feeling of bitterness as [purposes](purpose.md) demonstrate they can't be performed.
+
+- The only way to resolve bitterness is through [release](hardship-forgiveness.md) of whatever that person believes they can [control](purpose.md).
+
+Avoiding chronic anger requires adopting mental habits that creates a healthier mental environment.
+
+1. Observe the triggers that create the anger, but without reacting to it.
+2. Validate the anger without taking action.
+3. Observe the quieter emotions that are behind the anger.
+4. Expand the language to describe the [feelings](mind-feelings-beliefs.md) behind the anger.
+5. Avoid adding [stories](stories.md) that expand the anger into something more severe.
+6. Focus on managing aggression, but letting anger run its course.
+7. Direct the anger to something constructive, such as [writing](language-writing.md) or physical labor.
+
+In that sense, "anger management" is a misrepresented idea, since it's more accurately "aggression management".

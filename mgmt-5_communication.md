@@ -70,6 +70,8 @@ Stay on top of *any* conflicts that would disrupt the harmony of the group.
 
 ## Communication approaches
 
+All the [rules of effective influence](power-influence.md) and [how to do it](power-influence-how.md) apply as a manager, often more than typical due to the impact of what you're saying.
+
 When possible, expand the communication channels.
 
 - Smaller channels (e.g., texting, email) increase the likelihood of miscommunication over larger channels (e.g., in-person).
@@ -148,6 +150,21 @@ If you're managing managers, meet with the leadership once a week to answer a fe
 - How the market or environment is responding to the organization's actions?
 - Are there any significant necessary changes?
 - Are there any other short-term obstacles or concerns?
+
+When speaking, focus on the correct things more than what has already happened:
+
+- Be human.
+  - Expressing empathy goes a long way, *especially* when they're always a little [afraid](mind-feelings-fear.md) of you when you have the legitimate authority to fire them.
+- When observing adverse behavior, state the consequence more than the behavior or expectation:
+  - Behavior: e.g., "you're late"
+  - Expectation: e.g., "at this company, we expect people to be on time"
+  - Consequence: e.g., "if this lateness doesn't change, this may not be the team for you"
+- Try to connect with them as people, then express the very real concern with its consequences:
+  - Empathy: e.g., "I want to check in on how you're doing"
+  - Behavior: e.g, "you've been late a few times the past week"
+  - Personal Path: e.g., "if something personal is interfering, I want to see how we can support you"
+  - Expectation: e.g., "if not, being on time is one of our expectations of this role"
+  - Consequences: e.g., "if the situation doesn't change, this might not be the team for you"
 
 When reviewing their performance, use the Rule of Five for each member:
 

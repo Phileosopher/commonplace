@@ -230,6 +230,8 @@ Levine's Boredom Markets Hypothesis - People make more exchanges if it's more fu
 
 Okun's Law - When unemployment goes up by 1%, everyone outputs goods and services less by 2%.
 
+Rocket and Feathers Effect / Assymetric Price Transmission - In markets where competition is obstructed by complexities, prices rise quickly when costs increase but fall slowly when costs decrease.
+
 Substitution Effect - By paying people to not work and taxing people who do work, people will be twice as likely to not work.
 
 Third-Party Payer Problem - When a third party is involved in a two-party transaction, the costs slowly increase as the direct connection between the first two parties decreases.
@@ -247,6 +249,8 @@ Avatar Paradox - When a product becomes so successful that everyone consumes it,
 Briffault's Law - Women's [choices](mind-decisions.md) in men determine what [families](people-family.md) are made.
 
 Broken Windows Effect - Visible signs of crime or destruction (like broken windows) lead to further and worse of them.
+
+Calhoun Effect / Behavioral Sink - Extreme population density causes people to behave abnormally, society to collapse, and ultimately a natural population decrease.
 
 Clarke's First Law - An old scientist is probably right about things that he says are possible, but probably wrong about those he says aren't.
 

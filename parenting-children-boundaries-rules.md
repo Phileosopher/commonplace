@@ -97,7 +97,7 @@ Never, *ever* argue:
 - The reason you're using a one-line statement is to say "I love you enough to set some limits" and "I love you too much to waste time arguing with you."
   - If done correctly, it completely sidesteps the argument because the parent isn't dropping into a [contention](people-conflicts.md).
 
-If you ever say "no", stay consistent and *never, ever relent*.
+If you ever [say "no"](people-conflicts-no.md), stick to your standards.
 
 - If you do relent, children will never take you seriously, since your word means nothing.
 - This is why it's important to only say "no" to things you can fully enforce, which often requires consulting others.
