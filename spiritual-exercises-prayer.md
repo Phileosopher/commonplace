@@ -37,6 +37,42 @@ While Catholics believe it more than Protestants, you certainly *can* pray to be
   - In the absence of information, each person should be fully convinced of what they wish to do (Romans 14:5).
 - Irrespective, your reasons for doing it should be out of a communal connection with other believers, but with the full knowledge that God is in control.
 
+## Pray sincerely
+
+We pray through our hearts, not through speaking.
+
+- Speaking, however, can help prayer [feel](mind-feelings.md) more real to us.
+- While the Bible doesn't *specifically* say to pray before food, gratitude should provoke the routine.
+
+We must also have good motives for our prayers.
+
+- God doesn't honor prayers for selfish desires (James 4:2-4).
+
+If you have the right attitude and want what He desires, God will *always* answer your prayers (Mark 11:24).
+
+- God loves heartfelt devotion, so He answers specific prayers for [good](morality.md) things much more frequently than vague ones.
+- God doesn't usually give what we don't ask for, so ask persistently and intentionally (Luke 18:1-8).
+
+The actual language we pray is often awful.
+
+- Frequently, we will speak with a strange attempt at humble poetry with the idea that stating a precise set of words will somehow increase our chances of God hearing us.
+- There have been silly depictions of how we would sound if we used our standardized prayer language with someone else, and it's downright absurd.
+
+Thankfully, Jesus gives Christians the best way to pray while maintaining a healthy perspective (Matthew 6:9-13):
+
+1. Use one of God's names and remember He's your heavenly father.
+2. Ask for His will to be done on earth in the same way He has it in heaven.
+3. Ask Him to provide today's physical needs.
+4. Request that He forgive any sins in the same way that you've [forgiven others' sins](hardship-forgiveness.md) against you.
+5. Ask for [protection and safety](safety.md) from [evil](morality-evil.md) and destruction.
+6. Thank him and acknowledge His complete [power and authority](power.md).
+
+However, the early Christian public prayers *were* strong benedictions for a reason.
+
+- They were and continue to be part of the [worship service](mgmt-church-worship.md).
+- Early church believers prioritized prayer above all else, including activism.
+- It only naturally reflects in human nature to add [artistry](art.md) to anything we interact with frequently, and speaking prayers is much the same.
+
 ## Things worth discussing with Him
 
 Upcoming opportunities and risks:
@@ -104,31 +140,6 @@ The government:
   - State
   - Federal
 - Believers in government to be strong and courageous.
-
-## Pray sincerely
-
-We pray through our hearts, not through speaking.
-
-- Speaking, however, can help prayer [feel](mind-feelings.md) more real to us.
-- While the Bible doesn't *specifically* say to pray before food, gratitude should provoke the routine.
-
-We must also have good motives for our prayers.
-
-- God doesn't honor prayers for selfish desires (James 4:2-4).
-
-If you have the right attitude and want what He desires, God will *always* answer your prayers (Mark 11:24).
-
-- God loves heartfelt devotion, so He answers specific prayers for [good](morality.md) things much more frequently than vague ones.
-- God doesn't usually give what we don't ask for, so ask persistently and intentionally (Luke 18:1-8).
-
-Jesus gives Christians the best way to pray while maintaining a healthy perspective (Matthew 6:9-13):
-
-1. Use one of God's names and remember He's your heavenly father.
-2. Ask for His will to be done on earth in the same way He has it in heaven.
-3. Ask Him to provide today's physical needs.
-4. Request that He forgive any sins in the same way that you've [forgiven others' sins](hardship-forgiveness.md) against you.
-5. Ask for [protection and safety](safety.md) from [evil](morality-evil.md) and destruction.
-6. Thank him and acknowledge His complete [power and authority](power.md).
 
 ## Routines worth considering
 

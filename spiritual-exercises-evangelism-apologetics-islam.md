@@ -21,6 +21,12 @@ There is a basic theological principle that Islam must abide by:
 3. Everyone must believe the Prophet to follow the truth.
 4. Anyone who doesn't will receive a truly awful condemnation.
 
+The timing of this corruption is difficult to pin down.
+
+- The assertion is that they removed Muhammad's name from the Bible to prevent Islam from developing.
+- The Dead Sea Scrolls show accurate copying of the Old Testament from ~250 BC, which means the corruption would have had to have started before then and applied to 570 AD, over 800 years later.
+- This would also mean alterations to many other stories as well to match Muslim theology, beyond simply revisionism of Muhammad.
+
 However, there are some discrepancies with Islam compared to *both* Judaism and Christianity.
 
 - Judaism's tenets, along with Christianity, promote peace, while Islam promotes some form of violence ("jihad").
@@ -33,3 +39,9 @@ There is also a clear philosophical contradiction present within Islam.
 2. The Qu'ran rejects that the Torah and Gospel were written and copied correctly (Surah 2:79).
 3. Essentially, it posits a very narrow window that asserts that the Torah and Gospel are true, but that nobody rightly wrote it down.
 4. The Qu'ran then asserts itself as the truth to fill that void, but anyone who wishes to can read the Bible for themselves.
+
+Often, the most powerful way to convert someone out of Islam is to have that person read the Qu'ran for themselves.
+
+- The allegation is that the original Arabic is the only "true" reading, but they can still get the gist from reading a language translation and ask their imam for clarification on points.
+- Most people would dissociate from Islam if they knew the truly violent, hateful, dehumanizing language and ideas presented inside it.
+  - Further, the endless assertions that Muhammad is the Prophet but without much reason leave reason for suspicion.

@@ -88,6 +88,11 @@ Set the pace by showing them your example (2 Timothy 3:10-11).
 
 Do *not* [micromanage](mgmt-1_why.md), since they will have a different generational [culture](people-culture.md) and their approach on some things *will* be different.
 
+1. First do it while they watch.
+2. Then do it while they help.
+3. Then help while they do it.
+4. Finally, watch while they do it.
+
 Avoid employing any [shame](mind-feelings-shame.md).
 
 - While we *should* feel ashamed of [sins we haven't repented over](theology-sins.md), living in Christ has zero condemnation (Romans 8:1-3).

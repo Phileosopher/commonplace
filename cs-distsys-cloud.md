@@ -5,9 +5,11 @@ You can use a computer locally on-premises("on-prem") or, with the power of the 
 
 If you use it remotely, your information is remotely accessible, or in the "cloud". It's simply someone else's computer.
 
+## Cloud services
+
 Cloud services can be public, private, or a hybrid. Public cloud shares the service across multiple users for a variety of reasons, while private is often for [security](cs-infosec.md) reasons to protect the information.
 
-As far as cloud services, [Big Tech](cs-bigtech.md) maintains control over that market.
+As far as cloud services, [Big Tech](cs-bigtech.md) maintains control over that market for now.
 
 Amazon
 
@@ -61,3 +63,16 @@ Further, cloud storage can be as-needed, where all the files are displayed for a
 ## Virtualization
 
 One of the most thorough and straightforward ways to remotely access apps and storage in a cloud environment is through a "virtual desktop environment" (VDI). To the user, it looks like a locally hosted [OS](cs-os.md), but is actually using a remote desktop [protocol](cs-standards.md) to access a [virtual machine](cs-distsys-vm.md).
+
+## Identity
+
+For [authentication](cs-infosec-authentication.md) reasons, users must give some type of credential. However, distributed systems create an extra headache because of multiple computer systems with multiple authentications.
+
+- Each computer would have an independent login which, if it ever needed to be changed, would need to be changed on multiple computers.
+- Instead, by deferring the authentication to an "identity provider", identities can be centrally managed and drawn from when needed by the individual computers.
+
+## Many updates at once
+
+Most large-scale computer system management comes from headaches associated with [updates](cs-software-maintenance.md).
+
+- Every time there's a necessary update, the standard possibility that a computer won't update, will update and something breaks, and the possibility it won't tell you is there, but magnified across many computers.

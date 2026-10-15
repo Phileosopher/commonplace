@@ -52,6 +52,7 @@ Some people imagine sharing the Gospel is telling as many people as possible.
 
 - Effective [Gospel *presentations*](spiritual-exercises-evangelism-presentations.md) share Christ's story and why it's important.
 - However, people are typically [influenced](power-influence.md) more to *convert* through directly observing a Christian's [decisions](mind-decisions.md) and [lifestyle](people-culture.md) than hearing a compelling [story](stories-why.md).
+- But, it starts with your [children](parenting-children.md) and [immediate family](theology-church-family.md).
 
 Many people groups have *never* heard of Jesus.
 

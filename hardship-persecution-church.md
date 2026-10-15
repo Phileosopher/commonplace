@@ -313,6 +313,16 @@ Persecution against Christianity has been "normal" for 2,000 years:
   2. God remains faithful and thwarts their plans, and often in *spectacularly* wise ways.
   3. The survivors of the tragedy, in their faithfulness, continue on in society across generations while the evil regime falls apart.
 
+In fact, many churches in persecuted countries (e.g., South Asia) maintain the following questionnaire for believers to receive baptism:
+
+- Are you willing to leave home and lose the blessing of your father?
+- Are you willing to lose your job?
+- Are you willing to go to the village and those who persecute you, forgive them, and share the love of Christ with them?
+- Are you willing to give an offering to the Lord?
+- Are you willing to be beaten rather than deny your faith?
+- ARe you willing to go to prison?
+- Are you willing to die for Jesus?
+
 Many of the most powerful leaders in the world have said "this is the end of Christianity":
 
 - Emperor Nero (54-68)

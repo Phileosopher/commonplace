@@ -343,4 +343,6 @@ Getting rid of the Satan is technically temporary, and he'll come back to harass
 
 We must [contend with him](spiritual-warfare-tricks.md) until [the day Jesus comes back](theology-end.md).
 
+- Contrary to many denominations' [fear](mind-feelings-fear.md)-mongering, absolutely any believer is qualified and capable to cast out the devil wherever they see him, and are simply [false believers](https://theologos.site/false/) if they express any confidence in Christ but can't do it.
+
 However, we will prevail if we are His children, and the Satan can't stop it (1 John 4:4, 5:4)

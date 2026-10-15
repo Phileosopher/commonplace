@@ -60,6 +60,12 @@ The Bible has been more attacked throughout history than any other book, but con
 
 [Hundreds of prophecies](bible-prophecies.md) were directly fulfilled by Jesus alone.
 
+Archaeology is only now finding things history forgot that were written in the Bible.
+
+- The Hyksos people in ancient Egypt were a mysterious West Semitic people who migrated into Egypt in 18th century BC, gained political control, ruled until they were expelled for about 2 centuries, and then the historical account has them disappear. This correlates with the Bible's account of the Hebrews.
+- Many locations such as Jericho were considered mythological until archaeological finds rediscovered them.
+- We have *hundreds* of eyewitness accounts of a clearly manmade wooden object on top of Mt. Ararat, giving credibility to the story of Noah.
+
 Many passages predicted Israel's status:
 
 - [Israel](history-israel.md) would lose its land by being conquered twice, have no official government, then return later in one day (Deuteronomy 29, Hosea 3:4-5, Hosea 6:1, Ezekiel 20:34, Isaiah 11:11-13, Isaiah 43:5-21, Isaiah 66:8, Jeremiah 25:11, Jeremiah 32:44, Luke 21:23-24).
@@ -80,13 +86,35 @@ Jesus' coming had [*hundreds* more prophecies fulfilled](bible-prophecies.md).
 
 ## Claimed contradictions usually overlook a few things
 
-Many supposed contradictions of chronology or event order are two different events (e.g., Jesus didn't give every speech only once).
+The Skeptic's Annotated Bible provides [a thorough list of contradictions](https://skepticsannotatedbible.com/first/contra2_list.html).
 
-Different accounts of the same experience (i.e., the Gospels) come from different eyewitness perspectives.
+- Most of the time, the argument will come with one semantic dispute over a specific word used the same time in a different passage. This usually is the *English* word, and they are often not synonymous with each other in the original languages.
+- The argument often also doesn't give context to each book of the Bible's time period and genre of writing. Something can frequently be literal in one context and symbolic in another.
 
+Often, there is *tremendous* [wisdom](mind-understanding.md) in finding how those two verses are *not* contradictions.
+
+There are many contradictions built around the Genesis myth.
+
+- Many of the allegations imply that the 7 "days" of creation *must* be literal, even if they could just as easily be weeks, months, years, decades, or centuries without any theological issue.
+- However, the counter-allegation is often to assert an [atheistic](spiritual-exercises-evangelism-apologetics-atheism.md) worldview that the world must exist for millions of years, then imply that the Bible contradicts it implicitly (despite the presence of [*many* Old Earth creationists](people-conflicts-christian-2_debatable.md)).
+
+Many supposed contradictions of chronology or event order are two different events.
+
+- Jesus didn't give every speech only once.
+- Jesus had two different genealogies because they followed the paternal and maternal bloodlines
+
+There are also different accounts of the same experience (i.e., the Gospels) that come from different eyewitness perspectives.
+
+- A few examples include one versus two demon-possessed men coming from whether the eyewitness saw them, Jesus' garment being red or purple coming from color-blindness, and Peter's denials of following Jesus.
 - Since colluded lies provide the same details, they *can't* have been conspiring.
 
 Archaeological evidence consistently and frequently proves the Bible's authenticity.
 
 - The Bible expresses cultural traditions and practices, even obscure or forgotten ones, that archaeology is still proving as we uncover them now.
 - The Bible captured some elements that the rest of the world forgot as early as 50 years later.
+
+## More information
+
+[Answering Bible Difficulties](https://defendinginerrancy.com/bible-difficulties/)
+
+[List of Apparent Bible Contradictions](https://www.thywordistrue.com/contradictions)

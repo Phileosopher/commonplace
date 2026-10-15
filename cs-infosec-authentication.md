@@ -112,3 +112,5 @@ One common implementation uses an authentication, authorization, and accounting 
 3. The supplicant transmits a valid credential, which the client then forwards to the RADIUS server.
 4. The RADIUS server validates the creedential and issues an Access-Accept.
 5. The client opens the supplicant's network channel for regular traffic.
+
+[Cloud systems](cs-distsys-cloud.md) further complicate things.

@@ -260,6 +260,7 @@ More walking with God will create a feedback loop of more desire to exercise tha
 The whole purpose of spiritual gifts is to benefit the [Body of Christ](church.md) as a whole (1 Corinthians 12:12-20, Ephesians 4:16).
 
 - Assuming people use them correctly, every church has *more* than enough gifts to do what God wants (1 Corinthians 1:4-7, Ephesians 4:7-13).
+- God has a way of using His gifts, even when the collective church community is truly depraved (i.e., most of 1 Corinthians).
 
 Boldly use your gifts with authority.
 

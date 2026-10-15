@@ -32,6 +32,7 @@ To find all the parameters/options, consult the [documentation](language-writing
 View system information:
 
 - □: hostnamectl
+- ⊞: winver
 
 Clear the screen:
 
@@ -217,6 +218,10 @@ Set links:
   - The option "-s" makes a symlink.
 
 ## User accounts
+
+View current user ID:
+
+- whoami
 
 View current user ID and groups:
 

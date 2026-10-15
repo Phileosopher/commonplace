@@ -35,7 +35,7 @@ To that end, this is an attempt to indicate all the ways you *could* do church.
 - You can, however, apply any Bible verses about living well on an individual level to make new rituals and sacraments, which will likely spin into [a different denomination](history-church.md) over time.
 - A church should develop its own creativity in discovering new ways to live more like Christ (Hebrews 10:24-25).
 
-Therefore, while most of the essays here use Bible citations, this page doesn't call for an exhaustive listing.
+Therefore, while most of the items here use Bible citations, this page doesn't call for an exhaustive listing.
 
 - If a believer has read through the Bible at least once, they should be able to see what the pattern is and why it would make sense.
 
@@ -66,9 +66,9 @@ Churches often have [ritual](habits.md) ceremonies, also called sacraments.
 
 I: Calling each other by familial titles (e.g., brother, sister).
 
-C: Deprecated in most uses, but leaders are still referred to as "Father".
+- P: Typically not used in most denominations except [Pentecostal](history-church.md), except with smaller groups of believers among each other.
 
-P: Typically not used in most denominations except [Pentecostal](history-church.md), except with smaller groups of believers among each other.
+C: Deprecated in most uses, but leaders are still referred to as "Father".
 
 ### Baptism
 
@@ -98,7 +98,7 @@ P: While there's no ritual for Protestants, they honor someone's private prayer 
 
 The elements include a type of bread representing Christ's bodily sacrifice and grape juice or wine to represent covering our sins with His blood.
 
-- Irrespective of its meaning, communion is Jesus' command (John 6:53-58).
+- Irrespective of its meaning, the Eucharist is Jesus' command (John 6:53-58).
 
 Elements
 
@@ -116,6 +116,7 @@ Routine
 - Eucharistic/Communion Prayer
   - C: a highly ordered set of multiple prayers and sayings that converts the bread and wine into Jesus' physical body and blood (transubstantiation).
     - The timing of *when* this happens differs between Catholic and Eastern Orthodox.
+    - This tradition borrows from pagan practices common surrounding Catholicism at the time.
   - P: a prayer and meditative song.
 - C: The Lord's Prayer
   - Reciting the Lord's Prayer (Matthew 6:9-13).
@@ -127,7 +128,7 @@ Routine
   - I: the people go to the bread and break it off themselves
 - Communion
   - C: an acknowledgment that nobody is worthy to receive the gift, then the leader takes it, followed by the people
-  - P: a recitation of the Bible verse saying to consume the elements (Matthew 26:26-28)
+  - P: a recitation of the Bible verse directing to consume the elements (Matthew 26:26-28)
 - C: Prayer after Communion
   - A request that the benefits of the communion will remain active in daily life later.
 
@@ -188,6 +189,21 @@ Spending time in close fellowship with other believers over a meal.
 - The love feast was historically the original place for Eucharist/communion.
 
 P: Only practiced occasionally, if at all, but often expresses through mid-week Bible studies.
+
+### Holy days and carnivals
+
+[Easter](holidays-easter.md)
+
+- P: Easter alone
+- C: Easter and its surrounding days (Fat Tuesday, Lent, Ash Wednesday, Good Friday, etc.)
+
+[Christmas](holidays-christmas.md)
+
+- P/C: various Christmas traditions
+
+Other holy days
+
+- C: more than the calendar can hold
 
 ## Weekly rituals
 

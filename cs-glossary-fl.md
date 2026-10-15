@@ -241,7 +241,9 @@ IDF - intermediate distribution frame, a large-scale network hub, often located 
 
 Idempotent - a resource that, if used multiple times, will create the same consequence as if it were used once (e.g., submitting data 3 times creates the same result as submitting it once)
 
-Identity - in computer science, where the data type isn't swapped out before testing whether two data elements are the same, represented by ≡
+Identity - in computer science, where the data type isn't swapped out before testing whether two data elements are the same, represented by ≡, can also refer to a literal identity that accesses user accounts in IT
+
+Identity provider - a centralized provider of an identity
 
 Idiom - an algorithmic structure that syntax builds into
 

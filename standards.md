@@ -8,6 +8,8 @@ As [specialized](jobs-specialization.md) grow larger, the people in the industry
 
 Eventually, everyone agrees to assign at least some specialists who do nothing *but* set standards.
 
+This works very well for society, since it allows other groups to work seamlessly with something, but *also* holds the original creating group accountable because anyone else can potentially reverse engineer the design for their own uses.
+
 ## The standard setters
 
 There are [a *lot* of standard-setting organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations). Some of them are non-profit and others are for-profit, and their pricing/membership model for individuals varies wildly from "totally free" to "free to have (but not reproduce) if you pay a few hundred dollars".

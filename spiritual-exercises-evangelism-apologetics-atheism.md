@@ -8,6 +8,8 @@ Atheists represent a unique type of [religion](religion.md) because they typical
   - For this reason, be very careful how much time you spend around them, since it can be detrimental to your mental health.
 - Discrediting the scientific community is a generally lost cause (e.g., Piltdown Man), since most of them aren't even aware they've been [indoctrinated by atheists](https://gainedin.site/scientism/).
 
+Thankfully, they do thoroughly document their theology online, so you have plenty of time to research it for yourself.
+
 ## Old vs. New Earth creationism
 
 The scientific community at large advocates [a specific cosmology](https://gainedin.site/myth-secular) derived from the extrapolations of *thousands* of scientific papers:

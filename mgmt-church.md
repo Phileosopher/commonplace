@@ -11,6 +11,13 @@ In the absence of God, a leader's role is both symbolic and practical.
 - The skills for a leader (e.g., [organization](organization.md), [conflict management](people-conflicts.md)) are therefore only part of the situation.
 - The other, equally significant portion is the [image](people-image.md) you're conveying.
 
+The actions of any "pastor" of [God's Church](church.md) (i.e., shepherd) represent several distinct roles that shouldn't be confused:
+
+1. Give moral [education](education.md) that guides believers into a firmer, self-sufficient foundation in their faith, which often includes [public speaking](education-how.md) and coalesces together as [discipleship](spiritual-discipleship.md).
+2. Perform various [management duties](mgmt-1_why.md) to maintain everything God provides.
+
+Most pastors and ministry leaders recognize their moral duty and discipleship roles, but often aren't aware their management activities are the examples to the rest of the world for morally running any organization.
+
 ## God sets high standards for leaders
 
 The qualifications of elders are *more* severe than general [spiritual mentors](spiritual-discipleship.md) (i.e., "deacons") (Titus 1:5-9, 1 Timothy 3:1-13):
@@ -87,21 +94,21 @@ Never live far above *or* below the lifestyles of the people you serve and lead
 
 ## Ministry types
 
-At its core, a [church](church.md) is simply a gathering of believers (Matthew 18:20).
+At its core, a [church](church.md) is simply a gathering of believers (Matthew 18:20), so it's a broad term.
 
-- The only major differences between churches are either [cultural](people-culture.md) or [legal](legal-safety.md).
+- Most people more narrowly define a church as a [*worship-based* church](mgmt-church-worship.md).
+  - However, the only major differences between churches are either [cultural](people-culture.md) or [legal](legal-safety.md).
 - This definition is broad enough to include things people often do *not* [understand](mind-understanding.md) to be churches:
   - House gatherings, including group [Bible studies](bible-study.md)
   - Charitable organizations
   - [Media networks](stories-storytellers.md) run by Christians
   - Thrift store chains
   - Christian music concerts
-  - Parachurch and ecumenical organizations
+  - [Parachurch and ecumenical organizations](church-parachurch.md)
+  - Private schools and universities
 - To put it another way, a Christ-like church is simply *any* gathering of people who have performed [Christ-like habits](spiritual-exercises.md) long enough that their shared [habits](habits.md) have [fostered](power-influence.md) a [culture](people-culture.md) to arise from it.
   - That Christian culture will be the hybrid of their culture of origin mixed with a sincere [Christian identity](people-identity.md).
   - The conventional term for "church" is more accurately a ["*worship-based* church"](mgmt-church-worship.md).
-
-You don't necessarily have to plant a "church", and it may be wiser to create a [parachurch organization](church-parachurch.md) if you see needs that serve churches directly.
 
 There are several ways to approach a new ministry venture:
 
@@ -109,7 +116,7 @@ There are several ways to approach a new ministry venture:
 2. Trust God entirely for the experience and act directly on what the Holy Spirit says (a typical approach for [persecuted churches](hardship-persecution-church.md)).
 3. Attempt to rebuild everything from the ground up (typical for churches less concerned about engaging everyone in a community or with [trust issues](mind-trust.md)).
 
-If you must register your ministry with the government (e.g., 501(c)3 status), you should have a clear scope of what your primary activities are.
+If you wish to formally register your ministry with the government (e.g., 501(c)3 status), you should have a clear scope of what your primary activities are.
 
 - You often have to classify it differently depending on what your primary activity is.
 - Many times, it's the distinction between a "ministry-based church" or "church-based ministry", but it's all according to that government's requirements, and is somewhat arbitrary.
@@ -122,7 +129,7 @@ Keep [working hard and consistently](success-4_routine.md), even when [you don't
 - Sometimes, for the sake of the ministry, consider [a side job](entrepreneur-4_freelancing.md), *especially* at the beginning (Acts 18:1-4).
 - A minister's work never ends, so enjoy any rest, even a few hours.
 
-Get other believers to assist you in diligently [praying and fasting](spiritual-exercises-prayer.md).
+Beyond assisting in activities, involve other believers to assist you in diligently [praying and fasting](spiritual-exercises-prayer.md).
 
 Your necessary range of skills will change as you grow.
 

@@ -9,6 +9,7 @@ Be careful with apologetics.
   - In general, you're wasting your time with denominational politics, and should focus on shared values instead (Mark 9:38-41).
   - The *one* exception, though, is when that denomination is practicing [legitimate heresy](people-conflicts-christian-why.md).
 - Make sure you keep in mind that Christians aren't known by their rock-solid views *nearly* as much as their love for each other (John 13:34-35).
+- Most apologetics studies should be a sincere attempt to intimately understand the truth more thoroughly.
 
 Apologetics, in general, boils down to two approaches:
 
@@ -76,6 +77,46 @@ Do *not* let yourself fall into a rhetorical trap.
 
 There are definitely approaches to specific value systems:
 
-- [Islam](spiritual-exercises-evangelism-apologetics-islam.md)
 - [Atheism](spiritual-exercises-evangelism-apologetics-atheism.md), both about [God](god-proof.md) and [the Bible](bible-proof.md)
+- [Interfaith thinking](spiritual-exercises-evangelism-apologetics-interfaith.md)
+- [Islam](spiritual-exercises-evangelism-apologetics-islam.md)
 - [Pantheism](spiritual-exercises-evangelism-apologetics-pantheism.md)
+
+## Simple questions
+
+There are at least a few questions that repeat themselves by most people about Christian values, and they all have relatively straightforward answers.
+
+Why would God allow the world/me to suffer?
+
+- We are reaping the consequences of our sin condition that came from the Fall (Genesis 3).
+- God has permitted suffering to bring godliness, though we don't know why in this life (1 Timothy 3:16).
+
+If God is all-loving but also knows what we'll do, why do people go to hell?
+
+- An all-loving God gives people a choice, and that choice means the freedom to choose against the right decision.
+- With respect to an *eternal* hell, there are so many people that it only makes sense that some people would *never* repent.
+
+If you need to accept Jesus, what happens to babies that die?
+
+- Jesus said the kingdom of heaven goes to children (Matthew 19:14), and on the principle that [God](https://icould.fail/god/) is [just and fair](morality-justice.md), He wouldn't judge them the same way as us.
+
+The Bible promotes slavery/incest/rape/polygamy/etc, why would God permit that?
+
+- Most of our modern sensibilities come from a culture that has been nurtured inside biblical thinking.
+- Our sin condition had taken root by the time God gave the Law, and [slavery](people-slavery.md) among other things had been institutionalized already.
+- The Law itself mandated a better life for slaves/women/rape victims/etc. than what they had by giving them previously unseen [rights and liberties](people-boundaries.md).
+- Jesus was one of the greatest advocates of minorities and women (John 4).
+- A better question is "why has God not just destroyed us all by now?"
+
+## Odd ideas
+
+There are many, *many* odd belief systems that deviate from Christianity:
+
+- Jesus actually did something different than the disciples' historical record (e.g., transported to North America after crucifixion, moved to India after surviving crucifixion, sired illegitimate children).
+- Humanity doesn't have a sin problem directly and can choose good over evil without God's grace (i.e., pelagianism).
+- The Bible is true, but the spiritual beings in it are actually extraterrestrial aliens.
+- Jesus didn't exist and Christianity was simply a misunderstanding of ancient fertility cults driven by drug use.
+
+These views are endless, and will propagate until [He returns](theology-end.md).
+
+- While it's worth confronting, many people *want* to believe those things because it makes them feel good, and not based on the truth (2 Timothy 4:3).

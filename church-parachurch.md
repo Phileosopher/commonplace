@@ -40,25 +40,57 @@ These groups are mostly for books, but they also distribute other media like vid
 
 [Zondervan](https://www.zondervan.com/)
 
-## [Evangelism and Apologetics](spiritual-exercises-evangelism.md)
+## [Evangelism](spiritual-exercises-evangelism.md)
 
-[The Christian Apologetics & Research Ministry](https://carm.org/)
+[Open Air Campaigners USA](https://oacusa.org/)
 
-[Cru](https://www.cru.org/) (formerly Campus Crusade for Christ) - specialized evangelism, including [Athletes in Action](https://athletesinaction.org/) and [Jesus Film Project](https://www.jesusfilm.org/)
-
-[Gideons International](https://gideons.org/) - specialized toward distributing Bibles
-
-[InterVarsity](https://intervarsity.org/) - focuses on college campus evangelism and discipleship
-
-[Lutheran Science Institute](https://www.lutheranscience.org/default.asp)
+[The Cross Current](https://thecrosscurrent.com/)
 
 [Youth With A Mission](https://ywam.org/)
 
-## Evangelism focused on [apologetics](spiritual-exercises-evangelism-apologetics.md)
+### Specialized evangelism
+
+[Cru](https://www.cru.org/) (formerly Campus Crusade for Christ) - includes [Athletes in Action](https://athletesinaction.org/) and [Jesus Film Project](https://www.jesusfilm.org/)
+
+[Living Waters](https://livingwaters.com/) - street evangelism through Ray Comfort
+
+[Off The Kirb Ministries](https://www.offthekirb.co.uk/) - street evangelism
+
+[Gideons International](https://gideons.org/) - distributing Bibles
+
+[The Pocket Testament League](https://www.ptl.org/) - distributing small bound Gospel texts
+
+[InterVarsity](https://intervarsity.org/) - college campus evangelism and discipleship
+
+[GlobalRize International](https://www.globalrize.org/) - [internet-based](cs-browser.md) ministry
+
+### Evangelism focused on [apologetics](spiritual-exercises-evangelism-apologetics.md)
+
+[GotQuestions Ministries](https://www.gotquestions.org/) - a vast [knowledge base](language-writing-documentation.md) of hundreds of thousands of responses to questions about Christianity
+
+[The Christian Apologetics & Research Ministry](https://carm.org/) - one of the oldest apologetics sites on the internet
 
 [Answers in Genesis](https://answersingenesis.org/) - focuses on [science-based](science.md) apologetics
 
+[Lutheran Science Institute](https://www.lutheranscience.org/default.asp) - focuses on [science-based](science.md) apologetics
+
+[Creation Museum](https://creationmuseum.org/) - focuses on [science-based](science.md) apologetics with a museum
+
+[Stand to Reason](https://www.str.org/) - associated with Greg Koukl
+
+[Tower To Truth Ministries](https://www.towertotruth.net/) - focuses on [cult](people-culture-cults.md) apologetics
+
+[4Witness.org](https://www.4witness.org/) - focuses on the Jehovah's Witness and Mormon cults
+
+[The Catholic Blog](https://www.catholic.blog/) - focuses on Catholicism-based apologetics
+
 [Christian Research Institute](https://www.equip.org/) - inter-faith apologetics, connected closely with [Dr. Walter Martin](https://waltermartin.com/)
+
+[Defending Inerrancy](https://defendinginerrancy.com/) - focuses on biblical inerrancy
+
+### Missionary work
+
+[Global Frontier Missions](https://www.globalfrontiermissions.org/)
 
 ## [Radio](engineering-radio.md) stations and broadcasting
 
@@ -87,6 +119,14 @@ These groups are mostly for books, but they also distribute other media like vid
 [The MomCo](https://www.themom.co/home) (formerly MOPS) - focused on mothers of preschoolers finding connection
 
 [Promise Keepers](https://promisekeepers.org/) - focused on marital chastity for men
+
+## Spiritual teaching
+
+[Ligonier Ministries](https://www.ligonier.org/) - built by R.C. Sproul
+
+## [Prayer](spiritual-exercises-prayer.md) tracking
+
+[PrayerMate](https://www.prayermate.net/app)
 
 ## News outlets
 
