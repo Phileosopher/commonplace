@@ -164,6 +164,8 @@ If you're trying to store *lots* of information, you likely have only a few poss
 - Cold storage - idle for most of the time, but requires enormously fast response and speed when accessed.
 - [Data center](cs-distsys-enterprise.md) - *constant* read/write on a hefty [network connection](cs-networks.md).
 
+There was once an interim period (approximately 1981-1999) where computer memory for personal computing was almost always enough with the exception of [games](fun-games-cs.md). This is obviously not true anymore.
+
 To store *lots* of information for a long time, there are several specific options:
 
 - Compact discs (CDs) are coated polycarbonate plastic with optical (i.e., laser-readable) information permanently burned onto them, with a thin layer of aluminum to reflect the information. Some are read-only (CD-R) and others are read/write (CD-RW). While they can get scratched, the ink from a permanent marker can also erode the reflective coating over years.

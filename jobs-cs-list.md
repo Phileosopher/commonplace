@@ -100,3 +100,7 @@ Severe [math](math.md) roles (for geeks who *like* math):
 - [System] Project Manager: uses [that system's](mgmt-2_projects-cs.md) methodology
 - Technical Recruiter: tries to get qualified people in front of the (role) managers
   - Developer Evangelist: a recruiter for a specific company
+
+## More infomration
+
+[awesome-tech-roles](https://github.com/janpeuker/awesome-tech-roles)

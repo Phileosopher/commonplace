@@ -133,6 +133,14 @@ Open the selected file or program: ENTER
 
 Search for something: CTRL+F
 
+### Text formatting
+
+Bold: CTRL+B
+
+Italic: CTRL+I
+
+Underline: CTRL+U
+
 ## Shortcut UX
 
 Many keyboards come with special shortcut buttons, which can often be remapped with downloaded drivers.
@@ -149,7 +157,7 @@ For Windows, most of the characters are encoded within a 4-digit entry on the ke
 2. Enter the 4-digit code.
 3. Release the super key.
 
-For Linux OS (only tested so far on Ubuntu), enable the "Compose" key in the keyboard settings.
+For Linux , enable the "Compose" key in the keyboard settings.
 
 - Pick a rarely used key, such as a right-mirrored key (e.g., right Shift, right Ctrl, right Alt)
 - The key combinations are a sequence of separate presses:

@@ -34,10 +34,13 @@ Fat is a necessary, healthy part of the body.
 The body needs more proteins and fats than carbohydrates.
 
 - Generally, people crave a variation of what their body needs (which is rarely bread or candy).
-  - Chocolate cravings are for magnesium, which can come from dark chocolate, spinach, pumpkin seeds, or avocado.
+  - Fast food cravings are from waiting too long in between meals.
+  - Sweet cravings are for protein.
   - Sour cravings are for fresh food, which can come from watermelon, pineapple, lemon water, or mint.
   - Crunchy food is for stress relief, which can come from celery, apples, carrots, or rice cakes.
   - Spicy craving is for stimulation, which can come from chili peppers, ginger, jalapeños, or cinnamon.
+  - Chips and fries cravings come from insufficient hydration, which can be resolved with either water, fruits, or an electrolyte solution.
+  - Chocolate cravings are for magnesium, which can come from dark chocolate, spinach, pumpkin seeds, or avocado.
 - Carbohydrates are our body's energy, but are unhealthy when they spike blood sugar levels.
 - Generally, food with a high glycemic index is full of quickly digested simple sugars.
 - Empty carbs (e.g., candy) are the easiest food and snacks to grab, which is why you'll need a *ton* of impulse control to survive it.

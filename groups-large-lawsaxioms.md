@@ -178,8 +178,6 @@ NASCAR Theory - If nothing exciting is going on, people will find enjoyment in w
 
 Norman Augustine's Ninth Law - Acronyms and abbreviations make simple ideas feel profound.
 
-Price's Square Root Law - The square root of the total number of authors contribute half the content to a publication.
-
 Sarnoff's Law - A broadcast network's value is proportional to its number of consumers.
 
 Wiki Rule - Every interest, no matter how narrow, will attract people who will build a gigantic repository of information about it.

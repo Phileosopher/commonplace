@@ -120,6 +120,7 @@ Run "tracert bad.horse" in a CLI (reference to [Doctor Horrible's Sing-Along Blo
 [esolangs](https://github.com/angrykoala/awesome-esolangs) - Languages built around weird ideas.
 
 - [Hurl, the Exceptional language](https://hurl.wtf/) - The only control flow is exception handling.
+- [Piet](https://www.dangermouse.net/esoteric/piet.html) - Because programming needs to look like modern art.
 
 [Repokémon](https://cheeaun.github.io/repokemon/) - GitHub repositories with Pokémon names.
 

@@ -7,7 +7,10 @@ It's worth noting that I've broadened the ideas when possible. It's also worth n
 
 I've grouped them starting with where the law starts coming into effect, progressing from inanimate objects, through individual perception, upwards into large groups.
 
-I've separated the [science-specific](philosophy-lawsaxioms-science.md), [design](engineering-design-lawsaxioms.md), and [technology-specific axioms](technology-lawsaxioms.md).
+- [Larger-scale axioms](groups-large-lawsaxioms.md)
+- [Science-specific axioms](philosophy-lawsaxioms-science.md)
+- [Design axioms](engineering-design-lawsaxioms.md)
+- [Technology-specific axioms](cs-lawsaxioms.md)
 
 ## Brain/Psychology
 
@@ -186,8 +189,6 @@ Chesterton's Fence - Making changes without understanding the reasoning behind t
 
 Edison's Law - "Better" is the enemy of "Good".
 
-Hofstadter's Law - It always takes longer than you expect, even if you thought of everything.
-
 Humphrey's Law - People can impair their performance when they pay attention to a [habitual](habits.md) task.
 
 Lachance's Law - "Plenty of time" becomes "not enough time" in a very short time.
@@ -197,6 +198,8 @@ Landauer's Principle - It always takes a minimum amount of energy to make a chan
 Law of the Instrument - People tend to use tools they're familiar with instead of the best possible tool.
 
 Murphy's Law/Finagle's Law/Sod's Law - If anything can go wrong, it will somehow.
+
+- Hofstadter's Law - It always takes longer than you expect, even if you thought of everything.
 
 Naismith's Rule - While walking or hiking, add an hour for every 3 miles, plus another hour for every 2,000 feet of rising altitude.
 
@@ -258,6 +261,8 @@ Campbell's Law - As a social measurement influences more social decisions, it'll
 
 Conway's Law - Any system made by another system copies its parent system's structure.
 
+- Reverse Conway's Law - The only way to permanently fix a system is to redesign its parent systems.
+
 Gresham's Law - When things are equal and regulated, undervalued things tend to drive out precisely valued things during circulation.
 
 Hitchens' Razor - If someone makes an absolute claim, they must give evidence or nobody has to listen to it.
@@ -273,5 +278,3 @@ The Ten-Scale Shame Rule - The proportion is a factor of 10 between an extremely
 The Two Pizza Rule - A team that requires more than two pizzas (i.e., 4-8 people) is too large.
 
 Walras' Law - Because each decision means deciding against something else, every this/that decision together adds up to zero.
-
-[Larger-scale axioms](groups-large-lawsaxioms.md)

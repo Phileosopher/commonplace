@@ -49,6 +49,11 @@ Listening comes in degrees:
 5. Appreciative listening: responding to and making nonverbal cues
 6. Intuitive listening: using wisdom to interpret hidden meanings beyond the speaker's stated ideas
 
+To listen, you must intentionally replay the words the other person is stating in your own mind.
+
+- This extra attention means you'll probably have a difficult time forming your own opinions about it.
+- This is a largely lost skill in [the Over-Information Age](information.md).
+
 ## Make them important
 
 Always pay attention to the speaker:
