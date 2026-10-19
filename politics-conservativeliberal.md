@@ -79,7 +79,7 @@ All [political conflicts](people-conflicts-war-why.md) are driven by philosophic
 - Conservatives believe in preserving civilization by suppressing [savage urges](mind-feelings.md), which requires consistently taking from anyone who crosses [boundaries](people-boundaries-why.md).
 - Progressives believe [society's leadership](groups-large.md) has many [moral oppressions](morality.md) they must [fix and atone for](politics-leftism.md), which requires consistently taking from anyone with more [power](power.md) and giving to those with less.
 
-However, both conservatives and liberals run the risk of abusing their power, meaning that too far in either spectrum becomes an oppressive, [unjust](morality-justice.md) society with punitive [rules](rules-methods.md) ("horseshoe effect").
+However, both conservatives and liberals run the risk of abusing their power, meaning that too far in either spectrum becomes an oppressive, [unjust](morality-justice.md) society with punitive [rules](people-rules-methods.md) ("horseshoe effect").
 
 ## Precise definitions
 

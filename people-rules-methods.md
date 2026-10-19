@@ -19,7 +19,7 @@ As far *why* lawmakers create these actions, they have several longstanding phil
 - Reparations ("restorative justice"): the lawbreaker must indemnify their victim (e.g., paying money back to the victim of a theft).
   - While this has some reasonable efficacy, it also comes at some level of social expectation that victims [forgive](hardship-forgiveness.md) their abusers.
 
-As far as motivation, lawmakers are have their own interests for delivering punishments:
+With respect to motivation, lawmakers are have their own interests for delivering punishments:
 
 1. To instill [fear](mind-feelings-fear.md) against an action for the purpose of deterring people.
 2. They wish to profit off the breaking of the law (e.g., [sin taxes](money-accounting-taxes.md))
@@ -29,17 +29,17 @@ These methods are ordered by least to most approximate severity.
 
 - More recently in history, these have has rebranded as rehabilitation more than punishment, but the actions are effectively the same.
 
-## "Fear Points"
+## "Fear points"
 
 If an organization doesn't have the power to safely destroy someone's image publicly, they'll often create a "points" system to [scare](mind-feelings-fear.md) people away from more punitive measures.
 
-## Image Destruction
+## Image destruction
 
 A public declaration of someone's misbehavior.
 
 Usually the most common rule method, and only impacts someone's [reputation](people-image-why.md).
 
-## Taxes and Fines
+## Taxes and fines
 
 Requiring that people give up their money, frequently by fulfilling specific conditions, and can involve [a wide variety of transactions](money-accounting.md).
 
@@ -47,7 +47,7 @@ The easiest way to transfer power without any major loss in the transaction, whi
 
 - However, there *will* be a non-trivial loss in [purpose](purpose.md) toward performing the task in a sanctioned way if the tax surpasses a certain amount (i.e., Laffer Curve).
 
-## Rights Suppression
+## Rights suppression
 
 Broadly, taking away inherent [human rights](people-3_respect.md) such as free speech, the right to assemble, or the right to privacy.
 
@@ -68,7 +68,7 @@ Without closer supervision, becomes a de facto training center for criminals to 
 - There may be other rules that prohibit forced labor.
 - Without solitary confinement or forced labor, the only workable solution is to place them in a new community that gives them [morally](morality.md) superior [purposes](purpose.md).
 
-## Forced Labor
+## Forced labor
 
 Any situation where someone is required to [do something](results.md) against their [will](purpose.md).
 
@@ -78,13 +78,13 @@ The [quality](values-quality.md) of their work is *always* inferior compared to 
 
 Can technically incorporate [bureaucratic runaround](bureaucracy.md) as well.
 
-## Destroying/Taking Property
+## Destroying/taking property
 
 The act of taking or demolishing something someone has, frequently to [symbolically](symbols.md) humiliate them.
 
 This isn't always physical, and can sometimes be [intellectual property rights](legal-ip.md) or ownership of [organizations](groups-large.md).
 
-## Bodily Harm
+## Bodily harm
 
 The most dramatic form of physical punishment.
 
@@ -110,13 +110,19 @@ The method of killing can range from quick and painless (e.g., lethal injection)
 
 While it may appear to be the most severe, it is also the most final, since the authority for any further consequences are delegated to [God](theology-god.md).
 
-## Punishing Connections
+## Punishing connections
 
 Forbidding contact with a specified individual or group.
 
 It can be *any* of the above, but directed toward [family](people-family.md) and [friends](people-friends.md) close to someone.
 
----
+## Un-personing
+
+Completely removing all recorded instances of a person or group.
+
+This is very dramatic, and doesn't serve to set any proper example, but it's very effective at [distorting public image](people-image-distortion.md) when a government knows they have done something [immoral](morality-evil.md).
+
+## In summary
 
 All the above methods are meant as a social deterrent against future behavior by other people, but civil resistance can motivate the authorities to act proactively.
 

@@ -27,7 +27,7 @@ Beyond [norms](people-rules-list.md), A society's rules are designed for the col
 
 The group's leadership determines which of those standards become [laws/policy](people-rules-methods.md), and then it's approved by the members proportional to how much [power](power.md) they have in the group.
 
-A [wide variety of enforcement measures](rules-methods.md) can serve to impede individuals' (*hopefully* [immoral](morality.md)) [purposes](purpose.md). However, most rules are simply enforcing a culture's [fashions](people-trends.md) and don't precisely conform to [justice](morality-justice.md).
+A [wide variety of enforcement measures](people-rules-methods.md) can serve to impede individuals' (*hopefully* [immoral](morality.md)) [purposes](purpose.md). However, most rules are simply enforcing a culture's [fashions](people-trends.md) and don't precisely conform to [justice](morality-justice.md).
 
 The [purpose](purpose.md) of those rules isn't to "stop" the action from happening completely, since people will always make [evil decisions](morality-evil.md) if they have something to [gain](purpose.md). Instead, a rule is designed to make the action's [risks](safety.md) so challenging and [scary](mind-feelings-fear.md) that people [decide](mind-decisions.md) differently before doing it.
 
@@ -40,7 +40,7 @@ The rules must at least *[appear](people-image-why.md)* enforceable, or people w
 3. Observable - the authorities can somehow [perceive](people-image-why.md) when someone is crossing a boundary.
 4. Actionable - the authorities can do something to take away from that person's [power](power.md).
 
-APPLICATION: Rules never motivate people toward things implicitly, so rules can never make people [moral](morality.md), and [social engineering](rules-methods.md) is more dangerous than helpful.
+APPLICATION: Rules never motivate people toward things implicitly, so rules can never make people [moral](morality.md), and [social engineering](people-rules-methods.md) is more dangerous than helpful.
 
 To be [just](morality-justice.md), every rule must have a few qualities:
 
@@ -96,9 +96,35 @@ Power dynamics become more complicated because *other* groups often have tremend
 
 If there is a hierarchy of power, it's almost guaranteed each tier will have their interpretations and nuances that *will* diverge from each other.
 
+## Expansion of power
+
+Naturally, as systems become more complex through growth, [optimization](mgmt-4_status.md), and [technology](technology.md), the power management has to shift as well to conform to the changes.
+
+Often, authorities can *severely* overstep their power without knowing it. Governments, in particular, who have the market cornered on [killing people](hardship-death.md), can often create methods to enforce rules and certifications that would be better-served by smaller, autonomous groups.
+
+Modern governments will then [standardize](standards.md) this mechanism, then imitate each other to create absurd certifying authorities and procedures for otherwise benign [specializations](jobs-specialization.md):
+
+- Athletic trainers
+- Auctioneers
+- Barbers
+- Bartenders
+- Cosmetologists
+- Interior designers
+- Manicurists
+- Preschool teachers
+- Sports coaches
+- Taxidermists
+- Tour guides
+- Travel agents
+- Tree trimmers
+
+In practice, many domains do need at least some regulation whenever the public must [trust](mind-trust.md) them. However, the trade association will usually develop a mechanism to regulate newcomers and bad actors, and governments often only need to require very specific criteria (e.g., criminal background check for working with children).
+
 ## Abuse of power
 
-The exclusive [power](power.md) to make [rules over others](rules-methods.md) comes with the very legitimate risks of people in control who want to keep their power.
+Without a [dogmatic religious conviction](religion.md), the power to make rules naturally [corrupts](morality.md) people.
+
+The exclusive [power](power.md) to make [rules over others](people-rules-methods.md) comes with the very legitimate risks of people in control who want to keep their power.
 
 Rules, when properly enforced, are *[supposed](mind-imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries-why.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](mind-trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](people-image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
 

@@ -177,7 +177,7 @@ Cost increases for trading are sometimes predictable:
 
 - The cost of making or transporting something
 - Risks of damaged goods or theft
-- [Taxes](rules-methods.md) and government fines
+- [Taxes](people-rules-methods.md) and government fines
 - [Illegalization](people-rules.md)
 
 [Technology](technology.md) improvements and infrastructure will usually lower costs:

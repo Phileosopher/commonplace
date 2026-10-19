@@ -149,7 +149,7 @@ Pray for the ability to forgive:
 
 Rebellion can be against many authority figures:
 
-- [Government authorities](rules-methods.md) (Romans 13:1-5, 1 Timothy 2:1-4, 1 Peter 2:13-16)
+- [Government authorities](people-rules-methods.md) (Romans 13:1-5, 1 Timothy 2:1-4, 1 Peter 2:13-16)
 - [Parents](parenting-3_teenagers.md) (Ephesians 6:1-3)
 - [Husband](relationships-marriage.md) (1 Peter 2:1-2)
 - [Employer](jobs-1_why.md) (1 Peter 2:18-21)

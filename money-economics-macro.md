@@ -17,7 +17,7 @@ There are five major ways macroeconomists track movement:
 - Taxation - how much does the government take, and how much does it adversely affect who is taxed?
 - Spending - how much does the government spend, and on what?
 - Monetary policy - how does the government manage its currency?
-- Regulatory policy - how does the government make [laws](rules-methods.md)?
+- Regulatory policy - how does the government make [laws](people-rules-methods.md)?
 - Trade - how does a government and its people interact with [other governments](politics-systems.md) and their people?
 
 It's worth noting that the entire realm of macroeconomics becomes a matter of controlling individual [decision-making](mind-decisions.md). The motivation for this is either for [power](power.md) or [love](people-love.md) of humanity, depending on your opinion.
@@ -26,7 +26,7 @@ APPLICATION: Markets are chaotic, so economists make statistical correlations, w
 
 Authorities can directly control supply, but can't *fully* [influence](influence.md) demand. This is because it's impossible to fully manage others' desires without removing [free will](humanity.md). The closest thing they can do is provoke [fear](mind-feelings-fear.md) to deter [purposes](purpose.md).
 
-One popular form of [social engineering](rules-methods.md) in the world of economics is to employ large-scale [design patterns](engineering-design.md) to steer people toward decisions that they "ought" to do ("libertarian paternalism") to influence behavior and send wealth from whoever a government deems unworthy to whoever is deemed worthy.
+One popular form of [social engineering](people-rules-methods.md) in the world of economics is to employ large-scale [design patterns](engineering-design.md) to steer people toward decisions that they "ought" to do ("libertarian paternalism") to influence behavior and send wealth from whoever a government deems unworthy to whoever is deemed worthy.
 
 ## Taxes
 
@@ -250,7 +250,7 @@ At the farthest end of supply side economics is laissez-faire ("allow to do"), w
 
 Centralized planning taken to its farthest becomes fascism or [communism](politics-leftism.md). So far, it's always failed spectacularly because people don't like to be controlled.
 
-Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](rules-methods.md).
+Most free countries mix supply side and redistributionism together. A tax system, for example, is centralized planning responding to emergent order, at least until it becomes [social engineering](people-rules-methods.md).
 
 [History](stories-storytellers.md) has shown that overly rigid government involvement will cause chaos and disorder when people are pushed far enough. To avoid a [coup or war](people-conflicts-war-why.md), people need at least some freedom to make [decisions](mind-decisions.md), even if they're bad.
 

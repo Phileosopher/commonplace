@@ -11,7 +11,7 @@ APPLICATION: Many of the large-scale conspiracies are probably somewhat true. Th
 
 Though it's not as common as the indirect approach, there are several ways an entity will destroy their opposition directly:
 
-1. Take away their [power](power.md), in-system, often by demonetizing or [penalties](rules-methods.md)
+1. Take away their [power](power.md), in-system, often by demonetizing or [penalties](people-rules-methods.md)
 2. Eject them from the group entirely
 3. [attack them](people-conflicts-war-why.md) if they can successfully create another group
 

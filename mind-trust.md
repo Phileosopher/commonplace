@@ -137,7 +137,7 @@ One of the largest indicators of over-trust arises when we see something that do
 [Large organizations](groups-large.md) are vastly aware of our discomfort with uncertainty and try to give more uncertainty toward things they [want us to not do](morality-taboo.md). Further, they may attempt to mishandle our trust subversively:
 
 - Free trials that require [opting *out* of](people-contracts.md).
-- [Government benefits](groups-large.md) that require [taxes](rules-methods.md) to fund.
+- [Government benefits](groups-large.md) that require [taxes](people-rules-methods.md) to fund.
 - Offering [safety](safety.md) in exchange for [civil liberties](mind-decisions.md).
 - Giving a [contract](people-contracts.md), but adding things in the fine print like termination clauses and non-compete requirements.
 

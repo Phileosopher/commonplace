@@ -1,5 +1,5 @@
 
-# List of para-church organizations
+# List of para-church Christian organizations
 
 As a general rule, most church leadership are at least somewhat territorial over [their congregation](mgmt-church.md).
 
@@ -139,3 +139,13 @@ These groups are mostly for books, but they also distribute other media like vid
 ## Legal defense
 
 [American Center for Law and Justice](https://aclj.org/)
+
+## Semi-Christian or Christian-in-name-only
+
+[Christianity Today](https://www.christianitytoday.com/) - news outlet with a distinctly non-biblical worldview
+
+[Reddit's r/Christianity subreddit](https://www.reddit.com/r/Christianity/) - discussion forum for "Christians", but the moderation team is composed of atheists and bans sincere and deep Bible discussions, most legitimate Christians went to r/TrueChristian
+
+[The Salvation Army](https://www.salvationarmy.org/) - historically Christian, but has become a general not-for-profit with globalist leanings
+
+[Watchtower Bible and Tract Society](https://www.jw.org/en/) - a not-hidden front for the Jehovah's Witnesses cult

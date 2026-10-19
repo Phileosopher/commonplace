@@ -14,6 +14,14 @@ Categorically, there are three major types of software:
 2. Utility software, which supports the operating system's functioning
 3. Applications, which are the things non-tech people actually use
 
+All software, no matter how it was created ([assembly code](cs-langs-specific-assembly.md), hardkeyed functions, or [AI](cs-ai.md)), must have five characteristics to be of any true quality:
+
+1. Correct: When given valid input, the software must give correct output. This is non-negotiable.
+2. Reliable: The software does not fail when given invalid input. This can be acceptable at times if the error message is well-communicated.
+3. Secure: The software doesn't compromise the work environment's integrity. This is, with the internet and [hacking](cs-infosec-pentest.md), also non-negotiable.
+4. Maintainable: The software can be modified in response to requirement changes without having to rewrite it. This becomes more difficult the more abstracted it is.
+5. Readable: An educated person familiar with the problem's domain should be able to look at the source code and understand how it works. This also becomes more difficult with more abstraction.
+
 ## Mindset
 
 Anyone working with code must have a few specific skills:

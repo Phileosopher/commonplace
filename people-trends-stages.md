@@ -155,7 +155,7 @@ The first signs of a trend losing power is when [humor](humor.md) starts parodyi
 
 Some people will *always* refuse to adopt a trend. These people are "laggards", and will never adopt it. They usually represent about 16% of the group.
 
-Laggards only adopt because they absolutely must, and often only because the [law](people-rules.md) has become [punitive](rules-methods.md). Many laggards are defiantly set in their [habits](habits.md), but [creative](mind-creativity.md) laggards can become the innovators of other trends that run *counter* to those trends.
+Laggards only adopt because they absolutely must, and often only because the [law](people-rules.md) has become [punitive](people-rules-methods.md). Many laggards are defiantly set in their [habits](habits.md), but [creative](mind-creativity.md) laggards can become the innovators of other trends that run *counter* to those trends.
 
 APPLICATION: No matter what, every trend is just a majority adopting it. There will *always* be outliers who never [change](people-changes.md) from their fixed [habits](habits.md). Depending on the thing in question, extremists tend to either [disbelieve](mind-understanding-certainty.md) their existence or maintain their outlier status.
 

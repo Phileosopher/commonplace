@@ -100,7 +100,7 @@ The [social class](people-classes.md) of the risk-taker will often lean upward, 
 
 This success won't be without opposition. Every new trend means the death of an old one, and the [groups losing power](mgmt-badsystems.md) will try to shut it down to maintain their way of life. For this reason, most of the individuals who make the risks against established convention will *not* succeed.
 
-However, the new way of life advanced by the social risk will have advantages. Eventually, assuming there aren't any [government efforts to halt it](rules-methods.md), enough of a majority will follow in the risk-taking through the desire to have a more convenient life, and the [trend](people-trends.md) will win against the old way.
+However, the new way of life advanced by the social risk will have advantages. Eventually, assuming there aren't any [government efforts to halt it](people-rules-methods.md), enough of a majority will follow in the risk-taking through the desire to have a more convenient life, and the [trend](people-trends.md) will win against the old way.
 
 However, the [establishment](groups-large.md) is always fighting a losing battle of attrition with all those risk-takers. They may be able to postpone or destroy smaller groups that start the new trend, at least for a long time:
 

@@ -18,7 +18,7 @@ In a large government, there are multiple organizational elements:
 
 These four elements can mix-and-match depending on how the government is framed. Typically, the public has *no* control over anything except (possibly) electing their legislature, though more free societies will have elections for their heads of state and government. The nature of [corruption in large systems](mgmt-badsystems.md) guarantees that the public will never get much control over the bureaucracy.
 
-In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](money-economics.md) on legally [killing people](rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries-why.md) of its public than its form of government.
+In all reality, though, the amount of [power](power.md) at play means there's plenty of [deception](people-lying.md) between these roles and their *actual* power. Most governments that last more than about 1-2 decades become horrifically [bad systems](mgmt-badsystems.md), but they stay around because they've [cornered the market](money-economics.md) on legally [killing people](people-rules-methods.md). This, therefore, means that *who* runs a government is a clearer determination over the [freedoms](people-boundaries-why.md) of its public than its form of government.
 
 ## Socio-economic ideologies
 

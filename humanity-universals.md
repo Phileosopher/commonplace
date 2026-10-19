@@ -310,7 +310,7 @@ Violence
 
 - Even the most peaceful societies have [evil](morality-evil.md).
 - This evil frequently becomes outright [fighting and brutality](people-conflicts-why.md).
-- Because of this, every society needs [rules](rules-methods.md) for dealing with it.
+- Because of this, every society needs [rules](people-rules-methods.md) for dealing with it.
 - Sometimes, for the sake of [power](power.md), [large organizations](groups-large.md) will [fight](people-conflicts-war-why.md) with one another, which can include war.
 
 Water

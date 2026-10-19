@@ -174,7 +174,7 @@ Every large organization will try to socially engineer, at least a little. Even 
 
 Social engineering is risky, proportionally to how much it's done. [Human nature](humanity-universals.md) hates to be "boxed in", but leaders' human nature won't let them easily reverse a bad [decision](mind-decisions.md), so it often becomes a [bad system](mgmt-badsystems.md) in the process of trying to [craft an ideal](politics-perfectsociety.md).
 
-Every [imposed rule](rules-methods.md) can hurt people and damage [purposes](purpose.md), and social engineering is trying to use the bludgeoning [force](power.md) of the law to coax, so it usually leads to [negative externalities](money-economics.md) (e.g., overlooking people who don't *precisely* quality for beneficial things, or shouldn't qualify for beneficial things but still do).
+Every [imposed rule](people-rules-methods.md) can hurt people and damage [purposes](purpose.md), and social engineering is trying to use the bludgeoning [force](power.md) of the law to coax, so it usually leads to [negative externalities](money-economics.md) (e.g., overlooking people who don't *precisely* quality for beneficial things, or shouldn't qualify for beneficial things but still do).
 
 Taxing, especially, will broadly destroy [purposes](purpose.md):
 

@@ -68,7 +68,7 @@ From there, Christians will start incurring public [shame](mind-feelings-shame.m
 - [Large organizations](groups-large.md) may close off business to distinctly Christian organizations (e.g., faith-based [not-for-profit organizations](mgmt-npo.md)).
 - Unless they renounce their faith, their biological [family](people-family.md) and long-standing [friends](people-friends.md) will slowly alienate them.
 - Officials will forbid or restrict certain Christian practices like [public evangelism](spiritual-exercises-evangelism.md), [expressing faith](mind-trust.md) or simply [praying](spiritual-exercises-prayer.md) perceptibly.
-- The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](rules-methods.md) that inhibit Christians to freely assemble.
+- The government strategies to deter Christianity can include exploiting ambitious [church leaders](mgmt-church.md), tempting pastors with [money](money-1_why.md), using pastors' sins to [blackmail](power-types.md) them, and making [laws](people-rules-methods.md) that inhibit Christians to freely assemble.
 - Even if the government doesn't get involved, it'll often require churches to register their gatherings and report to them.
 
 Soon, Christianity becomes illegal to practice in public:
