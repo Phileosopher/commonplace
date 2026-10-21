@@ -56,7 +56,7 @@ There are [many, many design rules](engineering-design-elements.md) to nitpick a
 
 There are many content management systems (CMS), and almost *all* of them will work fine for the average user who just wants an online billboard (assuming they aren't a tech company with specific needs).
 
-- However, you'll need to learn [software development](cs-software.md) or hire someone who knows it to eventually accomodating the natural consequences of a [scaling business](entrepreneur-6_scaling.md).
+- However, you'll need to learn [software development](cs-software.md) or hire someone who knows it to eventually accomodating the natural consequences of a [scaling business](entrepreneur-7_scaling.md).
 
 Naturally and seamlessly connect everything in the site with links.
 

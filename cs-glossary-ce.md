@@ -205,6 +205,8 @@ CRM - customer relationship management, software designed to manage a company's 
 
 Cross-platform - software that runs on multiple platforms
 
+Cross-site scripting - XSS, exploits that insert malicious scripts that appear to be part of a trusted website
+
 Crosstalk - conflicting signals, an annoying byproduct of Wi-Fi and UTP
 
 CRT - cathode ray tube, a type of screen that involves shooting 3 beams of light at a fluorescent screen and routing the lights to get the desired intensities
@@ -288,6 +290,8 @@ Demosaicing - Converting color information into pixels by filling in the gaps be
 Demultiplexer - a logic gate where one set of inputs is a selector to determine which output the input will travel to
 
 Denary - 0 through 9, the base-10 system we learn from grade school, has to be converted to binary for computers to work with it
+
+Denial of service attack - when a hacker makes a computer crash or go offline, sometimes is the goal but is more often the means for something else
 
 Denormalize - make a database have a shorter read time, but have more redundant records, opposite of normalize
 
@@ -444,6 +448,8 @@ Error - whenever a computer doesn't fulfill the predefined purpose of the progra
 Ethernet - LAN protocol designed in the mid-1970s, the only surviving LAN protocol
 
 EUV - extreme ultraviolet lithography, a silicon chip-making technique of spraying tin with a 25-kilowatt UV laser to turn it into a gas, then blasting it a second time through a series of mirrors onto a silicon wafer
+
+Evil twin attack - penetration testing by using a similar-looking wireless access point from the active one
 
 Exchange point - routing mainframe data for an end user
 

@@ -3,9 +3,16 @@
 
 The history of passwords traces back to military messaging. In a [war](people-conflicts-war.md), military leaders must communicate, but without the enemy seeing that communication. The same philosophy holds true with protecting computer information, and is a critical subdomain of [keeping computers safe](cs-infosec.md).
 
-Most operating system security consists of sequential layers of "authentication". More authentication factors means more complexity.
+The entire concept of computers is a cascading onion based on the principle of least privilege. In theory, any authorized user or application should be given the minimum possible access necessary to perform tasks. This means that, without explicit permissions granted by the system, it's an implicit deny.
 
-Most computers have "certificates" to authenticate with each other. Setting certificate deadlines prohibits someone salvaging your computer later and using an old certificate.
+- Just-in-Time (JIT) access goes further to only give access to resources when needed, and only for as long as it takes to finish the task.
+- In practice, this is rarely the case, and for convenience most OS design is built around "least inconvenience" more than least privilege, where a user is given restricted access, and then enters a credential to give full-blown access to the entire system.
+
+Most operating system security consists of sequential layers of "authentication". More authentications mean more complexity.
+
+Most computers have "certificates" or digital signatures that authenticate that information wasn't tampered with.
+
+- Setting certificate deadlines prohibits someone salvaging your computer later and using an old certificate.
 
 There is, however, a major risk of *too much* security. It is very easy to create a self-defeating loop by setting authentication *behind* the authentication wall (e.g., sending email authentication to an email on the same server).
 
@@ -25,7 +32,7 @@ They all have downsides:
 - Someone can duplicate what someone possesses, or at least enough to fool a computer.
 - Nobody can take someone's inherence very easily, but it can't be updated easily if they ever *do* succeed at stealing it (i.e., there's no easy way to rebuild fingerprints or reconstruct a face).
 
-In particular, *everything* someone is that is unchanging (i.e., biometrics like facial recognition and fingerprints) are a terrible idea to use for absolutely anything that's not extremely top-secret.
+In particular, *everything* someone is that is unchanging (i.e., biometrics like facial recognition and fingerprints) are a terrible idea to use for absolutely anything that's not extremely secret.
 
 - Essentially, there will be severe security standards for top-secret projects, which will include the systems that authenticate people.
 - However, for more "mundane" authentication (e.g., personal banking), the standards will *not* be as high and the experts won't be as meticulous.
@@ -112,5 +119,10 @@ One common implementation uses an authentication, authorization, and accounting 
 3. The supplicant transmits a valid credential, which the client then forwards to the RADIUS server.
 4. The RADIUS server validates the creedential and issues an Access-Accept.
 5. The client opens the supplicant's network channel for regular traffic.
+
+RADIUS servers aren't the only way to do it, though:
+
+- Another option is Cisco's Terminal Access Controller Access Control System Plus (TACACS+), which adds more layers of authentication on everything.
+- The Kerberos protocol involves a user account authenticating to a domain controller over a trusted local physical network with a single sign on (SSO), then issues tickets for the account to have permissions toward applicable servers. It isn't necessary for it to involve a RADIUS server, though it often does.
 
 [Cloud systems](cs-distsys-cloud.md) further complicate things.

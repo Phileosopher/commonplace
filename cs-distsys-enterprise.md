@@ -71,7 +71,7 @@ However, the extra value and availability of that data means it *must* have at l
 
 ## Computes
 
-Consumers tend to use computers sporadically, where they may have some heavy computations for something like a [game](cs-software-gamedev.md) or [graphics](engineering-graphics.md) development, but won't use it at least 14 hours of the day. Enterprise-grade computers are *constantly* running, especially as [a tech business grows](entrepreneur-6_scaling-cs.md).
+Consumers tend to use computers sporadically, where they may have some heavy computations for something like a [game](cs-software-gamedev.md) or [graphics](engineering-graphics.md) development, but won't use it at least 14 hours of the day. Enterprise-grade computers are *constantly* running, especially as [a tech business grows](entrepreneur-7_scaling.md).
 
 Since enterprise computers are often multitasking, they need more "time-sharing" than typical software development needs. Across multiple computes, at least one of the CPUs will end up being a "load balancer" to maintain the work across computes, and sometimes across multiple sites.
 

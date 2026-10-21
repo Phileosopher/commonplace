@@ -51,6 +51,8 @@ Folder - aka directory, a file inside a file system that divides out files as if
 
 Font - a particular style of text, such as Times New Roman or Helvetica, can be monospaced or proportional
 
+Footprinting - a penetration tester's procedure for learning about a system's network and security
+
 For loop - a function that allows iterations of itself (e.g., for x=1 and y=5, add 1 to x and do something, and in this case, repeat until x=6)
 
 Fork - a variation of a program that shares at least some of its code base

@@ -219,6 +219,21 @@ Blame
 - Imply their opponent is the laggard of a [trend](people-trends.md).
 - Imply an error by someone is evidence of their ineptitude.
 
+## Environment
+
+Fatigue
+
+- Approaching people about [decisions](mind-decisions.md) when they are sleep-deprived.
+- Using blue light to keep someone perpetually agitated.
+
+Urgency
+
+- Waiting until the last possible moment to force someone to decide something.
+
+Fear
+
+- Using red imagery, imagery of aggression, or shadows to make someone feel unsafe.
+
 ## [Organizations](groups-large.md)
 
 Public [image](people-image-why.md)

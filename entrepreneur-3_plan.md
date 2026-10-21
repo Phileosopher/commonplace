@@ -11,7 +11,7 @@ Further, at some point, you'll need to [convince others](power-influence.md) to 
 - If you want a large-scale impact, you'll *need* a large-scale approach.
 - To make millions, a business must affect at least thousands, and will eventually need millions to do it.
 
-If you *are* seeking [funding](entrepreneur-6_scaling.md), you're answering questions potential investors and lenders are indirectly wondering:
+If you *are* seeking [funding](entrepreneur-7_scaling.md), you're answering questions potential investors and lenders are indirectly wondering:
 
 1. Is the business idea sound and reasonable?
 2. Is this business idea timed correctly?
@@ -37,7 +37,7 @@ Include a title, table of contents, and executive summary.
 
 To [market](marketing.md) it well, the title should be memorable.
 
-- Do *not* obsess about the title too much, since it will often need rebranding later when you need to [scale the business](entrepreneur-6_scaling.md).
+- Do *not* obsess about the title too much, since it will often need rebranding later when you need to [scale the business](entrepreneur-7_scaling.md).
 
 The executive summary should be written last, *after* the rest of the business plan.
 

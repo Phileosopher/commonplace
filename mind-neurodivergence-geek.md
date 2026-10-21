@@ -39,7 +39,7 @@ A serious professional who is highly accomplished:
 - May own a major niche store
 - Has contributed to geek culture in some way and has an impact on it
 - Most of their work is recognizable or easily identified
-- This represents a majority of [famous artists](art.md) who weren't elevated strictly through [corporate financing](entrepreneur-6_scaling.md).
+- This represents a majority of [famous artists](art.md) who weren't elevated strictly through [corporate financing](entrepreneur-7_scaling.md).
 
 ## Level 7 - Omega
 

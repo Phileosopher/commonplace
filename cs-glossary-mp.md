@@ -297,6 +297,8 @@ Phishing - sending fake information that looks real (often in an email), spear p
 
 Physical memory - the physical amount of memory in a computer, in contrast with logical memory
 
+Piggybacking - gaining unauthorized access through an authorized individual's permission
+
 Ping - a network tool that simply checks if a computer can be reached
 
 Pipelining - the convention where operating system processes work like a factory assembly line and focus on the purpose they're designed for, allows processes to take any input the user wants and send it to any output they want

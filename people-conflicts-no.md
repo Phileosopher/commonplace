@@ -110,10 +110,21 @@ If you ever say "no" and others [don't honor your boundaries](people-conflicts-b
 
 If you have guests at your house and want them to leave:
 
-1. Give verbal or nonverbal cues that you wish to be alone.
-2. Mention legitimate limits like an appointment or the need to [sleep](sleep.md).
-3. Imply the end of the visit by asking to schedule new plans or implying you want to meet in the future.
-4. Give them a parting gift to indicate you want them to leave.
+- Give verbal or nonverbal cues that you wish to be alone.
+- Mention legitimate limits like an appointment or the need to [sleep](sleep.md).
+- Give them a parting gift to indicate you want them to leave.
+- Imply the end of the visit with a "goodbye" statement:
+  - You'll probably want to go home and get settled before it gets dark.
+  - Don't stay on our account.
+  - What time did you say you had to go?
+  - It's been lovely to see you!
+  - What do you plan to do when you get home?
+  - Did you want another snack/drink for the road?
+  - I imagine you would like to beat the traffic.
+  - What will the traffic be like when you had back this afternoon.
+  - What are you having for dinner?
+  - Did you need any help with packing your things or getting them in the car?
+  - We should do this again sometime! When will you be free next?
 
 When someone overstays a multi-day visit:
 
@@ -160,3 +171,12 @@ When others ask you to review their work, but you don't want to:
 - We usually don't want to review others' work because we know they'll treat the review as if it's about *them* instead of their work.
 - If they ask for brutal honesty, they likely aren't ready for it.
 - To avoid crossing boundaries, ask what specific feedback they want.
+
+When you would like to leave:
+
+- To prime it, look at your watch frequently and pull your phone out for a few seconds at a time.
+- Let others know you have an appointment or (if it's late) morning appointment to fulfill.
+- You can also imply you want to leave:
+  - I'd better start packing/loading my things.
+  - It's been wonderful spending time with you!
+  - Anyway, I don't want to burden you anymore, so I'll take my leave now.

@@ -5,6 +5,12 @@ To keep computers safe across an organization, information security professional
 
 ## Risk Management
 
+Since it's absolutely impossible to track every risk, there's a simple-enough structure to assess if that risk is worth the work:
+
+1. Examine all possible vulnerabilities, which are things with some asset value that could be easily exploited.
+2. Examine all threats, internal and external, that could use those vulnerabilities. This includes malicious and accidental, with some indication of the threat actor or threat vector.
+3. The risk is the likelihood of the exploit, multiplied by the impact it would have on all affected systems.
+
 NIST created its Risk Management Framework (RMF) to put [risk management](safety-riskmgmt.md) systems in place and test to be sure they work:
 
 1. Prepare - everyone should [be aware](mind-awareness.md) changes will be happening.

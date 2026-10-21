@@ -46,6 +46,27 @@ Pay attention to social reality more than technical reality.
 - There is often a human reason why things are broken or missing, so stay mindful beyond the direct [physical problem](https://adequate.life/fix/) at hand.
 - The ability to [make friends](people-4_friends.md) with the correct people is far more important than intelligence or [cleverness](mind-creativity.md).
 
+The combination of a person's intent alongside their [awareness](mind-awareness.md) of themselves and the situation creates a general spectrum of safety for each person.
+
+1. Ruthless and evil (i.e., [psychopathy and sociopathy](mind-neurodivergence-psychopath.md))
+   - Avoid at all costs if possible.
+2. Enjoyment from destroying things
+   - Also avoid, but stay mindful that it's not quite as personal toward you.
+3. Selfish/uncaring (i.e., low-level [narcissism](mind-neurodivergence-clusterb-narcissist.md))
+   - You can coexist casually with them, but they will destroy you when it serves their interests.
+4. Unaware or little introspection
+   - They will project or displace their [anger](mind-feelings-anger.md) toward you and believe things are your fault.
+   - Coexistence is perfectly fine with them, assuming you never have a [conflict](people-conflicts.md).
+   - Frequently, they become the instruments of more malicious people lower on the spectrum.
+5. Aware, but lacking restraint
+   - They will behave just like an unaware person, but will later reflect, feel bad, and apologize.
+   - These people can be very toxic to coexist with because many of them aren't willing to fully fix what they broke.
+6. Safe but not compatible
+   - They will acknowledge how they feel but won't react from a defensive position.
+   - However, spending time with them long-term can be dangerous if you don't practice [good boundaries](people-boundaries.md).
+7. Safe and compatible
+   - These people are safe, and their [personality](people-personality.md) is compatible with yours.
+
 Have a general plan for what you will do in various situations.
 
 - Keep the plans practical and short-term.
@@ -87,6 +108,11 @@ Pay attention to the following forms of information:
    - That information is important to the other person to not communicate to you, so there's a reason for that obscurity.
 
 ## Specific tips
+
+Aim to be as uninteresting as possible.
+
+- You don't want to appear nonexistent (since that's odd in itself), but you must be forgettable.
+- While it may be beneficial to sometimes draw attention to yourself, that should be the exception and not the rule.
 
 In light of the above, there are many good pieces of wisdom.
 

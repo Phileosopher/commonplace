@@ -70,7 +70,7 @@ Large organizations don't like [change](mgmt-7_changes.md) *nearly* as much as s
 
 In *gigantic* organizations (such as [Big Tech](cs-bigtech.md)), the management hierarchy is absurd, with some developers having upwards of 6-12 layers of managers. A Big Tech organization, specifically, is less of a [large, monolithic entity](groups-large.md) and more of a shared label, with each team having a separate [subculture](people-culture.md) and effectiveness. This somewhat functioning environment *does* get work done, but it's debatable how much.
 
-You may have *had* a great job, but then your amazing little company gets *acquired* by a Big Tech corporation. At that point, throw any loyalty out the window, since the creator is [singing to the bank](entrepreneur-7_exit.md) and probably doesn't care anymore.
+You may have *had* a great job, but then your amazing little company gets *acquired* by a Big Tech corporation. At that point, throw any loyalty out the window, since the creator is [singing to the bank](entrepreneur-8_exit.md) and probably doesn't care anymore.
 
 ## Useless work
 
@@ -94,7 +94,7 @@ Generally, when the industry is hot with [a new trend](https://trendless.tech/tr
 If you do find yourself in this situation, you have a few options:
 
 1. Stay in that role until you're arbitrarily fired or promoted, which could take a while. You will slowly become part of the system, though you may be able to cause some positive change if you ever get [promoted to management](mgmt-1_why.md). In many situations, the [politics](power.md) of office culture means you won't get promoted if you're smarter than your boss.
-2. [Set some goals](jobs-2_goals.md) and look for a new job, using the months of experience you've already accumulated. Use the spare time at your job to learn new things. You can call it "continuing education", and may even get the company to pay for it if it's a particularly cushy company. If you're lucky, you may have a chance to join near the beginnings of a [startup](entrepreneur-6_scaling.md) elsewhere!
+2. [Set some goals](jobs-2_goals.md) and look for a new job, using the months of experience you've already accumulated. Use the spare time at your job to learn new things. You can call it "continuing education", and may even get the company to pay for it if it's a particularly cushy company. If you're lucky, you may have a chance to join near the beginnings of a [startup](entrepreneur-7_scaling.md) elsewhere!
 3. Start making [ideas for a startup](entrepreneur-2_idea-cs.md) or [freelancing](entrepreneur-4_freelancing.md) some of your work. Be careful how much you do it on company time or hardware/software, though. You can often learn most of what you need to know with that spare time (such as how to program Python) while not necessarily doing the work that could get you in [legal trouble later](legal-ip.md). Also note that anything "made" on a company device or on company time could technically become their [intellectual property](legal-ip.md) if the company's legal team wanted to abuse the situation.
 4. If you like living on the edge and have a remote job, you can technically work two jobs at once. It's stressful and requires [lying](people-lying.md), but some people find the two paychecks worth it.
 

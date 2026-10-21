@@ -23,7 +23,7 @@ At the onset, your job will involve ~20 small part-time jobs.
 - Eventually, you'll be able to specialize more into what you like (or at least don't mind), but you'll do a little of everything at the beginning.
 - To avoid burnout, try to separate personal and work activities.
   - When you relax, you should *enjoy* your small bouts of time off and *not* think about work.
-- Further, if you're not [financing](entrepreneur-6_scaling.md), you *must* keep a day job until you can make enough to live on without harming operating activities.
+- Further, if you're not [financing](entrepreneur-7_scaling.md), you *must* keep a day job until you can make enough to live on without harming operating activities.
 
 ## Stay focused
 

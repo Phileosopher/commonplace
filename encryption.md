@@ -92,21 +92,25 @@ Almost all computer-based encryption is doing the same thing:
 3. Transfer/store the information in its encoded form.
 4. Decode/verify it later.
 
-However, computers can use several possible types of encryption systems:
+However, computers use several possible types of encryption systems:
 
+- Symmetric: a key encrypts and decrypts the data.
+  - This isn't used as much because the secret key holds everything necessary for a breach, but it's faster so it's used more often as a type of ECC for actual data exchange within a session.
 - Hash: read the hash instead of the data itself.
   - Because it's fast, can be useful for bulk encryption/decryption.
   - e.g., Computer 1 encodes ABC as XYZ, Computer 2 only looks for XYZ and never reads ABC.
   - Good for verifying information like "checksums", messages, and digital signatures.
   - In hashes, the original data is never directly used after it's encoded.
   - Unfortunately, sending a key to decrypt information is also sending the means to encrypt it as well.
-- Assymetric/public-key: one key encrypts, and another decrypts.
+- Asymetric/public-key: one key encrypts, and another decrypts.
   - e.g., Computer 1 encodes ABC into XYZ with Key 1, Computer 2 uses Key 2 to decode XYZ back into ABC.
   - Very useful for internet transfers (on [Layer 6](cs-networks.md)), since *anyone* can freely access the encryption key as long as the decryption key is private.
 
 These "ciphers" can be mixed and matched to create hybrid ciphers.
 
 There are [many specific encryption algorithms for various needs](encryption-algorithms.md).
+
+To add even more security, perfect forward secrecy generates a new key for *every* transmission.
 
 ## Popular Ciphers
 

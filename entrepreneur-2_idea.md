@@ -64,7 +64,7 @@ Within the first 5 years, 90% of startups fail for the same predictable reasons:
 1. Not enough money to fund the business idea.
    - Typically, business ideas cost [much more money to start](entrepreneur-3_plan.md) than the entrepreneur originally expected.
    - The company might have a completely unprofitable model.
-   - The company may [grow too fast](entrepreneur-6_scaling.md) and implode on itself.
+   - The company may [grow too fast](entrepreneur-7_scaling.md) and implode on itself.
    - The [not-for-profit organization](mgmt-npo.md) isn't able to raise enough funds to meet minimum objectives.
 2. Inadequate necessary skills to start or maintain the business.
    - People simply don't need or want the product (42% of failures).

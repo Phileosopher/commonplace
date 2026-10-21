@@ -20,7 +20,9 @@ There are many forms of social engineering:
   - Cloud phishing sends a link to a cloud service to download a seemingly legitimate file.
   - "Smishing" uses SMS text messages, which is often to circumvent [two-factor SMS authentication](cs-infosec-authentication.md).
   - "Vishing" uses voicemail messages to provoke someone to call a phone number or go to a website.
-- "Pretexting" uses subtle appeals to reliable sources to gain that person's trust ("I'm from the FBI...").
+  - Whaling is phishing that specifically attacks members of upper [management](mgmt-1_why.md).
+  - QR code phishing (quishing) uses QR code scans to get people to visit dodgy websites.
+- "Pretexting" uses subtle appeals to or impersonations of reliable sources to gain that person's trust (e.g., "I'm from the FBI...").
 - "SEO poisoning" uses illegitimate techniques to rank higher on search engines ("search engine optimization") to get people to go to their website.
 - "Something for something" is giving something (usually free) to someone in exchange for their information.
 

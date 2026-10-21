@@ -1,7 +1,7 @@
 
 # How to work with customers as an entrepreneur
 
-In most other career domains, [customer service](people-customerservice.md) is two things: 
+In most other career domains, [customer service](people-customerservice.md) is two things:
 
 1. The art of taking their [abuse](hardship-abuse.md) with a smile.
 2. The art of delegating everything else to management.
@@ -41,3 +41,14 @@ Some people are absolutely impossible to work with.
 - Some people [completely lack empathy](mind-neurodivergence-clusterb.md) and need constant maintenance to avoid a larger altercation.
 
 At the same time, you can't stop everything, and should definitely [have a lawyer on retainer](legal-safety.md).
+
+## Price disagreements are often a good sign
+
+If your rate is too low, you will attract awful clients.
+
+- The easiest solution is to set a higher price for higher quality.
+- Naturally, if you *want* lower-quality customers then go for the low price, but cut out quality on your service instead and make it clear you're not offering high-quality.
+
+When you keep getting clients without any pushback for everything you're asking, you're charging too low.
+
+- While it varies on the industry, the ideal situation is that most of the potential customers will discuss price, then you lower it when they discuss it.

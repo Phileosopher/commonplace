@@ -48,7 +48,7 @@ To get the best deal, have a list prepared of questions for their Final Question
 
 - What [values](purpose.md) do the organization's leadership believe in?
 - Is the company profitable, [pre-revenue](entrepreneur-4_freelancing.md), or growth-minded?
-- How many [rounds of funding](entrepreneur-6_scaling-cs.md) has the organization had yet?
+- How many [rounds of funding](entrepreneur-7_scaling.md) has the organization had yet?
 - What is the *actual* title of the role you're applying for, and what do you actually *do* most of the time?
 
 Do *not* ask those questions to recruiters, only hiring managers. Recruiters won't be able to answer your question, or may try [selling](marketing-sales.md) you on a not-so-good fit.

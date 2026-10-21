@@ -18,7 +18,7 @@ However, there are downsides.
 
 - Smaller organizations rely *very* heavily on other organizations for their needs, so they're not as [safe](safety-riskmgmt.md).
 - Larger company management can typically create [small-scale units](mgmt-7_changes.md) inside their larger conglomerate to compete with you (with the comparatively endless ability to scale).
-- If you want to [retire](entrepreneur-7_exit.md) or build something that lasts beyond yourself, you *must* keep scaling.
+- If you want to [retire](entrepreneur-8_exit.md) or build something that lasts beyond yourself, you *must* keep scaling.
 
 As soon as possible, [legally separate and protect yourself](legal-safety.md) from the business and associates.
 
@@ -37,7 +37,7 @@ At some point, your small organization will *eventually* travel down several pos
 
 1. Its core market will be taken over by people more competent or efficient than you and your business will eventually fail.
 2. You'll scale upward to compete with the changing conditions and the need to safely manage your resources against a growing market.
-3. You'll [sell the organization](entrepreneur-7_exit.md), and probably start again with another [idea](entrepreneur-2_idea.md).
+3. You'll [sell the organization](entrepreneur-8_exit.md), and probably start again with another [idea](entrepreneur-2_idea.md).
 
 Even if you prefer to work alone, a successful business *needs* [other professionals'](professionals-who.md) help.
 
@@ -171,7 +171,7 @@ When you're ready to start handing off roles, learn [how to manage others correc
 As you scale upward, you'll assume increasing levels of [managerial responsibility](mgmt-1_why.md) over others.
 
 - The [scrappy personality](entrepreneur-1_what.md) that got you here may or may not work in a manager capacity.
-- Closely observe the shifts, and [leave](entrepreneur-7_exit.md) as soon as you feel uncomfortable with the new role.
+- Closely observe the shifts, and [leave](entrepreneur-8_exit.md) as soon as you feel uncomfortable with the new role.
 
 ## Scaling a tech entrepreneurship
 
