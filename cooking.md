@@ -150,6 +150,14 @@ When you're starting off, you typically only need a few basics:
 
 As much as possible, try to get utensils that have more than one use.
 
+Using a scale is far better than measuring cups:
+
+- Professional bakers write the ingredients in percentages, not in cups.
+- Stick ingredients like honey and peanut butter leave residue in measuring cups.
+- Scooping ingredients compresses it, which can weight 60g more per cup.
+- By taring between ingredients, you don't need to wash in between measurements.
+- Small quantities of spices like 1g are impossible to measure by volume.
+
 ## Keep your kitchen clean and tools working
 
 Test containers before microwaving them:

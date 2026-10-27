@@ -37,6 +37,15 @@ Use generic prescription drugs whenever possible and price-compare between pharm
 
 When cleaning your glasses, do *not* use window cleaning fluid, since it disintegrates the plastic on the lenses.
 
+Always request an itemized bill for all healthcare expenses.
+
+- Hospitals are legally required to give them within 30 days.
+- Up to 80% of medical bills contain errors like duplicate charges and wrong codes.
+
+Call the billing department and ask them directly for a prompt pay discount.
+
+If you can't afford it, the hospital is often legally required to provide charity care if you ask for it and make below $125K in a year.
+
 ### Unconventional health insurance alternatives
 
 Look into an HSA (Health Savings Account).

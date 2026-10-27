@@ -54,8 +54,6 @@ The first enciphered messages were from a few thousand years ago. Up until compu
 
 The Enigma Machine in 1925 was a very early computer designed for decrypting German military messages, and a key part of the history of [the computer's development](computers.md).
 
-Data Encryption Standard (DES) was made in 1975 by the NSA. It had a key of 56 bits, and some of its design with the small key size left academics concerned. Apparently, the NSA had designed it with a backdoor via the short number of bits, but they claimed it was a smaller cipher to break it by brute force attack. The critical response to DES was a driving force for many modern industry encryption standards.
-
 ## Philosophy
 
 In the 19th century, Auguste Kerckhoffs made a principle of cryptography that a cryptographic system must be secure even when everything about the system except the key is public knowledge. He also gave six rules for effective military ciphers:
@@ -95,7 +93,8 @@ Almost all computer-based encryption is doing the same thing:
 However, computers use several possible types of encryption systems:
 
 - Symmetric: a key encrypts and decrypts the data.
-  - This isn't used as much because the secret key holds everything necessary for a breach, but it's faster so it's used more often as a type of ECC for actual data exchange within a session.
+  - This isn't used as much to initialize a session because the secret key holds everything necessary for a breach, but it's faster so it's used more often as a type of ECC and validation for actual data exchange within a session.
+  - Ideally, symmetric encryption keys shouldn't be used more than once to avoid their improper reuse.
 - Hash: read the hash instead of the data itself.
   - Because it's fast, can be useful for bulk encryption/decryption.
   - e.g., Computer 1 encodes ABC as XYZ, Computer 2 only looks for XYZ and never reads ABC.
@@ -104,7 +103,9 @@ However, computers use several possible types of encryption systems:
   - Unfortunately, sending a key to decrypt information is also sending the means to encrypt it as well.
 - Asymetric/public-key: one key encrypts, and another decrypts.
   - e.g., Computer 1 encodes ABC into XYZ with Key 1, Computer 2 uses Key 2 to decode XYZ back into ABC.
+  - It's also called a trapdoor because one cipher can't undo the operation it just did.
   - Very useful for internet transfers (on [Layer 6](cs-networks.md)), since *anyone* can freely access the encryption key as long as the decryption key is private.
+  - It is *very* slow, however, and most modern computers need lots of computing to do it, so you can't send much data via asymmetric encryption.
 
 These "ciphers" can be mixed and matched to create hybrid ciphers.
 

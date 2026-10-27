@@ -72,6 +72,8 @@ PFAS (formerly known as PFCs) is a broad range of perfluoroalkyls and polyfluoro
 
 Cutting stone generates silica dust, which can develop silicosis in the lungs after enough exposure.
 
+Many shampoos, toothpaste, and other cleaning products use sodium lauryl sulfate (SLS) or sodium dodecyl sulfate, which kills hair follicles.
+
 ## Energy risks
 
 Beyond toxins, concentrated energy can also be dangerous.

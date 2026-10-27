@@ -118,9 +118,31 @@ You've changed as a person:
 - You're no longer happy doing the work you once loved.
 - In the course of your duties, you've found something specific you would enjoy doing for hours at a time.
 
+Your employer is starting to find evidence for firing you:
+
+- They may ask for you to start documenting expectations more clearly.
+- They may give vague criticisms without clear indications of their expectations.
+- You may see less work going toward you versus other coworkers.
+
 If you see anything unethical, you're risking your reputation every day you're there, so leave it as quickly as possible.
 
 To stay [legally safe](legal-safety.md), carefully consider any [non-compete clauses](people-contracts.md) you may have signed for your current and recent roles.
+
+## Try to avoid getting fired
+
+Being employed is a far better-looking arrangement than being unemployed, even if you're on the way to being fired.
+
+In general, you can usually prolong a difficult employment situation .
+
+Try to do everything possible to [appear busy](people-image-distortion.md) while looking for work elsewhere:
+
+- Clearly and articulately specifying duties, tasks, and expectations, then make sure to send emails that confirm verbal discussions.
+- Work steadily enough that you seem important, but never enough that you draw attention to yourself.
+- Make the appearance of working long hours by having a recorded event early in the day (e.g., meeting at 7 a.m.) and again in the evening (e.g., email at 8 p.m.).
+- Reply quickly, even if there's nothing to do.
+- Don't disagree with the manager, even if their requests are unreasonable.
+- Document absolutely everything you do (e.g., meeting notes, recap emails, agreed-upon decisions).
+- Do the work that nobody else wants to do, which makes you more difficult to replace.
 
 ## Job-hopping has pros and cons
 

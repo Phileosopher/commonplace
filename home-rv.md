@@ -63,6 +63,8 @@ Stay mindful of *all* the various systems included in an RV:
 - Holding tank (black water) - The toilet empties into a ~18-64 gallon holding tank, takes only water from the toilet.
 - Propane - runs on standard liquid propane (LP) tanks.
 
+To check your propane level, run water over the tank and feel along it for a cold spot.
+
 Even after you've purchased an RV, you'll need to get some things prepared before first using it.
 
 You may want to add features that weren't in the RV.

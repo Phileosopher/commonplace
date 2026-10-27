@@ -51,6 +51,8 @@ When cutting bread:
 
 Boil rice in chicken or beef stock instead of water.
 
+Pair oatmeal with fat to improve flavor and avoid a sugar crash.
+
 ## Vegetables
 
 Clean vegetables by sprinkling baking soda in water, soaking them, then rinsing.
@@ -72,29 +74,30 @@ Make potatoes dry and fluffy when cooling:
 
 Slice mushrooms with an egg slicer.
 
-Separate garlic easily:
+- Place them in sunlight an hour before cooking for them to absorb Vitamin D.
 
-- Place the cloves together in a covered container and shake well for the skins to separate.
-- Microwave cloves for 15-20 seconds for them to slip out of their skins.
+Garlic tricks:
 
-After chopping garlic, sprinkle in salt to bring out the flavor.
+- Separate garlic easily:
+  - Place the cloves together in a covered container and shake well for the skins to separate.
+  - Microwave cloves for 15-20 seconds for them to slip out of their skins.
+- After chopping garlic, sprinkle in salt to bring out the flavor.
+- Let it sit for 10 minutes before cooking to boost the immune system enhancing allicin in it.
 
-Onion tricks: Cut onions without tears:
+Onion tricks:
 
-- Cut off both ends of the onion and cook in the microwave for 30 seconds.
-- Chew gum while cutting onions.
-
-Slice an onion easily:
-
-1. Slice each end off
-2. Slice the onion vertically
-3. Pull off the skin
-
-Dice an onion easily:
-
-1. Cut a half-onion into vertical strips, almost through to the top.
-2. Cut strips parallel to the cutting board, almost to the top (they should look like a grid).
-3. Chop the onion cross-wise.
+- Cut onions without tears:
+  - Cut off both ends of the onion and cook in the microwave for 30 seconds.
+  - Chew gum while cutting onions.
+- Slice an onion easily:
+  1. Slice each end off
+  2. Make a vertical incision
+  3. Pull off the skin
+- Dice an onion easily:
+  1. Cut a half-onion into vertical strips, almost through to the top.
+  2. Cut strips parallel to the cutting board, almost to the top (they should look like a grid).
+  3. Chop the onion cross-wise.
+- After slicing an onion, leave it exposed to air for 5-10 minutes to enhance its anti-cancer sulfur compounds.
 
 Pepper tricks:
 
@@ -112,6 +115,8 @@ Mushroom tricks:
 - Cook mushrooms on high heat.
 - Hold off on adding salt until the end to avoid them shriveling.
 - Add onions once the mushrooms start looking shiny.
+
+Pair carrots with fat to absorb the beta-carotene better.
 
 ## Fruit
 
@@ -142,6 +147,10 @@ Evenly redistribute sugar in a pineapple by storing it in the fridge for half an
 
 Peel fruits like tomatoes and peaches by microwaving them for half a minute, then letting them cool for a few minutes.
 
+Cook tomatoes to release the antioxidant lycopene.
+
+Pair iron with Vitamin C to boost iron absorption.
+
 The best melons are the heaviest relative to their size (since they have the most juice).
 
 ## Dairy
@@ -153,6 +162,12 @@ Melt margarine or butter for a minute in the microwave instead of burning it on 
 To test if butter is real or artificial, spread it on a piece of paper and light it on fire. While real butter will smell pleasant, artificial butter will smell horrible.
 
 ## Meat
+
+Rub a potato on a grill to make it non-stick without spray.
+
+Add an ice cube to the top of hamburgers to prevent them from drying out.
+
+Skewer hot dogs in a rack to make them easier to flip.
 
 Slow cookers can cook anything to tenderness, even tough cuts of meat.
 
@@ -183,6 +198,8 @@ To dispose of grease easily:
 2. Pour the grease in.
 3. Once it dries, ball it up and throw it out.
 
+Rub an onion onto a grill to clean it without a grill brush.
+
 ## Beans/nuts
 
 Soak lentils and beans quickly:
@@ -192,6 +209,8 @@ Soak lentils and beans quickly:
 3. Let sit for 30-40 minutes.
 
 Toast nuts in the microwave for 4-5 minutes by stirring them every minute.
+
+1-2 Brazil nuts gives all the selenium you need, but too much can be toxic.
 
 ## Seasoning
 
@@ -206,6 +225,10 @@ Easy herb add-ins:
 Peel ginger with a potato peeler.
 
 Make a marinade by mixing mayonnaise into a spice mixture, and the mayo flavor will disappear when you bake the meat.
+
+## Spices
+
+Always add turmeric with black pepper to magnify the positive health effects of circumin.
 
 ## Restoring food
 

@@ -85,7 +85,7 @@ Wooden spoons:
 - Wash with cold water to avoid cooking food picked up by the spoon.
 - When odors are present, soak in a mixture of baking soda and lemon juice.
 
-Dishwasher:
+Dishwasher (dishes):
 
 - Load the dishwasher so the dirtiest dishes are in the direct path of the jets.
 - Add lemon juice to a cycle with greasy dishes to clean them.
@@ -363,15 +363,15 @@ Dirty cleaning tools:
 - Run any cleaning tools like brushes or mop heads through the dishwasher.
 - Sterilize tools by baking them in the oven.
 
-Dishwasher:
+Dishwasher (appliance):
 
-- Pour a cup of distilled vinegar into the dishwasher and run two empty cycles at max heat.
+- Pour a cup of distilled vinegar or citric acid into the dishwasher and run two empty cycles at max heat.
 - Sprinkle baking soda at the bottom and run an empty cycle with baking soda in the soap reservoir.
 - Sprinkle baking soda on the bottom, put a cup of vinegar on the top shelf, set it to the highest temperature, and turn it on.
 
 Drain cleaning:
 
-- Drop a cup of baking soda down the drain, add 2 cups boiling water, wait and pour another cup baking soda, add a cup of white vinegar, rinse with two more cups boiling water.
+- Drop a cup of baking soda down the drain, add 2 cups warm water, wait and pour another cup baking soda, add a cup of white vinegar, rinse with two more cups boiling water.
 - Weekly, put four tablespoons of baking soda down the drain, then flush with hot water.
 - Plunge, then apply a half vinegar and half baking soda solution to the drain, rinse for a few minutes with hot water.
   - When plunging a double sink, put a stopper over the other sink.
@@ -406,3 +406,7 @@ Garbage disposal:
 
 - Run used coffee grounds through it.
 - Place vinegar in an ice cube tray, let it freeze, then run them through the disposal.
+
+Oven cleaning:
+
+- Make a baking soda paste with water, spread it inside the oven, then let it sit overnight and wipe it clean the next morning.

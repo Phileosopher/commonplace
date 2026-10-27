@@ -50,3 +50,7 @@ No matter what you're poking around with, you *must* be willing to explore [Linu
 Firstly, the cost of a [Windows](cs-os-windows.md) license for that device is about as much as a low-tier Windows device.
 
 Second, Windows requires so much processing power and memory [compared to most Linux distros](cs-os-winunix.md) that the computer would run very slowly, if it runs at all.
+
+## Sample projects
+
+[BBC Micro in an ATX PC case](https://github.com/dekuNukem/RGBeeb)

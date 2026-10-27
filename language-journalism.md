@@ -1,6 +1,8 @@
 
 # Journalism summarized
 
+Since journalism is essentially professional gossip, everyone could stand to learn how it's done.
+
 True journalism is rare, and most people who go to journalism school are taught how to [distort the image](people-image-distortion.md) of things.
 
 - However, the discipline of journalism is the art of [storytelling](stories-storytellers.md), but directed at conveying stories that are both informative and interesting.
@@ -8,6 +10,12 @@ True journalism is rare, and most people who go to journalism school are taught 
 Without good journalism, the endless facts will interfere with the audience's easy [understanding](mind-understanding.md) of a [story](stories-why.md).
 
 By contrast, yellow/tabloid journalism is about [distorting an image](people-image-distortion.md) to maximize viewership or advance an [agenda](purpose.md) by whoever pays them.
+
+Sadly, any influence by most journalism is actually the journalists being influenced:
+
+1. Unless the journalist is paid separately (e.g., a corporation), the journalist [business model](business-show.md) requires more attention (either directly through donations or indirectly through [advertisements](marketing.md)).
+2. Since they're seeking others' attention, they will win in the [free market](money-economics.md) by giving exactly what people want, at the expense of any [principles](values.md).
+3. Over time, they will do exactly what the public demands as a matter of [habit](habits.md).
 
 ## Starting with facts
 
@@ -32,11 +40,21 @@ Conventional journalism tries to condense the facts as much as possible:
   - Describe the course of events that led up to the current event.
   - Most of the time, yellow journalists will express events as if they were in a vacuum (e.g., a "lone gunman").
 
+Unless there is a major risk to the safety of your source, *always* cite your source.
+  
+Hold the presentation dominantly to the facts.
+
+- If you have any open speculations, provide the counter-speculation as well.
+  
 If you're trying to draw attention and details than how the story forms, use the journalists' Inverted Pyramid:
 
 1. Start with the most newsworthy information: Who? What? When? Where? Why? How?
 2. Give important reinforcing details
 3. Provide other general and background information
+
+To enhance audio, use natural pops, but only ethically.
+
+- Most "nat pops" in modern journalism add gunfire, screaming, loud noises, and military equipment to imply far more severity than reality.
 
 Due to [marketing](marketing.md) reasons, the temptation to [distort the image of the truth](people-image-distortion.md) is far too great to ignore.
 

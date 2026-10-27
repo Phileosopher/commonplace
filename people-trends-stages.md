@@ -247,3 +247,15 @@ Sometimes, a trend-resistant [organization](groups-large.md) (e.g., [education](
 - William Shakespeare's works are dry and dull for us to read. In his time, they were full of pop culture references, slang, base [humor](humor.md), and silly [stories](stories-why.md).
 - Poetry was once a song and dance, more like our modern-day rock concerts. Somewhere in between, [educators](education.md) removed the performance aspect and translating [languages](language.md) removed the rest of any flow it would have had.
 - Most classic films and music were the [best-quality](values-quality.md) offerings of a relatively homogeneous spread at the time they were [created](creations.md). We look at them as original because nobody imitates that style anymore, but most of them were just doing a [good job](results.md) at standard practice for the time.
+
+APPLICATION: Civilizations run through a cycle, first stated by Gustave Le Bon:
+
+1. A bunch of scattered individuals living near each other.
+2. The group builds unity through a shared ideal.
+3. Civilization naturally forms.
+4. There is a [creative](mind-creativity.md) peak where they produce tremendous prosperity.
+5. The ideal weakens and the collective purpose is replaced by egoism.
+6. The State absorbs all of society's functions.
+7. The people revert to a mob and infighting returns.
+
+APPLICATION: As of the 2020s, society is falling apart, but that's okay. 30-year-olds in the USA who are married and own a home have dropped from 52% in 1960 to 12% in 2025, and there are many trades desperately asking for workers, but many people refusing to work. However, this has happened before, and society will eventually rebuild when everyone rallies behind a shared vision again.

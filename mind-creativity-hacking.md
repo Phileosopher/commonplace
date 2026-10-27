@@ -60,6 +60,7 @@ Exploiting official rules:
 
 - [Wisconsin's Democrat Governor vetoed individual letters to turn school funding until "2024-2025" to be until "2425", effectively funding schools for four centuries](https://www.usatoday.com/story/news/education/2023/07/05/400-years-of-education-funding-for-wisconsin-schools/70385428007/)
 - [People on social media are trading stocks according to what elected members of Congress are doing](https://text.npr.org/1039313011)
+- [That Time the City of Seattle Accidentally Gave Me 32m Emails for 40 Dollars](https://mchap.io/that-time-the-city-of-seattle-accidentally-gave-me-32m-emails-for-40-dollars4997.html)
 
 Exploiting financial rewards:
 
@@ -109,6 +110,7 @@ Reviving old technology:
 - [Reviving the Pakon film scanner](https://ktkaufman03.github.io/blog/2022/09/04/pakon-reverse-engineering/)
 - [Game Boy Camera Canon EF Mount](https://ekeler.com/game-boy-camera-canon-ef-mount): adding a telephoto lens to an old video game feature
 - [Driver adventures for a 1999 webcam](https://blog.benjojo.co.uk/post/quickcam-usb-userspace-driver)
+- [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 
 Thoughtful gestures:
 
@@ -159,9 +161,10 @@ Re-engineering:
 Adding design to otherwise overlooked experiences:
 
 - [Command & Conquer Red Alert installation program](https://www.youtube.com/watch?v=Ri-VlJVxc-g) - a stylistic way to install programs
-- [Willard Wigan](https://www.willardwiganmbe.com/) and [Jon Almeda](https://www.instagram.com/almedapottery/) - microscopic designs
+- [MineGRUB Theme](https://github.com/Lxtharia/minegrub-theme) - adding a Minecraft theme to an otherwise-boring GRUB bootloader
 - [Trimble GPS receiver](https://mastodon.sdf.org/@keelan/111349948124943603) - a fun way to market 1993's revolutionary new [GPS technology](logistics-navigation.md)
 - [wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) - 16 bytes of code to create an audio/visual experience
+- [Willard Wigan](https://www.willardwiganmbe.com/) and [Jon Almeda](https://www.instagram.com/almedapottery/) - microscopic designs
 
 Changing what everyone expects to stay the same:
 

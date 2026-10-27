@@ -1,41 +1,7 @@
 
 # Large-scale infosec compliance
 
-To keep computers safe across an organization, information security professionals uses a Governance, Risk, and Compliance (GRC) framework to create and manage processes within an organization.
-
-## Risk Management
-
-Since it's absolutely impossible to track every risk, there's a simple-enough structure to assess if that risk is worth the work:
-
-1. Examine all possible vulnerabilities, which are things with some asset value that could be easily exploited.
-2. Examine all threats, internal and external, that could use those vulnerabilities. This includes malicious and accidental, with some indication of the threat actor or threat vector.
-3. The risk is the likelihood of the exploit, multiplied by the impact it would have on all affected systems.
-
-NIST created its Risk Management Framework (RMF) to put [risk management](safety-riskmgmt.md) systems in place and test to be sure they work:
-
-1. Prepare - everyone should [be aware](mind-awareness.md) changes will be happening.
-2. Categorize - [organize](organization.md) how the system processes, stores, and transmits information and conduct a risk assessment.
-3. Select - choose the controls that will protect the system based on the risk assessment.
-4. Implement - carry out the controls and document what happens.
-5. Assess - examine if the controls are in place, operating as intended, and creating desired results.
-6. Authorize - the group leader makes a risk-based decision to authorize the system to operate.
-7. Monitor - continuously monitor the implementation, as well as any further risks to the system.
-
-Generally, since some of the measures can cost a lot of money and don't affect profitability directly, most companies won't invest in a risk management solution until they learn the hard way.
-
-- However, a well-maintained infosec policy can be more effective at protecting an organization than an [insurance policy](money-insurance.md).
-
-Broadly, the collective system that protects the computers is called Unified Threat Management (UTM).
-
-The weakest link in every single cybersecurity system are the employees:
-
-- Unlike computers, [humans](humanity.md) make non-deterministic mistakes all the time.
-- When they're performing a [habitual](habits.md) task, they're often [unaware](mind-awareness.md) of what's going on.
-- They are the most susceptible to [social engineering](cs-infosec-socialengineering.md).
-
-While it's more affordable and productive to have a "bring your own device" (BYOD) strategy, that policy opens up a wider attack surface from all the varieties of factors that can't be controlled.
-
-- At that point, expert security professionals will retreat to emphasizing network and app security.
+To keep computers safe across an organization, information security professionals uses a Governance, [Risk](cs-infosec-riskmgmt.md), and Compliance (GRC) framework to create and manage processes within an organization.
 
 ## Background verification
 
@@ -46,10 +12,18 @@ To ensure a trustworthy system, all users must sign Acceptable Use Policies (AUP
 
 ## Threat modeling
 
+Attacking a computer requires a completely different setup than [defending it](cs-infosec.md), and it borrows many of its ideas and concepts directly from [wartime tactics](people-conflicts-war-why.md).
+
+There are several color-coded teams within cybersecurity:
+
+- "Red Team" and "Blue Team" are borrowing from the military, with red team attacking and blue team defending.
+- White team is separate and neutral, with the role to observea nd sometimes referee the other teams.
+- Purple team is a combination of red and blue team, and they work as a single unit to engage, meet success criteria, debrief, cross-train, and repeat.
+
 With enough skill and education, a skilled cybersecurity professional can stop most [PenTesting](cs-infosec-pentest.md) efforts.
 
 1. They create "threat models" of how a PenTester will attack.
-2. They test that threat model by giving the work off to a "red team" while they play the role of "blue team".
+2. They test that threat model by giving the work off to a red team while they play the role of blue team.
 3. Then, they'll constantly improve their efforts to block off the red team.
 
 However, it's impossible to stop everything, *something* will fail, and *someone* will gain access.
@@ -67,10 +41,10 @@ Further, there's always the possibility of the blue team being incapacitated, wh
 
 One of the most profound uses of [machine learning](cs-ai-ml.md) comes through more easily training the data on normal behavior within an organization. After the model is trained on typical user access and behaviors, it can *very* easily find odd behaviors that deviate from that norm.
 
-However, things are guaranteed to still slip through, so the best policy is to *assume* compromised systems, then create policies assuming those events will happen.
+However, things are guaranteed to still slip through, so the best policy is to *presume* compromised systems, then create policies assuming those events will happen. This is called defense in depth (DiD).
 
 - The legality and safety of the organization can often sit on the nuanced difference in IP address or choice of [protocol](cs-standards.md).
-- In other words, assume the "disaster recovery plan" *will* be used.
+- In other words, assume the "disaster recovery plan" *will* be used, and have a procedure for it.
 
 All of these security policies must be subject to security audits to be sure they actually work. Further, when an event happens, there's plenty of [bureaucracy](bureaucracy.md) in following up and documenting everything that happened.
 
@@ -122,7 +96,7 @@ Among these standards, the US National Institute of Standards and Technology (NI
 - Respond: for when things fail or are stolen, to act to mitigate the damage
 - Recover: for when things fail or are stolen, to bring things back online
 
-## Risks from Rules
+## Risks from rules
 
 Managing [cybersecurity](cs-infosec.md) for large organizations is vastly complicated compared with [individually-focused security](safety-security.md).
 

@@ -5,6 +5,13 @@ Visual design creates a user experience (UX) that designates how people [underst
 
 Good design contains a *lot* of psychology because users create models in their mind of how something is supposed to work, so it dovetails with most of our [cognitive biases](mind-bias.md).
 
+In practice, all good design has four major principles:
+
+1. The system's users are the main focus of the design process.
+2. The root problem is solved, not just the symptoms.
+3. The designer considered the system's interactions with various components, not just one part.
+4. Prototyping and testing on any changes shifts slowly and steadily relative to the user.
+
 Throughout all good design, a few traits perpetually resonate:
 
 1. The product itself uses both knowledge of the world and knowledge in the users' minds.

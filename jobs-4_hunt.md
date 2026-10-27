@@ -417,6 +417,25 @@ If something seems too good to be true, it probably is:
 - A great-looking job description can often embellish the truth or hide unfortunate elements of the work environment
 - If a job that appears repeatedly on job boards, the hiring manager is likely having trouble finding a legitimate, consistent worker.
 
+## Expect awful behavior
+
+Many hiring organizations are staffed by certifiable [psychopaths](mind-neurodivergence-psychopath.md).
+
+- They often have no [ethics](morality.md) whatsoever.
+- However, you usually can't know this until you've started [interviewing](jobs-5_interview.md) with them.
+
+Many things that would make sense for sane people don't make sense for psychopathic managers.
+
+- When you're overqualified or have a vast job history, they'll see you as a flight risk, since they expect you'll look elsewhere as soon as you get bored.
+- When you're overqualified, you'll be too expensive for their preference.
+- If you're self-confident, they won't be able to coerce you into debatable business practices that serve their interests.
+- While your experience would normally mean your work would be high-quality, it could create upside-down reporting relationships or tensions with authority later, as well as others in the organization feeling threatened by someone else who is very experienced.
+- Being older and [more mature](maturity.md) can create age discrimination due to unresolved issues with their [parents](parenting-children.md).
+
+In other words, the ideal candidate in many organizations is not particularly intelligent, easily suggestible fiercely and uncompromisingly loyal to the organization, and practices poor [boundaries](people-boundaries.md).
+
+- If you're fortunate to work in an organization that *isn't* seeking minion candidates, you've found a commendable and rare institution.
+
 ## Get ready for the next stage
 
 Networking can be tedious, but most job-hunting failure stories happen at [the interview](jobs-5_interview.md).

@@ -3,7 +3,7 @@
 
 The history of passwords traces back to military messaging. In a [war](people-conflicts-war.md), military leaders must communicate, but without the enemy seeing that communication. The same philosophy holds true with protecting computer information, and is a critical subdomain of [keeping computers safe](cs-infosec.md).
 
-The entire concept of computers is a cascading onion based on the principle of least privilege. In theory, any authorized user or application should be given the minimum possible access necessary to perform tasks. This means that, without explicit permissions granted by the system, it's an implicit deny.
+The entire concept of authentication is a cascading onion based on [the principle of least privilege](cs-infosec-riskmgmt.md). In theory, any authorized user or application should be given the minimum possible access necessary to perform tasks. This means that, without explicit permissions granted by the system, it's an implicit deny.
 
 - Just-in-Time (JIT) access goes further to only give access to resources when needed, and only for as long as it takes to finish the task.
 - In practice, this is rarely the case, and for convenience most OS design is built around "least inconvenience" more than least privilege, where a user is given restricted access, and then enters a credential to give full-blown access to the entire system.

@@ -38,6 +38,18 @@ Spiritual exercises are essentially the works-based portion of faith (James 2:14
 - Not even your *style* will be quite the same as anyone else's.
 - It's your own specific friendship and [identity](people-identity.md) in Christ, so it's a private matter between you and Him.
 
+Spiritual exercises are composed of three major domains, which are all necessary to grow in Christ (2 Peter 1:5-11).
+
+1. Emotional and spiritual intimacy are a necessary part of having a [friendship](people-friends.md) with God.
+   - Without it, we devolve into the false doctrine of Christian Stoicism.
+   - However, by itself it becomes the false doctrine of emotionalism.
+2. Theological and philosophical understanding is necessary to [understand](mind-understanding.md) God at all.
+   - Without it, we devolve into the false doctrine of moralistic therapeutic deism.
+   - However, by itself it becomes the false doctrine of intellectualism.
+3. We need rituals and rhythm to have a long-lasting, sustaining connection with God.
+   - Without it, we devolve into the false doctrine of experientialism.
+   - However, by itself it becomes the false doctrine of mindless discipline.
+
 The attitude toward spiritual exercises applies to absolutely *everything* (1 Corinthians 10:31).
 
 ## Awareness
@@ -58,7 +70,7 @@ In general, track wherever you may be missing parts of your spiritual journey:
 
 1. Have you focusing on God's activity in your life and listening to Him on a regular basis (Psalm 46:10)?
 2. Are you cultivating your knowledge of God, Christ's character, and the Spirit's presence (John 16:5-15)?
-3. Are the things you say reflecting your position as a child of God the King (i.e., seeking [reconciliation](people-conflicts.md), peace, and [justice](morality-justice.md)) [Matthew 5:9?
+3. Are the things you say reflecting your position as a child of God the King (i.e., seeking [reconciliation](people-conflicts.md), peace, and [justice](morality-justice.md)) (Matthew 5:9)?
 4. Are you connecting with God and others in a caring community (Hebrews 10:25)?
 5. Are you avoiding unhealthy connections with others (1 Corinthians 15:33)?
 6. Are you contributing yourself and [God-given gifts](spiritual-gifts.md) for growing the Kingdom of Heaven (Colossians 3:23)?
@@ -68,12 +80,13 @@ In general, track wherever you may be missing parts of your spiritual journey:
 
 ## General sin-purging
 
-Grab [any particular sin](theology-sins.md) you still might struggle with:
+Focus on casting off [any particular sin](theology-sins.md) you still might struggle with (Hebrews 12:1-2):
 
 1. At the beginning of the day, only focus on identifying when your sin happens.
    - Don't worry immediately about changing it, since it's a challenge to simply become [aware](mind-awareness.md) of sins.
 2. Throughout the day, write down the time the sin arose in your mind.
 3. At the end of the day, [analyze](logic.md) what triggered those sins and consider how to [reprogram your habits](https://adequate.life/habits/) (e.g., sidestep the triggers altogether).
+   - We are frequently using [substances](addiction-substances.md) to self-medicate [trauma](hardship-ptsd.md) we haven't released to Christ.
 4. Repeat for the next day, as long as you keep struggling with that sin.
 5. Add habits as you need strengthening:
    - Focus more intently, hour by hour and minute by minute.
@@ -84,6 +97,12 @@ Focus on sins as they happen, but go further:
 
 - We usually observe a sin when we do it, then stop it at that moment.
 - Focus more heavily on sinful [habits](https://adequate.life/habits/) and long-term patterns, and devote yourself to never letting it happen again.
+  - Environmental hardship (e.g., social pressures).
+  - Environemntal distractions (e.g., status symbols).
+  - Environmental obligations (e.g., responsibilities and constraints).
+  - Internal distractions (e.g., mental escapes, ideas outside Scripture).
+  - Internal barriers (e.g., vices, bad habits).
+  - Internal split allegiances (e.g., nostalgic desire for what had existed before).
 - Make sure God is part of that inner dialogue, and [ask for His help](spiritual-exercises-prayer.md) as you go.
 
 Focus on responding *much* more slowly to literally *anything*.
@@ -103,11 +122,16 @@ Worship is etymologized as "worth-ship", meaning giving worthiness to God.
 
 Devote yourself to daily activities that give glory to God.
 
+- Each day, focus on speaking with Jesus before talking with anyone, reading anything, or doing anything else.
 - Protestants tend to aim for the highest quality of worship.
   - The effort is to give the best of what you have through singing, prayer, and attention (i.e., a high-quality worship service).
   - This shows in a more devoted service.
 - Catholics tend to aim for the highest reverence to God.
   - The effort is to give God the highest sacrifice possible (i.e., high-quality Eucharist and traditions).
+
+We are often worshiping gods without realizing it.
+
+- While we don't call it worship, trusting manmade institutions (e.g., Big Pharma, your workplace) is reproducing the worship of the ancient gods in temples.
 
 ## Simple prayers
 

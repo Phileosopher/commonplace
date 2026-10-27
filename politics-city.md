@@ -82,6 +82,16 @@ The climate of a region defines more than almost anything else. Unbearable weath
 
 Once the [technology](technology.md) of a group becomes large enough, the [group](groups-large.md) can connect and meet across an extremely vast region. However, it never *entirely* removes the need for geographical closeness.
 
+## Infrastructure development
+
+People need utility services, and most utility will run alongside public roads.
+
+Hardening the grid requires millions of dollars per mile, and years of planning, and often gives very slow visible progress.
+
+- Hardening is about delivering the utilities, not about the supply.
+  - However, it makes political sense to drop new supply, since it's easier and cheaper to install a wind or solar farm than he power lines to connect it to a civilian region.
+- Use maps, schedules, and outage targets to prove the hardening.
+
 ## Traffic management
 
 At some point, stop signs are inadequate for traffic.
@@ -110,7 +120,11 @@ The most reliable solution to traffic congestion involves adding new highways an
 - To ensure the public's adoption, these roads must be vastly superior to the side roads.
 - Inside the city, avoid using toll roads or the public won't adopt it unless their lifestyle justifies it.
 
-The most complex solution to traffic congestion, and by far the proven worst option, is to socially engineer mass transit.
+Traffic creates a lot of noise, so the ideal is to create natural barriers to prevent the noise from disrupting everyone else's lives.
+
+- By using an elevated berm with foliage on it, the area behind it will sit within a shadow zone where noise doesn't travel.
+
+The most complex solution to traffic congestion, and by far the proven worst option in any population that isn't hyper-densely living close together, is to socially engineer mass transit.
 
 - All forms of mass transit are expensive to build and maintain.
   - Buses are the cheapest, but require a fleet with driver staff and support staff.
@@ -121,3 +135,16 @@ The most complex solution to traffic congestion, and by far the proven worst opt
   - Most people who have money will opt to drive or take a taxi.
   - The poorest people will typically not pay for mass transit when the fare is at-cost.
 - Develop mass transit as the demand arises (e.g., city council complaints, focus groups).
+
+## Old buildings
+
+It costs quite a bit to declare older buildings historical, but without that declaration it's a guarantee that the [underclass](people-classes.md) will move into the older real estate and lower property values further.
+
+- Urban decay is an unavoidable reality, and there's really nothing you can do to stop it.
+
+By condemning buildings that aren't up to code, the problem can go two different directions.
+
+- The tenants or new tenants will update the building, thereby reducing the risk of hazards and overall improving the community.
+- If the building is in a lower-demand area, the building may stay vacant. This will invite many transients to use the building and overall harm the community without additional policing.
+
+Updating old buildings to modern standards (gentrifying) can work to some degree, but it requires a *lot* of policing to ensure the crime rate doesn't drive off potential tenants.

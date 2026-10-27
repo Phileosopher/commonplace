@@ -268,6 +268,8 @@ FOR EACH functions allow loops over arrays. The loop will run across the array, 
 
 This can be *really* useful for lots of data. You can count the data that matches something, or make the computer do something related to where that data is stored (like modifying the previous values or incrementing the data).
 
+To deal with specific contexts, a logical test can create a branch from the original loop, with the end of the instruction reverting back to the original loop's start again.
+
 ## More information
 
 [freeCodeCamp](https://freecodecamp.org/) made [a high-quality 2-hour video](https://www.youtube.com/watch?v=zOjov-2OZ0E) that I nearly copied verbatim.

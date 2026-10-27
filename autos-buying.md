@@ -247,4 +247,4 @@ It's also not uncommon to inherit a car from someone else.
 
 Before getting rid of an old car, consider repurposing it as one of your children's first cars, a commuter vehicle or a recreational vehicle.
 
-- It can be very convenient and affordable to have a commuter vehicle as your primary, with a second vehicle you can [work on](autos-repair.md) in your leisure time.
+- It can be very convenient and affordable to have a commuter vehicle as your primary, with a second vehicle you can [work on](autos-fix.md) in your leisure time.

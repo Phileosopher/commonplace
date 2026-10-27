@@ -108,6 +108,11 @@ However, beyond the above concepts about how dumb they are at tasks, there are s
 
 In particular, the uncanny valley can deter the public at large, since they're conditioned against it further through the genre of horror [stories](stories-storytellers.md) and spend more time among other humans than most roboticists do. Human expressions are vastly complex, with precise timings and exceptions for absolutely *everything*, and robots simply [can't compete with the intuition required](cs-ai.md) to accomplish something that could pass as human.
 
+The psychological implications of robots also create other issues with how people interact with them.
+
+- For every WALL-E or Johnny 5, there is a Terminator or M3GAN that horrifies people.
+- Like with [AI](cs-ai.md), people anthropomorphize robots to where working with them is never entirely straightforward.
+
 ## Economics
 
 Like all other [technology](technology.md), robots have a more profound effect than people who discredit them believe, but that profound effect happens over longer periods than the apologists would be quick to assert.

@@ -44,7 +44,19 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Never permitting any system to get to 100% utilization or capacity.
 - Terminating meetings at least 10 minutes earlier than future scheduled meetings.
 
-## Survival Basics
+## Ready availability
+
+Always have a few items *very* close to you (in your car, workspace, or on your person):
+
+- Spare clothing (work clothes, warm weather, professional attire)
+- Basic toiletries (deodorant, toothbrush with toothpaste, dental floss, breath mints/gum, hand sanitizer)
+- Snacks (preferably heat-resistant with a long shelf life)
+- Reading material
+- Electronics supplies (headphones, extra phone charger, laptop charger)
+- Notebook and pen
+- Cash
+
+## Survival basics
 
 - Have a sufficient group of [friends or family](people-friends.md) you're in steady contact with.
 - Maintain [cooking](cooking.md) skills.
@@ -52,19 +64,29 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Have a [skill](jobs-1_why.md) that's both [marketable](marketing.md) and [in demand](money-economics.md).
 - Have a well-maintained [means of conveyance](autos.md) to acquire goods you require, as well as a backup plan if it fails.
 - Keep a journal of all health issues, and report them to your doctor immediately.
+- Always protecting yourself in any tasks that could cause a hazard (ladders, fall protection, lockout/tagout, eye and face protection, etc.).
+- Avoiding dangerous locations without proper protection (e.g., radon, mold, confined spaces).
 
-## Mental Basics
+## Mental basics
 
 - [Inner conflicts](people-conflicts-inner.md) aren't enough to interfere with [creating results](results.md).
 - Have [inner peace](mind-feelings-happiness.md) that's free of risk management thoughts.
 - No chance of being overwhelmed by a steady flow of [information](information.md).
 
-## Long-Term Survival
+## Health basics
+
+- [Exercising](body-exercise.md) enough to not cause a health issue.
+- [Dieting](body-diet.md) well enough to not cause a health issue.
+- Avoiding [toxins](body-health-toxins.md) in severe enough quantities that could harm the body.
+- Away from high-dust areas.
+- Never near sounds surpassing 120 dB for 30 seconds, 100 dB for 15 minutes, or 85 dB for 8 hours.
+
+## Long-term survival
 
 - Have all your [money-based](money-accounting.md) paperwork together.
 - If any risk is likely, have a clear [plan](mind-imagination.md) for the next step after it happens.
 
-## Crisis Preparation
+## Crisis preparation
 
 - [Budget](money-3_budget.md) for emergencies.
 - Install safety fixtures (e.g., fire extinguisher).
@@ -72,7 +94,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Prepare mentally for [specific survival situations](hardship-disaster-survival.md).
 - Always work with recommended safety equipment.
 
-## Financial Protection
+## Financial protection
 
 - Have sufficient [insurance](money-insurance.md) policies to protect all your financial risks.
   - Auto
@@ -98,7 +120,7 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Have [some type of business relationship](professionals-who.md) for every [specialization](jobs-specialization.md) you may need that you're not an expert in yourself.
 - Your service providers are [aware of the grander purpose](https://gainedin.site/idiot/) of why they perform the service.
 
-## Protecting From Conflicts
+## Protecting from conflicts
 
 - Behave [appropriately](people-rules.md) and [tactfully](people-3_respect.md) with everyone.
 - Have experience [defusing conflicts](people-conflicts.md).
@@ -108,14 +130,14 @@ Most of this checklist revolves around the [security](safety-security.md) from a
 - Never [agree](people-contracts.md) to anything unless you're [fully certain](mind-understanding-certainty.md) you can fulfill it.
 - All your [agreements](people-contracts.md) are with people who [stay legally safe](legal-safety.md) and live [morally](morality.md).
 
-## Protecting From Malicious People
+## Protecting from malicious people
 
 - Keep your computer [safely maintained](cs-infosec.md).
 - Keep your personal information private, from [scammers](cs-infosec-socialengineering.md) and [Big Tech](cs-bigtech.md).
 - Keep a portable firearm, with experience using it.
 - Always have a bodycam and [auto](autos.md) dashcam equipped.
 
-## Protecting From The Unknown
+## Protecting from the unknown
 
 - Low enough stress that won't cause a [health issue](body-health.md).
 - Prepared for the [collapse of society](hardship-disaster-2), either through [stockpiling and prepping](hardship-disaster-3_long-stay.md) or [staying mobile](hardship-disaster-3_long-go.md).

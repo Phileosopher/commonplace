@@ -386,6 +386,10 @@ Add a few routine things to your daily diet:
   2. Add 1/2 to 1 cup honey
   3. Take 1 tbsp daily
 
+Over the age of 50, creatine is very important for assisting in metabolic healing.
+
+- Creatine is essentially adenosine monophosphate, and the body naturally produces it from proteins, which bonds with adenosine diphosphate (ADP, or lactic acid) to make it adenosine triphosphate (ATP), which is what the body naturally uses for energy.
+
 Don't easily trust things that have *severe* risks associated with them:
 
 - Cannabis (marijuana) has been proven to bring some cancers into remission, but is also linked to *severe* brain damage and mental disorders.

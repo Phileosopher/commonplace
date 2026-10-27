@@ -18,6 +18,8 @@ There are really only 3 major reasons people use these methods:
 
 Experts at distorting appearances are frequently good at [predicting](mind-imagination.md) what will happen, and regularly do it prematurely before adverse consequences happen.
 
+These aren't limited to [language](language.md), and can represent through any form of [media](art-media.md), including photos and video.
+
 To detect these more easily, it takes several steps:
 
 1. Know their [purpose](purpose.md) for expressing something

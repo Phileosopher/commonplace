@@ -37,6 +37,11 @@ APPLICATION: The effort connected to the social classes depends heavily on how m
 
 Even in [social groups](groups-large.md), the class divide demonstrates itself. However, it often represents based on that organization's [purposes](purpose.md) (e.g, general intelligence at a [college](education.md), perceived [piety](morality-virtue.md) in a church, [productivity](success-4_routine.md) in a workplace).
 
+[Political activism](politics-conservativeliberal.md) among the classes most defines through populism, where politicians pit the majority against the upper class. This is done with two major methods:
+
+1. Portray the "elite" as an absurdly wealthy, carefree class of bankers, royalty, and billionaires who scheme to oppress the underclass.
+2. Promise to give something free to the underclass, either through lowering taxes for them or giving them entitlements.
+
 ### Underclass
 
 There's always a class with very little [power](power.md) to do much. They could be poor, [young](maturity.md), unimportant, or simply new to the group.
@@ -209,3 +214,8 @@ APPLICATION: The social expectations and use of things vary heavily by each clas
 Due to their sheer numbers, the true [political power](power-types.md) comes from the majority class (the underclass in past societies and the middle class in [modern ones](https://gainedin.site/here-america/)). All they would ever need to do is stop their [economic activity](money-economics.md) to make everything come to a grinding halt.
 
 APPLICATION: If things get bad enough (and history has shown it can, such as the Roman Empire), the people can abandon their roles and render everyone in charge completely helpless. This never happens except under true societal [hardship](hardship.md), though, because it would also guarantee [anarchy](politics-systems.md) and risk [an invasion from foreigners](people-conflicts-war-why.md).
+
+There is one political reality that is very [taboo](morality-taboo.md) to discuss:
+
+1. By utterly removing the top 2% of the people (i.e., the ultra-wealthy), every functional social system would completely collapse due to the extreme tax burden they carry.
+2. By utterly removing the bottom 2% of the people (i.e., the ultra-poor), the world would improve dramatically due to the general [criminal](legal-crimes.md) mindset regarding most of them.

@@ -84,6 +84,18 @@ To take rivets off:
 
 In an emergency situation, you can strike a starter on the solenoid portion (the smaller cylinder) for it to run long enough to get it serviced.
 
+When brakes are making noise, the noise comes from vibration, but it could be from a variety of sources.
+
+- It might be worn brake pads, brake hardware, or brake rotors.
+  - Brake pads have a warning strip that emits a high-pitched squealing when they're thin.
+- However, it could also be something that got onto the brakes (e.g., sand).
+- Sometimes, it may simply be rust.
+- In general, pay attention to the context:
+  - A steady whine is probably the brake strip and it's time to change the brakes.
+  - Rhythmic noise that changes with the speed of the vehicle is probably the rotor (e.g., warped) or something on the rotor.
+  - If the noise goes away after a while, it may have been something on the brake.
+- The brakes should be wearing down approximately evenly on both sides, but there may be other issues (e.g., alignment) if not.
+
 ## Technological Problems
 
 The newer design features in autos have created issues for many drivers:

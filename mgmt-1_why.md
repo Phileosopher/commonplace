@@ -30,6 +30,19 @@ Like [success](success-1_why.md) and [investing](money-investing.md), there's a 
 - The formal [culture](people-culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
 - Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
+Peter Drucker very succintly described ten laws of management that deeply capture the way to do it:
+
+1. The purpose of business is to create and keep a customer.
+2. Results are gained by exploiting opportunities, not by solving problems.
+3. There is nothing so useless as doing efficiently what should not be done at all.
+4. What gets measured gets improved.
+5. Culture eats strategy for breakfast.
+6. If you want something new, stop doing something old.
+7. Management is doing things right. Leadership is doing the right things.
+8. Efficiency is concerned with the inside. Effectiveness is concerned with the outside.
+9. The best way to predict the future is to create it.
+10. Knowledge has to be improved, challenged, and increased constantly. Or it vanishes.
+
 ## Qualifications
 
 Anyone can be a manager if they're given the role, but *leaders* direct people toward a [purpose](purpose.md) and help them accomplish it.

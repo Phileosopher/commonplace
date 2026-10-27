@@ -78,6 +78,16 @@ The domains of security break apart into many other subdomains:
 - Locks and their mechanisms protect against breaches of physical things.
 - Most domains of [risk management](safety-riskmgmt.md) are [specialized](jobs-specialization.md) towards at least *some* aspect of the philosophies driving a security mindset.
 
+## Privacy
+
+The best solution for most risks is anonymity.
+
+- When you don't look like a high-profile target, malign actors will often target your neighbors before you.
+
+All the rules of [basic street smarts](safety-streetsmart.md) apply.
+
+If you don't want your license plate to be tracked, spray reflective finish spray paint on it.
+
 ## Deterrence
 
 Any security system, of any type, can't 100% stop things.

@@ -126,6 +126,7 @@ You can sometimes get a house for a *fraction* of what you'd normally pay:
 - Your family or friends may want to quickly sell and leave a house.
 - Banks will sell foreclosed homes for a reasonable price.
 - You can take an assumable loan (someone gives you the remainder of the loan along with the deed to the house) from anyone, even when they're not on the market.
+- Email the county tax assessor to get the delinquent tax roll (which is public record), then filter the list back 2-4 years to find homes, then search that person's phone number online to contact them and offer them half of what the tax website says it's worth.
 
 Typically, to secure financing, you'll also have to get Private Mortgage [Insurance](money-insurance.md) (PMI) for the lender to trust their investment towards you.
 

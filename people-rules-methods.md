@@ -92,6 +92,16 @@ The most dramatic form of physical punishment.
 
 Most forms of torture connect to the psychological evoking of [fear](mind-feelings-fear.md) in someone's mind, while a few of them (e.g., flogging) are meant for public [humiliation](mind-feelings-shame.md).
 
+## Public shame
+
+A highly effective method of making a spectacle out of someone.
+
+- This may be part of a death penalty (e.g., drawn and quartered) or simply to humiliate someone (e.g., tarring and feathering).
+
+However, this actually works more effectively than most other corporal punishment.
+
+- In ancient Greece in Miletus, there was a high-profile suicide by a young woman that sparked an epidemic of suicides. The leader of the city was able to halt the epidemic by decreeing that the next suicide would be stripped naked and left hanging in the city center to be leered at and rot.
+
 ## Exile
 
 Ejection from the group, sometimes forcibly.

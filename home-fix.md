@@ -40,6 +40,20 @@ Saws:
 - Hack Saw: for cutting most materials
 - Wood Saw: for cutting wood
 
+## Handy tricks
+
+To screw in an awkward screw, place the screw on the driver and then stab a piece of duck tape through the screw and secure to the driver.
+
+You can unscrew a stripped screw with a drill by removing the bit and clamping the bit holder onto the screw itself.
+
+To remove rust, soak in vinegar.
+
+Glue a small bubble level onto a power drill to easily line up holes.
+
+To measure the depth of a hole, use electrical tape on the drill bit itself.
+
+To cut a perfectly parallel line along an edge, attach the knife to a measuring tape and hold the tape along the edge while cutting.
+
 ## Restore things
 
 Chrome polishing:

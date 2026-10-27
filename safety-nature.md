@@ -194,6 +194,12 @@ The easiest, sturdy-enough shelter simply involves leaning branches up against a
 
 - Make sure you don't have old, rotting wood with swarms of bugs inside it (though that wood may be a good source of food).
 
+Make simple mosquito repellant:
+
+1. Add some coffee to a piece of foil or bowl.
+2. Light the top of the coffee until it starts smoking.
+3. The smoke will stay lit for hours and repel mosquitos.
+
 ## Fire
 
 Fire provides heat for shelter, cooking for food, a signal, and helps to sterilize things.

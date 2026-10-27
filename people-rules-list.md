@@ -314,6 +314,7 @@ Tipping is a bizarre, complicated ritual:
   - If you stand listening to someone playing music on the street, you owe them a dollar for a tip.
 - Many businesses in the USA use tipping to justify under-paying their employees, so tipping has now become almost a [political](politics-conservativeliberal.md) discussion.
   - If you want to tip in the USA, make sure you use an exact dollar amount, since most percentage calculators on screens are programmed incorrectly in the service provider's favor.
+- The easiest way to split a tip with friends is to use a third-party payment processor (e.g., Venmo, PayPal).
 
 Honor bathroom etiquette:
 

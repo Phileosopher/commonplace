@@ -10,6 +10,12 @@ In general, most modern health management revolves around two major things:
 
 The ubiquity of modern toxins make [diet](body-diet.md) and [exercise](body-exercise.md) management far more complicated.
 
+- There is a *ton* of misinformation, in every direction.
+  - Holistic health advocates are often trying to sell a specific brand of worthless tripe.
+  - Big Pharma is often trying to advance more medication, even if it's not in the public's interest.
+- There is enough [crony capitalism](mgmt-badsystems-2_growth.md) at work as well to create laws that work against the public good.
+  - As an example, the "normal" blood pressure keeps going downwards (it was 160/95 in 1970, 140/90 in 1985, and is now 110/70), which means more people need drugs.
+
 ## Seek better habits more than treatments
 
 In a way, the body is a self-regulating machine that auto-corrects for everything.
@@ -55,7 +61,7 @@ Many treatments are *very* accessible:
 - Mewing (pressing your tongue fully to the roof of your mouth for 30 seconds)
 - [Sleeping](sleep.md) more
 - Spend time outside in the sun 1 hour a day
-- Supplements, vitamins, and electrolytes
+- Supplements, vitamins, electrolytes, and essential oils
 
 ## Don't neglect treatments if you need them
 

@@ -1,7 +1,7 @@
 
 # How to face rejection by discrimination
 
-While racism is the most obvious way to experience unfairly [biased](mind-bias.md) rejection, there are many ways to be a victim of others' prejudice:
+While racism is the most obvious way to experience unfairly [biased](mind-bias.md) rejection, there are many ways to be a [victim of others' prejudice](people-discrimination.md):
 
 Everyone has a [bias](mind-bias.md), and you might just be unlucky to have your [culture](people-culture.md) of origin:
 

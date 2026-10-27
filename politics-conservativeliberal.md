@@ -140,6 +140,27 @@ Finally, human politics have a nasty, irreconcilable paradox that transcends *an
 6. However, since parents [love](people-love.md) their children more than society, they will find ways to secretly transfer that power to their children, even if the children were given *complete* equality of situation (e.g., all receive the same [education](education.md) and starting income).
 7. Punishing any parents will mean the entrusted children will conspire to destroy the social system, since they're not getting what they want and have the reckless [power of youth and time](maturity.md) to exact their revenge.
 
+## Common ground
+
+While the focus in politics is on differences, there are many issues that *both* conservatives and liberals can agree on:
+
+- The ban of selling private data
+- The right for a person to have data deleted that is held by a private organization
+- Requiring organizations to give evidence of safety for consumer goods
+- Giving better healthcare for struggling veterans
+- Transparency in healthcare pricing
+- Outlawing fictitious discounting and misreporting costs of services
+- Mandatory human oversight in critical activities
+- Adding political term limits
+- Banning legislators from trading stock on things tied to their job
+- Increasing government bureau transparency
+- Simplifying the tax code
+- Restricting subsidies toward corporations
+- Modernizing infrastructure
+- Illegalizing falsified data for researchers who receive federal funding
+
+The Overton Window goes much farther than most people [imagine](mind-imagination.md), but many people are [biased](mind-bias.md) to think the other party is from a different planet.
+
 ## Cycling trends
 
 Like all other [fashions](people-trends.md), conservative and liberal views vacillate through a 4-stage due to the [culture](people-culture.md) surrounding it:

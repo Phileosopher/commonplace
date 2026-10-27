@@ -147,6 +147,12 @@ Orange marmalade:
 5. Let it cool, then place it into jars.
 6. It will keep for three months in the refrigerator.
 
+Corn on the cob:
+
+1. Fill a pot with water and add a stick of salted butter.
+2. Add a cup of milk and place the ears of corn in the pot.
+3. Simmer on low for 10-15 minutes.
+
 ## Dinner
 
 Make mashed potatoes:

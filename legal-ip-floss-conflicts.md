@@ -119,6 +119,11 @@ With an open format, [Big Tech doesn't like the transparency](cs-bigtech.md). Fo
 - Over-engineering new features into their standards.
 - Closing off everyone from free access.
 
+One of the arguments they use is that interoperability harms security.
+
+- The reasoning is that open standards mean malign actors can infiltrate those standards.
+- The idea is wrong because there are more malign actors, but there are also *many* more developers putting their minds to the problems.
+
 Further, Big Tech will often [politically](politics-conservativeliberal.md) recruit governments to wall off open standards whenever possible.
 
 The most effective solution is early education to the public, which makes people smarter consumers in general and prevents the overreach from reaching [monopoly status](politics-monopolies.md).

@@ -83,3 +83,8 @@ One of the most significant ways a school can become dysfunctional is through tr
 - Running minor league [sports teams](fun-sports.md).
 
 APPLICATION: If we trust others' understanding, we must mind the [culture](people-culture.md) that surrounds the people who understand something. Most experts spend so much time being [safe](safety.md) in their specific domain that they've experienced *many* unlikely circumstances and are [terrified](mind-feelings-fear.md) of those things happening (e.g., a doctor who [prescribes](body-health.md) an unhealthy treatment to stave off a horrific but unlikely illness, a [police officer](legal-safety.md) who fires a gun on someone rapidly reaching for their phone).
+
+This bad teaching mindset isn't isolated to academic communities, either. Many other defective aspects of society develop through this institutional decay.
+
+- Society tends to hear about "classics" as simply "old novels", when in fact the true classics such as ancient literature become obscured. This guides most people outside academia to believe that educational communities are out of touch and have little to offer the typical person.
+- While it has never proven politically viable in a way that promotes [civil liberties](people-boundaries.md), many academics have convinced a huge minority of the world at this time that [leftism](politics-leftism.md) is a perfectly sound [political system](politics-systems.md).

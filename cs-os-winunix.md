@@ -42,7 +42,26 @@ Here are a few tips to avoid making awful mistakes while using Linux:
 - Most of the Linux-based [UI](engineering-design.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
 - Websearch frequently what you don't know. Your lack of knowledge isn't new, and there's usually an answer somewhere about it.
 
-Most "original equipment manufacturers" (OEMs) that come with [Windows](cs-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot. Usually, you'll first need to find a way into the BIOS, then boot from a USB drive. If you're dual-booting, you may need to select your OS from the boot menu *every time*.
+Most "original equipment manufacturers" (OEMs) that come with [Windows](cs-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot.
+
+- Usually, you'll first need to find a way into the BIOS, disable Secure Boot, then boot from a USB drive.
+  - Microsoft has been very slow and ineffective at supporting Linux on their hardware, so their Secure Boot and Trusted Platform Module (TPM) false-positives Linux as malware.
+- If you're dual-booting, you may need to select your OS from the boot menu *every time*.
+- It's usually GRUB, since UEFI bootloaders are locked-down by Microsoft.
+  - Ironically, the alleged security that comes with UEFI is *not* as reliable as Microsoft or Intel claim.
+
+Dual-booting is *very* cool because it's the best of both worlds, but it comes with downsides and risks:
+
+- You need to be sure you have enough [long-term storage](cs-memory.md) to hold both OS distros, along with room for applications.
+  - Since the drives are using different journaling systems (NTFS vs ext4 usually), the user files may not be accessible from both OS.
+- Linux bootloaders are intelligent enough to detect Windows, but Windows is *not* programmed to track a Linux partition. For that reason, install Linux *after* Windows to ensure they're both accessible.
+- The [time](standards-datetime.md) between Linux and Windows is fiddly.
+  - Essentially, the CMOS battery tracks the hardware time, and the OS takes that time when it boots and makes it the system time.
+  - The computer time [standard](cs-standards.md) uses UTC, then offsets it for the time zone (e.g., UTC -7:00).
+  - Windows assumes the hardware time is already offset, while Linux assumes the time is UTC.
+  - This means that, depending on how the systems are configured, you will frequently see one of the OS offset by that much time.
+  - The answer is to manually configure the system to pull the time from the internet or to reconfigure either Windows or Linux to not adjust the time.
+  - This would normally be a minor annoyance, but can dramatically affect [authentication](cs-infosec-authentication.md) if the certificate requires a timestamp and [cloud synchronization](cs-distsys-cloud.md) by overwriting more recent files with older ones.
 
 ## Versions
 
@@ -56,7 +75,7 @@ Windows has very clear-cut versions:
 
 There are other types of Windows OS (such as Windows NT), but it's relatively straightforward, with permutations and updates coming as Service Packs (e.g., SP1) or standard [versioning numbers](cs-software-versionctrl.md).
 
-Linux, on the other hand, has [a variety of distros](cs-os-unix-distros.md) that each serve specific roles, and the kernel version is the only thing that advances sequentially, with each distro having their own [versioning](cs-software-versionctrl.md).
+Linux, on the other hand, has [a variety of distros](cs-os-unix-distros.md) that each serve specific roles, and the kernel version is the only thing that advances sequentially, with each distro having their own [versioning system](cs-software-versionctrl.md).
 
 Nothing really binds Linux distros together as the same OS very much except the kernel (though different versions of the same distro have quite a bit in common), whereas Windows versions are predictably interoperable, with the OS making most software at least *somewhat* backwards-compatible.
 

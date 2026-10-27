@@ -180,3 +180,27 @@ When you would like to leave:
   - I'd better start packing/loading my things.
   - It's been wonderful spending time with you!
   - Anyway, I don't want to burden you anymore, so I'll take my leave now.
+
+### How to say "no" to management
+
+When the manager asks for far too many status updates or too much information:
+
+- Overshare endless details to overwhelm them.
+- If they interrupt your work time, indicate the scheduled time you'll give an update.
+- Gently ask if they're afraid of the project not meeting the deadline, then let silence persist.
+
+When you're interrupted:
+
+- Politely ask if you should delay other projects for their time.
+
+If you're required to go to too many meetings:
+
+- Cut off the meeting when the meeting time is up.
+
+If they're asking for various tweaks and changes:
+
+- Ask for a style guide or documentation for you to conform to.
+
+When the manager seeks to control your decisions:
+
+- Stay in control of what you can control and give them decisions that have obvious answers.

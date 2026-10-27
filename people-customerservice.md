@@ -53,6 +53,21 @@ Insincere customer service (e.g., via [machine learning](cs-ai.md)) is worse for
 
 ## A. Greeting
 
+Try to profile the customer as much as possible within the first few seconds of greeting them.
+
+- This is *very* [taboo](morality-taboo.md), but every single professional in customer service has to do it.
+- Many demographics are oddly common:
+  - Young males trying to look cool
+  - Young males trying to associate with urban culture
+  - Young females
+  - Standard 20-30 year olds
+  - 30s to middle-aged
+  - Introverts
+  - African Americans
+  - Asians
+  - Hipsters
+  - Old people
+
 After ringing a doorbell, take a few steps backward to give distance.
 
 Always greet them with a smile.

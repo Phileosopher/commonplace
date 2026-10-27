@@ -127,6 +127,10 @@ If spoken frequently enough and long enough, stories about real things tend to b
 
 While we're more likely to propagate positive fictional stories over negative ones (i.e., they give a positive [feeling](mind-feelings.md)), we'll tend to propagate negative actual stories more than positive ones (because they may deliver adverse [effects](results.md) to us).
 
+One of the most important roles in retelling and distributing stories is the role of the critic. Their role is vital because they deconstruct common tropes and conventions, as well as providing public [journalism](language-journalism.md) about the story's validity against the backdrop of everything else being presented.
+
+- Unfortunately, they are also highly vulnerable when they provide direct criticism against bad stories. They're usually the first martyrs by a [bad system](mgmt-badsystems.md) that wishes to advance propaganda.
+
 ## Legendary people
 
 When a person *becomes* a [story](stories-why.md), they're officially a "celebrity". At that point, they're simply a well-groomed [image](people-image-why.md) designed to evoke strong [feelings](mind-feelings.md) and [beliefs](mind-trust.md).

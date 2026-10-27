@@ -191,7 +191,7 @@ When searching for engine codes online, check for three specific things:
    - Look for consistent information across everything to find the most accurate answer.
    - If you can't find that *specific* year, expand your search to nearby years and similar models.
 
-Either [resolve the problem yourself](autos-repair.md) or give it to a technician with your written diagnosis.
+Either [resolve the problem yourself](autos-fix.md) or give it to a technician with your written diagnosis.
 
 - They won't have to diagnose, so your analysis helps them skip it and saves you money.
 - They're also less inclined to take advantage of you because you've proven your mechanical aptitude.

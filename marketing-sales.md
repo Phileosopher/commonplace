@@ -31,6 +31,12 @@ Craft a [mini-speech](education-how.md) you can deliver within about 10 seconds 
 - ...which is unlike (alternative, existing solution).
 - Our product (how it solves the need better than the alternative).
 
+No matter how complex the product, the entire sales pitch revolves around 3 major questions:
+
+1. WHY? In what way do you have a problem?
+2. WHEN? How does that timing demonstrate why you are saying "no"?
+3. WHERE? What is the destination you're looking for?
+
 ## Aggressive tactics
 
 Sales staff have *awful* reputations from overly aggressive tactics. For example:
@@ -121,6 +127,12 @@ Most sales staff use various tricks to improve their skills:
 - Sales battlecards that summarize the high-value talking points.
 
 ## Retention & more sales
+
+Note the customer's [social class](people-classes.md), [maturity](maturity.md), and position in the organization when customizing your pitch.
+
+- Poor people need a way out, while wealthy people want [social status](people-image.md).
+- Young people want [potential](mind-imagination.md), while old people want a [legacy](legacy.md).
+- Employees want freedom from their boss, while bosses want freedom about their employees.
 
 There are 4 major ways to improve sales:
 

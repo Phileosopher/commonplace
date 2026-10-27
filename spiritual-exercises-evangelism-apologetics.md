@@ -80,7 +80,7 @@ There are definitely approaches to specific value systems:
 - [Atheism](spiritual-exercises-evangelism-apologetics-atheism.md), both about [God](god-proof.md) and [the Bible](bible-proof.md)
 - [Interfaith thinking](spiritual-exercises-evangelism-apologetics-interfaith.md)
 - [Islam](spiritual-exercises-evangelism-apologetics-islam.md)
-- [Pantheism](spiritual-exercises-evangelism-apologetics-pantheism.md)
+- [polytheism](spiritual-exercises-evangelism-apologetics-polytheism.md)
 
 ## Simple questions
 
