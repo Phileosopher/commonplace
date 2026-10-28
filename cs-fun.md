@@ -49,6 +49,8 @@ A compilation of silly, nerdy stuff worth memorializing: [EntertainingSpace](htt
 
 [Hot Dog Linux](https://web.archive.org/web/20201124191917/https://hotdoglinux.com/) - Linux from a gaudier time.
 
+[Shodan 2000](https://2000.shodan.io/) - OSINT for the 80s.
+
 [Using a 1930 Teletype as a Linux Terminal](https://www.youtube.com/watch?v=2XLZ4Z8LpEE) - Removing the "emulator" from the terminal emulator.
 
 ## UX crimes
