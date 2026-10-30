@@ -36,43 +36,11 @@ There are several ways that information can be stolen or destroyed:
 - Permanently locking information off from accessing (such as a forgotten password).
 - Information getting stolen, which is duplicating and then deleting information.
 
-## Authentication
+## Safety measures
 
 It's critical to use some type of verification for a program, and there are [many elements](cs-infosec-authentication.md) for making it reliable and effective.
 
-## Network hardening
-
-Making a [computer network](cs-networks.md) involves adding communication features between computers. By contrast, [network hardening](cs-infosec-cysec-network.md) involves *removing or disabling* all unnecessary features authorized users won't use.
-
-The actual methods for hardening are often very, very common-sense:
-
-- Turn off things you don't use, especially if they're internet-facing.
-- Enable a firewall.
-- Use [good passwords](cs-infosec-authentication.md).
-- Keep all software [up to date](cs-software-versionctrl.md).
-- Be suspicious of *everything* that's even remotely unusual.
-
-### Specific network hardening tricks
-
-As a general rule, do *not* download proprietary apps when you can use a web browser.
-
-- Many people have become accustomed to downloading proprietary apps due to convenience, but most of the time the apps expand the attack surface and add tracking software.
-
-If you're particularly paranoid, make sure to change your devices' MAC address, since that MAC has the origination and likely information about the firmware on it.
-
-Have a burner browser to work with any suspicious situations.
-
-- Even if you use privacy-minded things browser features (e.g. private windows, no cookies), some services will still detect other content in that browser.
-- For this reason, have a "burner" browser that has absolutely nothing in it.
-- Preferably, it should use a different framework (e.g., Firefox uses Gecko, Brave uses Chromium)
-
-Wireless security is particularly risky.
-
-- To avoid WEP and WPA cracking, set up a stronger encryption protocol (at least WPA2).
-- To prevent war driving, decrease the wireless access point's range and hide the SSID.
-- To prevent war chalking use WPA2, enable MAC filtering, and hide the SSID.
-- To avoid evil twin attacks, deploy a Wireless Intrusion Prevention System (WIPS).
-- To prevent a rogue access point on your network, enable switch port tracing, use monitor mode scanning, or use a rogue detector.
+Further, [hardening your networks and OS](cs-infosec-hardening.md) is critical.
 
 ## Scanning software
 
@@ -122,15 +90,19 @@ For heavier backup needs, the most common backup scheme is the Grandfather/Fathe
 
 ## Virtualization
 
-One of the best ways to protect a computer from the outside is to operate as many programs as possible inside a [virtual environment](cs-distsys-vm.md). Some operating systems (like [Qubes](https://www.qubes-os.org/)) are designed *entirely* around this concept.
+One of the best ways to protect a computer from the outside is to operate as many programs as possible inside a [virtual environment](cs-distsys-vm.md). Some operating systems (like Qubes) are designed *entirely* around this concept.
 
 ## Decentralization
 
 Keeping multiple redundant systems allows a safe solution in case anything is taken offline.
 
-However, decentralization is *much* easier if the information doesn't move around (such as with [torrenting](cs-distsys-p2p-torrent.md)).
+However, decentralization is *much* easier if the data doesn't change (such as with [torrenting](cs-distsys-p2p-torrent.md)).
 
 Further, the attack vectors are multiplied in relation to the number of decentralized nodes. If there's any sort of [exploit](cs-infosec-exploits.md) on one node, the entire system could be at risk.
+
+## The cybersecurity community
+
+Cybersecurity is a community effort, and multiple organizations including the Open Web Application Security Project (OWASP) maintain tons of data and [standards](cs-standards.md) on Common Vulnerabilities and Exposures (CVE), as well as Common Weakness Enumeration (CWE).
 
 ## Dark web
 

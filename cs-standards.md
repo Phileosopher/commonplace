@@ -11,7 +11,7 @@ To make it more complex, these standards need consistent updating to conform to 
 
 ## Standard-setters
 
-Here are some of the more notable organizations that set computer-related standards (as of 2021), with some of their more notable contributions.
+Here are some of the more notable organizations that set computer-related standards.
 
 General:
 
@@ -24,6 +24,7 @@ General:
 - [IEEE](https://www.ieee.org/) (Institute of Electrical and Electronics Engineers)
   - [IEEE SA](https://standards.ieee.org/) (IEEE Standards Association)
   - [IEEE 802.11](https://ieee802.org/11/) - WLAN standards (i.e., Wi-Fi)
+- [NIST](https://www.nist.gov/) (National INstitute of Standards and Technology) - US-specific
 - [OMG](https://www.omg.org/) (Object Management Group)
 - [OSGi Alliance](https://www.osgi.org/) (Open Services Gateway) - Java-specific
 
@@ -73,6 +74,7 @@ Internet - media content:
 
 Internet - cybersecurity:
 
+- [ENISA](https://www.enisa.europa.eu/) (European Union Agency for Networn and Information Security) - Europe-specific
 - [Liberty Alliance Project](http://www.projectliberty.org/)
 
 Storage:
@@ -101,6 +103,7 @@ Distributed systems and large-scale technology:
 
 Other:
 
+- [COSO](https://www.coso.org/) (Committee of Sponsoring Organizations) - standardizes corporate controls
 - [GS1](https://www.gs1.org/) - standardized the barcode
 
 ## Protocols/standards

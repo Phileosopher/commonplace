@@ -44,6 +44,14 @@ Altogether, this constitutes a zero-trust model:
 - Use end-to-end security
 - Deprecate weak authentication and encryption
 - Keep the computers updated
+- Never share accounts, use generic accounts like "admin", or give anonymous access
+
+In practice, it represents a few things as a full-time job:
+
+1. Get baselines for how everything is running normally.
+2. Make sure everything is installed, updated, or deactivated correctly.
+3. Educate everyone in the organization to be sure they're educated.
+4. Conduct constant security audits.
 
 ## Frequent attack vectors
 

@@ -265,6 +265,8 @@ Information architecture - a structure that informs people where they are in an 
 
 Initialize - to begin with a value, such as a variable
 
+Injection - sending code into existing code, typically maliciously
+
 Input - anything that goes into a computer, from typing to information from other computers
 
 Input mask - database entry constraints for the user typically as either text-only, numbers-only, or a set limit of characters
