@@ -81,7 +81,7 @@ Other drugs
 
 - Activity/work
   - [Career development](jobs-2_goals.md)
-  - [Computer use](computers.md)
+  - [Computer use](cs.md)
   - [Cleaning](home-housekeeping.md)
   - [Cooking](cooking.md)
   - [Creating results](results.md)

@@ -16,7 +16,7 @@ In most typical computers, there are other built-in features:
 - A [graphics](engineering-graphics.md) card port
 - [Network](https://gainedin.site/networks/) ports (including wireless).
 
-Without a motherboard, everything in a [computer](computers.md) would be a gigantic tangle of wires. So, while the motherboard isn't particularly complex, it's critical to keep everything [organized](organization.md) and regulate airflow for heat management.
+Without a motherboard, everything in a [computer](cs.md) would be a gigantic tangle of wires. So, while the motherboard isn't particularly complex, it's critical to keep everything [organized](organization.md) and regulate airflow for heat management.
 
 ## Failing
 

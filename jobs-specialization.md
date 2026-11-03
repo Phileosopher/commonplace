@@ -58,7 +58,7 @@ The niche roles become even more niche-focused as population and [technology](te
 
 - Large truck driving is a specific type of vehicle operation of a specific type of vehicle with a specific type of trailer.
 - Automobile manufacturing was once one job, but now someone can be a [marketing](marketing.md) coordinator for mid-size family SUVs.
-- [Computers](computers.md) were once an esoteric engineer's toy, but there are tens of thousands of jobs devoted to *only* software development with JavaScript.
+- [Computers](cs.md) were once an esoteric engineer's toy, but there are tens of thousands of jobs devoted to *only* software development with JavaScript.
 
 These specializations can apply to *any* [task](results.md) or [purpose](purpose.md):
 
@@ -91,7 +91,7 @@ APPLICATION: There will always be a less competent group of managers above every
 For the sake of convenience and [comfort](mind-feelings.md), we prefer to stay geographically near other people who share similar [purposes](purpose.md) and [specializations](jobs-specialization.md). Those shared [values](values.md) create a unique [collective culture](people-culture.md) through everyone generally [identifying](people-identity.md) with their [tasks](results.md):
 
 - Every industry has its own trade-speak and jargon to simplify commonly used niche ideas. Most [members](groups-member.md) adopt the [language](language.md) without [understanding](mind-understanding.md) its full meaning, and will recognize each other by that jargon.
-- [Computers](computers.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
+- [Computers](cs.md) can typically do *far* more with [logic](logic.md) than a programmer is aware of, so the [technology](technology.md) industry is full of idealists.
 - Lawyers are surrounded by [rules](people-rules.md) and [boundaries](people-boundaries-why.md), so they think with precisely specific [logic](logic.md) and [language](language.md).
 - [Accountants](money-accounting.md) must be extremely thorough, so they tend to be [risk-averse](safety.md).
 - [Science](science.md) concerns itself with the [knowable](reality.md), so most scientists dismiss the [unknowable](unknown.md).

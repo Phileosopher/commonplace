@@ -22,7 +22,7 @@ The most important thing (tied closely to your [personality](people-personality.
 
 - Most hardware/software diagnostics require knowing how to [resolve problems](cs-fix.md) with existing solutions. If you like following instructions to make customers happy, it's a great match for you.
 - For software development, you *must* love doing very hard logic puzzles alone in front of a computer for many hours. Try playing programming-based games (e.g., Spacechem, Factorio) to see if you can do it for fun.
-- If you don't like programming, the tech industry still has many support roles, but you still should understand the intricacies of [how computers work](computers.md) to function well in the industry.
+- If you don't like programming, the tech industry still has many support roles, but you still should understand the intricacies of [how computers work](cs.md) to function well in the industry.
 
 ---
 

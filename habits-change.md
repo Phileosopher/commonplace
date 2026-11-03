@@ -25,7 +25,7 @@ If you're a high school student or just starting out from your parents' home:
 - Learn to [cook](cooking.md) for yourself.
 - Learn [basic first aid](body-firstaid.md).
 - Learn how to easily [move](home-moving.md).
-- Get a general idea of how [computers](computers.md) work.
+- Get a general idea of how [computers](cs.md) work.
 - Get yourself [organized](organization.md) and learn basic [housekeeping](home-housekeeping.md).
 
 If you're starting a family or building your career:
@@ -88,7 +88,7 @@ If you're coming out of [prison](hardship-incarceration.md) or grew up on the st
 - Learn [why managing money is important](money-1_why.md), especially with [debt](money-2_debt.md).
 - Learn [hygiene](people-image.md) on the outside, [good boundaries](people-boundaries.md), and [which friends to choose](people-friends.md).
 - Work heavily on your [speaking](language-speaking.md) and [writing](language-writing.md).
-- Understand [how computers work](computers.md).
+- Understand [how computers work](cs.md).
 - Expand your [creativity](mind-creativity-how.md), especially about your [need for a legal job](jobs-1_why.md).
 - Learn basic [housekeeping](home-housekeeping.md) and [how to decorate](home-decorations.md) your home.
 - Learn how to [find a job](jobs-1_why.md) and handle [homelessness](hardship-homeless.md).

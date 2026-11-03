@@ -100,7 +100,7 @@ APPLICATION: If someone finds meaning in something, don't bother trying to chang
 
 Too much [specialization](jobs-specialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
 
-APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](mind-imagination.md), so we can use [technology](technology.md) (i.e., [computers](computers.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](mind-understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
+APPLICATION: [Purpose](purpose.md) comes through simply acting based on a [prediction of the future](mind-imagination.md), so we can use [technology](technology.md) (i.e., [computers](cs.md)) to reproduce it. However, because meaning incorporates [feelings](mind-feelings.md), the agency of [choice](mind-decisions.md), and far more [understanding](mind-understanding.md), there's absolutely no way to automate purpose. This is unfortunate because meaningful purpose is vital to [the good life](people-goodlife.md).
 
 To clarify, though, the greatest meaning comes through genuine, heartfelt, purely selfless [love](people-love.md) shared with others.
 

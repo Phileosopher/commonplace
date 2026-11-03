@@ -131,7 +131,7 @@ Cons:
   - Ochlocracy - run by [mob rule](people-trends.md) via [intimidation](mind-feelings-fear.md) of authorities
 - Oligarchies can become far more complex as well, where the leadership is utterly obscured:
   - Algocracy - [computer algorithms](cs-langs-algorithms.md) run everything (i.e., programmers have complete rule)
-  - Cyberocracy - [computers](computers.md) runs everything (i.e., computer users have complete rule)
+  - Cyberocracy - [computers](cs.md) runs everything (i.e., computer users have complete rule)
   - Nomocracy - the [laws](people-rules.md) themselves run everything (i.e., lawyers have complete rule)
 
 ### Democracy - everyone controls everything

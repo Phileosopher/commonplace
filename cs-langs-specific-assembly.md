@@ -51,7 +51,7 @@ However, the hardware can also have many additional features.
   - Very useful for making "loops" to have it do the same thing over and over.
 - Conditional jumps - makes the CPU jump to a specific instruction only if the memory satisfies a specific condition.
   - This allows computers to work with specific information.
-  - Conditional jumps define how people can [feel](mind-feelings.md) defines a "[computer](computers.md)".
+  - Conditional jumps define how people can [feel](mind-feelings.md) defines a "[computer](cs.md)".
 
 Combined, unconditional and conditional jumps let a computer work tirelessly on a task, then jump to the next. It continues indefinitely until it's powered off or commanded to stop.
 

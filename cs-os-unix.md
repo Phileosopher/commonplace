@@ -39,7 +39,7 @@ Linux is lightweight, so it's excellent for low-profile computers, and is even c
 
 However, unlike [Windows](cs-os-windows.md), Linux has *also* become more consistently reliable.
 
-The largest failure within Linux is tied to its [UX](engineering-design.md). For the most part, its [GUI](engineering-graphics.md) commands convert to [console commands](cs-cli.md), meaning any sufficient experience with Linux often requires accessing a terminal. This creates [a learning curve beyond the aptitude of some people](computers.md).
+The largest failure within Linux is tied to its [UX](engineering-design.md). For the most part, its [GUI](engineering-graphics.md) commands convert to [console commands](cs-cli.md), meaning any sufficient experience with Linux often requires accessing a terminal. This creates [a learning curve beyond the aptitude of some people](cs.md).
 
 ## Kernel design
 

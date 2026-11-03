@@ -31,7 +31,7 @@ Aiding and abetting/accessory: Assisting someone else in a criminal activity (su
 
 Attempt: trying to do something, irrespective of its [consequences](results.md)
 
-Computer crime: a crime involving a [computer](computers.md)
+Computer crime: a crime involving a [computer](cs.md)
 
 - Internet crime: a crime involving the internet
 

@@ -353,7 +353,7 @@ Avoid routine performance reviews if at all possible.
 
 ## Procedures
 
-Procedures are the "[automation](computers.md)" of an organization.
+Procedures are the "[automation](cs.md)" of an organization.
 
 - They allow [new hires](mgmt-3_teams.md) to quickly adapt to their work.
 - The written procedure has the power to redefine the entire organization's [culture](people-culture.md).

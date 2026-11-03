@@ -140,7 +140,7 @@ At the same time, the client consents to an "acceptable use policy" (AUP) that i
 
 The trouble with maintaining three environments, though, is that the conditions for each of them might not be precisely the same. Those edge cases will make a dramatic difference if anything goes wrong.
 
-When things *do* go wrong, panic is likely, proportionally to [what you don't understand](mind-understanding.md). However, while your imagination may create fantastic stories of anxiety and catastrophe, the problem can usually be solved by [diligently reviewing the likely sources of the issue](fix-computers.md).
+When things *do* go wrong, panic is likely, proportionally to [what you don't understand](mind-understanding.md). However, while your imagination may create fantastic stories of anxiety and catastrophe, the problem can usually be solved by [diligently reviewing the likely sources of the issue](fix-cs.md).
 
 This failure, mixed with the complexities of *many* various integrated systems, means that every web developer can't be just one person.
 

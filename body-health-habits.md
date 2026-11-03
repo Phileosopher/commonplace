@@ -87,7 +87,7 @@ Consider bloodletting (i.e., donating blood) 1-4 times a month to get rid of exc
 
 ## Get physically active
 
-Use a treadmill while doing other activities like reading or [the computer](computers.md).
+Use a treadmill while doing other activities like reading or [the computer](cs.md).
 
 Spend more time [working out](body-exercise.md), which may mean dramatic lifestyle decisions (like an alternative to your [car](autos.md)).
 

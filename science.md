@@ -103,7 +103,7 @@ The sciences end up combining on top of each other:
 All the above sciences apply to the world around us, and that application naturally merges into the domain of [engineering](engineering.md).
 
 - The formal sciences work to create:
-  - Data and information science, which blurs heavily with [computer science](computers.md)
+  - Data and information science, which blurs heavily with [computer science](cs.md)
   - Systems theory, which is essentially the [corporate](groups-large.md) explanation for all the scientific information
 - Physical and life sciences end up creating, among others:
   - [Engineering](engineering.md)

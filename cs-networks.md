@@ -5,6 +5,8 @@ A "network" is a bunch of computers put together. They're loosely connected, and
 
 There is a vast body of network [standards](cs-standards.md) published and maintained through [the IETF](https://datatracker.ietf.org/). They distill into many RFCs (Request For Comment) that indicate precisely how a computer should be programmed to manage various protocols.
 
+The entire concept of network design is strapped together with absurdly over-defined standards, each one creating so much order that they interfere with other standards, arranged in a stack of functional-but-imperfect implementations that are mostly reliable but an absolute pain to decipher.
+
 [Cybersecurity](cs-infosec.md) is the general set of practices of what computers should *not* take as input, since other computers and people aren't always worth trusting.
 
 ## History
@@ -13,16 +15,25 @@ The history of computer networks has conventions and [standards](cs-standards.md
 
 The idea of networked computers came *long* before it materialized. Vannevar Bush's essay "[As We May Think](https://en.wikipedia.org/wiki/As_We_May_Think)" implied the concept of a collective memory storage that represented something close to how we see [the internet](cs-sofware-webdev.md) today.
 
-At first, the network connections between computers were small-scale and designed to connect [scientists](science.md) together. As early as the 1970s, they sent the information via analog signals encoded as sound through existing phone lines. "Modems" were originally sending typed punchcard information, 3 [ASCII characters](cs-keyboard.md) at a time (which converted to 25 bits/s).
+At first, the network connections between computers were small-scale and designed to connect [scientists](science.md) together. As early as the 1970s, they sent the information via analog signals encoded as sound through existing phone lines.
+
+- "Modems" were originally sending typed punchcard information, 3 [ASCII characters](cs-keyboard.md) at a time (which converted to 25 bits/s).
+- The ideal packet size for carrying voice traffic is 48 octets (or 384 bits), but the minimum ideal for data transmission is 64 octets (512 bits). For a while, asynchronous transfer mode (ATM) sent 53 octets as a happy medium, but the data transport protocols were sending two packets of 53 and 9 octets with the other 42 being empty space. This was a failure, but the ATM project's label switching and fixed cell size maintains itself throughout networking projects.
 
 As the computers started sending more information back-and-forth using "store and forward" networking, the engineers faced a potentially severe problem: relatively small files were getting bogged down because they were behind the queue for much larger files transferring across the network. Their solution was relatively simple: divide the information into small blocks of data called "packets", which will each operate as separate units for transfer. This allowed quite a few benefits:
 
 - Other data could interrupt the transfer whenever needed without any concern of breaking the flow of data.
-- The packets could be sent in no particular order, if needed.
+- The packets could be sent, sometimes in no particular order, along a label path.
 - If any packets were lost ("dropped"), they could be re-sent instead of the entire thing.
 - If the network changed (e.g., slow or bad connection, faster alternative connection), the rest of the packets could travel a different path without any concern for the flow of information.
+- This was a hybrid of the two conventions of packet switching (breaking down data into small blocks and reassembling them on the other side) and circuit switching (holding a circuit for the data until it is fully sent).
+  - Or, from another viewpoint, they decided to do circuit switching on each packet.
 
 For a long time through the 1990s, until broadband internet, the capacity for data transfer through a modem was capped at 56,000 bits per second, or 56k baud.
+
+- This also compounded with the extra memory cost of older standards. In 1984 it cost 1,331 MB to send 1 MB of data with the Motorola 68010, became 1:1 MB by 1999 with the Intel Pentium III, and was 0.001 MB cost for every 1 MB of data by 2014 with the Intel i7.
+
+While networks started getting faster starting in the 1990s, there's still a major latency across large distances that has been mostly unaddressed. While most other computer events have moved from ~100-150ms to ~2-3ms, sending a packet of data across 1,000 miles still takes ~10ms no matter what.
 
 ## Topology
 
@@ -51,6 +62,12 @@ Generally, any network topology that values complete "redundancy" should have 2 
 At its most basic, a computer needs an IP address, subnet mask, gateway, and DNS server to connect to a typical network.
 
 Due to the complexity of a computer network, there is [a specific set of layers](cs-networks-layers.md) to understand how network information is sent.
+
+The journey to finding a loop-free path (where packets aren't traveling in a circle back to a previous node) was *not* an easy problem. The approach eventually landed on the Open Shortest Path First (OSPF) protocol, but there have been three major classes of solutions to solve the issue:
+
+- Distance vector protocols: count the cost of the path through all the hops and choose the lowest cost
+- Link state protocols: use a database synchronized across devices of the pathway's hops
+- Path vector: keep a record of previous hops
 
 ## LANs
 

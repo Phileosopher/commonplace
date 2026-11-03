@@ -160,7 +160,7 @@ APPLICATION: Generally, experts are 98% right on more straightforward matters, b
 [Technology](technology.md) gives tremendous [power](power.md) for people to educate others in many ways, *without* the approval of an educational institution. This, in turn, gives more power to everyone else to understand just about everything that could be understood:
 
 - Beyond [regulatory requirements](people-rules.md), vocational schools are relatively easy to establish.
-- Apprenticeships are more intimate, but can scale with [information technology](computers.md).
+- Apprenticeships are more intimate, but can scale with [information technology](cs.md).
 - Using the library
 - Watching educational vlogs
 - Listening to informative podcasts

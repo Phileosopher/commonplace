@@ -162,7 +162,7 @@ Most transfer systems are *very* efficient.
 Any improvements to a transfer system are *highly* reproducible.
 
 - Even at scale, reliable logistical systems that capture all possible issues can scale as well.
-- Most [computer design](computers.md), as well as their [distributed systems](cs-distsys.md), were inspired by with logistics.
+- Most [computer design](cs.md), as well as their [distributed systems](cs-distsys.md), were inspired by with logistics.
 
 ### Cargo Requirements
 
@@ -285,7 +285,7 @@ Between any two points, it almost always makes sense to travel *with* cargo. Tra
    - This is rare, but can be *highly* lucrative when someone discovers one.
    - People underestimate its power:
      - The Atlantic Slave Trade from the 16th to 19th centuries started in Europe, transported finished goods to trade with Africans, transported enslaved Africans to the Americas, then moved raw goods to Europe.
-     - Japan's dominance in the USA market (especially [computers](computers.md) and [autos](autos.md)) started in the 1960s because military contracts gave the carriers full funding for the entire trip both ways, but nothing to send eastward.
+     - Japan's dominance in the USA market (especially [computers](cs.md) and [autos](autos.md)) started in the 1960s because military contracts gave the carriers full funding for the entire trip both ways, but nothing to send eastward.
 2. Have a substantial set of consignors on a map indicated with arrows, with a substantial set of consignees, then link them together.
    - Most modern trucking industries run this way, with the loads distributed according to whoever sets a reasonable bid to transport it.
    - While the job roles move around somewhat, this is the basis of how Uber, Lyft, DoorDash, etc. work.
@@ -340,7 +340,7 @@ Optimized Production Technology (OPT) hunts for bottlenecks, then maximizes them
 
 - Considers account priorities and capacities, then calculates the near-optimum schedule and sequence of operations for each system.
   - The entire system must be fine-tuned and predetermined from the beginning.
-  - It's a [computer system](computers.md) that takes inputs, then tests various workloads and spots bottlenecks in capacity, then uses an [algorithm](cs-langs-algorithms.md) to more efficiently schedule individual jobs to prevent theoretical bottlenecks.
+  - It's a [computer system](cs.md) that takes inputs, then tests various workloads and spots bottlenecks in capacity, then uses an [algorithm](cs-langs-algorithms.md) to more efficiently schedule individual jobs to prevent theoretical bottlenecks.
 - Uses a set of "management coefficients", which are weighted [functions](math-algebra.md) that presume a fixed batch size and use a wide variety of important criteria for data analysis:
   - Ideal product mix, due dates, necessary safety stocks, use of bottleneck machines
   - Inventory levels, product structures, routing, setup/operation timings for *every* procedure of each component, production/transit efficiency, transfer system/plant capacity, work in process, substitutions, overlapping batches, subcontracts, safety stocks
@@ -355,7 +355,7 @@ Optimized Production Technology (OPT) hunts for bottlenecks, then maximizes them
 - It takes about 2-3 months to implement in a large company.
   - Minor disruptions don't require an OPT re-run, but theoretically large ones require re-running OPT each time.
 
-Flexible Manufacturing Systems (FMS) is a *highly* [computerized system](computers.md) that involves planning and controlling machinery with integrated-control data systems.
+Flexible Manufacturing Systems (FMS) is a *highly* [computerized system](cs.md) that involves planning and controlling machinery with integrated-control data systems.
 
 - The system is vastly complex to accommodate many tasks including loading, unloading, storing parts, changing tools automatically, machining, and just about anything else that's *highly* repetitive you can think of.
 - They have built-in production planning routines, parts-programming routines, materials-handling routines for parts/tools/accessories, and inventory/stock control.

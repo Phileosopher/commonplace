@@ -310,7 +310,7 @@ A stock split divides the shares evenly (e.g., 2:1 or 3:1).
 
 For various reasons that affect equity, a business can be carved out into different domains:
 
-- Some portions of a business are cost centers (often e.g., accounting, [IT](computers.md)) and others are profit centers (e.g., sales, [marketing](marketing.md)).
+- Some portions of a business are cost centers (often e.g., accounting, [IT](cs.md)) and others are profit centers (e.g., sales, [marketing](marketing.md)).
 - Segment reporting divides out various divisions of a business to create specialized reports.
 
 While a dividend is considered income that goes to the shareholders, a share repurchase/buyback is considered an expense.

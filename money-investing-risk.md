@@ -75,7 +75,7 @@ Don't assume a present windfall means you can re-gain it.
 Even in high-information markets like the stock market, professional investors [succeed](success-5_persevering.md) in the margins.
 
 - They'll buy a relatively stable asset for $30,000,000, then sell it later for $30,015,000.
-- Most of the time, they can use [computers](computers.md) to automate the task.
+- Most of the time, they can use [computers](cs.md) to automate the task.
 
 Most [accounting ratios](money-accounting.md) apply to your investment decisions, but there are more that go beyond the specific entity.
 

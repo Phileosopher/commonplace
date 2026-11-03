@@ -199,7 +199,7 @@ NOTE: the availability is the privilege/blessing, *not* necessarily the consumpt
 16. Have something to do
 17. Have something to look forward to
 18. Able to [write](language-writing.md)
-19. Intelligent enough to [operate a computer](computers.md)
+19. Intelligent enough to [operate a computer](cs.md)
 20. Able to use computers to improve your life (e.g., [better habits](habits.md))
 21. Able to understand [philosophy](philosophy.md)
 22. Able to release [stress](happiness-stress.md)

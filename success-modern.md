@@ -24,7 +24,7 @@ Contracts and agreements
 
 Communicating with others
 
-- Know [the basics of using a computer](computers.md).
+- Know [the basics of using a computer](cs.md).
 - Get a cell phone for texting, and constantly keep it active.
 - Get an email address, and *never* lose the password.
 

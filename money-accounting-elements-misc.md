@@ -70,7 +70,7 @@ Ratios for multiple owners' return on their investment:
 
 ## Primary roles
 
-While [computers](computers.md) have completely automated every aspect of accounting, the two remaining domains that require humans for the role are in [taxes](money-accounting-taxes.md) and auditing.
+While [computers](cs.md) have completely automated every aspect of accounting, the two remaining domains that require humans for the role are in [taxes](money-accounting-taxes.md) and auditing.
 
 ## Auditing
 

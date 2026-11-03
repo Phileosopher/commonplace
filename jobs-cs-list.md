@@ -68,7 +68,7 @@ Maintaining things (for those who prefer [routine](habits.md)):
 
 - Systems Administrator: runs updates and makes sure everything is running correctly
 - Database Administrator: maintains the computer's [databases](database.md)
-- Help Desk Associate: tells customers [how to do basic computer diagnostics](computers.md)
+- Help Desk Associate: tells customers [how to do basic computer diagnostics](cs.md)
 - [Hardware] Technician: makes sure all the hardware on [Hardware] is running correctly
 
 [Protecting things](cs-infosec-compliance.md) (for those who prefer [enhancing safety](safety.md)):

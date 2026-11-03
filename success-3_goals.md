@@ -161,7 +161,7 @@ Your system will be highly personalized:
 - Create a natural flow from your [brainstorming](mind-creativity.md) into results.
 - Use any medium you feel adds value, and avoid what you don't like.
 - Constantly look for more ways to slice and capture your information better.
-- If you want a system that lasts more than a few years and is on a [computer](computers.md), make sure the information is accessible from at least two or three free software programs (e.g., text files, .doc files).
+- If you want a system that lasts more than a few years and is on a [computer](cs.md), make sure the information is accessible from at least two or three free software programs (e.g., text files, .doc files).
 
 ### After capturing all your ideas, simplify them
 

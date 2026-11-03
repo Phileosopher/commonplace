@@ -111,7 +111,7 @@ Most restaurants in the USA are supplied by Sysco.
 
 Most government IT infrastructure is approved by the Information Technology Industry Council.
 
-Almost every high-end processor in a [personal computer](computers.md) is manufactured by Intel or AMD.
+Almost every high-end processor in a [personal computer](cs.md) is manufactured by Intel or AMD.
 
 Nearly every graphics card is created by either Nvidia or AMD.
 

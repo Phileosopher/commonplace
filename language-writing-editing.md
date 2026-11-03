@@ -47,7 +47,7 @@ Write unapologetically: if you feel you must concede something or use a quote fo
 Constantly edit and re-edit:
 
 - Most of the writing process is editing, not drafting.
-- Since everyone uses a [computer](computers.md), typographical and simple grammatical errors in any published work are rarely acceptable.
+- Since everyone uses a [computer](cs.md), typographical and simple grammatical errors in any published work are rarely acceptable.
 
 If you *must* pad out printed pages:
 

@@ -209,7 +209,7 @@ Protect the organization's assets.
 
 - Install [GPS](logistics-navigation.md) tags on everything that could be stolen.
 - Use [cloud storage and backup](cs-distsys-cloud.md) to prevent data loss from hard drive failures.
-- Teach everyone [basic computer skills](computers.md), or keep them away from computers as much as possible.
+- Teach everyone [basic computer skills](cs.md), or keep them away from computers as much as possible.
 - Practice [basic cybersecurity](cs-infosec.md) including password policies, antivirus software, and a VPN.
 
 Clearly demarcate roles to prevent any one person (including yourself) to have full control.

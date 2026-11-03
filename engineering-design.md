@@ -117,7 +117,7 @@ One of the most important components of design is to give reliable, rapid feedba
 
 UX doesn't only apply to visual elements:
 
-- Even without [computers](computers.md), push-button interfaces may still have light/dial feedback (e.g., heavy machinery).
+- Even without [computers](cs.md), push-button interfaces may still have light/dial feedback (e.g., heavy machinery).
 - Even without any visual indicators, an interface can be completely audio-based (e.g., a phone number's directory tree).
 - Many UX designers simply focus on visual elements because it's the most familiar sense most of us use, so sound can become *extremely* annoying or risky when misused or mismanaged.
 - The design should incorporate what happens if the sound settings are lowered or off (e.g., <50% volume) and the possibility that the user will *not* see a visual input (e.g., away from screen).
@@ -132,7 +132,7 @@ In the absence of being able to reliably communicate, [documentation](language-w
 
 Make sure to record the documentation *before* wrapping up the project or closing everything in. After the concrete has hardened, the software has been compiled, the network is live, and the engineers have left, there should be plenty of information to indicate how everything works inside.
 
-If there's a [computerized](computers.md) text code (e.g., [VIN](autos.md), [MAC address](cs-networks.md)), make sure the content is legible:
+If there's a [computerized](cs.md) text code (e.g., [VIN](autos.md), [MAC address](cs-networks.md)), make sure the content is legible:
 
 - Avoid using similar symbols (e.g., S vs. 5).
 - Group the elements out with standardized characters (e.g., 513-424-0945, 8/192.168.0.1).
@@ -213,7 +213,7 @@ Any small issue in a design becomes a large one [when it becomes large-scale](en
 
 ## More information
 
-[A tech-oriented dive into this content](engineering-design-computers.md)
+[A tech-oriented dive into this content](engineering-design-cs.md)
 
 UX in general:
 

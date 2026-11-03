@@ -51,7 +51,7 @@ APPLICATION: If a work wasn't created from constraints, it was created from [new
 
 - Around 1900, concert audiences weren't allowed to eat, shout, and chat during a performance. Once this convention was established, composers could explore very quiet themes in their music.
 - Once music could be recorded (and re-recorded) it started to become dramatically more complex.
-- Popular music in the 1970s has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](computers.md)) the 1980s experienced an explosion of new sounds and new styles.
+- Popular music in the 1970s has been regarded as relatively lackluster, but once the synthesizer came out (which created sound waves using [mathematical formulas](math.md) in [computers](cs.md)) the 1980s experienced an explosion of new sounds and new styles.
 - In the early 2010s, once television shows were freed from the time-based constraints of 25 or 50-minute blocks (to accommodate for commercials on an hourly schedule), they were able to explore more aspects of the visual medium than previously possible.
 
 We tend to create various [stories](stories-why.md) off that initial value, particularly if we [believe](mind-understanding-certainty.md), even a little, that it can become [reality](reality.md). We'll attach [purposes](purpose.md) and [hopes](mind-imagination.md) to it to solidify its "realness", and will act when the [decision](mind-decisions.md) is worth the [risk](entrepreneur-why.md).

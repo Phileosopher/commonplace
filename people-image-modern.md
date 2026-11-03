@@ -11,7 +11,7 @@ In most of the world, the procedure for maintaining a reputation has been mostly
 
 ## Contrasting the modern image
 
-In a [computer-heavy](computers.md) society where the data is unusually [trustworthy](mind-trust.md), your reputation is *not* what you think it is:
+In a [computer-heavy](cs.md) society where the data is unusually [trustworthy](mind-trust.md), your reputation is *not* what you think it is:
 
 1. When you receive a government-issued identification card, that government has created a legal entity that has your name in all-capital letters (a "legal fiction").
    - This entity is nothing more than a documented name with a few linking concepts like date of birth, city of birth, driver's license number, etc.

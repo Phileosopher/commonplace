@@ -1,7 +1,7 @@
 
 # How to manage modern health issues
 
-Modern society has created many benefits (e.g., [insurance](money-insurance.md), [computers](computers.md), [cars](autos.md)), but exchanges the [risks endemic to nature](safety-nature.md) for the risks from mass-produced food-in-a-box and sedentary activity.
+Modern society has created many benefits (e.g., [insurance](money-insurance.md), [computers](cs.md), [cars](autos.md)), but exchanges the [risks endemic to nature](safety-nature.md) for the risks from mass-produced food-in-a-box and sedentary activity.
 
 In general, most modern health management revolves around two major things:
 

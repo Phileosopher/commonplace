@@ -77,7 +77,7 @@ Cons:
 The most stable equity industries are providing a service everyone absolutely needs:
 
 - Electric, oil, and gas utilities
-- Consumer [electronics](computers.md)
+- Consumer [electronics](cs.md)
 - [Cars](autos.md)
 - [Logistics](logistics.md)
 - [Food](cooking.md)

@@ -231,7 +231,7 @@ However, they can certainly do *extra* chores to make life easier for everyone.
 
 Children have an unusually high capacity to become [addicts](addiction-substances.md), so teach them how to detect when their behavior is excessive.
 
-Most [consumer technology](computers.md) (e.g., smartphones, social media) is *designed* to be addictive.
+Most [consumer technology](cs.md) (e.g., smartphones, social media) is *designed* to be addictive.
 
 All technology, however, is a privilege.
 

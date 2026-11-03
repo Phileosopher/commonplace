@@ -7,7 +7,7 @@ When we observe [nature](reality.md), the incoming perception assembles itself i
   - e.g., a being we regard as a cat, two of those beings, colors, numbers, opinions, memories, etc.
 - Facts - the values that we can observe as true.
   - e.g., orange and black are present, two cats are present, there is a ball of yarn, one cat has swatted the ball, there is a hissing noise from the other cat
-- Data - samples of values that have some type of [meaning](meaning.md), which is what [a computer](computers.md) works on (though the meaning comes strictly from the users).
+- Data - samples of values that have some type of [meaning](meaning.md), which is what [a computer](cs.md) works on (though the meaning comes strictly from the users).
   - e.g., two cats (one orange and one black), one has struck a ball of yard, the other has hissed at it
 - Information - values we've compared with other values, which is how we perceive and where most of our [feelings](mind-feelings.md) come from.
   - e.g., the two cats had gotten along, but not right now

@@ -172,7 +172,7 @@ The routine of accounting breaks each period into an 8-step accounting cycle:
 8. Close the books - zero out the revenue and expense accounts (as shown above).
    - This phase is also usually where stock dividends and other adjusting equity accounts are managed (more detail below).
 
-Now that [computers](computers.md) can error-check everything and fix errors automatically, the cycle isn't *completely* critical, but accountants like its redundancy because it gives more possibilities of catching errors.
+Now that [computers](cs.md) can error-check everything and fix errors automatically, the cycle isn't *completely* critical, but accountants like its redundancy because it gives more possibilities of catching errors.
 
 For the sake of convenience, accountants [organize](organization.md) the accounts by numbering them with an approximate convention:
 

@@ -231,7 +231,7 @@ Great analysis of anything in particular will always include questioning [precon
 
 APPLICATION: To be more logical, think more slowly. Consider all the premises that make the idea 100% true for anyone observing. While an [intuition](mind-feelings.md) grounded on what you're [certain](mind-understanding-certainty.md) of is possible, it requires *lots* of reasoning to [build](creations.md).
 
-With enough good inputs, analysis can be amazingly effective at [predicting reality](mind-imagination.md). By magnifying it with logic [technology](technology.md) (i.e., a [computer](computers.md)), great analysis can be terrifyingly reliable about the approximate likelihood of large-scale [trends](people-trends.md) (though [not *precisely* accurate](mind-imagination.md)).
+With enough good inputs, analysis can be amazingly effective at [predicting reality](mind-imagination.md). By magnifying it with logic [technology](technology.md) (i.e., a [computer](cs.md)), great analysis can be terrifyingly reliable about the approximate likelihood of large-scale [trends](people-trends.md) (though [not *precisely* accurate](mind-imagination.md)).
 
 Since we can't gather *all* the inputs, we can never fully [predict the future](mind-imagination.md). There's no way to anticipate things we couldn't have known, so we should only try anticipating if we are [fully certain](mind-understanding-certainty.md) we can do something with it.
 

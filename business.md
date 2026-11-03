@@ -23,7 +23,7 @@ While the only constant in business is [change](people-trends.md), the abstracti
 
 ## Eventual needs
 
-**[Information Technology (IT)](computers.md)** keeps the computers running, which is inevitable if the business ever requires any degree of automation.
+**[Information Technology (IT)](cs.md)** keeps the computers running, which is inevitable if the business ever requires any degree of automation.
 
 **[Management](mgmt-1_why.md)** is directing people to do things and manage projects, which comes once an [organization](groups-small.md) surpasses about 3-4 people, even if they're [volunteers](mgmt-npo.md).
 

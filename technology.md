@@ -3,7 +3,7 @@
 
 Technology (techno-logos, or "technique knowledge") is applying [shared](groups-small.md) [understanding](mind-understanding.md) into [creating](creations.md) tools, and technological progress involves magnifying [purposes](purpose.md) and removing increasingly more portions of the [unknown](unknown.md) from our [daily activities](habits.md).
 
-Most modern use of the word is referring to "high-tech" things or, more specifically, [computers](computers.md). But, "technology" can apply to *many* tools. Most of these tools can layer onto other tools:
+Most modern use of the word is referring to "high-tech" things or, more specifically, [computers](cs.md). But, "technology" can apply to *many* tools. Most of these tools can layer onto other tools:
 
 - Sticks to make fire, a fire, a lantern, and an oven's pilot light.
 - A toothbrush, a bristle maker, plastic molds, and a packing machine.
@@ -150,7 +150,7 @@ APPLICATION: Without [changing human nature](politics-perfectsociety.md), the mo
 
 All [social class divides](people-classes.md) are defined by energy scarcity. It may come in the form of electricity or oil right now, but can also be light, flowing water, atomic isotopes, hydrogen, or coal.
 
-Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](mind-understanding.md) them. People inundated with technology, especially [information technology](computers.md), tend to lose themselves in an existential fog until they [discover their essence](mind-awareness.md) outside that technology again.
+Technology helps us dramatically to accomplish [purposes](purpose.md), but it's *awful* at helping us [define](mind-understanding.md) them. People inundated with technology, especially [information technology](cs.md), tend to lose themselves in an existential fog until they [discover their essence](mind-awareness.md) outside that technology again.
 
 Technology is also tremendous [power](power.md), often more than we can [safely](safety.md) handle. A public means to [communicate](people-conversation.md) across vast distances with many people immediately, for example, means some [immature](maturity.md) people should more thoroughly [consider](mind-understanding.md) what they're saying before using it, and people can inadvertently destroy their lives by one careless gesture.
 

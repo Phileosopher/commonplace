@@ -97,6 +97,19 @@ However, they are *not* simple in practice. To quote and abstract the late [Hyma
 
 Most engineering has to wrestle with severe tradeoffs, with the result being a balance based on the quality of materials the engineer can use and time hyper-obsessing about precise design requirements.
 
+Complexity itself has some issues. More complex system have more ways they can break down or get sabotaged, so simplicity can be better. The methods, however, create other issues:
+
+- By abstracting the complexity away, it creates a black box around the system. This makes it easier to work with and harder to [fix](https://adequate.life/fix/).
+- Moving the problem somewhere else is a great idea if something is already complex. This simply makes it something else's problem, which could make things worse without planning.
+- Rebuilding the whole thing requires using lots of brainpower, and there's no guarantee the new thing will be better. Plus, the new thing also has to be [collectively adopted](people-trends.md) or you've simply added complexity by adding another way of doing things.
+- Ignoring the problem is also an option. This usually incurs [technical debt](cs-habits.md) that follows the object until the thing is replaced.
+
+Computer networks are absurdly complex with tradeoffs to get 2 of 3 factors:
+
+- Fast network
+- The state is simple to identify
+- Not many places where things connect
+
 The laws of fluid dynamics indicate all aircraft get 2 of 3 factors:
 
 - Fast
@@ -129,7 +142,7 @@ Military vehicles give 2 of 3 possibilities:
 
 Money can often push the limits, but only to a specific point, and it'll simply make the thing constrained to being prohibitively expensive.
 
-On every dimension of [computer design](computers.md), these same tradeoffs express themselves within the abstract as well.
+On every dimension of [computer design](cs.md), these same tradeoffs express themselves within the abstract as well.
 
 ## More information
 

@@ -332,7 +332,7 @@ If you must, dedicate yourself to mandatory creation time:
 Avoid whatever stifles your creativity:
 
 - Avoid repetitive and boring tasks you don't need to do.
-- While [computers improve productivity](success-4_routine.md), they're [an ordered "box"](computers.md) that force us to presume many constraints.
+- While [computers improve productivity](success-4_routine.md), they're [an ordered "box"](cs.md) that force us to presume many constraints.
 
 Don't worry about having the "right" tools:
 

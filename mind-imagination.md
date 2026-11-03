@@ -128,7 +128,7 @@ APPLICATION: Often, the most "likely" [trends](people-trends.md) are the ones th
 
 - Investing in airplanes in 1900 was a crackpot idea for only crazy people.
 - Cars were once a "dying trend" before they applied assembly line [technology](technology.md) to it.
-- Before the microchip, the "[personal computer](computers.md)" was also a dying trend.
+- Before the microchip, the "[personal computer](cs.md)" was also a dying trend.
 - Economists once predicted that New York City wouldn't be sustainable because it'd be covered in pony poop.
 - [Too many others to count](mind-imagination-badpredictions.md)!
 

@@ -15,7 +15,7 @@ A [corporate culture](groups-large.md) arises through great leaders fostering gr
 
 - A great manager can turn a mediocre or failing [organization](groups-large.md) into a thriving, productive one.
 
-Like [accounting](money-accounting.md), [marketing](marketing.md), or [IT](computers.md), inserting more management into a system is *not* always a good idea.
+Like [accounting](money-accounting.md), [marketing](marketing.md), or [IT](cs.md), inserting more management into a system is *not* always a good idea.
 
 - Management is inherently a support role, though many managers don't see themselves that way (more on that below under "Bad managers").
 - People can often work better alone without supervision, especially if they [believe](mind-trust.md) in the outcome of what they do.

@@ -52,7 +52,7 @@ The first enciphered messages were from a few thousand years ago. Up until compu
   - Frequency analysis requires simply finding highly frequent letters (e.g., "e" is frequent, so many instances of "z" will likely represent "e").
   - ROT13 ([rotate 13 characters](https://rot13.com/)) was an early cryptographic element of the early internet in the 1990s.
 
-The Enigma Machine in 1925 was a very early computer designed for decrypting German military messages, and a key part of the history of [the computer's development](computers.md).
+The Enigma Machine in 1925 was a very early computer designed for decrypting German military messages, and a key part of the history of [the computer's development](cs.md).
 
 ## Philosophy
 

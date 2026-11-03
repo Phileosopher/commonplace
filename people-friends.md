@@ -276,7 +276,7 @@ Keep a diverse group of friends to maintain a healthy view of the world:
 - You should be able to share your strangest and [most controversial ideas](people-trends.md) with them.
 - Have a friend who is highly [analytical](logic.md) and one who has lots of [fun](fun.md).
 - Stay [legally safe](legal-safety.md) by making friends with a police officer or law student.
-- Stay in touch with friends who have [computer skills](computers.md), mechanical skills, or grew up in a bad neighborhood.
+- Stay in touch with friends who have [computer skills](cs.md), mechanical skills, or grew up in a bad neighborhood.
 - Always have friends who are older than you and friends that are younger.
 
 Don't let *anything* get in the way of a great friendship:

@@ -65,7 +65,7 @@ On the way down, every bad system will at least partially destroy its [legacy](l
 A bad system can become permanently hampered, which opens the path for other groups to intervene:
 
 - Unionized workers who require higher pay but with no incentive to work harder (since unions are based strictly on length of time existing in the [group](groups-member.md)).
-- Government [laws](people-rules.md) that prohibit expansion into new related territories (e.g., AT&T's lack of expansion permitted [computers](computers.md) to exist separately from AT&T).
+- Government [laws](people-rules.md) that prohibit expansion into new related territories (e.g., AT&T's lack of expansion permitted [computers](cs.md) to exist separately from AT&T).
 - People who die using their service or product, or die while trying to publicize the organization's failings. If the deaths are [advertised](stories-storytellers.md) severely enough (which means the system didn't bribe media outlets enough), the organization can incur a [long-term mark](people-image-why.md) on its reputation. This can be extra effective if the story is [interesting or symbolic](symbols.md).
 
 There's no easy way to replace a bad system, either:

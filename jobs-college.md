@@ -79,7 +79,7 @@ Some degrees are legitimately useful, but only with 6+ years of investing effort
 Quite a few degrees are technically useful, but the information is free elsewhere, such as on the internet:
 
 - Most business degrees are simply derived from common sense: [business administration](business.md), [entrepreneurship](entrepreneur-1_what.md), [finance](money-investing.md), [human resources](business.md), [management](mgmt-1_why.md), [marketing](marketing.md), [supply chain/logistics](logistics.md).
-- Most [computer science and information technology](computers.md) degrees can be equally met with free online courses and various specialized boot camps and certifications.
+- Most [computer science and information technology](cs.md) degrees can be equally met with free online courses and various specialized boot camps and certifications.
 - [Culinary arts](cooking.md) are fully available by browsing recipe websites and getting certifications.
 - Healthcare administration (e.g., medical billing) is best learned on-the-job and by reading articles about the subject.
 - Travel and tourism have limited use, and most of it is a specialization of marketing.

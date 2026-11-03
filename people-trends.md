@@ -122,9 +122,9 @@ Most large-scale trends tend to cycle themselves into other associated trends:
 
 - Once the air conditioner was invented, populations in deserts dramatically increased.
 - Once someone adapted a guitar to run the strings' vibration through an electrical amplifier, the entire music industry was transformed.
-- Pretty much everything that needs a switch or time-based component now uses silicon-based [computers](computers.md), which makes almost every non-perishable consumer product much cheaper to assemble.
+- Pretty much everything that needs a switch or time-based component now uses silicon-based [computers](cs.md), which makes almost every non-perishable consumer product much cheaper to assemble.
 - [Technology](technology.md) will often create [trend cycles](https://trendless.tech/trends/) that didn't exist before. For example, our [idea](values.md) of "seconds" and "milliseconds" comes from how well we can now [measure](math.md) time.
-- When [mechanical objects](engineering.md) first came into existence, most [science](science.md) of the time treated the body and mind as a mechanical object. The same is true right now with [computers](computers.md).
+- When [mechanical objects](engineering.md) first came into existence, most [science](science.md) of the time treated the body and mind as a mechanical object. The same is true right now with [computers](cs.md).
 
 Many trends feed into each other. Often, society-rocking trends are usually the convergence of *many* people with multiple types of [desires](purpose.md) that get fulfilled from one thing. Typically, they'll fade as fast as they started because our [image](people-image-why.md) of [reality](reality.md) often deceives us, especially when we hear a [story](stories-storytellers.md) that gives us false [hope](mind-understanding-certainty.md).
 

@@ -125,7 +125,7 @@ IQ is a very specific and [scientifically proven](science.md) measure, but psych
 
 - However, everyone intuitively recognizes a low-IQ versus a high-IQ person, which they regard as "intelligence".
 
-The informal answer to IQ can derive from [computers](computers.md) as "processing speed".
+The informal answer to IQ can derive from [computers](cs.md) as "processing speed".
 
 - Since [our memories](mind-memory.md) work as holistic connections, the ability to encode more information creates exponential yields.
 

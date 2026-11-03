@@ -73,7 +73,7 @@ The domains of security break apart into many other subdomains:
 
 - [Law enforcement](legal-safety.md) protects against the violation of a culture's [rules](people-rules.md).
 - Private security protects against their [clients](people-contracts.md) or their possessions.
-- [Cybersecurity](cs-infosec.md) is the protection of adverse events involving [computers](computers.md), which can range from [encryption](encryption.md) to [group policies](cs-infosec-compliance.md).
+- [Cybersecurity](cs-infosec.md) is the protection of adverse events involving [computers](cs.md), which can range from [encryption](encryption.md) to [group policies](cs-infosec-compliance.md).
 - Personal security involves protecting yourself and your possessions.
 - Locks and their mechanisms protect against breaches of physical things.
 - Most domains of [risk management](safety-riskmgmt.md) are [specialized](jobs-specialization.md) towards at least *some* aspect of the philosophies driving a security mindset.

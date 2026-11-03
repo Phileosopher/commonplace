@@ -91,7 +91,7 @@ Comparing numbers/ideas
 - State an arbitrary number or idea that will seem much less favorable than the one they want to [influence](power-influence.md) people toward.
 - Use extremely specific words or numbers to imply something was particularly [calculated](logic.md).
 - Compare numbers that don't really matter to each other, especially via statistics.
-- Using [technology](technology.md), especially [computers](computers.md), to imply something has a factual basis.
+- Using [technology](technology.md), especially [computers](cs.md), to imply something has a factual basis.
 - Make a statement that seems [logical](logic.md), but isn't (e.g., "Feeding someone means they won't want to work.").
 - Repeating something incessantly until it seems more prevalent than something else.
 
@@ -171,7 +171,7 @@ Feelings
 
 Blame
 
-- Blame [technology](technology.md) or its [power](power.md) for [decisions](mind-decisions.md) (e.g., guns, [computers](computers.md)).
+- Blame [technology](technology.md) or its [power](power.md) for [decisions](mind-decisions.md) (e.g., guns, [computers](cs.md)).
 - Redirect an idea by using the implications from specific patterns of words.
 - Imply someone's guilt, but without saying anything that would [legally](people-rules.md) indicate the implication.
 - Claim something difficult to disprove against someone.

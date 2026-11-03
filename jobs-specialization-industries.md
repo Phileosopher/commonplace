@@ -79,7 +79,7 @@ Government
 
 ## Information
 
-[Computers](computers.md)
+[Computers](cs.md)
 
 [Education](education.md)
 
