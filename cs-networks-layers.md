@@ -22,19 +22,40 @@ Computers send information in roughly the same way, though the protocols and imp
    - Computer B takes the payload data and passes it on through another protocol, following *those* instructions.
 3. Repeat dozens, hundreds, maybe thousands or millions of times until all the data is transferred something stops it.
 
-This system is very reliable, though it's ridiculously complex. To keep everything straight, most networking uses sub-standards under the [IEEE 802 committee](https://en.wikipedia.org/wiki/IEEE_802). The entire process "encapsulates" data to go out, then "de-encapsulates" data that comes in.
+This system is reliable, though it's ridiculously complex.
+
+Generally, there are layers that stack onto each other, with each one adding complexity while increasing reliability and features:
+
+1. The lower layers provide services along a single hop. This mostly includes error-checking, flow control, and retransmission.
+2. The middle layers give services between two devices across multiple hops. This largely includes routing and [encryption](encryption.md).
+3. Te top layers give services between two applications, or a similar application *on* the two devices. This often includes decryption, conversion, decompressing, and [file](cs-files.md) management.
+
+To keep everything straight, most networking uses sub-standards under the [IEEE 802 committee](https://en.wikipedia.org/wiki/IEEE_802). The entire process "encapsulates" data to go out, then "de-encapsulates" data that comes in.
 
 To ease with this complexity, engineers use an informal Open Standard Interface (OSI) 7-layer model (covered in a two-part [RFC 1122](https://datatracker.ietf.org/doc/html/rfc1122) and [RFC 1123](https://datatracker.ietf.org/doc/html/rfc1123)). It's not an exact science, and anyone can break these rules any way they want, but it adds some order to an insanely elaborate situation.
 
 The layers, in order:
 
-1. Physical - basically cables and hardware
-2. Data Link - manages the quality and flow of the data itself, irrespective of *what* that data is
-3. Network - directs the data across a large-scale network using IP addresses
-4. Transport - manages the quality and flow of information on the network
-5. Session - establishes and manages each stream of information from/to applications
+1. Physical: cables and hardware that send 0s and 1s
+2. Data Link: manages the quality and flow of the data itself
+3. Network: connects data when it's not a single physical link using IP addresses
+4. Transport: manages the quality and flow of information between different devices
+5. Session - establishes and manages the connections on two different computers for each stream of information
 6. Presentation - converts the data for sending or presenting
 7. Application - the application stores/retrieves the data
+
+There is also an older layer system used by the Department of Defense (DoD):
+
+1. Link (which sends frames)
+2. Internet (which sends packets)
+3. Transport (which sends a stream or blocks)
+4. Application (stream or blocks)
+
+The OSI model makes more sense to be specific, but the DoD model is more widely used.
+
+Amusingly, a later version of the DoD model ended up having seven layers like the OSI network model, but with different variations.
+
+It's worth noting that many protocols span multiple layers. For the sake of reference, the *highest* layer is the official layer something sits in.
 
 It's worth committing the 7 layers to memory in tech because it gives a map to how things could possibly fail.
 
@@ -133,9 +154,24 @@ The Data Link layer's PDUs are called "frames", and each has their own subsectio
 1. Preamble, a 7-byte series of alternating 1s and 0s (101010...) and then a "start frame delimiter" that demarcates the start of the frame.
 2. Header, which has MAC addresses and source/destination nodes.
 3. Body, which has the actual data getting transmitted.
-4. Trailer, which includes "error-correcting code" (ECC) known as a "frame check sequence" (FCS) that often includes a "cyclic redundancy check" (CRC).
+4. Trailer, which includes "error-correcting code" (ECC) that uses a parity bit as well as a "frame check sequence" (FCS) and includes a "cyclic redundancy check" (CRC).
 
-The math for calculating CRC is challenging, but it allows an FCS that's only 4 bytes to accurately verify up to 1,500 bytes of data!
+Parity bits are simple enough to understand. In even parity, add the 1's together in the stream, and then add 0 or 1 to make the number even. If the number is odd on the other side, a bit was flipped. Odd parity is the same thing with an odd number instead.
+
+The math for calculating CRC is challenging:
+
+1. It treats the data as a binary polynomial.
+2. A predefined divisor called the generator polynomial divides the data.
+3. The remainder of the division is the CRC checksum.
+4. The receiver performs the same calculation, then finds the difference, and the data is considered error-free if the remainder is zero.
+5. This allows an FCS that's only 4 bytes to accurately verify up to 1,500 bytes of data.
+
+When there's an error, there are three options inside the transport system:
+
+1. Throw the data away and expect a higher-level protocol or the application to know what to do (which may be to retransmit if the system needs error-free data).
+2. Signal the transmitter there's an error and let the transmitter decide what to do (which will usually be to retransmit).
+3. Gather enough information from the original transmission to attempt to correct the error. This is Forward Error Correction (FEC), and one of the original mechanisms was the Hamming Code:
+   - In effect, the Hamming Code and others are essentially sending the data two or more times in a non-sequential pattern and cross-referencing them with each other.
 
 There's a maximum transmission unit (MTU) size that determines how big frames can get, but if you have a situation like [virtualization](cs-distsys-vm.md) where there's technically nothing long-distance, you can use what's called "jumbo frames" to speed everything up.
 
@@ -343,9 +379,26 @@ Because of how much TCP works with IP, the two pair into a frequently used term 
 
 For [cybersecurity reasons,](cs-infosec.md) some information must be [encrypted](encryption.md) across the internet. While this is *usually* done on Layer 3, it can also be done on Layer 2 (such as L2TP).
 
-Further, some protocols run across *multiple* layers. [Mobile](engineering-radio.md) carrier [protocols](cs-standards.md) run across L1, L2, and L3:
+Further, many protocols run across *multiple* layers. [Mobile](engineering-radio.md) carrier [protocols](cs-standards.md) run across L1, L2, and L3:
 
 - GSM - global system for mobile communications, a European standard on the 900-1800 MHz band that the whole world uses (though the US uses the 1900 MHz band which makes its phones incompatible without dual-band hardware).
 - CDMA - code division multiple access, high-quality [proprietary](legal-ip-floss.md) WWII-era protocol that gives full-band data to multiple connections at once
 - WOO - wireless in local loop, a LAN protocol
 - GPRS - general packet radio services, the standard for 2G and 3G data services
+
+Some protocols are also sporks:
+
+- The Border Gateway Protocol (BGP) gives routing between independent entities, but it also runs on top of the transport layer. However, it's giving reachability information that would make it a network layer protocol.
+- IPsec adds header information to the Internet Protocol (IP), so it (somewhat) runs on top of IP, so it could be a transport protocol (on top of) or a network protocol (parallel to).
+
+It's not as popular, but the Recursive InterNetwork Architecture (RINA) model tries to explain protocols a bit differently:
+
+- Fundamentally, there are four actual functions any protocol can serve:
+  1. Transport
+  2. Multiplexing
+  3. Error correction
+  4. Flow control
+- These four functions naturally group together into two meta-functions:
+  1. Transport and multiplexing
+  2. Error and flow control
+- Most protocols end up doing one of the two meta-functions, and simply at a different scope.

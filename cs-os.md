@@ -30,8 +30,17 @@ At the bottom of the OS is the kernel, which contains the drivers for the [hardw
 
 There are two major approaches to OS design that represent a spectrum:
 
-- A "microkernel" only manages what it has to: [CPU](cs-cpu.md), [memory](cs-memory.md), and IPC ("inter-process communication"). They are extremely portable and take up very little memory. Only specific processes run as "superuser". However, the hardware needs more "device drivers" to run peripherals, the processes will have to wait in line to get information, and the processes won't be able to access other processes.
-- A "monolithic kernel" is also managing the CPU, memory, and IPC, but also includes managing the drivers, files, and "system calls". Everything runs in supervisor mode, and the OS takes more memory. However, it's faster, and the programs can easily handle hardware.
+- A "microkernel" only manages what it has to.
+  - [CPU](cs-cpu.md), [memory](cs-memory.md), and IPC ("inter-process communication") are all part of kernel space.
+  - The application IPC, "device drivers", any servers, and any applications are *all* in user space.
+  - Only specific processes run as "superuser".
+  - However, the processes will have to wait in line to get information, and processes won't be able to easily access kernel processes while being able to easily access user space processes.
+- A "monolithic kernel" manages almost everything.
+  - The CPU, memory, and IPC are part of the kernel space, like in microkernels.
+  - However, device drivers and dispatchers, schedulers, virtual memory, the file system in its entirety including virtual files (VFS) and symlinks, and system calls are all part of the monolith.
+  - Everything runs in supervisor mode, and the OS can take more memory.
+  - However, it's faster, and the programs can easily handle the hardware, and it's centrally controlled which can more easily prevent memory bloat or useless processes.
+  - Further, the [security risks](cs-infosec.md) come from the kernel more often than anywhere else.
 
 [Windows](cs-os-windows.md) and [Mac](cs-os-apple.md) are hybrid kernels that mix both of the architecture designs, while [Linux](cs-os-unix.md) is strictly monolithic.
 
@@ -74,6 +83,14 @@ The other option is to store program memory in a heap with all the other program
 Whenever a program is running, it creates at least one task in the operating system (a "process"). Some processes only start when the user interacts with it, but many processes (such as the clock) run *constantly* on a rhythm in the background.
 
 Each process starts *from* a [file](cs-files.md), but many processes write *to* files or call *other* processes. Processes can "pipeline" data to another process and grab more input data. Since *all* the processes are pipelining, the entire computer can look a bit like a factory assembly line.
+
+The [algorithms](cs-langs-algorithms.md) for process management is *not* simple, though some prioritization is common:
+
+- First come first served (FCFS): use the earliest timestamp for when the process was requested
+- Shortest job first (SJF): calculate how long it will take, then use the shortest one
+- Priority scheduling: assign a numbered priority (or have one defined by the programmer), and work from highest to lowest
+- Round-robin scheduling: give equal time slices (a time quantum), and cycle back to it in a ready queue
+- There are many more, however.
 
 In a microkernel arrangement like [Windows](cs-os-windows.md), programs contain the executable code, but monolithic kernels (like [Unix](cs-os-unix.md)) rely on other software to actually run the binaries and acquire dependencies.
 

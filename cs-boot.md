@@ -56,6 +56,8 @@ Once UEFI came around, they redesigned how hard drives store information with GP
 5. Backup partition entries in LBA -33 through LBA -2, just in case they fail.
 6. Backup primary GPT header in LBA -1, just in case it fails.
 
+UEFI is complex enough that it's an operating system unto itself. It is also not that secure, so Intel's promises that its complexity ensured a secure environment were false.
+
 ## GPT vs. MBR
 
 The existence of a backup GPT header and partition entries is the reason why GPT is inherently safer than simply MBR.

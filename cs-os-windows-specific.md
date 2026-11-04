@@ -200,3 +200,30 @@ Specific programs:
 - Network Connections: (Win)+X, N
 - Apps & Features: (Win)+X, W
 - Mobility Center: (Win)+X, M
+
+## Windows Subsystem for Linux (WSL) enabling
+
+As admin in PowerShell:
+
+`dism /online /Enable-Feature /NoRestart /FeatureName:Microsoft-Windows-Subsystem-Linux`
+
+To enable Developer Mode
+
+Create AppModelUnlock if it doesn't exist, which is required for enabling Developer Mode
+
+```ps
+$RegistryKeyPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock"
+if (-not(Test-Path -Path $RegistryKeyPath)) {
+    New-Item -Path $RegistryKeyPath -ItemType Directory -Force
+}
+```
+
+Add registry entries through PowerShell to enable Developer Mode
+
+```ps
+New-ItemProperty -Path $RegistryKeyPath -Name AllowDevelopmentWithoutDevLicense -PropertyType DWORD -Value 1
+
+$registryUpdates.GetEnumerator() | ForEach-Object {
+    & reg add (Split-Path -Parent $_.Key) /v (Split-Path -Leaf $_.Key) /t REG_DWORD /d $_.Value /f | Out-Null
+}
+```

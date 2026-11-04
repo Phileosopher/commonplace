@@ -13,6 +13,10 @@ Your life with that person is over, and you must accept that:
 - Even if your ex-spouse wants you back, after a few years they won't be that person you knew anymore.
 - Very likely, the reason they left was *because* they're not the person you knew.
 
+The emotional stages of a divorce are relatively common, though the context may vary on the timing.
+
+- Everyone will go through [the stages of a great loss](mind-feelings-sadness.md), and it usually takes about 12-14 months, but possibly longer if the divorce lasted more than a decade.
+
 Legally, a divorce is the termination of a civil agreement.
 
 - Beyond criminal matters (e.g., kidnapping, assault), the courts will see everything as a mere civil dispute.
@@ -72,10 +76,21 @@ Learn gratitude for the time you *do* get with your children, especially since m
 
 ## Going to court
 
+Divorces run through a relatively straightforward, but long, process.
+
+- First, there may be a mediation, who is a third party between the spouses. Alternately, it may be a collaborative divorce with lawyers on each side without going to court.
+- However, most divorces have traditionally involved a judge deciding the marital assets and custody arrangement.
+- The petition is initially delivered, with the recipient party having to file a response (or answer) often within 20-30 days. Without the response, the divorce can be a default divorce where the petitioner gets what they requested.
+- After divorce is initiated, the discovery phase begins where each party states what they want to say about issues, the debts and assets owed by each party, and witnesses who may be asked to testify.
+- The court may create temporary orders that bind the spouses about physical use of the family home, child custody, physical protection of a spouse or child, bans on marital property use or transfer, taking unnecessary debt, and changes to [insurance](money-insurance.md).
+- The divorce then goes to a trial, but can have a settlement reached if both parties can consent to an arrangement.
+- The finalized divorce will then be laid out in a legal document (or final judgment of divorce, or divorce decree).
+- Either party can appeal, but there are other conditions that apply, and both parties have to get new lawyers, and not all appeals are heard by the judges.
+
 The divorce process is already a drawn-out process that can take months to years, but it can go longer.
 
 - Fault divorces often have a shorter statute (e.g., 1 year), but no-fault divorces can go for 2-4 years.
-- Part of the [trauma](hardship-ptsd.md) of divorce comes in how our desire for [justice](morality-justice.md) is rarely satisfied in a timely manner.
+- Part of the [trauma](hardship-ptsd.md) of divorce comes in how our desire for [justice](morality-justice.md) is rarely satisfied in a timely manner, as well as the limits of judges to observe the details of a case.
 
 Ideally, you'll be able to settle an agreement with them.
 
@@ -111,6 +126,24 @@ Children often learn to silently adapt to the trauma.
 - They learn to behave correctly for each parent's home and in court settings.
 - The [uncertainty](mind-understanding-certainty.md) and [emotional pain](hardship-ptsd.md) is so severe that they often learn to hide their true feelings and ignore what they need.
 
+Be careful falling into major pitfalls during the divorce.
+
+- Your focus should be on the best interests of the child, *not* on "winning" against your ex.
+- Letting [emotions](mind-feelings.md) take over means you may say something you regret.
+- Speaking negatively about the other parent is perfectly natural, but it has to be based on facts, and your concerns should solely be for the child's best interests.
+- To the degree possible, stay actively involved in the child's school, routines, and healthcare.
+- Follow all court orders and parenting agreements to show respect and reliability.
+- Communicate clearly, especially [in writing](language-writing.md), but make sure you don't overload the court with irrelevant details.
+- Openly address concerns and acknowledge issues, including considering the other parent's perspective and addressing perceived problems.
+- Maintain good behavior inside and outside the courts.
+  - In particular, avoid escalating any [conflict](people-conflicts-bad.md) *outside* the courts.
+
+The evidence will be quietly built between the court hearings, and then demonstrate itself during the various hearings.
+
+- Courts tend to assess the present state of things, not what has happened previously.
+- Often, children can change their opinion in the presence of conflicting information, intensified conflicts at home, or disparaging remarks about the other parent.
+- Missing visits or not fulfilling promises can be disastrous to a parent.
+
 If your ex is a [Cluster B personality](mind-neurodivergence-clusterb.md), they will almost certainly weaponize your relationship with your children.
 
 - They see your children as an extension of themselves, so they will got great lengths to ensure they are fully obedient to everything they demand.
@@ -119,6 +152,8 @@ If your ex is a [Cluster B personality](mind-neurodivergence-clusterb.md), they 
 - Get therapy for your children.
   - Many parents miss the symptoms of traumatized children because the children have taken the role of parent with their guardian ("emotional parentification").
   - They need to know they are safe, loved, and worth it, and that will require *years* of therapy to unwind what they're thinking and feeling from what they've been taught to think and suppress.
+- Further, they will often work to portray a perfect image to everyone around them.
+  - Many times, they will go above and beyond anything reasonable, including [going into debt](money-2_debt.md), for the purpose of harming their ex's reputation.
 
 Coparenting during and after divorce is simply not possible with a high-conflict ex.
 

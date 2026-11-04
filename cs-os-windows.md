@@ -17,6 +17,14 @@ This license arrangement meant that Windows made money when they were able to mo
 
 ## History
 
+Windows' philosophy is an extension of Bill Gates' business model.
+
+- By design, Bill Gates has always been [predatory](mgmt-badsystems.md) by imitating everything else at a discount. This includes buying out smaller software and rebranding, blatantly violating [IP law](legal-ip.md) by ripping off key features from other products, and driving competition out of business.
+- The playbook has been built on Embrace, Extend, Extinguish:
+  1. Embrace: use [open standards](standards.md) for itself.
+  2. Extend: add to those open standards with closed-source standards that extend the functionality of those open standards.
+  3. Extinguish: close off the open standard once the closed standard has been heavily adopted by the community.
+
 Before Windows was MS-DOS, a [command-line interface](cs-cli.md) released in 1981.
 
 - MS-DOS rapidly became ubiquitous with personal computing because Microsoft's creator, Bill Gates, scored a nonexclusive [contract](people-contracts.md) with IBM.

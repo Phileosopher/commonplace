@@ -3,13 +3,29 @@
 
 Even though the interface of Linux *can* look quite a bit like Windows (especially with distros like [Zorin OS](https://zorin.com)), there are many differences under the hood between the operating systems.
 
-## Portability
+## Portability and licensing
 
-Windows 10 takes about 30-60 GB of storage space, while Linux takes <1-20 GB of storage space depending on the distro.
+Windows 10 takes about 30-60 GB of storage space depending on God knows what, while Linux takes <1-20 GB of storage space depending on the distro.
 
 Windows has a recovery drive that only installs a licensed copy on a motherboard that came from the manufacturer with Windows (and used to be an installation CD). Linux has a fully-functional OS that runs from a flash drive and can install itself to local storage.
 
-## Case-sensitive
+To install Windows on an unlicensed system, it either requires a cracked or restricted version of Windows. By contrast, Linux runs everywhere.
+
+Most of the time, a Linux config can be reduced to makefiles and dotfiles. By contrast, a Windows config often requires a pile of .exe files and documentation about any specific configurations.
+
+As far as processing requirements, Linux can run on a potato (maybe literally), while Windows needs a modern computer.
+
+## Security
+
+Windows uses a microkernel arrangement, so security has a lot to do with how secure each application is.
+
+By contrast, Linux is a monolithic kernel, where the kernel is heavily scrutinized by many developers.
+
+Overall, Linux is therefore more secure, but the people who run Linux are also relatively more tech-savvy, making it more secure in that sense as well.
+
+## Files and case-sensitivity
+
+The kernel in Windows interprets what the file is based on the file extension. By contrast, Unix-likes ignore the file extension and look at the content and permissions to determine how to work with it.
 
 The files and commands in Linux are case-sensitive, while Windows isn't:
 
@@ -33,36 +49,6 @@ Windows' folder organization is pretty straightforward:
 
 On the other hand, [Linux' file system](cs-os-unix.md) is based on the logical flow of the software developer who wrote the code, with many files and folders sitting everywhere in the folder tree for a variety of purposes.
 
-## General tips
-
-Here are a few tips to avoid making awful mistakes while using Linux:
-
-- If there's any stock software the OS came with (such as a [file manager](cs-files.md) or software-based [keyboard](cs-keyboard.md)), *do not uninstall it*. If you want something new, simply install the new one and use it.
-- Don't bother trying to run a common Windows-based software that has a Linux alternative (e.g., Microsoft Office). You *can* use the Windows-based interface (called "Wine"), but you'll usually have a better time with a Linux-based alternative if the software is even remotely popular.
-- Most of the Linux-based [UI](engineering-design.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
-- Websearch frequently what you don't know. Your lack of knowledge isn't new, and there's usually an answer somewhere about it.
-
-Most "original equipment manufacturers" (OEMs) that come with [Windows](cs-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot.
-
-- Usually, you'll first need to find a way into the BIOS, disable Secure Boot, then boot from a USB drive.
-  - Microsoft has been very slow and ineffective at supporting Linux on their hardware, so their Secure Boot and Trusted Platform Module (TPM) false-positives Linux as malware.
-- If you're dual-booting, you may need to select your OS from the boot menu *every time*.
-- It's usually GRUB, since UEFI bootloaders are locked-down by Microsoft.
-  - Ironically, the alleged security that comes with UEFI is *not* as reliable as Microsoft or Intel claim.
-
-Dual-booting is *very* cool because it's the best of both worlds, but it comes with downsides and risks:
-
-- You need to be sure you have enough [long-term storage](cs-memory.md) to hold both OS distros, along with room for applications.
-  - Since the drives are using different journaling systems (NTFS vs ext4 usually), the user files may not be accessible from both OS.
-- Linux bootloaders are intelligent enough to detect Windows, but Windows is *not* programmed to track a Linux partition. For that reason, install Linux *after* Windows to ensure they're both accessible.
-- The [time](standards-datetime.md) between Linux and Windows is fiddly.
-  - Essentially, the CMOS battery tracks the hardware time, and the OS takes that time when it boots and makes it the system time.
-  - The computer time [standard](cs-standards.md) uses UTC, then offsets it for the time zone (e.g., UTC -7:00).
-  - Windows assumes the hardware time is already offset, while Linux assumes the time is UTC.
-  - This means that, depending on how the systems are configured, you will frequently see one of the OS offset by that much time.
-  - The answer is to manually configure the system to pull the time from the internet or to reconfigure either Windows or Linux to not adjust the time.
-  - This would normally be a minor annoyance, but can dramatically affect [authentication](cs-infosec-authentication.md) if the certificate requires a timestamp and [cloud synchronization](cs-distsys-cloud.md) by overwriting more recent files with older ones.
-
 ## Versions
 
 Windows has very clear-cut versions:
@@ -79,7 +65,9 @@ Linux, on the other hand, has [a variety of distros](cs-os-unix-distros.md) that
 
 Nothing really binds Linux distros together as the same OS very much except the kernel (though different versions of the same distro have quite a bit in common), whereas Windows versions are predictably interoperable, with the OS making most software at least *somewhat* backwards-compatible.
 
-## Programs
+## Software and updates
+
+While the distro may vary, the pre-installed tools for Windows are inferior to Linux's initial setup. There are also many more options available for Linux.
 
 Getting a new Windows program is a specific process:
 
@@ -104,6 +92,48 @@ While Linux is more work to get the dependencies set up, it's safer because secu
 
 As far as backwards compatibility goes, Linux is almost always prepared to run old software, while Windows often requires some workarounds. Ironically, Mac often simply doesn't run older software.
 
-## Files
+## Privacy
 
-The kernel in Windows interprets what the file is based on the file extension. By contrast, Unix-likes ignore the file extension and look at the content and permissions to determine how to work with it.
+While some distros do track users, Windows *always* tracks user data.
+
+Linux also gives the option to observe everything that happens in the system, while Windows' services and network calls are often opaque.
+
+## Optimization
+
+Windows' task automation usually involves downloading software or, in a more advanced capacity, programming in [VB.NET](cs-langs-specific-basic.md) or [C#](cs-langs-specific-c#.md).
+
+By contrast, almost everything in Linux works with shell scripts, especially [bash](cs-cli-specific-bash.md).
+
+The GUI is also more customizable in Linux, with the ability to swap out any desktop environment you prefer. Windows requires third-party apps to force the changes you want.
+
+This compounds at scale, and most Windows experiences involve lots of clicking, while most Linux experiences involve dropping to [terminals](cs-cli.md).
+
+## Other general tips
+
+Here are a few tips to avoid making awful mistakes while using Linux:
+
+- If there's any stock software the OS came with (such as a [file manager](cs-files.md) or software-based [keyboard](cs-keyboard.md)), *do not uninstall it*. If you want something new, simply install the new one and use it.
+- Don't bother trying to run a common Windows-based software that has a Linux alternative (e.g., Microsoft Office). You *can* use the Windows-based interface (called "Wine"), but you'll usually have a better time with a Linux-based alternative if the software is even remotely popular.
+- Most of the Linux-based [UI](engineering-design.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
+- Websearch frequently what you don't know. Your lack of knowledge isn't new, and there's usually an answer somewhere about it, and Linux gives legitimately meaningful error messages.
+
+Most "original equipment manufacturers" (OEMs) that come with [Windows](cs-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot.
+
+- Usually, you'll first need to find a way into the BIOS, disable Secure Boot, then boot from a USB drive.
+  - Microsoft has been very slow and ineffective at supporting Linux on their hardware, so their Secure Boot and Trusted Platform Module (TPM) false-positives Linux as malware.
+- If you're dual-booting, you may need to select your OS from the boot menu *every time*.
+- It's usually GRUB, since UEFI bootloaders are locked-down by Microsoft.
+  - Ironically, the alleged security that comes with UEFI is *not* as reliable as Microsoft or Intel claim.
+
+Dual-booting is *very* cool because it's the best of both worlds, but it comes with downsides and risks:
+
+- You need to be sure you have enough [long-term storage](cs-memory.md) to hold both OS distros, along with room for applications.
+  - Since the drives are using different journaling systems (NTFS vs ext4 usually), the user files may not be accessible from both OS.
+- Linux bootloaders are intelligent enough to detect Windows, but Windows is *not* programmed to track a Linux partition. For that reason, install Linux *after* Windows to ensure they're both accessible.
+- The [time](standards-datetime.md) between Linux and Windows is fiddly.
+  - Essentially, the CMOS battery tracks the hardware time, and the OS takes that time when it boots and makes it the system time.
+  - The computer time [standard](cs-standards.md) uses UTC, then offsets it for the time zone (e.g., UTC -7:00).
+  - Windows assumes the hardware time is already offset, while Linux assumes the time is UTC.
+  - This means that, depending on how the systems are configured, you will frequently see one of the OS offset by that much time.
+  - The answer is to manually configure the system to pull the time from the internet or to reconfigure either Windows or Linux to not adjust the time.
+  - This would normally be a minor annoyance, but can dramatically affect [authentication](cs-infosec-authentication.md) if the certificate requires a timestamp and [cloud synchronization](cs-distsys-cloud.md) by overwriting more recent files with older ones.

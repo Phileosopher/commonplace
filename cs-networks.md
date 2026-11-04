@@ -61,13 +61,26 @@ Generally, any network topology that values complete "redundancy" should have 2 
 
 At its most basic, a computer needs an IP address, subnet mask, gateway, and DNS server to connect to a typical network.
 
-Due to the complexity of a computer network, there is [a specific set of layers](cs-networks-layers.md) to understand how network information is sent.
+Due to the complexity of a computer network, there is [a specific set of layers](cs-networks-layers.md) to understand how network information is sent. It is an over-simplification, but allows people to understand it more easily.
 
 The journey to finding a loop-free path (where packets aren't traveling in a circle back to a previous node) was *not* an easy problem. The approach eventually landed on the Open Shortest Path First (OSPF) protocol, but there have been three major classes of solutions to solve the issue:
 
 - Distance vector protocols: count the cost of the path through all the hops and choose the lowest cost
 - Link state protocols: use a database synchronized across devices of the pathway's hops
 - Path vector: keep a record of previous hops
+
+## Signal transmission
+
+Sometimes the sender is simply sending data too fast for the receiver to get it, creating a buffer overflow. To avoid this, the signaling to express non-receipt must be implicit or explicit.
+
+- Implicit signaling, which is the most common, means the transmitter assumes the packet hasn't been received due to some type of context about the traffic stream (e.g., the receiver didn't acknowledge receipt of the packet).
+- Explicit signaling means the receiver is directly informing the sender that a packet hasn't been received.
+
+Windowing is the most widely deployed method:
+
+1. A transmitter sends some information, then waits before deciding if the information was sent correctly.
+2. If the receiver acknowledges receipt within a specified amount of time, the transmitter sends more information.
+3. If the receiver doesn't acknowledge receipt within that window of time, the transmitter sends the same information.
 
 ## LANs
 
@@ -103,6 +116,14 @@ There are sometimes multiple ways for a signal to travel across long distances. 
 
 - Link-state routing protocol - build a map of switches connected to each other and picks the route with the fewest jumps between switches. This typically uses the "open shortest path first" (OSPF) protocol to send "link state advertisements" to find open IP addresses.
 - Distance-vector routing protocol - build a map that measures the times for a signal to travel (accounting for latency and other issues) and picks the shortest route by perceived distance.
+
+## Multiple sources and destinations
+
+Multicasting is a relatively common concept: broadcast information to many destinations at once from one source.
+
+A less familiar concept with equal validity is anycasting: drawing information from one of multiple sources.
+
+- The easiest solution to this is to use the same reference for all the sources. That way, the computer asking for the information will simply look for the nearest source to itself.
 
 ## Documentation
 

@@ -112,6 +112,16 @@ Other:
 
 Very often, the [spirit of freedom](legal-ip-floss.md) comes through protocols. Platforms are proprietary, but protocols allow a broader interoperability between various computers, programs, and tasks.
 
+There are multiple ways to move from one protocol to another, more up-to-date one. This also applies to [programming languages](cs-langs.md) as well:
+
+1. Design the new protocol to overlap with the old one. It's sometimes called the ships in the night solution, since neither of the protocols need to interact whatsoever.
+2. Pick a very specific date and time to switch from the old protocol to the new one. This is called a flag day because it was once based on the ASCII 1965 to ASCII 1967 conversion. This can be very, *very* dramatic, depending on how it happens.
+3. Design the new protocol so a single version has multiple versions of the same information. This effectively pipes the old version's standards into the new version's framework, and then the older standard can be replaced.
+   - RFC 760 clarifies that an implementation must be conservative in sending and liberal in receiving (i.e., broad to listen and narrow to speak).
+   - The issue, however, is that everything needs to update to the new standards. Otherwise, there will eternally be two or more ways of doing the exact same thing and complications from that fact.
+
+## Specific standards
+
 Cabling:
 
 - USB - Universal Serial Bus, a standard swappable cable for most computers designed to be as near-universal as possible:
