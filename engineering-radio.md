@@ -9,42 +9,62 @@ As the frequency increases, the wavelength decreases. The relationship between t
 
 The Doppler effect is the relative shift in frequencies due to speed differences. It also applies to other waves (e.g., [sound](engineering-audio.md)), and shows when sending and receiving radio signals operate at different speeds. This is essentially how radar speed guns work, where it reads the relative variance between its transmitted and received frequencies.
 
-One of the most frequently used implementations of radio is for detecting and determining distance from somewhere else, also known as "radar". Most [geolocation](logistics-navigation.md) uses multiple radio towers with variations of radar protocols to more precisely determine a device's location than simple satellite coordination.
-
 There are many, many frequency allocations in the United States. The US' FCC guidelines separate the signals and make specific signal strength limits, which permits signals to not disrupt each other across different uses:
 
-- 9-535 kHz: exclusively mobile communications, [radiolocation](logistics-navigation.md), and radionavigation for aircraft/ships
-- 535-1705 kHz: AM radio (if those numbers didn't seem familiar)
-- 1705-5005 kHz: general radiolocation, aircraft/ship mobile, and amateur radio
+- 9-535 kHz (33k-560 meters wavelength)
+  - exclusively mobile communications, [radiolocation](logistics-navigation.md), and radionavigation for aircraft/ships
+- 535-1705 kHz (560-176 meters wavelength)
+  - AM radio (if those numbers didn't seem familiar)
+- 1705-5005 kHz (176-60 meters wavelength)
+  - general radiolocation, aircraft/ship mobile, and amateur radio
 - Standard frequency/time signal at 5 MHz (4.995-5.005)
-- 4.995-9.95 MHz: mix of TV broadcasting channels 5/7/9, aircraft/ship mobile, and amateur radio/satellite
+- 4.995-9.95 MHz (60-30 meters wavelength)
+  - mix of TV broadcasting channels 5/7/9, aircraft/ship mobile, and amateur radio/satellite
 - Standard frequency/time signal at 10 MHz (9.995-10.005)
-- 10.005-14.99 MHz: mix of TV broadcasting channels 11 and 13, aircraft/ship mobile, amateur radio, radio astronomy
+- 10.005-14.99 MHz (30-20 meters wavelength)
+  - mix of TV broadcasting channels 11 and 13, aircraft/ship mobile, amateur radio, radio astronomy
 - Standard frequency/time signal at 15 MHz (14.99-15.01)
-- 15.01-19.99 MHz: mix of TV broadcasting channels 15/17/18, aircraft/ship mobile, and amateur radio/satellite
+- 15.01-19.99 MHz (20-15 meters wavelength)
+  - mix of TV broadcasting channels 15/17/18, aircraft/ship mobile, and amateur radio/satellite
 - Standard frequency/time signal at 20 MHz (19.99-20.01)
-- 19.99-24.99 MHz: TV channel 21, aircraft mobile, amateur radio/satellite
+- 19.99-24.99 MHz (15-12 meters wavelength)
+  - TV channel 21, aircraft mobile, amateur radio/satellite
 - Standard frequency/time signal at 25 MHz (24.99-25.01)
-- 25.01-50 MHz: mostly mobile and land mobile allocations interspersed with ship mobile, TV channel 26, and radio astronomy
-- 50-54 MHz: amateur radio
-- 54-88 MHz: TV broadcasting, with a small aircraft navigation and radio astronomy band in between
-- 88.0-108.0 MHz: FM radio (if *those* numbers didn't seem familiar)
-- 108-137 MHz: aircraft radionavigation/mobile
-- 137-138 MHz: space-to-earth [satellite](logistics-navigation.md) communication
-- 138-174 MHz: mix of satellite radionavigation/mobile, amateur radio/satellite, and ship/land mobile
-- 174-216 MHz: TV broadcasting
-- 216-400.05 MHz: mix of land/satellite mobile and aircraft/satellite radionavigation
+- 25.01-50 MHz (12-6 meters wavelength)
+  - mostly mobile and land mobile allocations interspersed with ship mobile, TV channel 26, and radio astronomy
+- 50-54 MHz (6-5.5 meters wavelength)
+  - amateur radio
+- 54-88 MHz (5.5-3.4 meters wavelength)
+  - TV broadcasting, with a small aircraft navigation and radio astronomy band in between
+- 88.0-108.0 MHz (3.4-2.77 meters wavelength)
+  - FM radio (if *those* numbers didn't seem familiar)
+- 108-137 MHz (2.77-2.18 meters wavelength)
+  - aircraft radionavigation/mobile
+- 137-174 MHz (2.18-1.72 meters wavelength)
+  - mix of space-to-earth [satellite](logistics-navigation.md) communication, satellite radionavigation/mobile, amateur radio/satellite, and ship/land mobile
+- 174-216 MHz (1.72-1.38 meters wavelength)
+  - TV broadcasting
+- 216-400.05 MHz (1.72-0.75 meters wavelength)
+  - mix of land/satellite mobile and aircraft/satellite radionavigation
 - Standard frequency/time signal at 400.1 MHz (400.05-400.15)
-- 400.15-420 MHz: space-to-earth and earth-to-space satellite communications, radio astronomy, and radiosondes (radio communications from weather balloons)
-- 420-450 MHz: amateur radio and radiolocation
-- 450-960 MHz: land mobile and TV broadcasting with a few bands for radio astronomy, aircraft mobile, and radiolocation
-- 960MHz - 300 GHz: a vast range of radionavigation, various [satellite bands](logistics-navigation.md), wireless networks, radio astronomy, space research/operations, amateur radio, and radiolocation
+- 400.15-420 MHz (0.75-0.71 meters wavelength)
+  - space-to-earth and earth-to-space satellite communications, radio astronomy, and radiosondes (radio communications from weather balloons)
+- 420-450 MHz (0.71-0.67 meters wavelength)
+  - amateur radio and radiolocation
+- 450-960 MHz (0.71-0.31 meters wavelength)
+  - land mobile and TV broadcasting with a few bands for radio astronomy, aircraft mobile, and radiolocation
+- 960MHz-300 GHz (0.31-0.01 meters wavelength)
+  - a vast range of radionavigation, various [satellite bands](logistics-navigation.md), wireless networks, radio astronomy, space research/operations, amateur radio, and radiolocation
 - Up near the top end of the spectrum, more frequencies are allocated to radio astronomy.
 - And, sandwiched throughout *everything* are many, many mobile cell phone allocations, with a few reservations for government-only communication.
 
-On this spectrum, Bluetooth signals sit at 2.4 GHz and Wi-Fi at 2.4 and 5 GHz, but they don't show up on the chart because they don't broadcast very far. 2.4 travels through materials better than 5, so it'll never be a *completely* obsolete standard for wireless internet.
+On the spectrum, Bluetooth signals sit at 2.4 GHz and Wi-Fi at 2.4 and 5 GHz, but they don't show up on the chart because they don't broadcast very far. 2.4 travels through materials better than 5, so it'll never be a *completely* obsolete standard for wireless internet.
 
-Ham radio operators are the only people allowed to use devices that go across *multiple* radio frequency spectra, but they need a few tiers of certification before they can operate them.
+One of the key indicators of distance is the general rule that a radio signal's strength in air loses half its power for every wavelength of space it travels.
+
+- One of the most frequently used implementations of radio is for detecting and determining distance from somewhere else, also known as "radar". Most [geolocation](logistics-navigation.md) uses multiple radio towers with variations of radar protocols to more precisely determine a device's location than simple satellite coordination.
+
+Ham radio operators are the only people allowed to use devices that go across *multiple* radio frequency spectra, but they need a few tiers of government certification before they can operate them.
 
 Shortwave broadcasts will *always* be useful because they're often the only way to communicate in [an emergency](hardship-disaster-1_short.md).
 

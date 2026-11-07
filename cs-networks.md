@@ -82,6 +82,47 @@ Windowing is the most widely deployed method:
 2. If the receiver acknowledges receipt within a specified amount of time, the transmitter sends more information.
 3. If the receiver doesn't acknowledge receipt within that window of time, the transmitter sends the same information.
 
+Sometimes a link aggregation scheme will take multiple physical links and bundle them into a single virtual link. For the sake of the protocols, this is considered a single physical link, but the actual link speeds do *not* scale in proportion (i.e., 2 10Gbps links do not, in fact, make 20Gbps in practice).
+
+- To manage out-of-order packets, it computes a hash from specific packet header fields to make a consistent hash throughout the transmission.
+  - The easiest form of hashing involves adding the digits of numbers together (e.g., 2105 becomes 8).
+  - Typically, the 5-tuple fields are used: source and destination IP, source and destination port, and protocol.
+- The protocol for handling this is the Link Aggregation Control Protocol (LACP) from the IEEE 802.3ad standard.
+  - It establishes a link, but then recalculates the flow hash if any links inside the connection go down.
+- Very often, any combined links will be unevenly load-balanced, so they will not reflect identical capacities.
+- There is also Multichassis Link Aggregation (MLAG) by the Arista corporation, which allows a single aggregated link bundle to span multiple network switches.
+  - This is usually for physical redundancy than actual speed.
+  - MLAG is proprietary, so its spirit remains even while most networks shy away from it.
+
+## Transferring through a computer
+
+Unless the signal travels directly on a medium, it will change as it travels.
+
+- Its "time to live" (TTL) will decrement by 1 as it is routed.
+- Depending on where it's going, header information may be removed or updated.
+
+As it travels through the computer, it may go down several pathways:
+
+1. Input to main memory and then to an interrupt (which schedules another process in the GPP for later), then possibly to a switching application that modifies the packet.
+   - This is called process switching, and is considered the slow path.
+2. Input to main memory but then the *input device* sends an interrupt and processes the packet, then to output.
+3. Input to an application-specific integrated circuit (ASIC) or its memory with an interrupt, the ASIC treats the interrupt as a packet switch, then sends it to output.
+   - This is the high-speed solution, since the interrupt triggers an automatic conversion and it avoids the main [CPU](cs-cpu.md) entirely.
+
+The bus, or fabric, is built into an internal network called a Clos network:
+
+- There are 3 stages: ingress, middle, and egress.
+- Each stage has switches called crossbars to connect them.
+- The network is built where every ingress crossbar can route to any middle stage crossbar, which can then route to the relevant output.
+- The entire system is built on highly precise timing, and the experience is a miniature version of a driver transferring highways (i.e., wait A minutes then get off on exit B, then wait C minutes to get off on exit D).
+- Another implementation is called the spine and leaf fabric.
+- To avoid contention (multiple packets sending to a single receiver at the same time), the switch will either use an input queue or use multiple virtual output queues (VOQ) per input port.
+- the iSLIP algorithm manages crossbar fabric by scheduling traffic to avoid contention:
+  1. Request: all ingress with queued traffic ask their egress if they can send.
+  2. Grant: each egress determines which ingress should send, doing it round-robin if there are multiple.
+  3. Accept: the egress only moves to the next request when it receives a Grant from the ingress
+- There are also variations to iSLIP to alter traffic such as prioritized, threshold, and weighted iSLIP.
+
 ## LANs
 
 "Local area networks" (LANs) are the sections of the network that you have more direct control over. It's the first historical foray into networked computers. Most LANs use shared resources, such as file servers.

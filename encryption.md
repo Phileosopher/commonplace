@@ -113,6 +113,8 @@ There are [many specific encryption algorithms for various needs](encryption-alg
 
 To add even more security, perfect forward secrecy generates a new key for *every* transmission.
 
+- Further, to counter dictionary and rainbow table attacks, many systems will "salt" the encrypted information by adding random strings of text to existing data.
+
 ## Popular Ciphers
 
 Some encryption can be cracked and "reverse engineered", but others are nearly unbeatable. Ciphers have been frequently compromised, so new ones must replace them with extra degrees of complexity.

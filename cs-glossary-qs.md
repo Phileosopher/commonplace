@@ -135,6 +135,8 @@ Runtime error - a situation where a computer does exactly what it's told, but wo
 
 ## S
 
+Salt - add strings of random data to existing data to prevent rainbow table or dictionary attacks
+
 Sampling - the data speed that audio or video is being captured or played back
 
 Sampling depth - the amount of data for each sample from a sampling rate

@@ -21,7 +21,9 @@ Scanners come in various forms:
 
 In one sense, a flatbed scanner works a bit like the reverse of a [printer](engineering-printers.md): slowly move from one side to another, often with a light to illuminate the information, and a sensor captures the image and converts it into [encoded color](engineering-graphics.md) line-by-line.
 
-The primary [driver](cs-os.md) technology that runs scanners is called "TWAIN", which is a reference to "never the twain shall meet" in light of how difficult connecting a scanner to a computer can be. That's not an exaggeration, and printer/scanner technology is irritatingly difficult to [break-fix](https://adequate.life/fix/).
+- However, in practice, the light source is ideally a narrowband trichromatic (RGB) source instead of simply white light, and most professional-grade scanners include this.
+
+The primary [driver](cs-os.md) technology that runs scanners is called "TWAIN", which is a reference to "never the twain shall meet" in light of how difficult connecting a scanner to a computer can be. That's not an exaggeration, and [printer](engineering-printers.md)/scanner technology is irritatingly difficult to [break-fix](https://adequate.life/fix/).
 
 ## Reading text
 
@@ -38,6 +40,8 @@ Often, OCR images can have transcription errors over familiar text (e.g., "a" is
 If a computer can *read* text, it's a trivial additional step for it to be able to *create* it as well, and a copier is effectively passing the incoming information to a printer.
 
 ## Scanned files
+
+Since scans are never perfect, there are a *lot* of various post-processing operations most scanner drivers do to the image. This includes straightening, color adjustments for colors that bleed onto nearby pixels, and various other effects.
 
 Broadly speaking, there are several major standards for scanned document files:
 

@@ -145,7 +145,8 @@ In the past 3 hours:
 
 If it's daytime:
 
-- Are you [dressed](clothes.md)?
+- Are you [dressed](clothes.md) in fresh clothes?
+- Have you gone outside?
 
 If it's nighttime:
 
@@ -153,19 +154,24 @@ If it's nighttime:
 
 In the past day:
 
-- Have you [showered](body-hygiene.md)?
+- Have you [showered](body-hygiene.md) or bathed?
 - Have you [stretched](body-stretch.md)?
 - Have you said anything nice to someone?
 - Have you enjoyed pleasant music?
+- Beyond hygiene, have you taken care of yourself (e.g., lotion, shaved)?
+- Have you [organized](organization.md) or [cleaned](home-housekeeping.md) anything?
+- Have you [prayed](spiritual-exercises-prayer.md)?
 
 In the past 2 days:
 
-- Have you had any positive physical contact (hugging, cuddling, etc.)?
+- Have you had any positive physical contact (hugging, cuddling, etc.), even from [pets](fun-pets.md)?
+- Have you [cooked](cooking.md) anything?
 
 In the past few weeks:
 
-- Have you spent any time with [friends](people-friends.md)?
+- Have you spent any time with [friends](people-friends.md), in-person or remote?
 - Have you seen a therapist?
 - Have you changed any of your medications?
+- Have you [created](mind-creativity-how.md) anything?
 
 And, if you still want to do something significant, have you waited a week?

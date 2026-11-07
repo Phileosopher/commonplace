@@ -32,7 +32,28 @@ Generally, there are layers that stack onto each other, with each one adding com
 
 To keep everything straight, most networking uses sub-standards under the [IEEE 802 committee](https://en.wikipedia.org/wiki/IEEE_802). The entire process "encapsulates" data to go out, then "de-encapsulates" data that comes in.
 
-To ease with this complexity, engineers use an informal Open Standard Interface (OSI) 7-layer model (covered in a two-part [RFC 1122](https://datatracker.ietf.org/doc/html/rfc1122) and [RFC 1123](https://datatracker.ietf.org/doc/html/rfc1123)). It's not an exact science, and anyone can break these rules any way they want, but it adds some order to an insanely elaborate situation.
+It's worth noting that most protocols span multiple layers.
+
+- Protocols on one layer must often output information that applies toward another layer.
+- For the sake of reference, the *highest* layer is typically the official layer something sits in.
+
+To talk between layers across networks, there are four major ways to do it.
+
+1. Using well-known or manually configured identifiers.
+2. Storing information into a mapping [database](database.md) that services can access.
+3. Broadcasting the mapping between two identifiers through the protocol itself.
+4. Calculating what any given identifier is associated to.
+
+As the protocols get more complex up the chain, the data gets bigger.
+
+- Each of the layers uses a different "protocol data unit" (PDU) to specify how large a chunk of information that it's working with.
+- The higher-layer protocol is responsible for slicing up the data into smaller pieces for the lower-layer protocol.
+
+## OSI model
+
+To ease with the inherent complexity of networks, engineers use an informal Open Standard Interface (OSI) 7-layer model (covered in a two-part [RFC 1122](https://datatracker.ietf.org/doc/html/rfc1122) and [RFC 1123](https://datatracker.ietf.org/doc/html/rfc1123)) for the sake of education.
+
+- It's not an exact science, and anyone can break these rules any way they want, but it adds some order to an insanely elaborate situation.
 
 The layers, in order:
 
@@ -43,19 +64,6 @@ The layers, in order:
 5. Session - establishes and manages the connections on two different computers for each stream of information
 6. Presentation - converts the data for sending or presenting
 7. Application - the application stores/retrieves the data
-
-There is also an older layer system used by the Department of Defense (DoD):
-
-1. Link (which sends frames)
-2. Internet (which sends packets)
-3. Transport (which sends a stream or blocks)
-4. Application (stream or blocks)
-
-The OSI model makes more sense to be specific, but the DoD model is more widely used.
-
-Amusingly, a later version of the DoD model ended up having seven layers like the OSI network model, but with different variations.
-
-It's worth noting that many protocols span multiple layers. For the sake of reference, the *highest* layer is the official layer something sits in.
 
 It's worth committing the 7 layers to memory in tech because it gives a map to how things could possibly fail.
 
@@ -68,9 +76,7 @@ A few good mnemonics for the OSI model:
 
 Since the OSI model didn't think about the internet, the TCP/IP model is 5 layers, with the Session and Presentation model rolled together as part of the Application model.
 
-As the protocols get more complex up the chain, the data gets bigger. Each of the layers uses a different "protocol data unit" (PDU) to specify how large a chunk of information that it's working with.
-
-## Layer 1: physical
+### Layer 1: physical
 
 The PDU on the physical layer a bit-by-bit perspective: one 0 or 1 at a time.
 
@@ -124,7 +130,7 @@ Every device has a 36-character "universally unique identifier" (UUID) or "globa
 
 Internet service providers (e.g., AT&T, Verizon, TimeWarner) define hard limits on how much download/upload ("bandwidth") consumers can use. Because they can cut down on service costs and make more money, most providers sell an asymmetric bandwidth allocation that favors downloading to most consumers: uploading large files will take a long time, but downloading them (such as online videos) is relatively fast.
 
-## Layer 2: data link
+### Layer 2: data link
 
 Sometimes the Data Link layer is called "link-level". It concerns itself mostly with whether data is reliably making it across the network. Most of the action in Layer 2 is in network interface cards (NICs) and switches/hubs.
 
@@ -173,7 +179,10 @@ When there's an error, there are three options inside the transport system:
 3. Gather enough information from the original transmission to attempt to correct the error. This is Forward Error Correction (FEC), and one of the original mechanisms was the Hamming Code:
    - In effect, the Hamming Code and others are essentially sending the data two or more times in a non-sequential pattern and cross-referencing them with each other.
 
-There's a maximum transmission unit (MTU) size that determines how big frames can get, but if you have a situation like [virtualization](cs-distsys-vm.md) where there's technically nothing long-distance, you can use what's called "jumbo frames" to speed everything up.
+There's a maximum transmission unit (MTU) size that determines how big frames can get.
+
+- Historically, the MTU for Ethernet was originally 1,500 octets, but many other physical layers have made them even larger.
+- If you have a situation like [virtualization](cs-distsys-vm.md) where there's technically nothing long-distance, you can use what's called "jumbo frames" to speed everything up.
 
 Most of the issues on the Data Link layer and higher are tied to "frame collisions", where two computers are sending information at the exact same time along the exact same cable to a third computer. Both computers are *supposed* to stop, wait a random time, then try again, with the longer-time computer waiting to use that cable after the first one is finished.
 
@@ -186,7 +195,7 @@ There have been different ways to fix frame collisions before switches:
 
 But, now with switches, a frame collision is usually caused by a bad switch.
 
-## Layer 3: network
+### Layer 3: network
 
 The Network layer manages interaction across multiple networks, and concerns itself with whether data can make it between 2 points on any given network(s).
 
@@ -194,7 +203,15 @@ The PDU of the Network layer is called a "packet", though it can become confusin
 
 Most Layer 3 uses routers, which are serving a bit like switches but across multiple networks. Since most network boxes are serving both as a switch and a router, they're often called "router switches".
 
-While Layer 2 uses MAC addresses, Layer 3 uses IP (internet protocol) addresses. "Address resolution protocol" (ARP) is the routing protocol that links MAC and IP addresses together.
+While Layer 2 uses MAC addresses, Layer 3 uses IP (internet protocol) addresses.
+
+- The relationship between MAC and IP addresses has to be resolved, so "Address resolution protocol" (ARP) is a Layer 2 routing protocol that resolves IP addresses to MAC and IP addresses together.
+
+ICMP is a simple protocol that requests specific state information, often about the network itself.
+
+- This can be for sending an echo request or echo reply (aka ping).
+- It also sends notification about a packet dropped because it's too large or the TTL reached 0.
+- The too large notification is particularly helpful for other protocols to determine the MTU.
 
 IP addresses have an amusing story behind them:
 
@@ -206,6 +223,8 @@ IP addresses have an amusing story behind them:
 4. Selling companies on transitioning from IPv4 to IPv6 has been *very* difficult, so it creates strange bottlenecks and technical issues throughout the internet as the scarcity of IPv4 addresses keeps growing.
 5. Marketers developed the "Internet of Things" (IoT) to sell IPv6 to consumers. This meant simply that all sorts of devices, from fridges to cars to slow cookers, got an IP address.
 6. While there are tremendous opportunities of having special-use devices that operate as independent network assets, it created tremendous [cybersecurity risks](cs-infosec.md) as well.
+
+While it hasn't been really implemented, IPv6 has the power to deliver up to 65,535 octets, or a 4 GB MTU limit. This is called a jumbogram, but rarely exists in reality because that's a very large amount of data to send without issues.
 
 On Layer 3, computers individually look at packets without any context to a broader channel of information, meaning that they're "connectionless".
 
@@ -228,15 +247,19 @@ Generally, IPv4 addresses point to ISPs these days with a routing from it to a s
   - Class C: 192.168.0.0 to 192.168.255.255 (prefix /24, very common because it's in most SOHO and home networks)
   - APIPA: 169.254.0.1 to 169.254.255.254
 
-[Web domains](cs-sofware-webdev-domains.md) are a key part of the internet, but they don't really "fit" into the OSI network model. However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some tech-savvy internet users in the late 1980s found domains in web browsers to be *more* trouble than working with IPs.
+Instead of ARP, IPv6 uses Neighbor Discovery (IPv6 ND) instead, whcih essentially queries nearby routers for a specific IP, then uses it if nothing else is using it.
+
+[Web domains](cs-sofware-webdev-domains.md) are a key part of the internet, but they don't really "fit" into the OSI network model (since it's basically mapping a database with a protocol). However, the DNS *does* resolve domains to IP addresses, so Layer 3 is likely the best place to cram it. In fact, some tech-savvy internet users in the late 1980s found domains in web browsers to be *more* trouble than working with IPs.
 
 Most issues on the Network layer and higher can be resolved with [command-line tools](cs-cli.md) like ping and trace to resolve IP issues.
 
-## Layer 4: transport
+### Layer 4: transport
 
 The Transport layer expands the Network layer to include the functionality of Layer 2 (i.e., get a data connection), but spread across an entire network. This layer was meant to manage the many streams of data that came as a result of the internet, as well as resolve any issues that came from faulty packets.
 
 Transport layer protocols are each peer-to-peer, without any awareness of the network at large. This allows the computer to only focus on the transfer of each file instead of broader issues it may not be able to do anything about. It resolves the scaling problems that come with the conventional host-centered model compared to the information-centered model of the internet.
+
+The packets/datagrams have a ton of various information that gives lots of context (source/destination addresses near the front, ports, sequence numbers for the application to reassemble the information, URLs all over). To save processing time reading through all of it, Layer 4 headers have a summarized "name" at the beginning of it that allows the computer easy access to what it needs to know without having to sift through all the extra data.
 
 The Transport layer's PDU has different names.
 
@@ -252,15 +275,50 @@ The Transport layer's PDU has different names.
 
 Sometimes, packets get dropped. TCP's header makes sure the packets are successfully reassembled on the other side, and will ask for any missing packets. UDP, on the other hand, is a little faster but not as reliable because it doesn't account for missing packets, which is great for specific time-sensitive things (like [streaming video or audio](cs-standards.md)).
 
+There are also added functionalities in a sequence of packets for acknowledgement:
+
+- Triple acknowledgements involve the sender re-sending a packet when the receiver indicates a prior ACK in the packet order three times. This prevents the packets being sent out-of-order.
+- Selective acknowledgements (SACK) only validate a specific set of serial numbers for each packet instead of the whole thing. This means the packets can be sent out-of-order.
+- Fast retransmit involves the receiver sending an ACK for the next packet in a sequence, even though it didn't receive it yet. If the packet isn't sent it'll *not* send another ACK for that packet, and then triple acknowledgements will not happen.
+
 TCP uses the slow start [algorithm](cs-langs-algorithms.md), which is a genius and simple solution for attaining a fast connection without knowledge of how reliable the network is.
 
-The Transport layer adds a port number. That port is 16 bits (so it ranges from 0 to 65535). There are [*many* predefined ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers). When an IP address is assigned to a port, it's called a "socket".
+1. Start with a small congestion window (CWND), which is the amount of data the transmitter sends before receiving acknowledgment.
+2. Increase CWND by 1 each time there's an ACK.
+3. Stop increasing when either:
+   - A packet is lost (no ACK)
+   - When the CWND reaches the receiver window (RWND)
+   - When the  slow start threshold (SST), which is set by the implementation and changed based on packet loss
+4. Move to congestion avoidance mode, which increases by one each round trip time (RTT), which is a linear instead of exponential growth.
+5. Stop increasing with the same conditions as #3.
 
-The packets/datagrams have a ton of various information that gives lots of context (source/destination addresses near the front, ports, sequence numbers for the application to reassemble the information, URLs all over). To save processing time reading through all of it, Layer 4 headers have a summarized "name" at the beginning of it that allows the computer easy access to what it needs to know without having to sift through all the extra data.
+TCP also adds a port number. That port is 16 bits (so it ranges from 0 to 65535).  When an IP address is assigned to a port, it's called a "socket".
+
+- These ports are agnostic to TCP itself, and are instead managed by other implementations *around* TCP.
+- There are two categories of ports:
+  - Well-known ports are predefined as "default", and there are [*many* of them](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers).
+  - Ephemeral ports are only significant to the local host and assigned from a pool.
+
+QUIC is an attempt to speed data transfer up compared to TCP through three methods:
+
+1. Reducing the three-way handshake to a single packet startup (a zero-way handshake), which is 1 RTT versus 1.5 RTT for TCP.
+   1. The client sends a set of [certificates](cs-infosec-authentication.md) to the server along with a blank source address token (STK) because there was no prior communication.
+   2. The server creates an STK from the initial information and sends a reject (REJ) with that STK.
+   3. That STK is then used by the client from that point onward to make a data transfer.
+2. Reducing the number of necessary retransmitted packets with multiple mechanisms:
+   - Introduce forward error correction (FEC) in all packets to allow the receiver to rebuild corrupted information
+   - Use negative acknowledgments (NACK) instead of SACK or triple ACK, which means only indicate when something was *not* sent.
+   - Fast retransmit in the same fashion as TCP.
+   - Using CUBIC congestion avoidance window control, where in the event of a dropped packet the receiver defines the current window size as the maximum (WMAX) and calculates the length between dropped packets as the minimum window size (WMIN).
+3. Preventing multiplexed TCP streams to all stop from a single packet loss on a TCP stream.
+   - In essence, multiple TCP streams, whether with multiple streams or multiplexed, will *all* be affected by a single packet loss (fate sharing, or head-of-line blocking).
+   - These multiple streams all sit within one standard HTTP connection.
+   - Instead, QUIC allows multiple HTTPv2 streams to reside within a single QUIC connection, which can optimize delivery of various elements.
+   Reducing head-of-line blocking across multiple data streams within a single TCP stream caused by packet loss
 
 Issues on the Transport layer can come from the firewall blocking certain ports or from Quality of Service (QoS) settings, which are router/switch features that prioritize certain traffic to make the user experience better.
 
-## Layer 5: session
+### Layer 5: session
 
 At this point, the perspective changes a bit. The first 4 layers deal with network nodes and connections, but that's not necessary on the last 3 layers. Instead, it's looking at the relationships between applications (e.g., the text message app on one phone with the text message app on another).
 
@@ -283,7 +341,7 @@ At the Session layer, the PDU is the data passed to the network. In effect, this
 
 Most of the failures on the Session layer are dealing with application settings and configurations. If the other 4 layers don't apply, the best solution is to poke around inside the settings on both applications to see if it's blocking anything or mishandling the data.
 
-## Layer 6: presentation
+### Layer 6: presentation
 
 The Presentation layer packages the data for transfer, then unpacks it on the other side.
 
@@ -293,7 +351,7 @@ The PDU at the Presentation layer is the data formatted for delivery (if outgoin
 
 Often, the issues on the Presentation layer are tied to bad [operating system](cs-os.md) drivers or permissions issues involving the user's access level, and sometimes [malware](cs-infosec-cysec-malware.md).
 
-## Layer 7: aplication
+### Layer 7: application
 
 The Application layer is a bit of a weird catchall. It merges closely with [front-end development](cs-software.md), since it deals heavily with [how the user perceives the information](engineering-design.md).
 
@@ -316,7 +374,7 @@ The line between Layer 7 and [most individual operating system elements](cs-os.m
 
 Most of the issues on the Application layer involve either bad configurations inside the operating system or user error. Most of these resolutions involve plenty of [customer service](people-customerservice.md).
 
-## Layers implementation
+### Layers implementation
 
 In short, here's how it ends up looking with 2 computers directly linked to each other with a simple messaging app. I've included a representation as well on how that data will roughly look.
 
@@ -368,6 +426,19 @@ In short, here's how it ends up looking with 2 computers directly linked to each
 13. At Computer B's Application layer, the application follows that code, which usually leads to an output.
     - `[L6]` -> "Hi"
 
+## DoD model
+
+There is also an older layer system used by the Department of Defense (DoD):
+
+1. Link (which sends frames)
+2. Internet (which sends packets)
+3. Transport (which sends a stream or blocks)
+4. Application (stream or blocks)
+
+The OSI model makes more sense to be specific, but the DoD model is more widely used.
+
+Amusingly, a later version of the DoD model ended up having seven layers like the OSI network model, but with different variations.
+
 ## Layer weirdness
 
 Because of how much TCP works with IP, the two pair into a frequently used term of TCP/IP, which makes a simpler version of the OSI layers called the Internet Protocol Suite:
@@ -391,14 +462,20 @@ Some protocols are also sporks:
 - The Border Gateway Protocol (BGP) gives routing between independent entities, but it also runs on top of the transport layer. However, it's giving reachability information that would make it a network layer protocol.
 - IPsec adds header information to the Internet Protocol (IP), so it (somewhat) runs on top of IP, so it could be a transport protocol (on top of) or a network protocol (parallel to).
 
+## RINA model
+
 It's not as popular, but the Recursive InterNetwork Architecture (RINA) model tries to explain protocols a bit differently:
 
-- Fundamentally, there are four actual functions any protocol can serve:
-  1. Transport
-  2. Multiplexing
-  3. Error correction
-  4. Flow control
-- These four functions naturally group together into two meta-functions:
-  1. Transport and multiplexing
-  2. Error and flow control
-- Most protocols end up doing one of the two meta-functions, and simply at a different scope.
+Fundamentally, there are four actual functions any protocol can serve:
+
+1. Transport
+2. Multiplexing
+3. Error correction
+4. Flow control
+
+These four functions naturally group together into two meta-functions:
+
+1. Transport and multiplexing
+2. Error and flow control
+
+Most protocols end up doing one of the two meta-functions, and simply at a different scope.

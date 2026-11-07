@@ -9,14 +9,6 @@ Love is typically [habitual](habits.md) in day-to-day life, and we begin loving 
 
 The [cultural](people-culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
-True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving that individual and their interests. This shows itself most clearly when people engage in [heated conflicts](people-conflicts-why.md) with one another. It may be directed to preserving a person, object, [belief](mind-understanding-certainty.md), [mode of thought](mind-understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
-
-APPLICATION: Many people who talk about "undying affection" or "oneness with the universe" are associated with limerent feelings, which are *not* any legitimate form of love. True love is far less sensational, and preoccupies itself with the well-being of others.
-
-Everyone wants to be important, which means that everyone wants others to find [value](purpose.md) in them. In other words, each person wants others to love something associated with them, whether it's [doing](results.md) or [being](humanity.md).
-
-APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](mind-decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
-
 Love is not only the pinnacle of human existence. It is *the* foundation of all human [purpose](purpose.md) and [meaning](meaning.md):
 
 1. [Survival](mind-feelings-fear.md) is loving oneself at the present moment.
@@ -24,6 +16,27 @@ Love is not only the pinnacle of human existence. It is *the* foundation of all 
 3. Love/Affection is to love others to gain [friendship](people-friends-why.md).
 4. Self-esteem is to love one's [essence](humanity.md).
 5. Self-actualization is to love others to [influence](influence.md) *their* ability to love all the above.
+
+The opposite of love is apathy, not hate. Hate is just as impassioned as love, but is a love for something opposed to the hated thing. Apathy, however, has no sentiment because it's the entire lack of [emotional](mind-feelings.md) association.
+
+## The scope of love
+
+Love has specific representations that are not always selfless:
+
+- Transactional: performing an action based on conditions of the other's initiation, which is the basis of [social contracts](people-contracts.md) when there isn't much [trust](mind-trust.md).
+- Reciprocal: performing an action only as a result of another's initiation, which is the basis of most typical social contracts.
+- Manipulative: performing an action in order to provoke someone else to do something else, which is often the motivation behind [image distortion](people-image-distortion.md) and [narcissistic behavior](people-conflicts-narcissist.md).
+- Unconditional: performing an action, irrespective of what someone else will do.
+
+True love is to be unconditionally concerned with the best interests of the recipient of the love, which usually involves preserving that individual and their interests. This shows itself most clearly when people engage in [heated conflicts](people-conflicts-why.md) with one another. It may be directed to preserving a person, object, [belief](mind-understanding-certainty.md), [mode of thought](mind-understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
+
+## The effects of love
+
+APPLICATION: Many people who talk about "undying affection" or "oneness with the universe" are associated with limerent feelings, which are *not* any legitimate form of love. True love is far less sensational, and preoccupies itself with the well-being of others.
+
+Everyone wants to be important, which means that everyone wants others to find [value](purpose.md) in them. In other words, each person wants others to love something associated with them, whether it's [doing](results.md) or [being](humanity.md).
+
+APPLICATION: People want to be important, so they look for [power](power.md) to find love somehow. Once they've made [habits](habits.md) about it and haven't been loved, they frequently lose their [decision](mind-decisions.md)-making capacity for others' interests and slowly drift toward choosing [evil](morality-evil.md).
 
 APPLICATION: All human purpose is driven by love of something, so all people are merely [prioritizing](purpose.md) one thing over another:
 
@@ -34,11 +47,13 @@ APPLICATION: All human purpose is driven by love of something, so all people are
 - Rebellion is the love *against* something.
 - Self-destructive desires are frequently the love of nonexistence or a misplaced sense of [justice](morality-justice.md).
 
+One product of love is that we will naturally respect others, specifically regarding who someone actually is and not simply their [productive capacity](results.md) or [social status](people-image.md). This comes directly through how we [feel](mind-feelings.md) about them, and can't be imitated.
+
+## Love and meaning
+
 We can't directly control what we love. We can only make [decisions](mind-decisions.md) to serve the interests of something until that thing is at the pinnacle of our [desires](purpose.md). Even then, we're often too [conflicted](people-conflicts-inner.md) over [values](values.md) to sincerely love without hesitation.
 
 APPLICATION: Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](https://theologos.site/gospel/)).
-
-The opposite of love is apathy, not hate. Hate is just as impassioned as love, but is a love for something opposed to the hated thing. Apathy, however, has no sentiment because it's the entire lack of [emotional](mind-feelings.md) association.
 
 ## The objects of our love
 
@@ -55,6 +70,8 @@ Since we're most [aware](mind-awareness.md) of ourselves, we feel things about u
 We *can* love others like ourselves, but we're incapable of loving others *more* than ourselves because we don't know about others' needs as easily as our own. While we may [understand](mind-understanding.md) others' needs somewhat, we only extend our love as far as we can adapt our [universal human understanding](humanity-universals.md) out from ourselves toward others.
 
 If we sacrifice more for others than ourselves, we are frequently doing it from [religious](religion.md) [habit](habits.md) or our [upbringing](people-family.md). That motivation, whatever it is now, started as a desire for a [form](power-types.md) of [power](power.md).
+
+All [Cluster B personalities](mind-neurodivergence-clusterb.md) are incapable of even comprehending anything except self-love.
 
 ### Other people
 

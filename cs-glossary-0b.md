@@ -252,7 +252,7 @@ Build - the process of converting computer code into binaries for the computer t
 
 Build system - the system that makes the build
 
-Bus - aka data highway, a part of a computer that sends a stream of information between parts
+Bus - aka data highway or fabric, a part of a computer that sends a stream of information between parts
 
 BYOD - bring your own device, a security policy that empowers users to use their own devices
 

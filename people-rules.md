@@ -7,6 +7,8 @@ There are several domains of "law":
 2. Divine law - rules that can only come from [a deity](religion.md) directly and is the domain of [ethics](morality.md).
 3. Human law - the rules people make, which is the subject of this topic here.
 
+## Expectations and standards
+
 Everyone has [expectations](mind-imagination.md) in a [group](groups-small.md), and most of a group's expectations are enforced by [cultural norms](people-boundaries.md):
 
 1. Folkways are small actions that help streamline [routine](habits.md) social engagements.
@@ -23,9 +25,21 @@ APPLICATION: There is no solution [creative](mind-creativity.md) enough to keep 
 - If you show people the risks, at least some of them will find a thrill in trying to [overcome it](meaning.md).
 - If, in some way, you can make sure people are *completely* unaware of a risk, they will hate you for it and will [try to destroy you](people-conflicts-war-why.md). Further, they'll be *really* unprepared for the risks when they *do* explore them.
 
+## Codified standards
+
 Beyond [norms](people-rules-list.md), A society's rules are designed for the collective good of the group (at least in [appearance](people-image-why.md)), and will always weigh at least a little toward those with [authority](power.md).
 
 The group's leadership determines which of those standards become [laws/policy](people-rules-methods.md), and then it's approved by the members proportional to how much [power](power.md) they have in the group.
+
+While the group leadership may define the laws, the natural basis of the laws derive from an individual's natural right to defend their life, liberty and property.
+
+- The moment the law goes beyond that, it becomes a type of legal plunder or theft.
+- Most of the time, legal plunder is standard, and it can include subsidies, redistribution, and bailouts.
+- In other words, if a private individual's actions would be considered theft, the state's actions are the same, even if it's implied to be for a good cause.
+
+The two wrong responses to legal plunder are to either give everyone the right to plunder (i.e., [leftism](politics-leftism.md)) or let the current plunderers continue (i.e., [cronyism](mgmt-badsystems.md)). The only legitimate answer is to strip laws back to their natural function.
+
+- Unfortunately, once everyone sees law as a machine for taking instead of protecting, people flood the political space to control it and point it at their enemies. This is how lobbying and corruption naturally emerge.
 
 A [wide variety of enforcement measures](people-rules-methods.md) can serve to impede individuals' (*hopefully* [immoral](morality.md)) [purposes](purpose.md). However, most rules are simply enforcing a culture's [fashions](people-trends.md) and don't precisely conform to [justice](morality-justice.md).
 

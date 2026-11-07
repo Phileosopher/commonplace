@@ -158,6 +158,12 @@ Run "tracert bad.horse" in a CLI (reference to [Doctor Horrible's Sing-Along Blo
 
 [The Be Book's "on" status](https://www.haiku-os.org/legacy-docs/bebook/TheKernelKit_SystemInfo.html#is_computer_on) - Return whether the computer is on, or on fire, and both have *many* possible uses.
 
+[RFC 1149: Standard for the transmission of IP datagrams on avian carriers](https://www.rfc-editor.org/info/rfc1149/) - because you never know when homing pigeons need to send IP, note the submission date
+
+- [RFC 6214: Adaptation of RFC 1149 for IPv6 | RFC Editor](https://www.rfc-editor.org/info/rfc6214/) - an update for IPv6 to modernize homing pigeons
+
+[RFC 1925: The Twelve Networking Truths | RFC Editor](https://www.rfc-editor.org/info/rfc1925/) - standardized principles, note the submission date
+
 ## OS done wrong
 
 [Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64) - Running Windows on things it shouldn't ever run on.

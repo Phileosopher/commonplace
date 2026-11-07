@@ -47,6 +47,8 @@ Disable all internet router features that won't be used:
 
 One of the most important aspects of keeping a network safe is to have "end-to-end [encryption](encryption.md)" (E2E). This doesn't simply mean the network transfers information securely or that it stores it securely, but that *every* step of the transaction is securely handling the information. This requires awareness of each stage of the network transfer and computer's use of the information, and what keeps data safe.
 
+While nobody talks about it, an even more specific type of encryption to add to E2E is hop-to-hop encryption, where every step of the network has its own encryption scheme.
+
 ## Domain name servers (DNS)
 
 One of the easiest forms of [network](cs-networks.md) hardening involves sending "DNS" requests to a safe [DNS server](cs-software-webdev-domains.md).

@@ -94,6 +94,8 @@ Learn how to cut your hair, color it, and paint your nails:
 
 Get massages at local massage schools or cosmetology schools.
 
+To get all lotion out of a bottle, use a massage gun with the soft tip.
+
 Use bar soap instead of body wash.
 
 - When a soap bar grows slim, attach it to a new bar of soap while it's still wet to use the entire bar.
