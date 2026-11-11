@@ -399,11 +399,15 @@ Easter egg - an unimportant small detail or element that's an entertaining refer
 
 ECC - error correcting code, computer code meant to verify that the information was stored/retrieved correctly, typically includes a checksum
 
+Edge - a network term referring to the devices that connect directly with the Internet at large, not to be confused with the awful web browser called Microsoft Edge
+
 Edge case - an extreme situation, usually referring to abnormal circumstances, opposite of common case
 
 EEPROM - electronically erasable programmable read-only memory, can hold relatively smaller amounts of non-volatile data than a hard drive or RAM, similar but not the same as flash memory (NOR gates instead of NAND and meant to be mostly read)
 
 EFSS - enterprise file sharing and sync, large-scale cloud synchronization
+
+Egress - the ending point of any network connection, opposite of ingress
 
 Electricity - the energy caused by many electrons flowing between atoms, the means of almost anything with computers
 

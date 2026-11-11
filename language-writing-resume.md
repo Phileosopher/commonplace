@@ -48,7 +48,7 @@ Keep your résumé at about 600-700 words:
 
 ## Every résumé is a custom-tailored marketing tool
 
-The *entire* purpose of a résumé is to motivate 1 employer to ask for an interview:
+The *entire* purpose of a résumé is to motivate one employer to ask for an interview:
 
 - Precisely clarify what you can do for that employer.
   - You must explicitly imply you know the job you're trying to get.
@@ -70,6 +70,11 @@ Employers aren't concerned with how interesting someone is, and just want a few 
 - What resulted from you doing your job?
 - How did you benefit your past employer(s) when you worked there?
 - Why should I hire you over anyone else?
+
+With [AI assistance](cs-ai.md), being precise with language is even more important.
+
+- The résumé *must* be fact-based and match the keywords of the job description.
+- One time-saving use of AI is to have the résumé adapted to the job description's keywords.
 
 ## Recruiters reject most résumés within 20 seconds from a few criteria
 

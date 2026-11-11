@@ -94,6 +94,15 @@ Sometimes a link aggregation scheme will take multiple physical links and bundle
   - This is usually for physical redundancy than actual speed.
   - MLAG is proprietary, so its spirit remains even while most networks shy away from it.
 
+Signals are *not* completely reliable:
+
+- Over distance and with interference, the signal will "attenuate".
+- Also, over long distances the signal will have a "latency" to it, especially when it's bouncing through many routers (such as the internet).
+- And, because of strange and unpredictable interference, signals will often have "jitter" that makes the latency and attenuation wobble around.
+- Because of how cheap UTP cables are and how convenient Wi-Fi is, *nearly everything* in a nearby network will suffer from "crosstalk".
+
+By far, jitter is the worst type of network issue because it's often hard to pinpoint exactly what causes it.
+
 ## Transferring through a computer
 
 Unless the signal travels directly on a medium, it will change as it travels.
@@ -147,6 +156,53 @@ In a telephone system, one implementation of a LAN is a PBX (private branch exch
 
 There are several features that router/switches often come equipped with. For cybersecurity reasons, it's worth knowing their features.
 
+## QoS
+
+Maintaining a network's quality of service (QoS) can be challenging when networks become congested.
+
+- For various reasons (often tied to money), most bandwidth QoS issues are spikes in traffic, and they are usually resolved with specific configurations more than new hardware.
+
+One of the most common money-based discrepancies ties to worse networks over WANs versus local networks.
+
+- As a matter of scale, long-distance networks are more expensive, even when a massive corporation can do it as affordably as possible.
+- For that reason, long-distance network costs are more heavily scrutinized than short-range networks like buildings or campuses.
+
+There are various typing services for QoS, and they're all trying to strictly classify the importance of various types of data.
+
+- One of the more popular QoS protocols defined in RFC 2474 is a 6-bit field in IP packets called Differentiated Services Code Point (DSCP), with the field itself called the Type of Service (ToS) field.
+- Preferably, any marking that classifies traffic should be marked as closely to the source computer as possible, preferably the ingress point or the sending application itself.
+- As the QoS data moves from a trusted domain to an untrusted one, the packets wil be stripped of the marked data.
+- To avoid losing QoS packet crafting when tunneling (e.g. VPNs), the marking is reflected in what's called ToS reflection. In the process, the marking often changes to reflect a new value that the service provider (SP) will honor, and may only use 3 bits (thereby losing specificity in the process).
+  - The 3-bit marking, in particular, explains part of why tunneling can make your network performance weird (slows down things and speeds up things seemingly at random).
+
+When transmitting information over the public Internet at large, it's a lot cheaper than private network management in institutions, but is also a complete black box to the private parties.
+
+- The answer is to work around the uncontrollable Internet factors by controlling what happens *before* the traffic enters the public Internet. This includes heavily controlling all "edge" traffic as well as path selection for outgoing packets.
+
+Just because the QoS packets are marked doesn't necessarily mean the devices will respect those markings, and that part is defined by the device's policy.
+
+- When congestion is happening (i.e., the packets go to an egress queue instead of an egress transmit ring), most policies default to FIFO (first in first out), which works great in most cases (e.g., HTTP).
+- However, sometimes traffic packets should be moved to the head of the queue and sent as quickly as possible to avoid any delay (e.g., VoIP).
+- To ensure delivery when timing is less important than avoiding packet drops, the technique is often managed by class-based weighted fair queueing (CBWFQ), where traffic classes are serviced according to the policies they've been assigned with a philosophy toward fairness.
+- At the same time, well-written QoS policies will have clear instructions about whether the traffic must be delivered (even if late), must be delivered rapidly, or must not starve bandwidth from other traffic classes.
+
+Traffic shaping is an elegant solution for moving traffic correctly.
+
+- Instead of dropping packets, the higher-priority packets will have imposed limits on packet size during congestion.
+- Elephant flows are specific traffic shaping where long-lived traffic moves large amounts of data between endpoints as quickly as possible. They typically override other traffic, so they need to be shaped to permit service to other traffic classes.
+
+Policing is an alternative to traffic shaping, where excess (nonconforming) traffic is treated more harshly and dropped immediately.
+
+- While this behavior works well enough, one consequence of it is that TCP will start the ramp-up process all over again, and the bandwidth graph will look like a sawtooth.
+- Policing can also be used to re-mark nonconforming traffic to a lower-priority DSCP value instead of dropping altogether.
+
+Packets can be delayed in a buffer, and this sounds great. However, full buffers create extra problems (bufferbloat).
+
+- To avoid buffer limits and its consequences (the oldest packets in the buffer get dropped), many devices use active queue management to drop packets or minimize the time a packet spends in a buffer.
+- Random early detection (RED) will proactively drop randomly selected inbound traffic to keep space, with a higher likelihood of dropping any given incoming packet as the buffer fills.
+  - It has been added to with Weighted Random Early Detection (WRED), whic considers the incoming traffic's priority based on its mark. Further, its drops also signal any windowed transport (e.g., TCP) that the transmitter needs to slow down.
+- The intuition for many would be to increase the size of the buffer to ensure packet transmission, but it can often create even more delays due to the fact that there are no signals sent while the packet sits in a buffer (i.e., no signal to indicate it was dropped for TCP, longer delays for UDP).
+
 ## Long-distance routing
 
 "Wide area networks" (WANs) are LANs spread out across a huge area. They can cover vast geographical regions (including across oceans or in space), and are often connected with enormous trunk lines.
@@ -157,6 +213,10 @@ There are sometimes multiple ways for a signal to travel across long distances. 
 
 - Link-state routing protocol - build a map of switches connected to each other and picks the route with the fewest jumps between switches. This typically uses the "open shortest path first" (OSPF) protocol to send "link state advertisements" to find open IP addresses.
 - Distance-vector routing protocol - build a map that measures the times for a signal to travel (accounting for latency and other issues) and picks the shortest route by perceived distance.
+
+An emerging model is called the Software-Defined Wide Area Network (SD-WAN), which pools together multiple WAN circuits into a pooled bandwidth.
+
+- This allows redundancy and reliability, since it'll keep performing QoS testing and send the data down the less congested path for each hop.
 
 ## Multiple sources and destinations
 

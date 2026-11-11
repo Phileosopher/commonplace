@@ -201,3 +201,31 @@ One of the easiest ways to design motion into websites is by using a CSS feature
 It's worth noting that CSS is not the *only* way to design graphics. For certain use cases, other 2-dimensional graphical representations like Canvas are better options. And, for 3-dimensional graphics, [shaved-down game engines](engineering-graphics.md) like Unity and OpenGL work better.
 
 While it's barely detectable to most people, web browser pages have a "favicon" logo sitting in the web browser tab (or in the Task Manager tray in the [operating system](cs-os.md)). This little square logo ranges from 16 to 64 pixels wide and shows up in a *lot* of places in a web browser including web searches, history, and dropdown menus.
+
+## Dark web
+
+Every domain of society has a [black market](money-economics.md), and the computer version of this is the "dark web".
+
+Essentially, the internet isn't solely a collection of publicly accessible websites. It also has many elements that are limited from all public consumption for various reasons. For example, [torrents](cs-distsys-p2p-torrent.md) and [blockchain](cs-blockchain.md) sit within the internet, but not within a standard web browser experience.
+
+### Tor
+
+One option for anonymity is to use the [Tor browser](https://www.torproject.org/), which uses Tor (short for The Onion Router). It was originally a [fork](cs-software-versionctrl.md) of Firefox, and is a privacy-focused mode of web browsing. This has a limited scope compared to VPNs, but it operates as a type of parallel to typical web access.
+
+- The downside of this, however, is that there are *many* sketchy people using it for very bad activities (e.g., child pornography). If traced, you'd likely be associated with that activity.
+- While it may even be profitable, running a Tor exit node can hold you [liable](legal-safety.md) for other people doing very [immoral](morality-evil.md) things.
+
+The one difference between accessing a Tor and a VPN is that each of the hops is a new layer of encryption (which is why it's called an onion). With a VPN, the client computer sees the VPN host's IP address, and a Tor exit node operates the same way.
+
+It's important, however, to not access Tor with a regular web browser, due to how slow it drags and what it needs for maintaining privacy:
+
+- Disable JavaScript to avoid any tracking, since JS often gives clues on the browser and connection.
+- Video should be disabled, given how utterly slow everything runs on the Tor network.
+- All Tor exit IPs are publicly known, so be mindful if you're doing anything that's at all questionable.
+- Tor has been compromised, so nothing is fully private on it anymore for someone who wants to find out.
+
+Tor has received negative attention from vague popularized concepts about the "[dark web](mind-creativity-hacking.md)". While there *have* been drug deals, counterfeiting, and other illicit activity taking place over Tor, the urban myths have escalated to implying crowd-funded assassinations.
+
+In all reality, there are likely more legitimate services from privacy-concerned individuals on the Onion Network than illegitimate ones.
+
+Tor also serves as a useful tech admin tool, since you have access to multiple random IP addresses.

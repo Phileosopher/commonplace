@@ -111,15 +111,6 @@ It's worth noting here that I'm stripping away a *lot* of extra information, mos
     5. Return to #2, repeat as necessary.
   - There are "mobile network operators" (MNOs) who manage the towers, and they will rent out the extra bandwidth out to "mobile variable network operators" (MVNOs), which is how you can get super-cheap phone plans that don't always work during peak hours.
 
-Signals are *not* completely reliable:
-
-- Over distance and with interference, the signal will "attenuate".
-- Also, over long distances the signal will have a "latency" to it, especially when it's bouncing through many routers (such as the internet).
-- And, because of strange and unpredictable interference, signals will often have "jitter" that makes the latency and attenuation wobble around.
-- Because of how cheap UTP cables are and how convenient Wi-Fi is, *nearly everything* in a nearby network will suffer from "crosstalk".
-
-By far, jitter is the worst type of network issue because it's often hard to pinpoint exactly what causes it.
-
 If the signal is relatively slow, it's usually because it's either traveling through a bad connection or because one of the connectors is slow. It's not hard to understand, but it's amazing how some people don't realize a 10-gigabit/second SFP connection that's connected later on the network to a 1-gigabit/second Cat 5e cable will travel at 1-gigabit/second.
 
 There's an invisible line called a demarc that separates the customer's and the service provider's cabling. It determines who manages and pays if something breaks. The demarc gets more complicated when the customer uses the service provider's hardware (e.g., cable modem or router).

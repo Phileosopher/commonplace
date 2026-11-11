@@ -8,6 +8,8 @@ Social engineer hackers are often *very* patient. They'll spy on someone for wee
 1. Something of [value](purpose.md) they can theoretically attain.
 2. [Routine behavior](habits.md) that they can exploit.
 
+This is very easy to do in our modern society because [most modern activities](people-image-modern.md) accrue a type of data exhaust (byproducts of activities involving a computer) that quietly follows them.
+
 This is more common when someone has more reason to do this, which scales as the opportunity to benefit increases. This is why "cyberespionage" is a standard risk for [all large institutions](groups-large.md), and why "cyberterrorism" is a frequent issue for governments.
 
 There are many forms of social engineering:

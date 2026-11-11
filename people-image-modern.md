@@ -90,6 +90,7 @@ But, there are also major risks with it:
 - If there's ever a clerical error (e.g., typographical error on a name, Social Security number entered incorrectly), that will connect to an entirely *different* entity and not count positively toward your score (and may even make the report indicate more people than there actually are).
 - The information tracks correlation, but not causation. It is very easy to cause trouble for yourself without realizing it:
   - Having an argument with an awful neighbor who escalates by calling the police on you and lying about you could give you the same reputation as someone who legitimately causes trouble.
+- As you go about your life making [decisions](mind-decisions.md), you will inevitably accrue "data exhaust", which is a type of byproduct of the actions you've done that are contained on various computer databases throughout the world.
 
 The entire system is as portable as connectedness to the internet, and it can follow wherever someone is authorized to run a report on your [insurance](money-insurance.md), [credit](money-2_debt.md), [health](body-health.md), or [tax](money-accounting.md) information.
 

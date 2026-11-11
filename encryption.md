@@ -56,7 +56,7 @@ The Enigma Machine in 1925 was a very early computer designed for decrypting Ger
 
 ## Philosophy
 
-In the 19th century, Auguste Kerckhoffs made a principle of cryptography that a cryptographic system must be secure even when everything about the system except the key is public knowledge. He also gave six rules for effective military ciphers:
+In the 19th century, Auguste Kerckhoffs created a cryptography principle that a cryptographic system must be secure even when everything about the system except the key is public knowledge. He also gave six rules for effective military ciphers:
 
 1. The system must be practically, if not mathematically, impossible to decipher.
 2. By implication, that system can be compromised without any issues.

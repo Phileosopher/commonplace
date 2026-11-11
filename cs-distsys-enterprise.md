@@ -39,6 +39,11 @@ Server racks have very [industry-specific](cs-standards.md) dimensions:
 
 Each rack pulls out like a drawer, with a lid on it. That way, you can theoretically hold 48 fully separate motherboards in one rack. Of course, weight can be an issue, which is why racks come as 2-post or 4-post to accommodate affordability versus a heavier build.
 
+As a principle, one of the best designs is the Top-of-Rack (ToR) switch, where the network switch is installed at the top of the rack and all the servers in that rack connect to it. This way, since the network cables *usually* go vertically upward to the plenum or raceway, it doesn't create a rat's nest of cables (along with signal interference or breakage risks).
+
+- There are also Middle-of-Rack (MoR) and End-of-Row (EoR) arrangements, which work in specific use cases based on the physical needs present in the server room.
+- However, using various network switches is *not* the case when trying to deploy large-scale [machine learning](cs-ai-ml.md) models, since connecting directly to the back of the server dramatically speeds up network transfer without a router involved and the routers are often a lot cheaper than high-end GPUs or RAM.
+
 Thankfully, if you're starting out, a clever [hack](mind-creativity-hacking.md) allows you to [make one with an IKEA coffee table](https://wiki.eth0.nl/index.php/LackRack).
 
 ## Large Rooms

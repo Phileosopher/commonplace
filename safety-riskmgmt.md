@@ -11,6 +11,8 @@ Risk management involves treating or avoiding loss exposures:
 
 It can be summarized by [a checklist of everything to do to avoid risks](safety-riskmgmt-checklist.md).
 
+The number one cause of a risk is when something interferes with a [purpose](purpose.md). For that reason, it can be theoretically calculated based on the following pathway of a purpose. More complexity makes it harder to detect issues, but is also necessary to provide redundancy.
+
 This only creates [meaning](meaning.md) if it *might actually happen*, and preferably for others' benefit, or it's simply the never-ending motivation of [fear](mind-feelings-fear.md). It's also fear when it doesn't respect others' [decisions](mind-decisions.md) to expose *themselves* to risk.
 
 Safety culture has a bad reputation because the risk management dialogue doesn't correctly convey [meaning](meaning.md) through various safety departments.

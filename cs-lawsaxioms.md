@@ -128,6 +128,10 @@ Second-System Effect - Small, successful systems are usually followed by overeng
 
 Wirth's Law - Over time, software gets slower faster than hardware gets faster.
 
+## Security
+
+Kerckhoffs' Principle - a cryptosystem will remain secure even if everything about the system except the key is public knowledge.
+
 ## Internet-Specific
 
 1% Rule / 1-9-90 Rule / 89:10:1 Ratio - On a user-generated website (like a wiki) only 1% of people create content, another 9% contribute somewhat, while the other 90% only consume.

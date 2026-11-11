@@ -1,7 +1,26 @@
 
-# Virtualization and emulation
+# Virtualization, virtual machines, and emulation
 
-"Virtualization" is splitting a computer to make it behave like it's several computers at once, or for using a computer-in-a-computer.
+"Virtualization" is splitting physical resources to make logical divides. It never changes the physical realities of the thing, but simply does one of several things:
+
+1. Slices up the physical components into entirely separate logical divisions.
+2. Combines the physical components into one single logical whole.
+3. Does some funky combination of both, where it first combines and then separates the whole (e.g., 2 1TB hard drives made into one single 2TB virtual hard drive, then segmented into 1.5TB and 0.5TB hard drives).
+
+This is a layer of abstraction that adds complexity (and therefore headache and [cybersecurity risks](cs-infosec.md)), but there are many times it can be useful.
+
+- Sometimes a device only outputs information according to a specific [protocol](cs-standards.md) that isn't the receiving device's, or the other way around, and a virtual connection makes the device oblivious to that discrepancy.
+- If you need to [encrypt](encryption.md) data across a network, you can use a tunnel, which is a specific type of network virtualization. You can also do this in layers to make onion routing for added [security](cs-infosec.md).
+- You can save money on computers by using a few big computers and routing everything to workstations.
+- A virtual bandwidth configuration allows for multiple connections to be redundant, but not require the rest of the systems to have to figure out which connection to use.
+- Multiple small computers can work together as if they were one big computer.
+
+One of the biggest risks from virtualization abstraction is the fact that every abstraction creates a black box underneath it.
+
+- When something breaks, the technicians managing the abstractions won't know why.
+- If a service is designed as a backup for another service, but they both share the same component, that component breaking will make them *both* fail and the entire purpose of redundancy was useless.
+
+Virtual networking has been around for a very long time, but virtual machines are relatively newer. In practice, a virtual machine is slicing up computer to make it behave like it's several computers at once, or for a user experience of a computer-in-a-computer.
 
 ## Extra Processing
 

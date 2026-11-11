@@ -263,6 +263,8 @@ Indie game - independent game, a game with a modest or nonexistent production an
 
 Information architecture - a structure that informs people where they are in an interface relative to everywhere else
 
+Ingress - the starting point of any network connection, opposite of egress
+
 Initialize - to begin with a value, such as a variable
 
 Injection - sending code into existing code, typically maliciously
@@ -316,6 +318,8 @@ IWR - intelligent word recognition, an advanced form of ICR that can parse entir
 ## J
 
 JavaScript - a scripting language that drives the internet alongside HTML and CSS
+
+Jitter - a situation where networks aren't sending information reliably enough to have an even stream flowing through
 
 Journaling - file system programming that keeps a record file in long-term memory of tasks the CPU still has to do, very useful if the task is interrupted and can't continue
 
