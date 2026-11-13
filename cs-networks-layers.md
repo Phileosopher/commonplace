@@ -190,6 +190,8 @@ But, now with switches, a frame collision is usually caused by a bad switch.
 
 The Network layer manages interaction across multiple networks, and concerns itself with whether data can make it between 2 points on any given network(s).
 
+- The most basic mechanism to indicate this movement is through Network Layer Reachability Information (NLRI), which indicates whether a device is reachable, and how recently that was the case.
+
 The PDU of the Network layer is called a "packet", though it can become confusing because some Layer 4 PDUs are also packets.
 
 Most Layer 3 uses routers, which are serving a bit like switches but across multiple networks. Since most network boxes are serving both as a switch and a router, they're often called "router switches".

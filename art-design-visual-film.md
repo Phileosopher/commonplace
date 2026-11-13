@@ -27,6 +27,11 @@ Film has the added advantage over theater of using the perspective itself to por
 
 The filmmaker also has the opportunity to slow down through reaction shots, where the actor can state their line as an extreme closeup.
 
+When recording, color management is critical for evoking the correct mood.
+
+- This used to be a severe issue that required videography, but it can now be mostly managed in post-production.
+- However, log gives extra power to producers by giving a flat color scheme, then giving the post-production configuration the power to choose what colors they want in a Look-Up Table (LUT).
+
 ## Technology improvements
 
 Now that film has moved from [camera reels](engineering-camera.md) to [memory](cs-memory.md), almost anyone can make a film if they have a sufficiently-sized team.

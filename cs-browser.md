@@ -113,6 +113,8 @@ The server/host computer interprets the information, then sends a response back 
 
 Optionally, the response may also include a body, which can sometimes represent a *lot* of information, context-depending.
 
+Since 404 pages are so common, it makes a lot of sense to add a more interesting 404 page for the users than simply SITE NOT FOUND.
+
 The standards for HTTP have moved around and are constantly improving. HTTP/1.1 was a great idea but had issues, and HTTP/2 and HTTP/3 are becoming increasingly better.
 
 ## Web search

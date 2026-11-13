@@ -32,6 +32,10 @@ While computers maintain constant connection with each other (by human standards
 - Sometimes, website data is preloaded to ensure it'll present itself.
 - Other times, a resource represents as a placeholder (e.g., an image), and is then replaced by a more memory-consuming resource (e.g., a video).
 
+## Browser and website development
+
+Most of the front-end web development is built in the service of [the web browser](cs-browser.md), but that aspect is directly tied to connecting to the back-end ([API calls](cs-software.md), CSS and JavaScript frameworks, etc.)
+
 ## OS
 
 Web servers have layers of configuration:

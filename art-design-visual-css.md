@@ -1,6 +1,30 @@
 
 # CSS
 
+Everyone in the computers industry who will ever visually design anything that isn't inside [a terminal](cs-cli.md) will have to face GUI issues, and CSS is the standard for working with GUI elements. Therefore, everyone should become at least remotely familiar with CSS code and how it works.
+
+- It's truly not possible to master CSS, since they are *constantly* making new frameworks, constantly updating styles and conventions, and the community is a crowd of [artists](mind-creativity.md) that moves with every new visual concept or trend.
+
+Cascading Style Sheets (CSS) is, essentially, a bunch of boxes. It groups everything into a set of stylesheets, which can then expand into more specific sheets that override those previous rules as things become more specific.
+
+- Many CSS developers use !important as a manual override, but the entire purpose for it was simply to ensure guaranteed government compliance, and any other usage of !important is probably a misuse of it.
+- The position can be either absolute or relative to some other reference point (usually as a relationship to its containing box).
+
+Historically, CSS layouts now work with 4 major design systems:
+
+1. Table, which is the oldest one and still used for a few things like email.
+2. Float, which is still used for articles that have inline images.
+3. Flexbox, which is the most used one today and allows adaptive interfaces based on design needs.
+4. Grid, which is an expansion of flexbox as a modern alternative to Table.
+
+Compared to JavaScript, CSS is usually far less resource-intensive, so it's worth research absolutely *anything* that can be done with CSS:
+
+- Parallax effects
+- Transitions
+- SVG alterations
+- Many smaller-use modal windows
+- Assigning and working with variables
+
 ## Responsive web design
 
 One of the most time-consuming and nitpicky parts of modern [user interface design](engineering-design-cs.md) is that there are many, *many* devices, with various sizes.
@@ -33,6 +57,12 @@ One of the most common standards which has emerged in websites is the Holy Grail
 3. There's a main content area, which takes priority.
 4. All other sections adjust responsibly to the main content area.
 5. Altogether, this can basically be a 3x3 grid with variances based on design needs.
+
+It's worth noting that every new feature of CSS is another complexity, and it's wise to avoid anything that gets in the way of good-quality design for everyone.
+
+- Instead of aiming for designing for any specific device, aim instead for approximate sizes, with the assumption that people will be viewing it on the smallest possible screen of that size.
+- It also helps to assume the user could be nearsighted, color-blind, deaf, and have a severely limited attention span.
+- This gives constraints that essentially mean most visual embellishments should never affect the core functionality of the visual presentation.
 
 ## Specificity
 

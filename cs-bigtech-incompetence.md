@@ -1,6 +1,8 @@
 
 # Exmaples of Big Tech incompetence
 
+The irony of Big Tech is that as institutions they're not always malicious. Sometimes, they are simply awful through standard neglect and incompetence.
+
 Multiple Large Entities
 
 - [2021-05 Apple, its security contractor SIS, and the police wrongly handled a case with Apple's facial recognition, which was used in court to wrongly accuse Ousmane Bah](https://web.archive.org/web/20210529005443/https://www.theregister.com/2021/05/29/apple_sis_lawsuit/).

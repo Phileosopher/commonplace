@@ -399,7 +399,7 @@ Easter egg - an unimportant small detail or element that's an entertaining refer
 
 ECC - error correcting code, computer code meant to verify that the information was stored/retrieved correctly, typically includes a checksum
 
-Edge - a network term referring to the devices that connect directly with the Internet at large, not to be confused with the awful web browser called Microsoft Edge
+Edge - a network term referring to the devices that connect directly with the Internet at large, not to be confused with the awful web browser called Microsoft Edge, represents in graph theory specifically as a singular connection between two nodes
 
 Edge case - an extreme situation, usually referring to abnormal circumstances, opposite of common case
 

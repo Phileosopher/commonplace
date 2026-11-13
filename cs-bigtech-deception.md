@@ -54,6 +54,8 @@ Amazon
 
 Apple
 
+- [2026-11 Apple keeps a database of words it will not help auto-spell with its keyboard](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+- [2026-10 Every macOS version since 13 automatically comes with two background processes that try to profile the user's family members](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph).
 - [2022-01 Apple was trying to take a 30% cut from other unrelated services like Uber, Lyft, and Postmates](https://web.archive.org/web/20220112190148/https://twitter.com/TechEmails/status/1481339345822879745).
 - [2021-04 Apple is permitting fraudulent App Store ratings in their most popular apps](https://web.archive.org/web/20210428061013/https://twitter.com/keleftheriou/status/1381986746661892096).
 - [2021-06 Apple has arbitrarily ranked their Files app over Dropbox](https://web.archive.org/web/20210611173533/https://www.theverge.com/2021/6/11/22528701/apple-rank-own-app-over-competitor-files-dropbox-wwdc-2017).

@@ -1,8 +1,6 @@
 
 # What algorithms are
 
-## Algorithms
-
 An algorithm is a math problem where the formula has specific rules that only sometimes apply (e.g., X-5=Y if X is more than 5, but otherwise X=Y).
 
 An algorithm is subject to the same realities as [statistics](math-stat.md): the incoming variables determine its accuracy to [reality](reality.md).
@@ -19,6 +17,8 @@ Unfortunately, it's difficult to imagine a verb without a noun, and a noun witho
 Hiding an actual calculation for an algorithm is a very effective way to [distort how things appear](people-image-distortion.md). The people who run most [computer technologies](technology.md) over a network can often tweak information for various reasons from what it legitimately was expressing.
 
 Whenever a computer receives information and converts it into something else, it uses an algorithm of *some* sort. It can create strange consequences, so it can be helpful for most people to broadly understand what algorithms even are and what they do.
+
+Algorithms are greedy when they make decisions that are locally optimal, which means not reconsidering past decisions in the calculation. This means it makes more assumptions in its decisions, which helps with the uncertainties from missing information.
 
 ## Big O notation
 
@@ -81,6 +81,35 @@ TCP's slow start algorithm is relatively straightforward, but a genius solution 
 ## Encryption algorithms
 
 Because of the ubiquity of encryption (as well as the constant changes from all the [password-cracking](mind-creativity-hacking.md)), encryption is in an [entirely different domain](encryption.md) than most other algorithms.
+
+## Pathfinding algorithms
+
+Finding pathways through [networks](cs-networks.md) can often be tricky, which is why there are many versions of pathfinding algorithms (or graph traversal) to define those paths.
+
+Breadth-first search is the easiest algorithm to understand, but can be wasteful and time-consuming:
+
+1. Scan all present node connections.
+2. Scan all nodes off the present node.
+3. Repeat until all nodes are scanned, then calculate the shortest path.
+
+Dijkstra's algorithm is probably the most famous and widely used:
+
+1. From the starting node, visit the connection with the smallest known weight (cost/distance).
+2. From that second node, check the weight of each neighboring node back to that second node.
+3. For each of #2's new nodes, add the costs of the connections together as the weight of that new node going back to the starting node.
+4. Cross-reference the presently-known shortest weighted distance, and update if any new distances are shorter.
+
+A* is less used, but a highly efficient improvement. It more-or-less uses an intuitive pathfinding from the *ending* node first.
+
+The Bellman-Ford algorithm helps a *ton* with avoiding path loops.
+
+1. Use Dijkstra's algorithm.
+2. However, flip the connections that were previously visited to a negative number and don't revisit them.
+3. Give the shortest path that isn't a negative number.
+
+There are constant improvments to network algorithms, including the Diffusing Update Algorithm (DUAL) which reuses other networks' pathfinding information.
+
+- Often, the algorithms are optimizing other parts of the information, such as maintaining partial information if there's a partial network failure.
 
 ## Compression algorithms
 

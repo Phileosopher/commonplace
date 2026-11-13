@@ -152,6 +152,10 @@ Brewer's Theorem / CAP Theorem - for any distributed data storage, only 2 of 3 g
 2. Availability - every request returns data without an error, even if it's not the most recent.
 3. Partition Tolerance - everything still works even when nodes fail.
 
+- This makes 3 types of distributed databases:
+  - CP: consistent delivery and multiple partitions, where the system shuts down an inconsistent node if it fails.
+  - AP: all nodes are still available but the out-of-sync partition will return an older version of the data.
+  - CA: there are no other partitions so there's no fault tolerance.
 - An addition is PACELC, which adds 2 variables in the case of node failure (E, for "else"):
   - Latency - partially-working systems can prioritize staying fast.
   - Consistency - partially-working systems can prioritize sending consistent data.

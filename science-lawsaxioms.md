@@ -41,6 +41,8 @@ Oddo-Harkins Rule - Elements with an even atomic number are more common than wit
 
 Ohm's Acoustic Law - People perceive in harmonized blocks, not with individual data.
 
+Pauli Exclusion Principle - No two electrons can have the same exact quantum state.
+
 Periodic Law - If you order elements by their atomic number, their chemical and physical state show clear and repeating patterns.
 
 Proust's/Constant Composition/Definite Proportions Law - Any given chemical compound will have the same proportion of each chemical.

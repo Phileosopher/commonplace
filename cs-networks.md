@@ -69,6 +69,16 @@ The journey to finding a loop-free path (where packets aren't traveling in a cir
 - Link state protocols: use a database synchronized across devices of the pathway's hops
 - Path vector: keep a record of previous hops
 
+The reason OSPF is so powerful and used constantly, though, is that it's physically impossible for the shortest path to also contain loops.
+
+- As an example, if a path from A to F goes through A-B-C-D-E-F, and E happens to be the same as B, then A-B/E-F is shorter and avoids loops.
+- For this reason, it's a dogmatic rule that OSPF is constantly followed.
+  - This means that both sides of a connection will very frequently mirror their path information, though not always.
+  - The waterfall/continental divide model will prevent one node along the path from broadcasting to a later node, thereby creating a one-way path.
+  - The P/Q model divides out the network into separate paths to allow traffic to flow down P or Q without interacting with the other path.
+- The effort to find the path is inductive, *not* deductive, so in practice it's often not ideally optimized.
+- In practice, finding that shortest path comes through maintaining Minimum Spanning Tree (MST) and Shortest Path Tree (SPT) topologies. MST visits each node and examines their overall cost, while SPT counts the hops.
+
 ## Signal transmission
 
 Sometimes the sender is simply sending data too fast for the receiver to get it, creating a buffer overflow. To avoid this, the signaling to express non-receipt must be implicit or explicit.
@@ -102,6 +112,31 @@ Signals are *not* completely reliable:
 - Because of how cheap UTP cables are and how convenient Wi-Fi is, *nearly everything* in a nearby network will suffer from "crosstalk".
 
 By far, jitter is the worst type of network issue because it's often hard to pinpoint exactly what causes it.
+
+Detecting a device that's down is a complex issue, and there are several ways to go about it.
+
+- The source of the signal defines the context of what happens:
+  - In-band polling requests the device's status from a neighboring node.
+  - Out-of-band polling requests the device's status from beyond a neighbor.
+  - Event-driven updates are triggered by the requesting device when something else happens (e.g., a TCP connection fails).
+- There are four major factors that affect the information coming back from the device or link:
+  1. Device sends out its status
+     - OOB: a centralized system gives the status, and it gives a big-picture view of the network
+     - IB+ED: local devices send information without the big-picture view and each one needs to send its own information
+  2. The forwarding state is tied to the state of the link or device
+     - OOB: the state can be falsely reported and isn't tested
+     - IB+ED: the link and device state can connect with its forwarding ability
+  3. Detection speed
+     - OOB+IB: slower to avoid false positives
+     - ED: a set timer to avoid false positives, but it's much faster and can be a short time window
+  4. Scaling
+     - OOB+IB: needs periodic polling that scales within predictable limits
+     - ED: tends to scale better than polling
+- Event-driven detection seems better overall, but many uses cases make polling better.
+- Once a device is informed about a change, it can send information to nearby devices to propagate and update those changes.
+  - Flooding sends *all* relevant information to the other devices.
+  - Hop-by-hop will simply send all local hop-based information to all its neighbors.
+  - A centralized store can also hold all the relevant information instead.
 
 ## Transferring through a computer
 
@@ -155,6 +190,16 @@ Besides having private IP addresses on that local network, wireless networks hav
 In a telephone system, one implementation of a LAN is a PBX (private branch exchange). When it's customer-facing, it typically has pre-recorded audio with it to communicate what the users can press. However, a phone is still simply a computer interface with a dialpad-only input and audio-only output.
 
 There are several features that router/switches often come equipped with. For cybersecurity reasons, it's worth knowing their features.
+
+When mapping devices, the device builds a database of known IPs, which it updates as it detects or fails to detect other devices.
+
+- Since computers are the world's fastest idiots, there's a tradeoff between the amount of routing information the device carries and how fast it runs, so constantly purging obsolete information is crucial for a faster network.
+- It can reactively learn other devices by simply logging new devices that send packets to it. This takes a comparatively long time, and the entry cache is complicated to purge.
+- Alternately, there are four major ways to proactively learn about other devices:
+  1. Any type of neighbor discovery protocol that runs between nodes (usually ARP or IPv6 ND). It doesn't usually indicate timely information on whether it's reachable, though.
+  2. Device configuration that indicates a network hub that maintains reachability information.
+  3. An identity service where nodes register, a bit like a phone directory.
+  4. An address management system that maintains locations. This is uncommon, though.
 
 ## QoS
 
