@@ -47,6 +47,11 @@ Those differences in understanding make the [power dynamics](power.md) different
 - Females are usually [smarter](mind-understanding.md), [sophisticated](people-culture.md), thorough, and [well-connected](groups-member.md) than males.
 - Males want females who show power from their [essence](humanity.md).
 - Females want males who exhibit power among their [groups](groups-member.md).
+- One of the heaviest discrepancies that have been scientiifically proven comes in how men and women desire power from the other, as well as its social [taboo](morality-taboo.md).
+  - Men naturally want women who are submissive to them and respect their power.
+  - Women naturally want men who are dominant, decisive, ruthless, and do whatever it takes to accomplish their goals.
+  - However, women don't want other women to know their weakness for this desire, so they hide this fact to everyone including other women.
+  - Therefore, many groups (e.g., [leftism](politics-leftism.md)) will often advocate that women want "nice guys", even though women don't actually want them.
 
 And, finally, this means males and females possess *many* inherent differences between each other when implemented into their environment:
 

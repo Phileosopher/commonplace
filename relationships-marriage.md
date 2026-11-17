@@ -120,7 +120,8 @@ Living together romantically without marriage is risky:
 
 - Marriage has religious origins, but it's also a legally binding commitment.
   - [Moving](home-moving.md) in together, even if you separate assets, is still sharing life and possessions together.
-  - If you have no religious background, *always* get a prenuptial agreement.
+- Even if you have a religious background, *always* get a prenuptial agreement.
+  - You don't need to arrange for the financial side if you don't want to, but [the courts are configured against men having custody of their children](hardship-family-divorce.md).
 - Even if you both made a lifetime non-marriage commitment to each other, you can back out at any time because you didn't hold a [public declaration](relationships-weddings.md) of it.
 - Assuming opposite genders, sex always has the risk of bringing children, which adds *much* more responsibility to your lives.
 

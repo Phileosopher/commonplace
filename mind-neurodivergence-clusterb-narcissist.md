@@ -69,6 +69,14 @@ Their [philosophy](philosophy.md) and general attitude won't accommodate other v
   - This is because the statements are a part of their [identity](people-identity.md)
 - For example, "everyone loves me" an outwardly verifiable statement, but a narcissist will see that as a truth unto itself.
 
+In practice, the narcissist's mechanism comes from a protracted state of infancy.
+
+- They essentially had a defective parent (often their mother), and therefore play out the role of infant in every friendship, including their own [children](parenting-children.md).
+  - This is because infants are actually the same essence as their mother, but are supposed to [develop autonomy](maturity.md) by about age 2.
+  - The narcissist didn't develop that autonomy, so they essentially have the mindset of an infant about [identity](people-identity.md).
+  - In particular, narcissistic parents are disastrous to children because children are manipulable enough that they can be conformed more to the "caretaker" role than what would ever be appropriate.
+- Every form of [narcissistic abuse](hardship-abuse-narcissist.md) is the narcissist attempting to merge themselves with another victim, then abusing them when the other person has their [boundaries](people-boundaries.md) crossed, then outright abandoning them when they realize they can't merge with that person anymore.
+
 [Love](people-love.md) covers a multitude of sins, but narcissists don't recognize love in any conventional sense.
 
 - The only "love" they understand is others making disproportionate sacrifices for them relative to the sacrifices they make for others.

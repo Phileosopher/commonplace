@@ -66,3 +66,22 @@ They can get [asylum](safety.md) from prosecution if others are abusing *their* 
 Freedom to profit from things they've [created](creations.md) or [thought of](legal-ip.md).
 
 They are left alone when they are law-abiding.
+
+For [parents](parenting-children.md), there are natural extensions of this:
+
+- Routine [habits](habits.md) shared together:
+  - Waking up and [bedtime](sleep.md) routines
+  - [Preparing meals](cooking.md)
+  - [Dressing](clothes.md) and [hygiene](body-hygiene.md)
+  - Spending time together such as quality time and family outings
+- [Educating](education-how.md) the children
+  - This often includes [homeschooling](education-homeschool.md), commuting, and helping with homework
+  - Choosing activities
+  - Teaching important [values](values.md)
+- [Health](body-health.md) and [safety](safety.md)
+  - Doctor visits and making medical choices
+  - Supervising playtime and monitoring friends
+- [Religious](religion.md) guidance
+  - Attending church
+  - Setting house rules and instilling discipline
+  - Giving moral advice and teaching beliefs
