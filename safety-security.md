@@ -66,6 +66,7 @@ One way to protect against invasion is to have multiple barriers, with degrees o
   - multiple firewalls with different [encryption protocols](encryption.md) for each layer
 - However, every new security layer creates more complexity, which can often expand the attack window.
   - In particular, new complexities remove the [intuitive](mind-feelings.md) aspects of human behavior, which permits more [social engineering](cs-infosec-socialengineering.md).
+- The answer is to always have only 1-2 entry points, rigorously enforced, to move to a higher-trust area.
 
 ## Security specializations
 
@@ -181,6 +182,12 @@ Always communicate the presence of a security system.
 Only communicate the threat of the security system, but not its specifics.
 
 - Knowledge of a particular system can lead to knowledge of that system's procedures.
+
+Defenders think in lists, attackers think in graphs.
+
+- To ensure everything is safe, defenders have rigorous checklists to ensure they're doing everything correctly.
+- At the same time, attackers are thinking of pathways to get to their target.
+- The only way defenders can succeed is to turn those lists into graphs themselves by finding patterns, which is done through [analyzing](logic.md) the attackers' [purposes](purpose.md).
 
 ### Personal security
 

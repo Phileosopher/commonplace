@@ -33,7 +33,7 @@ Revenue - The money a business receives for its commercial activities
 
 Risk - aka Volatility, the possibility of financial loss, used in investing to determine the most marketable return
 
-Rounding Error - An error that rounds a number upward or downward, a natural product of [computer-based math](math-cs.md)
+Rounding Error - An error that rounds a number upward or downward, a natural product of [computer-based math](cs-math.md)
 
 ## S
 

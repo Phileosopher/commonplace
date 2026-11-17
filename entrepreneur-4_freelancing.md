@@ -105,9 +105,7 @@ Rent a room in your [home](home-maintenance.md) or secondary property:
 
 [Save](money-saving.md) and [invest](money-investing.md) extra money.
 
-## Other ideas
-
-Some things won't necessarily make *much* money, but can add a small amount of income:
+Some things won't necessarily make *much* money, but can generate a small income:
 
 - Look for [tax-favored](money-accounting.md) improvements and tax rebates for various lifestyle decisions.
 - Cash in your company's paid vacation days in at the end of the year instead of using them.
@@ -139,3 +137,10 @@ Sell things you never use, don't need, or can find affordably:
 6. Only give things away when you either can't sell them or you know someone who legitimately needs them:
    - Unless it's something someone specifically wants, donating money is usually *far* more meaningful and useful than valuable possessions.
    - Most charities will sell that item instead of you, so you're simply giving them more work than giving them cash.
+
+## Using a platform
+
+Be careful which platform you use for freelancing, since that platform may close down or adopt a very unfair pricing model.
+
+- Ideally, spread your services across multiple platforms.
+- The best option, however, is to eventually [build a website](cs-software-webdev.md) to showcase your work and allow direct sales.

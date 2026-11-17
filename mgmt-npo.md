@@ -16,7 +16,7 @@ Further, there are definite [political incentives](politics-conservativeliberal.
 
 - Over time, every NPO will drift leftward due to these external pressures ([O'Sullivan's First Law](groups-large-lawsaxioms.md)).
 
-## How the money flows different
+## How the money flows differently
 
 To start with, the essence of an NPO's cash flow is from donations.
 
@@ -32,17 +32,24 @@ Many NPOs only exist due to a [tax-advantaged arrangement](money-accounting-taxe
 
 However, NPOs can't simply spend money as they receive it.
 
-1. In the [accounting](money-accounting.md), many donations are earmarked with some cause or purpose tied to its donation (e.g., a homeless shoe fund).
+1. In the [accounting](money-accounting.md), many donations are earmarked with some cause or purpose tied to its donation (aka a "restricted donation", e.g., a homeless shoe fund).
 2. For that purpose, the fund can be used freely, but it can't be used for anything else without [some perversion of the truth](people-image-distortion.md).
 3. To that end, an NPO can have millions of dollars in cash, but are completely unable to use it for anything except a need that nobody seems to have.
 4. Due to this extra money, many NPOs will [invest](money-investing.md) their money while they wait for it to be needed.
 
-And, the scarce resource in most NPOs is money *far* more than time.
+Sadly, restricted donations often generate *far* more publicity than unrestricted donations, so they're a necessary evil.
+
+The scarce resource in most NPOs is money, *far* more than time.
 
 - Mismanaged resources may waste a *ton* of time, but NPO workers can overlook that more often.
 - However, there is less money, and therefore every project will be either slow or low-quality (Project Management Triangle)
 
 In light of this, [carefully handle your marketing approach](marketing-npo.md).
+
+One of the worst things you can do is to beg for money when you *don't* need it.
+
+- People assume a not-for-profit is a charitable organization, so they will be more generous donating than many for-profit ventures.
+- However, that good faith can turn into outright hostility if they find that a CEO making $500K a year in an organization flush with cash is practically harrassing people for money.
 
 ## The mission
 
@@ -99,3 +106,12 @@ The mark of many successful NPOs is that they have successfully made themselves 
 - Some services will always be present but less necessary (e.g., homeless shelters, ex-con reentry programs) while others may cease to be useful at all (e.g., food security programs).
 - Further, if other groups serve the community better in every way, consider disbanding the NPO or [merging into that group](mgmt-7_changes.md).
   - Everything of value to the organization will make its way to better serve the designated purposes.
+
+Most of the time, however, people will want a not-for-profit to last indefinitely, even if for-profit organizations do a much better job of serving people.
+
+- This is where the leadership board must make decisive, unanimous, clear decisions about what to do with the organization.
+- It may make complete sense to turn the organization into a for-profit model if the mission becomes too vague or the organization has drifted from its original mission too much.
+
+Frequently, expanding partnerships with other organizations will create new conflicts of interest.
+
+- Essentially, your organization may be morally-guided while on its own relying on donors, but to receive generous funding from an organization that empowers an immoral action will quickly devolve to ends-justify-the-means [morality](morality.md).

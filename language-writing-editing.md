@@ -3,6 +3,18 @@
 
 Always edit for simplicity.
 
+Constantly edit and re-edit:
+
+- Most of the writing process is editing, not drafting.
+- Since everyone uses a [computer](cs.md), typographical and simple grammatical errors in any published work are rarely acceptable.
+- Ideally, you should have 5 edits for long-form content such as a book:
+  1. The junk draft, where you dream big and get the information into writing.
+  2. The structure draft, where the information or story should flow coherently from point to point.
+  3. The rough draft, which is an actual manuscript that could theoretically be "good enough".
+  4. The surgery draft, where you pare down the information to only what's necessary (since you added quite a bit as you edited).
+  5. The final draft, which ensures everything is great.
+- If you're using [AI](cs-ai.md) for edits, make sure it's *not* for anything past the rough draft.
+
 We [understand](mind-understanding.md) things proportional to how few words we need to say them:
 
 - Aim for brief, simple sentences.
@@ -43,11 +55,6 @@ Good writing sounds excellent when read out loud:
   - Read your work aloud to nearby family members.
 
 Write unapologetically: if you feel you must concede something or use a quote for an expression, don't use it.
-
-Constantly edit and re-edit:
-
-- Most of the writing process is editing, not drafting.
-- Since everyone uses a [computer](cs.md), typographical and simple grammatical errors in any published work are rarely acceptable.
 
 If you *must* pad out printed pages:
 

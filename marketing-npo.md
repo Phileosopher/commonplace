@@ -20,6 +20,8 @@ At the farthest end, the most lucrative NPOs have a very predictable pattern to 
 8. Slowly ask for larger increments as they become [habituated](habits.md) to consistently give.
 9. Once they have been committed for at least several months to a few years, ask them to ask others as well to give.
 
+While the model is effective, it is a predatory tactic that preys on the donors' [guilt](mind-feelings-shame.md).
+
 Further, many NPOs also find ways to incorporate selfishness into donors' giving to make them feel their selfishness is actually selfless.
 
 - Indicating a type of [religious](religion.md) promise that God will financially bless them for giving

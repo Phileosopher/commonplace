@@ -275,7 +275,7 @@ Throughout the record keeping, accountants often plug small numbers to correct r
 - Entry reversal swaps a credit entry with a debit.
 - Transposition errors swap digits inside numbers (meaning the discrepant amount can be divided by 9).
 - Rounding errors adapt the number to an approximate value, and can create a snowball effect later (e.g., 2.9 becomes 3).
-  - The [two-based number system](math-cs.md) of computers means computer-based accounting is *always* at risk of rounding errors.
+  - The [two-based number system](cs-math.md) of computers means computer-based accounting is *always* at risk of rounding errors.
 - Errors of commission mean it was entered correctly to the correct account, but the value is wrong (e.g., applied payment to the wrong invoice).
 - Error of principle (aka "input error") means it doesn't conform to GAAP.
 
