@@ -33,6 +33,10 @@ Some independent game developers find ways to cleverly work with ludonarrative a
 
 To advance the game's events, there's an invisible box in the game world called a "trigger volume" that starts an action when the user enters or exits it. For the savvy gamer, it becomes absurdly obvious by how an event happens suddenly, so setting events on a randomly generated delay of at least several seconds can add to the realism.
 
+Since game development is a lot of work, many developers decide to insert easter eggs into the game, which are simple references to the developer or something outside the game's in-world narrative.
+
+- The original easter eggs were an act of corporate rebellion, back when developers weren't given credit for the games they developed.
+
 ## Appeal
 
 A game has to be [fun](fun.md), but this "fun" represents three very specific domains:
@@ -107,6 +111,8 @@ For some time in the mid-1990s, game installers took advantage of multimedia gra
 
 In the mid-1990s, game CDs had a then-staggering memory capacity, so full-motion [video](engineering-graphics.md) could fit on it (though it was pretty lame at first). One form of game was called QuickTime events, named after Apple's then-new QuickTime protocol. The idea was that a full video would play, and the player would have to press a button when prompted. The pinnacle games of this were Dragon's Lair and Night Trap that were literally *nothing* but QuickTime events. They weren't particularly fun to play, but were novel enough to draw attention.
 
+As [networks](cs-networks.md) developed more bandwidth capacity, many gamers would combine multiple game consoles or computers to create LAN parties, where upwards of 16 people would play mostly first-person shooter games like Halo or Counterstrike together.
+
 [Memory](cs-memory.md) constraints limited most games in the early and mid 1980s, so they all had some relatively similar features. Later games (especially after the 2010s) would imitate them for nostalgic/artistic effect:
 
 - No discernible plot, or it was in the supplied [manual](language-writing-documentation-cs.md). Often, the goal of the game was a recorded high score, and maxing out the score (which was a feat of extreme skill or [exploitation](mind-creativity-hacking.md)) would make the game crash.
@@ -129,6 +135,34 @@ There's a general economic gap in the industry that has arisen.
 - Of those games, some people who get enough positive attention will quit their job, work with other developers, and devote their life to that game for ~3 years.
 - The middle ground is missing, where 1-2 developers can create a game over the course of a few months and see if they can turn a profit before making something more substantial.
 - This trend seems to be the standard due to a confluence of factors, so it will likely persist for decades.
+- One consequence of this trend is that, beyond free user-generated mods to AAA games, there's a very small pipeline between [creative](mind-creativity.md) ideas in independent games versus using their implementation in AAA games.
+
+## Social effects
+
+The increased realism of games creates quite a few social consequences.
+
+Games have a soft correlation with better cognitive performance.
+
+- Veterans with PTSD have had their symptoms alleviated by playing Tetris.
+- Depending on the game mechanics, children have improved cognitive performance in various tasks.
+
+There is an unclear [political](politics-conservativeliberal.md) consequence from how little we know about the impact of video game violence.
+
+- On one side, a video game is reproducing real-life circumstances that can easily desensitize gamers to violence they'd *never* otherwise commit (e.g., Grand Theft Auto series).
+- On the other, video game [AI](cs-ai.md) is so inaccurate in most contexts to real life that the player very quickly recognizes the human-looking non-player characters are simply computer code.
+- However, there are reported instances of game developers diagnosed with PTSD due to a game's violence.
+
+Online MMO games suffer absolutely everything that exist in association with [the human condition](humanity-universals.md).
+
+- There was a glitch in World of Warcraft in 2005 called the Corrupted Blood incident that actually reproduced real-life pandemic behaviors.
+- Games like Roblox are built to become [addictive](addiction.md) for children, but the lack of parental supervision mean child sex traffickers also inhabit that space.
+
+However, there are also other unaddressed impacts that come from excessive gameplay:
+
+- Some games promote excessively losing, which can create a culture of people who can accept loss more than they should.
+- Horror games can easily merge into our [imagination](mind-imagination.md) and advance delusions about reality.
+- The relatively easier challenges of most games can create delusions about creating [results](results.md), specifically in underestimating how much effort things take to do.
+- The low-context dialogue present in most games can create an impaired [ability to socialize](people-friends.md), and at greater levels [replace friends altogether with awful alternatives](https://gainedin.site/diet-social).
 
 ## Versioning
 
@@ -138,10 +172,19 @@ Ever since the internet (and since online stores like Steam that also manage [up
 
 For many [open-source](legal-ip-floss.md) games, they're *never* officially done because of the constant improvements added by independent developers.
 
-Game developers will sometimes work on an Early Access game until they understand the best way to balance it, then release that game from Early Access a few months before selling almost the same game entirely as a full version. To hide this, they'll often change the theme (e.g., medieval, then space).
+Game developers will sometimes work on an Early Access game until they understand the best way to balance it, then release that game from Early Access a few months before selling almost the same game entirely as a full version.
+
+- To hide this, they'll often change the theme (e.g., medieval, then space).
 
 If a game becomes commercially successful, game developers can get more money relatively easily by creating expansions/addons/DLC (downloadable content):
 
 - They typically only add new graphical assets or tweak small mechanics of the game, and some are simply designed to support the developers.
 - However, some games may make the progression through the base game impossible without the DLC, and others can add *hundreds* of DLC.
 - In fact, some games are entirely *[free](legal-ip-floss.md)*, with the expansions being most of the game's content.
+
+Sadly, publishers often don't maintain games indefinitely after they're not making money from them, and they'll frequently [end-of-life](cs-software-versionctrl.md) a game that has a devoted fanbase.
+
+- Legally, since the game *is* the [intellectual property](legal-ip.md) of the publisher, they have every right to do this, even if it's [unethical](morality.md).
+- This can be especially egregious if the game was extremely popular or the publisher wants them to pay for a newer version of the game.
+- In this context, many [hackers](mind-creativity-hacking.md) will break open the code and release it for everyone to continue playing it if it's popular enough.
+- At this point, [87% of classic video games are now completely unavailable](https://gamehistory.org/87percent/).

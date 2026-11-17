@@ -33,6 +33,7 @@ Gaming computers are the most expensive consumer-grade computers on the market, 
 5. Across the internet, the demand for rapid-response [networking](cs-networks.md) in many genres is a perpetual need, for *both* player input and [visual output](engineering-screen.md).
 6. In multiplayer games that need computer players (e.g., a 2v2 game with 3 humans), the [AI](cs-ai.md) has to have enough logic to permit the player to feel like the "bot" is human-like.
 7. [Graphics](engineering-graphics.md) technology is often driven by large-scale game developers, who build incredibly elaborate designs for their games that need ever-increasing [processing power](cs-cpu.md). This ranges from the character designs all the way to expansive and beautiful "skyboxes" and long-distance rendering to recreate extremely large worlds.
+8. Frequently, the games require extensive playtime, so the controllers will have to be ergonomic enough to not give people repetitive strain injuries.
 
 This means you need *lots* of processing power to make sure it stays above 30-60 FPS (frames per second). Most modern games require a dedicated GPU (i.e., a CPU that only processes graphics) strictly for this reason.
 
@@ -41,6 +42,10 @@ At one time, producing games became absurdly complicated because of the limits i
 - e.g., it's relatively easy to set up a static display (e.g., player score and health) overlaid over a scrolling portion (where the game was happening) frame-by-frame by rendering the scrolling part and then rendering the static part on top of it.
 - However, in the 1990s Nintendo Entertainment System, the developers had to [hack](mind-creativity-hacking.md) the CPU to halt drawing one portion with a predetermined sound that forced the hardware to stop, then used the hardware's "collision detection" bit to draw the other part.
 - Even through to today, vintage [game emulators](cs-distsys-vm.md) are notoriously difficult to build because the software must reproduce the individual clock cycles and constraints of the original hardware.
+
+There are some amazing hacks that game developers used in the past to sidestep hardware limits.
+
+- The Elder Scrolls III: Morrowind on Xbox actually put an image on the screen, then rebooted the entire console to make the game correctly load its comparatively large world.
 
 ### Netcode
 
@@ -131,11 +136,11 @@ In online games that have in-game currency and permit players to trade with each
 - If the developers only permit cash to flow into the system (i.e., through natural gameplay) but don't allow it to flow *out* of the system, the bartering will slowly yield a natural inflation.
 - To that end, most online game developers have to deal with rudimentary economic policy concepts.
 
-Due to [the nature of specialization](jobs-specialization.md), most strategy games suffer tremendously from a failure in the developers understanding [good managmeent](mgmt-1_why.md).
+Due to [the nature of specialization](jobs-specialization.md), most strategy games suffer tremendously from a failure in the developers understanding [good management](mgmt-1_why.md).
 
 - Military strategy may be the most accurate, since the aspects of combining resource-gathering, [logistics](logistics.md), and [technological development](technology.md) are relatively easy to observe from military history (e.g., Command & Conquer).
 - However, most other management games (e.g., city planning) will depict the player's [decision-making](mind-decisions.md) as being the dominant factor against opponents' decisions.
-  - In reality, unless there's effectively a dictatorship (e.g., [monarchy](politics-systems.md), corporate CEO) most people in a vast system will make unilateral decisions that develop the system in new and unprecedented ways.
+  - In reality, unless there's effectively a dictatorship (e.g., [monarchy](politics-systems.md), corporate CEO) most people inside a vast system will make unilateral decisions that develop the system into new and unprecedented pathways.
   - Further, even in a centrally-planned system, leaders are typically constrained by popular opinion and can't make dramatic decisions without everything at least temporarily falling apart.
 - Naturally, this creates a break from realism when we mix city-planning and military strategy (e.g., 4X games).
 - The ideal management game would incorporate the following:
@@ -144,3 +149,15 @@ Due to [the nature of specialization](jobs-specialization.md), most strategy gam
   3. The player's decisions affect unstated variables that affect how easy it will be to do things in the future.
   4. The player's character is still held responsible and scored on at least some of the things they didn't decide.
 - Unfortunately, the ideal is difficult to algorithmically generate, so it usually only sits within the context of a [story](stories-why.md).
+
+There is also an unspoken [political](politics-conservativeliberal.md) consequence from how little we know about the impact of video game violence.
+
+- On one side, a video game is reproducing real-life circumstances that can easily desensitize gamers to violence they'd *never* otherwise commit (e.g., Grand Theft Auto series).
+- On the other, video game [AI](cs-ai.md) is so inaccurate in most contexts to real life that the player very quickly recognizes the human-looking non-player characters are simply computer code.
+
+However, there are also other unaddressed impacts that come from excessive gameplay:
+
+- Some games promote excessively losing, which can create a culture of people who can accept loss more than they should.
+- Horror games can easily merge into our [imagination](mind-imagination.md) and advance delusions about reality.
+- The relatively easier challenges of most games can create delusions about creating [results](results.md), specifically in underestimating how much effort things take to do.
+- The low-context dialogue present in most games can create an impaired [ability to socialize](people-friends.md), and at greater levels [replace friends altogether with awful alternatives](https://gainedin.site/diet-social).

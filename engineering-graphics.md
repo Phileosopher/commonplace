@@ -42,6 +42,8 @@ For a synchronized experience, each screen is maintained on an "aspect ratio", w
 - 5:4 - a squared-off format that didn't last long, at 1280x1024.
 - 1.85x1 and 2.35x1 - the standard for digital cinema with non-square pixels, moving up from 1920x1440, 2048x1536, and 4096x3112.
 
+Aspect ratio is very convenient because pixel sizes don't matter anymore, and the specific type of screen or hardware is mostly only relevant to how it changes the user's experience due to input availability and color richness.
+
 Computer screens are constantly getting better, but the pixel density of mobile devices typically lag behind larger screens.
 
 Some standard sizes are described by encoded jargon:

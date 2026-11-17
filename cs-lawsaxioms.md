@@ -17,9 +17,7 @@ Van Loon's Law - Societies develop technology when they can't [make people do th
 
 ## Dev/Design
 
-Least Power Rule - The least powerful language is suitable for any given purpose because it's easier to reuse and secure.
-
-- Corrolary: Atwood's Law - If it can be, it eventually will be written in JavaScript.
+Bushnell's Law - [UI](engineering-design-cs.md) should be easy to become familiar with, but challenging to master.
 
 Cupertino Effect - The stupidity of computers and [bias](mind-bias.md) of computer scientists mean they'll frequently override a common use case (like "cooperation") for an obscure one (like "Cupertino" instead of "co-operation").
 
@@ -32,6 +30,10 @@ Greenspun's Tenth Rule - Any sufficiently complicated C or Fortran program conta
 - Morris' Corollary - This includes Common Lisp.
 
 Kranzberg's Third Law of Technology - Technology breaks apart into "packages".
+
+Least Power Rule - The least powerful language is suitable for any given purpose because it's easier to reuse and secure.
+
+- Corrolary: Atwood's Law - If it can be, it eventually will be written in JavaScript.
 
 Liskov Substitution Principle - When inserted into a system, a subtype must be interchangeable with its parent type (e.g., if Type B is a subtype of Type A, then Type A can fit into everything that Type B fits into).
 

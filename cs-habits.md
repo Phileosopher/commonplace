@@ -39,6 +39,11 @@ Beyond direct efficiency, the less-than-obvious reason for this "yak shaving" is
 
 - Badly written [documentation](language-writing-documentation-cs.md), terribly commented code, and arbitrary constraints in code that "works" are all time-consuming traps waiting to be sprung later on.
 
+One of the ways to optimize code is to use a Huffman code, which is an algorithm built around the following to speed up availability:
+
+1. Calculate the estimated chance of a particular value of code representing as an input.
+2. Organize the code reference linearly relative to its chances of appearing.
+
 ## Acceptance
 
 Persevering in programming is extremely hard because the perfect logic of computers breaks down in computer code. Computers and their code are so deeply complex and challenging, and a developer is *constantly* learning better techniques, that it's impossible to get anything absolutely perfect.

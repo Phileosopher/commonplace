@@ -135,7 +135,7 @@ Norman Augustine's Eighth Law - Cost estimates are typically performed by people
 
 Norman Augustine's Twelfth Law - Building bad products costs more in the long term.
 
-Parkinson's Law of Triviality/Sayre's Law - We feel the intensity of something proportional to its insignificance, so groups spend most of their resources on unimportant details.
+Parkinson's Law of Triviality/Sayre's Law/Bicycle-Shed Effect - We feel the intensity of something proportional to its insignificance, so groups spend most of their resources on unimportant details.
 
 Pesticide Paradox - Using the same tests repeatedly makes those tests less effective over time.
 

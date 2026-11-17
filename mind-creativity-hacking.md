@@ -197,6 +197,7 @@ Using old technology for new tasks:
 Using technology for new tasks *way* beyond what anyone expects of it:
 
 - [How to make a Lego microscope](https://github.com/tobetz/LegoMicroscope)
+- [Adding a hinge to a Game Boy that God never intended](https://posts.decontextualize.com/pocket-sp/)
 
 Inventing something entirely new:
 
