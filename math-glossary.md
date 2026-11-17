@@ -51,7 +51,7 @@ Complex - deals with imaginary numbers as well as real numbers
 
 Composing - combining multiple smaller elements to make larger math elements, opposite of decomposing
 
-Computable or Computational - applies to [computer-based math](math-cs.md)
+Computable or Computational - applies to [computer-based math](cs-math.md)
 
 Connected sum - in topology, the sum of two manifolds
 

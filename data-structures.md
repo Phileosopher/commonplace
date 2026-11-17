@@ -101,7 +101,7 @@ A more advanced type of queue is called a "priority queue", where each value has
 
 ### Graphs
 
-Broadly, graph data structures incorporate [graph theory](math-cs.md). These can include trees and heaps.
+Broadly, graph data structures incorporate [graph theory](cs-math.md). These can include trees and heaps.
 
 ### Containers/collections
 

@@ -145,7 +145,7 @@ There are quite a few mundane functions in nearly *every* high-level language:
 
 - PRINT - spits out information to a screen. It's usually the first thing any programming class teaches. It's called "print" because it *used* to go to a printer before someone attached [screens](engineering-screen.md) to computers!
 - CONCATENATE - adds multiple strings and other variables together. It's pretty much how a computer can say "You win! 18 points!"
-- Arithmetic functions that perform [math](math-cs.md).
+- Arithmetic functions that perform [math](cs-math.md).
 - Conditional statements, as explained below.
 
 Functions are condensed versions of the [many, many tasks a CPU must do](cs-cpu.md). The "print" function, for example, saves a *ton* of trouble by condensing the entire process of outputting to a [screen](engineering-screen.md) down to a simple command. In technicality, *any* command that isn't machine/assembly code is a function!

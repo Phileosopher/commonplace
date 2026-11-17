@@ -5,6 +5,15 @@ Essentially, cybersecurity is [security](safety-security.md), but applied to com
 
 - It's worth noting that the idea of cybersecurity broadens to "information security" or "infosec" when it deals with the people involved, while cybersecurity is the maintenance of the systems themselves.
 
+Most aspiring information security professionals wil try to jump across many of the domain specializations necessary:
+
+1. First, they'll need [basic knowledge of the computer](cs.md).
+2. Then, they'll have to understand [networking](cs-networks.md) and [Linux](cs-os-unix.md).
+3. After that foundation, they need to understand [web development](cs-software-webdev.md) in general.
+4. Then, they need to learn [basic programming and scripting](cs-software.md).
+5. Finally, they can start learning about cybersecurity, security tools, and lots of time practicing in labs.
+6. After a while, they will be able to start successfully [penetration testing](cs-infosec-pentest.md).
+
 Computer security can be complicated, so there are 3 major approaches to it:
 
 1. Ad hoc based, which is essentially doing what [feels](mind-feelings.md) right at the time or vendor recommendations.

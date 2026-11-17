@@ -102,4 +102,4 @@ Further, the symbol "÷" tends to go away in [algebra](math-algebra.md) because 
 Higher-order math will often use *far* more fractions than decimals or integers.
 
 - Fractions can keep things simply represented while complex (e.g., 11/3).
-- Sadly, this is a huge constraint in [computers](math-cs.md), which almost always need to represent information decimally or hold the information in memory in some other weird format.
+- Sadly, this is a huge constraint in [computers](cs-math.md), which almost always need to represent information decimally or hold the information in memory in some other weird format.

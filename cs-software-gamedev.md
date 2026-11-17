@@ -75,7 +75,10 @@ Designing a good game requires [graphics development](engineering-graphics.md), 
 
 Today's game development has many drag-and-drop interfaces that turn game programming into far more of a dynamic moving visual art than simply a highly-involved domain of [software development](cs-software.md).
 
-The simplicity of making games now has created a heavily saturated market of game developers, and the increased demand from all the people who want to play games has made it a heavily competitive domain. Developers are *constantly* stealing [intellectual property](legal-ip.md) from one another, and most of the ideas from AAA game developers are blatantly pulled from an indie developer who wouldn't be able to sue for copyright infringement. In the long-term, AAA games spend so much on mass [marketing](marketing.md) that they receive credit for new features or gameplay elements.
+The simplicity of making games now has created a heavily saturated market of game developers, and the increased demand from all the people who want to play games has made it a heavily competitive domain.
+
+- Developers are *constantly* stealing [intellectual property](legal-ip.md) from one another, and most of the ideas from AAA game developers are blatantly pulled from an indie developer who wouldn't be able to sue for copyright infringement.
+- In the long-term, AAA games spend so much on mass [marketing](marketing.md) that they receive credit for new features or gameplay elements.
 
 For each genre or style, game developers generally move through a [trend](people-trends.md) of motivations that drive them into the industry:
 
@@ -119,6 +122,13 @@ Online games tend to use "leaderboards", online high score systems that track *e
 Since the late-2000's, most [graphics](engineering-graphics.md) trends have moved toward trying to reproduce the constraints and artifacts from video [cameras](engineering-camera.md). This trend hasn't stopped yet as of 2023, and has even gone as far as reproducing grit and water spots on the screen, which destroys the immersion of controlling a proxy character.
 
 One trend that started around the time Fortnite became popular in the late-2010's is to release the multiplayer game for free, then charge for the single-player experience. This allows the developer to collect user data, both to [reconfigure](cs-software-redesign.md) the software to make it more addicting or to [sell the data outright](cs-bigtech.md).
+
+There's a general economic gap in the industry that has arisen.
+
+- Many, *many* games are released for free after a very short game jam. They're often well-received, have lots of [bugs](cs-software-redesign.md), and will only capture the player's attention for less than a half hour.
+- Of those games, some people who get enough positive attention will quit their job, work with other developers, and devote their life to that game for ~3 years.
+- The middle ground is missing, where 1-2 developers can create a game over the course of a few months and see if they can turn a profit before making something more substantial.
+- This trend seems to be the standard due to a confluence of factors, so it will likely persist for decades.
 
 ## Versioning
 

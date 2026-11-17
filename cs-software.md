@@ -5,7 +5,7 @@ There's a distinct difference between front-end and back-end development, though
 
 - "Front-end" development is making code to build out a [user experience](engineering-design.md), often on the [internet](cs-sofware-webdev.md).
   - Front-end work is often very visible, and the finished product is very clean.
-- "Back-end" development is working heavily with [databases](database.md) and [algorithms](cs-langs-algorithms.md), typically with lots of [math](math-cs.md).
+- "Back-end" development is working heavily with [databases](database.md) and [algorithms](cs-langs-algorithms.md), typically with lots of [math](cs-math.md).
   - Back-end work often culminates in nothing more than an [API](cs-langs-features.md).
 
 Categorically, there are three major types of software:
@@ -27,7 +27,7 @@ All software, no matter how it was created ([assembly code](cs-langs-specific-as
 Anyone working with code must have a few specific skills:
 
 - Able to see a logical pattern from start to finish (which is largely trainable, especially with puzzle/coding games).
-- Understand [math concepts](math-cs.md) (mostly the basics, since code is *always* working with math).
+- Understand [math concepts](cs-math.md) (mostly the basics, since code is *always* working with math).
 - [Creativity and imagination](mind-creativity-how.md) to see the product and [how the user will interact with it](engineering-design.md).
 - The ability to mentally visualize the large-scale image of what their software will do.
 

@@ -160,7 +160,7 @@ Other times, they just want to do basic math and use the new number instead:
 - thatNumber = thatNumber - 5
 - thatNumber = thatNumber * 5
 - thatNumber = thatNumber / 5
-- thatNumber = thatNumber [% 5](math-cs.md)
+- thatNumber = thatNumber [% 5](cs-math.md)
 
 INSTEAD:
 

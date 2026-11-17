@@ -98,21 +98,32 @@ Of course, these 0s and 1s are difficult to program with, which is why [assembly
 
 When the processor is able to handle words that are smaller than the register, they use a weird informal word called "endianness". Basically, big-endian memory holds it at the "big end" or back of the register (e.g., 0000000010101111) and little-endian on the "little end" or front (e.g., 1010111100000000). This feature allows for backwards compatibility with old [operating systems](cs-os.md) or odd-sized registers.
 
-## Better CPUs
+## Better CPU hardware
 
 CPUs travel at the speed of electricity or light, but the "speed" of a CPU is basically how many computations it can do per second, measured in hZ. Thus, more transistors on a CPU means it's "faster", since it can work through more stuff at once. Multiple cores can also magnify this, assuming that the computer program can be set to run different sets of instructions at the same time (also known as "pipelining" or "parallel processing").
 
-Because of how elaborate (and microscopic!) these transistors are, processors are often the most expensive parts of a CPU, and this trend is likely to continue.
+Because of how elaborate (and microscopic) these transistors are, processors are often the most expensive parts of a CPU, and this trend is likely to continue.
 
 Moore's Law once stated that transistors halved in size about every 2-5 years, but it now broadly refers to how computers simply double in speed, since many processing improvements are more improving the arrangement than necessarily cutting down its size.
 
-These transistors are stunningly small. As of writing this in 2022, there's talk of 2-nanometer transistors coming to the market, which is one billionth the size of a meter. To put that into perspective, a DNA strand has a 2.5-nanometer diameter and an atom is ~0.1 nanometers.
+These transistors are stunningly small. As of 2022, there's talk of 2-nanometer transistors coming to the market, which is one billionth the size of a meter. To put that into perspective, a DNA strand has a 2.5-nanometer diameter and an atom is ~0.1 nanometers.
+
+There are two major philosophies toward processor architectures:
+
+- Reduced Instruction Set Computing (RISC): uses a smaller set of simple instructions that can be executed quickly
+  - This reduces the cycles per instruction, but becomes slower with more instructions per program.
+- Complex Instruction Set Computing (CISC): uses a larger set of complex instructions to perform more operations with a single command
+  - This cuts down on the number of instructions per program, but creases the number of cycles per instruction.
+  - Most standard Intel desktops use this architecture.
+- Advanced RISC Machine (ARM): a low-cost, low-power solution for building RISC with more convenience for smaller form factor implementations
+  - Most smaller and modern devices use this architecture (e.g., graphics cards, laptops, mobile phones).
+  - To make it faster, the design includes a system-on-chip (SoC) system that keeps device driver controllers within the CPU.
 
 Also, while speed is important, energy efficiency is as well, especially with anything that runs off a battery, such as mobile devices. Heat management, especially, is a major concern: silicon CPUs run around 65-80°C (150-175°F).
 
 Plus, reliability is important, since it's not good to have a CPU that fails after a few months of continuous use. Thankfully, energy efficiency goes hand-in-hand with reliability, since less electricity means it generates less heat.
 
-While Average User You can ratchet up or dial back the clock speed to give you better or longer performance ("overclocking" or "under-clocking"), engineers are constantly improving their designs to get more performance out of a CPU:
+Engineers are constantly improving their designs to get more performance out of a CPU:
 
 - Stack the "nanosheets", thin arrays of transistors, together more closely.
 - Stick the media control, graphics, calculating, and a hefty amount of [memory](cs-memory.md) onto the chipset as well.
@@ -127,26 +138,60 @@ Even in relatively mundane chip-making manufacturing plants, the technology to m
 2. Blast the drops with an incredibly precise 25-kilowatt ultraviolet laser. The laser is so precise that it can hit a penny from the moon, which will evaporate the droplets into a small flat cloud.
 3. Fire a second shot that bounces the beam off a series of mirrors that directs the tin onto a silicon wafer. This will directly draw the transistors and other features onto the chip.
 
-There are two major philosophies toward processor architectures:
+## Better CPU instructions
 
-- Reduced Instruction Set Computing (RISC): uses a smaller set of simple instructions that can be executed quickly
-  - This reduces the cycles per instruction, but becomes slower with more instructions per program.
-- Complex Instruction Set Computing (CISC): uses a larger set of complex instructions to perform more operations with a single command
-  - This cuts down on the number of instructions per program, but creases the number of cycles per instruction.
-  - Most standard Intel desktops use this architecture.
-- Advanced RISC Machine (ARM): a low-cost, low-power solution for building RISC with more convenience for smaller form factor implementations
-  - Most smaller and modern devices use this architecture (e.g., graphics cards, laptops, mobile phones).
-  - To make it faster, the design includes a system-on-chip (SoC) system that keeps device driver controllers within the CPU.
+There is far more optimization in software than hardware, since software simply requires code (and therefore improves at the speed of a developer's ability to write it) while hardware requires new fabbing.
+
+One of the side effects of optimizing the code for fewer clock cycles is that the instructions consume less electricity, making them more energy-efficient.
+
+- This does *not* however, mean that the code is simpler. Many rookie [devs](cs-software.md) get tripped up because their 3-line JavaScript code underperforms a 500-line Python script.
+
+One of the best ways to optimize code is to use branch prediction:
+
+- In a single-CPU arrangement, the instructions are sequentially pulled from memory and executed without anything complex.
+- However, to make a CPU faster, it makes more sense to work it like an assembly line:
+  1. Break up the CPU into separate portions (aka a "pipelined" CPU).
+  2. Assign elements of each task to each portion of that CPU.
+- This works very well for 2x and 3x CPUs, but the tasks for delegation create quite a bit of slowdown from the overhead after 3x.
+
+Software can ratchet up or dial back the clock speed to give better or longer performance ("overclocking" or "under-clocking").
+
+NVIDIA was forward-thinking enough that they saw in the mid-2010s that many people would want to use single-core GPUs for other computing needs (e.g., [scientific research](science.md)), so they developed a General-Purpose computing on Graphics Processing Units (GPGPU) system called Compute Unified Device Architecture (CUDA).
+
+- Since [machine learning](cs-ai-ml.md) requires a *ton* of computing power, CUDA has become a core need to get the most computing time out of each processor (since swapping out a graphics card is cheaper than replacing a 4-core embedded chip in the motherboard).
+
+## The industry
+
+While companies like Intel and AMD have maintained a general duopolyon higher-end chips, TSMC has dominated in the low-power cheaper 3-5nm chip market.
+
+- Like anything else, this may change in the near future, especially with politics revolving around China wanting to take over Taiwan, but it has been relatively stable for decades as of the mid-2020s.
+
+It's worth noting that many of the chips from TSMC end up as inputs for other hardware developers like Apple and NVIDIA.
+
+- Apple's M series is a highly powerful system because it combines a high-speed die with *gigabytes* of memory built in to the chipset.
 
 ## Looking ahead
 
-Now that [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has slowed due to the limits of electrons, the future of CPUs is in [quantum computers](cs-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
+At this point, [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has effectively stopped, since the circuits can now theoretically be one molecule wide. Besides better implementations and software, the future of faster CPU hardware may be in [quantum computers](cs-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
 
 Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 
 There are attempts at creating affordable, flexible plastic 32-bit chips. They would expand with IoT's IPv6 allocations dramatically and give *everything* a [networked](cs-networks.md) component. However, beyond the affordability aspect, we should ask whether there's any value in labeling and sending network data about whether milk is expired, so it may take some decades to adopt.
 
-The disadvantage of any new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up. Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](engineering-radio.md) use vacuum tubes anymore for processing information.
+There are also attempts with [machine learning](cs-ai-ml.md) to build language processing units (LPUs) that use the bandwidth delay between the CPU and memory more efficiently.
+
+- The broad concept is that the CPU core would daisy-chain to other CPU cores with memory inside the die instead of sending the output back to memory.
+- The idea has gained traction with the complexity expanding to a matrix of CPUs instead.
+- One big issue is that any new chip design needs to first be created, then have developers actually code it for it to work.
+
+The new hardware is guaranteed to replace the old hardware when it's overall superior.
+
+- Silicon microcomputers were painfully slower than vacuum tube implementations for a long time, until the technology became mature enough, and now almost nobody outside of [radio enthusiasts](engineering-radio.md) use vacuum tubes anymore for processing information.
+
+However, the disadvantage of all new hardware [trend](https://trendless.tech/trends/) is that it takes time for the hardware to catch up relative to any software development.
+
+- *Designing* the objects is now relatively trivial compared to *making* them, which takes lots of money and time to fabricate and then scale it.
+- Further, as fabbing becomes far more intricate, it becomes far more expensive to make them.
 
 ## More information
 

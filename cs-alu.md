@@ -62,7 +62,7 @@ Generally, the fewer gates and less distance electricity travels, the more relia
 
 ## Math
 
-All these logical things can become [base-2 math](math-cs.md).
+All these logical things can become [base-2 math](cs-math.md).
 
 Mathematically, almost everything in computers starts with adding, including subtraction (see below). If you remember second grade, both multiplication and division are fancy versions of adding and subtracting, so adding will effectively let us do *all* the math.
 

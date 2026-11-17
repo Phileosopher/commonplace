@@ -120,7 +120,7 @@ There are 3 major high-level languages that arose before *all* the other languag
 
 - COBOL - a procedural language designed for business use, is still used in the majority of banking transactions because it's *very* fast
 - Fortran - a language designed for heavier computations, has largely been outmoded by many other languages
-- Lisp - a [mathematical](math-cs.md) implementation of computer logic, still exists through [a *wide* variety of implementations](https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages).
+- Lisp - a [mathematical](cs-math.md) implementation of computer logic, still exists through [a *wide* variety of implementations](https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages).
 
 As of 2019, the top languages on WakaTime were:
 

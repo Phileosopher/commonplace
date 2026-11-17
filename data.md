@@ -10,7 +10,7 @@ This is a bit foreign to our minds, since we're able to *not* [understand](mind-
 Human sensory experiences process first with [emotions](mind-feelings.md) that branch outward into reasoning and [logic](logic.md) that then form into [decisions](mind-decisions.md), but computers work through information differently:
 
 1. Computers start with [logic](logic-cs.md), represented as simple 0s and 1s.
-2. Those 0s and 1s then build into [math](math-cs.md).
+2. Those 0s and 1s then build into [math](cs-math.md).
 3. That math can capture a *lot*, including [text](cs-ocr.md) and [visual information](engineering-camera.md), using a vast variety of standards and procedures.
 4. The numerical values can be manipulated, expressed, transferred, and whatever else that the computer is [programmed](cs-langs.md) to do.
 
@@ -50,7 +50,7 @@ Integers (int)
 - Integers are whole numbers, *never* decimals, and can include 0.
 - Comes from putting Boolean numbers together (counting up as 0, 1, 10, 11, 100, 101, 110, etc.).
 - As of writing this, they can be anything between positive and negative 2,147,483,648 (2^21 because of [how bits work](cs-alu.md)).
-- They can be fully operated on (e.g., [add/sub/mult/div](math-cs.md)).
+- They can be fully operated on (e.g., [add/sub/mult/div](cs-math.md)).
 - BigInt is when the number is really large.
 
 Floats/Doubles

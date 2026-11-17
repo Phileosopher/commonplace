@@ -10,6 +10,10 @@ Most tech managers and lead developers are promoted once they've proven their wo
 
 ## Bad culture
 
+Beyond the younger demographic, the tech industry is filled with [Cluster B](mind-neurodivergence-clusterb.md) monsters who exploit [autistic savants](mind-neurodivergence-autism.md), so abuse is often industry-standard more than most other domains.
+
+- The reason for this is because [information](information.md) is one of the fiercest [forms of power](power-types.md) in our modern era, so many people flock to gain some of that power.
+
 You can usually track some signs the company's [culture](people-culture.md) isn't a good fit for you, even when the leadership is [messaging](people-image-why.md) that your values *are* important in that workplace:
 
 - Being forced to not tell others about the cool technology you're working with (such as a non-disclosure agreement) or the company regularly takes workers' intellectual properties for itself.
