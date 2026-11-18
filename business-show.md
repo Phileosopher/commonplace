@@ -57,3 +57,8 @@ While the actual attention-getting techniques move around *very* frequently with
 - "You won't believe what I discovered"
 
 However, be careful with attention-grabbing, since the sensationalism will *severely* make your content a dated relic.
+
+In particular, be careful with *anything* about [politics](politics-conservativeliberal.md).
+
+- Any political dialogue whatsoever is guaranteed to alienate 30-40% of the audience.
+- Further, every bit of political content you create will become dated *very* fast (often within 2-3 months).

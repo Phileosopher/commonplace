@@ -26,6 +26,7 @@ At the beginning, around 1976, were Emacs and Vim:
 - Vim is a humble text editor (originally "vi") converted to a full-service programming solution (i.e., "vi iMproved").
 - Both are highly adaptable, and are still popular because they can be modified to conform to absolutely everything else on this list.
 - However, both are also rather old. They predated conventions like Ctrl+Z/X/C/V for Undo/Cut/Copy/Paste, and both use the word "yank" to describe other, more standardized terms (Vim uses "yank" for "copy" and emacs uses it for "paste").
+- Between the two, the learning curve is very steep, but a little bit less for vim. vim is better to quickly use since it comes with Linux, while emacs is practically its own text-based operating system that has the power to do absolutely everything from within its interface.
 
 [BBEdit](https://www.barebones.com/products/bbedit/index.html) is a text editor designed for macOS released around 1992. It added many of the conveniences of a modern IDE, though it didn't adapt to the modular package-driven ecosystem of modern IDEs.
 
@@ -57,3 +58,11 @@ There are a variety of other IDEs that have generally kept pace with all these [
 
 - JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) works intimately with Java, which happens to be what much of the internet runs on right now.
 - GitHub Copilot has a *very* powerful tab completion, which has a trained [machine learning](cs-ai-ml.md) algorithm that essentially fills in most of the standard code a typical programmer will use frequently.
+
+## LSP
+
+By adding a language server [protocol](cs-standards.md) (LSP), any text editor becomes a superpowered code editor.
+
+- LSP allows the code to be [debugged](cs-software-redesign.md) in real time instead of having to test at runtime, which can save many hours of rewriting.
+  - In practice, the language server actually compiles and interprets the code (to test its effectiveness), but doesn't actually run it.
+- Without this, the text editor would have to have access to the OS directly for many key elements (which is what emacs and vim are built around).

@@ -149,15 +149,3 @@ Due to [the nature of specialization](jobs-specialization.md), most strategy gam
   3. The player's decisions affect unstated variables that affect how easy it will be to do things in the future.
   4. The player's character is still held responsible and scored on at least some of the things they didn't decide.
 - Unfortunately, the ideal is difficult to algorithmically generate, so it usually only sits within the context of a [story](stories-why.md).
-
-There is also an unspoken [political](politics-conservativeliberal.md) consequence from how little we know about the impact of video game violence.
-
-- On one side, a video game is reproducing real-life circumstances that can easily desensitize gamers to violence they'd *never* otherwise commit (e.g., Grand Theft Auto series).
-- On the other, video game [AI](cs-ai.md) is so inaccurate in most contexts to real life that the player very quickly recognizes the human-looking non-player characters are simply computer code.
-
-However, there are also other unaddressed impacts that come from excessive gameplay:
-
-- Some games promote excessively losing, which can create a culture of people who can accept loss more than they should.
-- Horror games can easily merge into our [imagination](mind-imagination.md) and advance delusions about reality.
-- The relatively easier challenges of most games can create delusions about creating [results](results.md), specifically in underestimating how much effort things take to do.
-- The low-context dialogue present in most games can create an impaired [ability to socialize](people-friends.md), and at greater levels [replace friends altogether with awful alternatives](https://gainedin.site/diet-social).

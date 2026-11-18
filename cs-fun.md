@@ -13,6 +13,10 @@ A compilation of silly, nerdy stuff worth memorializing: [EntertainingSpace](htt
 
 [Not a real engineer](https://twitchard.github.io/posts/2019-05-29-not-a-real-engineer.html) - Poetry in[volving slow] motion
 
+## Geeky literature
+
+[Vim Kōans](https://blog.sanctum.geek.nz/vim-koans/) and [The Dharma of Vi](https://blog.samwhited.com/2015/04/the-dharma-of-vi/) - Zen wisdom for the age (a very, *very* specific age)
+
 ## Pranks/optics
 
 [fakeupdate.net](http://fakeupdate.net/) - Fake computer updating screens, great for pranks.
