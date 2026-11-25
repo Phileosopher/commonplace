@@ -32,6 +32,8 @@ As the [internet](cs-sofware-webdev.md) has grown, piracy has as well, and entai
 - Trade secrets
 - Software that specifically empowers piracy
 
+However, the primary fight with governments is to prosecute pirates. Any other effort to "fight piracy" is simply a veiled attempt to [suppress free speech](cs-bigtech-bullying.md).
+
 ## IP agnostic
 
 To start with, computers don't naturally understand copyright-protection because they're not intuitive. Any person with a lick of common sense will feel something is wrong if another person handed them a briefcase stuffed with money sticking out the sides and white powder on it. In a digital sense, computers don't have that sort of intuition unless it was programmed to pay specific attention to it.

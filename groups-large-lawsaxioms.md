@@ -148,6 +148,8 @@ Price's Law - The square root of the number of people in a group do 50% of the w
 - 10 people do 50% of the work in a 100-person group.
 - 50 people do 50% of the work in a 2,500-person group.
 
+Solow Productivity Paradox - After all critical tasks have been automated by [technology](technology.md), everyone becomes increasingly less productive and additional technological improvements barely affect productivity.
+
 Swanson's Law - Every time solar cell manufacturing is doubled, solar cells get 20% cheaper to make.
 
 Wike's Law of Low Odd Primes - If the number of classifications of something is a low, odd, prime number (e.g., 3, 5, 7, 11, etc.), then it's not taking everything into account.
@@ -233,6 +235,8 @@ Rocket and Feathers Effect / Assymetric Price Transmission - In markets where co
 Substitution Effect - By paying people to not work and taxing people who do work, people will be twice as likely to not work.
 
 Third-Party Payer Problem - When a third party is involved in a two-party transaction, the costs slowly increase as the direct connection between the first two parties decreases.
+
+Waffle House Index - When a natural disaster happens, things have become severely bad if the low-quality restaurants have closed for business.
 
 Wagner's Law - The more [technology](technology.md) a country adopts, the bigger its [government](politics-systems.md) gets.
 

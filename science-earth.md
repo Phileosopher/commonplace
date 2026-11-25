@@ -8,9 +8,10 @@ We don't know exactly how this planet was formed. This is hotly contested based 
 
 The views on creationism have a profound effect on earth science.
 
-- If the universe was formed in a completed state, the rock strata are explained by a worldwide flood that happened 6,000 years ago.
-- If the universe evolved all the way from the Big Bang, then the rock strata are the accumulation of millions of years of debris.
+- If the universe was formed in a completed state, the rock strata are explained by a worldwide flood that happened 6,000 years ago (catastrophism).
+- If the universe evolved all the way from the Big Bang, then the rock strata are the accumulation of millions of years of debris (uniformitarianism).
 - Either interpretation validates the conclusions to prove an entirely different but vast body of information.
+- There are multiple records of trees and manmade tools that have been fossilized across multiple layers, so there is at least some deductive proof of catastrophism.
 
 Rocks come in several forms.
 

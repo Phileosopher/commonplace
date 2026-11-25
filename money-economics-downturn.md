@@ -78,7 +78,7 @@ Companies are willing to take cost-cutting risks:
   - They often do it to make the next quarterly report look acceptable.
 - Specific departments are cut or reduced: [research and development](science.md), [marketing](marketing.md), then [HR](business.md).
   - Most companies have to cut down costs to avoid losing too much money.
-- The waitresses and prostitutes are more attractive.
+- The waitresses and prostitutes are more attractive (the "Hot Waitress Index").
   - Companies will hire attractive, low-skill people (e.g., as receptionists), but they will be the first in the company who are laid off.
 
 People have more time, but less money:

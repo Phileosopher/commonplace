@@ -35,6 +35,16 @@ A CPU only really does 2 things, called the "fetch-execute cycle", over and over
 
 While all computers broadly use the [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture), the [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture) often gets used instead. The only main difference is that the memory for programs versus data are processed on separate channels. Most modern computers designed for high-performance use *both* of them, where they split the cache into a "modified Harvard architecture" ("split cache").
 
+In practice, if any computer can perform any possible computation (and therefore any possible [algorithm](cs-langs-algorithms.md)), it is Turing-complete.
+
+Turing machines have been theorized as the upper limit of computation capacity. This may not necessarily be true, but Turing-completeness essentially makes anything effectively a functional computer, including things you would *not* think of conventionally as computers:
+
+- Software like Microsoft Excel is Turing complete, even though it has limits on how it can output data.
+- Advanced text editors (e.g., [IDEs](cs-software-ide.md)) ar eessentially Turing-complete.
+- Many programming-focused games like Factorio allow the game to run computations *inside* the game itself.
+- The Redstone logic gates in Minecraft effectively make it Turing complete, allowing it to run software *inside* the game.
+- Many search algorithms (e.g., sed, awk, find combined with mkdir) are *almost* Turing complete.
+
 ## Peripherals
 
 To work with information coming in (inputs such as a [keyboard](cs-keyboard.md)) and outgoing information (outputs such as a [screen](engineering-screen.md)), the CPU tends to see it as merely specific [memory](cs-memory.md) registers. Memory location 14136, for example, might be where the computer listens to the [mouse](cs-mouse.md) input.

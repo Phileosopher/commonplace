@@ -22,6 +22,11 @@ Further than that, there are levels of sentience, with each level having the ele
 
 In many ways, the structures that form life are akin to remarkably well-designed [technology](technology.md), with many built-in redundancies and fail-safes.
 
+Living beings have natural awareness of [security and perimeters](safety-security.md), but only according to barriers that make sense.
+
+- People naturally understand fences as barriers, but many animals completely disregard them.
+- However, they frequently will detect elements like roads or underground sewage pipes as barriers.
+
 ## Obvious unanswered questions
 
 - How did life begin?

@@ -41,3 +41,7 @@ The standards for 3D animation apply the same, but are broken into far more cond
 
 - Essentially, every animation has to trigger based on the player's interactions.
 - For most animations, there should be conditions and further animations if that animation is interrupted (e.g., when a combination attack is broken by the opponent).
+
+## More information
+
+[Advanced Animation by Preston Blair - 1947](https://www.traditionalanimation.com/2017/advanced-animation-by-preston-blair/)

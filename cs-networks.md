@@ -234,7 +234,8 @@ Just because the QoS packets are marked doesn't necessarily mean the devices wil
 Traffic shaping is an elegant solution for moving traffic correctly.
 
 - Instead of dropping packets, the higher-priority packets will have imposed limits on packet size during congestion.
-- Elephant flows are specific traffic shaping where long-lived traffic moves large amounts of data between endpoints as quickly as possible. They typically override other traffic, so they need to be shaped to permit service to other traffic classes.
+- Elephant flows are specific traffic shaping where long-lived traffic moves large amounts of data between endpoints as quickly as possible (often >20% for 2-3 minutes). They typically override other traffic, so they need to be shaped to permit service to other traffic classes.
+- By contrast, mouse flows only take a small amount of traffic (often <1%), which often contain important data compared to other flows.
 
 Policing is an alternative to traffic shaping, where excess (nonconforming) traffic is treated more harshly and dropped immediately.
 
@@ -258,6 +259,8 @@ There are sometimes multiple ways for a signal to travel across long distances. 
 
 - Link-state routing protocol - build a map of switches connected to each other and picks the route with the fewest jumps between switches. This typically uses the "open shortest path first" (OSPF) protocol to send "link state advertisements" to find open IP addresses.
 - Distance-vector routing protocol - build a map that measures the times for a signal to travel (accounting for latency and other issues) and picks the shortest route by perceived distance.
+
+The routing can be hot potato routing (which tries to push traffic to the closest exit of a provider's network as fast as possible) and cold potato routing (keeps traffic within the provider network as long as possible). Naturally, the hybrid of the two is called mashed potato routing.
 
 An emerging model is called the Software-Defined Wide Area Network (SD-WAN), which pools together multiple WAN circuits into a pooled bandwidth.
 

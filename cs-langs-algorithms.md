@@ -99,7 +99,9 @@ Dijkstra's algorithm is probably the most famous and widely used:
 3. For each of #2's new nodes, add the costs of the connections together as the weight of that new node going back to the starting node.
 4. Cross-reference the presently-known shortest weighted distance, and update if any new distances are shorter.
 
-A* is less used, but a highly efficient improvement. It more-or-less uses an intuitive pathfinding from the *ending* node first.
+A* is less used, but a highly efficient improvement. It more-or-less uses an Djikstra's algorithm from the *ending* node first.
+
+Suurballe's algorithm is another improvement that runs Djikstra's algorithm to find *two* completely separate ideal pathways through a network.
 
 The Bellman-Ford algorithm helps a *ton* with avoiding path loops.
 
