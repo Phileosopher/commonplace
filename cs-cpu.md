@@ -182,7 +182,7 @@ It's worth noting that many of the chips from TSMC end up as inputs for other ha
 
 ## Looking ahead
 
-At this point, [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has effectively stopped, since the circuits can now theoretically be one molecule wide. Besides better implementations and software, the future of faster CPU hardware may be in [quantum computers](cs-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
+At this point, [miniaturization connected with Moore's Law](technology-lawsaxioms.md) has effectively stopped, since the circuits can now theoretically be one molecule wide. Besides better implementations and software, the future of faster CPU hardware may be in [quantum computers](cs-speculative-quantum.md), but more readily may come from light-based implementations instead of electricity (i.e., using photons instead of electrons). The advantage of light is that it generates much less heat, but it can be difficult to capture and manipulate photons.
 
 Because of advances in [3D printing](engineering-printers.md), we may likely see an average person have the ability to make a decently-powerful computer in their own home simply by gathering the components.
 

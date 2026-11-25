@@ -201,7 +201,7 @@ But, the influence of open-source goes farther than its actual basis, and the co
 
 There need to always be freedom advocates willing to obsess about everyone's freedom.
 
-- Literally, every new proprietary technology needs open-source advocates to defend public use of it (e.g., [robotics](cs-robotics.md), [quantum computers](cs-quantum.md), [DNA programming](cs-biological.md)).
+- Literally, every new proprietary technology needs open-source advocates to defend public use of it (e.g., [robotics](cs-robotics.md), [quantum computers](cs-speculative-quantum.md), [DNA programming](cs-biological.md)).
 - The [degradation into a defective society](mgmt-badsystems.md) that violates [individual liberties](people-boundaries-why.md) comes through nobody taking action against those risks when they arise.
 - [Far too often](humanity-universals.md), people tend to react to the crisis *after* it has become severe, instead of facing the issues when they can be easily resolved.
 
