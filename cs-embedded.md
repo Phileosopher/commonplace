@@ -26,7 +26,7 @@ At this point, the only reason anyone really *needs* a new computer is for one o
 
 ## Cheap computers
 
-Computers provide [*many* career options](jobs-2_goals-cs.md), and [some organizations](cs-embedded-manufacturers.md) decided to do something different with them. Instead of selling top-dollar computers, they shaved down as many features as possible to create the cheapest possible computer.
+Computers provide [*many* career options](cs-jobs-2_goals.md), and [some organizations](cs-embedded-manufacturers.md) decided to do something different with them. Instead of selling top-dollar computers, they shaved down as many features as possible to create the cheapest possible computer.
 
 An embedded system is a controller with a dedicated function within a larger system. Even though they originally designed these low-spec computers for [teaching](education.md) and [experimentation](mind-creativity-hacking.md) purposes, they created a *very* affordable general-purpose computer for anyone to use.
 

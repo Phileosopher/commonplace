@@ -52,7 +52,7 @@ Be careful if they're too trusting or anything seems out-of-place *whatsoever*.
 
 ## Awful experiences
 
-The tech industry is filled with young, [trendy](people-trends.md) people, so you're likely to *not* know about awful jobs [until you experience it personally](jobs-suck-cs.md).
+The tech industry is filled with young, [trendy](people-trends.md) people, so you're likely to *not* know about awful jobs [until you experience it personally](cs-jobs-suck.md).
 
 The beauty of the industry is that things move fast, so nobody bats an eye at short-term back-to-back experiences.
 
@@ -60,7 +60,7 @@ Most contracts run on an even number of months, so if you must quit, make sure i
 
 Of course, it might be possible you're battling a general dissatisfaction bleeding into your work environment. It's not uncommon for technically gifted people to be so intelligent that they don't work on other components of themselves such as finding [satisfaction in life](mind-feelings-happiness.md), [getting along with others](people-friends.md), or [finding meaning](meaning.md).
 
-However, some companies are *so* bad that they'll actually fail to contact you *after* getting a job offer. In many ways, [you dodged a bullet](jobs-suck-cs.md).
+However, some companies are *so* bad that they'll actually fail to contact you *after* getting a job offer. In many ways, [you dodged a bullet](cs-jobs-suck.md).
 
 ## More information
 

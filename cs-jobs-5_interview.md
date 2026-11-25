@@ -7,7 +7,7 @@ Most companies will go through 3 interviews while hiring a tech worker (a softwa
 
 - This is an *insane* waste of time, but exists as a [cultural](people-culture.md) afterbirth of how [computer work requires *constant* re-re-verification](cs-software-redesign.md) mixed with how many [middle managers](mgmt-middle.md) don't feel comfortable [taking risks](safety-riskmgmt.md).
 
-To save time, ask before interviewing how many interviews you should expect. If the company's representative can't give you a straight answer, you might be applying to a [bad company](jobs-suck-cs.md).
+To save time, ask before interviewing how many interviews you should expect. If the company's representative can't give you a straight answer, you might be applying to a [bad company](cs-jobs-suck.md).
 
 This is magnifying the trouble with *most* interviews: they don't directly measure your aptitude for the role.
 
@@ -23,11 +23,11 @@ Expect a casual conversation over the phone by a Human Resources representative.
 
 You won't know if anything happens, since the HR worker is probably writing down some notes and deciding if you're a good [culture](people-culture.md) fit or not.
 
-- If you're not a good culture fit, that's probably a good thing. Many HR departments are informally profiling [personalities](people-personality.md) to see if you can be [easily exploited](jobs-suck-cs.md).
+- If you're not a good culture fit, that's probably a good thing. Many HR departments are informally profiling [personalities](people-personality.md) to see if you can be [easily exploited](cs-jobs-suck.md).
 
 ## Automated coding test
 
-The technical interviews are [a complete class of their own](jobs-5_interview-technical.md).
+The technical interviews are [a complete class of their own](cs-jobs-5_interview-technical.md).
 
 ## Human interviews
 

@@ -190,7 +190,7 @@ The one exception to this situation is *trade* unions.
 
 ## Tech industry risks
 
-[Most of the industry is built on lies](jobs-suck-cs.md), and the purpose of [management theories like Agile](mgmt-2_projects-theories.md) is to impress people more than get things done.
+[Most of the industry is built on lies](cs-jobs-suck.md), and the purpose of [management theories like Agile](mgmt-2_projects-theories.md) is to impress people more than get things done.
 
 - However, young managers are *very* common in the industry, who often believe [college](jobs-college.md) guarantees competence.
 - Therefore, most of the tech industry is filled with warning signs, and you should focus instead on what you will have in a role.

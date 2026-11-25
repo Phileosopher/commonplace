@@ -89,7 +89,7 @@ Severe [math](math.md) roles (for geeks who *like* math):
   - NLP Engineer: works specifically with [language-based](language.md) AI implementations.
 - Blockchain Engineer: works with [blockchain and cryptocurrency technologies](cs-blockchain.md)
 
-[Managing people](mgmt-cs.md) (for people who work well with [other people](power-influence.md)):
+[Managing people](cs-mgmt.md) (for people who work well with [other people](power-influence.md)):
 
 - Chief Technical Officer (CTO): makes decisions about all the technology portion of the [organization](groups-large.md)
 - (Role) Manager: [directs a team](mgmt-1_why.md) to get stuff done

@@ -7,7 +7,7 @@ All [the general rules about job-searching](jobs-4_hunt.md) apply completely in 
 
 In the tech industry, a successful job-search will *also* include building and creating. It should focus more in actual achievement than simply understanding [languages](cs-langs.md), [frameworks](cs-langs.md), and [tech jargon](glossary-cs.md):
 
-- Keep on building out your [portfolio](jobs-3_image-cs.md) with good-looking projects.
+- Keep on building out your [portfolio](cs-jobs-3_image.md) with good-looking projects.
 - Learn [better programming](programming-tech.md) and more programming languages, but only to build your projects.
 - Take classes and tutorials to build out measurable accomplishments.
 - Aim less for projects that solve conceptual software engineering problems and more for projects that can solve actual business problems.
@@ -70,7 +70,7 @@ Two conditions affect the tech recruiting world:
 - Many recruitment companies outsource their roles remotely to people who live in *very* low cost-of-living countries (i.e., ~1/10th the cost of living in the Western world). Therefore, 1 commission might pay 3 months' of pay by itself.
 - Most recruiters get a commission for closing a deal (i.e., getting a company to hire a candidate). Depending on how the recruitment company frames it, the pay may be for the one-time hire of that candidate (i.e., no requirement for them to finish or continue a contract).
 
-For this reason, the tech recruiting industry is filled with a barely-fluent army of low-skilled people working a get-rich-quick scheme (not completely unlike [MLM](marketing-mlm.md)). While some recruiters *do* stand out (and are worth [connecting with](jobs-5_interview-cs.md) long-term), it creates a few symptoms:
+For this reason, the tech recruiting industry is filled with a barely-fluent army of low-skilled people working a get-rich-quick scheme (not completely unlike [MLM](marketing-mlm.md)). While some recruiters *do* stand out (and are worth [connecting with](cs-jobs-5_interview.md) long-term), it creates a few symptoms:
 
 - **Constant harrassment during work hours** - set your phone to silent or block calls during those hours, and be *very* careful putting your phone number on your resume.
 - **Contacting for roles that you're in no way qualified for** - completely ignore those requests, maybe block their number.
@@ -104,4 +104,4 @@ However, be careful what sort of advice you glean. Most of the web communities f
 
 ## Interview Request
 
-Having [the right attitude](success-2_attitude.md) makes all the difference in the world, especially when you get that call. From there, you're going to have a battery of [technical interviews](jobs-5_interview-technical.md) and [dialogue with a hiring manager or three](jobs-5_interview-cs.md).
+Having [the right attitude](success-2_attitude.md) makes all the difference in the world, especially when you get that call. From there, you're going to have a battery of [technical interviews](cs-jobs-5_interview-technical.md) and [dialogue with a hiring manager or three](cs-jobs-5_interview.md).

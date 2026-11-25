@@ -9,9 +9,9 @@ All the rules of [setting goals for job-hunting](jobs-1_why.md) apply: know what
 
 However, the tech world cares *much* more than most other industries about long-term awareness of what you want and the [latest industry trends](people-trends.md). Aiming for front-end [web development](cs-sofware-webdev.md) is a mostly different set of technologies and skills than developing [games](cs-software-gamedev.md) or building [hardware](cs-cpu.md). While you'll pick up many "soft skills" along the way that transfer to *all* tech, most hiring managers are asking for a list of specific technologies.
 
-There are [a very large range of roles to choose from](jobs-cs-list.md).
+There are [a very large range of roles to choose from](cs-jobs-industry-list.md).
 
-You might want to crawl into an unimportant role somewhere to pursue [what you *really* want to do](success-1_why.md). The ideal place for this is with [dysfunctional companies](jobs-suck-cs.md):
+You might want to crawl into an unimportant role somewhere to pursue [what you *really* want to do](success-1_why.md). The ideal place for this is with [dysfunctional companies](cs-jobs-suck.md):
 
 - Their company website isn't very [well-designed](engineering-design.md).
 - The company is vague about what they do or the value they add to anyone.
@@ -121,7 +121,7 @@ As a new initiate to tech, you're a victim of the frustration paradox (you don't
 Breaking into any industry is hard, but the tech industry has a few additional troubles:
 
 - Technology is an *absurdly* broad field, with very little legitimate crossover between most skills: [front-end development](engineering-graphics.md) doesn't necessarily mean someone understands how a [database](database.md) works, [machine learning](cs-ai-ml.md) skills usually won't cross over to [game development](cs-software-gamedev.md). For this reason, managers look for a *very* specific set of skills.
-- Larger tech companies require 3 [dialogue-based interviews](jobs-5_interview.md) for most software development roles, and *one* interview is already an inherently stressful experience. Further, [technical interviews](jobs-5_interview-technical.md) are a harrowing experience unique to the software industry.
+- Larger tech companies require 3 [dialogue-based interviews](jobs-5_interview.md) for most software development roles, and *one* interview is already an inherently stressful experience. Further, [technical interviews](cs-jobs-5_interview-technical.md) are a harrowing experience unique to the software industry.
 - Most managers in most tech companies simply aren't willing to invest the energy and time into a junior developer, so you're *very* low-demand, even if 1-2 years of experience would make them climb over themselves to get you on their team.
 
 To compensate for tech's odd standards, adapt from [the standard approach](jobs-2_goals.md):

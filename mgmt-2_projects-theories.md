@@ -141,7 +141,7 @@ More info on its defects: [The Scream Guide to Scrum Anti-Patterns](https://www.
 
 ## DevOps
 
-A specific approach within [IT management](mgmt-cs.md) that combines the development and operations teams to automate and streamline the software delivery process.
+A specific approach within [IT management](cs-mgmt.md) that combines the development and operations teams to automate and streamline the software delivery process.
 
 - While it allows for more frequent and faster releases, it requires a *lot* more communication.
 

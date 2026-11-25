@@ -109,7 +109,7 @@ The extra complexity of larger projects means developers can mix-and-match licen
 Getting funding to be an open-source developer is *not* easy.
 
 - They typically are paid *far* less than standard [Big Tech workers](https://trendless.tech/your-job-sucks/), with some of them even at risk of [homelessness](hardship-homeless.md).
-- Most of them must either [work an unrelated job](jobs-2_goals-cs.md) or use [clever](mind-creativity.md) financing solutions (such as charging to [operate servers](cs-distsys.md) with their software) to pay the bills.
+- Most of them must either [work an unrelated job](cs-jobs-2_goals.md) or use [clever](mind-creativity.md) financing solutions (such as charging to [operate servers](cs-distsys.md) with their software) to pay the bills.
 - Eventually, if the project continues to grow, they *will* need a more direct source of funding, and should consider ways to either turn their project into an [entrepreneurial product](entrepreneur-1_what-cs.md) or give it up for others to maintain.
 
 If the developer's work was relatively easy, but depends on *other* work, then they may simply deflect all donations to those developers' efforts instead.

@@ -44,7 +44,7 @@ There are some clear warning signs, though, that you may be working for a [unive
     - Setting and demanding members fulfill arbitrary deadlines without claiming personal responsibility for any miscommunication.
     - Abusing you or a coworker including sexual remarks, yelling, threatening, name-calling, teasing maliciously, or publicly shaming.
 - Your organization (or at least a business unit of it) is managed by [cult members](people-culture-cults.md).
-  - On a lighter level, many tech companies [interview](jobs-5_interview-cs.md) for what they call a "culture fit", which is directed toward building a small crowd of like-minded people.
+  - On a lighter level, many tech companies [interview](cs-jobs-5_interview.md) for what they call a "culture fit", which is directed toward building a small crowd of like-minded people.
 - Your manager is intimately tracking your performance without informing you (especially frequent in [large tech corporations](cs-bigtech.md)).
   - Massive companies often drive people into the ground, frequently promising stock options for employees who stay a year and burning workers out over a few months.
   - They may place you unexpectedly on a performance improvement program (PIP) where they closely track you, and it can be *very* difficult to get off (if not completely impossible).

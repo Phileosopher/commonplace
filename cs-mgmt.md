@@ -5,7 +5,7 @@
 
 The [specializations](jobs-specialization.md) of a standard [large-scale enterprise system](cs-distsys-enterprise.md) are severe enough that they need independent roles to do all the work:
 
-First, there is a [natural segmentation into specific domains](jobs-cs-list.md) just to get the computers going:
+First, there is a [natural segmentation into specific domains](cs-jobs-industry-list.md) just to get the computers going:
 
 - [Hardware](cs-hardware.md)
 - [Software](cs-software.md)
@@ -21,7 +21,7 @@ Of course, at scale things get more complicated, so they need more robust specia
 
 Since [things need maintenance](https://adequate.life/fix/), there's [IT support and helpdesk](cs-fix.md)
 
-Finally, to deal with the human element including ensuring enough resources and [legal requirements](legal-safety.md), there's [IT governance and management](mgmt-cs.md):
+Finally, to deal with the human element including ensuring enough resources and [legal requirements](legal-safety.md), there's [IT governance and management](cs-mgmt.md):
 
 - Chief Information Officer (CIO): makes [decisions](mind-decisions.md) on the group's [purposes](purpose.md)
 - More executives are often necessary at more scale:

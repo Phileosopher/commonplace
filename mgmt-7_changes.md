@@ -97,7 +97,7 @@ The extra work requires multiple [specializations](jobs-specialization.md) to ke
 - Chief Financial Officer (CFO): [accounting](money-accounting.md), [budget](money-3_budget.md), and [investing](money-investing.md) specialist
 - Chief Marketing Officer (CMO): [marketing](marketing.md) specialist
   - This is an elevation of the Product Manager role
-- [Tech leadership](mgmt-cs.md) including CIO and CTO
+- [Tech leadership](cs-mgmt.md) including CIO and CTO
 
 It is critical to understand each leader's span of control.
 

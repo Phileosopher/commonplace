@@ -151,7 +151,7 @@ This failure, mixed with the complexities of *many* various integrated systems, 
 
 - They will absolutely *need* other software-as-a-service (SaaS) to maintain their sanity.
 
-All of these additional complexities require the [specializations](jobs-specialization.md) endemic to [large groups](groups-large.md), which create [entire institutions for computer management](mgmt-cs.md). Altogether, this may mean [organizations](groups-large.md) serving as "managed service providers" (MSPs) or simply managing [security](cs-infosec-compliance.md) as "managed security service providers" (MSSPs).
+All of these additional complexities require the [specializations](jobs-specialization.md) endemic to [large groups](groups-large.md), which create [entire institutions for computer management](cs-mgmt.md). Altogether, this may mean [organizations](groups-large.md) serving as "managed service providers" (MSPs) or simply managing [security](cs-infosec-compliance.md) as "managed security service providers" (MSSPs).
 
 Further, the conventional host/client relationship (i.e., big computers sending out to comparatively little consumer computers) is easier than [peer-to-peer connections](cs-distsys-p2p.md), which can add even *more* complexities to the arrangement.
 

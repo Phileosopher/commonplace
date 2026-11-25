@@ -1,7 +1,7 @@
 
 # Distributed systems explained
 
-Beyond [cybersecurity concerns](cs-infosec-compliance.md), [management issues](mgmt-cs.md), and [enterprise-scale business approaches](cs-distsys-enterprise.md), distributed systems have other issues at scale.
+Beyond [cybersecurity concerns](cs-infosec-compliance.md), [management issues](cs-mgmt.md), and [enterprise-scale business approaches](cs-distsys-enterprise.md), distributed systems have other issues at scale.
 
 ## Making many computers synchronized
 

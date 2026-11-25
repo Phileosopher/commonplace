@@ -67,7 +67,7 @@ Contrary to most non-technical intuition, completely closed-source software can 
 - Software intellectual property is *very* difficult to enforce, and requires extra legal expenses to maintain it, as well as the chances of a [legal precedent](legal-lawsaxioms.md) of *not* enforcing that intellectual property concluding in a lost suit.
 - While intellectual property can protect ideas, it's only partially effective. If anything is legitimately groundbreaking, the original creator only has a few years of innovation before the idea is blatantly copied.
 - Long-term unawareness of bugs and defects can carry over into future projects, meaning software developers will frequently repeat mistakes they weren't aware they were making.
-- The long-term goodwill or bad faith of the public has more [reputational](legacy.md) benefit than the short-term financial gains or losses from creating software, and a sufficiently qualified open-source developer [will always find plenty of well-paid work](jobs-4_hunt-cs.md).
+- The long-term goodwill or bad faith of the public has more [reputational](legacy.md) benefit than the short-term financial gains or losses from creating software, and a sufficiently qualified open-source developer [will always find plenty of well-paid work](cs-jobs-4_hunt.md).
 
 While open-source software may be freely licensed, the *distribution* for it may not be. It's not uncommon to see open-source software sold on app stores, printed on media, or mailed, with the cost coming strictly from distributing it. Anyone is still free to copy, share, and modify the code.
 
