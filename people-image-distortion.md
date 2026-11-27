@@ -88,6 +88,7 @@ Sentence choice
 
 Comparing numbers/ideas
 
+- Drawing a comparison between two values or ideas that only have partial connections.
 - State an arbitrary number or idea that will seem much less favorable than the one they want to [influence](power-influence.md) people toward.
 - Use extremely specific words or numbers to imply something was particularly [calculated](logic.md).
 - Compare numbers that don't really matter to each other, especially via statistics.
@@ -304,3 +305,16 @@ Multi-organization: referencing
 - On charts, use a bottom value different from zero.
 - On a map or chart, diagram differently sized areas with a similar convention of coloring or numbering.
 - Use color grades that imply dramatic difference in statistically similar sets (e.g., green for <700 people, orange for 700-800, red for >800).
+
+## Advanced tactics
+
+Overall, the method is relatively straightforward in many debates:
+
+1. Get the other side to commit to at least a somewhat reductionist view of their opinions.
+   - If they refuse to agree to that, accuse them of being evasive.
+   - Ideally, the best target is an individual who hasn't thought clearly on the matter until the discussion started.
+   - The most effective way to give the illusion of a dichotomy is a this/that contrast (e.g., black or white, chocolate or vanilla).
+2. Once they commit, prove a small thing wrong to indicate they're not entirely right.
+3. In that instability, make a clear but imprecise connection with a broader philosophical debate (e.g., how shoe preference is connected with support for foreign countries).
+   - It's basically "you're wrong, therefore I'm right".
+   - The purpose is to make their opponent look stupid in public.

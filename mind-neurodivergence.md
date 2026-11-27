@@ -132,9 +132,14 @@ The informal answer to IQ can derive from [computers](cs.md) as "processing spee
 The social impact of IQ differences mean that approximately 20 IQ points (1.3 [standard deviations](math-stat.md)) will create *severe* value differences through how they [imagine](mind-imagination.md) and [plan for the future](mind-decisions.md):
 
 - Low-IQ people will think about the next day or two, make [small talk](language-speaking-smalltalk.md), and find deep stimulation in things like [cooking](cooking.md).
+  - 70-85 is called borderline intellectual functioning (~14% of the population), which isn't formally mental disability, but means a person will be unable to think coherently about the next day.
+  - In modern society, they can talk like most people but struggle with ordinary [reading](language-writing.md).
 - Typical-IQ people will think about the coming weeks, discuss plans and deeper ideas, and find deep stimulation in things like [long-term life plans](maturity.md).
 - High-IQ people will think about the rest of their life, discuss *very* in-depth topics, and find deep stimulation in things like [political theories](politics-systems.md) and [philosophy](philosophy.md).
+  - At about 130, the person becomes utterly bored, but will also express frustration with others who don't see how obvious something appears to be.
+  - This general frustration is a huge reason 130+ IQ have social problems.
 - Altogether, the experience is a test in patience for the intelligent person, and a test in tolerating disrespect in the less intelligent one.
+  - At approximately 30 points, there is an inpenetrable gap between the ability to interact between people.
 
 Sadly, most people interpret intelligence as directly correlated with [wisdom](mind-understanding.md) or [goodness](morality.md), which can sometimes allow [system-wide abuse](mgmt-badsystems.md) through [indoctrination](people-culture-cults.md) of unintelligent people by intelligent ones.
 

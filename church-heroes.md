@@ -15,6 +15,22 @@ He traveled all over teaching as a customary philosopher, and started his own sc
 
 He was tried and beheaded by Junius Rusticus under Marcus Aurelius' reign sometime between 162-168. To this day, the word "martyr" is a broad term for what he had done.
 
+## Lawrence
+
+In 258 AD, Lawrence was one of seven deacons under Pope Sixtus II.
+
+The emperor Valerian saw a reason to arrest Lawrence and claim the church's wealth. When Lawrence heard of this, he gave all the money in his possession to the poor, widows, and orphans, including selling the sacred vessels.
+
+The prefect of Rome was reported to respond with a very specific message:
+
+- You Christians say we are cruel to you, but that is not what I have in mind. I am told that your priests offer in gold, that the sacred blood is received in silver cups, that you have golden candlesticks at your evening services. Now your doctrine says that you must render to Caesar what is his. Bring these treasures—the emperor needs them to maintain his forces. God does not cause money to be counted; he brought none of it into the world with him—only words. Give me the money, therefore, and be rich in words.
+
+In response, Lawrence gathered th widows, orphans, blind, lame, and poor, then brought the to the prefect. He was quoted as saying, "These are the true treasures of the Church."
+
+The prefect was furious and decreed Lawrence should die, but very slowly. They prepared a fire and a grill on it for Lawrence to be slowly roasted. After a long time, Lawrence said "Turn me over! I'm done on this side!"
+
+For this reason, Lawrence has been recognized as the patron saint of comedians and cooks.
+
 ## Telemachus
 
 Somewhere around the year 391 or 404, Telemachus was an Eastern ascetic who went to Rome. He went to a Roman amphitheatre and tried to stop a gladiatorial fight to the death.

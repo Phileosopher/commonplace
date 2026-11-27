@@ -3,6 +3,15 @@
 
 ## Clear deviations from Christ
 
+One of the most difficult forms of false belief to articulate comes through [emotional](mind-feelings.md) Christianity.
+
+- Essentially, there's a belief structure that what someone feels is spiritually significant.
+- However, *tons* of Scripture refutes the significance of our passions (Galatians 5:24, 1 Peter 2:11, Romans 7:5).
+- This is difficult to specify, let alone refute, but is heavily ubiquitous among low-[theology](theology.md) churches.
+  - The clearest indicator is that they will [distrust](mind-trust.md) many things including [a few thousand years of Church history](history-church.md), but won't distrust themselves.
+- This sentiment can easily devolve to [narcissistic behavior](hardship-abuse-narcissist-stages.md) and [leftism](politics-leftism.md).
+  - Many times, it can create a paradox of "don't judge" with "it's right to judge" (when it's convenient).
+
 Gay Theology - Homosexuality is not a sin:
 
 - The Bible clearly indicates that homosexuality is a sin (Romans 1:26-27).

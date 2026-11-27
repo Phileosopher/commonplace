@@ -70,6 +70,15 @@ One way to protect against invasion is to have multiple barriers, with degrees o
 
 ## Security specializations
 
+With some exceptions, most of the domains of security use the primitive of self-defense and martial arts.
+
+- The mindset is essentially [power](power.md) under control, where you are prepared to act if you need to at any time.
+- The scope of the psychological burden of this power varies significantly based on the actual tools being used.
+  - Remote technology is, by far, the easiest, since it involves pressing a few buttons to have something else perform the actual injury and killing.
+  - Sending someone to perform the task gives a sense of insulation from the action, though the psychological burden will travel through the relationship the sender has with the person carrying out the order.
+  - Guns are the easiest in-person self-defense, since they are very easy to operate (point and pull trigger) and can be done from a distance.
+  - Direct contact is the most difficult, with blades and blunt weapons being less trouble than knives (due to the necessary proximity to strike).
+
 The domains of security break apart into many other subdomains:
 
 - [Law enforcement](legal-safety.md) protects against the violation of a culture's [rules](people-rules.md).

@@ -32,6 +32,12 @@ As the [internet](cs-sofware-webdev.md) has grown, piracy has as well, and entai
 - Trade secrets
 - Software that specifically empowers piracy
 
+While human nature will always permit some form of piracy, a rampant piracy issue is a demonstration of a [large organization](groups-large.md) providing insufficient service.
+
+- Most people would happily pay for [intellectual property](legal-ip.md), since they understand that work went into making it.
+- However, if the public at large has the opinion that the price is [unfair](morality-justice.md) or, worse, they can't even access the product, then there will be plenty of demand for piracy.
+- From that point, there is nothing any government can do to prevent piracy from happening barring [severe punishment](people-rules-methods.md).
+
 However, the primary fight with governments is to prosecute pirates. Any other effort to "fight piracy" is simply a veiled attempt to [suppress free speech](cs-bigtech-bullying.md).
 
 ## IP agnostic

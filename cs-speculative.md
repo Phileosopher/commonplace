@@ -48,6 +48,14 @@ This will likely never work, since there are simply too many complexities to cen
 
 However, it will persist as a speculation forever because of [greed](morality-evil.md).
 
+## Excessive AI
+
+There are a *lot* of [speculations around AI](cs-ai.md), mostly because it represents the idea that a person can create life, but also captivating the mystery representative within the space alien [mythology](stories-myths.md).
+
+On the far end, there's a silly idea of instrumental convergence, where an AI could theoretically be programmed to maximize paperclip production. Without any guardrails or ethical constraints, the AI would then continue to create paperclips until it effectively converted all matter in the known universe into paperclips.
+
+However, the AI we have is far, *far* stupider, and we don't tend to [trust](mind-trust.md) trustworthy people, let alone a foreign computer system made by a [large group of people](groups-large.md).
+
 ## Interstellar travel
 
 Computers already assist with space travel, but there are presuppositions that we could find ways to bend spacetime to travel farther and faster.

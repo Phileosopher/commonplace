@@ -168,6 +168,8 @@ Celine's Second Law - Communication only happens among equals.
 
 Chris Carter Effect - If people conclude others won't finish what they're trying to say, they'll stop paying attention.
 
+CNN Effect - 24-hour news coverage will affect leaders' decisions.
+
 Fleeting Demographic Rule - Most things are safe to repeat after a few years of not expressing it.
 
 Frege's Principle - The meaning of a complex idea/expression is each meaning of its simpler expressions and the rules that combine it.
